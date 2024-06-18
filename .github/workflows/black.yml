@@ -9,6 +9,4 @@ jobs:
     - uses: actions/checkout@v4
     - uses: psf/black@stable
       with:
-       options: "--check --verbose"
-       src: "./bin"
        version: "~= 22.0"
