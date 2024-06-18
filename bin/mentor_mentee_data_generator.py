@@ -5,12 +5,11 @@ from openai import OpenAI
 import PyPDF2
 import os
 import re
-# Set your OpenAI API key here
-#openai.api_key = 'insert your key here'
-client = OpenAI(
-    # This is the default and can be omitted
-    api_key="insert your key here")
+from dotenv import load_dotenv
 
+load_dotenv()
+
+client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
 
 
 def pdf_to_text(pdf_path):
@@ -55,7 +54,7 @@ def generate_samples(prompt, n_samples):
 
 
 # Folder containing the PDFs
-folder_path = '/mnt/belinda_local/daniel/home/MentorMenteeSimulateddata/final'
+folder_path = os.getenv("PDF_FILE_PATH")
 
 # List to store the data
 data = []
