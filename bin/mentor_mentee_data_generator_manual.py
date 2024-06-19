@@ -6,13 +6,13 @@ import PyPDF2
 import os
 import re
 
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
 from langchain.document_loaders import PyPDFLoader
 from langchain.llms import OpenAI
 from langchain.chains.question_answering import load_qa_chain
 from transformers import GPT2TokenizerFast
 
-# load_dotenv()
+load_dotenv(dotenv_path = "")
 
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
@@ -92,7 +92,7 @@ for filename in os.listdir(folder_path):
         prompt_mentor_mentee = f"""
         Generate a mock CV for a student who might be interested in working with this mentor. The CV should highlight relevant skills, education, and experience that align with the mentor's expertise.
         Only answer with CV, DO NOT inlcude any notes or additional text after CV. Generate mock personal information and school names. DO NOT state the name of the mentor in any part of the CV.
-        
+
         Given the following mentor profile:
         {mentor_profile_text}
 
