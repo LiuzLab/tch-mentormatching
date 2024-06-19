@@ -13,7 +13,6 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
 
 
-
 def pdf_to_text(pdf_path):
     with open(pdf_path, "rb") as file:
         reader = PyPDF2.PdfReader(file)
@@ -22,15 +21,20 @@ def pdf_to_text(pdf_path):
             text += page.extract_text()
     return text
 
+
 def preprocess_text(text):
     text = text.replace("\t", " ")
     text = text.replace("\n", " ")
     text = re.sub(" +", " ", text).strip()
     return text
 
+
 def chunk_text(text, chunk_size=1000, chunk_overlap=200):
-    splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size, chunk_overlap=chunk_overlap
+    )
     return splitter.split_text(text)
+
 
 def generate_samples(prompt, documents):
     chain = load_qa_chain(client, verbose=True)
@@ -39,6 +43,7 @@ def generate_samples(prompt, documents):
         response = chain.run(input_documents=[doc], question=prompt)
         responses.append(response)
     return responses
+
 
 # Folder containing the PDFs
 folder_path = os.getenv("PDF_FILE_PATH")
@@ -75,7 +80,9 @@ for filename in os.listdir(folder_path):
         aggregated_cv = " ".join(mock_cvs)
 
         # Append the mentor profile and generated CV to the data list
-        data.append({"Mentor Profile": mentor_profile_text, "Mock Student CV": aggregated_cv})
+        data.append(
+            {"Mentor Profile": mentor_profile_text, "Mock Student CV": aggregated_cv}
+        )
 
 # Check if data list is empty
 if not data:
@@ -86,4 +93,3 @@ else:
     df.to_csv("mentor_student_cvs_final.csv", index=False)
 
     print("CSV file has been created successfully.")
-

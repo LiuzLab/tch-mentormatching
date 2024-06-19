@@ -5,12 +5,14 @@ from openai import OpenAI
 import PyPDF2
 import os
 import re
-#from dotenv import load_dotenv
+
+# from dotenv import load_dotenv
 from langchain.document_loaders import PyPDFLoader
 from langchain.llms import OpenAI
 from langchain.chains.question_answering import load_qa_chain
 from transformers import GPT2TokenizerFast
-#load_dotenv()
+
+# load_dotenv()
 
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
@@ -31,17 +33,18 @@ def preprocess_text(text):
     text = re.sub(" +", " ", text).strip()
     return text
 
+
 def truncate_text(text, max_tokens):
     tokens = tokenizer.encode(text)
     if len(tokens) > max_tokens:
         tokens = tokens[:max_tokens]
         text = tokenizer.decode(tokens)
     return text
-    
-    
+
+
 def generate_samples(prompt):
-    #llm = OpenAI(openai_api_key=api_key)
-    chain = load_qa_chain(client,verbose=True)
+    # llm = OpenAI(openai_api_key=api_key)
+    chain = load_qa_chain(client, verbose=True)
     question = prompt
     response = chain.run(question=prompt)
     return response
@@ -57,13 +60,15 @@ data = []
 for filename in os.listdir(folder_path):
     if filename.endswith(".pdf"):
         pdf_path = os.path.join(folder_path, filename)
-        #Load the PDF
+        # Load the PDF
         loader = PyPDFLoader(pdf_path)
         max_tokens = 3500
         mentor_profile_documents = loader.load()
 
         # Extract text content from Document objects
-        mentor_profile_text_list = [doc.page_content for doc in mentor_profile_documents]
+        mentor_profile_text_list = [
+            doc.page_content for doc in mentor_profile_documents
+        ]
 
         # Join the list into a single string
         mentor_profile_text = " ".join(mentor_profile_text_list)
@@ -71,8 +76,7 @@ for filename in os.listdir(folder_path):
         mentor_profile_text = preprocess_text(mentor_profile_text)
         mentor_profile_text = truncate_text(mentor_profile_text, max_tokens)
 
-
-        #mentor_profile_text = pdf_to_text(pdf_path)
+        # mentor_profile_text = pdf_to_text(pdf_path)
 
         # Preprocess mentor profile text
         # mentor_profile_text = preprocess_text(mentor_profile_text)
@@ -95,7 +99,7 @@ for filename in os.listdir(folder_path):
         """
 
         # Generate mock CV samples
-        #n_samples = 1  # Number of samples to generate
+        # n_samples = 1  # Number of samples to generate
         mock_cvs = generate_samples(prompt_mentor_mentee)
 
         print("Generated CVs:", mock_cvs)  # Debugging print statement
