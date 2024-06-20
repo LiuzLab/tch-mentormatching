@@ -69,7 +69,7 @@ for filename in os.listdir(folder_path):
         prompt_mentor_mentee = f"""
         Generate a mock CV for a student who might be interested in working with this mentor. The CV should highlight relevant skills, education, and experience that align with the mentor's expertise.
         Only answer with CV, DO NOT include any notes or additional text after CV. Generate mock personal information and school names. DO NOT state the name of the mentor in any part of the CV.
-        
+
         Given the following mentor profile:
         """
 
