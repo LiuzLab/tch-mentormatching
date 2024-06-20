@@ -6,3 +6,6 @@ gradio==4.36.1
 gradio_client==1.0.1
 pandas==2.2.2
 gpt4all==2.7.0
+langchain-community==0.2.5
+langchain-core==0.2.9
+langchain-openai==0.1.8
