@@ -16,10 +16,9 @@ from langchain_openai import ChatOpenAI
 load_dotenv()
 
 client = ChatOpenAI(
-    model="gpt-4o",
-    temperature=1.25,
-    max_tokens=3000,
-    api_key=os.getenv("OPENAI_KEY")) # Add randomness by considering 1.25 temperature instead of 1 previously
+    model="gpt-4o", temperature=1.25, max_tokens=3000, api_key=os.getenv("OPENAI_KEY")
+)  # Add randomness by considering 1.25 temperature instead of 1 previously
+
 
 def generate_samples(prompt, mentor_profile_documents):
     # llm = OpenAI(openai_api_key=api_key)
@@ -27,6 +26,7 @@ def generate_samples(prompt, mentor_profile_documents):
     question = prompt
     response = chain.run(input_documents=mentor_profile_documents, question=prompt)
     return response
+
 
 # Function to extract and preprocess text from the first two pages of a PDF
 def extract_text_from_pdf(pdf_path):
@@ -37,6 +37,7 @@ def extract_text_from_pdf(pdf_path):
         text += page.extract_text()
     text = " ".join(text.split())  # Remove extra whitespaces
     return text
+
 
 # Folder containing the PDFs
 folder_path = os.getenv("PDF_FILE_PATH")
@@ -79,7 +80,13 @@ for filename in os.listdir(folder_path):
         # Generate mock CV samples
         mock_cv = generate_samples(prompt_mentor_mentee, mentor_profile_documents[0:1])
 
-        data.append({"Mentor Profile": filename, "Mock Student CV": mock_cv, "PDF Text": pdf_text})
+        data.append(
+            {
+                "Mentor Profile": filename,
+                "Mock Student CV": mock_cv,
+                "PDF Text": pdf_text,
+            }
+        )
 
 # Check if data list is empty
 if not data:
@@ -87,6 +94,8 @@ if not data:
 else:
     # Create a DataFrame and save to a .csv file
     df = pd.DataFrame(data)
-    df.to_csv("../simulated_data/mentor_student_cvs_final.csv", index=False)  # Change to .tsv if needed
+    df.to_csv(
+        "../simulated_data/mentor_student_cvs_final.csv", index=False
+    )  # Change to .tsv if needed
 
     print("CSV file has been created successfully.")
