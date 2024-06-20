@@ -5,3 +5,4 @@ python-dotenv==1.0.1
 gradio==4.36.1
 gradio_client==1.0.1
 pandas==2.2.2
+gpt4all==2.7.0
