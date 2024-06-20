@@ -13,7 +13,7 @@ from langchain.chains.question_answering import load_qa_chain
 from transformers import GPT2TokenizerFast
 from langchain_openai import ChatOpenAI
 
-load_dotenv(dotenv_path = "../../.env")
+load_dotenv()
 
 client = ChatOpenAI(
     model="gpt-4o",
