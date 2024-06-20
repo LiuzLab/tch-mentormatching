@@ -13,7 +13,7 @@ from langchain.chains.question_answering import load_qa_chain
 from transformers import GPT2TokenizerFast
 from langchain_openai import ChatOpenAI
 
-load_dotenv(dotenv_path = "/mnt/belinda_local/daniel/home/github_mentor_mentee_main/.env")
+load_dotenv(dotenv_path = "../../.env")
 
 client = ChatOpenAI(
     model="gpt-4o",
@@ -43,6 +43,9 @@ folder_path = os.getenv("PDF_FILE_PATH")
 
 # List to store the data
 data = []
+
+# Setting random seed
+random.seed(42)
 
 # Iterate over all PDFs in the folder
 for filename in os.listdir(folder_path):
