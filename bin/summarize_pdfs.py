@@ -72,7 +72,9 @@ result_df = process_mentor_text(data)
 # Define the output directory and ensure it exists
 output_dir = "../simulated_data"
 os.makedirs(output_dir, exist_ok=True)
-output_file_path = os.path.join(output_dir, "mentor_student_cvs_with_summaries.csv")
+output_file_path = os.path.join(
+    output_dir, "mentor_student_cvs_with_summaries_final.csv"
+)
 
 # Save the results to a new CSV file
 result_df.to_csv(output_file_path, index=False)
