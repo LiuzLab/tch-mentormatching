@@ -82,9 +82,9 @@ for filename in os.listdir(folder_path):
 
         data.append(
             {
-                "Mentor Profile": filename,
-                "Mock Student CV": mock_cv,
-                "PDF Text": pdf_text,
+                "Mentor_Profile": filename,
+                "Mock Student_CV": mock_cv,
+                "PDF_Text": pdf_text,
             }
         )
 
