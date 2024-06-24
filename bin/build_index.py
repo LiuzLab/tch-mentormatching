@@ -2,7 +2,6 @@ import pandas as pd
 import os
 from dotenv import load_dotenv
 
-from langchain_community.embeddings import GPT4AllEmbeddings
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders.csv_loader import CSVLoader
