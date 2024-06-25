@@ -1,7 +1,0 @@
-/home/matthewn/projects/tch-mentormatching/bin/summarize_pdfs.py:63: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
-  summarize_text(row[2]) for _, row in data.iterrows()
-/home/matthewn/projects/tch-mentormatching/bin/summarize_pdfs.py:63: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
-  summarize_text(row[2]) for _, row in data.iterrows()
-/home/matthewn/projects/tch-mentormatching/bin/summarize_pdfs.py:72: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
-  summarize_text(row[1]) for _, row in data.iterrows()
-Summarized CVs saved to ../simulated_data/mentor_student_cvs_with_summaries_final.csv
