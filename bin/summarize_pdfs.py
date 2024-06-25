@@ -66,8 +66,18 @@ def process_mentor_text(data):
     return data
 
 
-# Process the mentor texts and get the new dataframe with summaries
+# New function to process mentee texts and append summaries to the DataFrame
+def process_mentee_text(data):
+    summaries = [
+        summarize_text(row[1]) for _, row in data.iterrows()
+    ]  # Using the second column (index 1) for mentee data
+    data["Mentee_Summary"] = summaries
+    return data
+
+
+# Process the mentor and mentee texts and get the new dataframe with summaries
 result_df = process_mentor_text(data)
+result_df = process_mentee_text(result_df)
 
 # Define the output directory and ensure it exists
 output_dir = "../simulated_data"
