@@ -17,7 +17,7 @@ load_dotenv(dotenv_path = "../../.env")
 
 client = ChatOpenAI(
     model="gpt-4o",
-    temperature=1.25,
+    temperature=1,
     max_tokens=3000,
     api_key=os.getenv("OPENAI_KEY")) # Add randomness by considering 1.25 temperature instead of 1 previously
 
@@ -87,6 +87,6 @@ if not data:
 else:
     # Create a DataFrame and save to a .csv file
     df = pd.DataFrame(data)
-    df.to_csv("../simulated_data/mentor_student_cvs_final.csv", index=False)  # Change to .tsv if needed
+    df.to_csv("../simulated_data/mentor_student_cvs_final_temperature1.csv", index=False)  # Change to .tsv if needed
 
     print("CSV file has been created successfully.")
