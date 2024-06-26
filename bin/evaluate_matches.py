@@ -5,7 +5,7 @@ from generate_text import generate_text
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 
 # Check if API key is loaded
 if not api_key:
