@@ -52,43 +52,44 @@ mentee_instructions = (
 mentor_batch_input = []
 mentee_batch_input = []
 for _, row in data.iterrows():
-    mentor_batch_input.append({
-        "prompt": f"{mentor_instructions}\n{row[2]}",  # Assuming text to summarize is in the third column (index 2)
-        "temperature": 1.0,
-        "max_tokens": 200
-    })
-    mentee_batch_input.append({
-        "prompt": f"{mentee_instructions}\n{row[1]}",  # Assuming text to summarize is in the second column (index 1)
-        "temperature": 1.0,
-        "max_tokens": 200
-    })
+    mentor_batch_input.append(
+        {
+            "prompt": f"{mentor_instructions}\n{row[2]}",  # Assuming text to summarize is in the third column (index 2)
+            "temperature": 1.0,
+            "max_tokens": 200,
+        }
+    )
+    mentee_batch_input.append(
+        {
+            "prompt": f"{mentee_instructions}\n{row[1]}",  # Assuming text to summarize is in the second column (index 1)
+            "temperature": 1.0,
+            "max_tokens": 200,
+        }
+    )
 
 # Save the batch input to files
 mentor_input_file_path = "../simulated_data/mentor_batch_input.jsonl"
 mentee_input_file_path = "../simulated_data/mentee_batch_input.jsonl"
-with open(mentor_input_file_path, 'w') as f:
+with open(mentor_input_file_path, "w") as f:
     for item in mentor_batch_input:
         f.write(json.dumps(item) + "\n")
-with open(mentee_input_file_path, 'w') as f:
+with open(mentee_input_file_path, "w") as f:
     for item in mentee_batch_input:
         f.write(json.dumps(item) + "\n")
 
 # Submit batch jobs
 mentor_batch = client.Batch.create(
-    input_file=mentor_input_file_path,
-    model="gpt-4",
-    output_format="jsonl"
+    input_file=mentor_input_file_path, model="gpt-4", output_format="jsonl"
 )
 
 mentee_batch = client.Batch.create(
-    input_file=mentee_input_file_path,
-    model="gpt-4",
-    output_format="jsonl"
+    input_file=mentee_input_file_path, model="gpt-4", output_format="jsonl"
 )
 
 # Wait for the batch jobs to complete
 mentor_batch_id = mentor_batch["id"]
 mentee_batch_id = mentee_batch["id"]
+
 
 def check_batch_status(batch_id):
     status = client.Batch.retrieve(batch_id)
@@ -96,6 +97,7 @@ def check_batch_status(batch_id):
         time.sleep(30)
         status = client.Batch.retrieve(batch_id)
     return status
+
 
 mentor_status = check_batch_status(mentor_batch_id)
 mentee_status = check_batch_status(mentee_batch_id)
@@ -109,12 +111,12 @@ client.Files.download(mentee_status["output_file"], mentee_output_file_path)
 # Process the batch results
 mentor_summaries = []
 mentee_summaries = []
-with open(mentor_output_file_path, 'r') as f:
+with open(mentor_output_file_path, "r") as f:
     for line in f:
         result = json.loads(line)
         mentor_summaries.append(result["choices"][0]["text"].strip())
 
-with open(mentee_output_file_path, 'r') as f:
+with open(mentee_output_file_path, "r") as f:
     for line in f:
         result = json.loads(line)
         mentee_summaries.append(result["choices"][0]["text"].strip())
@@ -128,4 +130,3 @@ output_file_path = "../simulated_data/mentor_student_cvs_with_summaries_final.cs
 data.to_csv(output_file_path, index=False)
 
 print(f"Summarized CVs saved to {output_file_path}")
-
