@@ -36,6 +36,7 @@ instructions = (
     "You do not need to list entire publication names just key terms and ideas to inform the summary."
 )
 
+
 # Function to process mentor texts and append summaries to the DataFrame
 def process_mentor_text(data, client, instructions):
     summaries = [
@@ -44,6 +45,7 @@ def process_mentor_text(data, client, instructions):
     data["Mentor_Summary"] = summaries
     return data
 
+
 # New function to process mentee texts and append summaries to the DataFrame
 def process_mentee_text(data, client, instructions):
     summaries = [
@@ -51,6 +53,7 @@ def process_mentee_text(data, client, instructions):
     ]  # Using the second column (index 1) for mentee data
     data["Mentee_Summary"] = summaries
     return data
+
 
 # Process the mentor and mentee texts and get the new dataframe with summaries
 result_df = process_mentor_text(data, client, instructions)
@@ -67,4 +70,3 @@ output_file_path = os.path.join(
 result_df.to_csv(output_file_path, index=False)
 
 print(f"Summarized CVs saved to {output_file_path}")
-
