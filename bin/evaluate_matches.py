@@ -1,4 +1,6 @@
 import os
+import pandas as pd
+import re
 from dotenv import load_dotenv
 from openai import OpenAI
 from .generate_text import generate_text
@@ -60,6 +62,25 @@ def evaluate_pair_with_llm(
 
     return evaluation_text
 
+def extract_scores(evaluation):
+    # Extract scores using regex
+    research_score = re.search(r"Research Interest: (\d+)", evaluation)
+    availability_score = re.search(r"Availability: (\d+)", evaluation)
+    skillset_score = re.search(r"Skillset: (\d+)", evaluation)
+    overall_score = re.search(r"Overall Match Quality: (\d+)", evaluation)
+    
+    # Convert to integers or None if not found
+    research_score = int(research_score.group(1)) if research_score else None
+    availability_score = int(availability_score.group(1)) if availability_score else None
+    skillset_score = int(skillset_score.group(1)) if skillset_score else None
+    overall_score = int(overall_score.group(1)) if overall_score else None
+    
+    return {
+        "Research Interest": research_score,
+        "Availability": availability_score,
+        "Skillset": skillset_score,
+        "Overall Match Quality": overall_score
+    }
 
 if __name__ == "__main__":
     # Test usage
@@ -70,3 +91,8 @@ if __name__ == "__main__":
         client, mentor_summary_example, mentee_summary_example
     )
     print(evaluation)
+    
+    research_score, availability_score, skillset_score, overall_score = extract_scores(evaluation)
+    scores = extract_scores(evaluation)
+    scores_df = pd.DataFrame([scores])
+    print(scores_df.head())
