@@ -12,7 +12,6 @@ PATH_TO_SUMMARY = "./simulated_data/mentor_student_cvs_with_summaries_final.csv"
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 MODEL_NAME = "gpt-3.5-turbo-0125"  # will change it :)
 
-
 def main():
     llm = ChatOpenAI(model=MODEL_NAME)
     loader = CSVLoader(file_path=PATH_TO_SUMMARY, source_column="Mentor_Summary")
@@ -22,8 +21,9 @@ def main():
         for p, s in zip(df["Mentor_Profile"].values, df["Mentor_Summary"].values)
     ]
     vector_store = FAISS.from_texts(texts=docs, embedding=OpenAIEmbeddings())
-    retriver = vector_store.as_retriever()
+    retriever = vector_store.as_retriever()
     vector_store.save_local("db/index_summary")
+    return vector_store, retriever
 
 
 if __name__ == "__main__":
