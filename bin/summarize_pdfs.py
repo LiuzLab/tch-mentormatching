@@ -11,9 +11,11 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
+
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
 def completion_with_backoff(**kwargs):
     return client.chat.completions.create(**kwargs)
+
 
 def summarize_text(text):
     instructions = (
@@ -38,6 +40,7 @@ def summarize_text(text):
         model="gpt-4", messages=messages, temperature=1.0
     )
     return response.choices[0].message.content
+
 
 if __name__ == "__main__":
     # Add any test code here if needed
