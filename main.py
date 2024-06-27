@@ -43,6 +43,7 @@ def process_cv(file, num_candidates):
         # Evaluate and rank matches
         evaluated_matches = []
         for candidate, similarity_score in candidates:
+            mentor_id = candidate.page_content.split("===")[0].replace(".pdf", "")
             match_res = evaluate_pair_with_llm(
                 client, candidate.page_content, mentee_summary, instructions
             )
@@ -53,6 +54,7 @@ def process_cv(file, num_candidates):
                     "Similarity Score": f"{similarity_score:.4f}",
                     "Evaluation": match_res,
                     "Criterion Scores": criterion_scores,
+                    "mentor_id": mentor_id
                 }
             )
 

@@ -43,7 +43,7 @@ def create_mentor_table_html(evaluated_matches):
         scores = match["Criterion Scores"]
         mentor_rows += f"""
         <tr>
-            <td class="mentor-name" data-score="Similarity Score: {match['Similarity Score']}">{name}</td>
+            <td class="mentor-name" data-score="Similarity Score: {match['Similarity Score']}"><a href="https://profiles.viictr.org/display/{match['mentor_id']}">{name}</a></td>
             <td class="mentor-summary">
                 <div class="summary-content">{summary}</div>
             </td>
