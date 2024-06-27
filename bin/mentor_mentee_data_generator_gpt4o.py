@@ -12,13 +12,18 @@ from langchain_openai import ChatOpenAI
 load_dotenv()
 
 client = ChatOpenAI(
-    model="gpt-4", temperature=1.25, max_tokens=3000, api_key=os.getenv("OPENAI_API_KEY")
+    model="gpt-4",
+    temperature=1.25,
+    max_tokens=3000,
+    api_key=os.getenv("OPENAI_API_KEY"),
 )
+
 
 def generate_samples(prompt, mentor_profile_documents):
     chain = load_qa_chain(client, verbose=True)
     response = chain.run(input_documents=mentor_profile_documents, question=prompt)
     return response
+
 
 def extract_text_from_pdf(pdf_path):
     reader = PdfReader(pdf_path)
@@ -28,6 +33,7 @@ def extract_text_from_pdf(pdf_path):
         text += page.extract_text()
     text = " ".join(text.split())
     return text
+
 
 def generate_mock_cv(pdf_path):
     pdf_text = extract_text_from_pdf(pdf_path)
@@ -52,6 +58,7 @@ def generate_mock_cv(pdf_path):
 
     mock_cv = generate_samples(prompt_mentor_mentee, mentor_profile_documents[0:1])
     return mock_cv, pdf_text
+
 
 if __name__ == "__main__":
     # Add any test code here if needed
