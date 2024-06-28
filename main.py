@@ -31,12 +31,6 @@ vector_store, retriever = build_index()
 # note 5 candidates takes short time; 36 candidates seems to take 10-15 minutes
 def process_cv(file, num_candidates):
     try:
-        key = cache_key(file, num_candidates)
-        cached_result = load_from_cache(key)
-    
-        if cached_result:
-            return cached_result['mentee_summary'], cached_result['mentor_table_html']
-
         # Generate mock CV and extract PDF text
         mock_cv, pdf_text = generate_mock_cv(file.name)
         print("Generated mock CV and extracted PDF text")
@@ -74,12 +68,6 @@ def process_cv(file, num_candidates):
 
         # Create custom HTML table
         mentor_table_html = create_mentor_table_html(evaluated_matches)
-        
-        result = {
-            'mentee_summary': mentee_summary,
-            'mentor_table_html': mentor_table_html
-        }
-        save_to_cache(key, result)
 
         return mentee_summary, mentor_table_html
     except Exception as e:
