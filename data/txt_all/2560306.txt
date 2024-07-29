@@ -1,0 +1,556 @@
+## DAVID RESS
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Address| One Baylor Plaza  
+Houston, 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Eqom6GGJEo7mVa%2fv43aML7CZ&rnd=2758e611-b8e7-45a1-a9e4-d14324e5d3fc)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=2560306)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01EB027586 (RESS, DAVID B)Sep 11, 2018 - May 31, 2021NIH  
+CRCNS: Computational neuroimaging of the human  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R56NS095933 (RESS, DAVID B)May 15, 2016 - Jun 30, 2022NIH  
+Measurements and modeling of the hemodynamic response function in human
+cerebral cortex  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01NS095933 (RESS, DAVID B)May 15, 2016 - Mar 31, 2021NIH  
+Measurements and modeling of the hemodynamic response function in human
+cerebral cortex  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21HL108143 (RESS, DAVID B)Jun 15, 2011 - Mar 31, 2014NIH  
+Modeling of transient oxygen delivery in the brain  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32EY006952 (RESS, DAVID B)Mar 29, 1999NIH  
+LINKING PATTERN PERCEPTION PERFORMANCE WITH FMRI  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Goel R, Tse T, Smith LJ, Floren A, Naylor B, Williams MW, [Salas R](https://profiles.viictr.org/profile/267055), Rizzo AS, **Ress D**. Framework for Accurate Classification of Self-Reported Stress From Multisession Functional MRI Data of Veterans With Posttraumatic Stress. Chronic Stress (Thousand Oaks). 2023 Jan-Dec; 7:24705470231203655. PMID: [37780807](//www.ncbi.nlm.nih.gov/pubmed/37780807); PMCID: [PMC10540591](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10540591).
+
+Citations:
+
+  2. Fesharaki NJ, Taylor A, Mosby K, Kim JH, **Ress D**. Global effects of aging on the hemodynamic response function in the human brain. Res Sq. 2023 Sep 05. PMID: [37720046](//www.ncbi.nlm.nih.gov/pubmed/37720046); PMCID: [PMC10503846](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10503846).
+
+Citations:
+
+  3. Kim JH, Taylor AJ, Himmelbach M, Hagberg GE, Scheffler K, **Ress D**. Characterization of the blood oxygen level dependent hemodynamic response function in human subcortical regions with high spatiotemporal resolution. Front Neurosci. 2022; 16:1009295. PMID: [36303946](//www.ncbi.nlm.nih.gov/pubmed/36303946); PMCID: [PMC9592726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9592726).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36303946/citedby/)
+
+  4. Taylor AJ, Kim JH, **Ress D**. Temporal stability of the hemodynamic response function across the majority of human cerebral cortex. Hum Brain Mapp. 2022 11; 43(16):4924-4942. PMID: [35965416](//www.ncbi.nlm.nih.gov/pubmed/35965416); PMCID: [PMC9582369](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9582369).
+
+Citations:
+
+  5. Zonnino A, Farrens AJ, **Ress D** , Sergi F. Measurement of stretch-evoked brainstem function using fMRI. Sci Rep. 2021 06 15; 11(1):12544. PMID: [34131162](//www.ncbi.nlm.nih.gov/pubmed/34131162); PMCID: [PMC8206209](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8206209).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34131162/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  6. de la Rosa N, **Ress D** , Taylor AJ, Kim JH. Retinotopic variations of the negative blood-oxygen-level dependent hemodynamic response function in human primary visual cortex. J Neurophysiol. 2021 04 01; 125(4):1045-1057. PMID: [33625949](//www.ncbi.nlm.nih.gov/pubmed/33625949); PMCID: [PMC8282228](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8282228).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33625949/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:Humans
+
+  7. Truong P, Kim JH, Savjani R, Sitek KR, **Ress D** , Hagberg GE, Scheffler K. Depth relationships and measures of tissue thickness in dorsal midbrain. Hum Brain Mapp. 2020 12 15; 41(18):5083-5096. PMID: [32870572](//www.ncbi.nlm.nih.gov/pubmed/32870572); PMCID: [PMC7670631](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7670631).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32870572/citedby/) Fields:
+
+Bra Brain
+
+Translation:Humans
+
+  8. Han C, **Ress D** , Ramos Nunez AI, de la Rosa N, Li S, Sulzer JS. Brainstem BOLD response to visual and acoustic stimuli. Annu Int Conf IEEE Eng Med Biol Soc. 2020 07; 2020:2889-2892. PMID: [33018610](//www.ncbi.nlm.nih.gov/pubmed/33018610).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  9. Gosnell SN, [Oh H](https://profiles.viictr.org/profile/19502556), Schmidt J, [Oldham J](https://profiles.viictr.org/profile/265615), Fowler JC, [Patriquin M](https://profiles.viictr.org/profile/8065544), **Ress D** , [Salas R](https://profiles.viictr.org/profile/267055). Right temporal pole volume reduction in PTSD. Prog Neuropsychopharmacol Biol Psychiatry. 2020 06 08; 100:109890. PMID: [32084508](//www.ncbi.nlm.nih.gov/pubmed/32084508).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32084508/citedby/) Fields:
+
+Psy PsychiatryPsy Psychopharmacology
+
+Translation:Humans
+
+  10. Kim JH, Taylor AJ, Wang DJ, Zou X, **Ress D**. Dynamics of the cerebral blood flow response to brief neural activity in human visual cortex. J Cereb Blood Flow Metab. 2020 09; 40(9):1823-1837. PMID: [31429358](//www.ncbi.nlm.nih.gov/pubmed/31429358); PMCID: [PMC7446561](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7446561).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31429358/citedby/) Fields:
+
+Bra BrainMet MetabolismVas Vascular Diseases
+
+Translation:Humans
+
+  11. Taylor AJ, Kim JH, Singh V, Halfen EJ, Pfeuffer J, **Ress D**. More than BOLD: Dual-spin populations create functional contrast. Magn Reson Med. 2020 02; 83(2):681-694. PMID: [31423634](//www.ncbi.nlm.nih.gov/pubmed/31423634); PMCID: [PMC6824942](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6824942).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  12. Zonnino A, Farrens AJ, **Ress D** , Sergi F. StretchfMRI: a novel technique to quantify the contribution of the reticular formation to long-latency responses via fMRI. IEEE Int Conf Rehabil Robot. 2019 06; 2019:1247-1253. PMID: [31374800](//www.ncbi.nlm.nih.gov/pubmed/31374800); PMCID: [PMC7874541](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7874541).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31374800/citedby/) Fields:
+
+Phy Physical and Rehabilitation MeTec Technology
+
+Translation:Humans
+
+  13. Taylor AJ, Kim JH, **Ress D**. Characterization of the hemodynamic response function across the majority of human cerebral cortex. Neuroimage. 2018 06; 173:322-331. PMID: [29501554](//www.ncbi.nlm.nih.gov/pubmed/29501554); PMCID: [PMC5911213](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5911213).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29501554/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  14. Savjani RR, Katyal S, Halfen E, Kim JH, **Ress D**. Polar-angle representation of saccadic eye movements in human superior colliculus. Neuroimage. 2018 05 01; 171:199-208. PMID: [29292132](//www.ncbi.nlm.nih.gov/pubmed/29292132); PMCID: [PMC6844626](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6844626).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29292132/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  15. Farrens AJ, Zonnino A, Erwin A, O'Malley MK, Johnson CL, **Ress D** , Sergi F. Quantitative Testing of fMRI-Compatibility of an Electrically Active Mechatronic Device for Robot-Assisted Sensorimotor Protocols. IEEE Trans Biomed Eng. 2018 07; 65(7):1595-1606. PMID: [28829302](//www.ncbi.nlm.nih.gov/pubmed/28829302).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28829302/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  16. Singh V, Pfeuffer J, Zhao T, **Ress D**. Evaluation of spiral acquisition variants for functional imaging of human superior colliculus at 3T field strength. Magn Reson Med. 2018 04; 79(4):1931-1940. PMID: [28736924](//www.ncbi.nlm.nih.gov/pubmed/28736924); PMCID: [PMC5783788](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5783788).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28736924/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansCells
+
+  17. Kim JH, **Ress D**. Reliability of the depth-dependent high-resolution BOLD hemodynamic response in human visual cortex and vicinity. Magn Reson Imaging. 2017 06; 39:53-63. PMID: [28137626](//www.ncbi.nlm.nih.gov/pubmed/28137626); PMCID: [PMC5410406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5410406).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28137626/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  18. Erwin A, O'Malley MK, **Ress D** , Sergi F. Kinesthetic Feedback During 2DOF Wrist Movements via a Novel MR-Compatible Robot. IEEE Trans Neural Syst Rehabil Eng. 2017 09; 25(9):1489-1499. PMID: [28114022](//www.ncbi.nlm.nih.gov/pubmed/28114022).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28114022/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  19. Lal TM, [Baldwin PR](https://profiles.viictr.org/profile/268193), Cai MB, Savjani RR, Eagleman DM, **Ress D** , [Salas R](https://profiles.viictr.org/profile/267055). Real time functional MRI training to decrease motion in imaging studies: Lack of significant improvement. Bull Menninger Clin. 2016; 80(4):348-356. PMID: [27936900](//www.ncbi.nlm.nih.gov/pubmed/27936900).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27936900/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  20. Kim JH, **Ress D**. Arterial impulse model for the BOLD response to brief neural activation. Neuroimage. 2016 Jan 01; 124(Pt A):394-408. PMID: [26363350](//www.ncbi.nlm.nih.gov/pubmed/26363350); PMCID: [PMC4651785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4651785).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26363350/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  21. Floren A, Naylor B, Miikkulainen R, **Ress D**. Accurately decoding visual information from fMRI data obtained in a realistic virtual environment. Front Hum Neurosci. 2015; 9:327. PMID: [26106315](//www.ncbi.nlm.nih.gov/pubmed/26106315); PMCID: [PMC4460535](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4460535).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26106315/citedby/)
+
+  22. Greene CA, Dumoulin SO, Harvey BM, **Ress D**. Measurement of population receptive fields in human early visual cortex using back-projection tomography. J Vis. 2014 Jan 22; 14(1). PMID: [24453343](//www.ncbi.nlm.nih.gov/pubmed/24453343).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24453343/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  23. Katyal S, **Ress D**. Endogenous attention signals evoked by threshold contrast detection in human superior colliculus. J Neurosci. 2014 Jan 15; 34(3):892-900. PMID: [24431447](//www.ncbi.nlm.nih.gov/pubmed/24431447); PMCID: [PMC6608350](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6608350).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24431447/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  24. **Ress D** , Chandrasekaran B. Tonotopic organization in the depth of human inferior colliculus. Front Hum Neurosci. 2013; 7:586. PMID: [24065909](//www.ncbi.nlm.nih.gov/pubmed/24065909); PMCID: [PMC3776955](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3776955).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24065909/citedby/)
+
+  25. Kim JH, Khan R, Thompson JK, **Ress D**. Model of the transient neurovascular response based on prompt arterial dilation. J Cereb Blood Flow Metab. 2013 Sep; 33(9):1429-39. PMID: [23756690](//www.ncbi.nlm.nih.gov/pubmed/23756690); PMCID: [PMC3764388](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3764388).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23756690/citedby/) Fields:
+
+Bra BrainMet MetabolismVas Vascular Diseases
+
+Translation:Animals
+
+  26. Gopinath A, Xu G, **Ress D** , Subramaniam S, Bajaj C, ?ktem O. Shape-based regularization of electron tomographic reconstruction. IEEE Trans Med Imaging. 2012 Dec; 31(12):2241-52. PMID: [22922711](//www.ncbi.nlm.nih.gov/pubmed/22922711); PMCID: [PMC3513577](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3513577).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22922711/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansCells
+
+  27. Katyal S, Greene CA, **Ress D**. High-resolution functional magnetic resonance imaging methods for human midbrain. J Vis Exp. 2012 May 10; (63):e3746. PMID: [22617680](//www.ncbi.nlm.nih.gov/pubmed/22617680); PMCID: [PMC3468195](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3468195).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22617680/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Humans
+
+  28. Kim JH, Khan RK, **Ress D**. Computational modeling of the transient hemodynamic response in cerebral cortex. Annu Int Conf IEEE Eng Med Biol Soc. 2012; 2012:645-8. PMID: [23365975](//www.ncbi.nlm.nih.gov/pubmed/23365975).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimalsCells
+
+  29. Katyal S, Greene CA, **RESS D**. High-resolution functional magnetic resonance imaging methods for human midbrain and brainstem. Journal of Visualized Experiments. 2012; (63):e3746 .
+
+  30. Khan R, Zhang Q, Darayan S, Dhandapani S, Katyal S, Greene C, Bajaj C, **Ress D**. Surface-based analysis methods for high-resolution functional magnetic resonance imaging. Graph Models. 2011 Nov; 73(6):313-322. PMID: [22125419](//www.ncbi.nlm.nih.gov/pubmed/22125419); PMCID: [PMC3223917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3223917).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22125419/citedby/)
+
+  31. Measurements and Modeling of Transient Blood Flow Perturbations Induced by Brief Somatosensory Stimulation. Open Neuroimaging Journal. 2011; (5):96-104.
+
+  32. Khan R, Zhang Q, Darayan S, Dhandapani S, Katyal S, Greene C, Bajaj C, **RESS D**. Surface-based analysis methods for high-resolution functional magnetic resonance imaging. Graphical Models. 2011; (73):313-22.
+
+  33. Katyal S, Zughni S, Greene C, **Ress D**. Topography of covert visual attention in human superior colliculus. J Neurophysiol. 2010 Dec; 104(6):3074-83. PMID: [20861435](//www.ncbi.nlm.nih.gov/pubmed/20861435).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20861435/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:Humans
+
+  34. **Ress D** , Thompson JK, Rokers B, Khan RK, Huk AC. A model for transient oxygen delivery in cerebral cortex. Front Neuroenergetics. 2009; 1:3. PMID: [19597566](//www.ncbi.nlm.nih.gov/pubmed/19597566); PMCID: [PMC2709201](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2709201).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19597566/citedby/)
+
+  35. Nagwaney S, Harlow ML, Jung JH, Szule JA, **Ress D** , Xu J, Marshall RM, McMahan UJ. Macromolecular connections of active zone material to docked synaptic vesicles and presynaptic membrane at neuromuscular junctions of mouse. J Comp Neurol. 2009 Apr 10; 513(5):457-68. PMID: [19226520](//www.ncbi.nlm.nih.gov/pubmed/19226520); PMCID: [PMC4288958](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4288958).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19226520/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  36. Heitsch AT, Smith DK, Patel RE, **Ress D** , Korgel BA. Multifunctional Particles: Magnetic Nanocrystals and Gold Nanorods Coated with Fluorescent Dye-Doped Silica Shells. J Solid State Chem. 2008 Jul; 181(7):1590-1599. PMID: [19578476](//www.ncbi.nlm.nih.gov/pubmed/19578476); PMCID: [PMC2598401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2598401).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19578476/citedby/)
+
+  37. **Ress D** , Glover GH, Liu J, Wandell B. Laminar profiles of functional activity in the human brain. Neuroimage. 2007 Jan 01; 34(1):74-84. PMID: [17011213](//www.ncbi.nlm.nih.gov/pubmed/17011213).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17011213/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  38. Silver MA, **Ress D** , Heeger DJ. Neural correlates of sustained spatial attention in human early visual cortex. J Neurophysiol. 2007 Jan; 97(1):229-37. PMID: [16971677](//www.ncbi.nlm.nih.gov/pubmed/16971677); PMCID: [PMC1868502](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1868502).
+
+Citations:
+[108](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16971677/citedby/)
+Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:Humans
+
+  39. Grill-Spector K, Sayres R, **Ress D**. High-resolution imaging reveals highly selective nonface clusters in the fusiform face area. Nat Neurosci. 2006 Sep; 9(9):1177-85. PMID: [16892057](//www.ncbi.nlm.nih.gov/pubmed/16892057).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16892057/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimals
+
+  40. Silver MA, **Ress D** , Heeger DJ. Topographic maps of visual spatial attention in human parietal cortex. J Neurophysiol. 2005 Aug; 94(2):1358-71. PMID: [15817643](//www.ncbi.nlm.nih.gov/pubmed/15817643); PMCID: [PMC2367310](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2367310).
+
+Citations:
+[203](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15817643/citedby/)
+Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:Humans
+
+  41. **Ress DB** , Harlow ML, Marshall RM, McMahan UJ. Methods for generating high-resolution structural models from electron microscope tomography data. Structure. 2004 Oct; 12(10):1763-74. PMID: [15458626](//www.ncbi.nlm.nih.gov/pubmed/15458626); PMCID: [PMC4312110](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4312110).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15458626/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+  42. Miller KL, Hargreaves BA, Lee J, **Ress D** , deCharms RC, Pauly JM. Functional brain imaging with BOSS FMRI. Conf Proc IEEE Eng Med Biol Soc. 2004; 2004:5234-7. PMID: [17271520](//www.ncbi.nlm.nih.gov/pubmed/17271520).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17271520/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+  43. Miller KL, Hargreaves BA, Lee J, **Ress D** , deCharms RC, Pauly JM. Functional brain imaging using a blood oxygenation sensitive steady state. Magn Reson Med. 2003 Oct; 50(4):675-83. PMID: [14523951](//www.ncbi.nlm.nih.gov/pubmed/14523951).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14523951/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  44. **Ress D** , Heeger DJ. Neuronal correlates of perception in early visual cortex. Nat Neurosci. 2003 Apr; 6(4):414-20. PMID: [12627164](//www.ncbi.nlm.nih.gov/pubmed/12627164); PMCID: [PMC2278238](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2278238).
+
+Citations:
+[126](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12627164/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:HumansCells
+
+  45. Heeger DJ, **Ress D**. What does fMRI tell us about neuronal activity? Nat Rev Neurosci. 2002 Feb; 3(2):142-51. PMID: [11836522](//www.ncbi.nlm.nih.gov/pubmed/11836522).
+
+Citations:
+[255](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11836522/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 45 publications over 21 distinct years, with a maximum of
+4 publications in 2012 and
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,25,50,50,25,75,0,25,50,25,75,100,50,50,50,50,100,25,75,75,50,50,50,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 1  
+2003| 2  
+2004| 2  
+2005| 1  
+2006| 3  
+2008| 1  
+2009| 2  
+2010| 1  
+2011| 3  
+2012| 4  
+2013| 2  
+2014| 2  
+2015| 2  
+2016| 2  
+2017| 4  
+2018| 1  
+2019| 3  
+2020| 3  
+2021| 2  
+2022| 2  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+RESS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (128)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Brain Mapping](https://profiles.viictr.org/profile/263450)
+  * [Visual Cortex](https://profiles.viictr.org/profile/260831)
+  * [Superior Colliculi](https://profiles.viictr.org/profile/245668)
+  * [Oxygen](https://profiles.viictr.org/profile/263931)
+  * [Visual Perception](https://profiles.viictr.org/profile/240712)
+
+[Explore](https://profiles.viictr.org/profile/2560306/198)
+
+_
+
+Co-Authors (5)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SALAS, RAMIRO](https://profiles.viictr.org/profile/267055)
+  * [OLDHAM, JOHN](https://profiles.viictr.org/profile/265615)
+  * [PATRIQUIN, MICHELLE](https://profiles.viictr.org/profile/8065544)
+  * [OH, HYUNTAEK](https://profiles.viictr.org/profile/19502556)
+  * [BALDWIN, PHILIP](https://profiles.viictr.org/profile/268193)
+
+[Explore](https://profiles.viictr.org/profile/2560306/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [CHANG, EDWARD I-FEI](https://profiles.viictr.org/profile/12583166)
+  * [LIU, HO-LING ANTHONY](https://profiles.viictr.org/profile/12583433)
+  * [SPALLETTA, GIANFRANCO](https://profiles.viictr.org/profile/11312399)
+
+[Explore](https://profiles.viictr.org/profile/2560306/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GABBIANI, FABRIZIO](https://profiles.viictr.org/profile/266193)
+  * [JI, DAOYUN](https://profiles.viictr.org/profile/266795)
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [RAY, RUSSELL](https://profiles.viictr.org/profile/267456)
+  * [SINZ, FABIAN](https://profiles.viictr.org/profile/11761036)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiUzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [DUMAN, JOSEPH](https://profiles.viictr.org/profile/268900)
+  * [JIANG, XIAOLONG](https://profiles.viictr.org/profile/268555)
+  * [MOU, XIANG](https://profiles.viictr.org/profile/3010256)
+  * [SAGGAU, PETER](https://profiles.viictr.org/profile/268285)
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+
+_
+

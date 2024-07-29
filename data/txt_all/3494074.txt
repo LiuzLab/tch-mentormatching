@@ -1,0 +1,443 @@
+## JEAN KIM
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| 515 Flower St, Suite 800  
+Los Angeles, CA 90071  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HK4x7yvsKYbVRIzgrn7GPw%3d%3d&rnd=dd07eb56-d37e-41a3-ba10-c7818378cca1)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3494074)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=3494074&cachekey=ab21934d-0326-4a40-a576-6fc17e0b0ede)  
+  
+
+Other Positions| Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Education, Innovation & Technology  
+Division| Department of Education, Innovation  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Rousseaux MWC, [Al-Ramahi I](https://profiles.viictr.org/profile/3009798), [Jeong HH](https://profiles.viictr.org/profile/15317861), [Bajic A](https://profiles.viictr.org/profile/3010475), Revelli JP, Ye H, Phan ET, [Deger JM](https://profiles.viictr.org/profile/31168762), Perez AM, **Kim JY** , Lavery LA, Xu Q, Li MZ, Kang H, Kim JJ, [Shulman JM](https://profiles.viictr.org/profile/267488), [Westbrook TF](https://profiles.viictr.org/profile/267742), Elledge SJ, [Liu Z](https://profiles.viictr.org/profile/266153), [Botas J](https://profiles.viictr.org/profile/269750), [Zoghbi HY](https://profiles.viictr.org/profile/267945), V?zquez-V?lez GE. A Druggable Genome Screen Identifies Modifiers of a-Synuclein Levels via a Tiered Cross-Species Validation Approach. J Neurosci. 2018 10 24; 38(43):9286-9301. PMID: [30249792](//www.ncbi.nlm.nih.gov/pubmed/30249792); PMCID: [PMC6199406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6199406).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30249792/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  2. Brookhouser N, Zhang P, Caselli R, **Kim JJ** , Brafman DA. Generation and characterization of two human induced pluripotent stem cell (hiPSC) lines homozygous for the Apolipoprotein e4 (APOE4) risk variant-Alzheimer's disease (ASUi005-A) and healthy non-demented control (ASUi006-A). Stem Cell Res. 2018 10; 32:145-149. PMID: [30296667](//www.ncbi.nlm.nih.gov/pubmed/30296667); PMCID: [PMC6217860](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6217860).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30296667/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  3. Kho J, Tian X, Wong WT, Bertin T, Jiang MM, Chen S, [Jin Z](https://profiles.viictr.org/profile/9478053), Shchelochkov OA, [Burrage LC](https://profiles.viictr.org/profile/3010239), [Reddy AK](https://profiles.viictr.org/profile/268339), Jiang H, Abo-Zahrah R, Ma S, Zhang P, [Bissig KD](https://profiles.viictr.org/profile/266494), **Kim JJ** , [Devaraj S](https://profiles.viictr.org/profile/266182), Rodney GG, Erez A, Bryan NS, [Nagamani SCS](https://profiles.viictr.org/profile/265521), [Lee BH](https://profiles.viictr.org/profile/267019). Argininosuccinate Lyase Deficiency Causes an Endothelial-Dependent Form of Hypertension. Am J Hum Genet. 2018 08 02; 103(2):276-287. PMID: [30075114](//www.ncbi.nlm.nih.gov/pubmed/30075114); PMCID: [PMC6080833](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6080833).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30075114/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  4. Gillentine MA, Yin J, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang P, Cummock S, **Kim JJ** , Schaaf CP. Functional Consequences of CHRNA7 Copy-Number Alterations in Induced Pluripotent Stem Cells and Neural Progenitor Cells. Am J Hum Genet. 2017 Dec 07; 101(6):874-887. PMID: [29129316](//www.ncbi.nlm.nih.gov/pubmed/29129316); PMCID: [PMC5812918](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5812918).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29129316/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  5. Liu R, Lee J, Kim BS, Wang Q, Buxton SK, Balasubramanyam N, **Kim JJ** , Dong J, Zhang A, Li S, Gupte AA, Hamilton DJ, Martin JF, Rodney GG, [Coarfa C](https://profiles.viictr.org/profile/265668), [Wehrens XH](https://profiles.viictr.org/profile/270302), Yechoor VK, Moulik M. Tead1 is required for maintaining adult cardiomyocyte function, and its loss results in lethal dilated cardiomyopathy. JCI Insight. 2017 09 07; 2(17). PMID: [28878117](//www.ncbi.nlm.nih.gov/pubmed/28878117); PMCID: [PMC5621883](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5621883).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28878117/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  6. Brookhouser N, Zhang P, Caselli R, **Kim JJ** , Brafman DA. Generation and characterization of human induced pluripotent stem cell (hiPSC) lines from an Alzheimer's disease (ASUi003-A) and non-demented control (ASUi004-A) patient homozygous for the Apolipoprotein e4 (APOE4) risk variant. Stem Cell Res. 2017 12; 25:266-269. PMID: [29246571](//www.ncbi.nlm.nih.gov/pubmed/29246571).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29246571/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  7. Brookhouser N, Zhang P, Caselli R, **Kim JJ** , Brafman DA. Generation and characterization of human induced pluripotent stem cell (hiPSC) lines from an Alzheimer's disease (ASUi001-A) and non-demented control (ASUi002-A) patient homozygous for the Apolipoprotein e4 (APOE4) risk variant. Stem Cell Res. 2017 10; 24:160-163. PMID: [29034886](//www.ncbi.nlm.nih.gov/pubmed/29034886).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29034886/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  8. Rousseaux MW, Maity S, [Zoghbi HY](https://profiles.viictr.org/profile/267945), [Jung SY](https://profiles.viictr.org/profile/268570), [Choi JM](https://profiles.viictr.org/profile/3010074), [Malovannaya A](https://profiles.viictr.org/profile/3010185), **Kim JJ** , Kutzera J, Wang Y, Huang Y, Zhu W, Qin J. An Anatomically Resolved Mouse Brain Proteome Reveals Parkinson Disease-relevant Pathways. Mol Cell Proteomics. 2017 04; 16(4):581-593. PMID: [28153913](//www.ncbi.nlm.nih.gov/pubmed/28153913); PMCID: [PMC5383780](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5383780).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28153913/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimals
+
+  9. **Kim JJ**. Applications of iPSCs in Cancer Research. Biomark Insights. 2015; 10(Suppl 1):125-31. PMID: [26279620](//www.ncbi.nlm.nih.gov/pubmed/26279620); PMCID: [PMC4521640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4521640).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26279620/citedby/)
+
+  10. Joshi K, Coutinho-Budd J, **Kim JE** , Lambert N, de Marchena J, Jin WL, Vanderhaeghen P, Ghosh A, Sassa T, Polleux F, Charrier C. Inhibition of SRGAP2 function by its human-specific paralogs induces neoteny during spine maturation. Cell. 2012 May 11; 149(4):923-35. PMID: [22559944](//www.ncbi.nlm.nih.gov/pubmed/22559944); PMCID: [PMC3357949](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3357949).
+
+Citations:
+[145](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22559944/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  11. Mastrangelo L, **Kim JE** , Miyanohara A, Kang TH, Friedmann T. Purinergic signaling in human pluripotent stem cells is regulated by the housekeeping gene encoding hypoxanthine guanine phosphoribosyltransferase. Proc Natl Acad Sci U S A. 2012 Feb 28; 109(9):3377-82. PMID: [22331909](//www.ncbi.nlm.nih.gov/pubmed/22331909); PMCID: [PMC3295269](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3295269).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22331909/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  12. **Kim JE** , O'Sullivan ML, Sanchez CA, Hwang M, Israel MA, Brennand K, Deerinck TJ, Goldstein LS, Gage FH, Ellisman MH, Ghosh A. Investigating synapse formation and function using human pluripotent stem cell-derived neurons. Proc Natl Acad Sci U S A. 2011 Feb 15; 108(7):3005-10. PMID: [21278334](//www.ncbi.nlm.nih.gov/pubmed/21278334); PMCID: [PMC3041068](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3041068).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21278334/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  13. Padukkavidana T, Liu BP, Feng Z, Hu F, Johnson S, Lauren J, Park JH, McGee AW, Liao J, Stillman A, **Kim JE** , Yang BZ, Sodi S, Gelernter J, Zhao H, Hisama F, Arnsten AF, Strittmatter SM, Budel S. Genetic variants of Nogo-66 receptor with possible association to schizophrenia block myelin inhibition of axon growth. J Neurosci. 2008 Dec 03; 28(49):13161-72. PMID: [19052207](//www.ncbi.nlm.nih.gov/pubmed/19052207); PMCID: [PMC2892845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2892845).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19052207/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  14. Ultanir SK, **Kim JE** , Hall BJ, Deerinck T, Ellisman M, Ghosh A. Regulation of spine morphology and spine density by NMDA receptor signaling in vivo. Proc Natl Acad Sci U S A. 2007 Dec 04; 104(49):19553-8. PMID: [18048342](//www.ncbi.nlm.nih.gov/pubmed/18048342); PMCID: [PMC2148327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2148327).
+
+Citations:
+[95](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18048342/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  15. Cafferty WB, **Kim JE** , Lee JK, Strittmatter SM. Response to correspondence: Kim et al., "axon regeneration in young adult mice lacking Nogo-A/B." Neuron 38, 187-199. Neuron. 2007 Apr 19; 54(2):195-9. PMID: [17442242](//www.ncbi.nlm.nih.gov/pubmed/17442242); PMCID: [PMC2848952](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2848952).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17442242/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  16. Park JH, Gimbel DA, GrandPre T, Lee JK, **Kim JE** , Li W, Lee DH, Strittmatter SM. Alzheimer precursor protein interaction with the Nogo-66 receptor reduces amyloid-beta plaque deposition. J Neurosci. 2006 Feb 01; 26(5):1386-95. PMID: [16452662](//www.ncbi.nlm.nih.gov/pubmed/16452662); PMCID: [PMC2846286](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2846286).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16452662/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  17. Li S, **Kim JE** , Budel S, Hampton TG, Strittmatter SM. Transgenic inhibition of Nogo-66 receptor function allows axonal sprouting and improved locomotion after spinal injury. Mol Cell Neurosci. 2005 May; 29(1):26-39. PMID: [15866044](//www.ncbi.nlm.nih.gov/pubmed/15866044); PMCID: [PMC3246391](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3246391).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15866044/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular BiologyNeu Neurology
+
+Translation:AnimalsCells
+
+  18. **Kim JE** , Liu BP, Park JH, Strittmatter SM. Nogo-66 receptor prevents raphespinal and rubrospinal axon regeneration and limits functional recovery from spinal cord injury. Neuron. 2004 Oct 28; 44(3):439-51. PMID: [15504325](//www.ncbi.nlm.nih.gov/pubmed/15504325).
+
+Citations:
+[163](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15504325/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  19. Lee JK, **Kim JE** , Sivula M, Strittmatter SM. Nogo receptor antagonism promotes stroke recovery by enhancing axonal plasticity. J Neurosci. 2004 Jul 07; 24(27):6209-17. PMID: [15240813](//www.ncbi.nlm.nih.gov/pubmed/15240813); PMCID: [PMC6729662](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6729662).
+
+Citations:
+[156](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15240813/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  20. Acevedo L, Yu J, Erdjument-Bromage H, Miao RQ, **Kim JE** , Fulton D, Tempst P, Strittmatter SM, Sessa WC. A new role for Nogo as a regulator of vascular remodeling. Nat Med. 2004 Apr; 10(4):382-8. PMID: [15034570](//www.ncbi.nlm.nih.gov/pubmed/15034570).
+
+Citations:
+[104](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15034570/citedby/)
+Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  21. **Kim JE** , Bonilla IE, Qiu D, Strittmatter SM. Nogo-C is sufficient to delay nerve regeneration. Mol Cell Neurosci. 2003 Jul; 23(3):451-9. PMID: [12837628](//www.ncbi.nlm.nih.gov/pubmed/12837628).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12837628/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular BiologyNeu Neurology
+
+Translation:AnimalsCells
+
+  22. **Kim JE** , Li S, Qiu D, Strittmatter SM, GrandPr? T. Axon regeneration in young adult mice lacking Nogo-A/B. Neuron. 2003 Apr 24; 38(2):187-99. PMID: [12718854](//www.ncbi.nlm.nih.gov/pubmed/12718854).
+
+Citations:
+[138](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12718854/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  23. Nakagawa S, **Kim JE** , Lee R, Chen J, Fujioka T, Malberg J, Tsuji S, Duman RS. Localization of phosphorylated cAMP response element-binding protein in immature neurons of adult hippocampus. J Neurosci. 2002 Nov 15; 22(22):9868-76. PMID: [12427843](//www.ncbi.nlm.nih.gov/pubmed/12427843); PMCID: [PMC6757843](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6757843).
+
+Citations:
+[82](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12427843/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  24. Nakagawa S, **Kim JE** , Lee R, Malberg JE, Chen J, Steffen C, Zhang YJ, Nestler EJ, Duman RS. Regulation of neurogenesis in adult mouse hippocampus by cAMP and the cAMP response element-binding protein. J Neurosci. 2002 May 01; 22(9):3673-82. PMID: [11978843](//www.ncbi.nlm.nih.gov/pubmed/11978843); PMCID: [PMC6758358](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6758358).
+
+Citations:
+[170](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11978843/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  25. **Kim JE** , Han BS, Choi WS, Eom DS, Lee EH, Oh TH, Markelonis GJ, Saido TC, Lee GE, Chung IK, Oh YJ. Temporospatial sequence of cellular events associated with etoposide-induced neuronal cell death: role of antiapoptotic protein Bcl-X(L). J Neurosci Res. 2001 Dec 15; 66(6):1074-82. PMID: [11746439](//www.ncbi.nlm.nih.gov/pubmed/11746439).
+
+Citations:  Fields:
+
+Neu Neurology
+
+Translation:HumansCells
+
+  26. Choi WS, Canzoniero LM, Sensi SL, O'Malley KL, Gwag BJ, Sohn S, **Kim JE** , Oh TH, Lee EB, Oh YJ. Characterization of MPP(+)-induced cell death in a dopaminergic neuronal cell line: role of macromolecule synthesis, cytosolic calcium, caspase, and Bcl-2-related proteins. Exp Neurol. 1999 Sep; 159(1):274-82. PMID: [10486196](//www.ncbi.nlm.nih.gov/pubmed/10486196).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10486196/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  27. **Kim JE** , Oh JH, Choi WS, Chang II, Sohn S, Krajewski S, Reed JC, O'Malley KL, Oh YJ. Sequential cleavage of poly(ADP-ribose)polymerase and appearance of a small Bax-immunoreactive protein are blocked by Bcl-X(L) and caspase inhibitors during staurosporine-induced dopaminergic neuronal apoptosis. J Neurochem. 1999 Jun; 72(6):2456-63. PMID: [10349855](//www.ncbi.nlm.nih.gov/pubmed/10349855).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10349855/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  28. Oh JH, Choi WS, **Kim JE** , Seo JW, O'Malley KL, Oh YJ. Overexpression of HA-Bax but not Bcl-2 or Bcl-XL attenuates 6-hydroxydopamine-induced neuronal apoptosis. Exp Neurol. 1998 Nov; 154(1):193-8. PMID: [9875280](//www.ncbi.nlm.nih.gov/pubmed/9875280).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9875280/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  29. Oh YJ, Uhland-Smith A, **Kim JE** , O'Malley KL. Regions outside of the Bcl-2 homology domains, BH1 and BH2 protect a dopaminergic neuronal cell line from staurosporine-induced cell death. Brain Res Mol Brain Res. 1997 Nov; 51(1-2):133-42. PMID: [9427515](//www.ncbi.nlm.nih.gov/pubmed/9427515).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9427515/citedby/) Fields:
+
+Bra BrainMol Molecular Biology
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 29 publications over 16 distinct years, with a maximum of
+5 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,20,20,40,0,20,40,40,60,20,20,40,20,0,0,20,40,0,0,20,0,100,60,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1997| 1  
+1998| 1  
+1999| 2  
+2001| 1  
+2002| 2  
+2003| 2  
+2004| 3  
+2005| 1  
+2006| 1  
+2007| 2  
+2008| 1  
+2011| 1  
+2012| 2  
+2015| 1  
+2017| 5  
+2018| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+KIM's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (264)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Myelin Proteins](https://profiles.viictr.org/profile/263098)
+  * [Nerve Regeneration](https://profiles.viictr.org/profile/256722)
+  * [Neurons](https://profiles.viictr.org/profile/240409)
+  * [Axons](https://profiles.viictr.org/profile/251749)
+  * [Induced Pluripotent Stem Cells](https://profiles.viictr.org/profile/254079)
+
+[Explore](https://profiles.viictr.org/profile/3494074/198)
+
+_
+
+Co-Authors (22)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LEE, BRENDAN](https://profiles.viictr.org/profile/267019)
+  * [BAJIC, ALEKSANDAR](https://profiles.viictr.org/profile/3010475)
+  * [RODNEY JR., GEORGE](https://profiles.viictr.org/profile/267066)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [WESTBROOK, THOMAS](https://profiles.viictr.org/profile/267742)
+
+[Explore](https://profiles.viictr.org/profile/3494074/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+
+[Explore](https://profiles.viictr.org/profile/3494074/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DAVIS, ALAN](https://profiles.viictr.org/profile/267095)
+  * [EDWARDS, DEAN](https://profiles.viictr.org/profile/269114)
+  * [MCCLENDON, LISA](https://profiles.viictr.org/profile/266065)
+  * [YI, PING](https://profiles.viictr.org/profile/267727)
+  * [ZHANG, XIANG](https://profiles.viictr.org/profile/269369)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CONNEELY, ORLA](https://profiles.viictr.org/profile/267996)
+  * [LANZ, RAINER](https://profiles.viictr.org/profile/267684)
+  * [NIKOLAI, BRYAN](https://profiles.viictr.org/profile/1826673)
+  * [TSAI, SOPHIA](https://profiles.viictr.org/profile/266552)
+  * [XU, JIANMING](https://profiles.viictr.org/profile/266985)
+
+_
+

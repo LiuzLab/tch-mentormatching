@@ -1,0 +1,408 @@
+## THOMAS GARCIA
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=AqM%2f7GTUbqz0VIzk4VvAKbnCIhWf&rnd=2e49770a-75b2-4dff-b950-fa865c2d5b03)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=21983646)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01HD106056 (GARCIA, THOMAS)Feb 22, 2022 - Nov 30, 2026NIH  
+Search for new genes involved in male infertility through novel approaches  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01HD095341 (GARCIA, THOMAS)Apr 1, 2018 - Mar 31, 2021NIH  
+FUNCTIONAL GENOMICS AND PROTEOMICS TO REVEAL REPRODUCTIVE-TRACT SPECIFIC
+PROTEINS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Parkes R](https://profiles.viictr.org/profile/39047083), **Garcia TX**. Bringing proteomics to bear on male fertility: key lessons. Expert Rev Proteomics. 2024 Apr; 21(4):181-203. PMID: [38536015](//www.ncbi.nlm.nih.gov/pubmed/38536015).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  2. [Kent K](https://profiles.viictr.org/profile/31194419), Nozawa K, Sutton C, Daniel F, Ikawa M, **Garcia TX** , [Matzuk MM](https://profiles.viictr.org/profile/266520). CUB domains are not required for OVCH2 function in sperm maturation in the mouse epididymis. Andrology. 2024 Mar; 12(3):682-697. PMID: [37551853](//www.ncbi.nlm.nih.gov/pubmed/37551853); PMCID: [PMC10850435](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10850435).
+
+Citations:  Fields:
+
+Rep Reproductive MedicineUro Urology
+
+Translation:HumansAnimalsCells
+
+  3. Sutton C, Nozawa K, [Kent K](https://profiles.viictr.org/profile/31194419), Saltzman A, Leng M, Nagarajan S, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Ikawa M, **Garcia TX** , [Matzuk MM](https://profiles.viictr.org/profile/266520). Molecular dissection and testing of PRSS37 function through LC-MS/MS and the generation of a PRSS37 humanized mouse model. Sci Rep. 2023 07 14; 13(1):11374. PMID: [37452050](//www.ncbi.nlm.nih.gov/pubmed/37452050); PMCID: [PMC10349139](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10349139).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  4. [Tan Z](https://profiles.viictr.org/profile/32901598), **Garcia TX**. SLO3 in the fast lane: The latest male contraceptive target with a promising small-molecule inhibitor. Proc Natl Acad Sci U S A. 2023 02 21; 120(8):e2221758120. PMID: [36791103](//www.ncbi.nlm.nih.gov/pubmed/36791103); PMCID: [PMC9974486](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9974486).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  5. Nozawa K, **Garcia TX** , [Kent K](https://profiles.viictr.org/profile/31194419), Leng M, Jain A, [Malovannaya A](https://profiles.viictr.org/profile/3010185), [Yuan F](https://profiles.viictr.org/profile/37104196), Yu Z, Ikawa M, [Matzuk MM](https://profiles.viictr.org/profile/266520). Testis-specific serine kinase 3 is required for sperm morphogenesis and male fertility. Andrology. 2023 07; 11(5):826-839. PMID: [36306217](//www.ncbi.nlm.nih.gov/pubmed/36306217); PMCID: [PMC10267670](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10267670).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36306217/citedby/) Fields:
+
+Rep Reproductive MedicineUro Urology
+
+Translation:HumansAnimalsCells
+
+  6. Nozawa K, Fujihara Y, Devlin DJ, Deras RE, [Kent K](https://profiles.viictr.org/profile/31194419), [Larina IV](https://profiles.viictr.org/profile/270273), [Umezu K](https://profiles.viictr.org/profile/32870222), Yu Z, [Sutton CM](https://profiles.viictr.org/profile/33092488), Ye Q, Dean LK, Emori C, Ikawa M, **Garcia TX** , [Matzuk MM](https://profiles.viictr.org/profile/266520). The testis-specific E3 ubiquitin ligase RNF133 is required for fecundity in mice. BMC Biol. 2022 07 13; 20(1):161. PMID: [35831855](//www.ncbi.nlm.nih.gov/pubmed/35831855); PMCID: [PMC9277888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9277888).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  7. Oyama Y, Miyata H, Shimada K, Fujihara Y, Tokuhiro K, **Garcia TX** , [Matzuk MM](https://profiles.viictr.org/profile/266520), Ikawa M. CRISPR/Cas9-mediated genome editing reveals 12 testis-enriched genes dispensable for male fertility in mice. Asian J Androl. 2022 May-Jun; 24(3):266-272. PMID: [34290169](//www.ncbi.nlm.nih.gov/pubmed/34290169); PMCID: [PMC9226692](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9226692).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34290169/citedby/) Fields:
+
+Rep Reproductive MedicineUro Urology
+
+Translation:HumansAnimals
+
+  8. Salian S, Makrythanasis P, Lemire G, Rousseau J, Ehresmann S, **Garcia T** , Alasiri R, Bottani A, Hanquinet S, Beaver E, Heeley J, Smith ACM, Berger SI, Antonarakis SE, Yang XJ, Campeau PM, Humbert J, C?t? J. De Novo KAT5 Variants Cause a Syndrome with Recognizable Facial Dysmorphisms, Cerebellar Atrophy, Sleep Disturbance, and Epilepsy. Am J Hum Genet. 2020 09 03; 107(3):564-574. PMID: [32822602](//www.ncbi.nlm.nih.gov/pubmed/32822602); PMCID: [PMC7477011](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7477011).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32822602/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  9. Robertson MJ, [Kent K](https://profiles.viictr.org/profile/31194419), Tharp N, Nozawa K, Dean L, Mathew M, [Grimm SL](https://profiles.viictr.org/profile/35589914), Yu Z, Fujihara Y, Ikawa M, [Coarfa C](https://profiles.viictr.org/profile/265668), [Matzuk MM](https://profiles.viictr.org/profile/266520), **Garcia TX** , L?gar? C, Sullivan R. Large-scale discovery of male reproductive tract-specific genes through analysis of RNA-seq datasets. BMC Biol. 2020 08 19; 18(1):103. PMID: [32814578](//www.ncbi.nlm.nih.gov/pubmed/32814578); PMCID: [PMC7436996](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7436996).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32814578/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimals
+
+  10. Park S, Shimada K, Fujihara Y, Xu Z, Shimada K, Larasati T, Pratiwi P, Matzuk RM, Devlin DJ, Yu Z, **Garcia TX** , [Matzuk MM](https://profiles.viictr.org/profile/266520), Ikawa M. CRISPR/Cas9-mediated genome-edited mice reveal 10 testis-enriched genes are dispensable for male fecundity. Biol Reprod. 2020 08 04; 103(2):195-204. PMID: [32561905](//www.ncbi.nlm.nih.gov/pubmed/32561905); PMCID: [PMC7401030](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7401030).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32561905/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:Animals
+
+  11. Sun J, Lu Y, Nozawa K, Xu Z, Morohoshi A, Castaneda JM, Noda T, Miyata H, Abbasi F, Shawki HH, Takahashi S, Devlin DJ, Yu Z, Matzuk RM, **Garcia TX** , [Matzuk MM](https://profiles.viictr.org/profile/266520), Ikawa M. CRISPR/Cas9-based genome editing in mice uncovers 13 testis- or epididymis-enriched genes individually dispensable for male reproduction?. Biol Reprod. 2020 08 04; 103(2):183-194. PMID: [32588039](//www.ncbi.nlm.nih.gov/pubmed/32588039); PMCID: [PMC7401351](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7401351).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32588039/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:Animals
+
+  12. [Kent K](https://profiles.viictr.org/profile/31194419), Johnston M, Strump N, **Garcia TX**. Toward Development of the Male Pill: A Decade of Potential Non-hormonal Contraceptive Targets. Front Cell Dev Biol. 2020; 8:61. PMID: [32161754](//www.ncbi.nlm.nih.gov/pubmed/32161754); PMCID: [PMC7054227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7054227).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32161754/citedby/)
+
+  13. Holcomb RJ, Oura S, Nozawa K, [Kent K](https://profiles.viictr.org/profile/31194419), Yu Z, Robertson MJ, [Coarfa C](https://profiles.viictr.org/profile/265668), [Matzuk MM](https://profiles.viictr.org/profile/266520), Ikawa M, **Garcia TX**. The testis-specific serine proteases PRSS44, PRSS46, and PRSS54 are dispensable for male mouse fertility?. Biol Reprod. 2020 02 12; 102(1):84-91. PMID: [31403672](//www.ncbi.nlm.nih.gov/pubmed/31403672); PMCID: [PMC7013879](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7013879).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31403672/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:AnimalsCells
+
+  14. Lu Y, Oura S, Matsumura T, Oji A, Sakurai N, Fujihara Y, Shimada K, Miyata H, Tobita T, Noda T, Castaneda JM, Kiyozumi D, Zhang Q, Larasati T, Young SAM, Kodani M, Huddleston CA, Robertson MJ, [Coarfa C](https://profiles.viictr.org/profile/265668), Isotani A, Aitken RJ, Okabe M, [Matzuk MM](https://profiles.viictr.org/profile/266520), **Garcia TX** , Ikawa M. CRISPR/Cas9-mediated genome editing reveals 30 testis-enriched genes dispensable for male fertility in mice?. Biol Reprod. 2019 08 01; 101(2):501-511. PMID: [31201419](//www.ncbi.nlm.nih.gov/pubmed/31201419); PMCID: [PMC6735960](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6735960).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31201419/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansAnimalsCells
+
+  15. Parekh PA, **Garcia TX** , Waheeb R, Jain V, Gandhi P, Meistrich ML, [Shetty G](https://profiles.viictr.org/profile/12583707), [Hofmann MC](https://profiles.viictr.org/profile/12583606). Undifferentiated spermatogonia regulate Cyp26b1 expression through NOTCH signaling and drive germ cell differentiation. FASEB J. 2019 07; 33(7):8423-8435. PMID: [30991836](//www.ncbi.nlm.nih.gov/pubmed/30991836); PMCID: [PMC6593872](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6593872).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30991836/citedby/) Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  16. Parekh PA, **Garcia TX** , [Hofmann MC](https://profiles.viictr.org/profile/12583606). Regulation of GDNF expression in Sertoli cells. Reproduction. 2019 03; 157(3):R95-R107. PMID: [30620720](//www.ncbi.nlm.nih.gov/pubmed/30620720); PMCID: [PMC6602878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6602878).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30620720/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansAnimalsCells
+
+  17. Ehresmann S, Beauregard-Lacroix E, Rousseau J, **Garcia T** , Avni S, McWalter K, Blackburn PR, Sanders SJ, Harris J, Cohen JS, Blyth M, Lehman A, Berg J, Li MH, Kini U, Joss S, von der Lippe C, Humberson JB, [Robak L](https://profiles.viictr.org/profile/14348300), Scott DA, [Sutton VR](https://profiles.viictr.org/profile/269795), Skraban CM, Johnston JJ, Poduri A, Shashi V, Gerkes EH, Bongers EMHF, Gilissen C, Zarate YA, Kvarnung M, Lally KP, Kulch PA, Daniels B, Hernandez-Garcia A, Stong N, McGaughran J, Retterer K, Tveten K, Sullivan J, Geisheker MR, Stray-Pedersen A, Tarpinian JM, Klee EW, Sapp JC, Zyskind J, Bedoukian E, Punetha J, Pfundt R, Lindstrand A, Nordgren A, Kalb F, Desai M, Ebanks AH, Jhangiani SN, Dewan T, Coban Akdemir ZH, Telegrafi A, Zackai EH, Begtrup A, Song X, Wentzensen IM, CAUSES Study, Troyer C, Whitlock K, Caluseriu O, Murphree MI, Pichurin PN, Agre K, Gavrilova R, Rinne T, Park M, Shain C, Heinzen EL, Xiao R, Biesecker LG, Lowenstein D, [Posey JE](https://profiles.viictr.org/profile/6714377), Deciphering Developmental Disorders study, Yang XJ, Rosenfeld JA, Redon R, Stessman HAF, Nellaker C, Yang Y, [Lupski JR](https://profiles.viictr.org/profile/268099), Goldstein DB, Eichler EE, Bolduc F, Campeau PM, Cogn? B, Besnard T, Petrovski S, Uguen K, Gordon CT, Nordenskj?ld M, Holla ?L, Filippini F, Guimier A, Picard A, Busk ?L, Toutain A, Odent S, Bonneau D, Latypova X, Deb W, Redon S, Bilan F, Legendre M, Amiel J, Lyonnet S, Isidor B, Denomm?-Pichon AS, F?rec C, Gilbert-Dussardier B, Audebert-Bellanger S, B?zieau S, K?ry S. Missense Variants in the Histone Acetyltransferase Complex Component Gene TRRAP Cause Autism and Syndromic Intellectual Disability. Am J Hum Genet. 2019 03 07; 104(3):530-541. PMID: [30827496](//www.ncbi.nlm.nih.gov/pubmed/30827496); PMCID: [PMC6407527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6407527).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30827496/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  18. [Machol K](https://profiles.viictr.org/profile/3010062), Rousseau J, Ehresmann S, **Garcia T** , Nguyen TTM, Spillmann RC, Sullivan JA, Shashi V, Jiang YH, Stong N, Fiala E, Willing M, Pfundt R, Kleefstra T, Cho MT, McLaughlin H, Roscioli T, Nixon CY, Buckley MF, Turner A, Jones WD, van Hasselt PM, Hofstede FC, van Gassen KLI, Brooks AS, van Slegtenhorst MA, Lachlan K, Sebastian J, Madan-Khetarpal S, Sonal D, Sakkubai N, Krantz ID, Tarpinian JM, Rosenfeld JA, [Lee BH](https://profiles.viictr.org/profile/267019), Undiagnosed Diseases Network, Campeau PM, Rosello Piera M, Orellana C, Mart?nez F, Caro-Llopis A, Monfort S, Thevenon J, Faivre L, Maurel A, Petrovski S. Expanding the Spectrum of BAF-Related Disorders: De Novo Variants in SMARCC2 Cause a Syndrome with Intellectual Disability and Developmental Delay. Am J Hum Genet. 2019 01 03; 104(1):164-178. PMID: [30580808](//www.ncbi.nlm.nih.gov/pubmed/30580808); PMCID: [PMC6323608](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6323608).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30580808/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  19. **Garcia TX** , Parekh P, Gandhi P, Sinha K, [Hofmann MC](https://profiles.viictr.org/profile/12583606). The NOTCH Ligand JAG1 Regulates GDNF Expression in Sertoli Cells. Stem Cells Dev. 2017 04 15; 26(8):585-598. PMID: [28051360](//www.ncbi.nlm.nih.gov/pubmed/28051360); PMCID: [PMC5393414](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5393414).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28051360/citedby/) Fields:
+
+Cel Cell BiologyHem Hematology
+
+Translation:AnimalsCells
+
+  20. **Garcia TX** , Farmaha JK, Kow S, [Hofmann MC](https://profiles.viictr.org/profile/12583606). RBPJ in mouse Sertoli cells is required for proper regulation of the testis stem cell niche. Development. 2014 Dec; 141(23):4468-78. PMID: [25406395](//www.ncbi.nlm.nih.gov/pubmed/25406395); PMCID: [PMC4302926](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4302926).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25406395/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  21. **Garcia TX** , Costa GM, [Hofmann MC](https://profiles.viictr.org/profile/12583606), Fran?a LR. Sub-acute intravenous administration of silver nanoparticles in male mice alters Leydig cell function and testosterone levels. Reprod Toxicol. 2014 Jun; 45:59-70. PMID: [24447867](//www.ncbi.nlm.nih.gov/pubmed/24447867); PMCID: [PMC4309383](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4309383).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24447867/citedby/) Fields:
+
+Emb EmbryologyRep Reproductive MedicineTox Toxicology
+
+Translation:Animals
+
+  22. **Garcia TX** , [Hofmann MC](https://profiles.viictr.org/profile/12583606). NOTCH signaling in Sertoli cells regulates gonocyte fate. Cell Cycle. 2013 Aug 15; 12(16):2538-45. PMID: [23907117](//www.ncbi.nlm.nih.gov/pubmed/23907117); PMCID: [PMC3865042](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3865042).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23907117/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  23. **Garcia TX** , DeFalco T, Capel B, [Hofmann MC](https://profiles.viictr.org/profile/12583606). Constitutive activation of NOTCH1 signaling in Sertoli cells causes gonocyte exit from quiescence. Dev Biol. 2013 May 01; 377(1):188-201. PMID: [23391689](//www.ncbi.nlm.nih.gov/pubmed/23391689); PMCID: [PMC3630254](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3630254).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23391689/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  24. **Garcia T** , [Hofmann MC](https://profiles.viictr.org/profile/12583606). Isolation of undifferentiated and early differentiating type A spermatogonia from Pou5f1-GFP reporter mice. Methods Mol Biol. 2012; 825:31-44. PMID: [22144234](//www.ncbi.nlm.nih.gov/pubmed/22144234); PMCID: [PMC3314309](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3314309).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22144234/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  25. Simon L, Ekman GC, **Garcia T** , Carnes K, Zhang Z, Murphy T, Murphy KM, Hess RA, Cooke PS, [Hofmann MC](https://profiles.viictr.org/profile/12583606). ETV5 regulates sertoli cell chemokines involved in mouse stem/progenitor spermatogonia maintenance. Stem Cells. 2010 Oct; 28(10):1882-92. PMID: [20799334](//www.ncbi.nlm.nih.gov/pubmed/20799334); PMCID: [PMC3109872](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3109872).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20799334/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  26. Lin Z, Witschas K, **Garcia T** , Chen RS, Hansen JP, Sellers ZM, Kuzmenkina E, Herzig S, Best PM. A critical GxxxA motif in the gamma6 calcium channel subunit mediates its inhibitory effect on Cav3.1 calcium current. J Physiol. 2008 Nov 15; 586(22):5349-66. PMID: [18818244](//www.ncbi.nlm.nih.gov/pubmed/18818244); PMCID: [PMC2655381](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2655381).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18818244/citedby/) Fields:
+
+Phy Physiology
+
+Translation:HumansAnimalsCells
+
+  27. Chen RS, Deng TC, **Garcia T** , Sellers ZM, Best PM. Calcium channel gamma subunits: a functionally diverse protein family. Cell Biochem Biophys. 2007; 47(2):178-86. PMID: [17652770](//www.ncbi.nlm.nih.gov/pubmed/17652770).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17652770/citedby/) Fields:
+
+Bio BiochemistryBio BiophysicsCel Cell Biology
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 27 publications over 13 distinct years, with a maximum of
+6 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,17,17,0,17,0,17,33,33,0,0,17,17,67,100,0,50,50,17&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2008| 1  
+2010| 1  
+2012| 1  
+2013| 2  
+2014| 2  
+2017| 1  
+2018| 1  
+2019| 4  
+2020| 6  
+2022| 3  
+2023| 3  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+GARCIA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (168)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Testis](https://profiles.viictr.org/profile/260603)
+  * [Sertoli Cells](https://profiles.viictr.org/profile/248089)
+  * [Spermatogonia](https://profiles.viictr.org/profile/248971)
+  * [Infertility, Male](https://profiles.viictr.org/profile/242143)
+  * [Spermatogenesis](https://profiles.viictr.org/profile/243473)
+
+[Explore](https://profiles.viictr.org/profile/21983646/198)
+
+_
+
+Co-Authors (19)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HOFMANN, MARIE-CLAUDE](https://profiles.viictr.org/profile/12583606)
+  * [Kent, Katarzyna](https://profiles.viictr.org/profile/31194419)
+  * [MATZUK, MARTIN](https://profiles.viictr.org/profile/266520)
+  * [Parkes, Rachel](https://profiles.viictr.org/profile/39047083)
+  * [TAN, ZHI](https://profiles.viictr.org/profile/32901598)
+
+[Explore](https://profiles.viictr.org/profile/21983646/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [SCHLATT, STEFAN](https://profiles.viictr.org/profile/2619423)
+  * [MATZUK, MARTIN](https://profiles.viictr.org/profile/266520)
+  * [LIPSHULTZ, LARRY](https://profiles.viictr.org/profile/266450)
+  * [HOFMANN, MARIE-CLAUDE](https://profiles.viictr.org/profile/12583606)
+  * [SHETTY, GUNAPALA](https://profiles.viictr.org/profile/12583707)
+
+[Explore](https://profiles.viictr.org/profile/21983646/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHIKWAVA, KUDAKWASHE](https://profiles.viictr.org/profile/38090300)
+  * [DINARVAND, PEYMAN](https://profiles.viictr.org/profile/35020851)
+  * [FISHER, KEVIN](https://profiles.viictr.org/profile/8451894)
+  * [KEARNEY, DEBRA](https://profiles.viictr.org/profile/269620)
+  * [MARGINEAN, CELIA](https://profiles.viictr.org/profile/35549190)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

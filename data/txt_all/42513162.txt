@@ -1,0 +1,249 @@
+## MICHAEL TISZA
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=G6Iz6WTCLMXBT5z34VvAKbnCIhWf&rnd=a65831bf-
+ad47-43d9-9f66-69a077469ce6)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=42513162)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Buck CB, Welch N, Belford AK, Varsani A, Pastrana DV, **Tisza MJ** , Starrett GJ. Widespread Horizontal Gene Transfer Among Animal Viruses. bioRxiv. 2024 Mar 26. PMID: [38712252](//www.ncbi.nlm.nih.gov/pubmed/38712252); PMCID: [PMC11071296](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11071296).
+
+Citations:
+
+  2. Oghuan J, Chavarria C, Vanderwal SR, Gitter A, Ojaruega AA, Monserrat C, Bauer CX, Brown EL, Cregeen SJ, Deegan J, Hanson BM, **Tisza M** , Ocaranza HI, Balliew J, [Maresso AW](https://profiles.viictr.org/profile/269263), Rios J, [Boerwinkle E](https://profiles.viictr.org/profile/267689), Mena KD, Wu F. Wastewater analysis of Mpox virus in a city with low prevalence of Mpox disease: an environmental surveillance study. Lancet Reg Health Am. 2023 Dec; 28:100639. PMID: [38076410](//www.ncbi.nlm.nih.gov/pubmed/38076410); PMCID: [PMC10701415](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10701415).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38076410/citedby/)
+
+  3. **Tisza M** , [Javornik Cregeen S](https://profiles.viictr.org/profile/31330339), [Avadhanula V](https://profiles.viictr.org/profile/28999033), Zhang P, Ayvaz T, Feliz K, Hoffman KL, Clark JR, Terwilliger A, [Ross MC](https://profiles.viictr.org/profile/1826609), Cormier J, Moreno H, Wang L, Payne K, Henke D, [Troisi C](https://profiles.viictr.org/profile/266717), Wu F, Rios J, Deegan J, Hansen B, Balliew J, Gitter A, Zhang K, Li R, Bauer CX, Mena KD, [Piedra PA](https://profiles.viictr.org/profile/268114), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Maresso AW](https://profiles.viictr.org/profile/269263). Wastewater sequencing reveals community and variant dynamics of the collective human virome. Nat Commun. 2023 10 28; 14(1):6878. PMID: [37898601](//www.ncbi.nlm.nih.gov/pubmed/37898601); PMCID: [PMC10613200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10613200).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37898601/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCellsPHPublic Health
+
+  4. **Tisza M** , [Lloyd R](https://profiles.viictr.org/profile/269833), Hoffman K, Smith D, Rewers M, TEDDY Study Group, Cregeen SJ, [Petrosino JF](https://profiles.viictr.org/profile/267058). Phage-bacteria dynamics during the first years of life revealed by trans-kingdom marker gene analysis. bioRxiv. 2023 Sep 29. PMID: [37808738](//www.ncbi.nlm.nih.gov/pubmed/37808738); PMCID: [PMC10557657](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10557657).
+
+Citations:
+
+  5. **Tisza MJ** , Smith DDN, Clark AE, Youn JH, NISC Comparative Sequencing Program, Khil PP, Dekker JP. Roving methyltransferases generate a mosaic epigenetic landscape and influence evolution in Bacteroides fragilis group. Nat Commun. 2023 07 10; 14(1):4082. PMID: [37429841](//www.ncbi.nlm.nih.gov/pubmed/37429841); PMCID: [PMC10333322](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10333322).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37429841/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  6. Clark JR, Terwilliger A, [Avadhanula V](https://profiles.viictr.org/profile/28999033), **Tisza M** , Cormier J, Javornik-Cregeen S, [Ross MC](https://profiles.viictr.org/profile/1826609), Hoffman KL, [Troisi C](https://profiles.viictr.org/profile/266717), Hanson B, [Petrosino J](https://profiles.viictr.org/profile/267058), Balliew J, [Piedra PA](https://profiles.viictr.org/profile/268114), Rios J, Deegan J, Bauer C, Wu F, Mena KD, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Maresso AW](https://profiles.viictr.org/profile/269263). Wastewater pandemic preparedness: Toward an end-to-end pathogen monitoring program. Front Public Health. 2023; 11:1137881. PMID: [37026145](//www.ncbi.nlm.nih.gov/pubmed/37026145); PMCID: [PMC10070845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10070845).
+
+Citations:  Fields:
+
+Pub Public Health
+
+Translation:HumansCellsPHPublic Health
+
+  7. Delwart E, **Tisza MJ** , Altan E, Li Y, Deng X, Hartigan-O'Connor DJ, Ardeshir A. Idiopathic Chronic Diarrhea in Rhesus Macaques Is Not Associated with Enteric Viral Infections. Viruses. 2021 12 14; 13(12). PMID: [34960771](//www.ncbi.nlm.nih.gov/pubmed/34960771); PMCID: [PMC8707486](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8707486).
+
+Citations:
+
+  8. Starrett GJ, **Tisza MJ** , Welch NL, Belford AK, Peretti A, Pastrana DV, Buck CB. Adintoviruses: a proposed animal-tropic family of midsize eukaryotic linear dsDNA (MELD) viruses. Virus Evol. 2021 Jan; 7(1):veaa055. PMID: [34646575](//www.ncbi.nlm.nih.gov/pubmed/34646575); PMCID: [PMC8502044](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8502044).
+
+Citations:
+
+  9. Malki K, Sawaya NA, **Tisza MJ** , Coutinho FH, Rosario K, Sz?kely AJ, Breitbart M. Spatial and Temporal Dynamics of Prokaryotic and Viral Community Assemblages in a Lotic System (Manatee Springs, Florida). Appl Environ Microbiol. 2021 08 26; 87(18):e0064621. PMID: [34232732](//www.ncbi.nlm.nih.gov/pubmed/34232732); PMCID: [PMC8388828](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8388828).
+
+Citations:
+
+  10. **Tisza MJ** , Buck CB. A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases. Proc Natl Acad Sci U S A. 2021 06 08; 118(23). PMID: [34083435](//www.ncbi.nlm.nih.gov/pubmed/34083435); PMCID: [PMC8201803](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8201803).
+
+Citations:
+
+  11. **Tisza MJ** , Belford AK, Dom?nguez-Huerta G, Bolduc B, Buck CB. Cenote-Taker 2 democratizes virus discovery and sequence annotation. Virus Evol. 2021 Jan; 7(1):veaa100. PMID: [33505708](//www.ncbi.nlm.nih.gov/pubmed/33505708); PMCID: [PMC7816666](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7816666).
+
+Citations:
+
+  12. Gener AR, Miller SD, Brito AF, Camacho CE, Connor R, Deboutte W, Glickman C, Kristensen DM, Meyer WK, Modha S, Norris AL, Saha S, Belford AK, Biederstedt E, Brister JR, Buchmann JP, Cooley NP, Edwards RA, Javkar K, Muchow M, Muralidharan HS, Pepe-Ranney C, Shah N, Shakya M, **Tisza MJ** , Tully BJ, Vanmechelen B, Virta VC, Weissman JL, Zalunin V, Efremov A, Busby B, Mart?-Carreras J. NCBI's Virus Discovery Codeathon: Building "FIVE" -The Federated Index of Viral Experiments API Index. Viruses. 2020 12 10; 12(12). PMID: [33322070](//www.ncbi.nlm.nih.gov/pubmed/33322070); PMCID: [PMC7764237](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7764237).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33322070/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  13. Uritskiy G, **Tisza MJ** , Gelsinger DR, Munn A, Taylor J, DiRuggiero J. Cellular life from the three domains and viruses are transcriptionally active in a hypersaline desert community. Environ Microbiol. 2021 07; 23(7):3401-3417. PMID: [32307861](//www.ncbi.nlm.nih.gov/pubmed/32307861).
+
+Citations:
+
+  14. Malki K, Rosario K, Sawaya NA, Sz?kely AJ, **Tisza MJ** , Breitbart M. Prokaryotic and Viral Community Composition of Freshwater Springs in Florida, USA. mBio. 2020 04 07; 11(2). PMID: [32265327](//www.ncbi.nlm.nih.gov/pubmed/32265327); PMCID: [PMC7157768](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7157768).
+
+Citations:
+
+  15. **Tisza MJ** , Pastrana DV, Welch NL, Stewart B, Peretti A, Starrett GJ, Pang YS, Krishnamurthy SR, Pesavento PA, McDermott DH, Murphy PM, Whited JL, Miller B, Brenchley J, Rosshart SP, Rehermann B, Doorbar J, Ta'ala BA, Pletnikova O, Troncoso JC, Resnick SM, Bolduc B, Sullivan MB, Varsani A, Segall AM, Buck CB. Discovery of several thousand highly diverse circular DNA viruses. Elife. 2020 02 04; 9. PMID: [32014111](//www.ncbi.nlm.nih.gov/pubmed/32014111); PMCID: [PMC7000223](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7000223).
+
+Citations:
+
+  16. **Tisza MJ** , Yuan H, Schlegel R, Buck CB. Genomic Sequence of Canine Papillomavirus 19. Genome Announc. 2016 Dec 08; 4(6). PMID: [27932663](//www.ncbi.nlm.nih.gov/pubmed/27932663); PMCID: [PMC5146455](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5146455).
+
+Citations:
+
+  17. **Tisza MJ** , Zhao W, Fuentes JS, Prijic S, Chen X, Levental I, Chang JT. Motility and stem cell properties induced by the epithelial-mesenchymal transition require destabilization of lipid rafts. Oncotarget. 2016 Aug 09; 7(32):51553-51568. PMID: [27303921](//www.ncbi.nlm.nih.gov/pubmed/27303921); PMCID: [PMC5239496](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5239496).
+
+Citations:
+
+  18. Buck CB, Van Doorslaer K, Peretti A, Geoghegan EM, **Tisza MJ** , An P, Katz JP, Pipas JM, McBride AA, Camus AC, McDermott AJ, Dill JA, Delwart E, Ng TF, Farkas K, Austin C, Kraberger S, Davison W, Pastrana DV, Varsani A. The Ancient Evolutionary History of Polyomaviruses. PLoS Pathog. 2016 Apr; 12(4):e1005574. PMID: [27093155](//www.ncbi.nlm.nih.gov/pubmed/27093155); PMCID: [PMC4836724](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4836724).
+
+Citations:
+
+  19. Zhao W, Prijic S, Urban BC, **Tisza MJ** , Zuo Y, Li L, Tan Z, Chen X, [Mani SA](https://profiles.viictr.org/profile/12583524), Chang JT. Candidate Antimetastasis Drugs Suppress the Metastatic Capacity of Breast Cancer Cells by Reducing Membrane Fluidity. Cancer Res. 2016 04 01; 76(7):2037-49. PMID: [26825169](//www.ncbi.nlm.nih.gov/pubmed/26825169); PMCID: [PMC8491548](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8491548).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26825169/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 19 publications over 5 distinct years, with a maximum of 5
+publications in 2020 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,100,80,0,100,20&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2016| 4  
+2020| 5  
+2021| 4  
+2023| 5  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+TISZA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (85)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Viruses](https://profiles.viictr.org/profile/244257)
+  * [Metagenome](https://profiles.viictr.org/profile/240247)
+  * [Poliovirus](https://profiles.viictr.org/profile/252183)
+  * [DNA Viruses](https://profiles.viictr.org/profile/264201)
+  * [Bacteriophages](https://profiles.viictr.org/profile/256863)
+
+[Explore](https://profiles.viictr.org/profile/42513162/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [PETROSINO, JOSEPH](https://profiles.viictr.org/profile/267058)
+  * [MARESSO, ANTHONY](https://profiles.viictr.org/profile/269263)
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [TROISI, CATHERINE](https://profiles.viictr.org/profile/266717)
+  * [PIEDRA, PEDRO](https://profiles.viictr.org/profile/268114)
+
+[Explore](https://profiles.viictr.org/profile/42513162/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PETROSINO, JOSEPH](https://profiles.viictr.org/profile/267058)
+  * [MARESSO, ANTHONY](https://profiles.viictr.org/profile/269263)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [LLOYD, RICHARD](https://profiles.viictr.org/profile/269833)
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+
+[Explore](https://profiles.viictr.org/profile/42513162/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DI RIENZI, SARA](https://profiles.viictr.org/profile/22016845)
+  * [DIEHL, GRETCHEN](https://profiles.viictr.org/profile/8183315)
+  * [ETTAYEBI, KHALIL](https://profiles.viictr.org/profile/37834414)
+  * [GILBERT, BRIAN](https://profiles.viictr.org/profile/269479)
+  * [LING, PAUL](https://profiles.viictr.org/profile/268320)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

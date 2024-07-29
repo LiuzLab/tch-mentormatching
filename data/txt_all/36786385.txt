@@ -1,0 +1,963 @@
+## FRANCESCA POLVERINO
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 6501 Fannin St  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=ELkx72bCM4j0CL%2fi7G3HOL2CKDGIlChMFRg5&rnd=ecad0e18-a380-4299-9218-08b3843276cf)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=36786385)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Polverino F** , Sin DD, Sin DD. Type 2 airway inflammation in COPD. Eur Respir J. 2024 May; 63(5). PMID: [38485148](//www.ncbi.nlm.nih.gov/pubmed/38485148).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCells
+
+  2. Soriano JB, **Polverino F**. Sexual activity and respiratory disease: A systematic review. Respir Med. 2024 Jul; 228:107665. PMID: [38768665](//www.ncbi.nlm.nih.gov/pubmed/38768665).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  3. Olvera N, S?nchez-Valle J, N??ez-Carpintero I, Rojas-Quintero J, Noell G, Casas-Recasens S, Faiz A, Hansbro P, Guirao A, Lepore R, Cirillo D, Agust? A, **Polverino F** , Valencia A, Faner R. Lung Tissue Multi-Layer Network Analysis Uncovers the Molecular Heterogeneity of COPD. Am J Respir Crit Care Med. 2024 Apr 16. PMID: [38626356](//www.ncbi.nlm.nih.gov/pubmed/38626356).
+
+Citations:  Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+  4. **Polverino F**. Clearing the Air: Innovations in Imaging for Early Detection and Management of Chronic Obstructive Pulmonary Disease. Am J Respir Crit Care Med. 2024 Apr 15; 209(8):1042-1043. PMID: [38227941](//www.ncbi.nlm.nih.gov/pubmed/38227941).
+
+Citations:  Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+  5. **Polverino F** , Mora A. Alveolar Epithelial Cell Dysfunction in Idiopathic Pulmonary Fibrosis Linked to Lipid Alterations: Therapeutic Implications. Am J Respir Cell Mol Biol. 2024 Apr; 70(4):233-234. PMID: [38271680](//www.ncbi.nlm.nih.gov/pubmed/38271680).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  6. Zhang H, Mulqueen RM, Iannuzo N, Farrera DO, **Polverino F** , Galligan JJ, Ledford JG, Adey AC, Cusanovich DA. txci-ATAC-seq: a massive-scale single-cell technique to profile chromatin accessibility. Genome Biol. 2024 03 22; 25(1):78. PMID: [38519979](//www.ncbi.nlm.nih.gov/pubmed/38519979); PMCID: [PMC10958877](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10958877).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  7. Rojas-Quintero J, Ochsner SA, New F, Divakar P, Yang CX, [Wu TD](https://profiles.viictr.org/profile/31785622), Robinson J, Chandrashekar DS, Banovich NE, Rosas IO, Sauler M, [Kheradmand F](https://profiles.viictr.org/profile/270223), Gaggar A, Margaroli C, San Jose Estepar R, [McKenna NJ](https://profiles.viictr.org/profile/268182), **Polverino F**. Spatial Transcriptomics Resolve an Emphysema-Specific Lymphoid Follicle B Cell Signature in Chronic Obstructive Pulmonary Disease. Am J Respir Crit Care Med. 2024 Jan 01; 209(1):48-58. PMID: [37934672](//www.ncbi.nlm.nih.gov/pubmed/37934672); PMCID: [PMC10870877](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10870877).
+
+Citations:  Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  8. Rojas-Quintero J, Ochsner SA, New F, Divakar P, Yang CX, [Wu TD](https://profiles.viictr.org/profile/31785622), Robinson J, Shimoga Chandrashekar D, Banovich NE, [Rosas IO](https://profiles.viictr.org/profile/29494161), Sauler M, [Kheradmand F](https://profiles.viictr.org/profile/270223), Gaggar A, Margaroli C, San Jose Estepar R, [McKenna NJ](https://profiles.viictr.org/profile/268182), **Polverino F**. Spatial Transcriptomics Resolve an Emphysema-specific Lymphoid Follicle B Cell Signature in COPD. Am J Respir Crit Care Med. 2023 Dec 08. PMID: [38064378](//www.ncbi.nlm.nih.gov/pubmed/38064378).
+
+Citations:  Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+  9. Iannuzo N, Welfley H, Li NC, Johnson MDL, Rojas-Quintero J, **Polverino F** , Guerra S, Li X, Cusanovich DA, Langlais PR, Ledford JG. CC16 drives VLA-2-dependent SPLUNC1 expression. Front Immunol. 2023; 14:1277582. PMID: [38053993](//www.ncbi.nlm.nih.gov/pubmed/38053993); PMCID: [PMC10694244](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10694244).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  10. Liu G, Haw TJ, Starkey MR, Philp AM, Pavlidis S, Nalkurthi C, Nair PM, Gomez HM, Hanish I, Hsu AC, Hortle E, Pickles S, Rojas-Quintero J, Estepar RSJ, Marshall JE, Kim RY, Collison AM, Mattes J, Idrees S, Faiz A, Hansbro NG, Fukui R, Murakami Y, Cheng HS, Tan NS, Chotirmall SH, Horvat JC, Foster PS, Oliver BG, **Polverino F** , Ieni A, Monaco F, Caramori G, Sohal SS, Bracke KR, Wark PA, Adcock IM, Miyake K, Sin DD, Hansbro PM. TLR7 promotes smoke-induced experimental lung damage through the activity of mast cell tryptase. Nat Commun. 2023 Nov 14; 14(1):7349. PMID: [37963864](//www.ncbi.nlm.nih.gov/pubmed/37963864); PMCID: [PMC10646046](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10646046).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimals
+
+  11. Soriano JB, **Polverino F**. Sex and gender in COPD and asthma. Eur Respir J. 2023 Nov; 62(5). PMID: [37945042](//www.ncbi.nlm.nih.gov/pubmed/37945042).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+  12. Summers B, Kim K, Lu TM, Houghton S, Trivedi A, Quintero JR, Cala-Garcia J, Pannellini T, **Polverino F** , Lis R, Reed HO. Lymphatic Dysfunction Models an Autoimmune Emphysema Phenotype of Chronic Obstructive Pulmonary Disease. bioRxiv. 2023 Nov 02. PMID: [37961242](//www.ncbi.nlm.nih.gov/pubmed/37961242); PMCID: [PMC10635025](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10635025).
+
+Citations:
+
+  13. Tesfaigzi Y, Curtis JL, Petrache I, **Polverino F** , [Kheradmand F](https://profiles.viictr.org/profile/270223), Adcock IM, Rennard SI. Does Chronic Obstructive Pulmonary Disease Originate from Different Cell Types? Am J Respir Cell Mol Biol. 2023 11; 69(5):500-507. PMID: [37584669](//www.ncbi.nlm.nih.gov/pubmed/37584669); PMCID: [PMC10633838](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10633838).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37584669/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  14. Polverino M, Sampaolo S, Capuozzo A, Fasolino M, Aliberti M, Satta E, Santoriello C, [Orengo JP](https://profiles.viictr.org/profile/15317718), **Polverino F**. Respiratory Function Changes as Early Signs of Amyotrophic Lateral Sclerosis. Respiration. 2023; 102(11):919-923. PMID: [37844546](//www.ncbi.nlm.nih.gov/pubmed/37844546); PMCID: [PMC10842422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10842422).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37844546/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  15. Divo MJ, Liu C, Castaldi PJ, Celli BR, Tesfaigzi Y, **Polverino F**. From pre-COPD to COPD: a Simple, Low cost and easy to IMplement (SLIM) risk calculator. Eur Respir J. 2023 09; 62(3). PMID: [37678951](//www.ncbi.nlm.nih.gov/pubmed/37678951); PMCID: [PMC10533946](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10533946).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37678951/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  16. Celada SI, Lim CX, Carisey AF, Ochsner SA, Arce Deza CF, Rexie P, Poli De Frias F, Cardenas-Castillo R, **Polverino F** , [Tsoyi K](https://profiles.viictr.org/profile/29494189), [McKenna NJ](https://profiles.viictr.org/profile/268182), [Kheradmand F](https://profiles.viictr.org/profile/270223), Weichhart T, [Rosas IO](https://profiles.viictr.org/profile/29494161), Van Kaer L, [Celada LJ](https://profiles.viictr.org/profile/31586229), Hengstschl?ger M. SHP2 promotes sarcoidosis severity by inhibiting SKP2-targeted ubiquitination of TBET in CD8+ T cells. Sci Transl Med. 2023 09 13; 15(713):eade2581. PMID: [37703351](//www.ncbi.nlm.nih.gov/pubmed/37703351); PMCID: [PMC11126869](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11126869).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  17. Lingappan K, [Olutoye OO](https://profiles.viictr.org/profile/266840), Cantu A, Cantu Gutierrez ME, Cortes-Santiago N, Hammond JD, [Gilley J](https://profiles.viictr.org/profile/15318056), Quintero JR, Li H, **Polverino F** , Gleghorn JP, [Keswani SG](https://profiles.viictr.org/profile/11419586). Molecular insights using spatial transcriptomics of the distal lung in congenital diaphragmatic hernia. Am J Physiol Lung Cell Mol Physiol. 2023 10 01; 325(4):L477-L486. PMID: [37605849](//www.ncbi.nlm.nih.gov/pubmed/37605849); PMCID: [PMC10639013](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10639013).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular BiologyPhy PhysiologyPul Pulmonary Medicine
+
+Translation:HumansCells
+
+  18. Tanyaratsrisakul S, Dy ABC, **Polverino F** , Numata M, Ledford JG. Myeloid-associated differentiation marker is associated with type 2 asthma and is upregulated by human rhinovirus infection. Front Immunol. 2023; 14:1237683. PMID: [37638015](//www.ncbi.nlm.nih.gov/pubmed/37638015); PMCID: [PMC10450947](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10450947).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  19. Bracke KR, **Polverino F**. Blunted adaptive immune responses and acute exacerbations of COPD: breaking the code. Eur Respir J. 2023 08; 62(2). PMID: [37536726](//www.ncbi.nlm.nih.gov/pubmed/37536726).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCells
+
+  20. **Polverino F** , Kalhan R. Leveraging Omics to Predict Chronic Obstructive Pulmonary Disease Exacerbations: The "Immunome". Am J Respir Crit Care Med. 2023 08 01; 208(3):220-222. PMID: [37352489](//www.ncbi.nlm.nih.gov/pubmed/37352489); PMCID: [PMC10395726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10395726).
+
+Citations:  Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  21. **Polverino F**. Genetic Susceptibility to Chronic Obstructive Pulmonary Disease and Idiopathic Pulmonary Fibrosis: The Missing Link? Am J Respir Cell Mol Biol. 2023 05; 68(5):482-484. PMID: [36753719](//www.ncbi.nlm.nih.gov/pubmed/36753719); PMCID: [PMC10174170](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10174170).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Humans
+
+  22. **Polverino F** , Sciurba F. Lung volume reduction in COPD: scope or surgery. Eur Respir J. 2023 04; 61(4). PMID: [37105590](//www.ncbi.nlm.nih.gov/pubmed/37105590).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  23. Rojas-Quintero J, Laucho-Contreras ME, Wang X, Fucci QA, Burkett PR, Kim SJ, Zhang D, Tesfaigzi Y, Li Y, Bhashyam AR, Li Z, Khamas H, Celli B, Pilon AL, **Polverino F** , Owen CA. CC16 augmentation reduces exaggerated COPD-like disease in Cc16-deficient mice. JCI Insight. 2023 03 22; 8(6). PMID: [36787195](//www.ncbi.nlm.nih.gov/pubmed/36787195); PMCID: [PMC10070105](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10070105).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36787195/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimals
+
+  24. **Polverino F** , Sampaolo S, Capuozzo A, Fasolino M, Aliberti M, Satta E, Santoriello C, Polverino M. Diagnosis of amyotrophic lateral sclerosis by respiratory function test. Multidiscip Respir Med. 2023 Jan 17; 18(1):941. PMID: [38322130](//www.ncbi.nlm.nih.gov/pubmed/38322130); PMCID: [PMC10782889](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10782889).
+
+Citations:
+
+  25. **Polverino F** , Stern DA, Snyder EM, Wheatley-Guy C, Bhatt SP, Martinez FD, Guerra S, Morgan WJ. Lower respiratory illnesses in childhood are associated with the presence of air trapping in early adulthood. Respir Med. 2023 01; 206:107062. PMID: [36508986](//www.ncbi.nlm.nih.gov/pubmed/36508986); PMCID: [PMC10389168](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10389168).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36508986/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  26. **Polverino F** , Celli B. Challenges in the Pharmacotherapy of COPD Subtypes. Arch Bronconeumol. 2023 05; 59(5):284-287. PMID: [36464514](//www.ncbi.nlm.nih.gov/pubmed/36464514).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  27. Pederson WP, Ellerman LM, Sandoval EC, Boitano S, Frye JB, Doyle KP, Brooks HL, **Polverino F** , Ledford JG. Development of a Novel Mouse Model of Menopause-associated Asthma. Am J Respir Cell Mol Biol. 2022 11; 67(5):605-609. PMID: [36318015](//www.ncbi.nlm.nih.gov/pubmed/36318015); PMCID: [PMC9651199](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9651199).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36318015/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Animals
+
+  28. **Polverino F** , Celli BR. Selecting the Right Patient: The Achilles Heel of COPD Clinical Trials. Am J Respir Crit Care Med. 2022 10 15; 206(8):1051-1052. PMID: [35834808](//www.ncbi.nlm.nih.gov/pubmed/35834808); PMCID: [PMC9801990](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9801990).
+
+Citations:  Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+  29. **Polverino F** , Marin JM. The lower respiratory tract: the hot spot for chronic fixed airflow limitation. Eur Respir J. 2022 10; 60(4). PMID: [36202404](//www.ncbi.nlm.nih.gov/pubmed/36202404).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  30. Divo MJ, Marin JM, Casanova C, Cabrera Lopez C, Pinto-Plata VM, Marin-Oto M, **Polverino F** , de-Torres JP, Billheimer D, Celli BR, BODE Collaborative Group. Comorbidities and mortality risk in adults younger than 50?years of age with chronic obstructive pulmonary disease. Respir Res. 2022 Sep 27; 23(1):267. PMID: [36167533](//www.ncbi.nlm.nih.gov/pubmed/36167533); PMCID: [PMC9516817](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9516817).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36167533/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  31. **Polverino F** , Washko GR, Covar RA, Hysinger EB, Hackett TL, Bhatt SP, Brusselle G, Dharmage SC. The low flyers: persistent airflow limitation in young adults. Lancet Respir Med. 2022 09; 10(9):819-822. PMID: [35850124](//www.ncbi.nlm.nih.gov/pubmed/35850124).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+  32. Yang CX, Tomchaney M, Landecho MF, Zamacona BR, Marin Oto M, Zulueta J, Malo J, Knoper S, Contoli M, Papi A, Vasilescu DM, Sauler M, Straub C, Tan C, Martinez FD, Bhattacharya D, [Rosas IO](https://profiles.viictr.org/profile/29494161), [Kheradmand F](https://profiles.viictr.org/profile/270223), Hackett TL, **Polverino F**. Lung Spatial Profiling Reveals a T Cell Signature in COPD Patients with Fatal SARS-CoV-2 Infection. Cells. 2022 06 07; 11(12). PMID: [35740993](//www.ncbi.nlm.nih.gov/pubmed/35740993); PMCID: [PMC9220844](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9220844).
+
+Citations:  Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  33. **Polverino F**. Adaptive immune responses and protein homeostasis in COPD: the immunoproteasome. Eur Respir J. 2022 03; 59(3). PMID: [35241460](//www.ncbi.nlm.nih.gov/pubmed/35241460).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCells
+
+  34. Casanova C, Divo M, **Polverino F** , Celli BR, Ezponda A, Mar?n-Oto M, Cabrera C, Mar?n JM, Bastarrika G, Pinto-Plata V, Martin-Palmero ?, de Torres JP. Chest CT-assessed comorbidities and all-cause mortality risk in COPD patients in the BODE cohort. Respirology. 2022 04; 27(4):286-293. PMID: [35132732](//www.ncbi.nlm.nih.gov/pubmed/35132732); PMCID: [PMC9303420](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9303420).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35132732/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  35. Satta E, Alfarone C, De Maio A, Gentile S, Romano C, Polverino M, **Polverino F**. Kidney and lung in pathology: mechanisms and clinical implications. Multidiscip Respir Med. 2022 Jan 12; 17(2):819. PMID: [35127080](//www.ncbi.nlm.nih.gov/pubmed/35127080); PMCID: [PMC8791019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8791019).
+
+Citations:
+
+  36. Dieffenbach PB, Mallarino Haeger C, Rehman R, Corcoran AM, Coronata AMF, Vellarikkal SK, Chrobak I, Waxman AB, Vitali SH, Sholl LM, Padera RF, Lagares D, **Polverino F** , Owen CA, Fredenburgh LE. A Novel Protective Role for Matrix Metalloproteinase-8 in the Pulmonary Vasculature. Am J Respir Crit Care Med. 2021 12 15; 204(12):1433-1451. PMID: [34550870](//www.ncbi.nlm.nih.gov/pubmed/34550870); PMCID: [PMC8865706](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8865706).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34550870/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansAnimalsCells
+
+  37. Iannuzo N, Insel M, Marshall C, Pederson WP, Addison KJ, **Polverino F** , Guerra S, Ledford JG. CC16 Deficiency in the Context of Early-Life Mycoplasma pneumoniae Infection Results in Augmented Airway Responses in Adult Mice. Infect Immun. 2022 02 17; 90(2):e0054821. PMID: [34780280](//www.ncbi.nlm.nih.gov/pubmed/34780280); PMCID: [PMC8853681](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8853681).
+
+Citations:  Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:AnimalsCells
+
+  38. Rojas-Quintero J, **Polverino F**. Tweaking lung inflammation in COPD: the "mirky" ways of miRNAs. Am J Physiol Lung Cell Mol Physiol. 2021 12 01; 321(6):L1089-L1090. PMID: [34730035](//www.ncbi.nlm.nih.gov/pubmed/34730035); PMCID: [PMC8715016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8715016).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular BiologyPhy PhysiologyPul Pulmonary Medicine
+
+Translation:Humans
+
+  39. **Polverino F** , Soriano JB. Asthma and Chronic Obstructive Pulmonary Disease: Just Old Friends or Relatives? Am J Respir Crit Care Med. 2021 10 01; 204(7):870-871. PMID: [34190677](//www.ncbi.nlm.nih.gov/pubmed/34190677); PMCID: [PMC8528531](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8528531).
+
+Citations:  Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  40. **Polverino F** , [Wu TD](https://profiles.viictr.org/profile/31785622), Rojas-Quintero J, Wang X, Mayo J, Tomchaney M, Tram J, Packard S, Zhang D, Cleveland KH, Owen CA, Fawzy A, Kinney GL, Hersh CP, Hansel NN, Doubleday K, Sauler M, Tesfaigzi Y, Ledford JG, Zmijewski J, Konhilas J, Langlais PR, Schnellmann R, Rahman I, McCormack M, Celli B, Cordoba-Lanus E, Casanova C. Metformin: Experimental and Clinical Evidence for a Potential Role in Emphysema Treatment. Am J Respir Crit Care Med. 2021 09 15; 204(6):651-666. PMID: [34033525](//www.ncbi.nlm.nih.gov/pubmed/34033525); PMCID: [PMC8521702](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8521702).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34033525/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansAnimals
+
+  41. Johnson MDL, Younis US, Menghani SV, Addison KJ, Whalen M, Pilon AL, Cress AE, **Polverino F** , Romanoski CE, Kraft M, Martinez FD, Guerra S, Ledford JG. CC16 Binding to a4?1 Integrin Protects against Mycoplasma pneumoniae Infection. Am J Respir Crit Care Med. 2021 06 01; 203(11):1410-1418. PMID: [33326355](//www.ncbi.nlm.nih.gov/pubmed/33326355); PMCID: [PMC8456541](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8456541).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33326355/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:AnimalsCells
+
+  42. Li Y, Zhang L, **Polverino F** , Guo F, Hao Y, Lao T, Xu S, Li L, Pham B, Owen CA, Zhou X. Hedgehog interacting protein (HHIP) represses airway remodeling and metabolic reprogramming in COPD-derived airway smooth muscle cells. Sci Rep. 2021 04 27; 11(1):9074. PMID: [33907231](//www.ncbi.nlm.nih.gov/pubmed/33907231); PMCID: [PMC8079715](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8079715).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33907231/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  43. **Polverino F** , [Kheradmand F](https://profiles.viictr.org/profile/270223). COVID-19, COPD, and AECOPD: Immunological, Epidemiological, and Clinical Aspects. Front Med (Lausanne). 2020; 7:627278. PMID: [33537336](//www.ncbi.nlm.nih.gov/pubmed/33537336); PMCID: [PMC7847987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7847987).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33537336/citedby/)
+
+  44. **Polverino F** , Stern DA, Balestro E, Bassetti M, Candelli M, Cirillo B, Contoli M, Corsico A, D'Amico F, D'Elia E, Gasparini S, Guerra S, Harari S, Kraft M, Mennella L, Papi A, Parrella R, Pelosi P, Polverino M, Tana C, Terribile R, Woods JC, Di Marco F, Martinez FD, ItaliCO study group, Ruocco G, Falco G, Poletti V. Comorbidities, Cardiovascular Therapies, and COVID-19 Mortality: A Nationwide, Italian Observational Study (ItaliCO). Front Cardiovasc Med. 2020; 7:585866. PMID: [33195473](//www.ncbi.nlm.nih.gov/pubmed/33195473); PMCID: [PMC7583635](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7583635).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33195473/citedby/)
+
+  45. **Polverino F** , Curtis JL. The ABCs of Granulomatous Lung Diseases: Age-associated B Cells. Am J Respir Crit Care Med. 2020 10 01; 202(7):922-924. PMID: [32603192](//www.ncbi.nlm.nih.gov/pubmed/32603192); PMCID: [PMC7528779](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7528779).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32603192/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansCells
+
+  46. Polverino M, Capuozzo A, Cicchitto G, Ferrigno F, Mauro I, Santoriello C, Sirignano E, Aliverti A, Celli B, **Polverino F**. Smoking Pattern in Men and Women: A Possible Contributor to Sex Differences in Smoke-related Lung Diseases. Am J Respir Crit Care Med. 2020 10 01; 202(7):1048-1051. PMID: [32479109](//www.ncbi.nlm.nih.gov/pubmed/32479109); PMCID: [PMC7528782](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7528782).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32479109/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansPHPublic Health
+
+  47. Divo MJ, Marin Oto M, Casanova Macario C, Cabrera Lopez C, de-Torres JP, Marin Trigo JM, Hersh CP, Maguire C, Pinto-Plata VM, **Polverino F** , Ross JC, DeMeo D, Bastarrika G, Silverman EK, Celli BR, Ezponda Casaj?s A. Somatotypes trajectories during adulthood and their association with COPD phenotypes. ERJ Open Res. 2020 Jul; 6(3). PMID: [32963991](//www.ncbi.nlm.nih.gov/pubmed/32963991); PMCID: [PMC7487345](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7487345).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32963991/citedby/)
+
+  48. **Polverino F**. Cigarette Smoking and COVID-19: A Complex Interaction. Am J Respir Crit Care Med. 2020 08 01; 202(3):471-472. PMID: [32530714](//www.ncbi.nlm.nih.gov/pubmed/32530714); PMCID: [PMC7397788](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7397788).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32530714/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansCellsPHPublic Health
+
+  49. **Polverino F** , Balestro E, Spagnolo P. Clinical Presentations, Pathogenesis, and Therapy of Sarcoidosis: State of the Art. J Clin Med. 2020 Jul 24; 9(8). PMID: [32722050](//www.ncbi.nlm.nih.gov/pubmed/32722050); PMCID: [PMC7465477](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7465477).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32722050/citedby/)
+
+  50. Kimura H, Francisco D, Conway M, Martinez FD, Vercelli D, **Polverino F** , Billheimer D, Kraft M. Type 2 inflammation modulates ACE2 and TMPRSS2 in airway epithelial cells. J Allergy Clin Immunol. 2020 Jul; 146(1):80-88.e8. PMID: [32422146](//www.ncbi.nlm.nih.gov/pubmed/32422146); PMCID: [PMC7227558](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7227558).
+
+Citations:
+[105](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32422146/citedby/)
+Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCellsPHPublic Health
+
+  51. **Polverino F** , Soriano JB. Small airways and early origins of COPD: pathobiological and epidemiological considerations. Eur Respir J. 2020 03; 55(3). PMID: [32139589](//www.ncbi.nlm.nih.gov/pubmed/32139589).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  52. Cicchitto G, Polverino M, Capuozzo A, Cacace L, Cavallera A, Mauro I, Ferrigno F, **Polverino F**. RP EBUS as a guide for transbronchial pulmonary biopsy in the diagnosis of organizing pneumonia. Multidiscip Respir Med. 2020 Jan 28; 15(1):658. PMID: [32782790](//www.ncbi.nlm.nih.gov/pubmed/32782790); PMCID: [PMC7385527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7385527).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32782790/citedby/)
+
+  53. **Polverino F** , Hysinger EB, Gupta N, Willmering M, Olin T, Abman SH, Woods JC. Lung MRI as a Potential Complementary Diagnostic Tool for Early COPD. Am J Med. 2020 06; 133(6):757-760. PMID: [31954683](//www.ncbi.nlm.nih.gov/pubmed/31954683).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31954683/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  54. Sullivan JL, Bagevalu B, Glass C, Sholl L, Kraft M, Martinez FD, Bastarrika G, de-Torres JP, San Jose Estepar R, Guerra S, **Polverino F**. B Cell-Adaptive Immune Profile in Emphysema-Predominant Chronic Obstructive Pulmonary Disease. Am J Respir Crit Care Med. 2019 12 01; 200(11):1434-1439. PMID: [31348682](//www.ncbi.nlm.nih.gov/pubmed/31348682); PMCID: [PMC6884042](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6884042).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31348682/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansCells
+
+  55. Pinto-Plata V, Divo M, Tesfaigzi Y, Calhoun V, Sui J, **Polverino F** , Priolo C, de Torres JP, Marin JM, Owen CA, Celli B, Casanova C, Petersen H, Baz R, Cordova E. Plasma metabolomics and clinical predictors of survival differences in COPD patients. Respir Res. 2019 Oct 15; 20(1):219. PMID: [31615518](//www.ncbi.nlm.nih.gov/pubmed/31615518); PMCID: [PMC6794856](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6794856).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31615518/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  56. Esposito R, Spaziano G, Giannattasio D, Ferrigno F, Liparulo A, Rossi A, Roviezzo F, Sessa M, Falciani M, Berrino L, Polverino M, **Polverino F** , D'Agostino B. Montelukast Improves Symptoms and Lung Function in Asthmatic Women Compared With Men. Front Pharmacol. 2019; 10:1094. PMID: [31611790](//www.ncbi.nlm.nih.gov/pubmed/31611790); PMCID: [PMC6769077](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6769077).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31611790/citedby/)
+
+  57. **Polverino F** , Lu B, Quintero JR, Vargas SO, Patel AS, Owen CA, Gerard NP, Gerard C, Cernadas M. CFTR regulates B cell activation and lymphoid follicle development. Respir Res. 2019 Jul 01; 20(1):133. PMID: [31262295](//www.ncbi.nlm.nih.gov/pubmed/31262295); PMCID: [PMC6604167](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6604167).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31262295/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansAnimalsCells
+
+  58. **Polverino F** , Sam A, Guerra S. COPD: To Be or Not to Be, That is the Question. Am J Med. 2019 11; 132(11):1271-1278. PMID: [31152719](//www.ncbi.nlm.nih.gov/pubmed/31152719); PMCID: [PMC8359778](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8359778).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31152719/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  59. **Polverino F**. Deconvoluting Chronic Obstructive Pulmonary Disease: Are B Cells the Frontrunners? Am J Respir Crit Care Med. 2019 05 01; 199(9):1170-1171. PMID: [30633537](//www.ncbi.nlm.nih.gov/pubmed/30633537); PMCID: [PMC6515871](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6515871).
+
+Citations:  Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansCells
+
+  60. **Polverino F** , Divo M, Cabrera L?pez C, Casanova Macario C, Mar?n Trigo JM, de-Torres JP, Torres RS, Gonz?lez JM, Pinto Plata V, Zulueta J, Callejas FJ, Celli B. Prognostic Validation Using GesEPOC 2017 Severity Criteria. Arch Bronconeumol (Engl Ed). 2019 Aug; 55(8):409-413. PMID: [30718019](//www.ncbi.nlm.nih.gov/pubmed/30718019).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30718019/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  61. Rojas-Quintero J, Wang X, Tipper J, Burkett PR, Ashtekar AR, **Polverino F** , Rout A, Yambayev I, Harrod KS, Owen CA, Zu?iga J, Hern?ndez C, Jimenez L, Ram?rez G. Matrix metalloproteinase-9 deficiency protects mice from severe influenza A viral infection. JCI Insight. 2018 12 20; 3(24). PMID: [30568032](//www.ncbi.nlm.nih.gov/pubmed/30568032); PMCID: [PMC6338318](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6338318).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30568032/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  62. **Polverino F** , Soriano JB, Cosio BG. What is early COPD and why is it important? Eur Respir J. 2018 12; 52(6). PMID: [30309976](//www.ncbi.nlm.nih.gov/pubmed/30309976).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30309976/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  63. Petersen H, Sood A, **Polverino F** , Owen CA, Pinto-Plata V, Tesfaigzi Y, Celli BR. The Course of Lung Function in Middle-aged Heavy Smokers: Incidence and Time to Early Onset of Chronic Obstructive Pulmonary Disease. Am J Respir Crit Care Med. 2018 12 01; 198(11):1449-1451. PMID: [30114375](//www.ncbi.nlm.nih.gov/pubmed/30114375); PMCID: [PMC6290951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6290951).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30114375/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  64. **Polverino F** , Rojas-Quintero J, Wang X, Petersen H, Zhang L, Gai X, Higham A, Zhang D, Gupta K, Rout A, Yambayev I, Pinto-Plata V, Sholl LM, Cunoosamy D, Goldring J, Singh D, Tesfaigzi Y, Wedzicha J, Olsson H, Owen CA, Celli BR. A Disintegrin and Metalloproteinase Domain-8: A Novel Protective Proteinase in Chronic Obstructive Pulmonary Disease. Am J Respir Crit Care Med. 2018 11 15; 198(10):1254-1267. PMID: [29750543](//www.ncbi.nlm.nih.gov/pubmed/29750543); PMCID: [PMC6290938](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6290938).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29750543/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansAnimals
+
+  65. Roviezzo F, **Polverino F** , Tartaglione G, Spaziano G, Sgambato M, Russo TP, Liparulo A, Esposito R, Mirra S, Filosa R, D'Agostino B. Nociceptin/Orphanin Fq in inflammation and remodeling of the small airways in experimental model of airway hyperresponsiveness. Physiol Rep. 2018 10; 6(20):e13906. PMID: [30370666](//www.ncbi.nlm.nih.gov/pubmed/30370666); PMCID: [PMC6204362](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6204362).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30370666/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  66. Patino E, Bhatia D, Rojas-Quintero J, Ma KC, Finkelsztein EJ, Osorio JC, Malick F, **Polverino F** , Owen CA, Ryter SW, Choi AM, Cloonan SM, Choi ME, Pab?n MA. Beclin-1 regulates cigarette smoke-induced kidney injury in a murine model of chronic obstructive pulmonary disease. JCI Insight. 2018 09 20; 3(18). PMID: [30232271](//www.ncbi.nlm.nih.gov/pubmed/30232271); PMCID: [PMC6237223](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6237223).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30232271/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  67. De Benedetto F, Pastorelli R, Ferrario M, de Blasio F, Marinari S, Brunelli L, Wouters EFM, **Polverino F** , Celli BR, Interdisciplinary Association for Research in Lung Disease (AIMAR) Study Group. Supplementation with Qter? and Creatine improves functional performance in COPD patients on long term oxygen therapy. Respir Med. 2018 09; 142:86-93. PMID: [30170808](//www.ncbi.nlm.nih.gov/pubmed/30170808).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30170808/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  68. Laucho-Contreras ME, **Polverino F** , Rojas-Quintero J, Wang X, Owen CA. Club cell protein 16 (Cc16) deficiency increases inflamm-aging in the lungs of mice. Physiol Rep. 2018 08; 6(15):e13797. PMID: [30084231](//www.ncbi.nlm.nih.gov/pubmed/30084231); PMCID: [PMC6079172](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6079172).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30084231/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  69. Wang X, **Polverino F** , Rojas-Quintero J, Zhang D, Yambayev I, Lindqvist E, Virtala R, Djukanovic R, Davies DE, Wilson S, O'Donnell R, Cunoosamy D, Hazon P, Higham A, Singh D, Olsson H, Owen CA, S?nchez J. A Disintegrin and A Metalloproteinase-9 (ADAM9): A Novel Proteinase Culprit with Multifarious Contributions to COPD. Am J Respir Crit Care Med. 2018 Jun 04. PMID: [29864380](//www.ncbi.nlm.nih.gov/pubmed/29864380); PMCID: [PMC6298633](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6298633).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29864380/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+  70. **Polverino F** , Celli B. The Challenge of Controlling the COPD Epidemic: Unmet Needs. Am J Med. 2018 09; 131(9S):1-6. PMID: [29778456](//www.ncbi.nlm.nih.gov/pubmed/29778456).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29778456/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  71. Divo MJ, Celli BR, Casanova C, Pinto-Plata VM, Cabrera-Lopez C, **Polverino F** , Poblador-Plou B, Calder?n-Larra?aga A, de-Torres JP, Gimeno-Feliu LA, Bert? J, Zulueta JJ, Carmona P?r?z J, Prados-Torres A, Marin JM, EpiChron?BODE Collaborative Group. Chronic Obstructive Pulmonary Disease (COPD) as a disease of early aging: Evidence from the EpiChron Cohort. PLoS One. 2018; 13(2):e0193143. PMID: [29470502](//www.ncbi.nlm.nih.gov/pubmed/29470502); PMCID: [PMC5823454](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5823454).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29470502/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCTClinical Trials
+
+  72. **Polverino F** , Divo M, Cabrera L?pez C, Casanova Macario C, Mar?n Trigo JM, de-Torres JP, Sicilia Torres R, Gonz?lez JM, Pinto Plata V, Zulueta JJ, Celli B. Comparison of the 2017 and 2015 Global Initiative for Chronic Obstructive Lung Disease Reports. Impact on Grouping and Outcomes. Am J Respir Crit Care Med. 2018 02 15; 197(4):463-469. PMID: [29099607](//www.ncbi.nlm.nih.gov/pubmed/29099607).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29099607/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  73. **Polverino F** , Celli BR, Owen CA. Reply to Voelkel: Cigarette Smoke Is an Endothelial Cell Toxin. Am J Respir Crit Care Med. 2018 01 15; 197(2):274-275. PMID: [28726486](//www.ncbi.nlm.nih.gov/pubmed/28726486); PMCID: [PMC5768906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5768906).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28726486/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansAnimalsCells
+
+  74. **Polverino F** , Celli BR, Owen CA. COPD as an endothelial disorder: endothelial injury linking lesions in the lungs and other organs? (2017 Grover Conference Series). Pulm Circ. 2018 Jan-Mar; 8(1):2045894018758528. PMID: [29468936](//www.ncbi.nlm.nih.gov/pubmed/29468936); PMCID: [PMC5826015](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5826015).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29468936/citedby/)
+
+  75. **Polverino F** , Celli BR, Owen CA. Chronic Obstructive Pulmonary Disease: Breathing New Life into Old Cardiovascular Drugs? Ann Am Thorac Soc. 2017 11; 14(11):1718. PMID: [28950067](//www.ncbi.nlm.nih.gov/pubmed/28950067).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28950067/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  76. **Polverino F**. Best of Milan 2017-repair of the emphysematous lung: mesenchymal stromal cell and matrix. J Thorac Dis. 2017 Nov; 9(Suppl 16):S1544-S1547. PMID: [29255637](//www.ncbi.nlm.nih.gov/pubmed/29255637); PMCID: [PMC5717365](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5717365).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29255637/citedby/)
+
+  77. **Polverino F** , Laucho-Contreras ME, Petersen H, Bijol V, Sholl LM, Choi ME, Divo M, Pinto-Plata V, Chetta A, Tesfaigzi Y, Owen CA, Celli BR. A Pilot Study Linking Endothelial Injury in Lungs and Kidneys in Chronic Obstructive Pulmonary Disease. Am J Respir Crit Care Med. 2017 06 01; 195(11):1464-1476. PMID: [28085500](//www.ncbi.nlm.nih.gov/pubmed/28085500); PMCID: [PMC5470750](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5470750).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28085500/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansAnimals
+
+  78. **Polverino F** , Seys LJ, Bracke KR, Owen CA. B cells in chronic obstructive pulmonary disease: moving to center stage. Am J Physiol Lung Cell Mol Physiol. 2016 Oct 01; 311(4):L687-L695. PMID: [27542809](//www.ncbi.nlm.nih.gov/pubmed/27542809); PMCID: [PMC5142126](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5142126).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27542809/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular BiologyPhy PhysiologyPul Pulmonary Medicine
+
+Translation:HumansAnimalsCells
+
+  79. Jiang Z, Lao T, Qiu W, **Polverino F** , Gupta K, Guo F, Mancini JD, Naing ZZ, Cho MH, Castaldi PJ, Sun Y, Yu J, Laucho-Contreras ME, Kobzik L, Raby BA, Choi AM, Perrella MA, Owen CA, Silverman EK, Zhou X. A Chronic Obstructive Pulmonary Disease Susceptibility Gene, FAM13A, Regulates Protein Stability of ?-Catenin. Am J Respir Crit Care Med. 2016 07 15; 194(2):185-97. PMID: [26862784](//www.ncbi.nlm.nih.gov/pubmed/26862784); PMCID: [PMC5003213](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5003213).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26862784/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansAnimalsCells
+
+  80. Schiavo A, Renis M, Polverino M, Iannuzzi A, **Polverino F**. Acid-base balance, serum electrolytes and need for non-invasive ventilation in patients with hypercapnic acute exacerbation of chronic obstructive pulmonary disease admitted to an internal medicine ward. Multidiscip Respir Med. 2016; 11:23. PMID: [27226896](//www.ncbi.nlm.nih.gov/pubmed/27226896); PMCID: [PMC4879756](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4879756).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27226896/citedby/)
+
+  81. **Polverino F** , Laucho-Contreras M, [Rojas Quintero J](https://profiles.viictr.org/profile/37727252), Divo M, Pinto-Plata V, Sholl L, de-Torres JP, Celli BR, Owen CA. Increased expression of A Proliferation-inducing Ligand (APRIL) in lung leukocytes and alveolar epithelial cells in COPD patients with non small cell lung cancer: a possible link between COPD and lung cancer? Multidiscip Respir Med. 2016; 11:17. PMID: [27047662](//www.ncbi.nlm.nih.gov/pubmed/27047662); PMCID: [PMC4819280](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4819280).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27047662/citedby/)
+
+  82. Cote C, Pinto-Plata V, Divo MJ, **Polverino F** , Marin JM, Casanova C, Montes de Oca M, de Torres JP, Zulueta J, Cabrera C, Carrizo S, Celli BR, En Representaci?n del Grupo BODE. Simplifying the guidelines: The 10 COPD commandments. Arch Bronconeumol. 2016 Apr; 52(4):179-80. PMID: [26973024](//www.ncbi.nlm.nih.gov/pubmed/26973024).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26973024/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  83. Laucho-Contreras ME, **Polverino F** , Tesfaigzi Y, Pilon A, Celli BR, Owen CA. Club Cell Protein 16 (CC16) Augmentation: A Potential Disease-modifying Approach for Chronic Obstructive Pulmonary Disease (COPD). Expert Opin Ther Targets. 2016 Jul; 20(7):869-83. PMID: [26781659](//www.ncbi.nlm.nih.gov/pubmed/26781659); PMCID: [PMC4977029](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4977029).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26781659/citedby/) Fields:
+
+The Therapeutics
+
+Translation:HumansAnimalsCells
+
+  84. Cloonan SM, Glass K, Laucho-Contreras ME, Bhashyam AR, Cervo M, Konrad C, **Polverino F** , Siempos II, Perez E, Mizumura K, Ghosh MC, Parameswaran H, Williams NC, Rooney KT, Chen ZH, Goldklang MP, Yuan GC, Moore SC, Demeo DL, Rouault TA, D'Armiento JM, Schon EA, Manfredi G, Quackenbush J, Mahmood A, Silverman EK, Owen CA, Choi AM, Pab?n MA. Mitochondrial iron chelation ameliorates cigarette smoke-induced bronchitis and emphysema in mice. Nat Med. 2016 Feb; 22(2):163-74. PMID: [26752519](//www.ncbi.nlm.nih.gov/pubmed/26752519); PMCID: [PMC4742374](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4742374).
+
+Citations:
+[110](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26752519/citedby/)
+Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  85. **Polverino F** , Longhini F, Vanaudenaerde B, Bikov A, Aamli A, Singanayagam A, Kahn N, Boots A, Skoczynski S. Juniors' voice at the ERS International Congress, Amsterdam 2015: Juniors' voice. Breathe (Sheff). 2015 Dec; 11(4):303-5. PMID: [27066124](//www.ncbi.nlm.nih.gov/pubmed/27066124); PMCID: [PMC4818221](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4818221).
+
+Citations:
+
+  86. **Polverino F** , Cosio BG, Pons J, Laucho-Contreras M, Tejera P, Iglesias A, Rios A, Jahn A, Sauleda J, Divo M, Pinto-Plata V, Sholl L, [Rosas IO](https://profiles.viictr.org/profile/29494161), Celli BR, Owen CA, Agust? A. B Cell-Activating Factor. An Orchestrator of Lymphoid Follicles in Severe Chronic Obstructive Pulmonary Disease. Am J Respir Crit Care Med. 2015 Sep 15; 192(6):695-705. PMID: [26073875](//www.ncbi.nlm.nih.gov/pubmed/26073875); PMCID: [PMC4595676](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4595676).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26073875/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansCells
+
+  87. Laucho-Contreras ME, **Polverino F** , Gupta K, Taylor KL, Kelly E, Pinto-Plata V, Divo M, Ashfaq N, Petersen H, Stripp B, Pilon AL, Tesfaigzi Y, Celli BR, Owen CA. Protective role for club cell secretory protein-16 (CC16) in the development of COPD. Eur Respir J. 2015 Jun; 45(6):1544-56. PMID: [25700379](//www.ncbi.nlm.nih.gov/pubmed/25700379); PMCID: [PMC4451404](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4451404).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25700379/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansAnimals
+
+  88. Lao T, Glass K, Qiu W, **Polverino F** , Gupta K, Morrow J, Mancini JD, Vuong L, Perrella MA, Hersh CP, Owen CA, Quackenbush J, Yuan GC, Silverman EK, Zhou X. Haploinsufficiency of Hedgehog interacting protein causes increased emphysema induced by cigarette smoke through network rewiring. Genome Med. 2015; 7(1):12. PMID: [25763110](//www.ncbi.nlm.nih.gov/pubmed/25763110); PMCID: [PMC4355149](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4355149).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25763110/citedby/) Fields:
+
+Gen Genetics
+
+  89. **Polverino F** , Doyle-Eisele M, McDonald J, Wilder JA, Royer C, Laucho-Contreras M, Kelly EM, Divo M, Pinto-Plata V, Mauderly J, Celli BR, Tesfaigzi Y, Owen CA. A novel nonhuman primate model of cigarette smoke-induced airway disease. Am J Pathol. 2015 Mar; 185(3):741-55. PMID: [25542772](//www.ncbi.nlm.nih.gov/pubmed/25542772); PMCID: [PMC4348468](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4348468).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25542772/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Animals
+
+  90. Roychaudhuri R, Hergrueter AH, **Polverino F** , Laucho-Contreras ME, Gupta K, Borregaard N, Owen CA. ADAM9 is a novel product of polymorphonuclear neutrophils: regulation of expression and contributions to extracellular matrix protein degradation during acute lung injury. J Immunol. 2014 Sep 01; 193(5):2469-82. PMID: [25063875](//www.ncbi.nlm.nih.gov/pubmed/25063875); PMCID: [PMC4134955](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4134955).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25063875/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  91. Matteis M, **Polverino F** , Spaziano G, Roviezzo F, Santoriello C, Sullo N, Bucci MR, Rossi F, Polverino M, Owen CA, D'Agostino B. Effects of sex hormones on bronchial reactivity during the menstrual cycle. BMC Pulm Med. 2014 Jul 01; 14:108. PMID: [24984749](//www.ncbi.nlm.nih.gov/pubmed/24984749); PMCID: [PMC4106209](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4106209).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24984749/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  92. Cicchitto G, Musella V, Acitorio M, Capuano N, Fiorenzano G, Owen CA, Polverino M, **Polverino F**. Idiopathic pulmonary fibrosis and coronary artery disease. Multidiscip Respir Med. 2014; 9(1):31. PMID: [24976970](//www.ncbi.nlm.nih.gov/pubmed/24976970); PMCID: [PMC4074111](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4074111).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24976970/citedby/)
+
+  93. Craig VJ, **Polverino F** , Laucho-Contreras ME, Shi Y, Liu Y, Osorio JC, Tesfaigzi Y, Pinto-Plata V, Gochuico BR, [Rosas IO](https://profiles.viictr.org/profile/29494161), Owen CA. Mononuclear phagocytes and airway epithelial cells: novel sources of matrix metalloproteinase-8 (MMP-8) in patients with idiopathic pulmonary fibrosis. PLoS One. 2014; 9(5):e97485. PMID: [24828408](//www.ncbi.nlm.nih.gov/pubmed/24828408); PMCID: [PMC4020836](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4020836).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24828408/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  94. **Polverino F** , Santoriello C, Girbino G, Cappetta D, D'Agostino B, Vatrella A, Polverino M, Milic-Emili J, And? F. Recumbent deoxygenation in mild/moderate liver cirrhosis: the "clinodeoxia". The ortho-clino paradigm. Respir Med. 2014 Jul; 108(7):1040-8. PMID: [24785153](//www.ncbi.nlm.nih.gov/pubmed/24785153).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  95. Iannuzzi A, Licenziati MR, De Michele F, Verga MC, Santoriello C, Di Buono L, Renis M, Lembo L, D'Agostino B, Cappetta D, Polverino M, **Polverino F**. C-reactive protein and carotid intima-media thickness in children with sleep disordered breathing. J Clin Sleep Med. 2013 May 15; 9(5):493-8. PMID: [23674941](//www.ncbi.nlm.nih.gov/pubmed/23674941); PMCID: [PMC3629324](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3629324).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23674941/citedby/) Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Humans
+
+  96. Knolle MD, Nakajima T, Hergrueter A, Gupta K, **Polverino F** , Craig VJ, Fyfe SE, Zahid M, Permaul P, Cernadas M, Montano G, Tesfaigzi Y, Sholl L, Kobzik L, Israel E, Owen CA. Adam8 limits the development of allergic airway inflammation in mice. J Immunol. 2013 Jun 15; 190(12):6434-49. PMID: [23670189](//www.ncbi.nlm.nih.gov/pubmed/23670189); PMCID: [PMC3679335](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3679335).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23670189/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  97. **Polverino F** , Ricciardi M, Polverino M, Santoriello C, Palladino R, Pistolesi M. Voice box symptoms: a hitherto unknown presentation of pulmonary embolism. Am J Respir Crit Care Med. 2013 Jan 01; 187(1):108-10. PMID: [23281354](//www.ncbi.nlm.nih.gov/pubmed/23281354).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23281354/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  98. Sullo N, Roviezzo F, Matteis M, Spaziano G, Del Gaudio S, Lombardi A, Lucattelli M, **Polverino F** , Lungarella G, Cirino G, Rossi F, D'Agostino B. Skeletal muscle oxidative metabolism in an animal model of pulmonary emphysema: formoterol and skeletal muscle dysfunction. Am J Respir Cell Mol Biol. 2013 Feb; 48(2):198-203. PMID: [23144332](//www.ncbi.nlm.nih.gov/pubmed/23144332).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23144332/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  99. Polverino M, **Polverino F** , Fasolino M, Alfieri A, De Blasio F, And? F. Anatomy and neuro-pathophysiology of the cough reflex arc. Multidiscip Respir Med. 2012 Jun 18; 7(1):5. PMID: [22958367](//www.ncbi.nlm.nih.gov/pubmed/22958367); PMCID: [PMC3415124](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3415124).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22958367/citedby/)
+
+  100. **Polverino F** , Baraldo S, Bazzan E, Agostini S, Turato G, Lunardi F, Balestro E, Damin M, Papi A, Maestrelli P, Calabrese F, Saetta M. A novel insight into adaptive immunity in chronic obstructive pulmonary disease: B cell activating factor belonging to the tumor necrosis factor family. Am J Respir Crit Care Med. 2010 Oct 15; 182(8):1011-9. PMID: [20581172](//www.ncbi.nlm.nih.gov/pubmed/20581172).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20581172/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansCells
+
+  101. Polverino M, Cirino G, Lombardi A, Grassi B, Sullo N, Santoriello C, **Polverino F** , Orlotti D, Matteis M, Rossi F, D'Agostino B. Exercise capacity and cytochrome oxidase activity in muscle mitochondria of COPD patients. Respir Med. 2010 Jan; 104(1):83-90. PMID: [19716278](//www.ncbi.nlm.nih.gov/pubmed/19716278).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19716278/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCells
+
+  102. **Polverino F** , Santoriello C, De Sio V, de Blasio F, Polverino M, And? F. Sexual intercourse and respiratory failure. Respir Med. 2008 Jun; 102(6):927-31. PMID: [18394872](//www.ncbi.nlm.nih.gov/pubmed/18394872).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 102 publications over 16 distinct years, with a maximum of
+17 publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|17&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6,0,12,18,35,24,41,18,82,41,59,47,65,100,41&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2008| 1  
+2009| 1  
+2010| 1  
+2012| 2  
+2013| 3  
+2014| 6  
+2015| 4  
+2016| 7  
+2017| 3  
+2018| 14  
+2019| 7  
+2020| 10  
+2021| 8  
+2022| 11  
+2023| 17  
+2024| 7  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+POLVERINO's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (338)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Pulmonary Disease, Chronic Obstructive](https://profiles.viictr.org/profile/245047)
+  * [Pulmonary Emphysema](https://profiles.viictr.org/profile/261967)
+  * [Lung](https://profiles.viictr.org/profile/264678)
+  * [Cigarette Smoking](https://profiles.viictr.org/profile/27545345)
+  * [Asthma](https://profiles.viictr.org/profile/260446)
+
+[Explore](https://profiles.viictr.org/profile/36786385/198)
+
+_
+
+Co-Authors (11)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [KHERADMAND, FARRAH](https://profiles.viictr.org/profile/270223)
+  * [WU, TIANSHI DAVID](https://profiles.viictr.org/profile/31785622)
+  * [ROSAS, IVAN](https://profiles.viictr.org/profile/29494161)
+  * [MCKENNA, NEIL](https://profiles.viictr.org/profile/268182)
+  * [ORENGO, JAMES](https://profiles.viictr.org/profile/15317718)
+
+[Explore](https://profiles.viictr.org/profile/36786385/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [MARTINEZ, FERNANDO](https://profiles.viictr.org/profile/12583796)
+  * [HANANIA, NICOLA](https://profiles.viictr.org/profile/266276)
+  * [HUI, DAVID](https://profiles.viictr.org/profile/12583538)
+  * [KHERADMAND, FARRAH](https://profiles.viictr.org/profile/270223)
+  * [SHARAFKHANEH, AMIR](https://profiles.viictr.org/profile/267036)
+
+[Explore](https://profiles.viictr.org/profile/36786385/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CONNOLLY, TIMOTHY](https://profiles.viictr.org/profile/266765)
+  * [GARCHA, PUNEET](https://profiles.viictr.org/profile/30086494)
+  * [HERLIHY, JAMES](https://profiles.viictr.org/profile/266593)
+  * [HINKAMP, COLIN](https://profiles.viictr.org/profile/44982842)
+  * [MURTHY, JAYASIMHA](https://profiles.viictr.org/profile/267140)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,899 @@
+## THOMAS KROUSKOP
+
+| | Title| Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| School of Health Professions  
+Address| 1 Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Pbk%2f9HbML5vVRIzgrn7GPw%3d%3d&rnd=fbd98bfa-d12a-4130-8a1c-f27377395c59)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267406)  
+  
+
+Other Positions| Title| Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Physical Medicine & Rehabilitation  
+Division| Department of Physical Medicine & R  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Pavlidis I, Garza I, Tsiamyrtzis P, Dcosta M, Swanson JW, **Krouskop T** , Levine JA. Dynamic Quantification of Migrainous Thermal Facial Patterns - A Pilot Study. IEEE J Biomed Health Inform. 2019 05; 23(3):1225-1233. PMID: [30004895](//www.ncbi.nlm.nih.gov/pubmed/30004895).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30004895/citedby/) Fields:
+
+Bio Biomedical EngineeringMed Medical Informatics
+
+Translation:Humans
+
+  2. Parmar BJ, Yang X, Chaudhry A, Shajudeen PS, Nair SP, Weiner BK, Tasciotti E, **Krouskop TA** , Righetti R. Ultrasound elastography assessment of bone/soft tissue interface. Phys Med Biol. 2016 Jan 07; 61(1):131-50. PMID: [26611328](//www.ncbi.nlm.nih.gov/pubmed/26611328).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26611328/citedby/) Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+Translation:Animals
+
+  3. Chaudhry A, Unnikrishnan G, Reddy JN, **Krouskop TA** , Righetti R. Effect of permeability on the performance of elastographic imaging techniques. IEEE Trans Med Imaging. 2013 Feb; 32(2):189-99. PMID: [23033327](//www.ncbi.nlm.nih.gov/pubmed/23033327).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+  4. Nair SP, Yang X, **Krouskop TA** , Righetti R. Performance analysis of a new real-time elastographic time constant estimator. IEEE Trans Med Imaging. 2011 Feb; 30(2):497-511. PMID: [20952333](//www.ncbi.nlm.nih.gov/pubmed/20952333).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20952333/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  5. Desai RR, **Krouskop TA** , Righetti R. Elastography using harmonic ultrasonic imaging: a feasibility study. Ultrason Imaging. 2010 Apr; 32(2):103-17. PMID: [20687278](//www.ncbi.nlm.nih.gov/pubmed/20687278).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20687278/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  6. Patil AV, **Krouskop TA** , Ophir J, Srinivasan S. On the differences between two-dimensional and three-dimensional simulations for assessing elastographic image quality: a simulation study. Ultrasound Med Biol. 2008 Jul; 34(7):1129-38. PMID: [18343016](//www.ncbi.nlm.nih.gov/pubmed/18343016).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18343016/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  7. Righetti R, Garra BS, Mobbs LM, Kraemer-Chant CM, Ophir J, **Krouskop TA**. The feasibility of using poroelastographic techniques for distinguishing between normal and lymphedematous tissues in vivo. Phys Med Biol. 2007 Nov 07; 52(21):6525-41. PMID: [17951860](//www.ncbi.nlm.nih.gov/pubmed/17951860).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17951860/citedby/) Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+Translation:Humans
+
+  8. Righetti R, Righetti M, Ophir J, **Krouskop TA**. The feasibility of estimating and imaging the mechanical behavior of poroelastic materials using axial strain elastography. Phys Med Biol. 2007 Jun 07; 52(11):3241-59. PMID: [17505100](//www.ncbi.nlm.nih.gov/pubmed/17505100).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17505100/citedby/) Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+  9. Thitaikumar A, **Krouskop TA** , Garra BS, Ophir J. Visualization of bonding at an inclusion boundary using axial-shear strain elastography: a feasibility study. Phys Med Biol. 2007 May 07; 52(9):2615-33. PMID: [17440256](//www.ncbi.nlm.nih.gov/pubmed/17440256).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17440256/citedby/) Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+Translation:Humans
+
+  10. Righetti R, Ophir J, Kumar AT, **Krouskop TA**. Assessing image quality in effective Poisson's ratio elastography and poroelastography: II. Phys Med Biol. 2007 Mar 07; 52(5):1321-33. PMID: [17301457](//www.ncbi.nlm.nih.gov/pubmed/17301457).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17301457/citedby/) Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+  11. Righetti R, Srinivasan S, Kumar AT, Ophir J, **Krouskop TA**. Assessing image quality in effective Poisson's ratio elastography and poroelastography: I. Phys Med Biol. 2007 Mar 07; 52(5):1303-20. PMID: [17301456](//www.ncbi.nlm.nih.gov/pubmed/17301456).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17301456/citedby/) Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+  12. Thitaikumar A, **Krouskop TA** , Ophir J. Signal-to-noise ratio, contrast-to-noise ratio and their trade-offs with resolution in axial-shear strain elastography. Phys Med Biol. 2007 Jan 07; 52(1):13-28. PMID: [17183125](//www.ncbi.nlm.nih.gov/pubmed/17183125).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17183125/citedby/) Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+  13. Thitaikumar A, Righetti R, **Krouskop TA** , Ophir J. Resolution of axial shear strain elastography. Phys Med Biol. 2006 Oct 21; 51(20):5245-57. PMID: [17019036](//www.ncbi.nlm.nih.gov/pubmed/17019036).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17019036/citedby/) Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+  14. Chandrasekhar R, Ophir J, **Krouskop T** , Ophir K. Elastographic image quality vs. tissue motion in vivo. Ultrasound Med Biol. 2006 Jun; 32(6):847-55. PMID: [16785007](//www.ncbi.nlm.nih.gov/pubmed/16785007).
+
+Citations:
+
+  15. Righetti R, Ophir J, Garra BS, Chandrasekhar RM, **Krouskop TA**. A new method for generating poroelastograms in noisy environments. Ultrason Imaging. 2005 Oct; 27(4):201-20. PMID: [16761783](//www.ncbi.nlm.nih.gov/pubmed/16761783).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16761783/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  16. Kumar AT, Ophir J, **Krouskop TA**. Noise performance and signal-to-noise ratio of shear strain elastograms. Ultrason Imaging. 2005 Jul; 27(3):145-65. PMID: [16550705](//www.ncbi.nlm.nih.gov/pubmed/16550705).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16550705/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  17. Righetti R, Ophir J, **Krouskop TA**. A method for generating permeability elastograms and Poisson's ratio time-constant elastograms. Ultrasound Med Biol. 2005 Jun; 31(6):803-16. PMID: [15936496](//www.ncbi.nlm.nih.gov/pubmed/15936496).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15936496/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  18. Srinivasan S, **Krouskop T** , Ophir J. A quantitative comparison of modulus images obtained using nanoindentation with strain elastograms. Ultrasound Med Biol. 2004 Jul; 30(7):899-918. PMID: [15313323](//www.ncbi.nlm.nih.gov/pubmed/15313323).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15313323/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  19. Rintala DH, **Krouskop TA** , Wright JV, [Garber SL](https://profiles.viictr.org/profile/269477), Frnka J, Henson HK, Itani KM, Gaddis W, Matamoros R, Monga TN. Telerehabilitation for veterans with a lower-limb amputation or ulcer: Technical acceptability of data. J Rehabil Res Dev. 2004 May; 41(3B):481-90. PMID: [15543466](//www.ncbi.nlm.nih.gov/pubmed/15543466).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15543466/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  20. Srinivasan S, **Krouskop T** , Ophir J. Comparing elastographic strain images with modulus images obtained using nanoindentation: preliminary results using phantoms and tissue samples. Ultrasound Med Biol. 2004 Mar; 30(3):329-43. PMID: [15063515](//www.ncbi.nlm.nih.gov/pubmed/15063515).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15063515/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  21. Righetti R, Ophir J, Srinivasan S, **Krouskop TA**. The feasibility of using elastography for imaging the Poisson's ratio in porous media. Ultrasound Med Biol. 2004 Feb; 30(2):215-28. PMID: [14998674](//www.ncbi.nlm.nih.gov/pubmed/14998674).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14998674/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  22. **Krouskop TA** , Davis J. Under the surface. Rehab Manag. 2003 Dec; 16(10):22-5. PMID: [14743676](//www.ncbi.nlm.nih.gov/pubmed/14743676).
+
+Citations:  Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  23. **Krouskop TA** , Younes PS, Srinivasan S, [Wheeler T](https://profiles.viictr.org/profile/266558), Ophir J. Differences in the compressive stress-strain response of infiltrating ductal carcinomas with and without lobular features--implications for mammography and elastography. Ultrason Imaging. 2003 Jul; 25(3):162-70. PMID: [14870801](//www.ncbi.nlm.nih.gov/pubmed/14870801).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14870801/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  24. Madsen EL, Frank GR, **Krouskop TA** , Varghese T, Kallel F, Ophir J. Tissue-mimicking oil-in-gelatin dispersions for use in heterogeneous elastography phantoms. Ultrason Imaging. 2003 Jan; 25(1):17-38. PMID: [12747425](//www.ncbi.nlm.nih.gov/pubmed/12747425).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12747425/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  25. Ophir J, Alam SK, Garra BS, Kallel F, Konofagou EE, **Krouskop T** , Merritt CR, Righetti R, Srinivasan S, Varghese T, Souchon R. Elastography: Imaging the elastic properties of soft tissues with ultrasound. J Med Ultrason (2001). 2002 Dec; 29(4):155. PMID: [27277961](//www.ncbi.nlm.nih.gov/pubmed/27277961).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27277961/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  26. McLane KM, **Krouskop TA** , McCord S, Fraley JK. Comparison of interface pressures in the pediatric population among various support surfaces. J Wound Ostomy Continence Nurs. 2002 Sep; 29(5):242-51. PMID: [12510470](//www.ncbi.nlm.nih.gov/pubmed/12510470).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12510470/citedby/) Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  27. **Krouskop TA** , Baker R, Wilson MS. A noncontact wound measurement system. J Rehabil Res Dev. 2002 May-Jun; 39(3):337-45. PMID: [12173754](//www.ncbi.nlm.nih.gov/pubmed/12173754).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12173754/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:HumansCTClinical Trials
+
+  28. Konofagou EE, Harrigan TP, Ophir J, **Krouskop TA**. Poroelastography: imaging the poroelastic properties of tissues. Ultrasound Med Biol. 2001 Oct; 27(10):1387-97. PMID: [11731052](//www.ncbi.nlm.nih.gov/pubmed/11731052).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11731052/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  29. Wilson MS, Qureshy H, Protas EJ, Holmes SA, **Krouskop TA** , Sherwood AM. Equipment specifications for supported treadmill ambulation training. J Rehabil Res Dev. 2000 Jul-Aug; 37(4):415-22. PMID: [11028697](//www.ncbi.nlm.nih.gov/pubmed/11028697).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11028697/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  30. Varghese T, Ophir J, **Krouskop TA**. Nonlinear stress-strain relationships in tissue and their effect on the contrast-to-noise ratio in elastograms. Ultrasound Med Biol. 2000 Jun; 26(5):839-51. PMID: [10942831](//www.ncbi.nlm.nih.gov/pubmed/10942831).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10942831/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  31. Ophir J, Garra B, Kallel F, Konofagou E, **Krouskop T** , Righetti R, Varghese T. Elastographic imaging. Ultrasound Med Biol. 2000 May; 26 Suppl 1:S23-9. PMID: [10794867](//www.ncbi.nlm.nih.gov/pubmed/10794867).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10794867/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansAnimals
+
+  32. Righetti R, Kallel F, [Stafford RJ](https://profiles.viictr.org/profile/12583314), Price RE, **Krouskop TA** , [Hazle JD](https://profiles.viictr.org/profile/12582511), Ophir J. Elastographic characterization of HIFU-induced lesions in canine livers. Ultrasound Med Biol. 1999 Sep; 25(7):1099-113. PMID: [10574342](//www.ncbi.nlm.nih.gov/pubmed/10574342).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10574342/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  33. Chiou-Tan FY, Magee KN, **Krouskop TA**. Comparison of upper limb muscle activity in four walking canes: a preliminary study. J Rehabil Res Dev. 1999 Apr; 36(2):94-9. PMID: [10661525](//www.ncbi.nlm.nih.gov/pubmed/10661525).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:HumansCTClinical Trials
+
+  34. Ophir J, Alam SK, Garra B, Kallel F, Konofagou E, **Krouskop T** , Varghese T. Elastography: ultrasonic estimation and imaging of the elastic properties of tissues. Proc Inst Mech Eng H. 1999; 213(3):203-33. PMID: [10420776](//www.ncbi.nlm.nih.gov/pubmed/10420776).
+
+Citations:
+[145](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10420776/citedby/)
+Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimals
+
+  35. [Stafford RJ](https://profiles.viictr.org/profile/12583314), Kallel F, Price RE, Cromeens DM, **Krouskop TA** , [Hazle JD](https://profiles.viictr.org/profile/12582511), Ophir J. Elastographic imaging of thermal lesions in soft tissue: a preliminary study in vitro. Ultrasound Med Biol. 1998 Nov; 24(9):1449-58. PMID: [10385966](//www.ncbi.nlm.nih.gov/pubmed/10385966).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10385966/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  36. **Krouskop TA** , [Wheeler TM](https://profiles.viictr.org/profile/266558), Kallel F, Garra BS, Hall T. Elastic moduli of breast and prostate tissues under compression. Ultrason Imaging. 1998 Oct; 20(4):260-74. PMID: [10197347](//www.ncbi.nlm.nih.gov/pubmed/10197347).
+
+Citations:
+[372](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10197347/citedby/)
+Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  37. Chiou-Tan FY, Reno SB, Magee KN, **Krouskop TA**. Electromyographic localization of the palmaris brevis muscle. Am J Phys Med Rehabil. 1998 May-Jun; 77(3):243-6. PMID: [9635559](//www.ncbi.nlm.nih.gov/pubmed/9635559).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9635559/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  38. Kallel F, Ophir J, Magee K, **Krouskop T**. Elastographic imaging of low-contrast elastic modulus distributions in tissue. Ultrasound Med Biol. 1998 Mar; 24(3):409-25. PMID: [9587996](//www.ncbi.nlm.nih.gov/pubmed/9587996).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9587996/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  39. Chiou-Tan FY, Magee KN, Tuel SM, Robinson LR, **Krouskop TA** , Nelson MR, Moss F. Augmented sensory nerve action potentials during distant muscle contraction. Am J Phys Med Rehabil. 1997 Jan-Feb; 76(1):14-8. PMID: [9036906](//www.ncbi.nlm.nih.gov/pubmed/9036906).
+
+Citations:  Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:HumansCTClinical Trials
+
+  40. Nosek MA, **Krouskop TA**. Demonstrating a model approach to independent living center-based assistive technology services. Assist Technol. 1995; 7(1):48-54. PMID: [10150750](//www.ncbi.nlm.nih.gov/pubmed/10150750).
+
+Citations:  Fields:
+
+Phy Physical and Rehabilitation MeTec Technology
+
+Translation:Humans
+
+  41. **Krouskop T** , van Rijswijk L. Standardizing performance-based criteria for support surfaces. Ostomy Wound Manage. 1995 Jan-Feb; 41(1):34-6, 38, 40-5. PMID: [7779232](//www.ncbi.nlm.nih.gov/pubmed/7779232).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7779232/citedby/) Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  42. **Krouskop TA** , Randall C, Davis J, [Garber S](https://profiles.viictr.org/profile/269477), Williams S, Callaghan R. Evaluating the long-term performance of a foam-core hospital replacement mattress. J Wound Ostomy Continence Nurs. 1994 Nov; 21(6):241-6. PMID: [7704131](//www.ncbi.nlm.nih.gov/pubmed/7704131).
+
+Citations:  Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  43. Kemp MG, **Krouskop TA**. Pressure ulcers: reducing incidence and severity by managing pressure. J Gerontol Nurs. 1994 Sep; 20(9):27-34, 52. PMID: [7930395](//www.ncbi.nlm.nih.gov/pubmed/7930395).
+
+Citations:  Fields:
+
+Ger GeriatricsNur Nursing
+
+Translation:Humans
+
+  44. **Krouskop TA** , Cullen B, [Garber SL](https://profiles.viictr.org/profile/269477). Custom selection of support surfaces for wheelchairs and beds: one size does not fit all. Dermatol Nurs. 1992 Jun; 4(3):191-4, 204. PMID: [1610622](//www.ncbi.nlm.nih.gov/pubmed/1610622).
+
+Citations:  Translation:Humans
+
+  45. Hover AE, **Krouskop TA**. Pressure relief characteristics of a new foam overlay: a preliminary performance evaluation. J ET Nurs. 1992 Mar-Apr; 19(2):42-7. PMID: [1558859](//www.ncbi.nlm.nih.gov/pubmed/1558859).
+
+Citations:  Fields:
+
+Gas GastroenterologyNur Nursing
+
+Translation:Humans
+
+  46. Regalbuto MA, **Krouskop TA** , Cheatham JB. Toward a practical mobile robotic aid system for people with severe physical disabilities. J Rehabil Res Dev. 1992; 29(1):19-26. PMID: [1531513](//www.ncbi.nlm.nih.gov/pubmed/1531513).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1531513/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  47. Regalbuto M, **Krouskop T** , Cheatham J. Applying robotic technology to aid people with severe disabilities. Assist Technol. 1992; 4(2):87-94. PMID: [10171660](//www.ncbi.nlm.nih.gov/pubmed/10171660).
+
+Citations:  Fields:
+
+Phy Physical and Rehabilitation MeTec Technology
+
+Translation:Humans
+
+  48. Nowicki B, Runyan RS, Smith N, **Krouskop TA**. Kinetics of colonization of a porous vitreous carbon percutaneous implant. Biomaterials. 1990 Aug; 11(6):389-92. PMID: [2207227](//www.ncbi.nlm.nih.gov/pubmed/2207227).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2207227/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:AnimalsCellsPHPublic Health
+
+  49. **Krouskop TA** , [Garber SL](https://profiles.viictr.org/profile/269477). Interface pressure measurements. J Enterostomal Ther. 1990 Jul-Aug; 17(4):182. PMID: [2380428](//www.ncbi.nlm.nih.gov/pubmed/2380428).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2380428/citedby/) Fields:
+
+Gas GastroenterologyNur Nursing
+
+Translation:Humans
+
+  50. **Krouskop TA** , [Garber SL](https://profiles.viictr.org/profile/269477). Interface pressure confusion. Decubitus. 1989 Aug; 2(3):8. PMID: [2775477](//www.ncbi.nlm.nih.gov/pubmed/2775477).
+
+Citations:  Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  51. **Krouskop TA** , [Garber SL](https://profiles.viictr.org/profile/269477). Interface pressure measurements. Ostomy Wound Manage. 1989; 24:12, 14. PMID: [2627254](//www.ncbi.nlm.nih.gov/pubmed/2627254).
+
+Citations:  Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  52. Malinauskas M, **Krouskop TA** , Barry PA. Noninvasive measurement of the stiffness of tissue in the above-knee amputation limb. J Rehabil Res Dev. 1989; 26(3):45-52. PMID: [2666643](//www.ncbi.nlm.nih.gov/pubmed/2666643).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2666643/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  53. **Krouskop TA** , Dougherty D, Yalcinkaya MI, Muilenberg A. Measuring the shape and volume of an above-knee stump. Prosthet Orthot Int. 1988 Dec; 12(3):136-42. PMID: [3217243](//www.ncbi.nlm.nih.gov/pubmed/3217243).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3217243/citedby/) Fields:
+
+Bio Biomedical EngineeringOrt Orthopedics
+
+Translation:Humans
+
+  54. **Krouskop TA** , Brown HD, Gray K, Shively J, Romovacek GR, Spira M, Runyan RS. Bacterial challenge study of a porous carbon percutaneous implant. Biomaterials. 1988 Sep; 9(5):398-404. PMID: [3146992](//www.ncbi.nlm.nih.gov/pubmed/3146992).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3146992/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:AnimalsCells
+
+  55. Solis I, **Krouskop T** , Trainer N, Marburger R. Supine interface pressure in children. Arch Phys Med Rehabil. 1988 Jul; 69(7):524-6. PMID: [3389994](//www.ncbi.nlm.nih.gov/pubmed/3389994).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3389994/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  56. Swarts AE, **Krouskop TA** , Smith DR. Tissue pressure management in the vocational setting. Arch Phys Med Rehabil. 1988 Feb; 69(2):97-100. PMID: [3341901](//www.ncbi.nlm.nih.gov/pubmed/3341901).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3341901/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  57. Gilkeson GE, **Krouskop TA**. A master's degree program in occupational therapy with a rehabilitation technology focus. Am J Occup Ther. 1987 Nov; 41(11):749-52. PMID: [3425670](//www.ncbi.nlm.nih.gov/pubmed/3425670).
+
+Citations:  Fields:
+
+Phy Physical and Rehabilitation Me
+
+  58. **Krouskop TA** , Brown J, Goode B, Winningham D. Interface pressures in above-knee sockets. Arch Phys Med Rehabil. 1987 Oct; 68(10):713-4. PMID: [3662780](//www.ncbi.nlm.nih.gov/pubmed/3662780).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3662780/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  59. Shenaq SM, **Krouskop T** , Stal S, Spira M. Salvage of amputation stumps by secondary reconstruction utilizing microsurgical free-tissue transfer. Plast Reconstr Surg. 1987 Jun; 79(6):861-70. PMID: [3295911](//www.ncbi.nlm.nih.gov/pubmed/3295911).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3295911/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  60. **Krouskop TA** , Muilenberg AL, Doughtery DR, Winningham DJ. Computer-aided design of a prosthetic socket for an above-knee amputee. J Rehabil Res Dev. 1987; 24(2):31-8. PMID: [3585783](//www.ncbi.nlm.nih.gov/pubmed/3585783).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3585783/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  61. **Krouskop TA** , Dougherty DR, Vinson FS. A pulsed Doppler ultrasonic system for making noninvasive measurements of the mechanical properties of soft tissue. J Rehabil Res Dev. 1987; 24(2):1-8. PMID: [3295197](//www.ncbi.nlm.nih.gov/pubmed/3295197).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3295197/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  62. **Krouskop TA** , Noble PS, Brown J, Marburger R. Factors affecting the pressure-distributing properties of foam mattress overlays. J Rehabil Res Dev. 1986 Jul; 23(3):33-9. PMID: [3772816](//www.ncbi.nlm.nih.gov/pubmed/3772816).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3772816/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  63. **Krouskop TA** , Williams R, Noble P, Brown J. Inflation pressure effect on performance of air-filled wheelchair cushions. Arch Phys Med Rehabil. 1986 Feb; 67(2):126-8. PMID: [3954563](//www.ncbi.nlm.nih.gov/pubmed/3954563).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3954563/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  64. **Krouskop TA** , Williams R, Krebs M, Herszkowicz I, [Garber S](https://profiles.viictr.org/profile/269477). Effectiveness of mattress overlays in reducing interface pressures during recumbency. J Rehabil Res Dev. 1985 Jul; 22(3):7-10. PMID: [3835267](//www.ncbi.nlm.nih.gov/pubmed/3835267).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3835267/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  65. [Garber SL](https://profiles.viictr.org/profile/269477), **Krouskop TA**. Wheelchair cushion modification and its effect on pressure. Arch Phys Med Rehabil. 1984 Oct; 65(10):579-83. PMID: [6487060](//www.ncbi.nlm.nih.gov/pubmed/6487060).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6487060/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  66. Noble PC, Goode B, **Krouskop TA** , Crisp B. The influence of environmental aging upon the loadbearing properties of polyurethane foams. J Rehabil Res Dev. 1984 Jul; 21(2):31-8. PMID: [6530673](//www.ncbi.nlm.nih.gov/pubmed/6530673).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:HumansPHPublic Health
+
+  67. **Krouskop TA** , Noble PC, [Garber SL](https://profiles.viictr.org/profile/269477), Spencer WA. The effectiveness of preventive management in reducing the occurrence of pressure sores. J Rehabil R D. 1983 Jul; 20(1):74-83. PMID: [6887068](//www.ncbi.nlm.nih.gov/pubmed/6887068).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6887068/citedby/) Fields:
+
+Gen General SurgeryPhy Physical and Rehabilitation MeTra Transplantation
+
+Translation:Humans
+
+  68. **Krouskop TA**. A synthesis of the factors that contribute to pressure sore formation. Med Hypotheses. 1983 Jun; 11(2):255-67. PMID: [6888310](//www.ncbi.nlm.nih.gov/pubmed/6888310).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6888310/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimals
+
+  69. [Garber SL](https://profiles.viictr.org/profile/269477), Campion LJ, **Krouskop TA**. Trochanteric pressure in spinal cord injury. Arch Phys Med Rehabil. 1982 Nov; 63(11):549-52. PMID: [7138267](//www.ncbi.nlm.nih.gov/pubmed/7138267).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7138267/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  70. [Garber SL](https://profiles.viictr.org/profile/269477), **Krouskop TA**. Body build and its relationship to pressure distribution in the seated wheelchair patient. Arch Phys Med Rehabil. 1982 Jan; 63(1):17-20. PMID: [7055413](//www.ncbi.nlm.nih.gov/pubmed/7055413).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7055413/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  71. Zatlin CR, Hemmen E, **Krouskop TA** , Sklan M. Guitar capo for a bilateral upper extremity amputee. Am J Occup Ther. 1981 Nov; 35(11):736. PMID: [7325196](//www.ncbi.nlm.nih.gov/pubmed/7325196).
+
+Citations:  Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  72. Janelli HV, **Krouskop TA** , Canzoneri J, Jameson J. Positive pressure respiratory assist for wheelchair-mobile persons. Arch Phys Med Rehabil. 1980 Mar; 61(3):143-4. PMID: [6989344](//www.ncbi.nlm.nih.gov/pubmed/6989344).
+
+Citations:  Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  73. [Garber SL](https://profiles.viictr.org/profile/269477), **Krouskop TA** , Carter RE. A system for clinically evaluating wheelchair pressure-relief cushions. Am J Occup Ther. 1978 Oct; 32(9):565-70. PMID: [556427](//www.ncbi.nlm.nih.gov/pubmed/556427).
+
+Citations: [4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/556427/citedby/)
+Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  74. Reddy NP, **Krouskop TA**. Modelling the cell-mediated immunity in homograft refection. Int J Biomed Comput. 1978 Sep; 9(5):327-40. PMID: [750500](//www.ncbi.nlm.nih.gov/pubmed/750500).
+
+Citations: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/750500/citedby/)
+Fields:
+
+Bio Biomedical EngineeringMed Medical Informatics
+
+Translation:Cells
+
+  75. **Krouskop TA** , Reddy NP, Spencer WA, Secor JW. Mechanisms of decubitus ulcer formation--an hypothesis. Med Hypotheses. 1978 Jan-Feb; 4(1):37-9. PMID: [634177](//www.ncbi.nlm.nih.gov/pubmed/634177).
+
+Citations: [7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/634177/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimals
+
+  76. Reddy NP, **Krouskop TA** , Newell PH. A computer model of the lymphatic system. Comput Biol Med. 1977 Jul; 7(3):181-97. PMID: [891141](//www.ncbi.nlm.nih.gov/pubmed/891141).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/891141/citedby/) Fields:
+
+Bio BiologyMed Medical InformaticsMed Medicine (General)
+
+Translation:Humans
+
+  77. **Krouskop TA** , Trono R, Adamski AJ. The effects of pylon shape on bone-pylon interface performance in direct skeletal attachment. J Biomed Mater Res. 1976 May; 10(3):345-69. PMID: [1270454](//www.ncbi.nlm.nih.gov/pubmed/1270454).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  78. Reddy NP, **Krouskop TA** , Newell PH. A note on the mechanisms of lymph flow through the terminal lymphatics. Microvasc Res. 1975 Sep; 10(2):214-6. PMID: [1186528](//www.ncbi.nlm.nih.gov/pubmed/1186528).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1186528/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:HumansAnimals
+
+  79. Reddy NP, **Krouskop TA** , Newell PH. Development of lymph hypertension during lymphatic occlusion. Lymphology. 1975 Sep; 8(3):105-9. PMID: [1202296](//www.ncbi.nlm.nih.gov/pubmed/1202296).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+  80. Leavitt LA, **Krouskop TA** , Muilenburg AL, Newell PH. Cosmetic cover for endoskeletal prosthetic systems, a new technique. Arch Phys Med Rehabil. 1975 Sep; 56(9):414-6. PMID: [1164183](//www.ncbi.nlm.nih.gov/pubmed/1164183).
+
+Citations:  Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  81. Reddy NP, **Krouskop TA** , Newell PH. Biomechanics of a lymphatic vessel. Blood Vessels. 1975; 12(5):261-78. PMID: [1182313](//www.ncbi.nlm.nih.gov/pubmed/1182313).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1182313/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Cells
+
+  82. Newell PH, **Krouskop TA** , Jendrucko RJ, Chakraborty BK. Establishment of a theoretical base-design of a lower extremity prosthesis. J Biomed Mater Res. 1974; 8(4 Pt 2):331-41. PMID: [4413280](//www.ncbi.nlm.nih.gov/pubmed/4413280).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4413280/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+  83. **Krouskop TA** , Newell PH, Leavitt LA. Cosmetic covers for lower-limb prostheses. Bull Prosthet Res. 1974; 411-4. PMID: [4462926](//www.ncbi.nlm.nih.gov/pubmed/4462926).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4462926/citedby/) Fields:
+
+Gen General SurgeryPhy Physical and Rehabilitation MeTra Transplantation
+
+Translation:Humans
+
+  84. Krokosky EM, **Krouskop TA**. The determination of the constitutive relationships for a human aorta. J Biomed Mater Res. 1970 Dec; 4(4):525-47. PMID: [5487555](//www.ncbi.nlm.nih.gov/pubmed/5487555).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimals
+
+  85. Krokosky EM, **Krouskop TA**. A stress-deformation model of the human aorta. J Biomed Mater Res. 1970 Dec; 4(4):503-24. PMID: [5487554](//www.ncbi.nlm.nih.gov/pubmed/5487554).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  86. Krokosky EM, **Krouskop T**. Synthetic aortas for systemic simulators. J Biomed Mater Res. 1968 Sep; 2(3):357-75. PMID: [5708017](//www.ncbi.nlm.nih.gov/pubmed/5708017).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/5708017/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 43 publications over 18 distinct years, with a maximum of
+5 publications in
+2007](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:40,40,0,20,80,60,60,20,60,60,80,60,60,100,20,0,40,0,20,0,0,20,0,0,20,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 2  
+1995| 2  
+1997| 1  
+1998| 4  
+1999| 3  
+2000| 3  
+2001| 1  
+2002| 3  
+2003| 3  
+2004| 4  
+2005| 3  
+2006| 3  
+2007| 5  
+2008| 1  
+2010| 2  
+2012| 1  
+2015| 1  
+2018| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+KROUSKOP's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (266)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Pressure Ulcer](https://profiles.viictr.org/profile/258087)
+  * [Ultrasonography](https://profiles.viictr.org/profile/260248)
+  * [Elasticity](https://profiles.viictr.org/profile/249220)
+  * [Image Enhancement](https://profiles.viictr.org/profile/258513)
+  * [Image Interpretation, Computer-Assisted](https://profiles.viictr.org/profile/253278)
+
+[Explore](https://profiles.viictr.org/profile/267406/198)
+
+_
+
+Co-Authors (5)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GARBER, SUSAN](https://profiles.viictr.org/profile/269477)
+  * [TAN, FAYE](https://profiles.viictr.org/profile/269685)
+  * [WHEELER, THOMAS](https://profiles.viictr.org/profile/266558)
+  * [STAFFORD, JASON](https://profiles.viictr.org/profile/12583314)
+  * [HAZLE, JOHN D](https://profiles.viictr.org/profile/12582511)
+
+[Explore](https://profiles.viictr.org/profile/267406/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LARIN, KIRILL](https://profiles.viictr.org/profile/266154)
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [MA, JINGFEI](https://profiles.viictr.org/profile/12582614)
+  * [ROHRICH, RODNEY](https://profiles.viictr.org/profile/30445263)
+  * [WHITMAN, GARY J](https://profiles.viictr.org/profile/12582941)
+
+[Explore](https://profiles.viictr.org/profile/267406/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRYDGES, GARRY](https://profiles.viictr.org/profile/266504)
+  * [DESANDRO, STEPHANIE](https://profiles.viictr.org/profile/269419)
+  * [HARMS, AARON](https://profiles.viictr.org/profile/27841657)
+  * [KENWORTHY, SALLY](https://profiles.viictr.org/profile/19013078)
+  * [REINHART, TODD](https://profiles.viictr.org/profile/37834430)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8YlNXMdSlffdBoax7hzlUnB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [ENG, CHRISTINE](https://profiles.viictr.org/profile/267270)
+
+_
+

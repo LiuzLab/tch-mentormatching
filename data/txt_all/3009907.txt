@@ -1,0 +1,644 @@
+## FAN XIA
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| 2450 HOLCOMBE  
+Houston, TX 77021  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=MLM54EXFI4a7Q4v4&rnd=d6797a38-5c7a-4e99-89b3-f171de2edf11)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3009907)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Mao D, Liu C, Wang L, Ai-Ouran R, [Deisseroth C](https://profiles.viictr.org/profile/37800263), Pasupuleti S, Kim SY, Li L, Rosenfeld JA, [Meng L](https://profiles.viictr.org/profile/3010157), [Burrage LC](https://profiles.viictr.org/profile/3010239), [Wangler MF](https://profiles.viictr.org/profile/268429), [Yamamoto S](https://profiles.viictr.org/profile/3009536), Undiagnosed Diseases Network, Santana M, Perez V, Shukla P, [Eng CM](https://profiles.viictr.org/profile/267270), Lee B, [Yuan B](https://profiles.viictr.org/profile/1826469), **Xia F** , [Bellen HJ](https://profiles.viictr.org/profile/268278), Liu P, [Liu Z](https://profiles.viictr.org/profile/266153). AI-MARRVEL - A Knowledge-Driven AI System for Diagnosing Mendelian Disorders. NEJM AI. 2024 May; 1(5). PMID: [38962029](//www.ncbi.nlm.nih.gov/pubmed/38962029); PMCID: [PMC11221788](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11221788).
+
+Citations:
+
+  2. [Zhang X](https://profiles.viictr.org/profile/20424333), [Cheng X](https://profiles.viictr.org/profile/20424330), **Xia F** , Zhang X, Blumenthal RM. C2H2 Zinc Finger Transcription Factors Associated with Hemoglobinopathies. J Mol Biol. 2024 Apr 01; 436(7):168343. PMID: [37924864](//www.ncbi.nlm.nih.gov/pubmed/37924864); PMCID: [PMC11185177](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11185177).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  3. [Meng L](https://profiles.viictr.org/profile/3010157), Attali R, Talmy T, Regev Y, Mizrahi N, Smirin-Yosef P, [Vossaert L](https://profiles.viictr.org/profile/16943317), Taborda C, Santana M, Machol I, Xiao R, [Dai H](https://profiles.viictr.org/profile/17593590), [Eng C](https://profiles.viictr.org/profile/267270), **Xia F** , Tzur S. Evaluation of an automated genome interpretation model for rare disease routinely used in a clinical genetic laboratory. Genet Med. 2023 06; 25(6):100830. PMID: [36939041](//www.ncbi.nlm.nih.gov/pubmed/36939041).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36939041/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  4. [Bi W](https://profiles.viictr.org/profile/266446), [Yuan B](https://profiles.viictr.org/profile/1826469), Liu P, Murry JB, [Qin X](https://profiles.viictr.org/profile/267418), **Xia F** , Quach T, Cooper LM, Wiszniewska J, Hixson P, Peacock S, Tonk VS, Huff RW, Ortega V, [Lupski JR](https://profiles.viictr.org/profile/268099), [Scherer SE](https://profiles.viictr.org/profile/266857), [Littlejohn RO](https://profiles.viictr.org/profile/3622376), Velagaleti GVN, [Roeder ER](https://profiles.viictr.org/profile/2560358), [Cheung SW](https://profiles.viictr.org/profile/268913). Recurring germline mosaicism in a family due to reversion of an inherited derivative chromosome 8 from an 8;21 translocation with interstitial telomeric sequences. J Med Genet. 2023 06; 60(6):547-556. PMID: [36150828](//www.ncbi.nlm.nih.gov/pubmed/36150828).
+
+Citations:
+
+  5. Chen CA, Lattier J, Zhu W, Rosenfeld J, Wang L, Scott TM, Du H, Patel V, [Dang A](https://profiles.viictr.org/profile/12583350), [Magoulas P](https://profiles.viictr.org/profile/265657), [Streff H](https://profiles.viictr.org/profile/28999049), Sebastian J, Svihovec S, Curry K, Delgado MR, [Hanchard NA](https://profiles.viictr.org/profile/268451), [Lalani S](https://profiles.viictr.org/profile/269910), [Marom R](https://profiles.viictr.org/profile/14348371), Madan-Khetarpal S, Saenz M, [Dai H](https://profiles.viictr.org/profile/17593590), [Meng L](https://profiles.viictr.org/profile/3010157), **Xia F** , [Bi W](https://profiles.viictr.org/profile/266446), Liu P, [Posey JE](https://profiles.viictr.org/profile/6714377), [Scott DA](https://profiles.viictr.org/profile/269153), [Lupski JR](https://profiles.viictr.org/profile/268099), [Eng CM](https://profiles.viictr.org/profile/267270), Xiao R, [Yuan B](https://profiles.viictr.org/profile/1826469). Retrospective analysis of a clinical exome sequencing cohort reveals the mutational spectrum and identifies candidate disease-associated loci for BAFopathies. Genet Med. 2022 02; 24(2):364-373. PMID: [34906496](//www.ncbi.nlm.nih.gov/pubmed/34906496); PMCID: [PMC8957292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8957292).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  6. Panneerselvam S, Wang J, Zhu W, [Dai H](https://profiles.viictr.org/profile/17593590), Pappas JG, Rabin R, Low KJ, Rosenfeld JA, [Emrick L](https://profiles.viictr.org/profile/3010431), Xiao R, **Xia F** , Yang Y, [Eng CM](https://profiles.viictr.org/profile/267270), [Anderson A](https://profiles.viictr.org/profile/268159), Chau V, [Soler-Alfonso C](https://profiles.viictr.org/profile/23478755), [Streff H](https://profiles.viictr.org/profile/28999049), [Lalani SR](https://profiles.viictr.org/profile/269910), Mercimek-Andrews S, Undiagnosed Diseases Network, DDD Study, [Bi W](https://profiles.viictr.org/profile/266446). PPP3CA truncating variants clustered in the regulatory domain cause early-onset refractory epilepsy. Clin Genet. 2021 08; 100(2):227-233. PMID: [33963760](//www.ncbi.nlm.nih.gov/pubmed/33963760).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33963760/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  7. Rosenfeld JA, Xiao R, [Bekheirnia MR](https://profiles.viictr.org/profile/267181), Kanani F, Parker MJ, Koenig MK, van Haeringen A, Ruivenkamp C, Pinto Basto J, Palen E, Oetjens KF, [Burrage LC](https://profiles.viictr.org/profile/3010239), **Xia F** , Liu P, [Eng CM](https://profiles.viictr.org/profile/267270), Undiagnosed Diseases Network, Yang Y, [Posey JE](https://profiles.viictr.org/profile/6714377), [Lee BH](https://profiles.viictr.org/profile/267019), Rosmaninho-Salgado J, Almeida PM, S? J. Heterozygous variants in SPTBN1 cause intellectual disability and autism. Am J Med Genet A. 2021 07; 185(7):2037-2045. PMID: [33847457](//www.ncbi.nlm.nih.gov/pubmed/33847457); PMCID: [PMC11182376](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11182376).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33847457/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  8. [Yuan B](https://profiles.viictr.org/profile/1826469), Wang L, Liu P, [Shaw C](https://profiles.viictr.org/profile/269433), [Dai H](https://profiles.viictr.org/profile/17593590), Cooper L, Zhu W, Anderson SA, [Meng L](https://profiles.viictr.org/profile/3010157), Wang X, Wang Y, **Xia F** , Xiao R, Braxton A, Peacock S, Schmitt E, Ward PA, Vetrini F, He W, Chiang T, [Muzny D](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), Beaudet AL, Breman AM, Smith J, [Cheung SW](https://profiles.viictr.org/profile/268913), [Bacino CA](https://profiles.viictr.org/profile/266588), [Eng CM](https://profiles.viictr.org/profile/267270), Yang Y, [Lupski JR](https://profiles.viictr.org/profile/268099), [Bi W](https://profiles.viictr.org/profile/266446). CNVs cause autosomal recessive genetic diseases with or without involvement of SNV/indels. Genet Med. 2020 10; 22(10):1633-1641. PMID: [32576985](//www.ncbi.nlm.nih.gov/pubmed/32576985); PMCID: [PMC8445517](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8445517).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32576985/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  9. **Xia F** , George SL, [Ning J](https://profiles.viictr.org/profile/12583520), Li L, Huang X. A Signature Enrichment Design with Bayesian Adaptive Randomization. J Appl Stat. 2021; 48(6):1091-1110. PMID: [34024982](//www.ncbi.nlm.nih.gov/pubmed/34024982); PMCID: [PMC8132854](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8132854).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34024982/citedby/)
+
+  10. Cheng H, Gottlieb L, Marchi E, Kleyner R, Bhardwaj P, Rope AF, Rosenheck S, Eyaid W, Alkuraya FS, Toribio J, Mena R, Prada CE, Stessman H, Bernier R, Blaumeiser B, Kooy RF, Baralle D, Mancini GMS, Conway SJ, **Xia F** , Chen Z, [Meng L](https://profiles.viictr.org/profile/3010157), Marmorstein R, Lyon GJ, Moutton S, Philippe C, Wermuth M, Kauffmann B, Mihajlovic L. Phenotypic and biochemical analysis of an international cohort of individuals with variants in NAA10 and NAA15. Hum Mol Genet. 2020 03 27; 29(5):877-878. PMID: [32027362](//www.ncbi.nlm.nih.gov/pubmed/32027362); PMCID: [PMC7104668](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7104668).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32027362/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+  11. Shayota BJ, Le NT, Bekheirnia N, Rosenfeld JA, Goldstein AC, Moritz M, Bartholomew DW, Pastore MT, **Xia F** , [Eng C](https://profiles.viictr.org/profile/267270), Yang Y, Lamb DJ, [Scaglia F](https://profiles.viictr.org/profile/268358), [Braun MC](https://profiles.viictr.org/profile/266495), [Bekheirnia MR](https://profiles.viictr.org/profile/267181). Characterization of the renal phenotype in RMND1-related mitochondrial disease. Mol Genet Genomic Med. 2019 12; 7(12):e973. PMID: [31568715](//www.ncbi.nlm.nih.gov/pubmed/31568715); PMCID: [PMC6900359](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6900359).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31568715/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansCells
+
+  12. Cheng H, Gottlieb L, Marchi E, Kleyner R, Bhardwaj P, Rope AF, Rosenheck S, Eyaid W, Alkuraya FS, Toribio J, Mena R, Prada CE, Stessman H, Bernier R, Blaumeiser B, Kooy RF, Baralle D, Mancini GMS, Conway SJ, **Xia F** , Chen Z, [Meng L](https://profiles.viictr.org/profile/3010157), Marmorstein R, Lyon GJ, Moutton S, Philippe C, Wermuth M, Kauffmann B, Mihajlovic L. Phenotypic and biochemical analysis of an international cohort of individuals with variants in NAA10 and NAA15. Hum Mol Genet. 2019 09 01; 28(17):2900-2919. PMID: [31127942](//www.ncbi.nlm.nih.gov/pubmed/31127942); PMCID: [PMC6736318](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6736318).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31127942/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansCells
+
+  13. [Cao Y](https://profiles.viictr.org/profile/41109781), Tokita MJ, Chen ES, Ghosh R, Chen T, Feng Y, Gorman E, Gibellini F, Ward PA, Braxton A, Wang X, [Meng L](https://profiles.viictr.org/profile/3010157), Xiao R, [Bi W](https://profiles.viictr.org/profile/266446), **Xia F** , [Eng CM](https://profiles.viictr.org/profile/267270), Yang Y, Gambin T, [Shaw C](https://profiles.viictr.org/profile/269433), Liu P, [Stankiewicz P](https://profiles.viictr.org/profile/269299). A clinical survey of mosaic single nucleotide variants in disease-causing genes detected by exome sequencing. Genome Med. 2019 07 26; 11(1):48. PMID: [31349857](//www.ncbi.nlm.nih.gov/pubmed/31349857); PMCID: [PMC6660700](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6660700).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31349857/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  14. [Liu P](https://profiles.viictr.org/profile/3010309), [Meng L](https://profiles.viictr.org/profile/3010157), Normand EA, **Xia F** , Song X, Ghazi A, Rosenfeld J, [Magoulas PL](https://profiles.viictr.org/profile/265657), Braxton A, Ward P, [Dai H](https://profiles.viictr.org/profile/17593590), [Yuan B](https://profiles.viictr.org/profile/1826469), [Bi W](https://profiles.viictr.org/profile/266446), Xiao R, Wang X, Chiang T, Vetrini F, He W, Cheng H, Dong J, [Gijavanekar C](https://profiles.viictr.org/profile/40654792), Benke PJ, Bernstein JA, [Eble T](https://profiles.viictr.org/profile/267869), Eroglu Y, Erwin D, Escobar L, Gibson JB, Gripp K, Kleppe S, Koenig MK, Lewis AM, Natowicz M, Mancias P, Minor L, [Scaglia F](https://profiles.viictr.org/profile/268358), Schaaf CP, [Streff H](https://profiles.viictr.org/profile/28999049), Vernon H, Uhles CL, Zackai EH, Wu N, [Sutton VR](https://profiles.viictr.org/profile/269795), Beaudet AL, [Muzny D](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Posey JE](https://profiles.viictr.org/profile/6714377), [Lalani S](https://profiles.viictr.org/profile/269910), [Shaw C](https://profiles.viictr.org/profile/269433), [Eng CM](https://profiles.viictr.org/profile/267270), [Lupski JR](https://profiles.viictr.org/profile/268099), Yang Y. Reanalysis of Clinical Exome Sequencing Data. N Engl J Med. 2019 06 20; 380(25):2478-2480. PMID: [31216405](//www.ncbi.nlm.nih.gov/pubmed/31216405); PMCID: [PMC6934160](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6934160).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31216405/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  15. Zhang J, Li J, Saucier JB, Feng Y, Jiang Y, Sinson J, McCombs AK, Schmitt ES, Peacock S, Chen S, [Dai H](https://profiles.viictr.org/profile/17593590), Ge X, Wang G, [Shaw CA](https://profiles.viictr.org/profile/269433), Mei H, Breman A, **Xia F** , Yang Y, Purgason A, Pourpak A, Chen Z, Wang X, Wang Y, Kulkarni S, Choy KW, Wapner RJ, [Van den Veyver IB](https://profiles.viictr.org/profile/266526), Beaudet A, Parmar S, Wong LJ, [Eng CM](https://profiles.viictr.org/profile/267270). Publisher Correction: Non-invasive prenatal sequencing for multiple Mendelian monogenic disorders using circulating cell-free fetal DNA. Nat Med. 2019 Apr; 25(4):701-702. PMID: [30787481](//www.ncbi.nlm.nih.gov/pubmed/30787481).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30787481/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+  16. Zhang J, Li J, Saucier JB, Feng Y, Jiang Y, Sinson J, McCombs AK, Schmitt ES, Peacock S, Chen S, [Dai H](https://profiles.viictr.org/profile/17593590), Ge X, Wang G, [Shaw CA](https://profiles.viictr.org/profile/269433), Mei H, Breman A, **Xia F** , Yang Y, Purgason A, Pourpak A, Chen Z, Wang X, Wang Y, Kulkarni S, Choy KW, Wapner RJ, [Van den Veyver IB](https://profiles.viictr.org/profile/266526), Beaudet A, Parmar S, Wong LJ, [Eng CM](https://profiles.viictr.org/profile/267270). Non-invasive prenatal sequencing for multiple Mendelian monogenic disorders using circulating cell-free fetal DNA. Nat Med. 2019 03; 25(3):439-447. PMID: [30692697](//www.ncbi.nlm.nih.gov/pubmed/30692697).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30692697/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:Humans
+
+  17. Fountain MD, Oleson DS, Rech ME, Hunter JV, McCarthy JM, [Lupo PJ](https://profiles.viictr.org/profile/270034), Holtgrewe M, Moran R, Rosenfeld JA, Saenz MS, Pedersen RC, Morgan TM, Pfotenhauer JP, **Xia F** , [Bi W](https://profiles.viictr.org/profile/266446), Kang SL, Patel A, Krantz ID, Raible SE, Smith W, Cristian I, Torti E, Juusola J, Millan F, Wentzensen IM, Person RE, van Haelst M, Lichtenbelt KD, van Gassen K, Hagelstrom T, Chawla A, Perry DL, Taft RJ, Jones M, Masser-Frye D, Dyment D, Venkateswaran S, Li C, Escobar LF, Spillmann RC, Wierzba J, Schaaf CP, Segebrecht L, Isidor B, Le Caignec C, K?ry S, B?zieau S, Uguen K, F?rec C, Munnich A, Horn D, Pe?a L, Strom TM, Parenti I, Kaiser FJ, Ehmke N. Pathogenic variants in USP7 cause a neurodevelopmental disorder with speech delays, altered behavior, and neurologic anomalies. Genet Med. 2019 08; 21(8):1797-1807. PMID: [30679821](//www.ncbi.nlm.nih.gov/pubmed/30679821); PMCID: [PMC6752677](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6752677).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30679821/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  18. Rehman AU, Najafi M, Kambouris M, Al-Gazali L, Makrythanasis P, Rad A, Maroofian R, Rajab A, Stark Z, Hunter JV, Bakey Z, Tokita MJ, He W, Vetrini F, Petersen A, Santoni FA, Hamamy H, Wu K, Al-Jasmi F, Arnold SJ, **Xia F** , Richmond C, [Liu P](https://profiles.viictr.org/profile/3010309), Karimiani EG, Karami Madani G, Lunke S, El-Shanti H, [Eng CM](https://profiles.viictr.org/profile/267270), Antonarakis SE, Hertecant J, Walkiewicz M, Yang Y, Schmidts M, Helmst?dter M. Biallelic loss of function variants in PPP1R21 cause a neurodevelopmental syndrome with impaired endocytic function. Hum Mutat. 2019 03; 40(3):267-280. PMID: [30520571](//www.ncbi.nlm.nih.gov/pubmed/30520571); PMCID: [PMC6370506](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6370506).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30520571/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  19. Normand EA, Braxton A, [Nassef S](https://profiles.viictr.org/profile/3009648), Ward PA, Vetrini F, He W, Patel V, Qu C, [Westerfield LE](https://profiles.viictr.org/profile/17149171), Stover S, Dharmadhikari AV, [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Dai H](https://profiles.viictr.org/profile/17593590), [Meng L](https://profiles.viictr.org/profile/3010157), Wang X, Xiao R, [Liu P](https://profiles.viictr.org/profile/3010309), [Bi W](https://profiles.viictr.org/profile/266446), **Xia F** , Walkiewicz M, [Van den Veyver IB](https://profiles.viictr.org/profile/266526), [Eng CM](https://profiles.viictr.org/profile/267270), Yang Y. Clinical exome sequencing for fetuses with ultrasound abnormalities and a suspected Mendelian disorder. Genome Med. 2018 09 28; 10(1):74. PMID: [30266093](//www.ncbi.nlm.nih.gov/pubmed/30266093); PMCID: [PMC6162951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6162951).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30266093/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  20. Wang X, [Posey JE](https://profiles.viictr.org/profile/6714377), Rosenfeld JA, [Bacino CA](https://profiles.viictr.org/profile/266588), [Scaglia F](https://profiles.viictr.org/profile/268358), Immken L, Harris JM, Hickey SE, Mosher TM, Slavotinek A, Zhang J, Beuten J, Leduc MS, He W, Vetrini F, Walkiewicz MA, [Bi W](https://profiles.viictr.org/profile/266446), Xiao R, [Liu P](https://profiles.viictr.org/profile/3010309), Shao Y, Gezdirici A, Gulec EY, Jiang Y, [Darilek SA](https://profiles.viictr.org/profile/268941), Hansen AW, Khayat MM, [Pehlivan D](https://profiles.viictr.org/profile/27841639), [Muzny DM](https://profiles.viictr.org/profile/268028), [Hanchard N](https://profiles.viictr.org/profile/268451), [Belmont JW](https://profiles.viictr.org/profile/267229), [Gibbs RA](https://profiles.viictr.org/profile/269695), Eldomery MK, Akdemir ZC, [Adesina AM](https://profiles.viictr.org/profile/268657), Chen S, Lee YC, Undiagnosed Diseases Network, Lee B, [Lupski JR](https://profiles.viictr.org/profile/268099), [Eng CM](https://profiles.viictr.org/profile/267270), **Xia F** , Yang Y, Graham BH, Moretti P, Piard J, Van Maldergem L. Phenotypic expansion in DDX3X - a common cause of intellectual disability in females. Ann Clin Transl Neurol. 2018 Oct; 5(10):1277-1285. PMID: [30349862](//www.ncbi.nlm.nih.gov/pubmed/30349862); PMCID: [PMC6186933](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6186933).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30349862/citedby/) Fields:
+
+Neu Neurology
+
+  21. Hashmi SK, Bergstrom K, [Bertuch AA](https://profiles.viictr.org/profile/266270), Despotovic JM, [Muscal E](https://profiles.viictr.org/profile/270252), **Xia F** , [Bi W](https://profiles.viictr.org/profile/266446), [Marcogliese A](https://profiles.viictr.org/profile/266792), Diaz R. PSTPIP1-associated myeloid-related proteinemia inflammatory syndrome: A rare cause of childhood neutropenia associated with systemic inflammation and hyperzincemia. Pediatr Blood Cancer. 2019 01; 66(1):e27439. PMID: [30198636](//www.ncbi.nlm.nih.gov/pubmed/30198636).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30198636/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  22. Marcogliese PC, Shashi V, Spillmann RC, Stong N, Rosenfeld JA, Koenig MK, Herzog M, Chen AH, Dickson PI, Lin HJ, Vera MU, Salamon N, Graham JM, Ortiz D, Infante E, Steyaert W, Dermaut B, Poppe B, Chung HL, Zuo Z, Lee PT, [Kanca O](https://profiles.viictr.org/profile/14348445), **Xia F** , Yang Y, Smith EC, Jasien J, Kansagra S, Spiridigliozzi G, El-Dairi M, Lark R, Riley K, Koeberl DD, Golden-Grant K, Program for Undiagnosed Diseases (UD-PrOZA), Undiagnosed Diseases Network, [Yamamoto S](https://profiles.viictr.org/profile/3009536), [Wangler MF](https://profiles.viictr.org/profile/268429), Mirzaa G, Hemelsoet D, Lee B, Nelson SF, Goldstein DB, [Bellen HJ](https://profiles.viictr.org/profile/268278), Pena LDM, Mart?nez-Agosto JA. IRF2BPL Is Associated with Neurological Phenotypes. Am J Hum Genet. 2018 08 02; 103(2):245-260. PMID: [30057031](//www.ncbi.nlm.nih.gov/pubmed/30057031); PMCID: [PMC6081494](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6081494).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30057031/citedby/) Fields:
+
+Gen Genetics
+
+  23. Jiang Y, [Wangler MF](https://profiles.viictr.org/profile/268429), [McGuire AL](https://profiles.viictr.org/profile/269988), [Lupski JR](https://profiles.viictr.org/profile/268099), [Posey JE](https://profiles.viictr.org/profile/6714377), Khayat MM, Murdock DR, Sanchez-Pulido L, Ponting CP, **Xia F** , Hunter JV, [Meng Q](https://profiles.viictr.org/profile/12583622), Murugan M, [Gibbs RA](https://profiles.viictr.org/profile/269695). The phenotypic spectrum of Xia-Gibbs syndrome. Am J Med Genet A. 2018 06; 176(6):1315-1326. PMID: [29696776](//www.ncbi.nlm.nih.gov/pubmed/29696776); PMCID: [PMC6231716](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6231716).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29696776/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  24. **Xia F** , [Ning J](https://profiles.viictr.org/profile/12583520), Huang X. Empirical Comparison of the Breslow Estimator and the Kalbfleisch Prentice Estimator for Survival Functions. J Biom Biostat. 2018; 9(2). PMID: [30370174](//www.ncbi.nlm.nih.gov/pubmed/30370174); PMCID: [PMC6201745](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6201745).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30370174/citedby/)
+
+  25. [Meng L](https://profiles.viictr.org/profile/3010157), [Pammi M](https://profiles.viictr.org/profile/270201), Saronwala A, [Magoulas P](https://profiles.viictr.org/profile/265657), Ghazi AR, Vetrini F, Zhang J, He W, Dharmadhikari AV, Qu C, Ward P, Braxton A, Narayanan S, Ge X, Tokita MJ, Santiago-Sim T, [Dai H](https://profiles.viictr.org/profile/17593590), Chiang T, Smith H, Azamian MS, [Robak L](https://profiles.viictr.org/profile/14348300), Bostwick BL, Schaaf CP, [Potocki L](https://profiles.viictr.org/profile/268316), [Scaglia F](https://profiles.viictr.org/profile/268358), [Bacino CA](https://profiles.viictr.org/profile/266588), [Hanchard NA](https://profiles.viictr.org/profile/268451), [Wangler MF](https://profiles.viictr.org/profile/268429), [Scott D](https://profiles.viictr.org/profile/269153), Brown C, Hu J, [Belmont JW](https://profiles.viictr.org/profile/267229), [Burrage LC](https://profiles.viictr.org/profile/3010239), Graham BH, [Sutton VR](https://profiles.viictr.org/profile/269795), [Craigen WJ](https://profiles.viictr.org/profile/267972), [Plon SE](https://profiles.viictr.org/profile/269771), [Lupski JR](https://profiles.viictr.org/profile/268099), Beaudet AL, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Muzny DM](https://profiles.viictr.org/profile/268028), Miller MJ, Wang X, Leduc MS, Xiao R, [Liu P](https://profiles.viictr.org/profile/3010309), [Shaw C](https://profiles.viictr.org/profile/269433), Walkiewicz M, [Bi W](https://profiles.viictr.org/profile/266446), **Xia F** , Lee B, [Eng CM](https://profiles.viictr.org/profile/267270), Yang Y, [Lalani SR](https://profiles.viictr.org/profile/269910). Use of Exome Sequencing for Infants in Intensive Care Units: Ascertainment of Severe Single-Gene Disorders and Effect on Medical Management. JAMA Pediatr. 2017 12 04; 171(12):e173438. PMID: [28973083](//www.ncbi.nlm.nih.gov/pubmed/28973083); PMCID: [PMC6359927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6359927).
+
+Citations:
+[130](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28973083/citedby/)
+Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  26. Bostwick BL, [McLean S](https://profiles.viictr.org/profile/3622374), [Posey JE](https://profiles.viictr.org/profile/6714377), [Streff HE](https://profiles.viictr.org/profile/28999049), Gripp KW, Blesson A, Powell-Hamilton N, Tusi J, Stevenson DA, Farrelly E, Hudgins L, Yang Y, **Xia F** , Wang X, [Liu P](https://profiles.viictr.org/profile/3010309), Walkiewicz M, McGuire M, Grange DK, Andrews MV, Hummel M, Madan-Khetarpal S, Infante E, Coban-Akdemir Z, Miszalski-Jamka K, Jefferies JL, Members of the Undiagnosed Diseases Network, Rosenfeld JA, [Emrick L](https://profiles.viictr.org/profile/3010431), Nugent KM, [Lupski JR](https://profiles.viictr.org/profile/268099), [Belmont JW](https://profiles.viictr.org/profile/267229), Lee B, [Lalani SR](https://profiles.viictr.org/profile/269910). Phenotypic and molecular characterisation of CDK13-related congenital heart defects, dysmorphic facial features and intellectual developmental disorders. Genome Med. 2017 08 14; 9(1):73. PMID: [28807008](//www.ncbi.nlm.nih.gov/pubmed/28807008); PMCID: [PMC5557075](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5557075).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28807008/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  27. Zhang J, Gambin T, [Yuan B](https://profiles.viictr.org/profile/1826469), [Szafranski P](https://profiles.viictr.org/profile/270154), Rosenfeld JA, Balwi MA, Alswaid A, Al-Gazali L, Shamsi AMA, Komara M, Ali BR, [Roeder E](https://profiles.viictr.org/profile/2560358), McAuley L, Roy DS, Manchester DK, [Magoulas P](https://profiles.viictr.org/profile/265657), King LE, Hannig V, Bonneau D, Charif M, Andrieux J, Zhu W, He W, Vetrini F, Ward PA, [Cheung SW](https://profiles.viictr.org/profile/268913), [Bi W](https://profiles.viictr.org/profile/266446), [Eng CM](https://profiles.viictr.org/profile/267270), [Lupski JR](https://profiles.viictr.org/profile/268099), Yang Y, Patel A, [Lalani SR](https://profiles.viictr.org/profile/269910), **Xia F** , [Stankiewicz P](https://profiles.viictr.org/profile/269299), Denomm?-Pichon AS, Besnard T, B?zieau S, Cogn? B. Erratum to: Haploinsufficiency of the E3 ubiquitin-protein ligase gene TRIP12 causes intellectual disability with or without autism spectrum disorders, speech delay, and dysmorphic features. Hum Genet. 2017 08; 136(8):1009-1011. PMID: [28660352](//www.ncbi.nlm.nih.gov/pubmed/28660352).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28660352/citedby/) Fields:
+
+Gen Genetics
+
+  28. Luo X, Rosenfeld JA, [Yamamoto S](https://profiles.viictr.org/profile/3009536), Harel T, Zuo Z, Hall M, Wierenga KJ, Pastore MT, Bartholomew D, Delgado MR, Rotenberg J, Lewis RA, [Emrick L](https://profiles.viictr.org/profile/3010431), [Bacino CA](https://profiles.viictr.org/profile/266588), Eldomery MK, Coban Akdemir Z, **Xia F** , Yang Y, [Lalani SR](https://profiles.viictr.org/profile/269910), [Lotze T](https://profiles.viictr.org/profile/267050), [Lupski JR](https://profiles.viictr.org/profile/268099), Lee B, [Bellen HJ](https://profiles.viictr.org/profile/268278), [Wangler MF](https://profiles.viictr.org/profile/268429), Members of the UDN. Clinically severe CACNA1A alleles affect synaptic function and neurodegeneration differentially. PLoS Genet. 2017 Jul; 13(7):e1006905. PMID: [28742085](//www.ncbi.nlm.nih.gov/pubmed/28742085); PMCID: [PMC5557584](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5557584).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28742085/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimals
+
+  29. Jiang X, Chen J, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang C, Song X, Carroll SL, [Cai ZL](https://profiles.viictr.org/profile/8684236), Tang M, [Xue M](https://profiles.viictr.org/profile/7520380), [Cheng N](https://profiles.viictr.org/profile/266565), Schaaf CP, [Li F](https://profiles.viictr.org/profile/4897356), [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Ferreon ACM](https://profiles.viictr.org/profile/8065525), **Xia F** , Wang MC, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), [Wang J](https://profiles.viictr.org/profile/266173). Quantitative real-time imaging of glutathione. Nat Commun. 2017 07 13; 8:16087. PMID: [28703127](//www.ncbi.nlm.nih.gov/pubmed/28703127); PMCID: [PMC5511354](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5511354).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28703127/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  30. Grau C, Starkovich M, Azamian MS, **Xia F** , [Cheung SW](https://profiles.viictr.org/profile/268913), Evans P, Henderson A, [Lalani SR](https://profiles.viictr.org/profile/269910), [Scott DA](https://profiles.viictr.org/profile/269153). Xp11.22 deletions encompassing CENPVL1, CENPVL2, MAGED1 and GSPT2 as a cause of syndromic X-linked intellectual disability. PLoS One. 2017; 12(4):e0175962. PMID: [28414775](//www.ncbi.nlm.nih.gov/pubmed/28414775); PMCID: [PMC5393878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5393878).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28414775/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  31. Eldomery MK, Coban-Akdemir Z, Harel T, Rosenfeld JA, Gambin T, Lessel D, Denecke J, Wiszniewski W, Penney S, [Liu P](https://profiles.viictr.org/profile/3010309), [Bi W](https://profiles.viictr.org/profile/266446), [Lalani SR](https://profiles.viictr.org/profile/269910), Schaaf CP, [Wangler MF](https://profiles.viictr.org/profile/268429), [Bacino CA](https://profiles.viictr.org/profile/266588), Lewis RA, [Potocki L](https://profiles.viictr.org/profile/268316), Graham BH, [Belmont JW](https://profiles.viictr.org/profile/267229), [Scaglia F](https://profiles.viictr.org/profile/268358), Orange JS, Jhangiani SN, Chiang T, Doddapaneni H, Hu J, [Muzny DM](https://profiles.viictr.org/profile/268028), **Xia F** , Beaudet AL, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Eng CM](https://profiles.viictr.org/profile/267270), [Plon SE](https://profiles.viictr.org/profile/269771), [Sutton VR](https://profiles.viictr.org/profile/269795), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Posey JE](https://profiles.viictr.org/profile/6714377), Yang Y, [Lupski JR](https://profiles.viictr.org/profile/268099), Stray-Pedersen A, K?ry S, Mercier S. Lessons learned from additional research analyses of unsolved clinical exome cases. Genome Med. 2017 03 21; 9(1):26. PMID: [28327206](//www.ncbi.nlm.nih.gov/pubmed/28327206); PMCID: [PMC5361813](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5361813).
+
+Citations:
+[90](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28327206/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  32. Wang X, Charng WL, Chen CA, Rosenfeld JA, Al Shamsi A, Al-Gazali L, McGuire M, Mew NA, Arnold GL, Qu C, [Ding Y](https://profiles.viictr.org/profile/38231751), [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Eng CM](https://profiles.viictr.org/profile/267270), Walkiewicz M, **Xia F** , [Plon SE](https://profiles.viictr.org/profile/269771), [Lupski JR](https://profiles.viictr.org/profile/268099), Schaaf CP, Yang Y. Germline mutations in ABL1 cause an autosomal dominant syndrome characterized by congenital heart defects and skeletal malformations. Nat Genet. 2017 Apr; 49(4):613-617. PMID: [28288113](//www.ncbi.nlm.nih.gov/pubmed/28288113); PMCID: [PMC5373987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5373987).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28288113/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  33. Zhang J, Gambin T, [Yuan B](https://profiles.viictr.org/profile/1826469), [Szafranski P](https://profiles.viictr.org/profile/270154), Rosenfeld JA, Balwi MA, Alswaid A, Al-Gazali L, Shamsi AMA, Komara M, Ali BR, [Roeder E](https://profiles.viictr.org/profile/2560358), McAuley L, Roy DS, Manchester DK, [Magoulas P](https://profiles.viictr.org/profile/265657), King LE, Hannig V, Bonneau D, Charif M, Andrieux J, Zhu W, He W, Vetrini F, Ward PA, [Cheung SW](https://profiles.viictr.org/profile/268913), [Bi W](https://profiles.viictr.org/profile/266446), [Eng CM](https://profiles.viictr.org/profile/267270), [Lupski JR](https://profiles.viictr.org/profile/268099), Yang Y, Patel A, [Lalani SR](https://profiles.viictr.org/profile/269910), **Xia F** , [Stankiewicz P](https://profiles.viictr.org/profile/269299), Denomm?-Pichon AS, Besnard T, B?zieau S, Cogn? B. Haploinsufficiency of the E3 ubiquitin-protein ligase gene TRIP12 causes intellectual disability with or without autism spectrum disorders, speech delay, and dysmorphic features. Hum Genet. 2017 04; 136(4):377-386. PMID: [28251352](//www.ncbi.nlm.nih.gov/pubmed/28251352); PMCID: [PMC5543723](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5543723).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28251352/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  34. Feng Y, Ge X, [Meng L](https://profiles.viictr.org/profile/3010157), [Scull J](https://profiles.viictr.org/profile/268541), Li J, Tian X, Zhang T, Jin W, Cheng H, Wang X, Tokita M, [Liu P](https://profiles.viictr.org/profile/3010309), Mei H, Wang Y, Li F, Schmitt ES, Zhang WV, [Muzny D](https://profiles.viictr.org/profile/268028), Wen S, Chen Z, Yang Y, Beaudet AL, Liu X, [Eng CM](https://profiles.viictr.org/profile/267270), **Xia F** , Wong LJ, Zhang J. The next generation of population-based spinal muscular atrophy carrier screening: comprehensive pan-ethnic SMN1 copy-number and sequence variant analysis by massively parallel sequencing. Genet Med. 2017 08; 19(8):936-944. PMID: [28125085](//www.ncbi.nlm.nih.gov/pubmed/28125085).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28125085/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  35. [Chao HT](https://profiles.viictr.org/profile/23478929), Davids M, Burke E, Pappas JG, Rosenfeld JA, McCarty AJ, Davis T, Wolfe L, Toro C, Tifft C, **Xia F** , Stong N, Johnson TK, Warr CG, Undiagnosed Diseases Network, [Yamamoto S](https://profiles.viictr.org/profile/3009536), Adams DR, Markello TC, Gahl WA, [Bellen HJ](https://profiles.viictr.org/profile/268278), [Wangler MF](https://profiles.viictr.org/profile/268429), Malicdan MCV. A Syndromic Neurodevelopmental Disorder Caused by De Novo Variants in EBF3. Am J Hum Genet. 2017 Jan 05; 100(1):128-137. PMID: [28017372](//www.ncbi.nlm.nih.gov/pubmed/28017372); PMCID: [PMC5223093](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5223093).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28017372/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  36. [Posey JE](https://profiles.viictr.org/profile/6714377), Harel T, [Liu P](https://profiles.viictr.org/profile/3010309), Rosenfeld JA, James RA, Coban Akdemir ZH, Walkiewicz M, [Bi W](https://profiles.viictr.org/profile/266446), Xiao R, [Ding Y](https://profiles.viictr.org/profile/38231751), **Xia F** , Beaudet AL, [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Eng CM](https://profiles.viictr.org/profile/267270), [Sutton VR](https://profiles.viictr.org/profile/269795), [Shaw CA](https://profiles.viictr.org/profile/269433), [Plon SE](https://profiles.viictr.org/profile/269771), Yang Y, [Lupski JR](https://profiles.viictr.org/profile/268099). Resolution of Disease Phenotypes Resulting from Multilocus Genomic Variation. N Engl J Med. 2017 01 05; 376(1):21-31. PMID: [27959697](//www.ncbi.nlm.nih.gov/pubmed/27959697); PMCID: [PMC5335876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5335876).
+
+Citations:
+[254](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27959697/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  37. [Meng L](https://profiles.viictr.org/profile/3010157), Donti T, **Xia F** , Niu Z, Al Shamsi A, Hertecant J, Al-Jasmi F, Gibson JB, Nagakura H, Zhang J, He W, [Eng C](https://profiles.viictr.org/profile/267270), Yang Y, [Elsea SH](https://profiles.viictr.org/profile/270128). Homozygous variants in pyrroline-5-carboxylate reductase 2 (PYCR2) in patients with progressive microcephaly and hypomyelinating leukodystrophy. Am J Med Genet A. 2017 Feb; 173(2):460-470. PMID: [27860360](//www.ncbi.nlm.nih.gov/pubmed/27860360).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27860360/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  38. Eldomery MK, Akdemir ZC, Charng WL, Mulica P, Rosenfeld JA, Gambin T, Gu S, [Burrage LC](https://profiles.viictr.org/profile/3010239), Al Shamsi A, Penney S, Jhangiani SN, Zimmerman HH, [Muzny DM](https://profiles.viictr.org/profile/268028), Wang X, Tang J, Medikonda R, Ramachandran PV, Wong LJ, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Eng CM](https://profiles.viictr.org/profile/267270), [Lalani SR](https://profiles.viictr.org/profile/269910), Hertecant J, Rodenburg RJ, Abdul-Rahman OA, Yang Y, **Xia F** , Wang MC, [Lupski JR](https://profiles.viictr.org/profile/268099), Meisinger C, [Sutton VR](https://profiles.viictr.org/profile/269795), V?gtle FN. MIPEP recessive variants cause a syndrome of left ventricular non-compaction, hypotonia, and infantile death. Genome Med. 2016 11 01; 8(1):106. PMID: [27799064](//www.ncbi.nlm.nih.gov/pubmed/27799064); PMCID: [PMC5088683](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5088683).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27799064/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  39. For DDD Study group*, Al-Mehmadi S, Splitt M, Ramesh V, DeBrosse S, Dessoffy K, **Xia F** , Yang Y, Rosenfeld JA, Cossette P, Michaud JL, Hamdan FF, Campeau PM, Minassian BA, For CENet Study group?. FHF1 (FGF12) epileptic encephalopathy. Neurol Genet. 2016 Dec; 2(6):e115. PMID: [27830185](//www.ncbi.nlm.nih.gov/pubmed/27830185); PMCID: [PMC5087254](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5087254).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27830185/citedby/)
+
+  40. Harel T, Yoon WH, Garone C, Gu S, Coban-Akdemir Z, Eldomery MK, [Posey JE](https://profiles.viictr.org/profile/6714377), Jhangiani SN, Rosenfeld JA, Cho MT, Fox S, Withers M, Brooks SM, Chiang T, Duraine L, Erdin S, [Yuan B](https://profiles.viictr.org/profile/1826469), Shao Y, Moussallem E, Lamperti C, Donati MA, Smith JD, McLaughlin HM, [Eng CM](https://profiles.viictr.org/profile/267270), Walkiewicz M, **Xia F** , Pippucci T, Magini P, Seri M, Zeviani M, Hirano M, Hunter JV, Srour M, Zanigni S, Lewis RA, [Muzny DM](https://profiles.viictr.org/profile/268028), [Lotze TE](https://profiles.viictr.org/profile/267050), [Boerwinkle E](https://profiles.viictr.org/profile/267689), Baylor-Hopkins Center for Mendelian Genomics, University of Washington Center for Mendelian Genomics, [Gibbs RA](https://profiles.viictr.org/profile/269695), Hickey SE, Graham BH, Yang Y, Buhas D, Martin DM, [Potocki L](https://profiles.viictr.org/profile/268316), Graziano C, [Bellen HJ](https://profiles.viictr.org/profile/268278), [Lupski JR](https://profiles.viictr.org/profile/268099). Recurrent De Novo and Biallelic Variation of ATAD3A, Encoding a Mitochondrial Membrane Protein, Results in Distinct Neurological Syndromes. Am J Hum Genet. 2016 Oct 06; 99(4):831-845. PMID: [27640307](//www.ncbi.nlm.nih.gov/pubmed/27640307); PMCID: [PMC5065660](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5065660).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27640307/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  41. [Scott DA](https://profiles.viictr.org/profile/269153), Hernandez-Garcia A, Azamian MS, Jordan VK, Kim BJ, Starkovich M, Zhang J, Wong LJ, [Darilek SA](https://profiles.viictr.org/profile/268941), Breman AM, Yang Y, [Lupski JR](https://profiles.viictr.org/profile/268099), Jiwani AK, Das B, [Lalani SR](https://profiles.viictr.org/profile/269910), Iglesias AD, Rosenfeld JA, **Xia F**. Congenital heart defects and left ventricular non-compaction in males with loss-of-function variants in NONO. J Med Genet. 2017 01; 54(1):47-53. PMID: [27550220](//www.ncbi.nlm.nih.gov/pubmed/27550220).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27550220/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  42. Charng WL, Karaca E, Coban Akdemir Z, Gambin T, Atik MM, Gu S, [Posey JE](https://profiles.viictr.org/profile/6714377), Jhangiani SN, [Muzny DM](https://profiles.viictr.org/profile/268028), Doddapaneni H, Hu J, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Gibbs RA](https://profiles.viictr.org/profile/269695), Rosenfeld JA, Cui H, **Xia F** , Manickam K, Yang Y, Faqeih EA, Al Asmari A, Saleh MA, El-Hattab AW, [Lupski JR](https://profiles.viictr.org/profile/268099). Exome sequencing in mostly consanguineous Arab families with neurologic disease provides a high potential molecular diagnosis rate. BMC Med Genomics. 2016 07 19; 9(1):42. PMID: [27435318](//www.ncbi.nlm.nih.gov/pubmed/27435318); PMCID: [PMC4950750](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4950750).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27435318/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  43. Fountain MD, Aten E, Cho MT, Juusola J, Walkiewicz MA, Ray JW, **Xia F** , Yang Y, Graham BH, [Bacino CA](https://profiles.viictr.org/profile/266588), [Potocki L](https://profiles.viictr.org/profile/268316), van Haeringen A, Ruivenkamp CA, Mancias P, Northrup H, Kukolich MK, Weiss MM, van Ravenswaaij-Arts CM, Mathijssen IB, Meeks N, Rosenfeld JA, Lemke D, Hamosh A, Lewis SK, Race S, Stewart LL, Hay B, Lewis AM, Guerreiro RL, Bras JT, Derksen-Lubsen G, Peeters E, Stumpel C, Stegmann S, Santen GW, Schaaf CP, Levesque S, Martins MP, Bok LA. The phenotypic spectrum of Schaaf-Yang syndrome: 18 new affected individuals from 14 families. Genet Med. 2017 01; 19(1):45-52. PMID: [27195816](//www.ncbi.nlm.nih.gov/pubmed/27195816); PMCID: [PMC5116288](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5116288).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27195816/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  44. Romere C, Duerrschmid C, Bournat J, Constable P, Jain M, **Xia F** , [Saha PK](https://profiles.viictr.org/profile/265977), Del Solar M, Zhu B, York B, [Sarkar P](https://profiles.viictr.org/profile/37989525), Rendon DA, [Gaber MW](https://profiles.viictr.org/profile/269276), [LeMaire SA](https://profiles.viictr.org/profile/269388), [Coselli JS](https://profiles.viictr.org/profile/267370), Milewicz DM, [Sutton VR](https://profiles.viictr.org/profile/269795), [Butte NF](https://profiles.viictr.org/profile/267819), Moore DD, [Chopra AR](https://profiles.viictr.org/profile/7612580). Asprosin, a Fasting-Induced Glucogenic Protein Hormone. Cell. 2016 Apr 21; 165(3):566-79. PMID: [27087445](//www.ncbi.nlm.nih.gov/pubmed/27087445); PMCID: [PMC4852710](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4852710).
+
+Citations:
+[102](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27087445/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  45. [Lalani SR](https://profiles.viictr.org/profile/269910), [Liu P](https://profiles.viictr.org/profile/3010309), Rosenfeld JA, Watkin LB, Chiang T, Leduc MS, Zhu W, [Ding Y](https://profiles.viictr.org/profile/38231751), Pan S, Vetrini F, [Miyake CY](https://profiles.viictr.org/profile/2560323), Shinawi M, Gambin T, Eldomery MK, Akdemir ZH, [Emrick L](https://profiles.viictr.org/profile/3010431), Wilnai Y, Schelley S, Koenig MK, Memon N, Farach LS, Coe BP, Azamian M, Hernandez P, Zapata G, Jhangiani SN, [Muzny DM](https://profiles.viictr.org/profile/268028), [Lotze T](https://profiles.viictr.org/profile/267050), [Clark G](https://profiles.viictr.org/profile/268169), Wilfong A, Northrup H, [Adesina A](https://profiles.viictr.org/profile/268657), [Bacino CA](https://profiles.viictr.org/profile/266588), [Scaglia F](https://profiles.viictr.org/profile/268358), [Bonnen PE](https://profiles.viictr.org/profile/268755), Crosson J, Duis J, Maegawa GH, Coman D, Inwood A, McGill J, [Boerwinkle E](https://profiles.viictr.org/profile/267689), Graham B, Beaudet A, [Eng CM](https://profiles.viictr.org/profile/267270), [Hanchard NA](https://profiles.viictr.org/profile/268451), **Xia F** , Orange JS, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Lupski JR](https://profiles.viictr.org/profile/268099), Yang Y. Recurrent Muscle Weakness with Rhabdomyolysis, Metabolic Crises, and Cardiac Arrhythmia Due to Bi-allelic TANGO2 Mutations. Am J Hum Genet. 2016 Feb 04; 98(2):347-57. PMID: [26805781](//www.ncbi.nlm.nih.gov/pubmed/26805781); PMCID: [PMC4746334](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4746334).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26805781/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  46. White J, Beck CR, Harel T, [Posey JE](https://profiles.viictr.org/profile/6714377), Jhangiani SN, Tang S, Farwell KD, Mendelsohn NJ, Baker JA, Pollack L, Mason KJ, Wierenga KJ, Arrington DK, Hall M, Psychogios A, Fairbrother L, Walkiewicz M, Person RE, Niu Z, Zhang J, Rosenfeld JA, [Muzny DM](https://profiles.viictr.org/profile/268028), [Eng C](https://profiles.viictr.org/profile/267270), Beaudet AL, [Lupski JR](https://profiles.viictr.org/profile/268099), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Gibbs RA](https://profiles.viictr.org/profile/269695), Yang Y, **Xia F** , [Sutton VR](https://profiles.viictr.org/profile/269795), Powis Z. POGZ truncating alleles cause syndromic intellectual disability. Genome Med. 2016 Jan 06; 8(1):3. PMID: [26739615](//www.ncbi.nlm.nih.gov/pubmed/26739615); PMCID: [PMC4702300](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4702300).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26739615/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  47. [Bacino C](https://profiles.viictr.org/profile/266588), Chao YH, [Seto E](https://profiles.viictr.org/profile/3009512), [Lotze T](https://profiles.viictr.org/profile/267050), **Xia F** , Jones RO, Moser A, [Wangler MF](https://profiles.viictr.org/profile/268429). Dataset for a case report of a homozygous PEX16 F332del mutation. Data Brief. 2016 Mar; 6:722-7. PMID: [26870756](//www.ncbi.nlm.nih.gov/pubmed/26870756); PMCID: [PMC4737951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4737951).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26870756/citedby/)
+
+  48. [Posey JE](https://profiles.viictr.org/profile/6714377), Rosenfeld JA, James RA, Bainbridge M, Niu Z, Wang X, [Dhar S](https://profiles.viictr.org/profile/265652), Wiszniewski W, Akdemir ZH, Gambin T, **Xia F** , Person RE, Walkiewicz M, [Shaw CA](https://profiles.viictr.org/profile/269433), [Sutton VR](https://profiles.viictr.org/profile/269795), Beaudet AL, [Muzny D](https://profiles.viictr.org/profile/268028), [Eng CM](https://profiles.viictr.org/profile/267270), Yang Y, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Lupski JR](https://profiles.viictr.org/profile/268099), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Plon SE](https://profiles.viictr.org/profile/269771). Molecular diagnostic experience of whole-exome sequencing in adult patients. Genet Med. 2016 07; 18(7):678-85. PMID: [26633545](//www.ncbi.nlm.nih.gov/pubmed/26633545); PMCID: [PMC4892996](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4892996).
+
+Citations:
+[94](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26633545/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  49. [Burrage LC](https://profiles.viictr.org/profile/3010239), Charng WL, Eldomery MK, Willer JR, Davis EE, Lugtenberg D, Zhu W, Leduc MS, Akdemir ZC, Azamian M, Zapata G, Hernandez PP, Schoots J, de Munnik SA, Roepman R, Pearring JN, Jhangiani S, Katsanis N, Vissers LE, Brunner HG, Beaudet AL, Rosenfeld JA, [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Eng CM](https://profiles.viictr.org/profile/267270), **Xia F** , [Lalani SR](https://profiles.viictr.org/profile/269910), [Lupski JR](https://profiles.viictr.org/profile/268099), Bongers EM, Yang Y. De Novo GMNN Mutations Cause Autosomal-Dominant Primordial Dwarfism Associated with Meier-Gorlin Syndrome. Am J Hum Genet. 2015 Dec 03; 97(6):904-13. PMID: [26637980](//www.ncbi.nlm.nih.gov/pubmed/26637980); PMCID: [PMC4678788](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4678788).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26637980/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  50. [Bacino C](https://profiles.viictr.org/profile/266588), Chao YH, [Seto E](https://profiles.viictr.org/profile/3009512), [Lotze T](https://profiles.viictr.org/profile/267050), **Xia F** , Jones RO, Moser A, [Wangler MF](https://profiles.viictr.org/profile/268429). A homozygous mutation in PEX16 identified by whole-exome sequencing ending a diagnostic odyssey. Mol Genet Metab Rep. 2015 Dec 01; 5:15-18. PMID: [26644994](//www.ncbi.nlm.nih.gov/pubmed/26644994); PMCID: [PMC4669579](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4669579).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26644994/citedby/)
+
+  51. Sowa JN, [Mutlu AS](https://profiles.viictr.org/profile/1826735), **Xia F** , Wang MC. Olfaction Modulates Reproductive Plasticity through Neuroendocrine Signaling in Caenorhabditis elegans. Curr Biol. 2015 Aug 31; 25(17):2284-9. PMID: [26279229](//www.ncbi.nlm.nih.gov/pubmed/26279229); PMCID: [PMC4825799](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4825799).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26279229/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  52. Yang Y, [Muzny DM](https://profiles.viictr.org/profile/268028), **Xia F** , Niu Z, Person R, [Ding Y](https://profiles.viictr.org/profile/38231751), Ward P, Braxton A, Wang M, Buhay C, Veeraraghavan N, Hawes A, Chiang T, Leduc M, Beuten J, Zhang J, He W, [Scull J](https://profiles.viictr.org/profile/268541), Willis A, Landsverk M, [Craigen WJ](https://profiles.viictr.org/profile/267972), [Bekheirnia MR](https://profiles.viictr.org/profile/267181), Stray-Pedersen A, [Liu P](https://profiles.viictr.org/profile/3010309), Wen S, Alcaraz W, Cui H, Walkiewicz M, Reid J, Bainbridge M, Patel A, [Boerwinkle E](https://profiles.viictr.org/profile/267689), Beaudet AL, [Lupski JR](https://profiles.viictr.org/profile/268099), [Plon SE](https://profiles.viictr.org/profile/269771), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Eng CM](https://profiles.viictr.org/profile/267270). Molecular findings among patients referred for clinical whole-exome sequencing. JAMA. 2014 Nov 12; 312(18):1870-9. PMID: [25326635](//www.ncbi.nlm.nih.gov/pubmed/25326635); PMCID: [PMC4326249](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4326249).
+
+Citations:
+[588](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25326635/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  53. [Lalani SR](https://profiles.viictr.org/profile/269910), Zhang J, Schaaf CP, Brown CW, [Magoulas P](https://profiles.viictr.org/profile/265657), Tsai AC, El-Gharbawy A, Wierenga KJ, Bartholomew D, Fong CT, Barbaro-Dieber T, Kukolich MK, [Burrage LC](https://profiles.viictr.org/profile/3010239), Austin E, Keller K, Pastore M, Fernandez F, [Lotze T](https://profiles.viictr.org/profile/267050), Wilfong A, Purcarin G, Zhu W, [Craigen WJ](https://profiles.viictr.org/profile/267972), McGuire M, Jain M, Cooney E, Azamian M, Bainbridge MN, [Muzny DM](https://profiles.viictr.org/profile/268028), [Boerwinkle E](https://profiles.viictr.org/profile/267689), Person RE, Niu Z, [Eng CM](https://profiles.viictr.org/profile/267270), [Lupski JR](https://profiles.viictr.org/profile/268099), [Gibbs RA](https://profiles.viictr.org/profile/269695), Beaudet AL, Yang Y, [Wang MC](https://profiles.viictr.org/profile/266251), **Xia F**. Mutations in PURA cause profound neonatal hypotonia, seizures, and encephalopathy in 5q31.3 microdeletion syndrome. Am J Hum Genet. 2014 Nov 06; 95(5):579-83. PMID: [25439098](//www.ncbi.nlm.nih.gov/pubmed/25439098); PMCID: [PMC4225583](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4225583).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25439098/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  54. **Xia F** , Bainbridge MN, Tan TY, [Wangler MF](https://profiles.viictr.org/profile/268429), Scheuerle AE, Zackai EH, Harr MH, [Sutton VR](https://profiles.viictr.org/profile/269795), [Nalam RL](https://profiles.viictr.org/profile/15317721), Zhu W, Nash M, Ryan MM, Yaplito-Lee J, Hunter JV, Deardorff MA, Penney SJ, Beaudet AL, [Plon SE](https://profiles.viictr.org/profile/269771), [Boerwinkle EA](https://profiles.viictr.org/profile/267689), [Lupski JR](https://profiles.viictr.org/profile/268099), [Eng CM](https://profiles.viictr.org/profile/267270), [Muzny DM](https://profiles.viictr.org/profile/268028), Yang Y, [Gibbs RA](https://profiles.viictr.org/profile/269695). De novo truncating mutations in AHDC1 in individuals with syndromic expressive language delay, hypotonia, and sleep apnea. Am J Hum Genet. 2014 May 01; 94(5):784-9. PMID: [24791903](//www.ncbi.nlm.nih.gov/pubmed/24791903); PMCID: [PMC4067559](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4067559).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24791903/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  55. [Wangler MF](https://profiles.viictr.org/profile/268429), Gonzaga-Jauregui C, Gambin T, Penney S, Moss T, [Chopra A](https://profiles.viictr.org/profile/7612580), Probst FJ, **Xia F** , Yang Y, Werlin S, Eglite I, Kornejeva L, [Bacino CA](https://profiles.viictr.org/profile/266588), Baldridge D, Neul J, Lehman EL, Larson A, Beuten J, [Muzny DM](https://profiles.viictr.org/profile/268028), Jhangiani S, Baylor-Hopkins Center for Mendelian Genomics, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Lupski JR](https://profiles.viictr.org/profile/268099), Beaudet A. Heterozygous de novo and inherited mutations in the smooth muscle actin (ACTG2) gene underlie megacystis-microcolon-intestinal hypoperistalsis syndrome. PLoS Genet. 2014 Mar; 10(3):e1004258. PMID: [24676022](//www.ncbi.nlm.nih.gov/pubmed/24676022); PMCID: [PMC3967950](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3967950).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24676022/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  56. Yang Y, [Muzny DM](https://profiles.viictr.org/profile/268028), Reid JG, Bainbridge MN, Willis A, Ward PA, Braxton A, Beuten J, **Xia F** , Niu Z, Hardison M, Person R, [Bekheirnia MR](https://profiles.viictr.org/profile/267181), Leduc MS, Kirby A, Pham P, [Scull J](https://profiles.viictr.org/profile/268541), Wang M, [Ding Y](https://profiles.viictr.org/profile/38231751), [Plon SE](https://profiles.viictr.org/profile/269771), [Lupski JR](https://profiles.viictr.org/profile/268099), Beaudet AL, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Eng CM](https://profiles.viictr.org/profile/267270). Clinical whole-exome sequencing for the diagnosis of mendelian disorders. N Engl J Med. 2013 Oct 17; 369(16):1502-11. PMID: [24088041](//www.ncbi.nlm.nih.gov/pubmed/24088041); PMCID: [PMC4211433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4211433).
+
+Citations:
+[821](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24088041/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  57. Schaaf CP, Gonzalez-Garay ML, **Xia F** , [Potocki L](https://profiles.viictr.org/profile/268316), Gripp KW, Zhang B, Peters BA, McElwain MA, Drmanac R, Beaudet AL, Caskey CT, Yang Y. Truncating mutations of MAGEL2 cause Prader-Willi phenotypes and autism. Nat Genet. 2013 Nov; 45(11):1405-8. PMID: [24076603](//www.ncbi.nlm.nih.gov/pubmed/24076603); PMCID: [PMC3819162](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3819162).
+
+Citations:
+[114](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24076603/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 57 publications over 12 distinct years, with a maximum of
+12 publications in
+2016](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|12&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,33,42,100,83,58,58,25,25,8,17,8&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2013| 2  
+2014| 4  
+2015| 5  
+2016| 12  
+2017| 10  
+2018| 7  
+2019| 7  
+2020| 3  
+2021| 3  
+2022| 1  
+2023| 2  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+XIA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (293)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Muscle Hypotonia](https://profiles.viictr.org/profile/240856)
+  * [Genetic Diseases, Inborn](https://profiles.viictr.org/profile/240767)
+  * [Intellectual Disability](https://profiles.viictr.org/profile/241263)
+  * [Language Development Disorders](https://profiles.viictr.org/profile/250630)
+  * [Exome](https://profiles.viictr.org/profile/27546374)
+
+[Explore](https://profiles.viictr.org/profile/3009907/198)
+
+_
+
+Co-Authors (98)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ENG, CHRISTINE](https://profiles.viictr.org/profile/267270)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [LALANI, SEEMA](https://profiles.viictr.org/profile/269910)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [BI, WEIMIN](https://profiles.viictr.org/profile/266446)
+
+[Explore](https://profiles.viictr.org/profile/3009907/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [STANKIEWICZ, PAWEL](https://profiles.viictr.org/profile/269299)
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [LALANI, SEEMA](https://profiles.viictr.org/profile/269910)
+
+[Explore](https://profiles.viictr.org/profile/3009907/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BEKHEIRNIA, MIR REZA](https://profiles.viictr.org/profile/267181)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [HANCHARD, NEIL](https://profiles.viictr.org/profile/268451)
+  * [MURRAY, DEBRA](https://profiles.viictr.org/profile/267009)
+  * [SCOTT, DARYL](https://profiles.viictr.org/profile/269153)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [KIM, JI-YOEN](https://profiles.viictr.org/profile/3009859)
+  * [LEWIS, RICHARD](https://profiles.viictr.org/profile/267930)
+  * [LI, YUMEI](https://profiles.viictr.org/profile/270053)
+  * [MATHUR, VEENA](https://profiles.viictr.org/profile/2619345)
+  * [WANG, YUE](https://profiles.viictr.org/profile/3494112)
+
+_
+

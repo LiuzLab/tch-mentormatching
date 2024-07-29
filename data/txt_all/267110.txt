@@ -1,0 +1,839 @@
+## FEDERICO MONZON
+
+| | Title| Clinical Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| Department of Pathology  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O6Q%2b%2b2rJQIn2S8Ho5G4%3d&rnd=ca437324-f887-4165-9130-b9d9aaffb46b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267110)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267110&cachekey=51fa7ee5-1ada-40bf-855a-ec1d1950d513)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Borman S, Wilkinson J, Meldi-Sholl L, Johnson C, Carter K, Covington KR, Fitzgerald AL, Kurley SJ, Farberg AS, Goldberg MS, **Monzon FA** , Oelschlager K, Cook RW. Analytical validity of DecisionDx-SCC, a gene expression profile test to identify risk of metastasis in cutaneous squamous cell carcinoma (SCC) patients. Diagn Pathol. 2022 Feb 25; 17(1):32. PMID: [35216597](//www.ncbi.nlm.nih.gov/pubmed/35216597); PMCID: [PMC8876832](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8876832).
+
+Citations:  Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  2. Whitman ED, Koshenkov VP, Gastman BR, Lewis D, Hsueh EC, Pak H, Trezona TP, Davidson RS, McPhee M, Guenther JM, Toomey P, Smith FO, Beitsch PD, Lewis JM, Ward A, Young SE, Shah PK, Quick AP, Martin BJ, Zolochevska O, Covington KR, **Monzon FA** , Goldberg MS, Cook RW, Fleming MD, Hyams DM, Vetto JT. Integrating 31-Gene Expression Profiling With Clinicopathologic Features to Optimize Cutaneous Melanoma Sentinel Lymph Node Metastasis Prediction. JCO Precis Oncol. 2021; 5. PMID: [34568719](//www.ncbi.nlm.nih.gov/pubmed/34568719); PMCID: [PMC8457832](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8457832).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34568719/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  3. Alsina KM, Sholl LM, Covington KR, Arnal SM, Durante MA, Decatur CL, Stone JF, Oelschlager KM, Harbour JW, **Monzon FA** , Cook RW, Borman S. Analytical Validation and Performance of a 7-Gene Next-Generation Sequencing Panel in Uveal Melanoma. Ocul Oncol Pathol. 2021 Dec; 7(6):428-436. PMID: [35083209](//www.ncbi.nlm.nih.gov/pubmed/35083209); PMCID: [PMC8739387](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8739387).
+
+Citations:
+
+  4. Carr MJ, **Monzon FA** , Zager JS. Sentinel lymph node biopsy in melanoma: beyond histologic factors. Clin Exp Metastasis. 2022 02; 39(1):29-38. PMID: [34100196](//www.ncbi.nlm.nih.gov/pubmed/34100196).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34100196/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  5. Fujiyoshi K, Bruford EA, Mroz P, Sims CL, O'Leary TJ, Lo AWI, Chen N, Patel NR, Patel KP, Seliger B, Song M, **Monzon FA** , Carter AB, Gulley ML, Mockus SM, Phung TL, Feilotter H, Williams HE, Ogino S. Opinion: Standardizing gene product nomenclature-a call to action. Proc Natl Acad Sci U S A. 2021 01 19; 118(3). PMID: [33408252](//www.ncbi.nlm.nih.gov/pubmed/33408252); PMCID: [PMC7826363](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7826363).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33408252/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  6. Aaberg TM, Covington KR, Tsai T, Shildkrot Y, Plasseraud KM, Alsina KM, Oelschlager KM, **Monzon FA**. Gene Expression Profiling in Uveal Melanoma: Five-Year Prospective Outcomes and Meta-Analysis. Ocul Oncol Pathol. 2020 Oct; 6(5):360-367. PMID: [33123530](//www.ncbi.nlm.nih.gov/pubmed/33123530); PMCID: [PMC7574618](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7574618).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33123530/citedby/)
+
+  7. [Schefler AC](https://profiles.viictr.org/profile/6030334), Skalet A, Oliver SC, Mason J, Daniels AB, Alsina KM, Plasseraud KM, **Monzon FA** , Firestone B. Prospective evaluation of risk-appropriate management of uveal melanoma patients informed by gene expression profiling. Melanoma Manag. 2020 Mar 11; 7(1):MMT37. PMID: [32399175](//www.ncbi.nlm.nih.gov/pubmed/32399175); PMCID: [PMC7212504](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7212504).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32399175/citedby/)
+
+  8. Vetto JT, Hsueh EC, Gastman BR, Dillon LD, **Monzon FA** , Cook RW, Keller J, Huang X, Fleming A, Hewgley P, Gerami P, Leachman S, Wayne JD, Berger AC, Fleming MD. Guidance of sentinel lymph node biopsy decisions in patients with T1-T2 melanoma using gene expression profiling. Future Oncol. 2019 Apr; 15(11):1207-1217. PMID: [30691297](//www.ncbi.nlm.nih.gov/pubmed/30691297).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30691297/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  9. Cook RW, Middlebrook B, Wilkinson J, Covington KR, Oelschlager K, **Monzon FA** , Stone JF. Analytic validity of DecisionDx-Melanoma, a gene expression profile test for determining metastatic risk in melanoma patients. Diagn Pathol. 2018 Feb 13; 13(1):13. PMID: [29433548](//www.ncbi.nlm.nih.gov/pubmed/29433548); PMCID: [PMC5809902](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5809902).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29433548/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  10. Dudley B, Karloski E, **Monzon FA** , Singhi AD, Lincoln SE, Bahary N, Brand RE. Germline mutation prevalence in individuals with pancreatic cancer and a history of previous malignancy. Cancer. 2018 04 15; 124(8):1691-1700. PMID: [29360161](//www.ncbi.nlm.nih.gov/pubmed/29360161).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29360161/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  11. Plasseraud KM, **Monzon FA**. Response to "Comparison of Gene Expression Profiling and Chromosome 3 Analysis by Fluorescent in situ Hybridization and Multiplex Ligation Probe Amplification in Fine-Needle Aspiration Biopsy Specimens of Uveal Melanoma". Ocul Oncol Pathol. 2018 Sep; 4(2):129. PMID: [30320094](//www.ncbi.nlm.nih.gov/pubmed/30320094); PMCID: [PMC6167666](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6167666).
+
+Citations:
+
+  12. Plasseraud KM, Wilkinson JK, Oelschlager KM, Poteet TM, Cook RW, Stone JF, **Monzon FA**. Gene expression profiling in uveal melanoma: technical reliability and correlation of molecular class with pathologic characteristics. Diagn Pathol. 2017 Aug 04; 12(1):59. PMID: [28778171](//www.ncbi.nlm.nih.gov/pubmed/28778171); PMCID: [PMC5545042](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5545042).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28778171/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  13. Wang Z, Kim TB, [Peng B](https://profiles.viictr.org/profile/30797003), [Karam J](https://profiles.viictr.org/profile/12583922), [Creighton C](https://profiles.viictr.org/profile/265729), Joon A, Kawakami F, Trevisan P, [Jonasch E](https://profiles.viictr.org/profile/12582637), Chow CW, Canales JR, [Tamboli P](https://profiles.viictr.org/profile/12582962), [Tannir N](https://profiles.viictr.org/profile/12583355), Wood C, **Monzon F** , [Baggerly K](https://profiles.viictr.org/profile/12582600), Varella-Garcia M, [Czerniak B](https://profiles.viictr.org/profile/12582882), [Wistuba I](https://profiles.viictr.org/profile/12583798), [Mills G](https://profiles.viictr.org/profile/12582930), Shaw K, Chen K, [Sircar K](https://profiles.viictr.org/profile/12583127). Sarcomatoid Renal Cell Carcinoma Has a Distinct Molecular Pathogenesis, Driver Mutation Profile, and Transcriptional Landscape. Clin Cancer Res. 2017 Nov 01; 23(21):6686-6696. PMID: [28710314](//www.ncbi.nlm.nih.gov/pubmed/28710314); PMCID: [PMC5683086](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5683086).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28710314/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  14. Sepulveda AR, [Hamilton SR](https://profiles.viictr.org/profile/12583714), Allegra CJ, Grody W, Cushman-Vokoun AM, Funkhouser WK, Kopetz SE, Lieu C, Lindor NM, [Minsky BD](https://profiles.viictr.org/profile/12583973), **Monzon FA** , Sargent DJ, Singh VM, Willis J, Clark J, Colasacco C, Rumble RB, Temple-Smolkin R, Ventura CB, Nowak JA. Molecular Biomarkers for the Evaluation of Colorectal Cancer: Guideline Summary From the American Society for Clinical Pathology, College of American Pathologists, Association for Molecular Pathology, and American Society of Clinical Oncology. J Oncol Pract. 2017 05; 13(5):333-337. PMID: [28350513](//www.ncbi.nlm.nih.gov/pubmed/28350513).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28350513/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  15. Zehnbauer B, Temple-Smolkin R, **Monzon FA**. Guidelines for Colorectal Cancer Testing: Evidence-Based Practice Recommendations. J Mol Diagn. 2017 03; 19(2):183-186. PMID: [28190460](//www.ncbi.nlm.nih.gov/pubmed/28190460).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Humans
+
+  16. Sepulveda AR, [Hamilton SR](https://profiles.viictr.org/profile/12583714), Allegra CJ, Grody W, Cushman-Vokoun AM, Funkhouser WK, Kopetz SE, Lieu C, Lindor NM, [Minsky BD](https://profiles.viictr.org/profile/12583973), **Monzon FA** , Sargent DJ, Singh VM, Willis J, Clark J, Colasacco C, Rumble RB, Temple-Smolkin R, Ventura CB, Nowak JA. Molecular Biomarkers for the Evaluation of Colorectal Cancer: Guideline From the American Society for Clinical Pathology, College of American Pathologists, Association for Molecular Pathology, and American Society of Clinical Oncology. J Mol Diagn. 2017 03; 19(2):187-225. PMID: [28185757](//www.ncbi.nlm.nih.gov/pubmed/28185757); PMCID: [PMC5971222](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5971222).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28185757/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  17. Sepulveda AR, [Hamilton SR](https://profiles.viictr.org/profile/12583714), Allegra CJ, Grody W, Cushman-Vokoun AM, Funkhouser WK, Kopetz SE, Lieu C, Lindor NM, [Minsky BD](https://profiles.viictr.org/profile/12583973), **Monzon FA** , Sargent DJ, Singh VM, Willis J, Clark J, Colasacco C, Bryan Rumble R, Temple-Smolkin R, B Ventura C, Nowak JA. Molecular Biomarkers for the Evaluation of Colorectal Cancer: Guideline From the American Society for Clinical Pathology, College of American Pathologists, Association for Molecular Pathology, and American Society of Clinical Oncology. Arch Pathol Lab Med. 2017 May; 141(5):625-657. PMID: [28165284](//www.ncbi.nlm.nih.gov/pubmed/28165284).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28165284/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  18. Sepulveda AR, [Hamilton SR](https://profiles.viictr.org/profile/12583714), Allegra CJ, Grody W, Cushman-Vokoun AM, Funkhouser WK, Kopetz SE, Lieu C, Lindor NM, [Minsky BD](https://profiles.viictr.org/profile/12583973), **Monzon FA** , Sargent DJ, Singh VM, Willis J, Clark J, Colasacco C, Rumble RB, Temple-Smolkin R, Ventura CB, Nowak JA. Molecular Biomarkers for the Evaluation of Colorectal Cancer: Guideline From the American Society for Clinical Pathology, College of American Pathologists, Association for Molecular Pathology, and the American Society of Clinical Oncology. J Clin Oncol. 2017 May 01; 35(13):1453-1486. PMID: [28165299](//www.ncbi.nlm.nih.gov/pubmed/28165299).
+
+Citations:
+[99](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28165299/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  19. Sepulveda AR, [Hamilton SR](https://profiles.viictr.org/profile/12583714), Allegra CJ, Grody W, Cushman-Vokoun AM, Funkhouser WK, Kopetz SE, Lieu C, Lindor NM, [Minsky BD](https://profiles.viictr.org/profile/12583973), **Monzon FA** , Sargent DJ, Singh VM, Willis J, Clark J, Colasacco C, Rumble RB, Temple-Smolkin R, Ventura CB, Nowak JA. Molecular Biomarkers for the Evaluation of Colorectal Cancer. Am J Clin Pathol. 2017 03; 147(3):221-260. PMID: [28165529](//www.ncbi.nlm.nih.gov/pubmed/28165529); PMCID: [PMC7263311](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7263311).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28165529/citedby/) Fields:
+
+Pat Pathology
+
+  20. Berger AC, Davidson RS, Poitras JK, Chabra I, Hope R, Brackeen A, Johnson CE, Maetzold DJ, Middlebrook B, Oelschlager KM, Cook RW, **Monzon FA** , Miller AR. Clinical impact of a 31-gene expression profile test for cutaneous melanoma in 156 prospectively and consecutively tested patients. Curr Med Res Opin. 2016 09; 32(9):1599-604. PMID: [27210115](//www.ncbi.nlm.nih.gov/pubmed/27210115).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27210115/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  21. [Parsons DW](https://profiles.viictr.org/profile/265886), [Roy A](https://profiles.viictr.org/profile/268647), Yang Y, Wang T, [Scollon S](https://profiles.viictr.org/profile/10282038), Bergstrom K, Kerstein RA, Gutierrez S, Petersen AK, Bavle A, [Lin FY](https://profiles.viictr.org/profile/1826466), **Monzon FA** , Hicks MJ, Eldin KW, [Quintanilla NM](https://profiles.viictr.org/profile/269341), [Adesina AM](https://profiles.viictr.org/profile/268657), [Mohila CA](https://profiles.viictr.org/profile/269940), [Whitehead W](https://profiles.viictr.org/profile/265750), Jea A, [Vasudevan SA](https://profiles.viictr.org/profile/269879), [Nuchtern JG](https://profiles.viictr.org/profile/266271), [Ramamurthy U](https://profiles.viictr.org/profile/266650), [McGuire AL](https://profiles.viictr.org/profile/269988), [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Reid JG, [Muzny DM](https://profiles.viictr.org/profile/268028), [Wheeler DA](https://profiles.viictr.org/profile/266937), [Berg SL](https://profiles.viictr.org/profile/266981), [Chintagumpala MM](https://profiles.viictr.org/profile/268049), [Eng CM](https://profiles.viictr.org/profile/267270), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Plon SE](https://profiles.viictr.org/profile/269771), L?pez-Terrada DH. Diagnostic Yield of Clinical Tumor and Germline Whole-Exome Sequencing for Children With Solid Tumors. JAMA Oncol. 2016 May 01; 2(5):616-624. PMID: [26822237](//www.ncbi.nlm.nih.gov/pubmed/26822237); PMCID: [PMC5471125](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5471125).
+
+Citations:
+[169](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26822237/citedby/)
+Fields:
+
+Neo Neoplasms
+
+  22. Li MM, **Monzon FA** , Biegel JA, Jobanputra V, Laffin JJ, Levy B, Leon A, Miron P, Rossi MR, Toruner G, Alvarez K, Doho G, Dougherty MJ, Hu X, Kash S, Streck D, Znoyko I, Hagenkord JM, Wolff DJ. A multicenter, cross-platform clinical validation study of cancer cytogenomic arrays. Cancer Genet. 2015 Nov; 208(11):525-36. PMID: [26454669](//www.ncbi.nlm.nih.gov/pubmed/26454669).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26454669/citedby/) Fields:
+
+Gen GeneticsNeo Neoplasms
+
+Translation:Humans
+
+  23. Lincoln SE, Kobayashi Y, Anderson MJ, Yang S, Desmond AJ, Mills MA, Nilsen GB, Jacobs KB, **Monzon FA** , Kurian AW, Ford JM, Ellisen LW. A Systematic Comparison of Traditional and Multigene Panel Testing for Hereditary Breast and Ovarian Cancer Genes in More Than 1000 Patients. J Mol Diagn. 2015 Sep; 17(5):533-44. PMID: [26207792](//www.ncbi.nlm.nih.gov/pubmed/26207792).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26207792/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Humans
+
+  24. Chang E, Herrera L, Hes O, Hirsch MS, Comperat E, Camparo P, Rao P, Picken M, Michal M, Montironi R, [Tamboli P](https://profiles.viictr.org/profile/12582962), **Monzon F** , Amin MB, Aron M. Clear cell-papillary renal cell carcinoma of the kidney not associated with end-stage renal disease: clinicopathologic correlation with expanded immunophenotypic and molecular characterization of a large cohort with emphasis on relationship with renal angiomyoadenomatous tumor. Am J Surg Pathol. 2015 Jul; 39(7):873-88. PMID: [25970682](//www.ncbi.nlm.nih.gov/pubmed/25970682).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25970682/citedby/) Fields:
+
+Gen General SurgeryPat Pathology
+
+Translation:Humans
+
+  25. Ho TH, [Park IY](https://profiles.viictr.org/profile/18892306), Zhao H, Tong P, Champion MD, Yan H, **Monzon FA** , Hoang A, [Tamboli P](https://profiles.viictr.org/profile/12582962), Parker AS, Joseph RW, Qiao W, Dykema K, [Tannir NM](https://profiles.viictr.org/profile/12583355), Castle EP, Nunez-Nateras R, Teh BT, Wang J, Walker CL, Hung MC, [Jonasch E](https://profiles.viictr.org/profile/12582637). High-resolution profiling of histone h3 lysine 36 trimethylation in metastatic renal cell carcinoma. Oncogene. 2016 Mar 24; 35(12):1565-74. PMID: [26073078](//www.ncbi.nlm.nih.gov/pubmed/26073078); PMCID: [PMC4679725](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4679725).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26073078/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansCells
+
+  26. Koh MY, Nguyen V, Lemos R, Darnay BG, Kiriakova G, Abdelmelek M, Ho TH, [Karam J](https://profiles.viictr.org/profile/12583922), **Monzon FA** , [Jonasch E](https://profiles.viictr.org/profile/12582637), Powis G. Hypoxia-induced SUMOylation of E3 ligase HAF determines specific activation of HIF2 in clear-cell renal cell carcinoma. Cancer Res. 2015 Jan 15; 75(2):316-29. PMID: [25421578](//www.ncbi.nlm.nih.gov/pubmed/25421578); PMCID: [PMC4297521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4297521).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25421578/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  27. Sirintrapun SJ, Geisinger KR, Cimic A, Snow A, Hagenkord J, **Monzon F** , Legendre BL, Ghazalpour A, Bender RP, Gatalica Z. Oncocytoma-like renal tumor with transformation toward high-grade oncocytic carcinoma: a unique case with morphologic, immunohistochemical, and genomic characterization. Medicine (Baltimore). 2014 Oct; 93(15):e81. PMID: [25275525](//www.ncbi.nlm.nih.gov/pubmed/25275525); PMCID: [PMC4616290](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4616290).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25275525/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  28. [Rao P](https://profiles.viictr.org/profile/12583125), **Monzon F** , [Jonasch E](https://profiles.viictr.org/profile/12582637), [Matin SF](https://profiles.viictr.org/profile/12583401), [Tamboli P](https://profiles.viictr.org/profile/12582962). Clear cell papillary renal cell carcinoma in patients with von Hippel-Lindau syndrome--clinicopathological features and comparative genomic analysis of 3 cases. Hum Pathol. 2014 Sep; 45(9):1966-72. PMID: [25081542](//www.ncbi.nlm.nih.gov/pubmed/25081542).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25081542/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  29. Litvinov J, Lopez Y, Adhikari M, Kourentzi K, [Strych U](https://profiles.viictr.org/profile/8065526), **Monzon FA** , Foster W, Cagle PT, Willson RC, Hagstr?m AE. Ultrasensitive immuno-detection using viral nanoparticles with modular assembly using genetically-directed biotinylation. Biotechnol Lett. 2014 Sep; 36(9):1863-8. PMID: [24930095](//www.ncbi.nlm.nih.gov/pubmed/24930095); PMCID: [PMC4127420](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4127420).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24930095/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:HumansCells
+
+  30. Handorf CR, Kulkarni A, Grenert JP, Weiss LM, Rogers WM, Kim OS, **Monzon FA** , Halks-Miller M, Anderson GG, Walker MG, Pillai R, Henner WD. A multicenter study directly comparing the diagnostic accuracy of gene expression profiling and immunohistochemistry for primary site identification in metastatic tumors. Am J Surg Pathol. 2013 Jul; 37(7):1067-75. PMID: [23648464](//www.ncbi.nlm.nih.gov/pubmed/23648464); PMCID: [PMC5266589](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5266589).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23648464/citedby/) Fields:
+
+Gen General SurgeryPat Pathology
+
+Translation:HumansCTClinical Trials
+
+  31. Malouf GG, **Monzon FA** , Escudier B, [Su X](https://profiles.viictr.org/profile/12583585), Yao H, [Tamboli P](https://profiles.viictr.org/profile/12582962), [Lopez-Terrada D](https://profiles.viictr.org/profile/266283), Picken M, Garcia M, [Multani AS](https://profiles.viictr.org/profile/12582542), Pathak S, [Wood CG](https://profiles.viictr.org/profile/12582549), [Tannir NM](https://profiles.viictr.org/profile/12583355), Couturier J, Molini? V, Camparo P. Genomic heterogeneity of translocation renal cell carcinoma. Clin Cancer Res. 2013 Sep 01; 19(17):4673-84. PMID: [23817689](//www.ncbi.nlm.nih.gov/pubmed/23817689); PMCID: [PMC3882157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3882157).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23817689/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  32. Takei H, Barrios R, **Monzon FA**. Cytogenomics and gene expression in a case of metachronous bilateral renal cell carcinomas with drop metastasis: Resolving a diagnostic dilemma with molecular technologies. Pathol Int. 2013 Jun; 63(6):326-32. PMID: [23782335](//www.ncbi.nlm.nih.gov/pubmed/23782335).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23782335/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  33. Carter AB, Gullapalli RR, Hagenkord JM, Kang HP, **Monzon FA** , Williams TM. A tribute to Jeffrey A. Kant, MD, PhD. J Pathol Inform. 2012; 3:47. PMID: [23372988](//www.ncbi.nlm.nih.gov/pubmed/23372988); PMCID: [PMC3551516](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3551516).
+
+Citations:
+
+  34. [Sircar K](https://profiles.viictr.org/profile/12583127), [Rao P](https://profiles.viictr.org/profile/12583125), [Jonasch E](https://profiles.viictr.org/profile/12582637), **Monzon FA** , [Tamboli P](https://profiles.viictr.org/profile/12582962). Contemporary approach to diagnosis and classification of renal cell carcinoma with mixed histologic features. Chin J Cancer. 2013 Jun; 32(6):303-11. PMID: [23237216](//www.ncbi.nlm.nih.gov/pubmed/23237216); PMCID: [PMC3845621](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3845621).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23237216/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  35. Tsongalis GJ, [Calin G](https://profiles.viictr.org/profile/12583509), Cordelier P, Croce C, **Monzon F** , Szafranska-Schwarzbach AE. MicroRNA analysis: is it ready for prime time? Clin Chem. 2013 Feb; 59(2):343-7. PMID: [22935643](//www.ncbi.nlm.nih.gov/pubmed/22935643).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22935643/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansAnimals
+
+  36. Kuroda N, Maris S, **Monzon FA** , Tan PH, Thomas A, Petersson FB, Gatalica Z, Ghazalpour A, Bender RP, Grossmann P, Michal M, Svajdler M, Ovcak Z, Hora M, Hes O. Juxtaglomerular cell tumor: a morphological, immunohistochemical and genetic study of six cases. Hum Pathol. 2013 Jan; 44(1):47-54. PMID: [22939575](//www.ncbi.nlm.nih.gov/pubmed/22939575).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22939575/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  37. Quiroga-Garza G, Cuevas-Ocampo K, [Goldfarb R](https://profiles.viictr.org/profile/267391), [Schwartz MR](https://profiles.viictr.org/profile/267509), Ayala AG, **Monzon FA** , Pi?a-Oviedo S. Synchronous clear cell renal cell carcinoma and tubulocystic carcinoma: genetic evidence of independent ontogenesis and implications of chromosomal imbalances in tumor progression. Diagn Pathol. 2012 Feb 27; 7:21. PMID: [22369180](//www.ncbi.nlm.nih.gov/pubmed/22369180); PMCID: [PMC3313901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3313901).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22369180/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  38. Funkhouser WK, Lubin IM, **Monzon FA** , Zehnbauer BA, Evans JP, Ogino S, Nowak JA. Relevance, pathogenesis, and testing algorithm for mismatch repair-defective colorectal carcinomas: a report of the association for molecular pathology. J Mol Diagn. 2012 Mar-Apr; 14(2):91-103. PMID: [22260991](//www.ncbi.nlm.nih.gov/pubmed/22260991).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22260991/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  39. Kim HJ, Yoo YS, Park K, Kwon JE, Kim JY, **Monzon FA**. Genomic aberrations in salivary duct carcinoma arising in Warthin tumor of parotid gland: DNA microarray and HER2 fluorescence in situ hybridization. Arch Pathol Lab Med. 2011 Sep; 135(9):1088-91. PMID: [21877991](//www.ncbi.nlm.nih.gov/pubmed/21877991).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21877991/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  40. Gatalica Z, Lilleberg SL, **Monzon FA** , Koul MS, Bridge JA, Knezetic J, Legendre B, Sharma P, McCue PA. Renal medullary carcinomas: histopathologic phenotype associated with diverse genotypes. Hum Pathol. 2011 Dec; 42(12):1979-88. PMID: [21733559](//www.ncbi.nlm.nih.gov/pubmed/21733559).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21733559/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  41. Takei H, **Monzon FA**. Gene-expression assays and personalized cancer care: tissue-of-origin test for cancer of unknown primary origin. Per Med. 2011 Jul; 8(4):429-436. PMID: [29783334](//www.ncbi.nlm.nih.gov/pubmed/29783334).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29783334/citedby/) Fields:
+
+Gen GeneticsMed Medicine (General)
+
+  42. **Monzon FA** , Alvarez K, Peterson L, [Truong L](https://profiles.viictr.org/profile/267800), Amato RJ, Hernandez-McClain J, [Tannir N](https://profiles.viictr.org/profile/12583355), Parwani AV, [Jonasch E](https://profiles.viictr.org/profile/12582637). Chromosome 14q loss defines a molecular subtype of clear-cell renal cell carcinoma associated with poor prognosis. Mod Pathol. 2011 Nov; 24(11):1470-9. PMID: [21725288](//www.ncbi.nlm.nih.gov/pubmed/21725288); PMCID: [PMC4639322](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4639322).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21725288/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  43. Stancel GA, Coffey D, Alvarez K, Halks-Miller M, Lal A, Mody D, Koen T, Fairley T, **Monzon FA**. Identification of tissue of origin in body fluid specimens using a gene expression microarray assay. Cancer Cytopathol. 2012 Feb 25; 120(1):62-70. PMID: [21717591](//www.ncbi.nlm.nih.gov/pubmed/21717591).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21717591/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  44. Hagenkord JM, Gatalica Z, [Jonasch E](https://profiles.viictr.org/profile/12582637), **Monzon FA**. Clinical genomics of renal epithelial tumors. Cancer Genet. 2011 Jun; 204(6):285-97. PMID: [21763625](//www.ncbi.nlm.nih.gov/pubmed/21763625).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21763625/citedby/) Fields:
+
+Gen GeneticsNeo Neoplasms
+
+Translation:Humans
+
+  45. Powers MP, Alvarez K, Kim HJ, **Monzon FA**. Molecular classification of adult renal epithelial neoplasms using microRNA expression and virtual karyotyping. Diagn Mol Pathol. 2011 Jun; 20(2):63-70. PMID: [21532496](//www.ncbi.nlm.nih.gov/pubmed/21532496).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21532496/citedby/) Fields:
+
+Mol Molecular BiologyPat Pathology
+
+Translation:Humans
+
+  46. Alvarez K, Kash SF, Lyons-Weiler MA, Kim HJ, Peterson LE, Mathai B, Hagenkord JM, **Monzon FA**. Reproducibility and performance of virtual karyotyping with SNP microarrays for the detection of chromosomal imbalances in formalin-fixed paraffin-embedded tissues. Diagn Mol Pathol. 2010 Sep; 19(3):127-34. PMID: [20736741](//www.ncbi.nlm.nih.gov/pubmed/20736741).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20736741/citedby/) Fields:
+
+Mol Molecular BiologyPat Pathology
+
+Translation:Humans
+
+  47. **Monzon FA** , Koen TJ. Diagnosis of metastatic neoplasms: molecular approaches for identification of tissue of origin. Arch Pathol Lab Med. 2010 Feb; 134(2):216-24. PMID: [20121609](//www.ncbi.nlm.nih.gov/pubmed/20121609).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20121609/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  48. Hagenkord JM, **Monzon FA** , Kash SF, Lilleberg S, Xie Q, Kant JA. Array-based karyotyping for prognostic assessment in chronic lymphocytic leukemia: performance comparison of Affymetrix 10K2.0, 250K Nsp, and SNP6.0 arrays. J Mol Diagn. 2010 Mar; 12(2):184-96. PMID: [20075210](//www.ncbi.nlm.nih.gov/pubmed/20075210); PMCID: [PMC2871725](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2871725).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20075210/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  49. **Monzon FA** , Medeiros F, Lyons-Weiler M, Henner WD. Identification of tissue of origin in carcinoma of unknown primary with a microarray-based gene expression test. Diagn Pathol. 2010 Jan 13; 5:3. PMID: [20205775](//www.ncbi.nlm.nih.gov/pubmed/20205775); PMCID: [PMC2823680](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2823680).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20205775/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  50. **Monzon FA** , Dumur CI. Diagnosis of uncertain primary tumors with the Pathwork tissue-of-origin test. Expert Rev Mol Diagn. 2010 Jan; 10(1):17-25. PMID: [20014919](//www.ncbi.nlm.nih.gov/pubmed/20014919).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20014919/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimals
+
+  51. **Monzon FA** , Alvarez K, Gatalica Z, Bridge JA, Nelson M, Kim HJ, Hagenkord JM. Detection of chromosomal aberrations in renal tumors: a comparative study of conventional cytogenetics and virtual karyotyping with single-nucleotide polymorphism microarrays. Arch Pathol Lab Med. 2009 Dec; 133(12):1917-22. PMID: [19961245](//www.ncbi.nlm.nih.gov/pubmed/19961245).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19961245/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  52. Chang CC, Zhou X, Taylor JJ, Huang WT, Ren X, **Monzon F** , Feng Y, Rao PH, Lu XY, Fabio F, [Hilsenbeck S](https://profiles.viictr.org/profile/268374), [Creighton CJ](https://profiles.viictr.org/profile/265729), Jaffe ES, Lau CC. Genomic profiling of plasmablastic lymphoma using array comparative genomic hybridization (aCGH): revealing significant overlapping genomic lesions with diffuse large B-cell lymphoma. J Hematol Oncol. 2009 Nov 12; 2:47. PMID: [19909553](//www.ncbi.nlm.nih.gov/pubmed/19909553); PMCID: [PMC2789747](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2789747).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19909553/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:HumansCells
+
+  53. **Monzon FA** , Ogino S, Hammond ME, Halling KC, Bloom KJ, Nikiforova MN. The role of KRAS mutation testing in the management of patients with metastatic colorectal cancer. Arch Pathol Lab Med. 2009 Oct; 133(10):1600-6. PMID: [19792050](//www.ncbi.nlm.nih.gov/pubmed/19792050).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19792050/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  54. Kim HJ, Shen SS, Ayala AG, Ro JY, [Truong LD](https://profiles.viictr.org/profile/267800), Alvarez K, Bridge JA, Gatalica Z, Hagenkord JM, **Monzon FA** , Gonzalez-Berjon JM. Virtual-karyotyping with SNP microarrays in morphologically challenging renal cell neoplasms: a practical and useful diagnostic modality. Am J Surg Pathol. 2009 Sep; 33(9):1276-86. PMID: [19461508](//www.ncbi.nlm.nih.gov/pubmed/19461508).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19461508/citedby/) Fields:
+
+Gen General SurgeryPat Pathology
+
+Translation:Humans
+
+  55. Kang HP, Hagenkord JM, **Monzon FA** , Parwani AV. Residency training in pathology informatics: a virtual rotation solution. Am J Clin Pathol. 2009 Sep; 132(3):404-8. PMID: [19687317](//www.ncbi.nlm.nih.gov/pubmed/19687317).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19687317/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  56. [Sircar K](https://profiles.viictr.org/profile/12583127), Yoshimoto M, **Monzon FA** , Koumakpayi IH, [Katz RL](https://profiles.viictr.org/profile/12582502), Khanna A, Alvarez K, Chen G, Darnel AD, Aprikian AG, Saad F, Bismar TA, Squire JA. PTEN genomic deletion is associated with p-Akt and AR signalling in poorer outcome, hormone refractory prostate cancer. J Pathol. 2009 Aug; 218(4):505-13. PMID: [19402094](//www.ncbi.nlm.nih.gov/pubmed/19402094).
+
+Citations:
+[98](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19402094/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  57. Yang X, Zhou X, Huang WT, Wu L, **Monzon FA** , Chang CC, Wong ST. Pattern-selection based power analysis and discrimination of low- and high-grade myelodysplastic syndromes study using SNP arrays. PLoS One. 2009; 4(4):e5054. PMID: [19352488](//www.ncbi.nlm.nih.gov/pubmed/19352488); PMCID: [PMC2662412](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2662412).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  58. **Monzon FA** , Lyons-Weiler M, Buturovic LJ, Rigl CT, Henner WD, Sciulli C, Dumur CI, Medeiros F, Anderson GG. Multicenter validation of a 1,550-gene expression profile for identification of tumor tissue of origin. J Clin Oncol. 2009 May 20; 27(15):2503-8. PMID: [19332734](//www.ncbi.nlm.nih.gov/pubmed/19332734).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19332734/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  59. Huang WT, Yang X, Zhou X, **Monzon FA** , Wen J, Hagenkord JM, Wu LY, Keever-Taylor C, Novoa-Takara L, Wong ST, Young K, Chang CC. Multiple distinct clones may co-exist in different lineages in myelodysplastic syndromes. Leuk Res. 2009 Jun; 33(6):847-53. PMID: [19084271](//www.ncbi.nlm.nih.gov/pubmed/19084271).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19084271/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  60. Hagenkord JM, Parwani AV, Lyons-Weiler MA, Alvarez K, Amato R, Gatalica Z, Gonzalez-Berjon JM, Peterson L, Dhir R, **Monzon FA**. Virtual karyotyping with SNP microarrays reduces uncertainty in the diagnosis of renal epithelial tumors. Diagn Pathol. 2008 Nov 06; 3:44. PMID: [18990225](//www.ncbi.nlm.nih.gov/pubmed/18990225); PMCID: [PMC2588560](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2588560).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18990225/citedby/) Fields:
+
+Pat Pathology
+
+  61. Shahjahan M, Dunphy CH, Ewton A, Zu Y, **Monzon FA** , Rice L, Chang CC. p38 mitogen-activated protein kinase has different degrees of activation in myeloproliferative disorders and myelodysplastic syndromes. Am J Clin Pathol. 2008 Oct; 130(4):635-41. PMID: [18794058](//www.ncbi.nlm.nih.gov/pubmed/18794058).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18794058/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  62. D'Antonio JM, Ma C, **Monzon FA** , Pflug BR. Longitudinal analysis of androgen deprivation of prostate cancer cells identifies pathways to androgen independence. Prostate. 2008 May 15; 68(7):698-714. PMID: [18302219](//www.ncbi.nlm.nih.gov/pubmed/18302219).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18302219/citedby/) Fields:
+
+Uro Urology
+
+Translation:HumansCells
+
+  63. Lyons-Weiler M, Hagenkord J, Sciulli C, Dhir R, **Monzon FA**. Optimization of the Affymetrix GeneChip Mapping 10K 2.0 Assay for routine clinical use on formalin-fixed paraffin-embedded tissues. Diagn Mol Pathol. 2008 Mar; 17(1):3-13. PMID: [18303412](//www.ncbi.nlm.nih.gov/pubmed/18303412).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18303412/citedby/) Fields:
+
+Mol Molecular BiologyPat Pathology
+
+Translation:HumansCells
+
+  64. **Monzon FA** , Hagenkord JM, Lyons-Weiler MA, Balani JP, Parwani AV, Sciulli CM, Li J, Chandran UR, Bastacky SI, Dhir R. Whole genome SNP arrays as a potential diagnostic tool for the detection of characteristic chromosomal aberrations in renal epithelial tumors. Mod Pathol. 2008 May; 21(5):599-608. PMID: [18246049](//www.ncbi.nlm.nih.gov/pubmed/18246049).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18246049/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  65. Dumur CI, Lyons-Weiler M, Sciulli C, Garrett CT, Schrijver I, Holley TK, Rodriguez-Paris J, Pollack JR, Zehnder JL, Price M, Hagenkord JM, Rigl CT, Buturovic LJ, Anderson GG, **Monzon FA**. Interlaboratory performance of a microarray-based gene expression test to determine tissue of origin in poorly differentiated and undifferentiated cancers. J Mol Diagn. 2008 Jan; 10(1):67-77. PMID: [18083688](//www.ncbi.nlm.nih.gov/pubmed/18083688); PMCID: [PMC2175545](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2175545).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18083688/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Humans
+
+  66. Martinez I, Gardiner AS, Board KF, **Monzon FA** , Edwards RP, Khan SA. Human papillomavirus type 16 reduces the expression of microRNA-218 in cervical carcinoma cells. Oncogene. 2008 Apr 17; 27(18):2575-82. PMID: [17998940](//www.ncbi.nlm.nih.gov/pubmed/17998940); PMCID: [PMC2447163](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2447163).
+
+Citations:
+[155](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17998940/citedby/)
+Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansCells
+
+  67. Chandran UR, Ma C, Dhir R, Bisceglia M, Lyons-Weiler M, Liang W, Michalopoulos G, Becich M, **Monzon FA**. Gene expression profiles of prostate cancer reveal involvement of multiple molecular pathways in the metastatic process. BMC Cancer. 2007 Apr 12; 7:64. PMID: [17430594](//www.ncbi.nlm.nih.gov/pubmed/17430594); PMCID: [PMC1865555](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1865555).
+
+Citations:
+[254](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17430594/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  68. Ciocca V, Bombonati A, Gatalica Z, Di Pasquale M, Milos A, Ruiz-Orrico A, Dreher D, Folch N, **Monzon F** , Santeusanio G, Perou CM, Bernard PS, Palazzo JP. Cytokeratin profiles of male breast cancers. Histopathology. 2006 Oct; 49(4):365-70. PMID: [16978199](//www.ncbi.nlm.nih.gov/pubmed/16978199).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16978199/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  69. Kelavkar UP, Harya NS, Hutzley J, Bacich DJ, **Monzon FA** , Chandran U, Dhir R, O'Keefe DS. DNA methylation paradigm shift: 15-lipoxygenase-1 upregulation in prostatic intraepithelial neoplasia and prostate cancer by atypical promoter hypermethylation. Prostaglandins Other Lipid Mediat. 2007 Jan; 82(1-4):185-97. PMID: [17164146](//www.ncbi.nlm.nih.gov/pubmed/17164146).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17164146/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansCells
+
+  70. Collard RL, Harya NS, **Monzon FA** , Maier CE, O'Keefe DS. Methylation of the ASC gene promoter is associated with aggressive prostate cancer. Prostate. 2006 May 15; 66(7):687-95. PMID: [16425203](//www.ncbi.nlm.nih.gov/pubmed/16425203).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16425203/citedby/) Fields:
+
+Uro Urology
+
+Translation:HumansCells
+
+  71. Ma C, Lyons-Weiler M, Liang W, LaFramboise W, Gilbertson JR, Becich MJ, **Monzon FA**. In vitro transcription amplification and labeling methods contribute to the variability of gene expression profiling with DNA microarrays. J Mol Diagn. 2006 May; 8(2):183-92. PMID: [16645204](//www.ncbi.nlm.nih.gov/pubmed/16645204); PMCID: [PMC1867595](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1867595).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16645204/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  72. Tan RJ, Fattman CL, Niehouse LM, Tobolewski JM, Hanford LE, Li Q, **Monzon FA** , Parks WC, Oury TD. Matrix metalloproteinases promote inflammation and fibrosis in asbestos-induced lung injury in mice. Am J Respir Cell Mol Biol. 2006 Sep; 35(3):289-97. PMID: [16574944](//www.ncbi.nlm.nih.gov/pubmed/16574944); PMCID: [PMC1820635](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1820635).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16574944/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Animals
+
+  73. Ionescu DN, Papachristou G, Schoen RE, Hedge M, Richards CS, **Monzon FA**. Attenuated familial adenomatous polyposis: a case report with mixed features and review of genotype-phenotype correlation. Arch Pathol Lab Med. 2005 Nov; 129(11):1401-4. PMID: [16253019](//www.ncbi.nlm.nih.gov/pubmed/16253019).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16253019/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  74. Varambally S, Yu J, Laxman B, Rhodes DR, Mehra R, Tomlins SA, Shah RB, Chandran U, **Monzon FA** , Becich MJ, Wei JT, Pienta KJ, Ghosh D, Rubin MA, Chinnaiyan AM. Integrative genomic and proteomic analysis of prostate cancer reveals signatures of metastatic progression. Cancer Cell. 2005 Nov; 8(5):393-406. PMID: [16286247](//www.ncbi.nlm.nih.gov/pubmed/16286247).
+
+Citations:
+[415](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16286247/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  75. **Monzon FA** , Kant J, Sanders E, Bay C. Gene symbol: UBE3A. Disease: Angelman syndrome. Hum Genet. 2003 Sep; 113(4):367. PMID: [12974277](//www.ncbi.nlm.nih.gov/pubmed/12974277).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  76. Baron JA, **Monzon F** , Galaria N, Murphy GF. Angiomatoid melanoma: a novel pattern of differentiation in invasive periocular desmoplastic malignant melanoma. Hum Pathol. 2000 Dec; 31(12):1520-2. PMID: [11150378](//www.ncbi.nlm.nih.gov/pubmed/11150378).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11150378/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  77. Palazzo JP, **Monzon F** , Burke M, Hyslop T, Dunton C, Barusevicius A, Capuzzi D, Kovatich AJ. Overexpression of p21WAF1/CIP1 and MDM2 characterizes serous borderline ovarian tumors. Hum Pathol. 2000 Jun; 31(6):698-704. PMID: [10872663](//www.ncbi.nlm.nih.gov/pubmed/10872663).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10872663/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 77 publications over 20 distinct years, with a maximum of
+9 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:0,0,0,0,0,0,22,0,0,11,0,22,56,33,67,89,56,78,67,33,44,44,22,100,22,11,22,44,11,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2000| 2  
+2003| 1  
+2005| 2  
+2006| 5  
+2007| 3  
+2008| 6  
+2009| 8  
+2010| 5  
+2011| 7  
+2012| 6  
+2013| 3  
+2014| 4  
+2015| 4  
+2016| 2  
+2017| 9  
+2018| 2  
+2019| 1  
+2020| 2  
+2021| 4  
+2022| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MONZON's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (323)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Oligonucleotide Array Sequence Analysis](https://profiles.viictr.org/profile/256435)
+  * [Gene Expression Profiling](https://profiles.viictr.org/profile/242491)
+  * [Kidney Neoplasms](https://profiles.viictr.org/profile/254832)
+  * [Neoplasms, Unknown Primary](https://profiles.viictr.org/profile/263524)
+  * [Chromosome Aberrations](https://profiles.viictr.org/profile/255781)
+
+[Explore](https://profiles.viictr.org/profile/267110/198)
+
+_
+
+Co-Authors (48)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [JONASCH, ERIC](https://profiles.viictr.org/profile/12582637)
+  * [TAMBOLI, PHEROZE](https://profiles.viictr.org/profile/12582962)
+  * [SIRCAR, KANISHKA](https://profiles.viictr.org/profile/12583127)
+  * [TANNIR, NIZAR M](https://profiles.viictr.org/profile/12583355)
+  * [HAMILTON, STANLEY R](https://profiles.viictr.org/profile/12583714)
+
+[Explore](https://profiles.viictr.org/profile/267110/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [TANNIR, NIZAR M](https://profiles.viictr.org/profile/12583355)
+  * [WOOD, CHRISTOPHER G](https://profiles.viictr.org/profile/12582549)
+  * [JONASCH, ERIC](https://profiles.viictr.org/profile/12582637)
+  * [KARAM, JOSE ANTONIO](https://profiles.viictr.org/profile/12583922)
+  * [MATIN, SURENA](https://profiles.viictr.org/profile/12583401)
+
+[Explore](https://profiles.viictr.org/profile/267110/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CASTRO-ECHEVERRY, EDUARDO](https://profiles.viictr.org/profile/41361010)
+  * [DIWAN, ABDUL](https://profiles.viictr.org/profile/266202)
+  * [OEZGUEN, NUMAN](https://profiles.viictr.org/profile/267606)
+  * [PALANIAPPAN, MURUGESAN](https://profiles.viictr.org/profile/3010392)
+  * [REYES, MEREDITH](https://profiles.viictr.org/profile/269078)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BANEZ, EUGENIO](https://profiles.viictr.org/profile/269454)
+  * [FINCH, CHRISTIE](https://profiles.viictr.org/profile/266267)
+  * [FINEGOLD, MILTON](https://profiles.viictr.org/profile/269596)
+  * [MARCOGLIESE, ANDREA](https://profiles.viictr.org/profile/266792)
+  * [PANGAS, STEPHANIE](https://profiles.viictr.org/profile/267477)
+
+_
+

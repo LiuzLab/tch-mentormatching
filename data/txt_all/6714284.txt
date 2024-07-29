@@ -1,0 +1,254 @@
+## EVAN LI
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 7200 CAMBRIDGE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=M6c5wWfELcXwQpo%3d&rnd=e0fd67bc-5b18-40b5-af3d-4a7fba4df0ec)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=6714284)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Wu Y](https://profiles.viictr.org/profile/14348333), **Li E** , Knight M, Adeniyi-Ipadeola G, Song LZ, Burns AR, Gazzinelli-Guimaraes AC, Fujiwara R, [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Weatherhead JE](https://profiles.viictr.org/profile/3010330). Transient Ascaris suum larval migration induces intractable chronic pulmonary disease and anemia in mice. PLoS Negl Trop Dis. 2021 12; 15(12):e0010050. PMID: [34914687](//www.ncbi.nlm.nih.gov/pubmed/34914687); PMCID: [PMC8717995](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8717995).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34914687/citedby/) Fields:
+
+Tro Tropical Medicine
+
+Translation:HumansAnimals
+
+  2. **Li E** , [Scheurer M](https://profiles.viictr.org/profile/265805), [Kheradmand F](https://profiles.viictr.org/profile/270223), Luong AU, [Corry DB](https://profiles.viictr.org/profile/269165). Computer-Assisted Analysis of Oral Antifungal Therapy in Chronic Rhinosinusitis with Airway Mycosis: a Retrospective Cohort Analysis. Antimicrob Agents Chemother. 2021 10 18; 65(11):e0169721. PMID: [34491802](//www.ncbi.nlm.nih.gov/pubmed/34491802); PMCID: [PMC8522785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8522785).
+
+Citations:  Fields:
+
+Ant Anti-Infective Agents
+
+Translation:Humans
+
+  3. **Li E** , [Rodriguez A](https://profiles.viictr.org/profile/265856), Luong AU, Allen D, [Knight JM](https://profiles.viictr.org/profile/18856558), [Kheradmand F](https://profiles.viictr.org/profile/270223), [Corry DB](https://profiles.viictr.org/profile/269165). The immune response to airway mycosis. Curr Opin Microbiol. 2021 08; 62:45-50. PMID: [34052540](//www.ncbi.nlm.nih.gov/pubmed/34052540); PMCID: [PMC8286351](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8286351).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34052540/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Humans
+
+  4. Chen X, [Corry DB](https://profiles.viictr.org/profile/269165), **Li E**. Mechanisms of allergy and adult asthma. Curr Opin Allergy Clin Immunol. 2020 02; 20(1):36-42. PMID: [31688153](//www.ncbi.nlm.nih.gov/pubmed/31688153).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31688153/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  5. **Li E** , Knight JM, [Wu Y](https://profiles.viictr.org/profile/14348333), Luong A, [Rodriguez A](https://profiles.viictr.org/profile/265856), [Kheradmand F](https://profiles.viictr.org/profile/270223), [Corry DB](https://profiles.viictr.org/profile/269165). Airway mycosis in allergic airway disease. Adv Immunol. 2019; 142:85-140. PMID: [31296304](//www.ncbi.nlm.nih.gov/pubmed/31296304).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31296304/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimals
+
+  6. **Li E** , Landers CT, Tung HY, Knight JM, Marshall Z, Luong AU, [Rodriguez A](https://profiles.viictr.org/profile/265856), [Kheradmand F](https://profiles.viictr.org/profile/270223), [Corry DB](https://profiles.viictr.org/profile/269165). Fungi in Mucoobstructive Airway Diseases. Ann Am Thorac Soc. 2018 11; 15(Suppl 3):S198-S204. PMID: [30431347](//www.ncbi.nlm.nih.gov/pubmed/30431347); PMCID: [PMC6322025](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6322025).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30431347/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  7. [Knight JM](https://profiles.viictr.org/profile/18856558), Mandal P, Morlacchi P, Mak G, **Li E** , Madison M, Landers C, Saxton B, Felix E, [Gilbert B](https://profiles.viictr.org/profile/269479), Sederstrom J, Varadhachary A, Singh MM, Chatterjee D, [Corry DB](https://profiles.viictr.org/profile/269165), [McMurray JS](https://profiles.viictr.org/profile/12582499). Small molecule targeting of the STAT5/6 Src homology 2 (SH2) domains to inhibit allergic airway disease. J Biol Chem. 2018 06 29; 293(26):10026-10040. PMID: [29739850](//www.ncbi.nlm.nih.gov/pubmed/29739850); PMCID: [PMC6028980](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6028980).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29739850/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  8. **Li E** , Tsai CL, Maskatia ZK, Kakkar E, Porter P, [Rossen RD](https://profiles.viictr.org/profile/266540), Perusich S, [Knight JM](https://profiles.viictr.org/profile/18856558), [Kheradmand F](https://profiles.viictr.org/profile/270223), [Corry DB](https://profiles.viictr.org/profile/269165). Benefits of antifungal therapy in asthma patients with airway mycosis: A retrospective cohort analysis. Immun Inflamm Dis. 2018 06; 6(2):264-275. PMID: [29575717](//www.ncbi.nlm.nih.gov/pubmed/29575717); PMCID: [PMC5946149](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5946149).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29575717/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansCells
+
+  9. Tung HY, **Li E** , Landers C, Nguyen A, [Kheradmand F](https://profiles.viictr.org/profile/270223), Knight JM, [Corry DB](https://profiles.viictr.org/profile/269165). Advances and Evolving Concepts in Allergic Asthma. Semin Respir Crit Care Med. 2018 Feb; 39(1):64-81. PMID: [29427987](//www.ncbi.nlm.nih.gov/pubmed/29427987).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29427987/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  10. Morgan Knight J, **Li E** , Tung HY, Landers C, Wheeler J, [Kheradmand F](https://profiles.viictr.org/profile/270223), [Corry DB](https://profiles.viictr.org/profile/269165). A Fungal Protease Model to Interrogate Allergic Lung Immunity. Methods Mol Biol. 2018; 1799:1-9. PMID: [29956139](//www.ncbi.nlm.nih.gov/pubmed/29956139).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  11. **Li E** , [Grimes AB](https://profiles.viictr.org/profile/270042), Rider NL, Mahoney DH, Fleisher TA, Shearer WT. Diagnostic dilemma: ALPS versus Evans syndrome. Clin Immunol. 2017 10; 183:247-248. PMID: [28802957](//www.ncbi.nlm.nih.gov/pubmed/28802957).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28802957/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:Humans
+
+  12. Tung HY, Landers C, **Li E** , Porter P, [Kheradmand F](https://profiles.viictr.org/profile/270223), [Corry DB](https://profiles.viictr.org/profile/269165). Allergen-encoded signals that control allergic responses. Curr Opin Allergy Clin Immunol. 2016 Feb; 16(1):51-8. PMID: [26658015](//www.ncbi.nlm.nih.gov/pubmed/26658015); PMCID: [PMC4863991](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4863991).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26658015/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 12 publications over 6 distinct years, with a maximum of 5
+publications in
+2018](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,100,20,20,60,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2016| 1  
+2017| 1  
+2018| 5  
+2019| 1  
+2020| 1  
+2021| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (77)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Mycoses](https://profiles.viictr.org/profile/241682)
+  * [Lung Diseases, Fungal](https://profiles.viictr.org/profile/246070)
+  * [Antifungal Agents](https://profiles.viictr.org/profile/252228)
+  * [Aspergillosis, Allergic Bronchopulmonary](https://profiles.viictr.org/profile/255364)
+  * [Rhinitis](https://profiles.viictr.org/profile/244563)
+
+[Explore](https://profiles.viictr.org/profile/6714284/198)
+
+_
+
+Co-Authors (12)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [CORRY, DAVID](https://profiles.viictr.org/profile/269165)
+  * [KHERADMAND, FARRAH](https://profiles.viictr.org/profile/270223)
+  * [RODRIGUEZ, ANTONY](https://profiles.viictr.org/profile/265856)
+  * [KNIGHT, JOHN](https://profiles.viictr.org/profile/18856558)
+  * [Wu, Yifan](https://profiles.viictr.org/profile/14348333)
+
+[Explore](https://profiles.viictr.org/profile/6714284/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KONTOYIANNIS, DIMITRIOS P](https://profiles.viictr.org/profile/12582577)
+  * [HANANIA, NICOLA](https://profiles.viictr.org/profile/266276)
+  * [CORRY, DAVID](https://profiles.viictr.org/profile/269165)
+  * [MARTINEZ, FERNANDO](https://profiles.viictr.org/profile/12583796)
+  * [RAAD, ISSAM I](https://profiles.viictr.org/profile/12582533)
+
+[Explore](https://profiles.viictr.org/profile/6714284/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BHAIRAVARASU, KALPANA](https://profiles.viictr.org/profile/28999162)
+  * [BRUERA, SEBASTIAN](https://profiles.viictr.org/profile/31330327)
+  * [CHANG, NANCY](https://profiles.viictr.org/profile/1737887)
+  * [JOSHI, REETI](https://profiles.viictr.org/profile/2619411)
+  * [RODRIGUEZ, ANTONY](https://profiles.viictr.org/profile/265856)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

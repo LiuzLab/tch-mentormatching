@@ -1,0 +1,985 @@
+## GOETZ BENNDORF
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=EaQ19X%2bJAo77SIvi8n3iKLeBaRSOgg%3d%3d&rnd=8bb17855-fdc3-4589-b74f-2901d8c6698a)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267773)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267773&cachekey=7d5f0cee-7337-444d-bef1-185a407be42b)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Dahl RH, Horn GL, Metwalli Z, [Gopinath SP](https://profiles.viictr.org/profile/266943), **Benndorf G**. Endovascular Management of a Ruptured Aneurysm on a Posterior Inferior Cerebellar Artery with Extradural C2-Origin: Case Report and Literature Review. Neurointervention. 2024 Jul; 19(2):129-134. PMID: [38714486](//www.ncbi.nlm.nih.gov/pubmed/38714486); PMCID: [PMC11222686](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11222686).
+
+Citations:
+
+  2. Dahl RH, Ghasemi-Rad M, Eskesen V, Frevert SC, S?lling C, **Benndorf G**. Vertebro-Vertebral Fistula Occlusion Using a Woven EndoBridgeTM-Device. Neurointervention. 2023 Nov; 18(3):200-203. PMID: [37867304](//www.ncbi.nlm.nih.gov/pubmed/37867304); PMCID: [PMC10626043](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10626043).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37867304/citedby/)
+
+  3. **Benndorf G**. Advancing vessel wall imaging in intracranial aneurysms: a crucial step towards improved patient management? Acta Neurochir (Wien). 2023 Dec; 165(12):3831-3832. PMID: [37861925](//www.ncbi.nlm.nih.gov/pubmed/37861925).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  4. Hosseini EM, Zafarshamspour S, Ghasemi-Rad M, **Benndorf G** , Rasekhi A, Rafieossadat R. Endoluminal flow diversion as a primary treatment strategy for pediatric traumatic intracranial aneurysms: a case-based review of literature. Childs Nerv Syst. 2024 Feb; 40(2):345-357. PMID: [37750891](//www.ncbi.nlm.nih.gov/pubmed/37750891).
+
+Citations:  Fields:
+
+Neu NeurologyPed Pediatrics
+
+Translation:Humans
+
+  5. Krogager ME, Dahl RH, Poulsgaard L, Fugleholm K, Sehested T, Mikkelsen R, Tranum-Jensen J, Mathiesen TI, **Benndorf G**. Combined cone-beam CT imaging and microsurgical dissection of cadaver specimens to study cerebral venous anatomy: a technical note. Surg Radiol Anat. 2023 Sep; 45(9):1177-1184. PMID: [37542573](//www.ncbi.nlm.nih.gov/pubmed/37542573); PMCID: [PMC10514096](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10514096).
+
+Citations:  Fields:
+
+Ana AnatomyGen General SurgeryRad Radiology
+
+Translation:Humans
+
+  6. Bloch SL, Dahl RH, Hansen K, **Benndorf G**. Endovascular occlusion of a persistent stapedial artery prior to stapedotomy: a novel approach. Eur Arch Otorhinolaryngol. 2023 Oct; 280(10):4701-4707. PMID: [37405454](//www.ncbi.nlm.nih.gov/pubmed/37405454).
+
+Citations:  Fields:
+
+Oto Otolaryngology
+
+Translation:Humans
+
+  7. Dahl RH, Larsen RW, Thormann E, **Benndorf G**. Fragmentation of Hydrophilic Guidewire Coatings During Neuroendovascular Therapy. Clin Neuroradiol. 2023 Sep; 33(3):793-799. PMID: [37185670](//www.ncbi.nlm.nih.gov/pubmed/37185670).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  8. Dahl RH, Kruse A, Rodesch G, **Benndorf G**. Dissecting pseudoaneurysm in a spinal cord AVM treated by flow diversion: Technical note. Interv Neuroradiol. 2023 Apr 16; 15910199231167909. PMID: [37063045](//www.ncbi.nlm.nih.gov/pubmed/37063045).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+  9. Bindslev JB, Hansen K, Laugesen NG, **Benndorf G** , Hoei-Hansen CE, Truelsen T. Acute triage of childhood stroke in Denmark. Eur Stroke J. 2023 06; 8(2):483-491. PMID: [37231690](//www.ncbi.nlm.nih.gov/pubmed/37231690); PMCID: [PMC10334169](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10334169).
+
+Citations:  Translation:Humans
+
+  10. Dahl RH, Kelsen J, Hansen K, Hauerberg J, **Benndorf G**. Hemorrhage due to a pseudoaneurysm on a dural-pial anastomosis after decompression for Chiari malformation type I: case report. Acta Neurochir (Wien). 2022 12; 164(12):3215-3219. PMID: [36063230](//www.ncbi.nlm.nih.gov/pubmed/36063230).
+
+Citations:
+
+  11. Krogager ME, Jespersen B, Mathiesen TI, **Benndorf G**. Three underdogs among galenic veins: anatomical analysis and literature review of surgical relevant veins in the quadrigeminal cistern. Neurosurg Rev. 2022 Oct; 45(5):3245-3258. PMID: [35947231](//www.ncbi.nlm.nih.gov/pubmed/35947231).
+
+Citations:
+
+  12. Stauning AT, Eriksson F, **Benndorf G** , Holst AV, Hauerberg J, Stavngaard T, Poulsgaard L, Rochat P, Eskesen V, Birkeland P, Mathiesen T, Munch TN. Mortality among patients treated for aneurysmal subarachnoid hemorrhage in Eastern Denmark 2017-2019. Acta Neurochir (Wien). 2022 09; 164(9):2419-2430. PMID: [35864221](//www.ncbi.nlm.nih.gov/pubmed/35864221); PMCID: [PMC9303843](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9303843).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+  13. Brandt AH, Dahl RH, Hauerberg J, **Benndorf G**. Improved Characterization of a?Developmental Venous Anomaly with a?Varix-like Lesion and a?Venous Malformation by Venous 3D-DSA. Clin Neuroradiol. 2022 12; 32(4):1135-1140. PMID: [35556147](//www.ncbi.nlm.nih.gov/pubmed/35556147).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+  14. **Benndorf G**. Open surgery as first-line treatment in patients with hemorrhagic type III and IV DAVFs: how much anachronism do we need in modern medicine? Acta Neurochir (Wien). 2022 01; 164(1):163-164. PMID: [34751826](//www.ncbi.nlm.nih.gov/pubmed/34751826).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  15. Dahl RH, Thormann E, **Benndorf G** , Larsen RW. Polytetrafluoroethylene coating fragments during neuroendovascular therapy: An analysis of two damaged microguidewires. Interv Neuroradiol. 2022 Feb; 28(1):16-21. PMID: [34039049](//www.ncbi.nlm.nih.gov/pubmed/34039049); PMCID: [PMC8905087](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8905087).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  16. Dahl RH, Farholt S, Hauerberg J, Poulsgaard L, **Benndorf G**. Management of a?DAVF in a?Patient with Loeys-Dietz Syndrome Type?II : Case Report and Overview of the Literature. Clin Neuroradiol. 2021 09; 31(3):871-874. PMID: [33978775](//www.ncbi.nlm.nih.gov/pubmed/33978775).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  17. Dahl RH, Poulsgaard L, **Benndorf G** , Biondi A, Caterino FD, Vitale G. Alternative route to a hypoglossal canal dural arteriovenous fistula in case of failed jugular vein approach. Interv Neuroradiol. 2021 Apr; 27(2):275-280. PMID: [33028133](//www.ncbi.nlm.nih.gov/pubmed/33028133); PMCID: [PMC8050530](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8050530).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  18. De Vries J, Boogaarts HD, Holtmannspoetter M, **Benndorf G** , Bohner G, Derakhshani S, Navasa C, van Zwam WH, Rautio R, Mathys C, Riina H, Marotta TR, S?rensen L, Turowski B, S?derman M. eCLIPs bifurcation remodeling system for treatment of wide neck bifurcation aneurysms with extremely low dome-to-neck and aspect ratios: a multicenter experience. J Neurointerv Surg. 2021 May; 13(5):438-442. PMID: [32788388](//www.ncbi.nlm.nih.gov/pubmed/32788388); PMCID: [PMC8053345](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8053345).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32788388/citedby/) Fields:
+
+Gen General SurgeryNeu Neurology
+
+Translation:Humans
+
+  19. Dahl RH, Eskesen V, **Benndorf G**. Dural Arteriovenous Fistula of the Vein of Trolard Mimicking a Cavernous Sinus Fistula. World Neurosurg. 2020 Mar; 135:68-71. PMID: [31715406](//www.ncbi.nlm.nih.gov/pubmed/31715406).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  20. Dahl RH, Eskesen V, **Benndorf G**. Subdural contrast effusion during endovascular therapy: case report. Acta Neurochir (Wien). 2019 11; 161(11):2403-2407. PMID: [31506726](//www.ncbi.nlm.nih.gov/pubmed/31506726).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31506726/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  21. Dahl RH, Born AP, **Benndorf G** , B?rresen ML. Traumatic Arteriovenous Fistula of the Middle Meningeal Artery During Infancy : Case Report and Review of the Literature. Clin Neuroradiol. 2020 Jun; 30(2):403-408. PMID: [31501932](//www.ncbi.nlm.nih.gov/pubmed/31501932).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  22. Dahl RH, Gutte H, Cortsen M, Hauerberg J, **Benndorf G** , Holtmannsp?tter M. Snaring of a Glued Microcatheter During Embolization of an Arteriovenous Malformation with N-Butyl Cyanoacrylate. World Neurosurg. 2018 Dec; 120:343-348. PMID: [30149156](//www.ncbi.nlm.nih.gov/pubmed/30149156).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  23. Mason JR, Dodge C, **Benndorf G**. Quantification of tantalum sedimentation rates in liquid embolic agents. Interv Neuroradiol. 2018 Oct; 24(5):574-579. PMID: [29781371](//www.ncbi.nlm.nih.gov/pubmed/29781371); PMCID: [PMC6116121](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6116121).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29781371/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+  24. Lee CY, Park SH, Kim CH, **Benndorf G**. The impact of stent design on the structural mechanics of the crossing Y-stent: an in vitro study. Neuroradiology. 2014 Aug; 56(8):655-9. PMID: [24866826](//www.ncbi.nlm.nih.gov/pubmed/24866826).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24866826/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  25. Rao S, Rao S, Dhindsa-Castanedo L, **Benndorf G**. Rapidly evolving large extracranial vertebral artery pseudoaneurysm in Beh?et's disease: Case report and review of the literature. Mod Rheumatol. 2015 May; 25(3):476-9. PMID: [24593167](//www.ncbi.nlm.nih.gov/pubmed/24593167).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24593167/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:Humans
+
+  26. Lee SR, Metwalli ZA, [Yevich SM](https://profiles.viictr.org/profile/18883230), Whigham CJ, **Benndorf G**. Variability in evolution and course of gunshot injuries to the neck and impact on management. A case report. Interv Neuroradiol. 2013 Dec; 19(4):489-95. PMID: [24355155](//www.ncbi.nlm.nih.gov/pubmed/24355155); PMCID: [PMC3902750](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3902750).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24355155/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  27. [Yevich SM](https://profiles.viictr.org/profile/18883230), Lee SR, [Scott BG](https://profiles.viictr.org/profile/269400), Shaltoni HM, Mawad ME, **Benndorf G**. Emergency endovascular management of penetrating gunshot injuries to the arteries in the face and neck: a case series and review of the literature. J Neurointerv Surg. 2014 Jan; 6(1):42-6. PMID: [23256989](//www.ncbi.nlm.nih.gov/pubmed/23256989).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23256989/citedby/) Fields:
+
+Gen General SurgeryNeu Neurology
+
+Translation:Humans
+
+  28. Ionescu M, Metcalfe RW, [Cody D](https://profiles.viictr.org/profile/12583746), Alvarado MV, Hipp J, **Benndorf G**. Spatial resolution limits of multislice computed tomography (MS-CT), C-arm-CT, and flat panel-CT (FP-CT) compared to MicroCT for visualization of a small metallic stent. Acad Radiol. 2011 Jul; 18(7):866-75. PMID: [21669352](//www.ncbi.nlm.nih.gov/pubmed/21669352).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21669352/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  29. Karmonik C, Yen C, Diaz O, Klucznik R, Grossman RG, **Benndorf G**. Temporal variations of wall shear stress parameters in intracranial aneurysms--importance of patient-specific inflow waveforms for CFD calculations. Acta Neurochir (Wien). 2010 Aug; 152(8):1391-8; discussion 1398. PMID: [20390310](//www.ncbi.nlm.nih.gov/pubmed/20390310).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20390310/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  30. **Benndorf G**. Color-coded digital subtraction angiography: the end of a monochromatic era? AJNR Am J Neuroradiol. 2010 May; 31(5):925-7. PMID: [20395396](//www.ncbi.nlm.nih.gov/pubmed/20395396); PMCID: [PMC7964175](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7964175).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20395396/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  31. **Benndorf G** , Ionescu M, Valdivia y Alvarado M, Biondi A, Hipp J, Metcalfe R. Anomalous hemodynamic effects of a self-expanding intracranial stent: comparing in-vitro and ex-vivo models using ultra-high resolution microCT based CFD. J Biomech. 2010 Mar 03; 43(4):740-8. PMID: [19926087](//www.ncbi.nlm.nih.gov/pubmed/19926087).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19926087/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  32. Mantha AR, **Benndorf G** , Hernandez A, Metcalfe RW. Stability of pulsatile blood flow at the ostium of cerebral aneurysms. J Biomech. 2009 May 29; 42(8):1081-7. PMID: [19394943](//www.ncbi.nlm.nih.gov/pubmed/19394943).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19394943/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Humans
+
+  33. Karmonik C, Yen C, Grossman RG, Klucznik R, **Benndorf G**. Intra-aneurysmal flow patterns and wall shear stresses calculated with computational flow dynamics in an anterior communicating artery aneurysm depend on knowledge of patient-specific inflow rates. Acta Neurochir (Wien). 2009 May; 151(5):479-85; discussion 485. PMID: [19343271](//www.ncbi.nlm.nih.gov/pubmed/19343271).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19343271/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  34. Valdivia y Alvarado M, Ebrahimi N, **Benndorf G**. Study of conformability of the new leo plus stent to a curved vascular model using flat-panel detector computed tomography (DynaCT). Neurosurgery. 2009 Mar; 64(3 Suppl):ons130-4; discussion ons134. PMID: [19240562](//www.ncbi.nlm.nih.gov/pubmed/19240562).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19240562/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  35. **Benndorf G** , Ionescu M, Y Alvarado MV, Hipp J, Metcalfe R. Wall shear stress in intracranial self-expanding stents studied using ultra-high-resolution 3D reconstructions. AJNR Am J Neuroradiol. 2009 Mar; 30(3):479-86. PMID: [19039050](//www.ncbi.nlm.nih.gov/pubmed/19039050); PMCID: [PMC7051473](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7051473).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19039050/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  36. Lee CY, Yim MB, **Benndorf G**. Mechanical detachment of Guglielmi detachable coils after failed electrolytic detachment: rescue from a technical complication. Neurosurgery. 2008 Oct; 63(4 Suppl 2):293-4; discussion 294. PMID: [18981822](//www.ncbi.nlm.nih.gov/pubmed/18981822).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18981822/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  37. Radaelli AG, Augsburger L, Cebral JR, Ohta M, Balossino R, **Benndorf G** , Hose DR, Marzo A, Metcalfe R, Mortier P, Mut F, Reymond P, Socci L, Verhegghe B, Frangi AF, R?fenacht DA. Reproducibility of haemodynamical simulations in a subject-specific stented aneurysm model--a report on the Virtual Intracranial Stenting Challenge 2007. J Biomech. 2008 Jul 19; 41(10):2069-81. PMID: [18582891](//www.ncbi.nlm.nih.gov/pubmed/18582891).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18582891/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Humans
+
+  38. Karmonik C, Klucznik R, **Benndorf G**. Blood flow in cerebral aneurysms: comparison of phase contrast magnetic resonance and computational fluid dynamics--preliminary experience. Rofo. 2008 Mar; 180(3):209-15. PMID: [18278729](//www.ncbi.nlm.nih.gov/pubmed/18278729).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18278729/citedby/) Fields:
+
+Dia Diagnostic ImagingNuc Nuclear MedicineRad Radiology
+
+Translation:Humans
+
+  39. Karmonik C, Klucznik R, **Benndorf G**. Comparison of velocity patterns in an AComA aneurysm measured with 2D phase contrast MRI and simulated with CFD. Technol Health Care. 2008; 16(2):119-28. PMID: [18487858](//www.ncbi.nlm.nih.gov/pubmed/18487858).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18487858/citedby/) Fields:
+
+Bio Biomedical EngineeringHea Health ServicesTec Technology
+
+Translation:Humans
+
+  40. Ebrahimi N, Claus B, Lee CY, Biondi A, **Benndorf G**. Stent conformity in curved vascular models with simulated aneurysm necks using flat-panel CT: an in vitro study. AJNR Am J Neuroradiol. 2007 May; 28(5):823-9. PMID: [17494650](//www.ncbi.nlm.nih.gov/pubmed/17494650); PMCID: [PMC8134344](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8134344).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17494650/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  41. Hammami N, Piotin M, Spelle L, **Benndorf G** , Kessler I, Moret J, Mounayer C. Nidal embolization of brain arteriovenous malformations using Onyx in 94 patients. AJNR Am J Neuroradiol. 2007 Mar; 28(3):518-23. PMID: [17353327](//www.ncbi.nlm.nih.gov/pubmed/17353327); PMCID: [PMC7977844](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7977844).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17353327/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:HumansCTClinical Trials
+
+  42. Kern M, Naeini R, Lehmann TN, **Benndorf G**. Imaging of a thoracic spinal nerve haemangioblastoma by three-dimensional digital angiography. J Clin Neurosci. 2006 Nov; 13(9):929-32. PMID: [17049241](//www.ncbi.nlm.nih.gov/pubmed/17049241).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17049241/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  43. **Benndorf G** , Klucznik RP, Strother CM. Images in cardiovascular medicine. Angiographic computed tomography for imaging of underdeployed intracranial stent. Circulation. 2006 Sep 19; 114(12):e499-500. PMID: [16982944](//www.ncbi.nlm.nih.gov/pubmed/16982944).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16982944/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  44. Lee CY, Yim MB, **Benndorf G**. Traumatic pseudoaneurysm of the pharyngeal artery: An unusual cause of hematemesis and hematochezia after craniofacial trauma. Surg Neurol. 2006 Oct; 66(4):444-6; discussion 446. PMID: [17015139](//www.ncbi.nlm.nih.gov/pubmed/17015139).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17015139/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  45. Mantha A, Karmonik C, **Benndorf G** , Strother C, Metcalfe R. Hemodynamics in a cerebral artery before and after the formation of an aneurysm. AJNR Am J Neuroradiol. 2006 May; 27(5):1113-8. PMID: [16687554](//www.ncbi.nlm.nih.gov/pubmed/16687554); PMCID: [PMC7975719](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7975719).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16687554/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  46. **Benndorf G** , Claus B, Strother CM, Chang L, Klucznik RP. Increased cell opening and prolapse of struts of a neuroform stent in curved vasculature: value of angiographic computed tomography: technical case report. Neurosurgery. 2006 Apr; 58(4 Suppl 2):ONS-E380; discussion ONS-E380. PMID: [16575290](//www.ncbi.nlm.nih.gov/pubmed/16575290).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16575290/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  47. **Benndorf G** , Klucznik RP, Meyer D, Strother CM, Mawad ME. "Cross-over" technique for horizontal stenting of an internal carotid bifurcation aneurysm using a new self-expandable stent: technical case report. Neurosurgery. 2006 Feb; 58(1 Suppl):ONS-E172; discussion ONS-E172. PMID: [16462622](//www.ncbi.nlm.nih.gov/pubmed/16462622).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16462622/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  48. Karmonik C, **Benndorf G** , Klucznik R, Haykal H, Strother CM. Wall shear stress variations in basilar tip aneurysms investigated with computational fluid dynamics. Conf Proc IEEE Eng Med Biol Soc. 2006; 2006:3214-7. PMID: [17946165](//www.ncbi.nlm.nih.gov/pubmed/17946165).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  49. Mounayer C, **Benndorf G** , Piotin M, Moret J, Lehmann MF. Pulsatile tinnitus: a symptom of chronic subclavian artery occlusion. AJNR Am J Neuroradiol. 2005 Sep; 26(8):1960-3. PMID: [16155142](//www.ncbi.nlm.nih.gov/pubmed/16155142); PMCID: [PMC8148864](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8148864).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16155142/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  50. Akpek S, Brunner T, **Benndorf G** , Strother C. Three-dimensional imaging and cone beam volume CT in C-arm angiography with flat panel detector. Diagn Interv Radiol. 2005 Mar; 11(1):10-3. PMID: [15795836](//www.ncbi.nlm.nih.gov/pubmed/15795836).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15795836/citedby/) Fields:
+
+Dia Diagnostic ImagingRad Radiology
+
+Translation:HumansAnimals
+
+  51. Naeini RM, De J, Satow T, **Benndorf G**. Unilateral agenesis of internal carotid artery with ophthalmic artery arising from posterior communicating artery. AJR Am J Roentgenol. 2005 Feb; 184(2):571-3. PMID: [15671382](//www.ncbi.nlm.nih.gov/pubmed/15671382).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15671382/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  52. **Benndorf G** , Akpek S, Dempsy R, Strother CM, Mor?n F. Spontaneous thrombosis of a traumatic posterior cerebral artery aneurysm in a child. AJNR Am J Neuroradiol. 2005 Jan; 26(1):58-60. PMID: [15661701](//www.ncbi.nlm.nih.gov/pubmed/15661701); PMCID: [PMC7975019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7975019).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15661701/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  53. Tallen G, Michael T, Hoffmann KT, **Benndorf G** , Brock M, Haberl H. Surgical aspects and outcome of delayed tethered cord release. Zentralbl Neurochir. 2004 Nov; 65(4):161-7. PMID: [15551179](//www.ncbi.nlm.nih.gov/pubmed/15551179).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15551179/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  54. Abud DG, Mounayer C, **Benndorf G** , Piotin M, Spelle L, Moret J. Intratumoral injection of cyanoacrylate glue in head and neck paragangliomas. AJNR Am J Neuroradiol. 2004 Oct; 25(9):1457-62. PMID: [15502121](//www.ncbi.nlm.nih.gov/pubmed/15502121); PMCID: [PMC7976413](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7976413).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15502121/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:HumansCells
+
+  55. Akpek S, Morsi H, **Benndorf G** , Strother CM, Mawad ME. Reconstruction of the basilar tip with T stent configuration for treatment of a wide-neck aneurysm. J Vasc Interv Radiol. 2004 Sep; 15(9):1024-6. PMID: [15361576](//www.ncbi.nlm.nih.gov/pubmed/15361576).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15361576/citedby/) Fields:
+
+Rad RadiologyVas Vascular Diseases
+
+Translation:Humans
+
+  56. Kerner T, Woiciechowsky C, **Benndorf G** , Schlosser HG. Multiple cerebral aneurysms and subarachnoid hemorrhage in a patient with Alagille syndrome. AJNR Am J Neuroradiol. 2004 Sep; 25(8):1366-7. PMID: [15466333](//www.ncbi.nlm.nih.gov/pubmed/15466333); PMCID: [PMC7975465](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7975465).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15466333/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  57. Karmonik C, Arat A, **Benndorf G** , Akpek S, Klucznik R, Mawad ME, Strother CM. A technique for improved quantitative characterization of intracranial aneurysms. AJNR Am J Neuroradiol. 2004 Aug; 25(7):1158-61. PMID: [15313701](//www.ncbi.nlm.nih.gov/pubmed/15313701); PMCID: [PMC7976552](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7976552).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15313701/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  58. **Benndorf G** , Naeini RM, Lehmann TN. Triple carotid aneurysms in a patient with migraine attacks. J Neurol Neurosurg Psychiatry. 2004 Jul; 75(7):993. PMID: [15201357](//www.ncbi.nlm.nih.gov/pubmed/15201357); PMCID: [PMC1739139](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1739139).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15201357/citedby/) Fields:
+
+Neu NeurologyNeu NeurosurgeryPsy Psychiatry
+
+Translation:Humans
+
+  59. Morsi H, **Benndorf G** , Klucznik R, Mawad M. Transvenous occlusion of a dural cavernous sinus fistula using a new expandable hydrogel-platinum coil (hydrocoil(r)). Interv Neuroradiol. 2004 Jun 29; 10(2):151-4. PMID: [20587227](//www.ncbi.nlm.nih.gov/pubmed/20587227); PMCID: [PMC3464444](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3464444).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20587227/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+  60. **Benndorf G** , Von Moers A, Campi A, Lehmann TN, Kim DM. Spontaneous scalp arteriovenous fistula in a child with hartnup disease. J Endovasc Ther. 2004 Jun; 11(3):348-50. PMID: [15174904](//www.ncbi.nlm.nih.gov/pubmed/15174904).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15174904/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  61. **Benndorf G** , Bisdorff A, Wassef M, Enjolras O, Mounayer C. Facial infantile hemangiopericytoma resembling an arteriovenous malformation. J Neuroradiol. 2004 Jun; 31(3):227-30. PMID: [15356450](//www.ncbi.nlm.nih.gov/pubmed/15356450).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15356450/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  62. **Benndorf G** , Lehmann TN. Bilateral diploic arteriovenous fistula causing scalp hematoma. J Neurosurg. 2004 May; 100(5):950-5. PMID: [15137615](//www.ncbi.nlm.nih.gov/pubmed/15137615).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15137615/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  63. Kim DM, Menneking H, Klein M, **Benndorf G**. Endovascular management of a mandibular arteriovenous malformation in a patient with severe hemophilia a. AJNR Am J Neuroradiol. 2004 Apr; 25(4):614-7. PMID: [15090353](//www.ncbi.nlm.nih.gov/pubmed/15090353); PMCID: [PMC7975595](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7975595).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15090353/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  64. **Benndorf G** , Campi A. "Stent-Within-a-Stent Technique": Nothing New Under the Sun. AJNR Am J Neuroradiol. 2004 Apr; 25(4):663; author reply 663. PMID: [15090364](//www.ncbi.nlm.nih.gov/pubmed/15090364); PMCID: [PMC7975612](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7975612).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  65. Claus B, Campi A, Lanksch WR, **Benndorf G** , Kufeld M. Three-dimensional rotational myelography. AJNR Am J Neuroradiol. 2003 Aug; 24(7):1290-3. PMID: [12917114](//www.ncbi.nlm.nih.gov/pubmed/12917114); PMCID: [PMC7973654](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7973654).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12917114/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  66. Schmidt S, Sollmann WP, Kroppenstedt SN, **Benndorf G**. Tentorial dural arteriovenous fistula presenting with various visual symptoms related to anterior and posterior visual pathway dysfunction: case report. Neurosurgery. 2003 Jul; 53(1):222-6; discussion 226-7. PMID: [12823894](//www.ncbi.nlm.nih.gov/pubmed/12823894).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12823894/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  67. Sarrafzadeh A, Haux D, Sakowitz O, **Benndorf G** , Herzog H, Kuechler I, Unterberg A. Acute focal neurological deficits in aneurysmal subarachnoid hemorrhage: relation of clinical course, CT findings, and metabolite abnormalities monitored with bedside microdialysis. Stroke. 2003 Jun; 34(6):1382-8. PMID: [12750537](//www.ncbi.nlm.nih.gov/pubmed/12750537).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12750537/citedby/) Fields:
+
+Bra BrainVas Vascular Diseases
+
+Translation:HumansCTClinical Trials
+
+  68. Kroppenstedt S, Campi A, Unterberg A, **Benndorf G**. Selective neck occlusion of a large complex aneurysm of the middle cerebral artery trifurcation with the UltraSoft coil. AJNR Am J Neuroradiol. 2002 Jun-Jul; 23(6):965-9. PMID: [12063225](//www.ncbi.nlm.nih.gov/pubmed/12063225); PMCID: [PMC7976900](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7976900).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12063225/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  69. Sakowitz OW, Kiening KL, **Benndorf G** , Lanksch WR, Unterberg AW, Sarrafzadeh AS. Bedside microdialysis: a tool to monitor cerebral metabolism in subarachnoid hemorrhage patients? Crit Care Med. 2002 May; 30(5):1062-70. PMID: [12006804](//www.ncbi.nlm.nih.gov/pubmed/12006804).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12006804/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:HumansPHPublic Health
+
+  70. **Benndorf G** , Schmitt M, von Moers A, Lehmann R, Klingebiel R. Large cerebral vessel occlusive disease in Lyme neuroborreliosis. Neuropediatrics. 2002 Feb; 33(1):37-40. PMID: [11930275](//www.ncbi.nlm.nih.gov/pubmed/11930275).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11930275/citedby/) Fields:
+
+Neu NeurologyPed Pediatrics
+
+Translation:HumansCells
+
+  71. Campi A, **Benndorf G**. Aberrant inferior petrosal sinus: unusual transvenous approach to the cavernous sinus. Neuroradiology. 2002 Feb; 44(2):158-63. PMID: [11942369](//www.ncbi.nlm.nih.gov/pubmed/11942369).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11942369/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  72. Campi A, Schneider GH, Wellnhofer E, Unterberg A, **Benndorf G**. Overlapping stents for treatment of a dissecting carotid artery aneurysm. J Endovasc Ther. 2001 Dec; 8(6):566-70. PMID: [11797969](//www.ncbi.nlm.nih.gov/pubmed/11797969).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11797969/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  73. Herbon U, Sollmann WP, Campi A, **Benndorf G**. Treatment of a ruptured dissecting vertebral artery aneurysm with double stent placement: case report. AJNR Am J Neuroradiol. 2001 Nov-Dec; 22(10):1844-8. PMID: [11733313](//www.ncbi.nlm.nih.gov/pubmed/11733313); PMCID: [PMC7973848](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7973848).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11733313/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  74. Sakowitz OW, Unterberg AW, **Benndorf G** , Valdueza JM, Dreier JP, Einh?upl KM. Migrainous aura starting several minutes after the onset of subarachnoid hemorrhage. Neurology. 2001 Oct 09; 57(7):1344-5. PMID: [11591869](//www.ncbi.nlm.nih.gov/pubmed/11591869).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11591869/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  75. Wolfrum S, Sarrafzadeh AS, Stover JF, Dreier JP, Dendorfer A, **Benndorf G** , Lanksch WR, Unterberg AW, Sakowitz OW. Relation of cerebral energy metabolism and extracellular nitrite and nitrate concentrations in patients after aneurysmal subarachnoid hemorrhage. J Cereb Blood Flow Metab. 2001 Sep; 21(9):1067-76. PMID: [11524611](//www.ncbi.nlm.nih.gov/pubmed/11524611).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11524611/citedby/) Fields:
+
+Bra BrainMet MetabolismVas Vascular Diseases
+
+Translation:HumansCells
+
+  76. Campi A, **Benndorf G** , Filippi M, Reganati P, Martinelli V, Terreni MR. Primary angiitis of the central nervous system: serial MRI of brain and spinal cord. Neuroradiology. 2001 Aug; 43(8):599-607. PMID: [11548164](//www.ncbi.nlm.nih.gov/pubmed/11548164).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11548164/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  77. **Benndorf G** , Bender A, Campi A, Menneking H, Lanksch WR. Treatment of a cavernous sinus dural arteriovenous fistula by deep orbital puncture of the superior ophthalmic vein. Neuroradiology. 2001 Jun; 43(6):499-502. PMID: [11465766](//www.ncbi.nlm.nih.gov/pubmed/11465766).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11465766/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  78. Sakowitz OW, Sarrafzadeh AS, **Benndorf G** , Lanksch WR, Unterberg AW. Role of bedside microdialysis in the diagnosis of cerebral vasospasm following aneurysmal subarachnoid hemorrhage. J Neurosurg. 2001 May; 94(5):740-9. PMID: [11354405](//www.ncbi.nlm.nih.gov/pubmed/11354405).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11354405/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:HumansCTClinical Trials
+
+  79. Campi A, **Benndorf G** , Martinelli V, Terreni MR, Scotti G. Spinal cord involvement in primary angiitis of the central nervous system: a report of two cases. AJNR Am J Neuroradiol. 2001 Mar; 22(3):577-82. PMID: [11237987](//www.ncbi.nlm.nih.gov/pubmed/11237987); PMCID: [PMC7976846](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7976846).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11237987/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  80. Campi A, Hell B, Lund J, Bier J, **Benndorf G** , H?lzle F. Endovascular management of a bleeding mandibular arteriovenous malformation by transfemoral venous embolization with NBCA. AJNR Am J Neuroradiol. 2001 Feb; 22(2):359-62. PMID: [11156783](//www.ncbi.nlm.nih.gov/pubmed/11156783); PMCID: [PMC7973946](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7973946).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11156783/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  81. Sarrafzadeh AS, **Benndorf G** , Lanksch WR, Unterberg AW, Sakowitz OW. On-line microdialysis following aneurysmal subarachnoid hemorrhage. Acta Neurochir Suppl. 2001; 77:141-4. PMID: [11563273](//www.ncbi.nlm.nih.gov/pubmed/11563273).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11563273/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  82. Wellnhofer E, Schneider GH, **Benndorf G**. Doubled stenting for effective occlusion of a dissecting carotid artery aneurysm. Interv Neuroradiol. 2000 Dec 22; 6(4):343-8. PMID: [20667215](//www.ncbi.nlm.nih.gov/pubmed/20667215); PMCID: [PMC3679710](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3679710).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20667215/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+  83. Bender A, Lehmann R, Lanksch W, **Benndorf G**. Transvenous occlusion of dural cavernous sinus fistulas through the thrombosed inferior petrosal sinus: report of four cases and review of the literature. Surg Neurol. 2000 Jul; 54(1):42-54. PMID: [11024506](//www.ncbi.nlm.nih.gov/pubmed/11024506).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11024506/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  84. **Benndorf G** , Assmann U, Bender A, Lehmann TN, Lanksch WR. Vertebral arteriovenous fistula associated with neurofibromatosis type I misdiagnosed as a giant aneurysm. Interv Neuroradiol. 2000 Mar 30; 6(1):67-74. PMID: [20667184](//www.ncbi.nlm.nih.gov/pubmed/20667184); PMCID: [PMC3679581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3679581).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20667184/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+  85. Warschewske G, **Benndorf G** , Lehmann TH, Lanksch W. Spontaneous thrombosis of an intracranial giant aneurysm. Interv Neuroradiol. 1999 Dec 20; 5(4):327-32. PMID: [20670531](//www.ncbi.nlm.nih.gov/pubmed/20670531).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20670531/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+  86. Warschewske G, **Benndorf G**. Letter to Editor. Separate Origin of the Left Internal and External Carotid Artery from the Aortic Arch associated with Contralateral Intracranial Giant Aneurysm. Interv Neuroradiol. 1999 Sep 30; 5(3):261-3. PMID: [20670520](//www.ncbi.nlm.nih.gov/pubmed/20670520).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20670520/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+  87. **Benndorf G** , Lehmann TN, Lanksch WR. Treatment of external carotid artery fistula by percutaneous venous approach. Interv Neuroradiol. 1999 Sep 30; 5(3):251-6. PMID: [20670518](//www.ncbi.nlm.nih.gov/pubmed/20670518).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20670518/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+  88. **Benndorf G** , Liebig T, Felix R, Lemke AJ. Anomalous origin of the right vertebral artery: review of the literature and case report of right vertebral artery origin distal to the left subclavian artery. AJNR Am J Neuroradiol. 1999 Aug; 20(7):1318-21. PMID: [10472992](//www.ncbi.nlm.nih.gov/pubmed/10472992); PMCID: [PMC7055987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7055987).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10472992/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  89. **Benndorf G** , Lehmann TN, Molsen HP, Lanksch W, Felix R. Puncture of the superficial sylvian vein for embolisation of cavernous dural arteriovenous fistula. Interv Neuroradiol. 1999 Jun 30; 5(2):167-70. PMID: [20670507](//www.ncbi.nlm.nih.gov/pubmed/20670507); PMCID: [PMC4268683](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4268683).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20670507/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+  90. **Benndorf G**. Erratum. Endovascular management of a major vascular complication after orthognatic surgery. Interv Neuroradiol. 1999 Mar 30; 5(1):77-80. PMID: [20670496](//www.ncbi.nlm.nih.gov/pubmed/20670496); PMCID: [PMC4268670](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4268670).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+  91. **Benndorf G**. Endovascular management of a major vascular complication after orthognatic surgery. Interv Neuroradiol. 1998 Dec 20; 4(4):307-10. PMID: [20673427](//www.ncbi.nlm.nih.gov/pubmed/20673427).
+
+Citations:  Fields:
+
+Neu NeurologyRad Radiology
+
+  92. **Benndorf G** , Singel S, Proest G, Lanksch W, Felix R. The Doppler guide wire: clinical applications in neuroendovascular treatment. Neuroradiology. 1997 Apr; 39(4):286-91. PMID: [9144679](//www.ncbi.nlm.nih.gov/pubmed/9144679).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9144679/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  93. Beier J, **Benndorf G** , Schedel H, Ricke J, Fleck E, Bier J, Felix R, Liebig T. [Spiral CT and color-coded three-dimensional surface reconstruction in the diagnosis of mandibulofacial arteriovenous malformation]. Rofo. 1996 Dec; 165(6):595-8. PMID: [9026107](//www.ncbi.nlm.nih.gov/pubmed/9026107).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingNuc Nuclear MedicineRad Radiology
+
+Translation:Humans
+
+  94. **Benndorf G** , Wellnhofer E, Lanksch W, Felix R. Intraaneurysmal flow: evaluation with Doppler guidewires. AJNR Am J Neuroradiol. 1996 Aug; 17(7):1333-7. PMID: [8871720](//www.ncbi.nlm.nih.gov/pubmed/8871720); PMCID: [PMC8338536](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8338536).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8871720/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  95. Schedel H, **Benndorf G** , Beier J, Haberl H, Felix R, Wicht L. [3-dimensional post-myelographic CT reconstruction in diagnosis and therapy planning of spinal dysraphism]. Aktuelle Radiol. 1996 May; 6(3):144-7. PMID: [8679738](//www.ncbi.nlm.nih.gov/pubmed/8679738).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  96. **Benndorf G** , Lehmann T, Schneider GH, Podrabsky P, Sander B, Siekmann R, Stoltenburg G, Felix R, Hierholzer J, S?rensen R. Epidural lipomatosis: case report and literature review. Neuroradiology. 1996 May; 38(4):343-8. PMID: [8738093](//www.ncbi.nlm.nih.gov/pubmed/8738093).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8738093/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Humans
+
+  97. Sander B, **Benndorf G** , Balzer J, Boerschel MF, Hosten N, Sprung C, Ricke J, Felix R, Lanksch WR, Lemke AJ. [Megadolichobasilar artery as a rare cause of hydrocephalus internus: synopsis of modern imaging methods]. Aktuelle Radiol. 1995 Sep; 5(5):310-4. PMID: [7495894](//www.ncbi.nlm.nih.gov/pubmed/7495894).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7495894/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 97 publications over 27 distinct years, with a maximum of
+12 publications in
+2004](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|12&cht=bvs&chd=t:0,8,33,8,8,50,25,83,33,25,100,33,58,17,42,25,25,8,8,8,17,0,0,0,17,25,17,25,33,67,8&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1995| 1  
+1996| 4  
+1997| 1  
+1998| 1  
+1999| 6  
+2000| 3  
+2001| 10  
+2002| 4  
+2003| 3  
+2004| 12  
+2005| 4  
+2006| 7  
+2007| 2  
+2008| 5  
+2009| 3  
+2010| 3  
+2011| 1  
+2012| 1  
+2013| 1  
+2014| 2  
+2018| 2  
+2019| 3  
+2020| 2  
+2021| 3  
+2022| 4  
+2023| 8  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BENNDORF's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (303)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Intracranial Aneurysm](https://profiles.viictr.org/profile/251941)
+  * [Central Nervous System Vascular Malformations](https://profiles.viictr.org/profile/240252)
+  * [Embolization, Therapeutic](https://profiles.viictr.org/profile/264238)
+  * [Stents](https://profiles.viictr.org/profile/240546)
+  * [Endovascular Procedures](https://profiles.viictr.org/profile/27545725)
+
+[Explore](https://profiles.viictr.org/profile/267773/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [YEVICH, STEVEN M](https://profiles.viictr.org/profile/18883230)
+  * [GOPINATH, SHANKAR](https://profiles.viictr.org/profile/266943)
+  * [SCOTT, BRADFORD](https://profiles.viictr.org/profile/269400)
+  * [CODY, DIANNA](https://profiles.viictr.org/profile/12583746)
+
+[Explore](https://profiles.viictr.org/profile/267773/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KRAJCER, ZVONIMIR](https://profiles.viictr.org/profile/266698)
+  * [COSELLI, JOSEPH](https://profiles.viictr.org/profile/267370)
+  * [LIN, PETER](https://profiles.viictr.org/profile/269962)
+  * [VAUTHEY, JEAN NICOLAS](https://profiles.viictr.org/profile/12582959)
+  * [LEE, ANDREW](https://profiles.viictr.org/profile/266512)
+
+[Explore](https://profiles.viictr.org/profile/267773/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AYYAPPAN, ANOOP](https://profiles.viictr.org/profile/35589926)
+  * [DORFMAN, SCOTT](https://profiles.viictr.org/profile/269726)
+  * [HORN JR., GARY](https://profiles.viictr.org/profile/28999013)
+  * [ILLNER, ANNA](https://profiles.viictr.org/profile/265624)
+  * [SHASTRI, RAVI](https://profiles.viictr.org/profile/29494224)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqNFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [GLAZE, SHARON](https://profiles.viictr.org/profile/266426)
+  * [HANIF, MUZAMMIL](https://profiles.viictr.org/profile/269293)
+  * [LENGE DE ROSEN, VERONICA](https://profiles.viictr.org/profile/269109)
+  * [MORON, FANNY](https://profiles.viictr.org/profile/270219)
+  * [WENDT, JULIE](https://profiles.viictr.org/profile/267231)
+
+_
+

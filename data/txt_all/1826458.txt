@@ -1,0 +1,302 @@
+## NELE HAELTERMAN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=OKMx5GnTJZnVRIzgrn7GPw%3d%3d&rnd=e285d33c-8f3f-4f2d-b101-14cc135d6381)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=1826458)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Song IW, Washington M, Leynes C, Hsu J, Rayavara K, [Bae Y](https://profiles.viictr.org/profile/3009541), **Haelterman N** , Chen Y, Jiang MM, Drelich A, Tat V, [Lanza DG](https://profiles.viictr.org/profile/3009682), [Lorenzo I](https://profiles.viictr.org/profile/268053), [Heaney JD](https://profiles.viictr.org/profile/268694), Tseng CK, Lee B, [Marom R](https://profiles.viictr.org/profile/14348371). Generation of a humanized mAce2 and a conditional hACE2 mouse models permissive to SARS-COV-2 infection. Mamm Genome. 2024 Jun; 35(2):113-121. PMID: [38488938](//www.ncbi.nlm.nih.gov/pubmed/38488938).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  2. Jadavji NM, **Haelterman NA** , Sud R, Antonietti A. Editorial: Reproducibility in neuroscience. Front Integr Neurosci. 2023; 17:1271818. PMID: [37727652](//www.ncbi.nlm.nih.gov/pubmed/37727652); PMCID: [PMC10505729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10505729).
+
+Citations:
+
+  3. Marcogliese PC, Deal SL, [Andrews J](https://profiles.viictr.org/profile/22220433), Harnish JM, Bhavana VH, Graves HK, Jangam S, Luo X, [Liu N](https://profiles.viictr.org/profile/15317911), Bei D, Chao YH, Hull B, Lee PT, Pan H, Bhadane P, Huang MC, Longley CM, [Chao HT](https://profiles.viictr.org/profile/23478929), Chung HL, **Haelterman NA** , [Kanca O](https://profiles.viictr.org/profile/14348445), Manivannan SN, Rossetti LZ, German RJ, [Gerard A](https://profiles.viictr.org/profile/34973639), Schwaibold EMC, Guerrini R, Vetro A, England E, [Murali CN](https://profiles.viictr.org/profile/24844925), Barakat TS, van Dooren MF, Wilke M, van Slegtenhorst M, Sabatier I, Brownstein CA, Madden JA, Agrawal PB, Brugger M, Leiz S, Delanne J, Sukarova-Angelovska E, Trajkova S, Rosenhahn E, Strehlow V, Platzer K, Pavinato L, Rosenfeld JA, [Marom R](https://profiles.viictr.org/profile/14348371), [Wangler MF](https://profiles.viictr.org/profile/268429), [Yamamoto S](https://profiles.viictr.org/profile/3009536), Fehr S, Lesca G, Chatron N, Keren B, Courtin T, Perrin L, Roser T, Mau-Them FT, Keller R, Brusco A. Drosophila functional screening of de novo variants in autism uncovers damaging variants and facilitates discovery of rare neurodevelopmental diseases. Cell Rep. 2022 03 15; 38(11):110517. PMID: [35294868](//www.ncbi.nlm.nih.gov/pubmed/35294868); PMCID: [PMC8983390](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8983390).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35294868/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimals
+
+  4. Grol MW, **Haelterman NA** , Lim J, Munivez EM, Archer M, Hudson DM, Tufa SF, Keene DR, [Lei K](https://profiles.viictr.org/profile/31228042), [Park D](https://profiles.viictr.org/profile/3939890), Kuzawa CD, Ambrose CG, Eyre DR, [Lee BH](https://profiles.viictr.org/profile/267019). Tendon and motor phenotypes in the Crtap-/- mouse model of recessive osteogenesis imperfecta. Elife. 2021 05 26; 10. PMID: [34036937](//www.ncbi.nlm.nih.gov/pubmed/34036937); PMCID: [PMC8186905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8186905).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  5. **Haelterman N** , Lim J. Sensing the load. Elife. 2019 10 07; 8. PMID: [31588900](//www.ncbi.nlm.nih.gov/pubmed/31588900); PMCID: [PMC6779465](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6779465).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31588900/citedby/) Fields:
+
+Bio Biology
+
+Translation:Cells
+
+  6. Tan KL, **Haelterman NA** , Kwartler CS, Regalado ES, Lee PT, Nagarkar-Jaiswal S, Guo DC, Duraine L, [Wangler MF](https://profiles.viictr.org/profile/268429), University of Washington Center for Mendelian Genomics, Bamshad MJ, Nickerson DA, [Lin G](https://profiles.viictr.org/profile/3010585), Milewicz DM, [Bellen HJ](https://profiles.viictr.org/profile/268278). Ari-1 Regulates Myonuclear Organization Together with Parkin and Is Associated with Aortic Aneurysms. Dev Cell. 2018 04 23; 45(2):226-244.e8. PMID: [29689197](//www.ncbi.nlm.nih.gov/pubmed/29689197); PMCID: [PMC5920516](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5920516).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29689197/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  7. Jaiswal M, **Haelterman NA** , Sandoval H, Xiong B, Donti T, Kalsotra A, [Yamamoto S](https://profiles.viictr.org/profile/3009536), Cooper TA, Graham BH, [Bellen HJ](https://profiles.viictr.org/profile/268278). Correction: Impaired Mitochondrial Energy Production Causes Light-Induced Photoreceptor Degeneration Independent of Oxidative Stress. PLoS Biol. 2018 03; 16(3):e1002622. PMID: [29509758](//www.ncbi.nlm.nih.gov/pubmed/29509758); PMCID: [PMC5839534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5839534).
+
+Citations:  Fields:
+
+Bio Biology
+
+  8. Yoon WH, Sandoval H, Nagarkar-Jaiswal S, Jaiswal M, [Yamamoto S](https://profiles.viictr.org/profile/3009536), **Haelterman NA** , [Putluri N](https://profiles.viictr.org/profile/269361), Putluri V, [Sreekumar A](https://profiles.viictr.org/profile/266636), Tos T, Aksoy A, Donti T, Graham BH, Ohno M, Nishi E, Hunter J, [Muzny DM](https://profiles.viictr.org/profile/268028), Carmichael J, Shen J, Arboleda VA, Nelson SF, [Wangler MF](https://profiles.viictr.org/profile/268429), Karaca E, [Lupski JR](https://profiles.viictr.org/profile/268099), [Bellen HJ](https://profiles.viictr.org/profile/268278). Loss of Nardilysin, a Mitochondrial Co-chaperone for a-Ketoglutarate Dehydrogenase, Promotes mTORC1 Activation and Neurodegeneration. Neuron. 2017 Jan 04; 93(1):115-131. PMID: [28017472](//www.ncbi.nlm.nih.gov/pubmed/28017472); PMCID: [PMC5242142](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5242142).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28017472/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  9. Chen K, [Lin G](https://profiles.viictr.org/profile/3010585), **Haelterman NA** , Ho TS, Li T, Li Z, Duraine L, Graham BH, Jaiswal M, [Yamamoto S](https://profiles.viictr.org/profile/3009536), [Rasband MN](https://profiles.viictr.org/profile/265764), [Bellen HJ](https://profiles.viictr.org/profile/268278). Loss of Frataxin induces iron toxicity, sphingolipid synthesis, and Pdk1/Mef2 activation, leading to neurodegeneration. Elife. 2016 06 25; 5. PMID: [27343351](//www.ncbi.nlm.nih.gov/pubmed/27343351); PMCID: [PMC4956409](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4956409).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27343351/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  10. Wang F, Jiang L, Chen Y, **Haelterman NA** , [Bellen HJ](https://profiles.viictr.org/profile/268278), Chen R. FlyVar: a database for genetic variation in Drosophila melanogaster. Database (Oxford). 2015; 2015. PMID: [26289428](//www.ncbi.nlm.nih.gov/pubmed/26289428); PMCID: [PMC4541374](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4541374).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26289428/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Animals
+
+  11. Jaiswal M, **Haelterman NA** , Sandoval H, Xiong B, Donti T, Kalsotra A, [Yamamoto S](https://profiles.viictr.org/profile/3009536), [Cooper TA](https://profiles.viictr.org/profile/269742), Graham BH, [Bellen HJ](https://profiles.viictr.org/profile/268278). Impaired Mitochondrial Energy Production Causes Light-Induced Photoreceptor Degeneration Independent of Oxidative Stress. PLoS Biol. 2015 Jul; 13(7):e1002197. PMID: [26176594](//www.ncbi.nlm.nih.gov/pubmed/26176594); PMCID: [PMC4503542](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4503542).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26176594/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  12. **Haelterman NA** , Jiang L, Li Y, Bayat V, Sandoval H, Ugur B, Tan KL, Zhang K, Bei D, Xiong B, Charng WL, Busby T, Jawaid A, David G, Jaiswal M, [Venken KJ](https://profiles.viictr.org/profile/3010184), [Yamamoto S](https://profiles.viictr.org/profile/3009536), [Chen R](https://profiles.viictr.org/profile/266790), [Bellen HJ](https://profiles.viictr.org/profile/268278). Large-scale identification of chemically induced mutations in Drosophila melanogaster. Genome Res. 2014 Oct; 24(10):1707-18. PMID: [25258387](//www.ncbi.nlm.nih.gov/pubmed/25258387); PMCID: [PMC4199363](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4199363).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25258387/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  13. [Yamamoto S](https://profiles.viictr.org/profile/3009536), Jaiswal M, Charng WL, Gambin T, Karaca E, Mirzaa G, Wiszniewski W, Sandoval H, **Haelterman NA** , Xiong B, Zhang K, Bayat V, David G, Li T, Chen K, Gala U, Harel T, [Pehlivan D](https://profiles.viictr.org/profile/27841639), Penney S, Vissers LELM, de Ligt J, Jhangiani SN, Xie Y, Tsang SH, Parman Y, Sivaci M, Battaloglu E, [Muzny D](https://profiles.viictr.org/profile/268028), Wan YW, [Liu Z](https://profiles.viictr.org/profile/266153), Lin-Moore AT, Clark RD, Curry CJ, Link N, Schulze KL, [Boerwinkle E](https://profiles.viictr.org/profile/267689), Dobyns WB, Allikmets R, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Chen R](https://profiles.viictr.org/profile/266790), [Lupski JR](https://profiles.viictr.org/profile/268099), [Wangler MF](https://profiles.viictr.org/profile/268429), [Bellen HJ](https://profiles.viictr.org/profile/268278). A drosophila genetic resource of mutants to study mechanisms underlying human genetic diseases. Cell. 2014 Sep 25; 159(1):200-214. PMID: [25259927](//www.ncbi.nlm.nih.gov/pubmed/25259927); PMCID: [PMC4298142](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4298142).
+
+Citations:
+[168](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25259927/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  14. **Haelterman NA** , Yoon WH, Sandoval H, Jaiswal M, [Shulman JM](https://profiles.viictr.org/profile/267488), [Bellen HJ](https://profiles.viictr.org/profile/268278). A mitocentric view of Parkinson's disease. Annu Rev Neurosci. 2014; 37:137-59. PMID: [24821430](//www.ncbi.nlm.nih.gov/pubmed/24821430); PMCID: [PMC4659514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4659514).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24821430/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  15. Jusiak B, Abulimiti A, **Haelterman N** , [Chen R](https://profiles.viictr.org/profile/266790), [Mardon G](https://profiles.viictr.org/profile/268168). MAPK target sites of eyes absent are not required for eye development or survival in Drosophila. PLoS One. 2012; 7(12):e50776. PMID: [23251383](//www.ncbi.nlm.nih.gov/pubmed/23251383); PMCID: [PMC3520925](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3520925).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23251383/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  16. [Venken KJ](https://profiles.viictr.org/profile/3010184), Schulze KL, **Haelterman NA** , Pan H, He Y, Evans-Holm M, Carlson JW, Levis RW, Spradling AC, Hoskins RA, [Bellen HJ](https://profiles.viictr.org/profile/268278). MiMIC: a highly versatile transposon insertion resource for engineering Drosophila melanogaster genes. Nat Methods. 2011 Sep; 8(9):737-43. PMID: [21985007](//www.ncbi.nlm.nih.gov/pubmed/21985007); PMCID: [PMC3191940](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3191940).
+
+Citations:
+[319](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21985007/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 16 publications over 11 distinct years, with a maximum of
+3 publications in
+2014](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,33,0,100,67,67,0,67,33,0,33,33,33,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2011| 1  
+2012| 1  
+2014| 3  
+2015| 2  
+2016| 2  
+2018| 2  
+2019| 1  
+2021| 1  
+2022| 1  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HAELTERMAN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (119)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Mechanotransduction, Cellular](https://profiles.viictr.org/profile/242362)
+  * [Osteogenesis](https://profiles.viictr.org/profile/247417)
+  * [Drosophila melanogaster](https://profiles.viictr.org/profile/246028)
+  * [Mitochondria](https://profiles.viictr.org/profile/244812)
+  * [Drosophila Proteins](https://profiles.viictr.org/profile/254034)
+
+[Explore](https://profiles.viictr.org/profile/1826458/198)
+
+_
+
+Co-Authors (32)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [YAMAMOTO, SHINYA](https://profiles.viictr.org/profile/3009536)
+  * [MAROM, RONIT](https://profiles.viictr.org/profile/14348371)
+  * [VENKEN, KOEN](https://profiles.viictr.org/profile/3010184)
+  * [LEE, BRENDAN](https://profiles.viictr.org/profile/267019)
+
+[Explore](https://profiles.viictr.org/profile/1826458/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+  * [DAVIS, RONALD](https://profiles.viictr.org/profile/268115)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [YAMAMOTO, SHINYA](https://profiles.viictr.org/profile/3009536)
+
+[Explore](https://profiles.viictr.org/profile/1826458/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [KLISCH, TIEMO](https://profiles.viictr.org/profile/265995)
+  * [LALANI, SEEMA](https://profiles.viictr.org/profile/269910)
+  * [LORENZO, ISABEL](https://profiles.viictr.org/profile/268053)
+  * [NAGAMANI, SANDESH](https://profiles.viictr.org/profile/265521)
+  * [SCOTT, DARYL](https://profiles.viictr.org/profile/269153)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BAE, YANGJIN](https://profiles.viictr.org/profile/3009541)
+  * [HAN, YI](https://profiles.viictr.org/profile/269818)
+  * [KATSONIS, PANAGIOTIS](https://profiles.viictr.org/profile/3009828)
+  * [KIM, JI-YOEN](https://profiles.viictr.org/profile/3009859)
+  * [SMITH, JANICE](https://profiles.viictr.org/profile/268567)
+
+_
+

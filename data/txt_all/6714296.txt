@@ -1,0 +1,286 @@
+## NABIL MANSOUR
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 7200 CAMBRIDGE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=GKoy6GmJDYr7VYD48lvAKbnCIhWf&rnd=02be75fc-8524-47b9-92b6-7d3c68525601)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=6714296)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Hicheri C, Azimuddin AM, Kortum A, Bailey J, Tang Y, Schwarz RA, [Rosen D](https://profiles.viictr.org/profile/269898), [Jain S](https://profiles.viictr.org/profile/9596410), **Mansour NM** , [Groth S](https://profiles.viictr.org/profile/14348380), Vasavada S, Rao A, Maliga A, Gallego L, Carns J, [Anandasabapathy S](https://profiles.viictr.org/profile/5866082), Richards-Kortum R. Design and Evaluation of ScanCap: A Low-Cost, Reusable Tethered Capsule Endoscope with Blue-Green Illumination Imaging for Unsedated Screening and Early Detection of Barrett's Esophagus. Bioengineering (Basel). 2024 May 31; 11(6). PMID: [38927792](//www.ncbi.nlm.nih.gov/pubmed/38927792); PMCID: [PMC11200367](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11200367).
+
+Citations:
+
+  2. Haydel JM, Xu AA, **Mansour NM**. High volume, low volume, or pills, which way should we go? a review of bowel preparation for colonoscopy. Curr Opin Gastroenterol. 2024 01 01; 40(1):21-26. PMID: [38078609](//www.ncbi.nlm.nih.gov/pubmed/38078609).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  3. **Mansour NM**. Artificial Intelligence in Colonoscopy. Curr Gastroenterol Rep. 2023 Jun; 25(6):122-129. PMID: [37129831](//www.ncbi.nlm.nih.gov/pubmed/37129831).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  4. Nguyen Wenker T, Natarajan Y, Caskey K, Novoa F, **Mansour N** , Pham HA, [Hou JK](https://profiles.viictr.org/profile/270204), [El-Serag HB](https://profiles.viictr.org/profile/269175), [Thrift AP](https://profiles.viictr.org/profile/9909036). Using Natural Language Processing to Automatically Identify Dysplasia in Pathology Reports for Patients With Barrett's Esophagus. Clin Gastroenterol Hepatol. 2023 05; 21(5):1198-1204. PMID: [36115659](//www.ncbi.nlm.nih.gov/pubmed/36115659); PMCID: [PMC10014472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10014472).
+
+Citations:
+
+  5. Mori Y, Wang P, L?berg M, Misawa M, Repici A, Spadaccini M, Correale L, Antonelli G, Yu H, Gong D, Ishiyama M, Kudo SE, Kamba S, Sumiyama K, Saito Y, Nishino H, Liu P, Glissen Brown JR, **Mansour NM** , Gross SA, Kalager M, Bretthauer M, Rex DK, Sharma P, Berzin TM, Hassan C. Impact of Artificial Intelligence on Colonoscopy Surveillance After Polyp Removal: A Pooled Analysis of Randomized Trials. Clin Gastroenterol Hepatol. 2023 04; 21(4):949-959.e2. PMID: [36038128](//www.ncbi.nlm.nih.gov/pubmed/36038128).
+
+Citations:
+
+  6. Bahdi F, Katti CC, **Mansour N** , Gagneja H, [Anandasabapathy S](https://profiles.viictr.org/profile/5866082), [Othman MO](https://profiles.viictr.org/profile/8759795). Outcomes of endoscopic submucosal dissection (ESD) plus radiofrequency ablation (RFA) for nodular Barrett's esophagus. Scand J Gastroenterol. 2023 Feb; 58(2):123-132. PMID: [35968576](//www.ncbi.nlm.nih.gov/pubmed/35968576).
+
+Citations:
+
+  7. Mathew C, Gomez Cifuentes JD, **Mansour NM**. Curious Colonoscopy Findings in a Patient With Autosomal Dominant Polycystic Kidney Disease. Gastroenterology. 2022 05; 162(6):1595-1596. PMID: [35149027](//www.ncbi.nlm.nih.gov/pubmed/35149027).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  8. Glissen Brown JR, **Mansour NM** , Wang P, Chuchuca MA, Minchenberg SB, Chandnani M, Liu L, Gross SA, Sengupta N, Berzin TM. Deep Learning Computer-aided Polyp Detection Reduces Adenoma Miss Rate: A United States Multi-center Randomized Tandem Colonoscopy Study (CADeT-CS Trial). Clin Gastroenterol Hepatol. 2022 07; 20(7):1499-1507.e4. PMID: [34530161](//www.ncbi.nlm.nih.gov/pubmed/34530161).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34530161/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  9. Jamali T, Choi K, Tasleem S, **Mansour N**. Endoscopic patterns of the blebs in blue rubber bleb nevus syndrome. Gastrointest Endosc. 2021 05; 93(5):1181-1182. PMID: [33421495](//www.ncbi.nlm.nih.gov/pubmed/33421495).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingGas GastroenterologyThe Therapeutics
+
+Translation:Humans
+
+  10. Sharara AI, El Mokahal A, Harb AH, Khalaf N, Sarkis FS, M El-Halabi M, **Mansour NM** , Malli A, Habib R. Risk prediction rule for advanced neoplasia on screening colonoscopy for average-risk individuals. World J Gastroenterol. 2020 Oct 07; 26(37):5705-5717. PMID: [33088163](//www.ncbi.nlm.nih.gov/pubmed/33088163); PMCID: [PMC7545395](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7545395).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33088163/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansPHPublic Health
+
+  11. [Tan MC](https://profiles.viictr.org/profile/3010245), **Mansour N** , [White DL](https://profiles.viictr.org/profile/268770), Sisson A, [El-Serag HB](https://profiles.viictr.org/profile/269175), [Thrift AP](https://profiles.viictr.org/profile/9909036). Systematic review with meta-analysis: prevalence of prior and concurrent Barrett's oesophagus in oesophageal adenocarcinoma patients. Aliment Pharmacol Ther. 2020 07; 52(1):20-36. PMID: [32452599](//www.ncbi.nlm.nih.gov/pubmed/32452599); PMCID: [PMC7293564](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7293564).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32452599/citedby/) Fields:
+
+Dru Drug TherapyGas GastroenterologyPha Pharmacology
+
+Translation:Humans
+
+  12. Millien VO, **Mansour NM**. Bowel Preparation for Colonoscopy in 2020: A Look at the Past, Present, and Future. Curr Gastroenterol Rep. 2020 May 06; 22(6):28. PMID: [32377915](//www.ncbi.nlm.nih.gov/pubmed/32377915).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32377915/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  13. Tang Y, Kortum A, Vohra I, [Othman M](https://profiles.viictr.org/profile/8759795), Dhingra S, **Mansour N** , Carns J, [Anandasabapathy S](https://profiles.viictr.org/profile/5866082), Richards-Kortum R. Improving nuclear morphometry imaging with real-time and low-cost line-scanning confocal microendoscope. Opt Lett. 2019 Feb 01; 44(3):654-657. PMID: [30702702](//www.ncbi.nlm.nih.gov/pubmed/30702702); PMCID: [PMC6644037](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6644037).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30702702/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  14. **Mansour NM** , [Anandasabapathy S](https://profiles.viictr.org/profile/5866082). Lugol's Chromoendoscopy in the?Screening of Esophageal Squamous?Cell Carcinoma: Time?to?Take a Closer Look? Clin Gastroenterol Hepatol. 2018 10; 16(10):1562-1563. PMID: [29857149](//www.ncbi.nlm.nih.gov/pubmed/29857149).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29857149/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  15. **Mansour NM** , [El-Serag HB](https://profiles.viictr.org/profile/269175), [Anandasabapathy S](https://profiles.viictr.org/profile/5866082). Barrett's esophagus: best practices for treatment and post-treatment surveillance. Ann Cardiothorac Surg. 2017 Mar; 6(2):75-87. PMID: [28446996](//www.ncbi.nlm.nih.gov/pubmed/28446996); PMCID: [PMC5387154](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5387154).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28446996/citedby/)
+
+  16. **Mansour NM** , [Groth SS](https://profiles.viictr.org/profile/14348380), [Anandasabapathy S](https://profiles.viictr.org/profile/5866082). Esophageal Adenocarcinoma: Screening, Surveillance, and Management. Annu Rev Med. 2017 01 14; 68:213-227. PMID: [27618753](//www.ncbi.nlm.nih.gov/pubmed/27618753).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27618753/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  17. Sharara AI, **Mansour NM** , El-Hakam M, Ghaith O, El Halabi M. Duration of pain is correlated with elevation in liver function tests in patients with symptomatic choledocholithiasis. Clin Gastroenterol Hepatol. 2010 Dec; 8(12):1077-82. PMID: [20831901](//www.ncbi.nlm.nih.gov/pubmed/20831901).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20831901/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  18. Sharara AI, El Zahabi L, Maasri K, Hashash JG, **Mansour N** , Skoury A, Kanafani Z, Bou-Khalil P, Husari A. Persistent snoring under conscious sedation during colonoscopy is a predictor of obstructive sleep apnea. Gastrointest Endosc. 2010 Jun; 71(7):1224-30. PMID: [20304398](//www.ncbi.nlm.nih.gov/pubmed/20304398).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20304398/citedby/) Fields:
+
+Dia Diagnostic ImagingGas GastroenterologyThe Therapeutics
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 18 publications over 10 distinct years, with a maximum of
+4 publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,25,25,25,25,75,50,100,50,25&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2010| 2  
+2016| 1  
+2017| 1  
+2018| 1  
+2019| 1  
+2020| 3  
+2021| 2  
+2022| 4  
+2023| 2  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MANSOUR's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (74)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Cathartics](https://profiles.viictr.org/profile/249511)
+  * [Barrett Esophagus](https://profiles.viictr.org/profile/260645)
+  * [Colonoscopy](https://profiles.viictr.org/profile/244755)
+  * [Colonic Polyps](https://profiles.viictr.org/profile/254945)
+  * [Colorectal Neoplasms](https://profiles.viictr.org/profile/253332)
+
+[Explore](https://profiles.viictr.org/profile/6714296/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ANANDASABAPATHY, SHARMILA](https://profiles.viictr.org/profile/5866082)
+  * [THRIFT, AARON](https://profiles.viictr.org/profile/9909036)
+  * [OTHMAN, MOHAMED](https://profiles.viictr.org/profile/8759795)
+  * [EL-SERAG, HASHEM](https://profiles.viictr.org/profile/269175)
+  * [GROTH, SHAWN](https://profiles.viictr.org/profile/14348380)
+
+[Explore](https://profiles.viictr.org/profile/6714296/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [AJANI, JAFFER A](https://profiles.viictr.org/profile/12582892)
+  * [EL-SERAG, HASHEM](https://profiles.viictr.org/profile/269175)
+  * [THRIFT, AARON](https://profiles.viictr.org/profile/9909036)
+  * [VAUTHEY, JEAN NICOLAS](https://profiles.viictr.org/profile/12582959)
+  * [RUGGE, MASSIMO](https://profiles.viictr.org/profile/268253)
+
+[Explore](https://profiles.viictr.org/profile/6714296/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHO, CHARLES](https://profiles.viictr.org/profile/34584593)
+  * [KHALAF, NATALIA IMAD](https://profiles.viictr.org/profile/30445135)
+  * [LEE, HOWARD](https://profiles.viictr.org/profile/35589922)
+  * [OPEKUN, ANTONE](https://profiles.viictr.org/profile/267804)
+  * [VIERLING, JOHN](https://profiles.viictr.org/profile/267895)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,249 @@
+## CECILIA VALDES
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Obstetrics & Gynecology  
+Address|  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Nb8m4GnDJZjVRIzgrn7GPw%3d%3d&rnd=cc1b9c24-af75-4c22-8cc9-bd8aea786c5f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268221)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Yang L, Peavey M, Kaskar K, [Chappell N](https://profiles.viictr.org/profile/13865629), Zhu L, Devlin D, **Valdes C** , Schutt A, Woodard T, Zarutskie P, Cochran R, [Gibbons WE](https://profiles.viictr.org/profile/265879). Development of a dynamic machine learning algorithm to predict clinical pregnancy and live birth rate with embryo morphokinetics. F S Rep. 2022 Jun; 3(2):116-123. PMID: [35789724](//www.ncbi.nlm.nih.gov/pubmed/35789724); PMCID: [PMC9250114](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9250114).
+
+Citations:
+
+  2. Hoffman JR, Delaney MA, **Valdes CT** , Herrera D, Washington SL, Aghajanova L, Smith JF, Herndon CN. Disparities in fertility knowledge among women from low and high resource settings presenting for fertility care in two United States metropolitan centers. Fertil Res Pract. 2020; 6:15. PMID: [32821417](//www.ncbi.nlm.nih.gov/pubmed/32821417); PMCID: [PMC7429753](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7429753).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32821417/citedby/)
+
+  3. Schutt AK, [Blesson CS](https://profiles.viictr.org/profile/3010554), Hsu JW, **Valdes CT** , [Gibbons WE](https://profiles.viictr.org/profile/265879), [Jahoor F](https://profiles.viictr.org/profile/268146), [Yallampalli C](https://profiles.viictr.org/profile/2560322). Preovulatory exposure to a protein-restricted diet disrupts amino acid kinetics and alters mitochondrial structure and function in the rat oocyte and is partially rescued by folic acid. Reprod Biol Endocrinol. 2019 Jan 17; 17(1):12. PMID: [30654812](//www.ncbi.nlm.nih.gov/pubmed/30654812); PMCID: [PMC6337842](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6337842).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30654812/citedby/) Fields:
+
+End EndocrinologyRep Reproductive Medicine
+
+Translation:AnimalsCells
+
+  4. Peavey MC, Reynolds CL, Szwarc MM, [Gibbons WE](https://profiles.viictr.org/profile/265879), **Valdes CT** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Lydon JP](https://profiles.viictr.org/profile/269737). A Novel Use of Three-dimensional High-frequency Ultrasonography for Early Pregnancy Characterization in the Mouse. J Vis Exp. 2017 10 24; (128). PMID: [29155779](//www.ncbi.nlm.nih.gov/pubmed/29155779); PMCID: [PMC5695270](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5695270).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29155779/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Animals
+
+  5. Delaney MA, Wan YW, Kim GE, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Taylor MG](https://profiles.viictr.org/profile/37935572), [Masand R](https://profiles.viictr.org/profile/268666), Park A, **Valdes C** , [Gibbons W](https://profiles.viictr.org/profile/265879), [Liu Z](https://profiles.viictr.org/profile/266153), Anderson ML. A Role for Progesterone-Regulated sFRP4 Expression in Uterine Leiomyomas. J Clin Endocrinol Metab. 2017 09 01; 102(9):3316-3326. PMID: [28637297](//www.ncbi.nlm.nih.gov/pubmed/28637297); PMCID: [PMC5587057](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5587057).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28637297/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:HumansCells
+
+  6. **Valdes CT** , Schutt A, [Simon C](https://profiles.viictr.org/profile/8556646). Implantation failure of endometrial origin: it is not pathology, but our failure to synchronize the developing embryo with a receptive endometrium. Fertil Steril. 2017 07; 108(1):15-18. PMID: [28668151](//www.ncbi.nlm.nih.gov/pubmed/28668151).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28668151/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansAnimalsCells
+
+  7. Valbuena D, **Valdes CT** , [Simon C](https://profiles.viictr.org/profile/8556646). Introduction: Endometrial function: facts, urban legends, and an eye to the future. Fertil Steril. 2017 07; 108(1):4-8. PMID: [28601409](//www.ncbi.nlm.nih.gov/pubmed/28601409).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28601409/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansAnimals
+
+  8. Peavey MC, Reynolds CL, Szwarc MM, [Gibbons WE](https://profiles.viictr.org/profile/265879), **Valdes CT** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Lydon JP](https://profiles.viictr.org/profile/269737). Three-Dimensional High-Frequency Ultrasonography for Early Detection and Characterization of Embryo Implantation Site Development in the Mouse. PLoS One. 2017; 12(1):e0169312. PMID: [28046063](//www.ncbi.nlm.nih.gov/pubmed/28046063); PMCID: [PMC5207679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5207679).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28046063/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  9. Comstock IA, Diaz-Gimeno P, Cabanillas S, Bellver J, Sebastian-Leon P, Shah M, Schutt A, **Valdes CT** , Ruiz-Alonso M, Valbuena D, [Simon C](https://profiles.viictr.org/profile/8556646), Lathi RB. Does an increased body mass index affect endometrial gene expression patterns in infertile patients? A?functional genomics analysis. Fertil Steril. 2017 Mar; 107(3):740-748.e2. PMID: [27919438](//www.ncbi.nlm.nih.gov/pubmed/27919438).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27919438/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansCells
+
+  10. Adams J, Liu Z, Ren YA, Wun WS, [Zhou W](https://profiles.viictr.org/profile/12582713), Kenigsberg S, Librach C, **Valdes C** , [Gibbons W](https://profiles.viictr.org/profile/265879), [Richards J](https://profiles.viictr.org/profile/267831). Enhanced Inflammatory Transcriptome in the Granulosa Cells of Women With Polycystic Ovarian Syndrome. J Clin Endocrinol Metab. 2016 09; 101(9):3459-68. PMID: [27228368](//www.ncbi.nlm.nih.gov/pubmed/27228368); PMCID: [PMC5010574](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5010574).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27228368/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:HumansCells
+
+  11. Aghajanova L, **Valdes CT**. Sex selection for nonhealth-related reasons. Virtual Mentor. 2012 Feb 01; 14(2):105-11. PMID: [23116950](//www.ncbi.nlm.nih.gov/pubmed/23116950).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23116950/citedby/) Fields:
+
+Eth Ethics
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 6 distinct years, with a maximum of 5
+publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,40,100,0,20,20,0,20,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2012| 1  
+2016| 2  
+2017| 5  
+2019| 1  
+2020| 1  
+2022| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+VALDES's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (91)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Embryo Implantation](https://profiles.viictr.org/profile/260032)
+  * [Endometrium](https://profiles.viictr.org/profile/243417)
+  * [Infertility, Female](https://profiles.viictr.org/profile/263467)
+  * [Fertilization in Vitro](https://profiles.viictr.org/profile/264546)
+  * [Embryo Transfer](https://profiles.viictr.org/profile/240964)
+
+[Explore](https://profiles.viictr.org/profile/268221/198)
+
+_
+
+Co-Authors (14)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SIMON, CARLOS](https://profiles.viictr.org/profile/8556646)
+  * [GIBBONS, WILLIAM](https://profiles.viictr.org/profile/265879)
+  * [LYDON, JOHN](https://profiles.viictr.org/profile/269737)
+  * [YALLAMPALLI, CHANDRASEKHAR](https://profiles.viictr.org/profile/2560322)
+  * [RICHARDS, JOANNE](https://profiles.viictr.org/profile/267831)
+
+[Explore](https://profiles.viictr.org/profile/268221/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [DEMAYO, FRANCESCO](https://profiles.viictr.org/profile/267848)
+  * [SIMON, CARLOS](https://profiles.viictr.org/profile/8556646)
+  * [LINDHEIM, STEVEN](https://profiles.viictr.org/profile/44613619)
+  * [LYDON, JOHN](https://profiles.viictr.org/profile/269737)
+  * [MCCULLOUGH, LAURENCE](https://profiles.viictr.org/profile/269728)
+
+[Explore](https://profiles.viictr.org/profile/268221/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BLESSON, CHELLAKKAN](https://profiles.viictr.org/profile/3010554)
+  * [GIBBONS, WILLIAM](https://profiles.viictr.org/profile/265879)
+  * [KRISEMAN, MAYA](https://profiles.viictr.org/profile/14348491)
+  * [MCKENZIE, LAURIE](https://profiles.viictr.org/profile/269746)
+  * [SIMON, CARLOS](https://profiles.viictr.org/profile/8556646)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiVlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BLESSON, CHELLAKKAN](https://profiles.viictr.org/profile/3010554)
+  * [EPPES, CATHERINE](https://profiles.viictr.org/profile/267469)
+  * [GIBBONS, WILLIAM](https://profiles.viictr.org/profile/265879)
+  * [MCKENZIE, LAURIE](https://profiles.viictr.org/profile/269746)
+  * [WOODARD, TERRI](https://profiles.viictr.org/profile/270149)
+
+_
+

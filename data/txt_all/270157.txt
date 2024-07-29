@@ -1,0 +1,379 @@
+## EVELINE BARBIERI
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1102 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=NKoi42zCMoLVRIzgrn7GPw%3d%3d&rnd=c5c3f24d-bcad-4575-b4ca-373f49956d4c)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=270157)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Cermakova K](https://profiles.viictr.org/profile/22220432), Tao L, Dejmek M, Sala M, [Montierth MD](https://profiles.viictr.org/profile/28999407), Chan YS, [Patel I](https://profiles.viictr.org/profile/24845208), Chambers C, [Loeza Cabrera M](https://profiles.viictr.org/profile/28999097), Hoffman D, [Parchem RJ](https://profiles.viictr.org/profile/15317902), Wang W, Nencka R, **Barbieri E** , Hodges HC. Reactivation of the G1 enhancer landscape underlies core circuitry addiction to SWI/SNF. Nucleic Acids Res. 2024 Jan 11; 52(1):4-21. PMID: [37993417](//www.ncbi.nlm.nih.gov/pubmed/37993417); PMCID: [PMC10783513](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10783513).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+  2. Van Goethem A, Deleu J, Yigit N, Everaert C, Moreno-Smith M, [Vasudevan SA](https://profiles.viictr.org/profile/269879), Zeka F, Demuynck F, **Barbieri E** , Speleman F, Mestdagh P, Shohet J, Vandesompele J, Van Maerken T. Longitudinal evaluation of serum microRNAs as biomarkers for neuroblastoma burden and therapeutic p53 reactivation. NAR Cancer. 2023 Mar; 5(1):zcad002. PMID: [36683916](//www.ncbi.nlm.nih.gov/pubmed/36683916); PMCID: [PMC9846426](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9846426).
+
+Citations:
+
+  3. Tao L, [Mohammad MA](https://profiles.viictr.org/profile/269072), Milazzo G, Moreno-Smith M, Patel TD, Zorman B, [Badachhape A](https://profiles.viictr.org/profile/28999111), Hernandez BE, [Wolf AB](https://profiles.viictr.org/profile/28999344), Zeng Z, [Foster JH](https://profiles.viictr.org/profile/1826370), Aloisi S, [Sumazin P](https://profiles.viictr.org/profile/2560346), Zu Y, Hicks J, [Ghaghada KB](https://profiles.viictr.org/profile/268527), [Putluri N](https://profiles.viictr.org/profile/269361), Perini G, [Coarfa C](https://profiles.viictr.org/profile/265668), **Barbieri E**. MYCN-driven fatty acid uptake is a metabolic vulnerability in neuroblastoma. Nat Commun. 2022 06 28; 13(1):3728. PMID: [35764645](//www.ncbi.nlm.nih.gov/pubmed/35764645); PMCID: [PMC9240069](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9240069).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  4. Tao L, Moreno-Smith M, Milazzo G, Drolet NA, Hernandez BE, Oh YS, [Patel I](https://profiles.viictr.org/profile/24845208), Kim JJ, Zorman B, Patel T, [Kamal AHM](https://profiles.viictr.org/profile/37834421), Zhao Y, Hicks J, [Vasudevan SA](https://profiles.viictr.org/profile/269879), [Putluri N](https://profiles.viictr.org/profile/269361), [Coarfa C](https://profiles.viictr.org/profile/265668), [Sumazin P](https://profiles.viictr.org/profile/2560346), Perini G, [Parchem RJ](https://profiles.viictr.org/profile/15317902), Uribe RA, **Barbieri E** , Ibarra-Garc?a-Padilla R. CHAF1A Blocks Neuronal Differentiation and Promotes Neuroblastoma Oncogenesis via Metabolic Reprogramming. Adv Sci (Weinh). 2021 10; 8(19):e2005047. PMID: [34365742](//www.ncbi.nlm.nih.gov/pubmed/34365742); PMCID: [PMC8498874](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8498874).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34365742/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimalsCells
+
+  5. Moreno-Smith M, Milazzo G, Tao L, Fekry B, Zhu B, [Mohammad MA](https://profiles.viictr.org/profile/269072), Di Giacomo S, Borkar R, Reddy KRK, [Vasudevan SA](https://profiles.viictr.org/profile/269879), [Sumazin P](https://profiles.viictr.org/profile/2560346), Hicks J, [Putluri N](https://profiles.viictr.org/profile/269361), Perini G, Eckel-Mahan K, Burris TP, **Barbieri E** , Capasso M. Restoration of the molecular clock is tumor suppressive in neuroblastoma. Nat Commun. 2021 06 28; 12(1):4006. PMID: [34183658](//www.ncbi.nlm.nih.gov/pubmed/34183658); PMCID: [PMC8238982](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8238982).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34183658/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  6. [Foster JH](https://profiles.viictr.org/profile/1826370), **Barbieri E** , Zhang L, Scorsone KA, Moreno-Smith M, Zage P, [Horton TM](https://profiles.viictr.org/profile/266755). The Anti-Tumor Activity of the NEDD8 Inhibitor Pevonedistat in Neuroblastoma. Int J Mol Sci. 2021 Jun 18; 22(12). PMID: [34207315](//www.ncbi.nlm.nih.gov/pubmed/34207315); PMCID: [PMC8234433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8234433).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34207315/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  7. [Yi JS](https://profiles.viictr.org/profile/15317815), Sias-Garcia O, Nasholm N, Hu X, Iniguez AB, Hall MD, Davis M, Guha R, Moreno-Smith M, **Barbieri E** , [Duong K](https://profiles.viictr.org/profile/47100898), Koach J, Qi J, Bradner JE, Stegmaier K, Weiss WA, Gustafson WC. The synergy of BET inhibitors with aurora A kinase inhibitors in MYCN-amplified neuroblastoma is heightened with functional TP53. Neoplasia. 2021 06; 23(6):624-633. PMID: [34107377](//www.ncbi.nlm.nih.gov/pubmed/34107377); PMCID: [PMC8192452](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8192452).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  8. Zeka F, Decock A, Van Goethem A, Vanderheyden K, Demuynck F, Lammens T, Helsmoortel HH, Noguera R, Berbegall AP, Schleiermacher G, Schramm A, Schulte JH, Rahmann S, Jeison M, Ash S, Hogarty MD, Moreno-Smith M, **Barbieri E** , Shohet J, Berthold F, Van Maerken T, Speleman F, Fischer M, De Preter K, Mestdagh P, Vandesompele J, Vermeulen J, Combaret V, Laureys G, Bienertov?-Va?ku J, Maz?nek P. Circulating microRNA biomarkers for metastatic disease in neuroblastoma patients. JCI Insight. 2018 12 06; 3(23). PMID: [30518699](//www.ncbi.nlm.nih.gov/pubmed/30518699); PMCID: [PMC6328024](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6328024).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30518699/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimals
+
+  9. Agarwal S, Milazzo G, Rajapakshe K, Bernardi R, Chen Z, **Barbieri E** , Koster J, Perini G, [Coarfa C](https://profiles.viictr.org/profile/265668), Shohet JM. MYCN acts as a direct co-regulator of p53 in MYCN amplified neuroblastoma. Oncotarget. 2018 04 17; 9(29):20323-20338. PMID: [29755654](//www.ncbi.nlm.nih.gov/pubmed/29755654); PMCID: [PMC5945521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5945521).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29755654/citedby/) Fields:
+
+Neo Neoplasms
+
+  10. Moreno-Smith M, Lakoma A, Chen Z, Tao L, Scorsone KA, Schild L, Aviles-Padilla K, Nikzad R, Zhang Y, Chakraborty R, Molenaar JJ, [Vasudevan SA](https://profiles.viictr.org/profile/269879), Sheehan V, Kim ES, Paust S, Shohet JM, **Barbieri E**. p53 Nongenotoxic Activation and mTORC1 Inhibition Lead to Effective Combination for Neuroblastoma Therapy. Clin Cancer Res. 2017 Nov 01; 23(21):6629-6639. PMID: [28821555](//www.ncbi.nlm.nih.gov/pubmed/28821555); PMCID: [PMC5959272](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5959272).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28821555/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  11. Van Goethem A, Yigit N, Moreno-Smith M, [Vasudevan SA](https://profiles.viictr.org/profile/269879), **Barbieri E** , Speleman F, Shohet J, Vandesompele J, Van Maerken T. Dual targeting of MDM2 and BCL2 as a therapeutic strategy in neuroblastoma. Oncotarget. 2017 Aug 22; 8(34):57047-57057. PMID: [28915653](//www.ncbi.nlm.nih.gov/pubmed/28915653); PMCID: [PMC5593624](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5593624).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28915653/citedby/) Fields:
+
+Neo Neoplasms
+
+  12. Van Goethem A, Yigit N, Everaert C, Moreno-Smith M, Mus LM, **Barbieri E** , Speleman F, Mestdagh P, Shohet J, Van Maerken T, Vandesompele J. Depletion of tRNA-halves enables effective small RNA sequencing of low-input murine serum samples. Sci Rep. 2016 11 30; 6:37876. PMID: [27901112](//www.ncbi.nlm.nih.gov/pubmed/27901112); PMCID: [PMC5129013](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5129013).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27901112/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  13. De Preter K, Capasso M, Chen Z, Hsu DM, Tonini GP, Lefever S, Hicks J, Versteeg R, Pession A, Speleman F, Kim ES, Shohet JM, **Barbieri E**. Histone chaperone CHAF1A inhibits differentiation and promotes aggressive neuroblastoma. Cancer Res. 2014 Feb 01; 74(3):765-74. PMID: [24335960](//www.ncbi.nlm.nih.gov/pubmed/24335960).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24335960/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  14. **Barbieri E** , De Preter K, Capasso M, Johansson P, [Man TK](https://profiles.viictr.org/profile/266960), Chen Z, Stowers P, Tonini GP, Speleman F, Shohet JM. A p53 drug response signature identifies prognostic genes in high-risk neuroblastoma. PLoS One. 2013; 8(11):e79843. PMID: [24348903](//www.ncbi.nlm.nih.gov/pubmed/24348903); PMCID: [PMC3865347](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3865347).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24348903/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  15. Hsu DM, Agarwal S, Benham A, [Coarfa C](https://profiles.viictr.org/profile/265668), Trahan DN, Chen Z, Stowers PN, [Courtney AN](https://profiles.viictr.org/profile/9596407), Lakoma A, **Barbieri E** , [Metelitsa LS](https://profiles.viictr.org/profile/266187), [Gunaratne P](https://profiles.viictr.org/profile/268142), Kim ES, Shohet JM. G-CSF receptor positive neuroblastoma subpopulations are enriched in chemotherapy-resistant or relapsed tumors and are highly tumorigenic. Cancer Res. 2013 Jul 01; 73(13):4134-46. PMID: [23687340](//www.ncbi.nlm.nih.gov/pubmed/23687340); PMCID: [PMC4298227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4298227).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23687340/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  16. Shohet JM, Ghosh R, [Coarfa C](https://profiles.viictr.org/profile/265668), Ludwig A, Benham AL, Chen Z, Patterson DM, **Barbieri E** , Mestdagh P, Sikorski DN, [Milosavljevic A](https://profiles.viictr.org/profile/268148), Kim ES, [Gunaratne PH](https://profiles.viictr.org/profile/268142). A genome-wide search for promoters that respond to increased MYCN reveals both new oncogenic and tumor suppressor microRNAs associated with aggressive neuroblastoma. Cancer Res. 2011 Jun 01; 71(11):3841-51. PMID: [21498633](//www.ncbi.nlm.nih.gov/pubmed/21498633).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21498633/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  17. Patterson DM, Gao D, Trahan DN, Johnson BA, Ludwig A, **Barbieri E** , Chen Z, Diaz-Miron J, Vassilev L, Shohet JM, Kim ES. Effect of MDM2 and vascular endothelial growth factor inhibition on tumor angiogenesis and metastasis in neuroblastoma. Angiogenesis. 2011 Sep; 14(3):255-66. PMID: [21484514](//www.ncbi.nlm.nih.gov/pubmed/21484514).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21484514/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  18. Chen Z, [Lin Y](https://profiles.viictr.org/profile/12584010), **Barbieri E** , Burlingame S, Hicks J, Ludwig A, Shohet JM. Mdm2 deficiency suppresses MYCN-Driven neuroblastoma tumorigenesis in vivo. Neoplasia. 2009 Aug; 11(8):753-62. PMID: [19649205](//www.ncbi.nlm.nih.gov/pubmed/19649205); PMCID: [PMC2713395](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2713395).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19649205/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  19. **Barbieri E** , [Mehta P](https://profiles.viictr.org/profile/267753), Chen Z, Zhang L, Slack A, [Berg S](https://profiles.viictr.org/profile/266981), Shohet JM. MDM2 inhibition sensitizes neuroblastoma to chemotherapy-induced apoptotic cell death. Mol Cancer Ther. 2006 Sep; 5(9):2358-65. PMID: [16985070](//www.ncbi.nlm.nih.gov/pubmed/16985070).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16985070/citedby/) Fields:
+
+Ant Antineoplastic Agents
+
+Translation:HumansAnimalsCells
+
+  20. **Barbieri E** , Pession A. Treatment and prevention of tumor lysis syndrome in children. Experience of Associazione Italiana Ematologia Oncologia Pediatrica. Contrib Nephrol. 2005; 147:80-92. PMID: [15604608](//www.ncbi.nlm.nih.gov/pubmed/15604608).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15604608/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  21. Pession A, **Barbieri E** , Santoro N, Paolucci P, Porta F, Locatelli F. Efficacy and safety of recombinant urate oxidase (rasburicase) for treatment and prophylaxis of hyperuricemia in children undergoing chemotherapy. Haematologica. 2005 Jan; 90(1):141-2. PMID: [15642687](//www.ncbi.nlm.nih.gov/pubmed/15642687).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  22. Cicognani A, Pasini A, Pession A, Pirazzoli P, Burnelli R, **Barbieri E** , Mazzanti L, Cacciari E. Gonadal function and pubertal development after treatment of a childhood malignancy. J Pediatr Endocrinol Metab. 2003 Mar; 16 Suppl 2:321-6. PMID: [12729411](//www.ncbi.nlm.nih.gov/pubmed/12729411).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12729411/citedby/) Fields:
+
+End EndocrinologyPed Pediatrics
+
+Translation:Humans
+
+  23. Cicognani A, Alessandroni R, Pasini A, Pirazzoli P, Cassio A, **Barbieri E** , Cacciari E. Low birth weight for gestational age and subsequent male gonadal function. J Pediatr. 2002 Sep; 141(3):376-9. PMID: [12219058](//www.ncbi.nlm.nih.gov/pubmed/12219058).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12219058/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  24. Salardi S, Zucchini S, Cicognani A, Gualandi S, **Barbieri E** , Cacciari E. Inhibin B levels in adolescents and young adults with type 1 diabetes. Horm Res. 2002; 57(5-6):205-8. PMID: [12053095](//www.ncbi.nlm.nih.gov/pubmed/12053095).
+
+Citations:  Fields:
+
+End Endocrinology
+
+Translation:Humans
+
+  25. Zucchini S, Cacciari E, Balsamo A, Cicognani A, Tassinari D, **Barbieri E** , Gualandi S. Final height of short subjects of low birth weight with and without growth hormone treatment. Arch Dis Child. 2001 Apr; 84(4):340-3. PMID: [11259236](//www.ncbi.nlm.nih.gov/pubmed/11259236); PMCID: [PMC1718724](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1718724).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11259236/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 25 publications over 15 distinct years, with a maximum of
+4 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,25,50,25,0,50,25,0,0,25,0,50,0,75,0,0,25,50,50,0,0,100,25,25,25&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2001| 1  
+2002| 2  
+2003| 1  
+2005| 2  
+2006| 1  
+2009| 1  
+2011| 2  
+2013| 3  
+2016| 1  
+2017| 2  
+2018| 2  
+2021| 4  
+2022| 1  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BARBIERI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (144)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Neuroblastoma](https://profiles.viictr.org/profile/264265)
+  * [Proto-Oncogene Proteins c-mdm2](https://profiles.viictr.org/profile/258754)
+  * [Fatty Acids](https://profiles.viictr.org/profile/249733)
+  * [Chromatin Assembly Factor-1](https://profiles.viictr.org/profile/243245)
+  * [N-Myc Proto-Oncogene Protein](https://profiles.viictr.org/profile/27544916)
+
+[Explore](https://profiles.viictr.org/profile/270157/198)
+
+_
+
+Co-Authors (26)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [FOSTER, JENNIFER](https://profiles.viictr.org/profile/1826370)
+  * [COARFA, CRISTIAN](https://profiles.viictr.org/profile/265668)
+  * [VASUDEVAN, SANJEEV](https://profiles.viictr.org/profile/269879)
+  * [PUTLURI, NAGIREDDY](https://profiles.viictr.org/profile/269361)
+  * [SUMAZIN, PAVEL](https://profiles.viictr.org/profile/2560346)
+
+[Explore](https://profiles.viictr.org/profile/270157/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LOZANO, GUILLERMINA](https://profiles.viictr.org/profile/12582900)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [ANDREEFF, MICHAEL](https://profiles.viictr.org/profile/12582880)
+  * [NUCHTERN, JED](https://profiles.viictr.org/profile/266271)
+  * [FOSTER, JENNIFER](https://profiles.viictr.org/profile/1826370)
+
+[Explore](https://profiles.viictr.org/profile/270157/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BOUCHIER-HAYES, LISA](https://profiles.viictr.org/profile/268519)
+  * [GEORGE, ANIL](https://profiles.viictr.org/profile/28999450)
+  * [MARGOLIN, JUDITH](https://profiles.viictr.org/profile/268091)
+  * [OKCU, MEHMET](https://profiles.viictr.org/profile/267445)
+  * [VENKATRAMANI, RAJKUMAR](https://profiles.viictr.org/profile/8183321)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [MAN, TSZ-KWONG](https://profiles.viictr.org/profile/266960)
+  * [RAINUSSO, NINO](https://profiles.viictr.org/profile/265526)
+  * [RUSSELL, HEIDI](https://profiles.viictr.org/profile/267675)
+  * [STEVENS, ALEXANDRA](https://profiles.viictr.org/profile/1826717)
+  * [WANG, LISA](https://profiles.viictr.org/profile/267005)
+
+_
+

@@ -1,0 +1,620 @@
+## WALTER GRANT III
+
+| | Title| Associate Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiology  
+Address| Department of Radiology  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Iawi4GvTQIn2S8Ho5G4%3d&rnd=073a212a-7f72-42f4-bd98-9ad704a19aeb)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269537)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Langen KM, Papanikolaou N, Balog J, Crilly R, [Followill D](https://profiles.viictr.org/profile/12583659), Goddu SM, Grant W, Olivera G, Ramsey CR, Shi C, AAPM Task Group 148. QA for helical tomotherapy: report of the AAPM Task Group 148. Med Phys. 2010 Sep; 37(9):4817-53. PMID: [20964201](//www.ncbi.nlm.nih.gov/pubmed/20964201).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20964201/citedby/) Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  2. Butler EB, Shukla V, [Paulino AC](https://profiles.viictr.org/profile/12583636), Lu HH, Butler R, Smiedala M, Kurk J, Grant WH, McGary JE, Teh BS. Computer visualization techniques (CVTs) foster evidence-based target delineation. Cancer Invest. 2007 Feb; 25(1):1-5. PMID: [17364550](//www.ncbi.nlm.nih.gov/pubmed/17364550).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17364550/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  3. Garg AK, Mai WY, McGary JE, Grant WH, Butler EB, Teh BS. Radiation proctopathy in the treatment of prostate cancer. Int J Radiat Oncol Biol Phys. 2006 Dec 01; 66(5):1294-305. PMID: [17126204](//www.ncbi.nlm.nih.gov/pubmed/17126204).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17126204/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:HumansPHPublic Health
+
+  4. Bastasch MD, Teh BS, Mai WY, McGary JE, Grant WH, Butler EB. Tolerance of endorectal balloon in 396 patients treated with intensity-modulated radiation therapy (IMRT) for prostate cancer. Am J Clin Oncol. 2006 Feb; 29(1):8-11. PMID: [16462495](//www.ncbi.nlm.nih.gov/pubmed/16462495).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16462495/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCTClinical Trials
+
+  5. Teh BS, Dong L, McGary JE, Mai WY, Grant W, Butler EB. Rectal wall sparing by dosimetric effect of rectal balloon used during intensity-modulated radiation therapy (IMRT) for prostate cancer. Med Dosim. 2005; 30(1):25-30. PMID: [15749008](//www.ncbi.nlm.nih.gov/pubmed/15749008).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15749008/citedby/) Fields:
+
+Rad Radiotherapy
+
+Translation:HumansPHPublic Health
+
+  6. Ahmad S, Vlachaki MT, Teslow TN, Amosson CM, McGary J, Teh BS, Woo SY, Butler EB, Grant WH. Impact of setup uncertainty in the dosimetry of prostate and surrounding tissues in prostate cancer patients treated with Peacock/IMRT. Med Dosim. 2005; 30(1):1-7. PMID: [15749004](//www.ncbi.nlm.nih.gov/pubmed/15749004).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15749004/citedby/) Fields:
+
+Rad Radiotherapy
+
+Translation:Humans
+
+  7. Lu TX, Mai WY, Teh BS, Zhao C, Han F, Huang Y, Deng XW, Lu LX, Huang SM, Zeng ZF, Lin CG, [Lu HH](https://profiles.viictr.org/profile/267845), Chiu JK, Carpenter LS, Grant WH, Woo SY, Cui NJ, Butler EB. Initial experience using intensity-modulated radiotherapy for recurrent nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys. 2004 Mar 01; 58(3):682-7. PMID: [14967420](//www.ncbi.nlm.nih.gov/pubmed/14967420).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14967420/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:HumansPHPublic Health
+
+  8. Floyd NS, Woo SY, Teh BS, Prado C, Mai WY, Trask T, Gildenberg PL, Holoye P, Augspurger ME, Carpenter LS, [Lu HH](https://profiles.viictr.org/profile/267845), Chiu JK, Grant WH, Butler EB. Hypofractionated intensity-modulated radiotherapy for primary glioblastoma multiforme. Int J Radiat Oncol Biol Phys. 2004 Mar 01; 58(3):721-6. PMID: [14967426](//www.ncbi.nlm.nih.gov/pubmed/14967426).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14967426/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  9. Teh BS, Amosson CM, Mai WY, McGary J, Grant WH, Butler EB. Intensity modulated radiation therapy (IMRT) in the management of prostate cancer. Cancer Invest. 2004; 22(6):913-24. PMID: [15641489](//www.ncbi.nlm.nih.gov/pubmed/15641489).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15641489/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  10. Woo SY, Grant W, McGary JE, Teh BS, Butler EB. The evolution of quality assurance for intensity- modulated radiation therapy (IMRT): sequential tomotherapy. Int J Radiat Oncol Biol Phys. 2003 May 01; 56(1):274-86. PMID: [12694849](//www.ncbi.nlm.nih.gov/pubmed/12694849).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12694849/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  11. Amosson CM, Teh BS, Van TJ, Uy N, Huang E, Mai WY, Frolov A, Woo SY, Chiu JK, Carpenter LS, [Lu HH](https://profiles.viictr.org/profile/267845), Grant WH, Butler EB. Dosimetric predictors of xerostomia for head-and-neck cancer patients treated with the smart (simultaneous modulated accelerated radiation therapy) boost technique. Int J Radiat Oncol Biol Phys. 2003 May 01; 56(1):136-44. PMID: [12694832](//www.ncbi.nlm.nih.gov/pubmed/12694832).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12694832/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:HumansPHPublic Health
+
+  12. Teh BS, Bastasch MD, [Wheeler TM](https://profiles.viictr.org/profile/266558), Mai WY, Frolov A, Uhl BM, [Lu HH](https://profiles.viictr.org/profile/267845), Carpenter LS, Chiu JK, McGary J, Woo SY, Grant WH, Butler EB. IMRT for prostate cancer: defining target volume based on correlated pathologic volume of disease. Int J Radiat Oncol Biol Phys. 2003 May 01; 56(1):184-91. PMID: [12694837](//www.ncbi.nlm.nih.gov/pubmed/12694837).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12694837/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  13. Amosson CM, Teh BS, Mai WY, Woo SY, Chiu JK, [Donovan DT](https://profiles.viictr.org/profile/267374), [Parke R](https://profiles.viictr.org/profile/267281), Carpenter LS, [Lu HH](https://profiles.viictr.org/profile/267845), Grant WH, Butler EB. Using technology to decrease xerostomia for head and neck cancer patients treated with radiation therapy. Semin Oncol. 2002 Dec; 29(6 Suppl 19):71-9. PMID: [12577249](//www.ncbi.nlm.nih.gov/pubmed/12577249).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansPHPublic Health
+
+  14. Teh BS, McGary JE, Dong L, Mai WY, Carpenter LS, [Lu HH](https://profiles.viictr.org/profile/267845), Chiu JK, Woo SY, Grant WH, Butler EB. The use of rectal balloon during the delivery of intensity modulated radiotherapy (IMRT) for prostate cancer: more than just a prostate gland immobilization device? Cancer J. 2002 Nov-Dec; 8(6):476-83. PMID: [12500857](//www.ncbi.nlm.nih.gov/pubmed/12500857).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12500857/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  15. Bastasch MD, Teh BS, Mai WY, Carpenter LS, [Lu HH](https://profiles.viictr.org/profile/267845), Chiu JK, Woo SY, Grant WH, [Miles BJ](https://profiles.viictr.org/profile/268161), [Kadmon D](https://profiles.viictr.org/profile/268024), Butler EB. Post-nerve-sparing prostatectomy, dose-escalated intensity-modulated radiotherapy: effect on erectile function. Int J Radiat Oncol Biol Phys. 2002 Sep 01; 54(1):101-6. PMID: [12182979](//www.ncbi.nlm.nih.gov/pubmed/12182979).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12182979/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  16. Uy NW, Woo SY, Teh BS, Mai WY, Carpenter LS, Chiu JK, [Lu HH](https://profiles.viictr.org/profile/267845), Gildenberg P, Trask T, Grant WH, Butler EB. Intensity-modulated radiation therapy (IMRT) for meningioma. Int J Radiat Oncol Biol Phys. 2002 Aug 01; 53(5):1265-70. PMID: [12128128](//www.ncbi.nlm.nih.gov/pubmed/12128128).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12128128/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  17. Huang E, Teh BS, Strother DR, Davis QG, Chiu JK, [Lu HH](https://profiles.viictr.org/profile/267845), Carpenter LS, Mai WY, [Chintagumpala MM](https://profiles.viictr.org/profile/268049), South M, Grant WH, Butler EB, Woo SY. Intensity-modulated radiation therapy for pediatric medulloblastoma: early report on the reduction of ototoxicity. Int J Radiat Oncol Biol Phys. 2002 Mar 01; 52(3):599-605. PMID: [11849779](//www.ncbi.nlm.nih.gov/pubmed/11849779).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11849779/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  18. Teh BS, Mai WY, Grant WH, Chiu JK, [Lu HH](https://profiles.viictr.org/profile/267845), Carpenter LS, Woo SY, Butler EB. Intensity modulated radiotherapy (IMRT) decreases treatment-related morbidity and potentially enhances tumor control. Cancer Invest. 2002; 20(4):437-51. PMID: [12094538](//www.ncbi.nlm.nih.gov/pubmed/12094538).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12094538/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  19. Teh BS, Woo SY, Mai WY, Mcgary JE, Carpenter LS, [Lu HH](https://profiles.viictr.org/profile/267845), Chiu JK, Vlachaki MT, Grant WH, Butler EB. Clinical experience with intensity-modulated radiation therapy (IMRT) for prostate cancer with the use of rectal balloon for prostate immobilization. Med Dosim. 2002; 27(2):105-13. PMID: [12074461](//www.ncbi.nlm.nih.gov/pubmed/12074461).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12074461/citedby/) Fields:
+
+Rad Radiotherapy
+
+Translation:Humans
+
+  20. Teh BS, Aguilar-Cordova E, Vlachaki MT, Aguilar L, Mai WY, Caillouet J, Davis M, [Miles B](https://profiles.viictr.org/profile/268161), [Kadmon D](https://profiles.viictr.org/profile/268024), Ayala G, [Lu HH](https://profiles.viictr.org/profile/267845), Chiu JK, Carpenter LS, Woo SY, Grant WH, [Wheeler T](https://profiles.viictr.org/profile/266558), [Thompson TC](https://profiles.viictr.org/profile/12582753), Butler EB. Combining radiotherapy with gene therapy (from the bench to the bedside): a novel treatment strategy for prostate cancer. Oncologist. 2002; 7(5):458-66. PMID: [12401909](//www.ncbi.nlm.nih.gov/pubmed/12401909).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12401909/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  21. McGary JE, Teh BS, Butler EB, Grant W. Prostate immobilization using a rectal balloon. J Appl Clin Med Phys. 2002; 3(1):6-11. PMID: [11817999](//www.ncbi.nlm.nih.gov/pubmed/11817999); PMCID: [PMC5724550](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5724550).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11817999/citedby/) Fields:
+
+Bio BiophysicsPhy Physics
+
+Translation:Humans
+
+  22. Teh BS, Mai WY, Uhl BM, Augspurger ME, Grant WH, Lu HH, Woo SY, Carpenter LS, Chiu JK, Butler EB. Intensity-modulated radiation therapy (IMRT) for prostate cancer with the use of a rectal balloon for prostate immobilization: acute toxicity and dose-volume analysis. Int J Radiat Oncol Biol Phys. 2001 Mar 01; 49(3):705-12. PMID: [11172952](//www.ncbi.nlm.nih.gov/pubmed/11172952).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11172952/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  23. Teh BS, Mai WY, Augspurger ME, Uhl BM, McGary J, Dong L, Grant WH, Lu HH, Woo SY, Carpenter LS, Chiu JK, Butler EB. Intensity modulated radiation therapy (IMRT) following prostatectomy: more favorable acute genitourinary toxicity profile compared to primary IMRT for prostate cancer. Int J Radiat Oncol Biol Phys. 2001 Feb 01; 49(2):465-72. PMID: [11173142](//www.ncbi.nlm.nih.gov/pubmed/11173142).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11173142/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  24. McGary JE, Grant W. A clinical evaluation of setup errors for a prostate immobilization system. J Appl Clin Med Phys. 2000; 1(4):138-47. PMID: [11674829](//www.ncbi.nlm.nih.gov/pubmed/11674829); PMCID: [PMC5726153](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5726153).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11674829/citedby/) Fields:
+
+Bio BiophysicsPhy Physics
+
+Translation:HumansCTClinical Trials
+
+  25. McGary JE, Grant W, Woo SY. Applying the equivalent uniform dose formulation based on the linear-quadratic model to inhomogeneous tumor dose distributions: Caution for analyzing and reporting. J Appl Clin Med Phys. 2000; 1(4):126-37. PMID: [11674828](//www.ncbi.nlm.nih.gov/pubmed/11674828); PMCID: [PMC5726154](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5726154).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11674828/citedby/) Fields:
+
+Bio BiophysicsPhy Physics
+
+Translation:Humans
+
+  26. Butler EB, Teh BS, Grant WH, Uhl BM, Kuppersmith RB, Chiu JK, Donovan DT, Woo SY. Smart (simultaneous modulated accelerated radiation therapy) boost: a new accelerated fractionation schedule for the treatment of head and neck cancer with intensity modulated radiotherapy. Int J Radiat Oncol Biol Phys. 1999 Aug 01; 45(1):21-32. PMID: [10477002](//www.ncbi.nlm.nih.gov/pubmed/10477002).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10477002/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:HumansPHPublic Health
+
+  27. Grant W, Woo SY. Clinical and financial issues for intensity-modulated radiation therapy delivery. Semin Radiat Oncol. 1999 Jan; 9(1):99-107. PMID: [10196401](//www.ncbi.nlm.nih.gov/pubmed/10196401).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10196401/citedby/) Fields:
+
+Neo NeoplasmsRad Radiology
+
+Translation:Humans
+
+  28. Grant W, Cain RB. Intensity modulated conformal therapy for intracranial lesions. Med Dosim. 1998; 23(3):237-41. PMID: [9783277](//www.ncbi.nlm.nih.gov/pubmed/9783277).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9783277/citedby/) Fields:
+
+Rad Radiotherapy
+
+Translation:Humans
+
+  29. McGary JE, Grant W, Woo SY, Butler EB. Comment on "Reporting and analyzing dose distributions: a concept of equivalent uniform dose" [Med. Phys. 24, 103-109 (1997)]. Med Phys. 1997 Aug; 24(8):1323-4; author reply 1325-7. PMID: [9284258](//www.ncbi.nlm.nih.gov/pubmed/9284258).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9284258/citedby/) Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  30. Butler EB, Woo SY, Grant WH. In response to Drs. Goitein and Niemierko. Int J Radiat Oncol Biol Phys. 1997 Jul 15; 38(5):1138-9. PMID: [9276383](//www.ncbi.nlm.nih.gov/pubmed/9276383).
+
+Citations:  Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  31. Lee AG, Woo SY, Miller NR, Safran AB, Grant WH, Butler EB. Improvement in visual function in an eye with a presumed optic nerve sheath meningioma after treatment with three-dimensional conformal radiation therapy. J Neuroophthalmol. 1996 Dec; 16(4):247-51. PMID: [8956159](//www.ncbi.nlm.nih.gov/pubmed/8956159).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8956159/citedby/) Fields:
+
+Neu NeurologyOph Ophthalmology
+
+Translation:HumansCells
+
+  32. Woo SY, Grant WH, Bellezza D, Grossman R, Gildenberg P, Carpentar LS, Carol M, Butler EB. A comparison of intensity modulated conformal therapy with a conventional external beam stereotactic radiosurgery system for the treatment of single and multiple intracranial lesions. Int J Radiat Oncol Biol Phys. 1996 Jun 01; 35(3):593-7. PMID: [8655384](//www.ncbi.nlm.nih.gov/pubmed/8655384).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8655384/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+  33. Carol M, Grant WH, Bleier AR, Kania AA, Targovnik HS, Butler EB, Woo SW. The field-matching problem as it applies to the peacock three dimensional conformal system for intensity modulation. Int J Radiat Oncol Biol Phys. 1996 Jan 01; 34(1):183-7. PMID: [12118549](//www.ncbi.nlm.nih.gov/pubmed/12118549).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12118549/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+  34. Carol M, Grant WH, Pavord D, Eddy P, Targovnik HS, Butler B, Woo S, Figura J, Onufrey V, Grossman R, Selkar R. Initial clinical experience with the Peacock intensity modulation of a 3-D conformal radiation therapy system. Stereotact Funct Neurosurg. 1996; 66(1-3):30-4. PMID: [8938930](//www.ncbi.nlm.nih.gov/pubmed/8938930).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8938930/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:HumansCTClinical Trials
+
+  35. Butler EB, Woo SY, Grant W, Nizin PS. Clinical realization of 3D conformal intensity modulated radiotherapy: regarding Bortfeld et al., IJROBP 30:899-908; 1994. Int J Radiat Oncol Biol Phys. 1995 Jul 30; 32(5):1547-8. PMID: [7635804](//www.ncbi.nlm.nih.gov/pubmed/7635804).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7635804/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  36. Teslow TN, Gilbert RA, Grant WH, Woo SY, Butler EB, Liem JH. A teleradiology case conference system. J Telemed Telecare. 1995; 1(2):95-9. PMID: [9375126](//www.ncbi.nlm.nih.gov/pubmed/9375126).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9375126/citedby/) Fields:
+
+Hea Health ServicesMed Medical Informatics
+
+Translation:Humans
+
+  37. Woo S, Butler EB, Grant W, Berner B, Gildenberg P. Fractionated high-dose rate brachytherapy for intracranial gliomas. Int J Radiat Oncol Biol Phys. 1994 Jan 01; 28(1):247-9. PMID: [8270447](//www.ncbi.nlm.nih.gov/pubmed/8270447).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8270447/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  38. Chu JC, Grant WH, Almond PR. A liquid ionisation chamber for neutron dosimetry. Phys Med Biol. 1980 Nov; 25(6):1133-48. PMID: [7208626](//www.ncbi.nlm.nih.gov/pubmed/7208626).
+
+Citations:  Fields:
+
+Bio BiophysicsDia Diagnostic ImagingNuc Nuclear MedicinePhy Physics
+
+Translation:Cells
+
+  39. Graves RG, Smathers JB, Almond PR, Grant WH, Otte VA. Neutron energy spectra of d(49)-Be and p(41)-Be neutron radiotherapy sources. Med Phys. 1979 Mar-Apr; 6(2):123-8. PMID: [111016](//www.ncbi.nlm.nih.gov/pubmed/111016).
+
+Citations:  Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+  40. Smathers JB, Graves RG, Wilson WB, Almond PR, Grant WH, Otte VA. Shielding for neutron radiotherapy sources created by the Be(d, n) reaction. Health Phys. 1978 Dec; 35(6):807-16. PMID: [738886](//www.ncbi.nlm.nih.gov/pubmed/738886).
+
+Citations:  Fields:
+
+Env Environmental HealthNuc Nuclear Medicine
+
+Translation:Humans
+
+  41. Hanson WF, Grant W, Kennedy P, Cundiff JH, Gagnon WF, Berkley LW, Shalek RJ. A review of the reliability of chamber factors used clinically in the United States (1968--1976). Med Phys. 1978 Nov-Dec; 5(6):552-5. PMID: [104138](//www.ncbi.nlm.nih.gov/pubmed/104138).
+
+Citations:  Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+  42. Grant W, Ames J, Almond PR. Evaluation of the Therac 6 linear accelerator for radiation therapy. Med Phys. 1978 Sep-Oct; 5(5):448-9. PMID: [101762](//www.ncbi.nlm.nih.gov/pubmed/101762).
+
+Citations: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/101762/citedby/)
+Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  43. Delclos L, Fletcher GH, Sampiere V, Grant WH. Can the Fletcher gamma ray colpostat system be extrapolated to other systems? Cancer. 1978 Mar; 41(3):970-9. PMID: [638983](//www.ncbi.nlm.nih.gov/pubmed/638983).
+
+Citations: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/638983/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansPHPublic Health
+
+  44. Grant WH, Smith LE, Stromberg RR. Radiotracer techniques for protein adsorption measurements. J Biomed Mater Res. 1977 Jan; 11(1):33-8. PMID: [845183](//www.ncbi.nlm.nih.gov/pubmed/845183).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:Cells
+
+  45. Smathers JB, Almond PR, Otte VA, Grant WH. Summary of high energy neutron sources and their characteristics. Int J Radiat Oncol Biol Phys. 1977; 3:149-54. PMID: [96049](//www.ncbi.nlm.nih.gov/pubmed/96049).
+
+Citations: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/96049/citedby/)
+Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+  46. Grant WH, Cundiff JH, Gagnon WF, Hanson WF, Shalek RJ. Calibration in water versus calibration in air for cobalt-60 gamma rays. Med Phys. 1977 Jan-Feb; 4(1):68-9. PMID: [840192](//www.ncbi.nlm.nih.gov/pubmed/840192).
+
+Citations: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/840192/citedby/)
+Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+  47. Hanson WF, Grant W. Use of axiliary collimating devices in the treatment for breast cancer with 60Co teletherapy units. II. Dose to the skin. AJR Am J Roentgenol. 1976 Oct; 127(4):653-7. PMID: [970540](//www.ncbi.nlm.nih.gov/pubmed/970540).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  48. Grant W, Cundiff J, Hanson W, Gagnon W, Shalek R. Calibration instrumentation used by the AAPM Radiological Physics Center. Med Phys. 1976 SEP-OCT; 3(5):353-4. PMID: [979927](//www.ncbi.nlm.nih.gov/pubmed/979927).
+
+Citations: [3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/979927/citedby/)
+Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+  49. Tefft M, D'Angio GJ, Grant W. Postoperative radiation therapy for residual Wilm's tumor. Review of Group III patients in the National Wilm's Tumor Study. Cancer. 1976 Jun; 37(6):2768-72. PMID: [181122](//www.ncbi.nlm.nih.gov/pubmed/181122).
+
+Citations: [4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/181122/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  50. Gagnon WF, Grant W. Surface dose from megavoltage therapy machines. Radiology. 1975 Dec; 117(3 Pt 1):705-8. PMID: [810828](//www.ncbi.nlm.nih.gov/pubmed/810828).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:HumansPHPublic Health
+
+  51. Grant W, Davis MJ. International dosimetry: an evaluation of treatment planning in clinical trials. Br J Radiol. 1975 Aug; 48(572):634-7. PMID: [1237337](//www.ncbi.nlm.nih.gov/pubmed/1237337).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1237337/citedby/) Fields:
+
+Rad Radiology
+
+  52. Golden R, Cundiff JH, Grant WH, Shalek RJ. A review of the activities of the AAPM Radiological Physics Center in interinstitutional trials involving radiation therapy. Cancer. 1972 Jun; 29(6):1468-72. PMID: [4555552](//www.ncbi.nlm.nih.gov/pubmed/4555552).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansCTClinical Trials
+
+  53. Grant WH, Oliver GD, Mitchell BA. Automatic analysis of empirically derived LET spectra. Health Phys. 1972 Apr; 22(4):351-4. PMID: [5045194](//www.ncbi.nlm.nih.gov/pubmed/5045194).
+
+Citations:  Fields:
+
+Env Environmental HealthNuc Nuclear Medicine
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 37 publications over 15 distinct years, with a maximum of
+9 publications in
+2002](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:11,22,44,22,11,22,22,22,100,33,33,22,22,11,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 1  
+1995| 2  
+1996| 4  
+1997| 2  
+1998| 1  
+1999| 2  
+2000| 2  
+2001| 2  
+2002| 9  
+2003| 3  
+2004| 3  
+2005| 2  
+2006| 2  
+2007| 1  
+2010| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+GRANT III's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (205)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Radiotherapy, Conformal](https://profiles.viictr.org/profile/262829)
+  * [Immobilization](https://profiles.viictr.org/profile/247436)
+  * [Rectum](https://profiles.viictr.org/profile/253709)
+  * [Catheterization](https://profiles.viictr.org/profile/262094)
+  * [Prostatic Neoplasms](https://profiles.viictr.org/profile/245090)
+
+[Explore](https://profiles.viictr.org/profile/269537/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LU, HSIN](https://profiles.viictr.org/profile/267845)
+  * [WHEELER, THOMAS](https://profiles.viictr.org/profile/266558)
+  * [KADMON, DOV](https://profiles.viictr.org/profile/268024)
+  * [MILES, BRIAN](https://profiles.viictr.org/profile/268161)
+  * [FOLLOWILL, DAVID S](https://profiles.viictr.org/profile/12583659)
+
+[Explore](https://profiles.viictr.org/profile/269537/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [MOHAN, RADHE](https://profiles.viictr.org/profile/12583017)
+  * [COURT, LAURENCE EDWARD](https://profiles.viictr.org/profile/12582626)
+  * [FRANK, STEVEN JAY](https://profiles.viictr.org/profile/12582619)
+  * [KUBAN, DEBORAH A](https://profiles.viictr.org/profile/12583748)
+  * [KRY, STEPHEN F](https://profiles.viictr.org/profile/12582993)
+
+[Explore](https://profiles.viictr.org/profile/269537/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRAY, COLLIN](https://profiles.viictr.org/profile/266110)
+  * [FRIGINI, L. ALEXANDRE](https://profiles.viictr.org/profile/267853)
+  * [GHAGHADA, KETANKUMAR](https://profiles.viictr.org/profile/268527)
+  * [SAVJANI, NEAL](https://profiles.viictr.org/profile/48003257)
+  * [STRAX, RICHARD](https://profiles.viictr.org/profile/268675)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqNFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BUSHONG, STEWART](https://profiles.viictr.org/profile/267235)
+  * [FISHER, RICHARD](https://profiles.viictr.org/profile/267250)
+  * [KAILIN, JOSHUA](https://profiles.viictr.org/profile/270121)
+  * [SAVELY, SUSANNE](https://profiles.viictr.org/profile/269129)
+  * [TRINH, CHARLES](https://profiles.viictr.org/profile/266747)
+
+_
+

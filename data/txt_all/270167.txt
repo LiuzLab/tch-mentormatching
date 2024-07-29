@@ -1,0 +1,1281 @@
+## STEVEN LUDTKE
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Jacl5XHMJav3RYKj5X%2fX&rnd=f5a505ee-2c15-40a5-8db5-761edebf888e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=270167)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=270167&cachekey=e7c6cbd1-338e-4df0-adb1-1de30990c745)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Biography  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+awards and honors
+
+2008| Burton Medal, Microcsopy Society of America  
+---|---  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R35GM151999 (LUDTKE, STEVEN J)Feb 1, 2024 - Jan 31, 2029NIH  
+Support for CryoEM and CryoET Development in the Ludtke Lab  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R21GM100229 (BAKER, MATTHEW LOWELL)Sep 10, 2013 - Aug 31, 2016NIH  
+Atomic Resolution Cryo-EM using Model-Based Constraints  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01GM080139 (LUDTKE, STEVEN J)Jun 1, 2006 - Aug 31, 2023NIH  
+SUPPORT AND DEVELOPMENT OF EMAN FOR ELECTRON MICROSCOPY IMAGE PROCESSING  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32AR008474 (LUDTKE, STEVEN J)Jan 29, 1998NIH  
+STRUCTURAL STUDIES OF RYANODINE RECEPTOR ISOFORMS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Jim?nez-Ortigosa C, Jiang J, Chen M, Kuang X, Healey KR, Castellano P, Boparai N, **Ludtke SJ** , Perlin DS, Dai W. Correction: Jim?nez-Ortigosa et al. Cryo-Electron Tomography of Candida glabrata Plasma Membrane Proteins. J. Fungi 2021, 7, 120. J Fungi (Basel). 2024 Mar 06; 10(3). PMID: [38535242](//www.ncbi.nlm.nih.gov/pubmed/38535242); PMCID: [PMC10971649](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10971649).
+
+Citations:
+
+  2. Kleywegt GJ, Adams PD, Butcher SJ, Lawson CL, Rohou A, Rosenthal PB, Subramaniam S, Topf M, Abbott S, [Baldwin PR](https://profiles.viictr.org/profile/268193), Berrisford JM, Bricogne G, Choudhary P, Croll TI, Danev R, Ganesan SJ, Grant T, Gutmanas A, Henderson R, Heymann JB, Huiskonen JT, Istrate A, Kato T, Lander GC, Lok SM, **Ludtke SJ** , Murshudov GN, Pye R, Pintilie GD, Richardson JS, Sachse C, Salih O, Scheres SHW, Schroeder GF, Sorzano COS, Stagg SM, Wang Z, Warshamanage R, Westbrook JD, Winn MD, Young JY, Burley SK, Hoch JC, Kurisu G, Morris K, Patwardhan A, Velankar S. Community recommendations on cryoEM data archiving and validation. IUCrJ. 2024 Mar 01; 11(Pt 2):140-151. PMID: [38358351](//www.ncbi.nlm.nih.gov/pubmed/38358351); PMCID: [PMC10916293](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10916293).
+
+Citations:  Fields:
+
+Che Chemistry
+
+  3. Kleywegt GJ, Adams PD, Butcher SJ, Rohou A, Rosenthal PB, Subramaniam S, Topf M, Abbott S, [Baldwin PR](https://profiles.viictr.org/profile/268193), Berrisford JM, Bricogne G, Choudhary P, Croll TI, Danev R, Ganesan SJ, Grant T, Gutmanas A, Henderson R, Heymann JB, Huiskonen JT, Istrate A, Kato T, Lander GC, Lok SM, **Ludtke SJ** , Pye R, Pintilie GD, Richardson JS, Sachse C, Salih O, Scheres SHW, Sorzano COS, Stagg SM, Wang Z, Warshamanage R, Westbrook JD, Winn MD, Young JY, Burley SK, Hoch JC, Kurisu G, Morris K, Patwardhan A, Velankar S, Lawson CL, Murshudov GN, Schroeder GF. Community recommendations on cryoEM data archiving and validation: Outcomes of a wwPDB/EMDB workshop on cryoEM data management, deposition and validation. ArXiv. 2024 Feb 02. PMID: [38076521](//www.ncbi.nlm.nih.gov/pubmed/38076521); PMCID: [PMC10705588](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10705588).
+
+Citations:
+
+  4. Majeed S, Dang L, Islam MM, Ishola O, Borbat PP, **Ludtke SJ** , Georgieva ER. HIV-1 Vpu protein forms stable oligomers in aqueous solution via its transmembrane domain self-association. Sci Rep. 2023 09 06; 13(1):14691. PMID: [37673923](//www.ncbi.nlm.nih.gov/pubmed/37673923); PMCID: [PMC10483038](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10483038).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37673923/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  5. Yu Z, Wu Y, Chen M, Huo T, Zheng W, **Ludtke SJ** , Shi X, Wang Z. Author Correction: Membrane translocation process revealed by in situ structures of type II secretion system secretins. Nat Commun. 2023 Aug 10; 14(1):4833. PMID: [37563200](//www.ncbi.nlm.nih.gov/pubmed/37563200); PMCID: [PMC10415358](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10415358).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+  6. [Anderson ED](https://profiles.viictr.org/profile/31454200), Cronkite CA, [Tolias KF](https://profiles.viictr.org/profile/265514), **Ludtke SJ**. Correlative Cryo-FIB and Cryo-ET of Dendritic Spines and Synaptic Connections. Microsc Microanal. 2023 Jul 22; 29(29 Suppl 1):1086. PMID: [37613301](//www.ncbi.nlm.nih.gov/pubmed/37613301); PMCID: [PMC11094623](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11094623).
+
+Citations:  Fields:
+
+Che Chemistry Techniques
+
+  7. Yu Z, Wu Y, Chen M, Huo T, Zheng W, **Ludtke SJ** , Shi X, Wang Z. Membrane translocation process revealed by in situ structures of type II secretion system secretins. Nat Commun. 2023 07 07; 14(1):4025. PMID: [37419909](//www.ncbi.nlm.nih.gov/pubmed/37419909); PMCID: [PMC10329019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10329019).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  8. Majeed S, Dang L, Islam MM, Ishola O, Borbat PP, **Ludtke SJ** , Georgieva ER. HIV-1 Vpu protein forms stable oligomers in aqueous solution via its transmembrane domain self-association. bioRxiv. 2023 Jul 05. PMID: [37214796](//www.ncbi.nlm.nih.gov/pubmed/37214796); PMCID: [PMC10197565](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10197565).
+
+Citations:
+
+  9. Yu Z, Wu Y, Chen M, Huo T, Zheng W, **Ludtke SJ** , Shi X, Wang Z. In situ structures of secretins from bacterial type II secretion system reveal their membrane interactions and translocation process. bioRxiv. 2023 Jan 10. PMID: [36711656](//www.ncbi.nlm.nih.gov/pubmed/36711656); PMCID: [PMC9882097](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9882097).
+
+Citations:
+
+  10. Fan G, Baker MR, Terry LE, Arige V, Chen M, Seryshev AB, Baker ML, **Ludtke SJ** , Yule DI, [Serysheva II](https://profiles.viictr.org/profile/266963). Conformational motions and ligand-binding underlying gating and regulation in IP3R channel. Nat Commun. 2022 11 14; 13(1):6942. PMID: [36376291](//www.ncbi.nlm.nih.gov/pubmed/36376291); PMCID: [PMC9663519](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9663519).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36376291/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  11. Fluty AC, **Ludtke SJ**. Precision requirements and data compression in CryoEM/CryoET. J Struct Biol. 2022 09; 214(3):107875. PMID: [35724904](//www.ncbi.nlm.nih.gov/pubmed/35724904); PMCID: [PMC9645247](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9645247).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  12. Sun SY, Segev-Zarko LA, Chen M, Pintilie GD, Schmid MF, **Ludtke SJ** , Boothroyd JC, Chiu W. Cryo-ET of Toxoplasma parasites gives subnanometer insight into tubulin-based structures. Proc Natl Acad Sci U S A. 2022 02 08; 119(6). PMID: [35121661](//www.ncbi.nlm.nih.gov/pubmed/35121661); PMCID: [PMC8832990](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8832990).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35121661/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  13. Wang Y, Huo T, Tseng YJ, [Dang L](https://profiles.viictr.org/profile/24845012), Yu Z, Yu W, Foulks Z, [Murdaugh RL](https://profiles.viictr.org/profile/6998783), **Ludtke SJ** , [Nakada D](https://profiles.viictr.org/profile/268530), Wang Z. Using Cryo-ET to distinguish platelets during pre-acute myeloid leukemia from steady state hematopoiesis. Commun Biol. 2022 01 20; 5(1):72. PMID: [35058565](//www.ncbi.nlm.nih.gov/pubmed/35058565); PMCID: [PMC8776871](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8776871).
+
+Citations:  Translation:AnimalsCells
+
+  14. Akey CW, Singh D, Ouch C, Echeverria I, Nudelman I, Varberg JM, Yu Z, Fang F, Shi Y, Wang J, Salzberg D, Song K, Xu C, Gumbart JC, Suslov S, Unruh J, Jaspersen SL, Chait BT, Sali A, Fernandez-Martinez J, **Ludtke SJ** , Villa E, Rout MP. Comprehensive structure and functional adaptations of the yeast nuclear pore complex. Cell. 2022 01 20; 185(2):361-378.e25. PMID: [34982960](//www.ncbi.nlm.nih.gov/pubmed/34982960); PMCID: [PMC8928745](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8928745).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34982960/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  15. Chen M, Shi X, Yu Z, Fan G, [Serysheva II](https://profiles.viictr.org/profile/266963), Baker ML, Luisi BF, **Ludtke SJ** , Wang Z. In situ structure of the AcrAB-TolC efflux pump at subnanometer resolution. Structure. 2022 01 06; 30(1):107-113.e3. PMID: [34506732](//www.ncbi.nlm.nih.gov/pubmed/34506732); PMCID: [PMC8741639](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8741639).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34506732/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  16. Chen M, **Ludtke SJ**. Deep learning-based mixed-dimensional Gaussian mixture model for characterizing variability in cryo-EM. Nat Methods. 2021 08; 18(8):930-936. PMID: [34326541](//www.ncbi.nlm.nih.gov/pubmed/34326541); PMCID: [PMC8363932](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8363932).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34326541/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:HumansCells
+
+  17. Jiang J, Chen M, Kuang X, Healey KR, Castellano P, Boparai N, **Ludtke SJ** , Perlin DS, Dai W, Jim?nez-Ortigosa C. Cryo-Electron Tomography of Candida glabrata Plasma Membrane Proteins. J Fungi (Basel). 2021 02 06; 7(2). PMID: [33562124](//www.ncbi.nlm.nih.gov/pubmed/33562124); PMCID: [PMC7914498](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7914498).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33562124/citedby/)
+
+  18. Terwilliger TC, **Ludtke SJ** , Read RJ, Adams PD, Afonine PV. Improvement of cryo-EM maps by density modification. Nat Methods. 2020 09; 17(9):923-927. PMID: [32807957](//www.ncbi.nlm.nih.gov/pubmed/32807957); PMCID: [PMC7484085](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7484085).
+
+Citations:
+[99](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32807957/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:Cells
+
+  19. Yu X, [Yi P](https://profiles.viictr.org/profile/267727), Hamilton RA, Shen H, Chen M, [Foulds CE](https://profiles.viictr.org/profile/267919), [Mancini MA](https://profiles.viictr.org/profile/268178), **Ludtke SJ** , Wang Z, [O'Malley BW](https://profiles.viictr.org/profile/269511). Structural Insights of Transcriptionally Active, Full-Length Androgen Receptor Coactivator Complexes. Mol Cell. 2020 09 03; 79(5):812-823.e4. PMID: [32668201](//www.ncbi.nlm.nih.gov/pubmed/32668201); PMCID: [PMC7483370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7483370).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32668201/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  20. Li S, Su Z, Stamatopoulou V, Giarimoglou N, Henderson FE, Fan L, Pintilie GD, Zhang K, Chen M, **Ludtke SJ** , Wang YX, Stathopoulos C, Chiu W, Zhang J, Lehmann J. Structural basis of amino acid surveillance by higher-order tRNA-mRNA interactions. Nat Struct Mol Biol. 2019 12; 26(12):1094-1105. PMID: [31740854](//www.ncbi.nlm.nih.gov/pubmed/31740854); PMCID: [PMC6899168](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6899168).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31740854/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  21. Chen M, Bell JM, Shi X, Sun SY, Wang Z, **Ludtke SJ**. A complete data processing workflow for cryo-ET and subtomogram averaging. Nat Methods. 2019 11; 16(11):1161-1168. PMID: [31611690](//www.ncbi.nlm.nih.gov/pubmed/31611690); PMCID: [PMC6858567](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6858567).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31611690/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+  22. Levitan O, Chen M, Kuang X, Cheong KY, Jiang J, Banal M, Nambiar N, Gorbunov MY, **Ludtke SJ** , Falkowski PG, Dai W. Structural and functional analyses of photosystem II in the marine diatom Phaeodactylum tricornutum. Proc Natl Acad Sci U S A. 2019 08 27; 116(35):17316-17322. PMID: [31409711](//www.ncbi.nlm.nih.gov/pubmed/31409711); PMCID: [PMC6717305](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6717305).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31409711/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  23. Shi X, Chen M, Yu Z, Bell JM, Wang H, Forrester I, Villarreal H, Jakana J, Du D, Luisi BF, **Ludtke SJ** , Wang Z. In situ structure and assembly of the multidrug efflux pump AcrAB-TolC. Nat Commun. 2019 06 14; 10(1):2635. PMID: [31201302](//www.ncbi.nlm.nih.gov/pubmed/31201302); PMCID: [PMC6570770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6570770).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31201302/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  24. Fan G, Baker MR, Wang Z, Seryshev AB, **Ludtke SJ** , Baker ML, [Serysheva II](https://profiles.viictr.org/profile/266963). Cryo-EM reveals ligand induced allostery underlying InsP3R channel gating. Cell Res. 2018 12; 28(12):1158-1170. PMID: [30470765](//www.ncbi.nlm.nih.gov/pubmed/30470765); PMCID: [PMC6274648](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6274648).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30470765/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  25. Bell JM, Chen M, Durmaz T, Fluty AC, **Ludtke SJ**. New software tools in EMAN2 inspired by EMDatabank map challenge. J Struct Biol. 2018 11; 204(2):283-290. PMID: [30189321](//www.ncbi.nlm.nih.gov/pubmed/30189321); PMCID: [PMC6163079](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6163079).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30189321/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  26. Dai W, Chen M, Myers C, **Ludtke SJ** , Pettitt BM, King JA, Schmid MF, Chiu W. Visualizing Individual RuBisCO and Its Assembly into Carboxysomes in Marine Cyanobacteria by Cryo-Electron Tomography. J Mol Biol. 2018 10 19; 430(21):4156-4167. PMID: [30138616](//www.ncbi.nlm.nih.gov/pubmed/30138616); PMCID: [PMC6252266](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6252266).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30138616/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  27. Kim SJ, Fernandez-Martinez J, Nudelman I, Shi Y, Zhang W, Raveh B, Herricks T, Slaughter BD, Hogan JA, Upla P, Chemmama IE, Pellarin R, Echeverria I, Shivaraju M, Chaudhury AS, Wang J, Williams R, Unruh JR, Greenberg CH, Jacobs EY, Yu Z, de la Cruz MJ, Mironska R, Stokes DL, Aitchison JD, Jarrold MF, Gerton JL, **Ludtke SJ** , Akey CW, Chait BT, Sali A, Rout MP. Integrative structure and functional anatomy of a nuclear pore complex. Nature. 2018 03 22; 555(7697):475-482. PMID: [29539637](//www.ncbi.nlm.nih.gov/pubmed/29539637); PMCID: [PMC6022767](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6022767).
+
+Citations:
+[160](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29539637/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  28. Zhang K, Keane SC, Su Z, Irobalieva RN, Chen M, Van V, Sciandra CA, Marchant J, Heng X, Schmid MF, Case DA, **Ludtke SJ** , Summers MF, Chiu W. Structure of the 30?kDa HIV-1 RNA Dimerization Signal by a Hybrid Cryo-EM, NMR, and Molecular Dynamics Approach. Structure. 2018 03 06; 26(3):490-498.e3. PMID: [29398526](//www.ncbi.nlm.nih.gov/pubmed/29398526); PMCID: [PMC5842133](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5842133).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29398526/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  29. Chen M, Dai W, Sun SY, Jonasch D, He CY, Schmid MF, Chiu W, **Ludtke SJ**. Convolutional neural networks for automated annotation of cellular cryo-electron tomograms. Nat Methods. 2017 Oct; 14(10):983-985. PMID: [28846087](//www.ncbi.nlm.nih.gov/pubmed/28846087); PMCID: [PMC5623144](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5623144).
+
+Citations:
+[88](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28846087/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:Cells
+
+  30. [Yi P](https://profiles.viictr.org/profile/267727), Wang Z, [Feng Q](https://profiles.viictr.org/profile/267850), [Chou CK](https://profiles.viictr.org/profile/12583804), Pintilie GD, Shen H, [Foulds CE](https://profiles.viictr.org/profile/267919), Fan G, [Serysheva I](https://profiles.viictr.org/profile/266963), **Ludtke SJ** , Schmid MF, [Hung MC](https://profiles.viictr.org/profile/12582486), Chiu W, [O'Malley BW](https://profiles.viictr.org/profile/269511). Structural and Functional Impacts of ER Coactivator Sequential Recruitment. Mol Cell. 2017 Sep 07; 67(5):733-743.e4. PMID: [28844863](//www.ncbi.nlm.nih.gov/pubmed/28844863); PMCID: [PMC5657569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5657569).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28844863/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  31. **Ludtke SJ** , Galaz-Montoya JG. The advent of structural biology in situ by single particle cryo-electron tomography. Biophys Rep. 2017; 3(1):17-35. PMID: [28781998](//www.ncbi.nlm.nih.gov/pubmed/28781998); PMCID: [PMC5516000](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5516000).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28781998/citedby/)
+
+  32. Cheng TC, Yuan S, Yu Z, **Ludtke SJ** , Akey CW, Akey IV. A Near-Atomic Structure of the Dark Apoptosome Provides Insight into Assembly and Activation. Structure. 2017 01 03; 25(1):40-52. PMID: [27916517](//www.ncbi.nlm.nih.gov/pubmed/27916517); PMCID: [PMC5214966](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5214966).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27916517/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  33. Chen M, [Baldwin PR](https://profiles.viictr.org/profile/268193), **Ludtke SJ** , Baker ML. De Novo modeling in cryo-EM density maps with Pathwalking. J Struct Biol. 2016 12; 196(3):289-298. PMID: [27436409](//www.ncbi.nlm.nih.gov/pubmed/27436409); PMCID: [PMC5118137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5118137).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27436409/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  34. **Ludtke SJ**. Single-Particle Refinement and Variability Analysis in EMAN2.1. Methods Enzymol. 2016; 579:159-89. PMID: [27572727](//www.ncbi.nlm.nih.gov/pubmed/27572727); PMCID: [PMC5101015](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5101015).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27572727/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  35. Hecksel CW, [Baldwin PR](https://profiles.viictr.org/profile/268193), Wang E, Weaver SC, Schmid MF, **Ludtke SJ** , Chiu W, Galaz-Montoya JG. Alignment algorithms and per-particle CTF correction for single particle cryo-electron tomography. J Struct Biol. 2016 06; 194(3):383-94. PMID: [27016284](//www.ncbi.nlm.nih.gov/pubmed/27016284); PMCID: [PMC4846534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4846534).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27016284/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  36. Bell JM, Chen M, [Baldwin PR](https://profiles.viictr.org/profile/268193), **Ludtke SJ**. High resolution single particle refinement in EMAN2.1. Methods. 2016 05 01; 100:25-34. PMID: [26931650](//www.ncbi.nlm.nih.gov/pubmed/26931650); PMCID: [PMC4848122](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4848122).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26931650/citedby/) Fields:
+
+Bio Biochemistry
+
+  37. Marabini R, **Ludtke SJ** , Murray SC, Chiu W, Patwardhan A, Heymann JB, de la Rosa-Trev?n JM, Carazo JM. The Electron Microscopy eXchange (EMX) initiative. J Struct Biol. 2016 May; 194(2):156-63. PMID: [26873784](//www.ncbi.nlm.nih.gov/pubmed/26873784); PMCID: [PMC5093775](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5093775).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26873784/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Humans
+
+  38. Murray SC, Gillard BK, **Ludtke SJ** , Pownall HJ. Direct Measurement of the Structure of Reconstituted High-Density Lipoproteins by Cryo-EM. Biophys J. 2016 Feb 23; 110(4):810-6. PMID: [26743047](//www.ncbi.nlm.nih.gov/pubmed/26743047); PMCID: [PMC4775836](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4775836).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26743047/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  39. Lawson CL, Patwardhan A, Baker ML, Hryc C, Garcia ES, Hudson BP, Lagerstedt I, **Ludtke SJ** , Pintilie G, Sala R, Westbrook JD, Berman HM, Kleywegt GJ, Chiu W. EMDataBank unified data resource for 3DEM. Nucleic Acids Res. 2016 Jan 04; 44(D1):D396-403. PMID: [26578576](//www.ncbi.nlm.nih.gov/pubmed/26578576); PMCID: [PMC4702818](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4702818).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26578576/citedby/) Fields:
+
+Bio Biochemistry
+
+  40. Irobalieva RN, Fogg JM, Catanese DJ, Sutthibutpong T, Chen M, Barker AK, **Ludtke SJ** , Harris SA, Schmid MF, Chiu W, [Zechiedrich L](https://profiles.viictr.org/profile/267006). Erratum: Structural diversity of supercoiled DNA. Nat Commun. 2015 Oct 29; 6:8851. PMID: [26511109](//www.ncbi.nlm.nih.gov/pubmed/26511109); PMCID: [PMC7188467](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7188467).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26511109/citedby/) Fields:
+
+Bio BiologySci Science
+
+  41. Irobalieva RN, Fogg JM, Catanese DJ, Catanese DJ, Sutthibutpong T, Chen M, Barker AK, **Ludtke SJ** , Harris SA, Schmid MF, Chiu W, [Zechiedrich L](https://profiles.viictr.org/profile/267006). Structural diversity of supercoiled DNA. Nat Commun. 2015 Oct 12; 6:8440. PMID: [26455586](//www.ncbi.nlm.nih.gov/pubmed/26455586); PMCID: [PMC4608029](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4608029).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26455586/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  42. Fan G, Baker ML, Wang Z, Baker MR, Sinyagovskiy PA, Chiu W, **Ludtke SJ** , [Serysheva II](https://profiles.viictr.org/profile/266963). Gating machinery of InsP3R channels revealed by electron cryomicroscopy. Nature. 2015 Nov 19; 527(7578):336-41. PMID: [26458101](//www.ncbi.nlm.nih.gov/pubmed/26458101); PMCID: [PMC4804758](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4804758).
+
+Citations:
+[100](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26458101/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  43. Flanagan J, Schmid MF, **Ludtke SJ** , Galaz-Montoya JG. Single particle tomography in EMAN2. J Struct Biol. 2015 Jun; 190(3):279-90. PMID: [25956334](//www.ncbi.nlm.nih.gov/pubmed/25956334); PMCID: [PMC4457691](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4457691).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25956334/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  44. Carragher B, Chen S, Chen J, Cheng A, Downing KH, Frank J, Grassucci RA, Bernard Heymann J, Jiang W, Liao HY, **Ludtke SJ** , Patwari S, Piotrowski AL, Stahlberg H, Voss NR, Chiu W, Marabini R, Jonic S, Quintana A, Sorzano CO, Vargas J, Carazo JM. CTF Challenge: Result summary. J Struct Biol. 2015 Jun; 190(3):348-59. PMID: [25913484](//www.ncbi.nlm.nih.gov/pubmed/25913484); PMCID: [PMC4672951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4672951).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25913484/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  45. Cheng A, Henderson R, Mastronarde D, **Ludtke SJ** , Schoenmakers RH, Short J, Dallakyan S, Agard D, Winn M, Marabini R. MRC2014: Extensions to the MRC format header for electron cryo-microscopy and tomography. J Struct Biol. 2015 Nov; 192(2):146-50. PMID: [25882513](//www.ncbi.nlm.nih.gov/pubmed/25882513); PMCID: [PMC4642651](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4642651).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25882513/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  46. [Yi P](https://profiles.viictr.org/profile/267727), [Feng Q](https://profiles.viictr.org/profile/267850), [Foulds CE](https://profiles.viictr.org/profile/267919), [Lanz RB](https://profiles.viictr.org/profile/267684), [O'Malley BW](https://profiles.viictr.org/profile/269511), Wang Z, Pintilie GD, **Ludtke SJ** , Schmid MF, Chiu W. Structure of a biologically active estrogen receptor-coactivator complex on DNA. Mol Cell. 2015 Mar 19; 57(6):1047-1058. PMID: [25728767](//www.ncbi.nlm.nih.gov/pubmed/25728767); PMCID: [PMC4369429](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4369429).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25728767/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  47. Dai W, Fu C, Khant HA, **Ludtke SJ** , Schmid MF, Chiu W. Zernike phase-contrast electron cryotomography applied to marine cyanobacteria infected with cyanophages. Nat Protoc. 2014 Nov; 9(11):2630-42. PMID: [25321408](//www.ncbi.nlm.nih.gov/pubmed/25321408); PMCID: [PMC4371552](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4371552).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25321408/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesSci Science
+
+Translation:Cells
+
+  48. Wang Z, Hryc CF, Bammes B, Afonine PV, Jakana J, Chen DH, Liu X, Baker ML, Kao C, **Ludtke SJ** , Schmid MF, Adams PD, Chiu W. An atomic model of brome mosaic virus using direct electron detection and real-space optimization. Nat Commun. 2014 Sep 04; 5:4808. PMID: [25185801](//www.ncbi.nlm.nih.gov/pubmed/25185801); PMCID: [PMC4155512](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4155512).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25185801/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  49. Chen Z, Fischer ER, Kouiavskaia D, Hansen BT, **Ludtke SJ** , Bidzhieva B, Makiya M, Agulto L, Purcell RH, Chumakov K. Cross-neutralizing human anti-poliovirus antibodies bind the recognition site for cellular receptor. Proc Natl Acad Sci U S A. 2013 Dec 10; 110(50):20242-7. PMID: [24277851](//www.ncbi.nlm.nih.gov/pubmed/24277851); PMCID: [PMC3864303](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3864303).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24277851/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCellsPHPublic Health
+
+  50. Park E, Gumbart JC, **Ludtke SJ** , Li W, Whynot A, Rapoport TA, Akey CW, M?n?tret JF. Structure of the SecY channel during initiation of protein translocation. Nature. 2014 Feb 06; 506(7486):102-6. PMID: [24153188](//www.ncbi.nlm.nih.gov/pubmed/24153188); PMCID: [PMC3948209](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3948209).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24153188/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  51. Dai W, Fu C, Raytcheva D, Flanagan J, Khant HA, Liu X, [Rochat RH](https://profiles.viictr.org/profile/22016436), Haase-Pettingell C, Piret J, **Ludtke SJ** , Nagayama K, Schmid MF, King JA, Chiu W. Visualizing virus assembly intermediates inside marine cyanobacteria. Nature. 2013 Oct 31; 502(7473):707-10. PMID: [24107993](//www.ncbi.nlm.nih.gov/pubmed/24107993); PMCID: [PMC3984937](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3984937).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24107993/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  52. Shahmoradian SH, Galaz-Montoya JG, Schmid MF, Cong Y, Ma B, Spiess C, Frydman J, **Ludtke SJ** , Chiu W. TRiC's tricks inhibit huntingtin aggregation. Elife. 2013 Jul 09; 2:e00710. PMID: [23853712](//www.ncbi.nlm.nih.gov/pubmed/23853712); PMCID: [PMC3707056](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3707056).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23853712/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansCells
+
+  53. **Ludtke SJ** , [Serysheva II](https://profiles.viictr.org/profile/266963). Single-particle cryo-EM of calcium release channels: structural validation. Curr Opin Struct Biol. 2013 Oct; 23(5):755-62. PMID: [23831288](//www.ncbi.nlm.nih.gov/pubmed/23831288); PMCID: [PMC3805725](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3805725).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23831288/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:Cells
+
+  54. Stoilova-McPhie S, Lynch GC, **Ludtke S** , Pettitt BM. Domain organization of membrane-bound factor VIII. Biopolymers. 2013 Jul; 99(7):448-59. PMID: [23616213](//www.ncbi.nlm.nih.gov/pubmed/23616213); PMCID: [PMC4090243](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4090243).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23616213/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  55. Murray SC, Flanagan J, Popova OB, Chiu W, **Ludtke SJ** , [Serysheva II](https://profiles.viictr.org/profile/266963). Validation of cryo-EM structure of IP3R1 channel. Structure. 2013 Jun 04; 21(6):900-9. PMID: [23707684](//www.ncbi.nlm.nih.gov/pubmed/23707684); PMCID: [PMC3696195](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3696195).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23707684/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  56. Sergeeva OA, Chen B, Haase-Pettingell C, **Ludtke SJ** , Chiu W, King JA. Human CCT4 and CCT5 chaperonin subunits expressed in Escherichia coli form biologically active homo-oligomers. J Biol Chem. 2013 Jun 14; 288(24):17734-44. PMID: [23612981](//www.ncbi.nlm.nih.gov/pubmed/23612981); PMCID: [PMC3682573](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3682573).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23612981/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  57. Makhov AM, **Ludtke SJ** , Griffith JD, Tolun G. Details of ssDNA annealing revealed by an HSV-1 ICP8-ssDNA binary complex. Nucleic Acids Res. 2013 Jun; 41(11):5927-37. PMID: [23605044](//www.ncbi.nlm.nih.gov/pubmed/23605044); PMCID: [PMC3675482](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3675482).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23605044/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  58. Zhang Q, Dai X, Cong Y, Zhang J, Chen DH, Dougherty MT, Wang J, **Ludtke SJ** , Schmid MF, Chiu W. Cryo-EM structure of a molluscan hemocyanin suggests its allosteric mechanism. Structure. 2013 Apr 02; 21(4):604-13. PMID: [23541894](//www.ncbi.nlm.nih.gov/pubmed/23541894); PMCID: [PMC3657317](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3657317).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23541894/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  59. Rees I, Langley E, Chiu W, **Ludtke SJ**. EMEN2: an object oriented database and electronic lab notebook. Microsc Microanal. 2013 Feb; 19(1):1-10. PMID: [23360752](//www.ncbi.nlm.nih.gov/pubmed/23360752); PMCID: [PMC3907281](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3907281).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23360752/citedby/) Fields:
+
+Che Chemistry Techniques
+
+  60. Patwardhan A, Carragher B, Henderson R, Heymann JB, Hill E, Jensen GJ, Lagerstedt I, Lawson CL, **Ludtke SJ** , Mastronarde D, Moore WJ, Roseman A, Rosenthal P, Sorzano CO, Scheres SH, Subramaniam S, Westbrook J, Winn M, Swedlow JR, Kleywegt GJ, Carazo JM, Sanz-Garc?a E. Data management challenges in three-dimensional EM. Nat Struct Mol Biol. 2012 Dec; 19(12):1203-7. PMID: [23211764](//www.ncbi.nlm.nih.gov/pubmed/23211764); PMCID: [PMC4048199](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4048199).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23211764/citedby/) Fields:
+
+Mol Molecular Biology
+
+  61. **Ludtke SJ** , Lawson CL, Kleywegt GJ, Berman H, Chiu W. The 2010 cryo-EM modeling challenge. Biopolymers. 2012 Sep; 97(9):651-4. PMID: [22696402](//www.ncbi.nlm.nih.gov/pubmed/22696402).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22696402/citedby/) Fields:
+
+Bio Biochemistry
+
+  62. Leitner A, Joachimiak LA, Bracher A, Walzthoeni T, Chen B, Pechmann S, Holmes S, Cong Y, Ma B, **Ludtke S** , Chiu W, Hartl FU, Aebersold R, Frydman J, M?nkemeyer L. The molecular architecture of the eukaryotic chaperonin TRiC/CCT. Structure. 2012 May 09; 20(5):814-25. PMID: [22503819](//www.ncbi.nlm.nih.gov/pubmed/22503819); PMCID: [PMC3350567](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3350567).
+
+Citations:
+[133](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22503819/citedby/)
+Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  63. Baker MR, Rees I, **Ludtke SJ** , Chiu W, Baker ML. Constructing and validating initial Ca models from subnanometer resolution density maps with pathwalking. Structure. 2012 Mar 07; 20(3):450-63. PMID: [22405004](//www.ncbi.nlm.nih.gov/pubmed/22405004); PMCID: [PMC3307788](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22405004/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  64. Henderson R, Sali A, Baker ML, Carragher B, Devkota B, Downing KH, Egelman EH, Feng Z, Frank J, Grigorieff N, Jiang W, **Ludtke SJ** , Medalia O, Penczek PA, Rosenthal PB, Rossmann MG, Schmid MF, Steven AC, Stokes DL, Westbrook JD, Wriggers W, Yang H, Young J, Berman HM, Chiu W, Kleywegt GJ, Lawson CL, Schr?der GF. Outcome of the first electron microscopy validation task force meeting. Structure. 2012 Feb 08; 20(2):205-14. PMID: [22325770](//www.ncbi.nlm.nih.gov/pubmed/22325770); PMCID: [PMC3328769](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3328769).
+
+Citations:
+[239](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22325770/citedby/)
+Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  65. Cong Y, Meyer AS, Jakana J, Ma B, Dougherty MT, Schmid MF, Reissmann S, Levitt M, **Ludtke SL** , Frydman J, Chiu W, Schr?der GF. Symmetry-free cryo-EM structures of the chaperonin TRiC along its ATPase-driven conformational cycle. EMBO J. 2012 Feb 01; 31(3):720-30. PMID: [22045336](//www.ncbi.nlm.nih.gov/pubmed/22045336); PMCID: [PMC3273382](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3273382).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22045336/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  66. Yuan S, Yu X, Asara JM, Heuser JE, **Ludtke SJ** , Akey CW. The holo-apoptosome: activation of procaspase-9 and interactions with caspase-3. Structure. 2011 Aug 10; 19(8):1084-96. PMID: [21827945](//www.ncbi.nlm.nih.gov/pubmed/21827945); PMCID: [PMC3155825](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3155825).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21827945/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:HumansCells
+
+  67. **Ludtke SJ** , Tran TP, Ngo QT, Moiseenkova-Bell VY, Chiu W, [Serysheva II](https://profiles.viictr.org/profile/266963). Flexible architecture of IP3R1 by Cryo-EM. Structure. 2011 Aug 10; 19(8):1192-9. PMID: [21827954](//www.ncbi.nlm.nih.gov/pubmed/21827954); PMCID: [PMC3154621](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3154621).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21827954/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  68. Yuan S, Yu X, Topf M, Dorstyn L, Kumar S, **Ludtke SJ** , Akey CW. Structure of the Drosophila apoptosome at 6.9?? resolution. Structure. 2011 Jan 12; 19(1):128-40. PMID: [21220123](//www.ncbi.nlm.nih.gov/pubmed/21220123); PMCID: [PMC3053581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3053581).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21220123/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  69. **Ludtke SJ** , Lawson CL, Kleywegt GJ, Berman HM, Chiu W. Workshop on the validation and modeling of electron cryo-microscopy structures of biological nanomachines. Pac Symp Biocomput. 2011; 369-73. PMID: [21121065](//www.ncbi.nlm.nih.gov/pubmed/21121065); PMCID: [PMC3617577](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3617577).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21121065/citedby/) Fields:
+
+Com Computational Biology
+
+  70. Baird NJ, **Ludtke SJ** , Khant H, Chiu W, Pan T, Sosnick TR. Discrete structure of an RNA folding intermediate revealed by cryo-electron microscopy. J Am Chem Soc. 2010 Nov 24; 132(46):16352-3. PMID: [21038867](//www.ncbi.nlm.nih.gov/pubmed/21038867); PMCID: [PMC2988076](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2988076).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21038867/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Cells
+
+  71. Lawson CL, Baker ML, Best C, Bi C, Dougherty M, Feng P, van Ginkel G, Devkota B, Lagerstedt I, **Ludtke SJ** , Newman RH, Oldfield TJ, Rees I, Sahni G, Sala R, Velankar S, Warren J, Westbrook JD, Henrick K, Kleywegt GJ, Berman HM, Chiu W. EMDataBank.org: unified data resource for CryoEM. Nucleic Acids Res. 2011 Jan; 39(Database issue):D456-64. PMID: [20935055](//www.ncbi.nlm.nih.gov/pubmed/20935055); PMCID: [PMC3013769](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3013769).
+
+Citations:
+[126](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20935055/citedby/)
+Fields:
+
+Bio Biochemistry
+
+  72. Baker ML, Zhang J, **Ludtke SJ** , Chiu W. Cryo-EM of macromolecular assemblies at near-atomic resolution. Nat Protoc. 2010 Sep; 5(10):1697-708. PMID: [20885381](//www.ncbi.nlm.nih.gov/pubmed/20885381); PMCID: [PMC3107675](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3107675).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20885381/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesSci Science
+
+Translation:Cells
+
+  73. [Serysheva II](https://profiles.viictr.org/profile/266963), **Ludtke SJ**. 3D Structure of IP(3) Receptor. Curr Top Membr. 2010; 66:171-89. PMID: [22353480](//www.ncbi.nlm.nih.gov/pubmed/22353480).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22353480/citedby/) Fields:
+
+Bio BiochemistryCel Cell Biology
+
+  74. Yuan S, Yu X, Topf M, **Ludtke SJ** , Wang X, Akey CW. Structure of an apoptosome-procaspase-9 CARD complex. Structure. 2010 May 12; 18(5):571-83. PMID: [20462491](//www.ncbi.nlm.nih.gov/pubmed/20462491); PMCID: [PMC2874686](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2874686).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20462491/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Humans
+
+  75. Cong Y, Baker ML, Jakana J, Woolford D, Miller EJ, Reissmann S, Kumar RN, Redding-Johanson AM, Batth TS, Mukhopadhyay A, **Ludtke SJ** , Frydman J, Chiu W. 4.0-A resolution cryo-EM structure of the mammalian chaperonin TRiC/CCT reveals its unique subunit arrangement. Proc Natl Acad Sci U S A. 2010 Mar 16; 107(11):4967-72. PMID: [20194787](//www.ncbi.nlm.nih.gov/pubmed/20194787); PMCID: [PMC2841888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2841888).
+
+Citations:
+[84](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20194787/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  76. Zhang J, Baker ML, Douglas NR, Reissmann S, Jakana J, Dougherty M, Fu CJ, Levitt M, **Ludtke SJ** , Frydman J, Chiu W, Schr?der GF. Mechanism of folding chamber closure in a group II chaperonin. Nature. 2010 Jan 21; 463(7279):379-83. PMID: [20090755](//www.ncbi.nlm.nih.gov/pubmed/20090755); PMCID: [PMC2834796](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2834796).
+
+Citations:
+[103](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20090755/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Cells
+
+  77. **Ludtke SJ**. 3-D structures of macromolecules using single-particle analysis in EMAN. Methods Mol Biol. 2010; 673:157-73. PMID: [20835797](//www.ncbi.nlm.nih.gov/pubmed/20835797).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20835797/citedby/) Fields:
+
+Mol Molecular Biology
+
+  78. Cong Y, **Ludtke SJ**. Single particle analysis at high resolution. Methods Enzymol. 2010; 482:211-35. PMID: [20888963](//www.ncbi.nlm.nih.gov/pubmed/20888963).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20888963/citedby/) Fields:
+
+Bio Biochemistry
+
+  79. Ren G, Rudenko G, **Ludtke SJ** , Deisenhofer J, Chiu W, Pownall HJ. Model of human low-density lipoprotein and bound receptor based on cryoEM. Proc Natl Acad Sci U S A. 2010 Jan 19; 107(3):1059-64. PMID: [20080547](//www.ncbi.nlm.nih.gov/pubmed/20080547); PMCID: [PMC2798884](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2798884).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20080547/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  80. Han M, Mei Y, Khant H, **Ludtke SJ**. Characterization of antibiotic peptide pores using cryo-EM and comparison to neutron scattering. Biophys J. 2009 Jul 08; 97(1):164-72. PMID: [19580754](//www.ncbi.nlm.nih.gov/pubmed/19580754); PMCID: [PMC2711362](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2711362).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19580754/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Animals
+
+  81. Cong Y, Zhang Q, Woolford D, Schweikardt T, Khant H, Dougherty M, **Ludtke SJ** , Chiu W, Decker H. Structural mechanism of SDS-induced enzyme activity of scorpion hemocyanin revealed by electron cryomicroscopy. Structure. 2009 May 13; 17(5):749-58. PMID: [19446530](//www.ncbi.nlm.nih.gov/pubmed/19446530); PMCID: [PMC2705691](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2705691).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19446530/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  82. Zhang R, Hu X, Khant H, **Ludtke SJ** , Chiu W, Schmid MF, Frieden C, Lee JM. Interprotofilament interactions between Alzheimer's Abeta1-42 peptides in amyloid fibrils revealed by cryoEM. Proc Natl Acad Sci U S A. 2009 Mar 24; 106(12):4653-8. PMID: [19264960](//www.ncbi.nlm.nih.gov/pubmed/19264960); PMCID: [PMC2660777](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2660777).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19264960/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  83. Han M, Gillard BK, Courtney HS, Ward K, Rosales C, Khant H, **Ludtke SJ** , Pownall HJ. Disruption of human plasma high-density lipoproteins by streptococcal serum opacity factor requires labile apolipoprotein A-I. Biochemistry. 2009 Feb 24; 48(7):1481-7. PMID: [19191587](//www.ncbi.nlm.nih.gov/pubmed/19191587); PMCID: [PMC2962917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2962917).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19191587/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  84. [Serysheva II](https://profiles.viictr.org/profile/266963), **Ludtke SJ** , Baker ML, Cong Y, Topf M, Eramian D, Sali A, [Hamilton SL](https://profiles.viictr.org/profile/269595), Chiu W. Subnanometer-resolution electron cryomicroscopy-based domain models for the cytoplasmic region of skeletal muscle RyR channel. Proc Natl Acad Sci U S A. 2008 Jul 15; 105(28):9610-5. PMID: [18621707](//www.ncbi.nlm.nih.gov/pubmed/18621707); PMCID: [PMC2474495](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2474495).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18621707/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  85. Booth CR, Meyer AS, Cong Y, Topf M, Sali A, **Ludtke SJ** , Chiu W, Frydman J. Mechanism of lid closure in the eukaryotic chaperonin TRiC/CCT. Nat Struct Mol Biol. 2008 Jul; 15(7):746-53. PMID: [18536725](//www.ncbi.nlm.nih.gov/pubmed/18536725); PMCID: [PMC2546500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2546500).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18536725/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  86. **Ludtke SJ** , Baker ML, Chen DH, Song JL, Chuang DT, Chiu W. De novo backbone trace of GroEL from single particle electron cryomicroscopy. Structure. 2008 Mar; 16(3):441-8. PMID: [18334219](//www.ncbi.nlm.nih.gov/pubmed/18334219).
+
+Citations:
+[97](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18334219/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  87. Schaletzky J, Clemons WM, Osborne AR, Denison C, Gygi SP, Kirkpatrick DS, Park E, **Ludtke SJ** , Rapoport TA, Akey CW, M?n?tret JF, Sk?nland SS. Ribosome binding of a single copy of the SecY complex: implications for protein translocation. Mol Cell. 2007 Dec 28; 28(6):1083-92. PMID: [18158904](//www.ncbi.nlm.nih.gov/pubmed/18158904).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18158904/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  88. [Serysheva II](https://profiles.viictr.org/profile/266963), Chiu W, **Ludtke SJ**. Single-particle electron cryomicroscopy of the ion channels in the excitation-contraction coupling junction. Methods Cell Biol. 2007; 79:407-35. PMID: [17327167](//www.ncbi.nlm.nih.gov/pubmed/17327167).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17327167/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  89. Chen DH, Song JL, Chuang DT, Chiu W, **Ludtke SJ**. An expanded conformation of single-ring GroEL-GroES complex encapsulates an 86 kDa substrate. Structure. 2006 Nov; 14(11):1711-22. PMID: [17098196](//www.ncbi.nlm.nih.gov/pubmed/17098196).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17098196/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:HumansCells
+
+  90. Jiang X, Jayaram H, Kumar M, **Ludtke SJ** , [Estes MK](https://profiles.viictr.org/profile/266419), Prasad BV. Cryoelectron microscopy structures of rotavirus NSP2-NSP5 and NSP2-RNA complexes: implications for genome replication. J Virol. 2006 Nov; 80(21):10829-35. PMID: [16928740](//www.ncbi.nlm.nih.gov/pubmed/16928740); PMCID: [PMC1641785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1641785).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16928740/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  91. Hohn M, Tang G, Goodyear G, [Baldwin PR](https://profiles.viictr.org/profile/268193), Huang Z, Penczek PA, Yang C, Glaeser RM, Adams PD, **Ludtke SJ**. SPARX, a new environment for Cryo-EM image processing. J Struct Biol. 2007 Jan; 157(1):47-55. PMID: [16931051](//www.ncbi.nlm.nih.gov/pubmed/16931051).
+
+Citations:
+[241](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16931051/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  92. Tang G, Peng L, [Baldwin PR](https://profiles.viictr.org/profile/268193), Mann DS, Jiang W, Rees I, **Ludtke SJ**. EMAN2: an extensible image processing suite for electron microscopy. J Struct Biol. 2007 Jan; 157(1):38-46. PMID: [16859925](//www.ncbi.nlm.nih.gov/pubmed/16859925).
+
+Citations:
+[1584](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16859925/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  93. Chen X, Khant HA, Ubach J, **Ludtke SJ** , Kikkawa M, Johnson AE, Chiu W, Rizo J, Ara? D, S?dhof TC. Close membrane-membrane proximity induced by Ca(2+)-dependent multivalent binding of synaptotagmin-1 to phospholipids. Nat Struct Mol Biol. 2006 Mar; 13(3):209-17. PMID: [16491093](//www.ncbi.nlm.nih.gov/pubmed/16491093).
+
+Citations:
+[132](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16491093/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  94. Passmore LA, Booth CR, **Ludtke SJ** , Johnson LN, Chiu W, Barford D, V?nien-Bryan C, Fioretto C. Structural analysis of the anaphase-promoting complex reveals multiple active sites and insights into polyubiquitylation. Mol Cell. 2005 Dec 22; 20(6):855-66. PMID: [16364911](//www.ncbi.nlm.nih.gov/pubmed/16364911).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16364911/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  95. Yu X, Acehan D, Booth CR, **Ludtke SJ** , Riedl SJ, Shi Y, Wang X, Akey CW, M?n?tret JF. A structure of the human apoptosome at 12.8 A resolution provides insights into this cell death platform. Structure. 2005 Nov; 13(11):1725-35. PMID: [16271896](//www.ncbi.nlm.nih.gov/pubmed/16271896).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16271896/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:HumansCells
+
+  96. Jiang W, **Ludtke SJ**. Electron cryomicroscopy of single particles at subnanometer resolution. Curr Opin Struct Biol. 2005 Oct; 15(5):571-7. PMID: [16140524](//www.ncbi.nlm.nih.gov/pubmed/16140524).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16140524/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  97. **Ludtke SJ** , [Serysheva II](https://profiles.viictr.org/profile/266963), Hamilton SL, Chiu W. The pore structure of the closed RyR1 channel. Structure. 2005 Aug; 13(8):1203-11. PMID: [16084392](//www.ncbi.nlm.nih.gov/pubmed/16084392); PMCID: [PMC2983469](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2983469).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16084392/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  98. Sitharaman B, Kissell KR, Hartman KB, Tran LA, Baikalov A, Rusakova I, Sun Y, Khant HA, **Ludtke SJ** , Chiu W, Laus S, Helm L, Merbach AE, Wilson LJ, T?th E. Superparamagnetic gadonanotubes are high-performance MRI contrast agents. Chem Commun (Camb). 2005 Aug 21; (31):3915-7. PMID: [16075070](//www.ncbi.nlm.nih.gov/pubmed/16075070).
+
+Citations:
+[70](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16075070/citedby/) Fields:
+
+Che Chemistry
+
+  99. Hegde RS, Heinrich SU, Chandramouli P, **Ludtke SJ** , Rapoport TA, Akey CW, M?n?tret JF. Architecture of the ribosome-channel complex derived from native membranes. J Mol Biol. 2005 Apr 29; 348(2):445-57. PMID: [15811380](//www.ncbi.nlm.nih.gov/pubmed/15811380).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15811380/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  100. [Serysheva II](https://profiles.viictr.org/profile/266963), Hamilton SL, Chiu W, **Ludtke SJ**. Structure of Ca2+ release channel at 14 A resolution. J Mol Biol. 2005 Jan 21; 345(3):427-31. PMID: [15581887](//www.ncbi.nlm.nih.gov/pubmed/15581887); PMCID: [PMC2978512](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2978512).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15581887/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  101. Booth CR, Jiang W, Baker ML, Zhou ZH, **Ludtke SJ** , Chiu W. A 9 angstroms single particle reconstruction from CCD captured images on a 200 kV electron cryomicroscope. J Struct Biol. 2004 Aug; 147(2):116-27. PMID: [15193640](//www.ncbi.nlm.nih.gov/pubmed/15193640).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15193640/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  102. Mao Y, Vyas NK, Vyas MN, Chen DH, **Ludtke SJ** , Chiu W, [Quiocho FA](https://profiles.viictr.org/profile/266875). Structure of the bifunctional and Golgi-associated formiminotransferase cyclodeaminase octamer. EMBO J. 2004 Aug 04; 23(15):2963-71. PMID: [15272307](//www.ncbi.nlm.nih.gov/pubmed/15272307); PMCID: [PMC514939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC514939).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15272307/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  103. **Ludtke SJ** , Chen DH, Song JL, Chuang DT, Chiu W. Seeing GroEL at 6 A resolution by single particle electron cryomicroscopy. Structure. 2004 Jul; 12(7):1129-36. PMID: [15242589](//www.ncbi.nlm.nih.gov/pubmed/15242589).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15242589/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  104. Chen C, Ko Y, Delannoy M, **Ludtke SJ** , Chiu W, Pedersen PL. Mitochondrial ATP synthasome: three-dimensional structure by electron microscopy of the ATP synthase in complex formation with carriers for Pi and ADP/ATP. J Biol Chem. 2004 Jul 23; 279(30):31761-8. PMID: [15166242](//www.ncbi.nlm.nih.gov/pubmed/15166242).
+
+Citations:
+[95](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15166242/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  105. Brink J, **Ludtke SJ** , Kong Y, Wakil SJ, Ma J, Chiu W. Experimental verification of conformational variation of human fatty acid synthase as predicted by normal mode analysis. Structure. 2004 Feb; 12(2):185-91. PMID: [14962379](//www.ncbi.nlm.nih.gov/pubmed/14962379).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14962379/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:HumansCells
+
+  106. Zhu Y, Carragher B, Glaeser RM, Fellmann D, Bajaj C, Bern M, Mouche F, de Haas F, Hall RJ, Kriegman DJ, **Ludtke SJ** , Mallick SP, Penczek PA, Roseman AM, Sigworth FJ, Volkmann N, Potter CS. Automatic particle selection: results of a comparative study. J Struct Biol. 2004 Jan-Feb; 145(1-2):3-14. PMID: [15065668](//www.ncbi.nlm.nih.gov/pubmed/15065668).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15065668/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  107. **Ludtke SJ** , Nason L, Tu H, Peng L, Chiu W. Object oriented database and electronic notebook for transmission electron microscopy. Microsc Microanal. 2003 Dec; 9(6):556-65. PMID: [14750990](//www.ncbi.nlm.nih.gov/pubmed/14750990).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14750990/citedby/) Fields:
+
+Che Chemistry Techniques
+
+  108. **Ludtke SJ** , Chiu W. Focal pair merging for contrast enhancement of single particles. J Struct Biol. 2003 Oct-Nov; 144(1-2):73-8. PMID: [14643210](//www.ncbi.nlm.nih.gov/pubmed/14643210).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14643210/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  109. [Serysheva II](https://profiles.viictr.org/profile/266963), Bare DJ, **Ludtke SJ** , Kettlun CS, Chiu W, Mignery GA. Structure of the type 1 inositol 1,4,5-trisphosphate receptor revealed by electron cryomicroscopy. J Biol Chem. 2003 Jun 13; 278(24):21319-22. PMID: [12714606](//www.ncbi.nlm.nih.gov/pubmed/12714606).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12714606/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  110. Baker ML, [Serysheva II](https://profiles.viictr.org/profile/266963), Sencer S, Wu Y, **Ludtke SJ** , Jiang W, Hamilton SL, Chiu W. The skeletal muscle Ca2+ release channel has an oxidoreductase-like domain. Proc Natl Acad Sci U S A. 2002 Sep 17; 99(19):12155-60. PMID: [12218169](//www.ncbi.nlm.nih.gov/pubmed/12218169); PMCID: [PMC129414](//www.ncbi.nlm.nih.gov/pmc/articles/PMC129414).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12218169/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  111. [Serysheva II](https://profiles.viictr.org/profile/266963), **Ludtke SJ** , Baker MR, Chiu W, Hamilton SL. Structure of the voltage-gated L-type Ca2+ channel by electron cryomicroscopy. Proc Natl Acad Sci U S A. 2002 Aug 06; 99(16):10370-5. PMID: [12149473](//www.ncbi.nlm.nih.gov/pubmed/12149473); PMCID: [PMC124921](//www.ncbi.nlm.nih.gov/pmc/articles/PMC124921).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12149473/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  112. Brink J, **Ludtke SJ** , Yang CY, Gu ZW, Wakil SJ, Chiu W. Quaternary structure of human fatty acid synthase by electron cryomicroscopy. Proc Natl Acad Sci U S A. 2002 Jan 08; 99(1):138-43. PMID: [11756679](//www.ncbi.nlm.nih.gov/pubmed/11756679); PMCID: [PMC117528](//www.ncbi.nlm.nih.gov/pmc/articles/PMC117528).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11756679/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  113. **Ludtke SJ** , Jakana J, Song JL, Chuang DT, Chiu W. A 11.5 A single particle reconstruction of GroEL using EMAN. J Mol Biol. 2001 Nov 23; 314(2):253-62. PMID: [11718559](//www.ncbi.nlm.nih.gov/pubmed/11718559).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11718559/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  114. Jiang W, Baker ML, **Ludtke SJ** , Chiu W. Bridging the information gap: computational tools for intermediate resolution structure interpretation. J Mol Biol. 2001 May 18; 308(5):1033-44. PMID: [11352589](//www.ncbi.nlm.nih.gov/pubmed/11352589).
+
+Citations:
+[125](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11352589/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  115. Saad A, **Ludtke SJ** , Jakana J, Rixon FJ, Tsuruta H, Chiu W. Fourier amplitude decay of electron cryomicroscopic images of single particles and effects on structure determination. J Struct Biol. 2001 Jan; 133(1):32-42. PMID: [11356062](//www.ncbi.nlm.nih.gov/pubmed/11356062).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11356062/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  116. **Ludtke SJ** , [Baldwin PR](https://profiles.viictr.org/profile/268193), Chiu W. EMAN: semiautomated software for high-resolution single-particle reconstructions. J Struct Biol. 1999 Dec 01; 128(1):82-97. PMID: [10600563](//www.ncbi.nlm.nih.gov/pubmed/10600563).
+
+Citations:
+[1316](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10600563/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  117. Heller WT, He K, **Ludtke SJ** , Harroun TA, Huang HW. Effect of changing the size of lipid headgroup on peptide insertion into membranes. Biophys J. 1997 Jul; 73(1):239-44. PMID: [9199788](//www.ncbi.nlm.nih.gov/pubmed/9199788); PMCID: [PMC1180925](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1180925).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9199788/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  118. He K, **Ludtke SJ** , Heller WT, Huang HW. Mechanism of alamethicin insertion into lipid bilayers. Biophys J. 1996 Nov; 71(5):2669-79. PMID: [8913604](//www.ncbi.nlm.nih.gov/pubmed/8913604); PMCID: [PMC1233753](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1233753).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8913604/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  119. **Ludtke SJ** , He K, Heller WT, Harroun TA, Yang L, Huang HW. Membrane pores induced by magainin. Biochemistry. 1996 Oct 29; 35(43):13723-8. PMID: [8901513](//www.ncbi.nlm.nih.gov/pubmed/8901513).
+
+Citations:
+[236](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8901513/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  120. He K, **Ludtke SJ** , Worcester DL, Huang HW. Neutron scattering in the plane of membranes: structure of alamethicin pores. Biophys J. 1996 Jun; 70(6):2659-66. PMID: [8744303](//www.ncbi.nlm.nih.gov/pubmed/8744303); PMCID: [PMC1225245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1225245).
+
+Citations:
+[90](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8744303/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  121. **Ludtke S** , He K, Huang H. Membrane thinning caused by magainin 2. Biochemistry. 1995 Dec 26; 34(51):16764-9. PMID: [8527451](//www.ncbi.nlm.nih.gov/pubmed/8527451).
+
+Citations:
+[110](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8527451/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  122. He K, **Ludtke SJ** , Huang HW, Worcester DL. Antimicrobial peptide pores in membranes detected by neutron in-plane scattering. Biochemistry. 1995 Dec 05; 34(48):15614-8. PMID: [7495788](//www.ncbi.nlm.nih.gov/pubmed/7495788).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7495788/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  123. Wu Y, He K, **Ludtke SJ** , Huang HW. X-ray diffraction study of lipid bilayer membranes interacting with amphiphilic helical peptides: diphytanoyl phosphatidylcholine with alamethicin at low concentrations. Biophys J. 1995 Jun; 68(6):2361-9. PMID: [7647240](//www.ncbi.nlm.nih.gov/pubmed/7647240); PMCID: [PMC1282146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1282146).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7647240/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  124. **Ludtke SJ** , He K, Wu Y, Huang HW. Cooperative membrane insertion of magainin correlated with its cytolytic activity. Biochim Biophys Acta. 1994 Feb 23; 1190(1):181-4. PMID: [8110813](//www.ncbi.nlm.nih.gov/pubmed/8110813).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8110813/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Cells
+
+  125. He K, **Ludtke SJ** , Wu Y, Huang HW, Andersen OS, Greathouse D, Koeppe RE. Closed state of gramicidin channel detected by X-ray in-plane scattering. Biophys Chem. 1994 Feb; 49(1):83-9. PMID: [7510532](//www.ncbi.nlm.nih.gov/pubmed/7510532).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7510532/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Cells
+
+  126. He K, **Ludtke SJ** , Wu Y, Huang HW. X-ray scattering with momentum transfer in the plane of membrane. Application to gramicidin organization. Biophys J. 1993 Jan; 64(1):157-62. PMID: [7679294](//www.ncbi.nlm.nih.gov/pubmed/7679294); PMCID: [PMC1262312](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1262312).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7679294/citedby/) Fields:
+
+Bio Biophysics
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 125 publications over 29 distinct years, with a maximum of
+11 publications in
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|11&cht=bvs&chd=t:18,27,27,9,0,9,0,36,18,27,55,64,45,18,27,45,82,45,45,100,18,82,55,27,45,36,18,27,45,55,27&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 2  
+1995| 3  
+1996| 3  
+1997| 1  
+1999| 1  
+2001| 4  
+2002| 2  
+2003| 3  
+2004| 6  
+2005| 7  
+2006| 5  
+2007| 2  
+2008| 3  
+2009| 5  
+2010| 9  
+2011| 5  
+2012| 5  
+2013| 11  
+2014| 2  
+2015| 9  
+2016| 6  
+2017| 3  
+2018| 5  
+2019| 4  
+2020| 2  
+2021| 3  
+2022| 5  
+2023| 6  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LUDTKE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (374)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Cryoelectron Microscopy](https://profiles.viictr.org/profile/248518)
+  * [Software](https://profiles.viictr.org/profile/244503)
+  * [Models, Molecular](https://profiles.viictr.org/profile/255643)
+  * [Image Processing, Computer-Assisted](https://profiles.viictr.org/profile/255266)
+  * [Chaperonin 60](https://profiles.viictr.org/profile/239740)
+
+[Explore](https://profiles.viictr.org/profile/270167/198)
+
+_
+
+Co-Authors (20)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SERYSHEVA, IRINA](https://profiles.viictr.org/profile/266963)
+  * [Anderson, Erik](https://profiles.viictr.org/profile/31454200)
+  * [BALDWIN, PHILIP](https://profiles.viictr.org/profile/268193)
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [YI, PING](https://profiles.viictr.org/profile/267727)
+
+[Explore](https://profiles.viictr.org/profile/270167/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [SERYSHEVA, IRINA](https://profiles.viictr.org/profile/266963)
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [COURT, LAURENCE EDWARD](https://profiles.viictr.org/profile/12582626)
+  * [BALDWIN, PHILIP](https://profiles.viictr.org/profile/268193)
+
+[Explore](https://profiles.viictr.org/profile/270167/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [FERREON, JOSEPHINE](https://profiles.viictr.org/profile/8065537)
+  * [MUSTOE, ANTHONY](https://profiles.viictr.org/profile/28999550)
+  * [REDDY, R](https://profiles.viictr.org/profile/267427)
+  * [UESUGI, MOTONARI](https://profiles.viictr.org/profile/268207)
+  * [YOUNG, DAMIAN](https://profiles.viictr.org/profile/5099690)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [GILBERT, HIRAM](https://profiles.viictr.org/profile/267387)
+  * [JUNG, SUNG](https://profiles.viictr.org/profile/268570)
+  * [SONG, YONGCHENG](https://profiles.viictr.org/profile/266042)
+  * [VENKEN, KOEN](https://profiles.viictr.org/profile/3010184)
+  * [WANG, JIN](https://profiles.viictr.org/profile/266173)
+
+_
+

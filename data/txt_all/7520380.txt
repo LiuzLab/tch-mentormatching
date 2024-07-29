@@ -1,0 +1,386 @@
+## MINGSHAN XUE
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Address| 1250 MOURSUND STREET  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=G6I%2b5nbPIYW7fprowHnBJ%2fqJIwQ%3d&rnd=eeedd6c2-f85f-492a-92e9-d3428b6d4896)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=7520380)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Affiliation  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+groups
+
+  * [Dr. Shaulsky's Group](https://profiles.viictr.org/profile/28672289) (Member) 
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+RF1NS133657 (SPUDICH, JOHN LEE)Sep 1, 2023 - Aug 31, 2026NIH  
+Developing an Optogenetics Technology Based on Natural Potassium-selective
+Channelrhodopsins  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+U01NS118288 (XUE, MINGSHAN)Aug 15, 2020 - Aug 31, 2024NIH  
+Molecular Engineering of Natural Light-Gated Chloride Channels for Optogenetic
+Inhibition  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01MH117089 (XUE, MINGSHAN)Aug 16, 2018 - May 31, 2024NIH  
+Activity-Dependent Mechanisms Regulating Synaptic Excitation and Inhibition in
+Neural Circuits  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01NS100893 (XUE, MINGSHAN)Feb 1, 2017 - Jan 31, 2022NIH  
+Synaptic Dysfunction of Neural Circuits in Neurodevelopmental Disorders  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Tu L, Bean JC, [He Y](https://profiles.viictr.org/profile/28999176), [Liu H](https://profiles.viictr.org/profile/37104192), [Yu M](https://profiles.viictr.org/profile/24845346), [Liu H](https://profiles.viictr.org/profile/23496167), Zhang N, Yin N, Han J, Scarcelli NA, Conde KM, Wang M, Li Y, [Feng B](https://profiles.viictr.org/profile/6618447), Gao P, [Cai ZL](https://profiles.viictr.org/profile/8684236), [Fukuda M](https://profiles.viictr.org/profile/270028), **Xue M** , Tong Q, [Yang Y](https://profiles.viictr.org/profile/2619306), [Liao L](https://profiles.viictr.org/profile/268314), Xu J, [Wang C](https://profiles.viictr.org/profile/3010485), He Y, [Xu Y](https://profiles.viictr.org/profile/269314). Anoctamin 4 channel currents activate glucose-inhibited neurons in the mouse ventromedial hypothalamus during hypoglycemia. J Clin Invest. 2023 07 17; 133(14). PMID: [37261917](//www.ncbi.nlm.nih.gov/pubmed/37261917); PMCID: [PMC10348766](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10348766).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  2. Corriveau ML, Amaya SI, Koebel MC, Lerma VC, Michener SL, [Turner A](https://profiles.viictr.org/profile/23478783), [Schultz RJ](https://profiles.viictr.org/profile/267701), [Seto ES](https://profiles.viictr.org/profile/3009512), [Diaz-Medina GE](https://profiles.viictr.org/profile/268866), [Craigen WJ](https://profiles.viictr.org/profile/267972), [Swann JW](https://profiles.viictr.org/profile/268300), **Xue M** , [Chao HT](https://profiles.viictr.org/profile/23478929). PAK1 c.1409?T?>?a (p. Leu470Gln) de novo variant affects the protein kinase domain, leading to epilepsy, macrocephaly, spastic quadriplegia, and hydrocephalus: Case report and review of the literature. Am J Med Genet A. 2023 06; 191(6):1619-1625. PMID: [36905087](//www.ncbi.nlm.nih.gov/pubmed/36905087).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  3. Lee D, Chen W, [Kaku HN](https://profiles.viictr.org/profile/37567609), Zhuo X, Chao ES, Soriano A, Kuncheria A, Flores S, Kim JH, Rivera A, Rigo F, Jafar-Nejad P, Beaudet AL, [Caudill MS](https://profiles.viictr.org/profile/21983716), **Xue M**. Antisense oligonucleotide therapy rescues disturbed brain rhythms and sleep in juvenile and adult mouse models of Angelman syndrome. Elife. 2023 01 03; 12. PMID: [36594817](//www.ncbi.nlm.nih.gov/pubmed/36594817); PMCID: [PMC9904759](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9904759).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36594817/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  4. Stevens SR, Longley CM, [Ogawa Y](https://profiles.viictr.org/profile/24845038), Teliska LH, Arumanayagam AS, Nair S, Oses-Prieto JA, Burlingame AL, [Cykowski MD](https://profiles.viictr.org/profile/14348186), **Xue M** , [Rasband MN](https://profiles.viictr.org/profile/265764). Ankyrin-R regulates fast-spiking interneuron excitability through perineuronal nets and Kv3.1b K+ channels. Elife. 2021 06 28; 10. PMID: [34180393](//www.ncbi.nlm.nih.gov/pubmed/34180393); PMCID: [PMC8257253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8257253).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34180393/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  5. Chen W, [Cai ZL](https://profiles.viictr.org/profile/8684236), Chao ES, Chen H, Longley CM, Hao S, [Chao HT](https://profiles.viictr.org/profile/23478929), Kim JH, Messier JE, [Zoghbi HY](https://profiles.viictr.org/profile/267945), [Tang J](https://profiles.viictr.org/profile/267756), [Swann JW](https://profiles.viictr.org/profile/268300), **Xue M**. Stxbp1/Munc18-1 haploinsufficiency impairs inhibition and mediates key neurological features of STXBP1 encephalopathy. Elife. 2020 02 19; 9. PMID: [32073399](//www.ncbi.nlm.nih.gov/pubmed/32073399); PMCID: [PMC7056272](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7056272).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32073399/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  6. Meng X, McGraw CM, Wang W, [Jing J](https://profiles.viictr.org/profile/20551928), Yeh SY, Wang L, Lopez J, Brown AM, Lin T, Chen W, **Xue M** , [Sillitoe RV](https://profiles.viictr.org/profile/268552), [Jiang X](https://profiles.viictr.org/profile/268555), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Neurexophilin4 is a selectively expressed a-neurexin ligand that modulates specific cerebellar synapses and motor functions. Elife. 2019 09 16; 8. PMID: [31524598](//www.ncbi.nlm.nih.gov/pubmed/31524598); PMCID: [PMC6763262](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6763262).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31524598/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  7. Messier JE, Chen H, [Cai ZL](https://profiles.viictr.org/profile/8684236), **Xue M**. Targeting light-gated chloride channels to neuronal somatodendritic domain reduces their excitatory effect in the axon. Elife. 2018 08 09; 7. PMID: [30091701](//www.ncbi.nlm.nih.gov/pubmed/30091701); PMCID: [PMC6130974](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6130974).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30091701/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  8. Yin J, Chen W, Chao ES, Soriano S, Wang L, Wang W, Cummock SE, Tao H, Pang K, [Liu Z](https://profiles.viictr.org/profile/266153), [Pereira FA](https://profiles.viictr.org/profile/269546), Samaco RC, [Zoghbi HY](https://profiles.viictr.org/profile/267945), **Xue M** , Schaaf CP. Otud7a Knockout Mice Recapitulate Many Neurological Features of 15q13.3 Microdeletion Syndrome. Am J Hum Genet. 2018 02 01; 102(2):296-308. PMID: [29395075](//www.ncbi.nlm.nih.gov/pubmed/29395075); PMCID: [PMC5985472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5985472).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29395075/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  9. Jiang X, Chen J, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang C, Song X, Carroll SL, [Cai ZL](https://profiles.viictr.org/profile/8684236), Tang M, **Xue M** , [Cheng N](https://profiles.viictr.org/profile/266565), Schaaf CP, [Li F](https://profiles.viictr.org/profile/4897356), [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Ferreon ACM](https://profiles.viictr.org/profile/8065525), [Xia F](https://profiles.viictr.org/profile/3009907), Wang MC, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), [Wang J](https://profiles.viictr.org/profile/266173). Quantitative real-time imaging of glutathione. Nat Commun. 2017 07 13; 8:16087. PMID: [28703127](//www.ncbi.nlm.nih.gov/pubmed/28703127); PMCID: [PMC5511354](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5511354).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28703127/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  10. Yeh SY, Huang WH, Wang W, Ward CS, Chao ES, Wu Z, Tang B, [Tang J](https://profiles.viictr.org/profile/267756), Sun JJ, Esther van der Heijden M, Gray PA, **Xue M** , [Ray RS](https://profiles.viictr.org/profile/267456), Ren D, [Zoghbi HY](https://profiles.viictr.org/profile/267945). Respiratory Network Stability and Modulatory Response to Substance P Require Nalcn. Neuron. 2017 Apr 19; 94(2):294-303.e4. PMID: [28392070](//www.ncbi.nlm.nih.gov/pubmed/28392070); PMCID: [PMC5702257](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5702257).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28392070/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  11. Yin J, Chen W, Yang H, **Xue M** , Schaaf CP. Chrna7 deficient mice manifest no consistent neuropsychiatric and behavioral phenotypes. Sci Rep. 2017 01 03; 7:39941. PMID: [28045139](//www.ncbi.nlm.nih.gov/pubmed/28045139); PMCID: [PMC5206704](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5206704).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28045139/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  12. Meng X, Wang W, Lu H, He LJ, Chen W, Chao ES, [Fiorotto ML](https://profiles.viictr.org/profile/266734), Tang B, Herrera JA, Seymour ML, Neul JL, [Pereira FA](https://profiles.viictr.org/profile/269546), [Tang J](https://profiles.viictr.org/profile/267756), **Xue M** , [Zoghbi HY](https://profiles.viictr.org/profile/267945). Manipulations of MeCP2 in glutamatergic neurons highlight their contributions to Rett and other neurological disorders. Elife. 2016 06 21; 5. PMID: [27328325](//www.ncbi.nlm.nih.gov/pubmed/27328325); PMCID: [PMC4946906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4946906).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27328325/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  13. **Xue M** , Atallah BV, Scanziani M. Equalizing excitation-inhibition ratios across visual cortical neurons. Nature. 2014 Jul 31; 511(7511):596-600. PMID: [25043046](//www.ncbi.nlm.nih.gov/pubmed/25043046); PMCID: [PMC4117808](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4117808).
+
+Citations:
+[276](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25043046/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  14. [Chao HT](https://profiles.viictr.org/profile/23478929), Chen H, Samaco RC, **Xue M** , Chahrour M, Yoo J, Neul JL, Gong S, Lu HC, Heintz N, Ekker M, Rubenstein JL, [Noebels JL](https://profiles.viictr.org/profile/269703), Rosenmund C, [Zoghbi HY](https://profiles.viictr.org/profile/267945). Dysfunction in GABA signalling mediates autism-like stereotypies and Rett syndrome phenotypes. Nature. 2010 Nov 11; 468(7321):263-9. PMID: [21068835](//www.ncbi.nlm.nih.gov/pubmed/21068835); PMCID: [PMC3057962](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3057962).
+
+Citations:
+[585](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21068835/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  15. **Xue M** , Craig TK, Shin OH, Li L, Brautigam CA, Tomchick DR, Rosenmund C, Rizo J, S?dhof TC. Structural and mutational analysis of functional differentiation between synaptotagmins-1 and -7. PLoS One. 2010 Sep 02; 5(9). PMID: [20824061](//www.ncbi.nlm.nih.gov/pubmed/20824061); PMCID: [PMC2932738](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2932738).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20824061/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  16. **Xue M** , Craig TK, Xu J, [Chao HT](https://profiles.viictr.org/profile/23478929), Rizo J, Rosenmund C. Binding of the complexin N terminus to the SNARE complex potentiates synaptic-vesicle fusogenicity. Nat Struct Mol Biol. 2010 May; 17(5):568-75. PMID: [20400951](//www.ncbi.nlm.nih.gov/pubmed/20400951); PMCID: [PMC3172005](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3172005).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20400951/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  17. **Xue M** , Lin YQ, Pan H, Reim K, Deng H, [Bellen HJ](https://profiles.viictr.org/profile/268278), Rosenmund C. Tilting the balance between facilitatory and inhibitory functions of mammalian and Drosophila Complexins orchestrates synaptic vesicle exocytosis. Neuron. 2009 Nov 12; 64(3):367-80. PMID: [19914185](//www.ncbi.nlm.nih.gov/pubmed/19914185); PMCID: [PMC2790209](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2790209).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19914185/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  18. **Xue M** , Rosenmund C. The headache of a hyperactive calcium channel. Neuron. 2009 Mar 12; 61(5):653-4. PMID: [19285460](//www.ncbi.nlm.nih.gov/pubmed/19285460); PMCID: [PMC2734997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2734997).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19285460/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  19. **Xue M** , Ma C, Craig TK, Rosenmund C, Rizo J. The Janus-faced nature of the C(2)B domain is fundamental for synaptotagmin-1 function. Nat Struct Mol Biol. 2008 Nov; 15(11):1160-8. PMID: [18953334](//www.ncbi.nlm.nih.gov/pubmed/18953334); PMCID: [PMC2587052](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2587052).
+
+Citations:
+[72](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18953334/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  20. **Xue M** , Stradomska A, Chen H, Brose N, Zhang W, Rosenmund C, Reim K. Complexins facilitate neurotransmitter release at excitatory and inhibitory synapses in mammalian central nervous system. Proc Natl Acad Sci U S A. 2008 Jun 03; 105(22):7875-80. PMID: [18505837](//www.ncbi.nlm.nih.gov/pubmed/18505837); PMCID: [PMC2409395](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2409395).
+
+Citations:
+[70](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18505837/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  21. **Xue M** , Reim K, Chen X, [Chao HT](https://profiles.viictr.org/profile/23478929), Deng H, Rizo J, Brose N, Rosenmund C. Distinct domains of complexin I differentially regulate neurotransmitter release. Nat Struct Mol Biol. 2007 Oct; 14(10):949-58. PMID: [17828276](//www.ncbi.nlm.nih.gov/pubmed/17828276); PMCID: [PMC4894543](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4894543).
+
+Citations:
+[113](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17828276/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 21 publications over 12 distinct years, with a maximum of
+3 publications in 2010 and 2017 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,33,67,67,100,0,0,0,33,0,33,100,67,33,33,33,0,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2008| 2  
+2009| 2  
+2010| 3  
+2014| 1  
+2016| 1  
+2017| 3  
+2018| 2  
+2019| 1  
+2020| 1  
+2021| 1  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+XUE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (149)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Neurons](https://profiles.viictr.org/profile/240409)
+  * [Synaptotagmin I](https://profiles.viictr.org/profile/259480)
+  * [Synaptic Vesicles](https://profiles.viictr.org/profile/258171)
+  * [Adaptor Proteins, Vesicular Transport](https://profiles.viictr.org/profile/259846)
+  * [Angelman Syndrome](https://profiles.viictr.org/profile/248385)
+
+[Explore](https://profiles.viictr.org/profile/7520380/198)
+
+_
+
+Co-Authors (42)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [CHAO, HSIAO-TUAN](https://profiles.viictr.org/profile/23478929)
+  * [Cai, Zhao-Lin](https://profiles.viictr.org/profile/8684236)
+  * [TANG, JIANRONG](https://profiles.viictr.org/profile/267756)
+  * [SWANN, JOHN](https://profiles.viictr.org/profile/268300)
+
+[Explore](https://profiles.viictr.org/profile/7520380/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [NOEBELS, JEFFREY](https://profiles.viictr.org/profile/269703)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+
+[Explore](https://profiles.viictr.org/profile/7520380/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DICKMAN, J. DAVID](https://profiles.viictr.org/profile/266654)
+  * [JIANG, XIAOLONG](https://profiles.viictr.org/profile/268555)
+  * [KEMERE, CALEB](https://profiles.viictr.org/profile/270089)
+  * [OGAWA, YUKI](https://profiles.viictr.org/profile/24845038)
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiUzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

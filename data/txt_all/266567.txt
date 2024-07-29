@@ -1,0 +1,936 @@
+## MICHAEL GRUSAK
+
+| | Title| Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1100 Bates Street  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O6wi9HbGK6v3RYKj5X%2fX&rnd=3597266b-66ee-4099-9941-a0578b8fa25b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266567)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=266567&cachekey=551a79eb-f70b-4003-a923-1149a7f4e497)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Tavarez M, **Grusak MA** , Sankaran RP. The Effect of Exogenous Cadmium and Zinc Applications on Cadmium, Zinc and Essential Mineral Bioaccessibility in Three Lines of Rice That Differ in Grain Cadmium Accumulation. Foods. 2023 Nov 04; 12(21). PMID: [37959145](//www.ncbi.nlm.nih.gov/pubmed/37959145); PMCID: [PMC10650392](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10650392).
+
+Citations:
+
+  2. Spanner R, Neubauer J, Heick TM, **Grusak MA** , Hamilton O, Rivera-Varas V, de Jonge R, Pethybridge S, Webb KM, Leubner-Metzger G, Secor GA, Bolton MD. Seedborne Cercospora beticola Can Initiate Cercospora Leaf Spot from Sugar Beet (Beta vulgaris) Fruit Tissue. Phytopathology. 2022 May; 112(5):1016-1028. PMID: [34844416](//www.ncbi.nlm.nih.gov/pubmed/34844416).
+
+Citations:  Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  3. Moloi MJ, **Grusak MA** , T?th B, Szoke L, Danter M. Cultivar Differences in the Biochemical and Physiological Responses of Common Beans to Aluminum Stress. Plants (Basel). 2021 Oct 03; 10(10). PMID: [34685906](//www.ncbi.nlm.nih.gov/pubmed/34685906); PMCID: [PMC8539156](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8539156).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34685906/citedby/)
+
+  4. Narayanan N, Beyene G, Chauhan RD, **Grusak MA** , Taylor NJ. Stacking disease resistance and mineral biofortification in cassava varieties to enhance yields and consumer health. Plant Biotechnol J. 2021 04; 19(4):844-854. PMID: [33190345](//www.ncbi.nlm.nih.gov/pubmed/33190345); PMCID: [PMC8051606](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8051606).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33190345/citedby/) Fields:
+
+Bio BiotechnologyBot Botany
+
+Translation:HumansAnimals
+
+  5. Fugate KK, Eide JD, **Grusak MA** , Deckard EL, Martins DN, Finger FL. Colocalization of sucrose synthase expression and sucrose storage in the sugarbeet taproot indicates a potential role for sucrose catabolism in sucrose accumulation. J Plant Physiol. 2019 Sep; 240:153016. PMID: [31400718](//www.ncbi.nlm.nih.gov/pubmed/31400718).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31400718/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  6. Narayanan N, Beyene G, Chauhan RD, Gehan J, Butts P, Okwuonu I, Woll A, Boy E, **Grusak MA** , Anderson P, Taylor NJ, Gait?n-Sol?s E, Siritunga D, Jim?nez-Aguilar DM. Author Correction: Biofortification of field-grown cassava by engineering expression of an iron transporter and ferritin. Nat Biotechnol. 2019 03; 37(3):323. PMID: [30787468](//www.ncbi.nlm.nih.gov/pubmed/30787468); PMCID: [PMC7609328](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7609328).
+
+Citations:  Fields:
+
+Bio Biotechnology
+
+  7. Harshman SG, Shea MK, Fu X, **Grusak MA** , Smith D, Lamon-Fava S, Kuliopulos A, Greenberg A, Booth SL. Atorvastatin Decreases Renal Menaquinone-4 Formation in C57BL/6 Male Mice. J Nutr. 2019 03 01; 149(3):416-421. PMID: [30753659](//www.ncbi.nlm.nih.gov/pubmed/30753659); PMCID: [PMC6398385](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6398385).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30753659/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Animals
+
+  8. Narayanan N, Beyene G, Chauhan RD, Gehan J, Butts P, Okwuonu I, Woll A, Boy E, **Grusak MA** , Anderson P, Taylor NJ, Gait?n-Sol?s E, Siritunga D, Jim?nez-Aguilar DM. Biofortification of field-grown cassava by engineering expression of an iron transporter and ferritin. Nat Biotechnol. 2019 02; 37(2):144-151. PMID: [30692693](//www.ncbi.nlm.nih.gov/pubmed/30692693); PMCID: [PMC6784895](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6784895).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30692693/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:AnimalsPHPublic Health
+
+  9. Ellis JL, Fu X, Al Rajabi A, **Grusak MA** , Shearer MJ, Naumova EN, Saltzman E, Barger K, Booth SL. Plasma Response to Deuterium-Labeled Vitamin K Intake Varies by TG Response, but Not Age or Vitamin K Status, in Older and Younger Adults. J Nutr. 2019 01 01; 149(1):18-25. PMID: [30590596](//www.ncbi.nlm.nih.gov/pubmed/30590596); PMCID: [PMC6351140](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6351140).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30590596/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Humans
+
+  10. [Hadsell DL](https://profiles.viictr.org/profile/266951), Hadsell LA, Rijnkels M, Carcamo-Bahena Y, Wei J, Williamson P, **Grusak MA**. In silico mapping of quantitative trait loci (QTL) regulating the milk ionome in mice identifies a milk iron locus on chromosome 1. Mamm Genome. 2018 10; 29(9-10):632-655. PMID: [30073618](//www.ncbi.nlm.nih.gov/pubmed/30073618).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  11. Cobb AB, Wilson GWT, Goad CL, **Grusak MA**. Influence of alternative soil amendments on mycorrhizal fungi and cowpea production. Heliyon. 2018 Jul; 4(7):e00704. PMID: [30094374](//www.ncbi.nlm.nih.gov/pubmed/30094374); PMCID: [PMC6076214](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6076214).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30094374/citedby/)
+
+  12. Qin J, Shi A, Mou B, **Grusak MA** , Weng Y, Ravelombola W, Bhattarai G, Dong L, Yang W. Genetic diversity and association mapping of mineral element concentrations in spinach leaves. BMC Genomics. 2017 Dec 04; 18(1):941. PMID: [29202697](//www.ncbi.nlm.nih.gov/pubmed/29202697); PMCID: [PMC5715654](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5715654).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29202697/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  13. Lopez-Teros V, Ford JL, Green MH, Tang G, **Grusak MA** , Quihui-Cota L, Muzhingi T, Paz-Cassini M, Astiazaran-Garcia H. Use of a "Super-child" Approach to Assess the Vitamin A Equivalence of Moringa oleifera Leaves, Develop a Compartmental Model for Vitamin A Kinetics, and Estimate Vitamin A Total Body Stores in Young Mexican Children. J Nutr. 2017 12; 147(12):2356-2363. PMID: [28931584](//www.ncbi.nlm.nih.gov/pubmed/28931584).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28931584/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsCTClinical Trials
+
+  14. Yu H, Yang J, Shi Y, Donelson J, Thompson SM, Sprague S, Roshan T, Wang DL, Liu J, Park S, [Nakata PA](https://profiles.viictr.org/profile/266673), Connolly EL, [Hirschi KD](https://profiles.viictr.org/profile/267007), **Grusak MA** , [Cheng N](https://profiles.viictr.org/profile/266565). Arabidopsis Glutaredoxin S17 Contributes to Vegetative Growth, Mineral Accumulation, and Redox Balance during Iron Deficiency. Front Plant Sci. 2017; 8:1045. PMID: [28674546](//www.ncbi.nlm.nih.gov/pubmed/28674546); PMCID: [PMC5474874](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5474874).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28674546/citedby/)
+
+  15. Vincelli P, Jackson-Smith D, Holsapple M, **Grusak MA** , Harsh M, Klein T, Lambert J, Lange BM, Lodge DM, McCluskey J, Murphy A, Neuhouser ML, Pray C, Weller S. National Academies report has broad support. Nat Biotechnol. 2017 04 11; 35(4):304-306. PMID: [28398324](//www.ncbi.nlm.nih.gov/pubmed/28398324).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28398324/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:HumansAnimals
+
+  16. Ma Y, Coyne CJ, **Grusak MA** , Mazourek M, Cheng P, Main D, McGee RJ. Genome-wide SNP identification, linkage map construction and QTL mapping for seed mineral concentrations and contents in pea (Pisum sativum L.). BMC Plant Biol. 2017 Feb 13; 17(1):43. PMID: [28193168](//www.ncbi.nlm.nih.gov/pubmed/28193168); PMCID: [PMC5307697](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5307697).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28193168/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  17. Wiesinger JA, Cichy KA, Glahn RP, **Grusak MA** , Brick MA, Thompson HJ, Tako E. Demonstrating a Nutritional Advantage to the Fast-Cooking Dry Bean (Phaseolus vulgaris L.). J Agric Food Chem. 2016 Nov 16; 64(45):8592-8603. PMID: [27754657](//www.ncbi.nlm.nih.gov/pubmed/27754657).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27754657/citedby/) Fields:
+
+Che ChemistryNut Nutritional Sciences
+
+Translation:AnimalsPHPublic Health
+
+  18. Sankaran RP, Fahey JW, **Grusak MA** , Odee D, Nouman W, Olson ME. Leaf Protein and Mineral Concentrations across the "Miracle Tree" Genus Moringa. PLoS One. 2016; 11(7):e0159782. PMID: [27459315](//www.ncbi.nlm.nih.gov/pubmed/27459315); PMCID: [PMC4961408](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4961408).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27459315/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsPHPublic Health
+
+  19. Wang X, Zhong F, Woo CH, Miao Y, **Grusak MA** , Zhang X, Tu J, Wong YS, Jiang L. A rapid and efficient method to study the function of crop plant transporters in Arabidopsis. Protoplasma. 2017 Mar; 254(2):737-747. PMID: [27240439](//www.ncbi.nlm.nih.gov/pubmed/27240439).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27240439/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  20. Lattanzio G, Villarroya D, Gutierrez-Carbonell E, Ceballos-Laita L, **Grusak MA** , Rodr?guez-Celma J, Rencoret J, Guti?rrez A, Del R?o JC, Abad?a A, Abad?a J, L?pez-Mill?n AF. Effects of Fe deficiency on the protein profiles and lignin composition of stem tissues from Medicago truncatula in absence or presence of calcium carbonate. J Proteomics. 2016 05 17; 140:1-12. PMID: [27045941](//www.ncbi.nlm.nih.gov/pubmed/27045941).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27045941/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  21. **Grusak MA** , Rodr?guez-Celma J, Ceballos-Laita L, Abad?a J, L?pez-Mill?n AF. Plant fluid proteomics: Delving into the xylem sap, phloem sap and apoplastic fluid proteomes. Biochim Biophys Acta. 2016 Aug; 1864(8):991-1002. PMID: [27033031](//www.ncbi.nlm.nih.gov/pubmed/27033031).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27033031/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Animals
+
+  22. **Grusak MA** , Jim?nez-Aguilar DM. Evaluation of Minerals, Phytochemical Compounds and Antioxidant Activity of Mexican, Central American, and African Green Leafy Vegetables. Plant Foods Hum Nutr. 2015 Dec; 70(4):357-64. PMID: [26490448](//www.ncbi.nlm.nih.gov/pubmed/26490448).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26490448/citedby/) Fields:
+
+Bot BotanyNut Nutritional Sciences
+
+Translation:HumansAnimals
+
+  23. Gutierrez-Carbonell E, Lattanzio G, Albacete A, Kehr J, **Grusak MA** , Rios JJ, Abad?a A, Abad?a J, L?pez-Mill?n AF. Effects of Fe deficiency on the protein profile of Brassica napus phloem sap. Proteomics. 2015 Nov; 15(22):3835-53. PMID: [26316195](//www.ncbi.nlm.nih.gov/pubmed/26316195).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26316195/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  24. Narayanan N, Beyene G, Chauhan RD, **Grusak MA** , Taylor N, Anderson P, Gait?n-Solis E. Overexpression of Arabidopsis VIT1 increases accumulation of iron in cassava roots and stems. Plant Sci. 2015 Nov; 240:170-81. PMID: [26475197](//www.ncbi.nlm.nih.gov/pubmed/26475197).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26475197/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  25. Garcia CB, **Grusak MA**. Mineral accumulation in vegetative and reproductive tissues during seed development in Medicago truncatula. Front Plant Sci. 2015; 6:622. PMID: [26322063](//www.ncbi.nlm.nih.gov/pubmed/26322063); PMCID: [PMC4536387](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4536387).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26322063/citedby/)
+
+  26. [Wooton-Kee CR](https://profiles.viictr.org/profile/3009587), Jain AK, Wagner M, **Grusak MA** , [Finegold MJ](https://profiles.viictr.org/profile/269596), Lutsenko S, Moore DD. Elevated copper impairs hepatic nuclear receptor function in Wilson's disease. J Clin Invest. 2015 Sep; 125(9):3449-60. PMID: [26241054](//www.ncbi.nlm.nih.gov/pubmed/26241054); PMCID: [PMC4588285](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4588285).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26241054/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  27. Traber MG, Leonard SW, Bobe G, Fu X, Saltzman E, **Grusak MA** , Booth SL. a-Tocopherol disappearance rates from plasma depend on lipid concentrations: studies using deuterium-labeled collard greens in younger and older adults. Am J Clin Nutr. 2015 Apr; 101(4):752-9. PMID: [25739929](//www.ncbi.nlm.nih.gov/pubmed/25739929); PMCID: [PMC4381779](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4381779).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25739929/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimals
+
+  28. Huang YC, Fan R, **Grusak MA** , Sherrier JD, Huang CP. Effects of nano-ZnO on the agronomically relevant Rhizobium-legume symbiosis. Sci Total Environ. 2014 Nov 01; 497-498:78-90. PMID: [25124056](//www.ncbi.nlm.nih.gov/pubmed/25124056).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25124056/citedby/) Fields:
+
+Env Environmental Health
+
+Translation:AnimalsCells
+
+  29. **Grusak MA** , Vasconcelos MW, Gil AM, Lima MR, Diaz SO, Lamego I. Nuclear magnetic resonance metabolomics of iron deficiency in soybean leaves. J Proteome Res. 2014 Jun 06; 13(6):3075-87. PMID: [24738838](//www.ncbi.nlm.nih.gov/pubmed/24738838).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24738838/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  30. Sankaran RP, **Grusak MA**. Whole shoot mineral partitioning and accumulation in pea (Pisum sativum). Front Plant Sci. 2014; 5:149. PMID: [24795736](//www.ncbi.nlm.nih.gov/pubmed/24795736); PMCID: [PMC4006064](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4006064).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24795736/citedby/)
+
+  31. Clemente TE, **Grusak MA** , Vasconcelos MW. Evaluation of constitutive iron reductase (AtFRO2) expression on mineral accumulation and distribution in soybean (Glycine max. L). Front Plant Sci. 2014; 5:112. PMID: [24765096](//www.ncbi.nlm.nih.gov/pubmed/24765096); PMCID: [PMC3982063](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3982063).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24765096/citedby/)
+
+  32. Kandianis CB, Michenfelder AS, Simmons SJ, **Grusak MA** , Stapleton AE. Abiotic stress growth conditions induce different responses in kernel iron concentration across genotypically distinct maize inbred varieties. Front Plant Sci. 2013; 4:488. PMID: [24363659](//www.ncbi.nlm.nih.gov/pubmed/24363659); PMCID: [PMC3850239](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3850239).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24363659/citedby/)
+
+  33. De Gara L, **Grusak MA** , Murgia I. Biofortification: how can we exploit plant science and biotechnology to reduce micronutrient deficiencies? Front Plant Sci. 2013; 4:429. PMID: [24223578](//www.ncbi.nlm.nih.gov/pubmed/24223578); PMCID: [PMC3818469](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3818469).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24223578/citedby/)
+
+  34. Fan R, Huang YC, **Grusak MA** , Huang CP, Sherrier DJ. Effects of nano-TiO2 on the agronomically-relevant Rhizobium-legume symbiosis. Sci Total Environ. 2014 Jan 01; 466-467:503-12. PMID: [23933452](//www.ncbi.nlm.nih.gov/pubmed/23933452).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23933452/citedby/) Fields:
+
+Env Environmental Health
+
+Translation:AnimalsCells
+
+  35. Blair MW, Izquierdo P, Astudillo C, **Grusak MA**. A legume biofortification quandary: variability and genetic control of seed coat micronutrient accumulation in common beans. Front Plant Sci. 2013; 4:275. PMID: [23908660](//www.ncbi.nlm.nih.gov/pubmed/23908660); PMCID: [PMC3725406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3725406).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23908660/citedby/)
+
+  36. **Grusak MA** , L?pez-Mill?n AF, Abad?a A, Abad?a J. Iron deficiency in plants: an insight from proteomic approaches. Front Plant Sci. 2013; 4:254. PMID: [23898336](//www.ncbi.nlm.nih.gov/pubmed/23898336); PMCID: [PMC3722493](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3722493).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23898336/citedby/)
+
+  37. Lucas WJ, Groover A, Lichtenberger R, Furuta K, Yadav SR, He XQ, Fukuda H, Kang J, Brady SM, Patrick JW, Sperry J, Yoshida A, **Grusak MA** , Kachroo P, Helariutta Y, L?pez-Mill?n AF. The plant vascular system: evolution, development and functions. J Integr Plant Biol. 2013 Apr; 55(4):294-388. PMID: [23462277](//www.ncbi.nlm.nih.gov/pubmed/23462277).
+
+Citations:
+[157](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23462277/citedby/)
+Fields:
+
+Bot Botany
+
+Translation:AnimalsCells
+
+  38. Fisher JO, Birch LL, Zhang J, **Grusak MA** , [Hughes SO](https://profiles.viictr.org/profile/268485). External influences on children's self-served portions at meals. Int J Obes (Lond). 2013 Jul; 37(7):954-60. PMID: [23295501](//www.ncbi.nlm.nih.gov/pubmed/23295501).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23295501/citedby/) Fields:
+
+Met Metabolism
+
+Translation:Humans
+
+  39. Sperotto RA, Vasconcelos MW, **Grusak MA** , Fett JP. Effects of different Fe supplies on mineral partitioning and remobilization during the reproductive development of rice (Oryza sativa L.). Rice (N Y). 2012 Sep 28; 5(1):27. PMID: [24279875](//www.ncbi.nlm.nih.gov/pubmed/24279875); PMCID: [PMC4883723](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4883723).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24279875/citedby/)
+
+  40. Etcheverry P, **Grusak MA** , Fleige LE. Application of in vitro bioaccessibility and bioavailability methods for calcium, carotenoids, folate, iron, magnesium, polyphenols, zinc, and vitamins B(6), B(12), D, and E. Front Physiol. 2012; 3:317. PMID: [22934067](//www.ncbi.nlm.nih.gov/pubmed/22934067); PMCID: [PMC3429087](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3429087).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22934067/citedby/)
+
+  41. Tang G, Hu Y, Yin SA, Wang Y, Dallal GE, **Grusak MA** , Russell RM. ?-Carotene in Golden Rice is as good as ?-carotene in oil at providing vitamin A to children. Am J Clin Nutr. 2012 Sep; 96(3):658-64. PMID: [22854406](//www.ncbi.nlm.nih.gov/pubmed/22854406); PMCID: [PMC3417220](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3417220).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22854406/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsPHPublic Health
+
+  42. **Grusak MA** , L?pez-Mill?n AF, Abad?a J. Carboxylate metabolism changes induced by Fe deficiency in barley, a Strategy II plant species. J Plant Physiol. 2012 Jul 15; 169(11):1121-4. PMID: [22709961](//www.ncbi.nlm.nih.gov/pubmed/22709961).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22709961/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  43. Al Rajabi A, Booth SL, Peterson JW, Choi SW, Suttie JW, Shea MK, Miao B, **Grusak MA** , Fu X. Deuterium-labeled phylloquinone has tissue-specific conversion to menaquinone-4 among Fischer 344 male rats. J Nutr. 2012 May; 142(5):841-5. PMID: [22437559](//www.ncbi.nlm.nih.gov/pubmed/22437559); PMCID: [PMC3327742](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3327742).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22437559/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsCells
+
+  44. Yu B, Wang J, Suter PM, Russell RM, **Grusak MA** , Wang Y, Wang Z, Yin S, Tang G. Spirulina is an effective dietary source of zeaxanthin to humans. Br J Nutr. 2012 Aug; 108(4):611-9. PMID: [22313576](//www.ncbi.nlm.nih.gov/pubmed/22313576).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22313576/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansCellsPHPublic Health
+
+  45. Zhai J, Jeong DH, De Paoli E, Park S, Rosen BD, Li Y, Yan Z, Kitto SL, **Grusak MA** , Jackson SA, Stacey G, Cook DR, Green PJ, Sherrier DJ, Meyers BC, Gonz?lez AJ. MicroRNAs as master regulators of the plant NB-LRR defense gene family via the production of phased, trans-acting siRNAs. Genes Dev. 2011 Dec 01; 25(23):2540-53. PMID: [22156213](//www.ncbi.nlm.nih.gov/pubmed/22156213); PMCID: [PMC3243063](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3243063).
+
+Citations:
+[302](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22156213/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  46. Muzhingi T, Gadaga TH, Siwela AH, **Grusak MA** , Russell RM, Tang G. Yellow maize with high ?-carotene is an effective source of vitamin A in healthy Zimbabwean men. Am J Clin Nutr. 2011 Aug; 94(2):510-9. PMID: [21715509](//www.ncbi.nlm.nih.gov/pubmed/21715509); PMCID: [PMC3142725](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3142725).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21715509/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsCTClinical Trials
+
+  47. Lattanzio G, **Grusak MA** , Rodr?guez-Celma J, Abad?a A, Abad?a J, L?pez-Mill?n AF. Root responses of Medicago truncatula plants grown in two different iron deficiency conditions: changes in root protein profile and riboflavin biosynthesis. J Proteome Res. 2011 May 06; 10(5):2590-601. PMID: [21370931](//www.ncbi.nlm.nih.gov/pubmed/21370931).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21370931/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  48. Blair MW, Knewtson SJ, Astudillo C, Li CM, Fernandez AC, **Grusak MA**. Variation and inheritance of iron reductase activity in the roots of common bean (Phaseolus vulgaris L.) and association with seed iron accumulation QTL. BMC Plant Biol. 2010 Oct 05; 10:215. PMID: [20923552](//www.ncbi.nlm.nih.gov/pubmed/20923552); PMCID: [PMC3095315](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3095315).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20923552/citedby/) Fields:
+
+Bot Botany
+
+Translation:HumansAnimalsCells
+
+  49. Stephens BW, Cook DR, **Grusak MA**. Characterization of zinc transport by divalent metal transporters of the ZIP family from the model legume Medicago truncatula. Biometals. 2011 Feb; 24(1):51-8. PMID: [20862522](//www.ncbi.nlm.nih.gov/pubmed/20862522).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20862522/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  50. Sperotto RA, Boff T, Duarte GL, **Grusak MA** , Fett JP, Santos LS. Identification of putative target genes to manipulate Fe and Zn concentrations in rice grains. J Plant Physiol. 2010 Nov 15; 167(17):1500-6. PMID: [20580124](//www.ncbi.nlm.nih.gov/pubmed/20580124).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20580124/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  51. Waters BM, Uauy C, Dubcovsky J, **Grusak MA**. Wheat (Triticum aestivum) NAM proteins regulate the translocation of iron, zinc, and nitrogen compounds from vegetative tissues to grain. J Exp Bot. 2009; 60(15):4263-74. PMID: [19858116](//www.ncbi.nlm.nih.gov/pubmed/19858116).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19858116/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  52. Sperotto RA, Ricachenevsky FK, Duarte GL, Boff T, Lopes KL, Sperb ER, **Grusak MA** , Fett JP. Identification of up-regulated genes in flag leaves during rice grain filling and characterization of OsNAC5, a new ABA-dependent transcription factor. Planta. 2009 Oct; 230(5):985-1002. PMID: [19697058](//www.ncbi.nlm.nih.gov/pubmed/19697058).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19697058/citedby/) Fields:
+
+Bot Botany
+
+Translation:AnimalsCells
+
+  53. Klein MA, **Grusak MA**. Identification of nutrient and physical seed trait QTL in the model legume Lotus japonicus. Genome. 2009 Aug; 52(8):677-91. PMID: [19767898](//www.ncbi.nlm.nih.gov/pubmed/19767898).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19767898/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  54. Fu X, Peterson JW, Hdeib M, Booth SL, **Grusak MA** , Lichtenstein AH, Dolnikowski GG. Measurement of deuterium-labeled phylloquinone in plasma by high-performance liquid chromatography/mass spectrometry. Anal Chem. 2009 Jul 01; 81(13):5421-5. PMID: [19563214](//www.ncbi.nlm.nih.gov/pubmed/19563214); PMCID: [PMC2733890](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2733890).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19563214/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:Humans
+
+  55. Sankaran RP, Huguet T, **Grusak MA**. Identification of QTL affecting seed mineral concentrations and content in the model legume Medicago truncatula. Theor Appl Genet. 2009 Jul; 119(2):241-53. PMID: [19396421](//www.ncbi.nlm.nih.gov/pubmed/19396421).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19396421/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  56. Tang G, Qin J, Dolnikowski GG, Russell RM, **Grusak MA**. Golden Rice is an effective source of vitamin A. Am J Clin Nutr. 2009 Jun; 89(6):1776-83. PMID: [19369372](//www.ncbi.nlm.nih.gov/pubmed/19369372); PMCID: [PMC2682994](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2682994).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19369372/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsCTClinical Trials
+
+  57. **Grusak MA**. Genetic diversity for seed mineral composition in the wild legume Teramnus labialis. Plant Foods Hum Nutr. 2008 Sep; 63(3):105-9. PMID: [18563569](//www.ncbi.nlm.nih.gov/pubmed/18563569).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18563569/citedby/) Fields:
+
+Bot BotanyNut Nutritional Sciences
+
+Translation:HumansAnimalsPHPublic Health
+
+  58. Wang J, Wang Y, Wang Z, Li L, Qin J, Lai W, Fu Y, Suter PM, Russell RM, **Grusak MA** , Tang G, Yin S. Vitamin A equivalence of spirulina beta-carotene in Chinese adults as assessed by using a stable-isotope reference method. Am J Clin Nutr. 2008 Jun; 87(6):1730-7. PMID: [18541562](//www.ncbi.nlm.nih.gov/pubmed/18541562).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18541562/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansCells
+
+  59. Waters BM, **Grusak MA**. Quantitative trait locus mapping for seed mineral concentrations in two Arabidopsis thaliana recombinant inbred populations. New Phytol. 2008; 179(4):1033-1047. PMID: [18631293](//www.ncbi.nlm.nih.gov/pubmed/18631293).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18631293/citedby/) Fields:
+
+Bot Botany
+
+Translation:AnimalsCells
+
+  60. O'Rourke JA, Charlson DV, Gonzalez DO, Vodkin LO, Graham MA, Cianzio SR, **Grusak MA** , Shoemaker RC. Microarray analysis of iron deficiency chlorosis in near-isogenic soybean lines. BMC Genomics. 2007 Dec 21; 8:476. PMID: [18154662](//www.ncbi.nlm.nih.gov/pubmed/18154662); PMCID: [PMC2253546](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2253546).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18154662/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  61. Waters BM, **Grusak MA**. Whole-plant mineral partitioning throughout the life cycle in Arabidopsis thaliana ecotypes Columbia, Landsberg erecta, Cape Verde Islands, and the mutant line ysl1ysl3. New Phytol. 2008; 177(2):389-405. PMID: [18042200](//www.ncbi.nlm.nih.gov/pubmed/18042200).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18042200/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  62. Coyne CJ, McClendon MT, Walling JG, Timmerman-Vaughan GM, Murray S, Meksem K, Lightfoot DA, Shultz JL, Keller KE, Martin RR, Inglis DA, Rajesh PN, McPhee KE, Weeden NF, **Grusak MA** , Li CM, Storlie EW. Construction and characterization of two bacterial artificial chromosome libraries of pea (Pisum sativum L.) for the isolation of economically important genes. Genome. 2007 Sep; 50(9):871-5. PMID: [17893728](//www.ncbi.nlm.nih.gov/pubmed/17893728).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17893728/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  63. Narayanan NN, Vasconcelos MW, **Grusak MA**. Expression profiling of Oryza sativa metal homeostasis genes in different rice cultivars using a cDNA macroarray. Plant Physiol Biochem. 2007 May; 45(5):277-86. PMID: [17468002](//www.ncbi.nlm.nih.gov/pubmed/17468002).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17468002/citedby/) Fields:
+
+Bio BiochemistryBot Botany
+
+Translation:Animals
+
+  64. Vasconcelos M, Eckert H, Arahana V, Graef G, **Grusak MA** , Clemente T. Molecular and phenotypic characterization of transgenic soybean expressing the Arabidopsis ferric chelate reductase gene, FRO2. Planta. 2006 Oct; 224(5):1116-28. PMID: [16741749](//www.ncbi.nlm.nih.gov/pubmed/16741749).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16741749/citedby/) Fields:
+
+Bot Botany
+
+Translation:AnimalsCells
+
+  65. Tang G, Qin J, Dolnikowski GG, Russell RM, **Grusak MA**. Spinach or carrots can supply significant amounts of vitamin A as assessed by feeding with intrinsically deuterated vegetables. Am J Clin Nutr. 2005 Oct; 82(4):821-8. PMID: [16210712](//www.ncbi.nlm.nih.gov/pubmed/16210712).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16210712/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsPHPublic Health
+
+  66. Abbo S, Molina C, Jungmann R, **Grusak MA** , Berkovitch Z, Reifen R, Kahl G, Winter P, Reifen R. Quantitative trait loci governing carotenoid concentration and weight in seeds of chickpea (Cicer arietinum L.). Theor Appl Genet. 2005 Jul; 111(2):185-95. PMID: [15918010](//www.ncbi.nlm.nih.gov/pubmed/15918010).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15918010/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  67. **Grusak MA**. Golden Rice gets a boost from maize. Nat Biotechnol. 2005 Apr; 23(4):429-30. PMID: [15815666](//www.ncbi.nlm.nih.gov/pubmed/15815666).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15815666/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:AnimalsPHPublic Health
+
+  68. Tang G, Ferreira AL, **Grusak MA** , Qin J, Dolnikowski GG, Russell RM, Krinsky NI. Bioavailability of synthetic and biosynthetic deuterated lycopene in humans. J Nutr Biochem. 2005 Apr; 16(4):229-35. PMID: [15808327](//www.ncbi.nlm.nih.gov/pubmed/15808327).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15808327/citedby/) Fields:
+
+Bio BiochemistryNut Nutritional Sciences
+
+Translation:HumansAnimals
+
+  69. Krucker M, Albert K, **Grusak MA** , Tang G, Dolnikowski GG, Putzbach K. Structure determination of partially deuterated carotenoids from intrinsically labeled vegetables by HPLC-MS and 1H NMR. J Agric Food Chem. 2005 Feb 09; 53(3):671-7. PMID: [15686418](//www.ncbi.nlm.nih.gov/pubmed/15686418).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15686418/citedby/) Fields:
+
+Che ChemistryNut Nutritional Sciences
+
+Translation:AnimalsCells
+
+  70. Wang HL, **Grusak MA**. Structure and development of Medicago truncatula pod wall and seed coat. Ann Bot. 2005 Apr; 95(5):737-47. PMID: [15703184](//www.ncbi.nlm.nih.gov/pubmed/15703184); PMCID: [PMC4246729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4246729).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15703184/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  71. [Stoll B](https://profiles.viictr.org/profile/268170), Gaudichon C, Guan X, **Grusak MA** , Reeds PJ, [Burrin DG](https://profiles.viictr.org/profile/268116), Bos C, Fouillet H, Tom? D. Postprandial intestinal and whole body nitrogen kinetics and distribution in piglets fed a single meal. Am J Physiol Endocrinol Metab. 2005 Feb; 288(2):E436-46. PMID: [15507535](//www.ncbi.nlm.nih.gov/pubmed/15507535).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15507535/citedby/) Fields:
+
+End EndocrinologyMet MetabolismPhy Physiology
+
+Translation:Animals
+
+  72. Yousef GG, Seigler DS, **Grusak MA** , Rogers RB, Knight CT, Kraft TF, Erdman JW, Lila MA. Biosynthesis and characterization of 14C-enriched flavonoid fractions from plant cell suspension cultures. J Agric Food Chem. 2004 Mar 10; 52(5):1138-45. PMID: [14995111](//www.ncbi.nlm.nih.gov/pubmed/14995111).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14995111/citedby/) Fields:
+
+Che ChemistryNut Nutritional Sciences
+
+Translation:AnimalsCells
+
+  73. Ellis DR, **Grusak MA** , L?pez-Mill?n AF. Identification and characterization of several new members of the ZIP family of metal ion transporters in Medicago truncatula. Plant Mol Biol. 2004 Mar; 54(4):583-96. PMID: [15316291](//www.ncbi.nlm.nih.gov/pubmed/15316291).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15316291/citedby/) Fields:
+
+Bot BotanyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  74. Lichtenstein AH, Dolnikowski GG, **Grusak MA** , Jalbert SM, Aquino KA, Peterson JW, Booth SL, Erkkil? AT. Plasma transport of vitamin K in men using deuterium-labeled collard greens. Metabolism. 2004 Feb; 53(2):215-21. PMID: [14767874](//www.ncbi.nlm.nih.gov/pubmed/14767874).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14767874/citedby/) Fields:
+
+Met Metabolism
+
+Translation:HumansAnimalsCTClinical Trials
+
+  75. Finley JW, **Grusak MA** , Keck AS, Gregoire BR. Bioavailability of selenium from meat and broccoli as determined by retention and distribution of 75Se. Biol Trace Elem Res. 2004; 99(1-3):191-209. PMID: [15235152](//www.ncbi.nlm.nih.gov/pubmed/15235152).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15235152/citedby/) Fields:
+
+Env Environmental HealthNut Nutritional Sciences
+
+Translation:Animals
+
+  76. Lienau A, Glaser T, Tang G, Dolnikowski GG, **Grusak MA** , Albert K. Bioavailability of lutein in humans from intrinsically labeled vegetables determined by LC-APCI-MS. J Nutr Biochem. 2003 Nov; 14(11):663-70. PMID: [14629898](//www.ncbi.nlm.nih.gov/pubmed/14629898).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14629898/citedby/) Fields:
+
+Bio BiochemistryNut Nutritional Sciences
+
+Translation:HumansAnimals
+
+  77. [Stoll B](https://profiles.viictr.org/profile/268170), Gaudichon C, Guan X, **Grusak MA** , Reeds PJ, [Burrin DG](https://profiles.viictr.org/profile/268116), Bos C, Fouillet H, Tom? D. Intestinal lysine metabolism is driven by the enteral availability of dietary lysine in piglets fed a bolus meal. Am J Physiol Endocrinol Metab. 2003 Dec; 285(6):E1246-57. PMID: [12851176](//www.ncbi.nlm.nih.gov/pubmed/12851176).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12851176/citedby/) Fields:
+
+End EndocrinologyMet MetabolismPhy Physiology
+
+Translation:Animals
+
+  78. Wang TL, Domoney C, Hedley CL, Casey R, **Grusak MA**. Can we improve the nutritional quality of legume seeds? Plant Physiol. 2003 Mar; 131(3):886-91. PMID: [12644641](//www.ncbi.nlm.nih.gov/pubmed/12644641); PMCID: [PMC1540288](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1540288).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12644641/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCellsPHPublic Health
+
+  79. **Grusak MA**. Phytochemicals in plants: genomics-assisted plant improvement for nutritional and health benefits. Curr Opin Biotechnol. 2002 Oct; 13(5):508-11. PMID: [12459345](//www.ncbi.nlm.nih.gov/pubmed/12459345).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12459345/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:AnimalsPHPublic Health
+
+  80. Lifschitz CH, **Grusak MA** , [Butte NF](https://profiles.viictr.org/profile/267819). Carbohydrate digestion in humans from a beta-glucan-enriched barley is reduced. J Nutr. 2002 Sep; 132(9):2593-6. PMID: [12221214](//www.ncbi.nlm.nih.gov/pubmed/12221214).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12221214/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  81. **Grusak MA**. Enhancing mineral content in plant food products. J Am Coll Nutr. 2002 Jun; 21(3 Suppl):178S-183S. PMID: [12071302](//www.ncbi.nlm.nih.gov/pubmed/12071302).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12071302/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimals
+
+  82. Dolnikowski GG, Sun Z, **Grusak MA** , Peterson JW, Booth SL. HPLC and GC/MS determination of deuterated vitamin K (phylloquinone) in human serum after ingestion of deuterium-labeled broccoli. J Nutr Biochem. 2002 Mar; 13(3):168-174. PMID: [11893481](//www.ncbi.nlm.nih.gov/pubmed/11893481).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11893481/citedby/) Fields:
+
+Bio BiochemistryNut Nutritional Sciences
+
+  83. **Grusak MA** , DellaPenna D, Welch RM. Physiologic processes affecting the content and distribution of phytonutrients in plants. Nutr Rev. 1999 Sep; 57(9 Pt 2):S27-33. PMID: [10568348](//www.ncbi.nlm.nih.gov/pubmed/10568348).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10568348/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsPHPublic Health
+
+  84. **Grusak MA** , DellaPenna D. IMPROVING THE NUTRIENT COMPOSITION OF PLANTS TO ENHANCE HUMAN NUTRITION AND HEALTH1. Annu Rev Plant Physiol Plant Mol Biol. 1999 Jun; 50:133-161. PMID: [15012206](//www.ncbi.nlm.nih.gov/pubmed/15012206).
+
+Citations:
+[95](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15012206/citedby/)
+
+  85. Abrams SA, **Grusak MA** , Stuff J, O'Brien KO. Calcium and magnesium balance in 9-14-y-old children. Am J Clin Nutr. 1997 Nov; 66(5):1172-7. PMID: [9356535](//www.ncbi.nlm.nih.gov/pubmed/9356535).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9356535/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansCTClinical Trials
+
+  86. Fox TC, Shaff JE, **Grusak MA** , Norvell WA, Chen Y, Chaney RL, Kochian LV. Direct Measurement of 59Fe-Labeled Fe2+ Influx in Roots of Pea Using a Chelator Buffer System to Control Free Fe2+ in Solution. Plant Physiol. 1996 May; 111(1):93-100. PMID: [12226276](//www.ncbi.nlm.nih.gov/pubmed/12226276); PMCID: [PMC157815](//www.ncbi.nlm.nih.gov/pmc/articles/PMC157815).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12226276/citedby/) Fields:
+
+Phy Physiology
+
+  87. **Grusak MA** , Pezeshgi S. Shoot-to-Root Signal Transmission Regulates Root Fe(III) Reductase Activity in the dgl Mutant of Pea. Plant Physiol. 1996 Jan; 110(1):329-334. PMID: [12226184](//www.ncbi.nlm.nih.gov/pubmed/12226184); PMCID: [PMC157724](//www.ncbi.nlm.nih.gov/pmc/articles/PMC157724).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12226184/citedby/) Fields:
+
+Phy Physiology
+
+  88. **Grusak MA**. Iron Transport to Developing Ovules of Pisum sativum (I. Seed Import Characteristics and Phloem Iron-Loading Capacity of Source Regions). Plant Physiol. 1994 Feb; 104(2):649-655. PMID: [12232115](//www.ncbi.nlm.nih.gov/pubmed/12232115); PMCID: [PMC159243](//www.ncbi.nlm.nih.gov/pmc/articles/PMC159243).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12232115/citedby/) Fields:
+
+Phy Physiology
+
+  89. **Grusak MA** , Welch RM, Kochian LV. Does Iron Deficiency in Pisum sativum Enhance the Activity of the Root Plasmalemma Iron Transport Protein? Plant Physiol. 1990 Nov; 94(3):1353-7. PMID: [16667840](//www.ncbi.nlm.nih.gov/pubmed/16667840); PMCID: [PMC1077385](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1077385).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16667840/citedby/) Fields:
+
+Phy Physiology
+
+  90. **Grusak MA** , Welch RM, Kochian LV. Physiological Characterization of a Single-Gene Mutant of Pisum sativum Exhibiting Excess Iron Accumulation: I. Root Iron Reduction and Iron Uptake. Plant Physiol. 1990 Jul; 93(3):976-81. PMID: [16667609](//www.ncbi.nlm.nih.gov/pubmed/16667609); PMCID: [PMC1062617](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1062617).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16667609/citedby/) Fields:
+
+Phy Physiology
+
+  91. Newman IA, Kochian LV, **Grusak MA** , Lucas WJ. Fluxes of h and k in corn roots : characterization and stoichiometries using ion-selective microelectrodes. Plant Physiol. 1987 Aug; 84(4):1177-84. PMID: [16665581](//www.ncbi.nlm.nih.gov/pubmed/16665581); PMCID: [PMC1056748](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1056748).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16665581/citedby/) Fields:
+
+Phy Physiology
+
+  92. **Grusak MA** , Thomas RJ, Marsh BH. Wall regeneration by plasmolysed cells from tissue suspension cultures of Sphaerocarpos donnellii. J Cell Sci. 1980 Jun; 43:167-75. PMID: [7419617](//www.ncbi.nlm.nih.gov/pubmed/7419617).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 88 publications over 26 distinct years, with a maximum of
+7 publications in
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:14,0,29,14,0,29,0,0,57,43,71,86,14,57,43,86,43,43,86,100,57,86,71,71,29,71,14,14,14,14,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 1  
+1996| 2  
+1997| 1  
+1999| 2  
+2002| 4  
+2003| 3  
+2004| 5  
+2005| 6  
+2006| 1  
+2007| 4  
+2008| 3  
+2009| 6  
+2010| 3  
+2011| 3  
+2012| 6  
+2013| 7  
+2014| 4  
+2015| 6  
+2016| 5  
+2017| 5  
+2018| 2  
+2019| 5  
+2020| 1  
+2021| 1  
+2022| 1  
+2023| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+GRUSAK's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (358)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Seeds](https://profiles.viictr.org/profile/259295)
+  * [Minerals](https://profiles.viictr.org/profile/248358)
+  * [Iron](https://profiles.viictr.org/profile/257541)
+  * [Plant Proteins](https://profiles.viictr.org/profile/250022)
+  * [Quantitative Trait Loci](https://profiles.viictr.org/profile/253727)
+
+[Explore](https://profiles.viictr.org/profile/266567/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HADSELL, DARRYL](https://profiles.viictr.org/profile/266951)
+  * [CHENG, NINGHUI](https://profiles.viictr.org/profile/266565)
+  * [WOOTON-KEE, CLAVIA](https://profiles.viictr.org/profile/3009587)
+  * [STOLL, BARBARA](https://profiles.viictr.org/profile/268170)
+  * [HUGHES, SHERYL](https://profiles.viictr.org/profile/268485)
+
+[Explore](https://profiles.viictr.org/profile/266567/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HIRSCHI, KENDAL](https://profiles.viictr.org/profile/267007)
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [NAKATA, PAUL](https://profiles.viictr.org/profile/266673)
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+  * [POWERS, JACQUELYN](https://profiles.viictr.org/profile/17822535)
+
+[Explore](https://profiles.viictr.org/profile/266567/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ANTAR, ALLI](https://profiles.viictr.org/profile/268735)
+  * [CHEN, MIAO-HSUEH](https://profiles.viictr.org/profile/266135)
+  * [HADSELL, DARRYL](https://profiles.viictr.org/profile/266951)
+  * [O'CONNOR, TERESIA](https://profiles.viictr.org/profile/265887)
+  * [WOOD, ALEXIS](https://profiles.viictr.org/profile/4897371)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [FIOROTTO, MARTA](https://profiles.viictr.org/profile/266734)
+  * [LAPILLONNE, ALEXANDRE](https://profiles.viictr.org/profile/265714)
+  * [SHEN, LANLAN](https://profiles.viictr.org/profile/266104)
+  * [SISLEY, STEPHANIE](https://profiles.viictr.org/profile/267628)
+  * [STOLL, BARBARA](https://profiles.viictr.org/profile/268170)
+
+_
+

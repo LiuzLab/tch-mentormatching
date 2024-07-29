@@ -1,0 +1,936 @@
+## RICHARD LLOYD
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JKc87nzDQIn2S8Ho5G4%3d&rnd=412fed58-3637-48c9-b642-9a071258e09e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269833)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=269833&cachekey=ae9d2417-d210-4458-b239-80669c709a96)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01DK138372 (LLOYD, RICHARD E)Mar 5, 2024 - Jan 31, 2027NIH  
+Virome and Immune Responses associated with IA and Type 1 Diabetes  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01DK124581 (LLOYD, RICHARD E)Aug 20, 2020 - Jun 30, 2024NIH  
+Gut Viral and Bacterial Associations with Celiac Disease in the TEDDY Cohort  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21AI132985 (RAMANI, SASIREKHA)Aug 9, 2018 - Jul 31, 2021NIH  
+Oral vaccine interactions in human intestinal enteroids  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01AI050237 (LLOYD, RICHARD E)Jul 1, 2001 - Jul 31, 2023NIH  
+Translation Regulation by Enterovirus Proteinase  
+Role: Principal Investigator  
+  
+* * *  
+  
+R56AI050237 (LLOYD, RICHARD E)Jul 1, 2001 - Dec 14, 2007NIH  
+Translation Regulation by Enterovirus Proteinase  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM059803 (LLOYD, RICHARD E)Aug 1, 1999 - Aug 31, 2009NIH  
+Mechanisms of Translation Control During Apoptosis  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AI027914 (LLOYD, RICHARD E)Aug 1, 1989 - Nov 30, 2000NIH  
+CONTROL OF TRANSLATION BY POLIOVIRUS PROTEINASE  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32AI007085 (LLOYD, RICHARD E)Jul 1, 1985NIH  
+POLIOVIRUS ACTIVATION OF HOST P220-SPECIFIC PROTEINASE  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Lin J, Moradi E, Salenius K, Lehtipuro S, H?kkinen T, Laiho JE, Oikarinen S, Randelin S, Parikh HM, Krischer JP, Toppari J, Lernmark ?, [Petrosino JF](https://profiles.viictr.org/profile/267058), Ajami NJ, She JX, Hagopian WA, Rewers MJ, **Lloyd RE** , Rautajoki KJ, Hy?ty H, Nykter M, TEDDY Study Group. Distinct transcriptomic profiles in children prior to the appearance of type 1 diabetes-linked islet autoantibodies and following enterovirus infection. Nat Commun. 2023 Nov 22; 14(1):7630. PMID: [37993433](//www.ncbi.nlm.nih.gov/pubmed/37993433); PMCID: [PMC10665402](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10665402).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  2. [Tisza M](https://profiles.viictr.org/profile/42513162), **Lloyd R** , Hoffman K, Smith D, Rewers M, TEDDY Study Group, Cregeen SJ, [Petrosino JF](https://profiles.viictr.org/profile/267058). Phage-bacteria dynamics during the first years of life revealed by trans-kingdom marker gene analysis. bioRxiv. 2023 Sep 29. PMID: [37808738](//www.ncbi.nlm.nih.gov/pubmed/37808738); PMCID: [PMC10557657](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10557657).
+
+Citations:
+
+  3. [Deater M](https://profiles.viictr.org/profile/17411339), Tamhankar M, **Lloyd RE**. TDRD3 is an antiviral restriction factor that promotes IFN signaling with G3BP1. PLoS Pathog. 2022 01; 18(1):e1010249. PMID: [35085371](//www.ncbi.nlm.nih.gov/pubmed/35085371); PMCID: [PMC8824378](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8824378).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35085371/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  4. **Lloyd RE** , Tamhankar M, Lernmark ?. Enteroviruses and Type 1 Diabetes: Multiple Mechanisms and Factors? Annu Rev Med. 2022 01 27; 73:483-499. PMID: [34794324](//www.ncbi.nlm.nih.gov/pubmed/34794324); PMCID: [PMC9242008](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9242008).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34794324/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  5. Zhou F, Reineke LC, Khincha PP, Giri N, Mirabello L, Lemon LD, [Elghetany MT](https://profiles.viictr.org/profile/266095), **Lloyd RE** , Alter BP, Savage SA, [Bhar S](https://profiles.viictr.org/profile/3009970), Morris DK, Bergstrom K, Williams CL, Toh Y, [Bertuch AA](https://profiles.viictr.org/profile/266270). Expansion of germline RPS20 mutation phenotype to include Diamond-Blackfan anemia. Hum Mutat. 2020 11; 41(11):1918-1930. PMID: [32790018](//www.ncbi.nlm.nih.gov/pubmed/32790018); PMCID: [PMC7857045](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7857045).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32790018/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  6. Oikarinen M, Bertolet L, Toniolo A, Oikarinen S, Laiho JE, Pugliese A, **Lloyd RE** , Hy?ty H. Differential Detection of Encapsidated versus Unencapsidated Enterovirus RNA in Samples Containing Pancreatic Enzymes-Relevance for Diabetes Studies. Viruses. 2020 07 11; 12(7). PMID: [32664501](//www.ncbi.nlm.nih.gov/pubmed/32664501); PMCID: [PMC7411921](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7411921).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32664501/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  7. Vehik K, Lynch KF, Wong MC, Tian X, Ross MC, [Gibbs RA](https://profiles.viictr.org/profile/269695), Ajami NJ, [Petrosino JF](https://profiles.viictr.org/profile/267058), Rewers M, Toppari J, She JX, Akolkar B, Hagopian WA, Schatz DA, Krischer JP, **Lloyd RE** , TEDDY Study Group, Ziegler AG, Lernmark A, Hy?ty H. Prospective virome analyses in young children at increased genetic risk for type 1 diabetes. Nat Med. 2019 12; 25(12):1865-1872. PMID: [31792456](//www.ncbi.nlm.nih.gov/pubmed/31792456); PMCID: [PMC6898786](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6898786).
+
+Citations:
+[70](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31792456/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansCells
+
+  8. Lindfors K, Lin J, Lee HS, Nykter M, Kurppa K, Liu E, Koletzko S, Rewers M, Hagopian W, Toppari J, Akolkar B, Krischer JP, [Petrosino JF](https://profiles.viictr.org/profile/267058), **Lloyd RE** , Agardh D, TEDDY Study Group, Hy?ty H, Ziegler AG. Metagenomics of the faecal virome indicate a cumulative effect of enterovirus and gluten amount on the risk of coeliac disease autoimmunity in genetically at risk children: the TEDDY study. Gut. 2020 08; 69(8):1416-1422. PMID: [31744911](//www.ncbi.nlm.nih.gov/pubmed/31744911); PMCID: [PMC7234892](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7234892).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31744911/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  9. Liu H, Hu PW, Budhiraja S, Misra A, Couturier J, **Lloyd RE** , [Lewis DE](https://profiles.viictr.org/profile/267982), [Kimata JT](https://profiles.viictr.org/profile/268949), [Rice AP](https://profiles.viictr.org/profile/269748). PACS1 is an HIV-1 cofactor that functions in Rev-mediated nuclear export of viral RNA. Virology. 2020 01 15; 540:88-96. PMID: [31759187](//www.ncbi.nlm.nih.gov/pubmed/31759187); PMCID: [PMC7335006](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7335006).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31759187/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  10. Dunne JL, Richardson SJ, Atkinson MA, Craig ME, **Lloyd RE** , Morgan NG, Pugliese A, Dahl-J?rgensen K, Flodstr?m-Tullberg M, Hy?ty H. Large enteroviral vaccination studies to prevent type 1 diabetes should be well founded and rely on scientific evidence. Reply to Skog O, Klingel K, Roivainen M et al [letter]. Diabetologia. 2019 06; 62(6):1100-1103. PMID: [31016358](//www.ncbi.nlm.nih.gov/pubmed/31016358).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31016358/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansCellsPHPublic Health
+
+  11. Dunne JL, Richardson SJ, Atkinson MA, Craig ME, Insel RA, **Lloyd RE** , Morgan NG, Pugliese A, Dahl-J?rgensen K, Flodstr?m-Tullberg M, Hy?ty H, Lernmark ?. Rationale for enteroviral vaccination and antiviral therapies in human type 1 diabetes. Diabetologia. 2019 05; 62(5):744-753. PMID: [30675626](//www.ncbi.nlm.nih.gov/pubmed/30675626); PMCID: [PMC6450860](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6450860).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30675626/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansCells
+
+  12. Stewart CJ, Ajami NJ, O'Brien JL, Hutchinson DS, Smith DP, Wong MC, [Ross MC](https://profiles.viictr.org/profile/1826609), **Lloyd RE** , Doddapaneni H, Metcalf GA, [Muzny D](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), Vatanen T, Huttenhower C, Xavier RJ, Rewers M, Hagopian W, Toppari J, She JX, Akolkar B, Hyoty H, Vehik K, Krischer JP, [Petrosino JF](https://profiles.viictr.org/profile/267058), Ziegler AG, Lernmark A. Temporal development of the gut microbiome in early childhood from the TEDDY study. Nature. 2018 10; 562(7728):583-588. PMID: [30356187](//www.ncbi.nlm.nih.gov/pubmed/30356187); PMCID: [PMC6415775](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6415775).
+
+Citations:
+[435](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30356187/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  13. Ajami NJ, Wong MC, [Ross MC](https://profiles.viictr.org/profile/1826609), **Lloyd RE** , [Petrosino JF](https://profiles.viictr.org/profile/267058). Maximal viral information recovery from sequence data using VirMAP. Nat Commun. 2018 08 10; 9(1):3205. PMID: [30097567](//www.ncbi.nlm.nih.gov/pubmed/30097567); PMCID: [PMC6086868](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6086868).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30097567/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  14. Nguyen TM, Kabotyanski EB, Dou Y, Reineke LC, Zhang P, [Zhang XH](https://profiles.viictr.org/profile/269369), [Malovannaya A](https://profiles.viictr.org/profile/3010185), Jung SY, Mo Q, [Roarty KP](https://profiles.viictr.org/profile/3010207), Chen Y, Zhang B, [Neilson JR](https://profiles.viictr.org/profile/266073), **Lloyd RE** , Perou CM, Ellis MJ, [Rosen JM](https://profiles.viictr.org/profile/267640). FGFR1-Activated Translation of WNT Pathway Components with Structured 5' UTRs Is Vulnerable to Inhibition of EIF4A-Dependent Translation Initiation. Cancer Res. 2018 08 01; 78(15):4229-4240. PMID: [29844125](//www.ncbi.nlm.nih.gov/pubmed/29844125); PMCID: [PMC6072612](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6072612).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29844125/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  15. Tsai WC, Reineke LC, Jain A, Jung SY, **Lloyd RE**. Histone arginine demethylase JMJD6 is linked to stress granule assembly through demethylation of the stress granule-nucleating protein G3BP1. J Biol Chem. 2017 11 17; 292(46):18886-18896. PMID: [28972166](//www.ncbi.nlm.nih.gov/pubmed/28972166); PMCID: [PMC5704473](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5704473).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28972166/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  16. Reineke LC, Tsai WC, Jain A, Kaelber JT, Jung SY, **Lloyd RE**. Casein Kinase 2 Is Linked to Stress Granule Dynamics through Phosphorylation of the Stress Granule Nucleating Protein G3BP1. Mol Cell Biol. 2017 02 15; 37(4). PMID: [27920254](//www.ncbi.nlm.nih.gov/pubmed/27920254); PMCID: [PMC5288577](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5288577).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27920254/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  17. Heesom K, Locker N, Emmott E, Sorgeloos F, Caddy SL, Vashist S, Sosnovtsev S, **Lloyd R** , Goodfellow I. Norovirus-Mediated Modification of the Translational Landscape via Virus and Host-Induced Cleavage of Translation Initiation Factors. Mol Cell Proteomics. 2017 04; 16(4 suppl 1):S215-S229. PMID: [28087593](//www.ncbi.nlm.nih.gov/pubmed/28087593); PMCID: [PMC5393397](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5393397).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28087593/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  18. Tsai WC, Gayatri S, Reineke LC, [Bedford MT](https://profiles.viictr.org/profile/12582989), **Lloyd RE** , Sbardella G. Arginine Demethylation of G3BP1 Promotes Stress Granule Assembly. J Biol Chem. 2016 Oct 21; 291(43):22671-22685. PMID: [27601476](//www.ncbi.nlm.nih.gov/pubmed/27601476); PMCID: [PMC5077203](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5077203).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27601476/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  19. **Lloyd RE** , [Estes MK](https://profiles.viictr.org/profile/266419). Editorial overview: Viruses and cell metabolism. Curr Opin Virol. 2016 08; 19:vii-viii. PMID: [27619793](//www.ncbi.nlm.nih.gov/pubmed/27619793); PMCID: [PMC8883798](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8883798).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27619793/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  20. **Lloyd RE**. Enterovirus Control of Translation and RNA Granule Stress Responses. Viruses. 2016 Mar 30; 8(4):93. PMID: [27043612](//www.ncbi.nlm.nih.gov/pubmed/27043612); PMCID: [PMC4848588](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4848588).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27043612/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  21. Dougherty JD, Tsai WC, **Lloyd RE**. Multiple Poliovirus Proteins Repress Cytoplasmic RNA Granules. Viruses. 2015 Nov 25; 7(12):6127-40. PMID: [26610553](//www.ncbi.nlm.nih.gov/pubmed/26610553); PMCID: [PMC4690851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4690851).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26610553/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  22. **Lloyd RE**. Nuclear proteins hijacked by mammalian cytoplasmic plus strand RNA viruses. Virology. 2015 May; 479-480:457-74. PMID: [25818028](//www.ncbi.nlm.nih.gov/pubmed/25818028); PMCID: [PMC4426963](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4426963).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25818028/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  23. Reineke LC, Kedersha N, Langereis MA, van Kuppeveld FJ, **Lloyd RE**. Stress granules regulate double-stranded RNA-dependent protein kinase activation through a complex containing G3BP1 and Caprin1. mBio. 2015 Mar 17; 6(2):e02486. PMID: [25784705](//www.ncbi.nlm.nih.gov/pubmed/25784705); PMCID: [PMC4453520](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4453520).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25784705/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  24. Reineke LC, **Lloyd RE**. The stress granule protein G3BP1 recruits protein kinase R to promote multiple innate immune antiviral responses. J Virol. 2015 Mar; 89(5):2575-89. PMID: [25520508](//www.ncbi.nlm.nih.gov/pubmed/25520508); PMCID: [PMC4325707](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4325707).
+
+Citations:
+[82](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25520508/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  25. Tsai WC, **Lloyd RE**. Cytoplasmic RNA Granules and Viral Infection. Annu Rev Virol. 2014 Nov; 1(1):147-70. PMID: [26958719](//www.ncbi.nlm.nih.gov/pubmed/26958719); PMCID: [PMC4867093](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4867093).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26958719/citedby/) Fields:
+
+Vir Virology
+
+  26. Feng Q, Langereis MA, Lork M, Nguyen M, Hato SV, Lanke K, Emdad L, Bhoopathi P, Fisher PB, **Lloyd RE** , van Kuppeveld FJ. Enterovirus 2Apro targets MDA5 and MAVS in infected cells. J Virol. 2014 Mar; 88(6):3369-78. PMID: [24390337](//www.ncbi.nlm.nih.gov/pubmed/24390337); PMCID: [PMC3957915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3957915).
+
+Citations:
+[116](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24390337/citedby/)
+Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  27. Dougherty JD, Reineke LC, **Lloyd RE**. mRNA decapping enzyme 1a (Dcp1a)-induced translational arrest through protein kinase R (PKR) activation requires the N-terminal enabled vasodilator-stimulated protein homology 1 (EVH1) domain. J Biol Chem. 2014 Feb 14; 289(7):3936-49. PMID: [24382890](//www.ncbi.nlm.nih.gov/pubmed/24382890); PMCID: [PMC3924262](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3924262).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24382890/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  28. **Lloyd RE**. Regulation of stress granules and P-bodies during RNA virus infection. Wiley Interdiscip Rev RNA. 2013 May-Jun; 4(3):317-31. PMID: [23554219](//www.ncbi.nlm.nih.gov/pubmed/23554219); PMCID: [PMC3652661](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3652661).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23554219/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  29. Reineke LC, **Lloyd RE**. Diversion of stress granules and P-bodies during viral infection. Virology. 2013 Feb 20; 436(2):255-67. PMID: [23290869](//www.ncbi.nlm.nih.gov/pubmed/23290869); PMCID: [PMC3611887](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3611887).
+
+Citations:
+[115](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23290869/citedby/)
+Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  30. Reineke LC, Dougherty JD, Pierre P, **Lloyd RE**. Large G3BP-induced granules trigger eIF2a phosphorylation. Mol Biol Cell. 2012 Sep; 23(18):3499-510. PMID: [22833567](//www.ncbi.nlm.nih.gov/pubmed/22833567); PMCID: [PMC3442399](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3442399).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22833567/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  31. **Lloyd RE**. How do viruses interact with stress-associated RNA granules? PLoS Pathog. 2012; 8(6):e1002741. PMID: [22761570](//www.ncbi.nlm.nih.gov/pubmed/22761570); PMCID: [PMC3386173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3386173).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22761570/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  32. White JP, **Lloyd RE**. Regulation of stress granules in virus systems. Trends Microbiol. 2012 Apr; 20(4):175-83. PMID: [22405519](//www.ncbi.nlm.nih.gov/pubmed/22405519); PMCID: [PMC3322245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3322245).
+
+Citations:
+[109](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22405519/citedby/)
+Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  33. Reineke LC, **Lloyd RE**. Animal virus schemes for translation dominance. Curr Opin Virol. 2011 Nov; 1(5):363-72. PMID: [22319551](//www.ncbi.nlm.nih.gov/pubmed/22319551); PMCID: [PMC3272495](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3272495).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22319551/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  34. White JP, **Lloyd RE**. Poliovirus unlinks TIA1 aggregation and mRNA stress granule formation. J Virol. 2011 Dec; 85(23):12442-54. PMID: [21957303](//www.ncbi.nlm.nih.gov/pubmed/21957303); PMCID: [PMC3209409](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3209409).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21957303/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  35. White JP, Reineke LC, **Lloyd RE**. Poliovirus switches to an eIF2-independent mode of translation during infection. J Virol. 2011 Sep; 85(17):8884-93. PMID: [21697471](//www.ncbi.nlm.nih.gov/pubmed/21697471); PMCID: [PMC3165854](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3165854).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21697471/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  36. Hoeffer CA, Cowansage KK, Arnold EC, Banko JL, Moerke NJ, Rodriguez R, Schmidt EK, Klosi E, Chorev M, **Lloyd RE** , Pierre P, Wagner G, LeDoux JE, Klann E. Inhibition of the interactions between eukaryotic initiation factors 4E and 4G impairs long-term associative memory consolidation but not reconsolidation. Proc Natl Acad Sci U S A. 2011 Feb 22; 108(8):3383-8. PMID: [21289279](//www.ncbi.nlm.nih.gov/pubmed/21289279); PMCID: [PMC3044415](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3044415).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21289279/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  37. Dougherty JD, White JP, **Lloyd RE**. Poliovirus-mediated disruption of cytoplasmic processing bodies. J Virol. 2011 Jan; 85(1):64-75. PMID: [20962086](//www.ncbi.nlm.nih.gov/pubmed/20962086); PMCID: [PMC3014174](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3014174).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20962086/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  38. Suo J, Snider SJ, [Mills GB](https://profiles.viictr.org/profile/12582930), [Creighton CJ](https://profiles.viictr.org/profile/265729), Chen AC, [Schiff R](https://profiles.viictr.org/profile/269128), **Lloyd RE** , [Chang EC](https://profiles.viictr.org/profile/267726). Int6 regulates both proteasomal degradation and translation initiation and is critical for proper formation of acini by human mammary epithelium. Oncogene. 2011 Feb 10; 30(6):724-36. PMID: [20890303](//www.ncbi.nlm.nih.gov/pubmed/20890303); PMCID: [PMC3017639](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3017639).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20890303/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansCells
+
+  39. Bonderoff JM, **Lloyd RE**. Time-dependent increase in ribosome processivity. Nucleic Acids Res. 2010 Nov; 38(20):7054-67. PMID: [20571082](//www.ncbi.nlm.nih.gov/pubmed/20571082); PMCID: [PMC2978347](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2978347).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20571082/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  40. Pond AC, Herschkowitz JI, Schwertfeger KL, Welm B, Zhang Y, York B, Cardiff RD, [Hilsenbeck S](https://profiles.viictr.org/profile/268374), Perou CM, [Creighton CJ](https://profiles.viictr.org/profile/265729), **Lloyd RE** , [Rosen JM](https://profiles.viictr.org/profile/267640). Fibroblast growth factor receptor signaling dramatically accelerates tumorigenesis and enhances oncoprotein translation in the mouse mammary tumor virus-Wnt-1 mouse model of breast cancer. Cancer Res. 2010 Jun 15; 70(12):4868-79. PMID: [20501844](//www.ncbi.nlm.nih.gov/pubmed/20501844); PMCID: [PMC3005245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3005245).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20501844/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  41. Bonderoff JM, Larey JL, **Lloyd RE**. Cleavage of poly(A)-binding protein by poliovirus 3C proteinase inhibits viral internal ribosome entry site-mediated translation. J Virol. 2008 Oct; 82(19):9389-99. PMID: [18632855](//www.ncbi.nlm.nih.gov/pubmed/18632855); PMCID: [PMC2546981](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2546981).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18632855/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  42. de Breyne S, Bonderoff JM, Chumakov KM, **Lloyd RE** , Hellen CU. Cleavage of eukaryotic initiation factor eIF5B by enterovirus 3C proteases. Virology. 2008 Aug 15; 378(1):118-22. PMID: [18572216](//www.ncbi.nlm.nih.gov/pubmed/18572216); PMCID: [PMC2580754](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2580754).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18572216/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  43. Rivera CI, **Lloyd RE**. Modulation of enteroviral proteinase cleavage of poly(A)-binding protein (PABP) by conformation and PABP-associated factors. Virology. 2008 May 25; 375(1):59-72. PMID: [18321554](//www.ncbi.nlm.nih.gov/pubmed/18321554); PMCID: [PMC2409284](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2409284).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18321554/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  44. Sherrill KW, **Lloyd RE**. Translation of cIAP2 mRNA is mediated exclusively by a stress-modulated ribosome shunt. Mol Cell Biol. 2008 Mar; 28(6):2011-22. PMID: [18195037](//www.ncbi.nlm.nih.gov/pubmed/18195037); PMCID: [PMC2268400](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2268400).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18195037/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  45. Bonderoff JM, **Lloyd RE**. CVB translation: lessons from the polioviruses. Curr Top Microbiol Immunol. 2008; 323:123-47. PMID: [18357768](//www.ncbi.nlm.nih.gov/pubmed/18357768).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18357768/citedby/) Fields:
+
+All Allergy and ImmunologyMic Microbiology
+
+Translation:HumansAnimalsCells
+
+  46. White JP, Cardenas AM, Marissen WE, **Lloyd RE**. Inhibition of cytoplasmic mRNA stress granule formation by a viral proteinase. Cell Host Microbe. 2007 Nov 15; 2(5):295-305. PMID: [18005751](//www.ncbi.nlm.nih.gov/pubmed/18005751).
+
+Citations:
+[201](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18005751/citedby/)
+Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  47. **Lloyd RE**. Translational control by viral proteinases. Virus Res. 2006 Jul; 119(1):76-88. PMID: [16303201](//www.ncbi.nlm.nih.gov/pubmed/16303201); PMCID: [PMC7173276](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7173276).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16303201/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  48. Byrd MP, Zamora M, **Lloyd RE**. Translation of eukaryotic translation initiation factor 4GI (eIF4GI) proceeds from multiple mRNAs containing a novel cap-dependent internal ribosome entry site (IRES) that is active during poliovirus infection. J Biol Chem. 2005 May 13; 280(19):18610-22. PMID: [15755734](//www.ncbi.nlm.nih.gov/pubmed/15755734).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15755734/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  49. Kuyumcu-Martinez M, Sosnovtsev SV, Chang KO, Green KY, **Lloyd RE** , Belliot G. Calicivirus 3C-like proteinase inhibits cellular translation by cleavage of poly(A)-binding protein. J Virol. 2004 Aug; 78(15):8172-82. PMID: [15254188](//www.ncbi.nlm.nih.gov/pubmed/15254188); PMCID: [PMC446144](//www.ncbi.nlm.nih.gov/pmc/articles/PMC446144).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15254188/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  50. Graham KL, Gustin KE, Rivera C, Kuyumcu-Martinez NM, Choe SS, **Lloyd RE** , Sarnow P, Utz PJ. Proteolytic cleavage of the catalytic subunit of DNA-dependent protein kinase during poliovirus infection. J Virol. 2004 Jun; 78(12):6313-21. PMID: [15163725](//www.ncbi.nlm.nih.gov/pubmed/15163725); PMCID: [PMC416498](//www.ncbi.nlm.nih.gov/pmc/articles/PMC416498).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15163725/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  51. Sherrill KW, Byrd MP, Van Eden ME, **Lloyd RE**. BCL-2 translation is mediated via internal ribosome entry during cell stress. J Biol Chem. 2004 Jul 09; 279(28):29066-74. PMID: [15123638](//www.ncbi.nlm.nih.gov/pubmed/15123638).
+
+Citations:
+[81](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15123638/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  52. Van Eden ME, Byrd MP, Sherrill KW, **Lloyd RE**. Demonstrating internal ribosome entry sites in eukaryotic mRNAs using stringent RNA test procedures. RNA. 2004 Apr; 10(4):720-30. PMID: [15037781](//www.ncbi.nlm.nih.gov/pubmed/15037781); PMCID: [PMC1370562](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1370562).
+
+Citations:
+[82](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15037781/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  53. Van Eden ME, Byrd MP, Sherrill KW, **Lloyd RE**. Translation of cellular inhibitor of apoptosis protein 1 (c-IAP1) mRNA is IRES mediated and regulated during cell stress. RNA. 2004 Mar; 10(3):469-81. PMID: [14970392](//www.ncbi.nlm.nih.gov/pubmed/14970392); PMCID: [PMC1370942](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1370942).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14970392/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  54. Kuyumcu-Martinez NM, Van Eden ME, Younan P, **Lloyd RE**. Cleavage of poly(A)-binding protein by poliovirus 3C protease inhibits host cell translation: a novel mechanism for host translation shutoff. Mol Cell Biol. 2004 Feb; 24(4):1779-90. PMID: [14749392](//www.ncbi.nlm.nih.gov/pubmed/14749392); PMCID: [PMC344173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC344173).
+
+Citations:
+[106](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14749392/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  55. Marissen WE, Triyoso D, Younan P, **Lloyd RE**. Degradation of poly(A)-binding protein in apoptotic cells and linkage to translation regulation. Apoptosis. 2004 Jan; 9(1):67-75. PMID: [14739600](//www.ncbi.nlm.nih.gov/pubmed/14739600).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14739600/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  56. Byrd MP, Zamora M, **Lloyd RE**. Generation of multiple isoforms of eukaryotic translation initiation factor 4GI by use of alternate translation initiation codons. Mol Cell Biol. 2002 Jul; 22(13):4499-511. PMID: [12052860](//www.ncbi.nlm.nih.gov/pubmed/12052860); PMCID: [PMC133909](//www.ncbi.nlm.nih.gov/pmc/articles/PMC133909).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12052860/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  57. Kuyumcu-Martinez NM, Joachims M, **Lloyd RE**. Efficient cleavage of ribosome-associated poly(A)-binding protein by enterovirus 3C protease. J Virol. 2002 Mar; 76(5):2062-74. PMID: [11836384](//www.ncbi.nlm.nih.gov/pubmed/11836384); PMCID: [PMC135927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC135927).
+
+Citations:
+[75](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11836384/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  58. Zamora M, Marissen WE, **Lloyd RE**. Multiple eIF4GI-specific protease activities present in uninfected and poliovirus-infected cells. J Virol. 2002 Jan; 76(1):165-77. PMID: [11739682](//www.ncbi.nlm.nih.gov/pubmed/11739682); PMCID: [PMC135685](//www.ncbi.nlm.nih.gov/pmc/articles/PMC135685).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11739682/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  59. Schneider R, Agol VI, Andino R, Bayard F, Cavener DR, Chappell SA, Chen JJ, Darlix JL, Dasgupta A, Duncan R, Elroy-Stein O, Farabaugh PJ, Filipowicz W, Gale M, Gehrke L, Goldman E, Groner Y, Harford JB, Hatzglou M, He B, Hellen CU, Hentze MW, Hershey J, Hershey P, Hohn T, Holcik M, Hunter CP, Igarashi K, Jackson R, Jagus R, Jefferson LS, Joshi B, Kaempfer R, Katze M, Kaufman RJ, Kiledjian M, Kimball SR, Kimchi A, Kirkegaard K, Koromilas AE, Krug RM, Kruys V, Lamphear BJ, Lemon S, **Lloyd RE** , Maquat LE, Martinez-Salas E, Mathews MB, Mauro VP, Miyamoto S, Mohr I, Morris DR, Moss EG, Nakashima N, Palmenberg A, Parkin NT, Pe'ery T, Pelletier J, Peltz S, Pestova TV, Pilipenko EV, Prats AC, Racaniello V, Read GS, Rhoads RE, Richter JD, Rivera-Pomar R, Rouault T, Sachs A, Sarnow P, Scheper GC, Schiff L, Schoenberg DR, Semler BL, Siddiqui A, Skern T, Sonenberg N, Sossin W, Standart N, Tahara SM, Thomas AA, Wilusz J, Wimmer E, Witherell G, Wormington M, Donz? O, Toulm? JJ. New ways of initiating translation in eukaryotes. Mol Cell Biol. 2001 Dec; 21(23):8238-46. PMID: [11710333](//www.ncbi.nlm.nih.gov/pubmed/11710333); PMCID: [PMC99989](//www.ncbi.nlm.nih.gov/pmc/articles/PMC99989).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11710333/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  60. Marissen WE, Gradi A, Sonenberg N, **Lloyd RE**. Cleavage of eukaryotic translation initiation factor 4GII correlates with translation inhibition during apoptosis. Cell Death Differ. 2000 Dec; 7(12):1234-43. PMID: [11175261](//www.ncbi.nlm.nih.gov/pubmed/11175261).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11175261/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  61. Bushell M, Poncet D, Marissen WE, Flotow H, **Lloyd RE** , Clemens MJ, Morley SJ. Cleavage of polypeptide chain initiation factor eIF4GI during apoptosis in lymphoma cells: characterisation of an internal fragment generated by caspase-3-mediated cleavage. Cell Death Differ. 2000 Jul; 7(7):628-36. PMID: [10889507](//www.ncbi.nlm.nih.gov/pubmed/10889507).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10889507/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  62. Marissen WE, Guo Y, Thomas AA, Matts RL, **Lloyd RE**. Identification of caspase 3-mediated cleavage and functional alteration of eukaryotic initiation factor 2alpha in apoptosis. J Biol Chem. 2000 Mar 31; 275(13):9314-23. PMID: [10734073](//www.ncbi.nlm.nih.gov/pubmed/10734073).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10734073/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  63. Joachims M, Van Breugel PC, **Lloyd RE**. Cleavage of poly(A)-binding protein by enterovirus proteases concurrent with inhibition of translation in vitro. J Virol. 1999 Jan; 73(1):718-27. PMID: [9847378](//www.ncbi.nlm.nih.gov/pubmed/9847378); PMCID: [PMC103879](//www.ncbi.nlm.nih.gov/pmc/articles/PMC103879).
+
+Citations:
+[131](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9847378/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  64. Marissen WE, **Lloyd RE**. Eukaryotic translation initiation factor 4G is targeted for proteolytic cleavage by caspase 3 during inhibition of translation in apoptotic cells. Mol Cell Biol. 1998 Dec; 18(12):7565-74. PMID: [9819442](//www.ncbi.nlm.nih.gov/pubmed/9819442); PMCID: [PMC109337](//www.ncbi.nlm.nih.gov/pmc/articles/PMC109337).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9819442/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  65. Bovee ML, Lamphear BJ, Rhoads RE, **Lloyd RE**. Direct cleavage of elF4G by poliovirus 2A protease is inefficient in vitro. Virology. 1998 Jun 05; 245(2):241-9. PMID: [9636363](//www.ncbi.nlm.nih.gov/pubmed/9636363).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9636363/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  66. Bovee ML, Marissen WE, Zamora M, **Lloyd RE**. The predominant elF4G-specific cleavage activity in poliovirus-infected HeLa cells is distinct from 2A protease. Virology. 1998 Jun 05; 245(2):229-40. PMID: [9636362](//www.ncbi.nlm.nih.gov/pubmed/9636362).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9636362/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  67. Benton PA, Barrett DJ, Matts RL, **Lloyd RE**. The outcome of poliovirus infections in K562 cells is cytolytic rather than persistent after hemin-induced differentiation. J Virol. 1996 Aug; 70(8):5525-32. PMID: [8764065](//www.ncbi.nlm.nih.gov/pubmed/8764065); PMCID: [PMC190511](//www.ncbi.nlm.nih.gov/pmc/articles/PMC190511).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8764065/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  68. Benton PA, Murphy JW, **Lloyd RE**. K562 cell strains differ in their response to poliovirus infection. Virology. 1995 Oct 20; 213(1):7-18. PMID: [7483280](//www.ncbi.nlm.nih.gov/pubmed/7483280).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7483280/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  69. Yu SF, Benton P, Bovee M, Sessions J, **Lloyd RE**. Defective RNA replication by poliovirus mutants deficient in 2A protease cleavage activity. J Virol. 1995 Jan; 69(1):247-52. PMID: [7983716](//www.ncbi.nlm.nih.gov/pubmed/7983716); PMCID: [PMC188570](//www.ncbi.nlm.nih.gov/pmc/articles/PMC188570).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7983716/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  70. **Lloyd RE** , Bovee M. Persistent infection of human erythroblastoid cells by poliovirus. Virology. 1993 May; 194(1):200-9. PMID: [8386873](//www.ncbi.nlm.nih.gov/pubmed/8386873).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8386873/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  71. Wyckoff EE, **Lloyd RE** , Ehrenfeld E. Relationship of eukaryotic initiation factor 3 to poliovirus-induced p220 cleavage activity. J Virol. 1992 May; 66(5):2943-51. PMID: [1313911](//www.ncbi.nlm.nih.gov/pubmed/1313911); PMCID: [PMC241053](//www.ncbi.nlm.nih.gov/pmc/articles/PMC241053).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1313911/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  72. Yu SF, **Lloyd RE**. Characterization of the roles of conserved cysteine and histidine residues in poliovirus 2A protease. Virology. 1992 Feb; 186(2):725-35. PMID: [1310193](//www.ncbi.nlm.nih.gov/pubmed/1310193).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1310193/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  73. Yu SF, **Lloyd RE**. Identification of essential amino acid residues in the functional activity of poliovirus 2A protease. Virology. 1991 Jun; 182(2):615-25. PMID: [1850921](//www.ncbi.nlm.nih.gov/pubmed/1850921).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1850921/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  74. **Lloyd RE** , Grubman MJ, Ehrenfeld E. Relationship of p220 cleavage during picornavirus infection to 2A proteinase sequencing. J Virol. 1988 Nov; 62(11):4216-23. PMID: [2845133](//www.ncbi.nlm.nih.gov/pubmed/2845133); PMCID: [PMC253854](//www.ncbi.nlm.nih.gov/pmc/articles/PMC253854).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2845133/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  75. Devaney MA, Vakharia VN, **Lloyd RE** , Ehrenfeld E, Grubman MJ. Leader protein of foot-and-mouth disease virus is required for cleavage of the p220 component of the cap-binding protein complex. J Virol. 1988 Nov; 62(11):4407-9. PMID: [2845152](//www.ncbi.nlm.nih.gov/pubmed/2845152); PMCID: [PMC253884](//www.ncbi.nlm.nih.gov/pmc/articles/PMC253884).
+
+Citations:
+[132](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2845152/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  76. **Lloyd RE** , Jense HG, Ehrenfeld E. Restriction of translation of capped mRNA in vitro as a model for poliovirus-induced inhibition of host cell protein synthesis: relationship to p220 cleavage. J Virol. 1987 Aug; 61(8):2480-8. PMID: [3037110](//www.ncbi.nlm.nih.gov/pubmed/3037110); PMCID: [PMC255675](//www.ncbi.nlm.nih.gov/pmc/articles/PMC255675).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3037110/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  77. **Lloyd RE** , Toyoda H, Etchison D, Wimmer E, Ehrenfeld E. Cleavage of the cap binding protein complex polypeptide p220 is not effected by the second poliovirus protease 2A. Virology. 1986 Apr 15; 150(1):299-303. PMID: [3006342](//www.ncbi.nlm.nih.gov/pubmed/3006342).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3006342/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  78. **Lloyd RE** , Etchison D, Ehrenfeld E. Poliovirus protease does not mediate cleavage of the 220,000-Da component of the cap binding protein complex. Proc Natl Acad Sci U S A. 1985 May; 82(9):2723-7. PMID: [2986132](//www.ncbi.nlm.nih.gov/pubmed/2986132); PMCID: [PMC397637](//www.ncbi.nlm.nih.gov/pmc/articles/PMC397637).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2986132/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 69 publications over 25 distinct years, with a maximum of
+7 publications in
+2004](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,29,14,0,43,14,43,14,43,0,100,29,0,14,71,0,57,57,43,43,43,43,43,43,43,71,29,14,14,29,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1995| 2  
+1996| 1  
+1998| 3  
+1999| 1  
+2000| 3  
+2001| 1  
+2002| 3  
+2004| 7  
+2005| 2  
+2007| 1  
+2008| 5  
+2010| 4  
+2011| 4  
+2012| 3  
+2013| 3  
+2014| 3  
+2015| 3  
+2016| 3  
+2017| 3  
+2018| 3  
+2019| 5  
+2020| 2  
+2021| 1  
+2022| 1  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LLOYD's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (345)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Poliovirus](https://profiles.viictr.org/profile/252183)
+  * [Cytoplasmic Granules](https://profiles.viictr.org/profile/248721)
+  * [Protein Biosynthesis](https://profiles.viictr.org/profile/246571)
+  * [Viral Proteins](https://profiles.viictr.org/profile/262227)
+  * [Host-Pathogen Interactions](https://profiles.viictr.org/profile/260066)
+
+[Explore](https://profiles.viictr.org/profile/269833/198)
+
+_
+
+Co-Authors (24)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [DEATER, Matthew](https://profiles.viictr.org/profile/17411339)
+  * [PETROSINO, JOSEPH](https://profiles.viictr.org/profile/267058)
+  * [ESTES, MARY](https://profiles.viictr.org/profile/266419)
+  * [ROSEN, JEFFREY](https://profiles.viictr.org/profile/267640)
+  * [TISZA, MICHAEL](https://profiles.viictr.org/profile/42513162)
+
+[Explore](https://profiles.viictr.org/profile/269833/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ESTES, MARY](https://profiles.viictr.org/profile/266419)
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [DAVIS, TERESA](https://profiles.viictr.org/profile/268105)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [COSTA-MATTIOLI, MAURO](https://profiles.viictr.org/profile/265824)
+
+[Explore](https://profiles.viictr.org/profile/269833/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BUTEL, JANET](https://profiles.viictr.org/profile/266408)
+  * [DIEHL, GRETCHEN](https://profiles.viictr.org/profile/8183315)
+  * [HOLLINGER, F. BLAINE](https://profiles.viictr.org/profile/267399)
+  * [RICE, ANDREW](https://profiles.viictr.org/profile/269748)
+  * [ROSS, MATTHEW](https://profiles.viictr.org/profile/1826609)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BUTEL, JANET](https://profiles.viictr.org/profile/266408)
+  * [KEITEL, WENDY](https://profiles.viictr.org/profile/267970)
+  * [MCNEES, ADRIENNE](https://profiles.viictr.org/profile/3009524)
+  * [ZECHIEDRICH, LYNN](https://profiles.viictr.org/profile/267006)
+  * [ZHANG, XIAOLIU](https://profiles.viictr.org/profile/267088)
+
+_
+

@@ -1,0 +1,356 @@
+## R REDDY
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JLk15WHeQIn2S8Ho5G4%3d&rnd=588fe040-f76c-49a8-8f13-655f1802a9d7)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267427)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267427&cachekey=a15d0ddc-5d16-4b1e-b128-2b63033844c8)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| School of Health Professions  
+Division| School of Health Professions  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Perumal K, **Reddy R**. The 3' end formation in small RNAs. Gene Expr. 2002; 10(1-2):59-78. PMID: [11868988](//www.ncbi.nlm.nih.gov/pubmed/11868988); PMCID: [PMC5977532](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5977532).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11868988/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  2. Perumal K, Sinha K, Henning D, **Reddy R**. Purification, characterization, and cloning of the cDNA of human signal recognition particle RNA 3'-adenylating enzyme. J Biol Chem. 2001 Jun 15; 276(24):21791-6. PMID: [11287430](//www.ncbi.nlm.nih.gov/pubmed/11287430).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11287430/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  3. Chen Y, Sinha K, Perumal K, **Reddy R**. Effect of 3' terminal adenylic acid residue on the uridylation of human small RNAs in vitro and in frog oocytes. RNA. 2000 Sep; 6(9):1277-88. PMID: [10999605](//www.ncbi.nlm.nih.gov/pubmed/10999605); PMCID: [PMC1370001](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1370001).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10999605/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  4. Perumal K, [Gu J](https://profiles.viictr.org/profile/12582970), **Reddy R**. Evolutionary conservation of post-transcriptional 3' end adenylation of small RNAs: S. cerevisiae signal recognition particle RNA and U2 small nuclear RNA are post-transcriptionally adenylated. Mol Cell Biochem. 2000 May; 208(1-2):99-109. PMID: [10939633](//www.ncbi.nlm.nih.gov/pubmed/10939633).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10939633/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  5. Chen Y, Perumal K, **Reddy R**. Inhibition of translation of mRNAs containing gamma-monomethylphosphate cap structure in frog oocytes and in mammalian cells. Gene Expr. 2000; 9(3):133-43. PMID: [11243410](//www.ncbi.nlm.nih.gov/pubmed/11243410); PMCID: [PMC5964935](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5964935).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11243410/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  6. Sinha K, Perumal K, Chen Y, **Reddy R**. Post-transcriptional adenylation of signal recognition particle RNA is carried out by an enzyme different from mRNA Poly(A) polymerase. J Biol Chem. 1999 Oct 22; 274(43):30826-31. PMID: [10521474](//www.ncbi.nlm.nih.gov/pubmed/10521474).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10521474/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  7. Chen Y, Sinha K, Perumal K, [Gu J](https://profiles.viictr.org/profile/12582970), **Reddy R**. Accurate 3' end processing and adenylation of human signal recognition particle RNA and alu RNA in vitro. J Biol Chem. 1998 Dec 25; 273(52):35023-31. PMID: [9857035](//www.ncbi.nlm.nih.gov/pubmed/9857035).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9857035/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  8. Sinha KM, [Gu J](https://profiles.viictr.org/profile/12582970), Chen Y, **Reddy R**. Adenylation of small RNAs in human cells. Development of a cell-free system for accurate adenylation on the 3'-end of human signal recognition particle RNA. J Biol Chem. 1998 Mar 20; 273(12):6853-9. PMID: [9506988](//www.ncbi.nlm.nih.gov/pubmed/9506988).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9506988/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  9. [Gu J](https://profiles.viictr.org/profile/12582970), Chen Y, **Reddy R**. Small RNA database. Nucleic Acids Res. 1998 Jan 01; 26(1):160-2. PMID: [9399823](//www.ncbi.nlm.nih.gov/pubmed/9399823); PMCID: [PMC147212](//www.ncbi.nlm.nih.gov/pmc/articles/PMC147212).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9399823/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimals
+
+  10. [Gu J](https://profiles.viictr.org/profile/12582970), Shumyatsky G, Makan N, **Reddy R**. Formation of 2',3'-cyclic phosphates at the 3' end of human U6 small nuclear RNA in vitro. Identification of 2',3'-cyclic phosphates at the 3' ends of human signal recognition particle and mitochondrial RNA processing RNAs. J Biol Chem. 1997 Aug 29; 272(35):21989-93. PMID: [9268336](//www.ncbi.nlm.nih.gov/pubmed/9268336).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9268336/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  11. [Gu J](https://profiles.viictr.org/profile/12582970), **Reddy R**. Small RNA database. Nucleic Acids Res. 1997 Jan 01; 25(1):98-102. PMID: [9016511](//www.ncbi.nlm.nih.gov/pubmed/9016511); PMCID: [PMC146407](//www.ncbi.nlm.nih.gov/pmc/articles/PMC146407).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9016511/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  12. [Gu J](https://profiles.viictr.org/profile/12582970), Patton JR, Shimba S, **Reddy R**. Localization of modified nucleotides in Schizosaccharomyces pombe spliceosomal small nuclear RNAs: modified nucleotides are clustered in functionally important regions. RNA. 1996 Sep; 2(9):909-18. PMID: [8809017](//www.ncbi.nlm.nih.gov/pubmed/8809017); PMCID: [PMC1369425](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1369425).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8809017/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  13. Gupta S, Singh R, **Reddy R**. Capping of U6 small nuclear RNA in vitro can be uncoupled from transcription. J Biol Chem. 1990 Jun 05; 265(16):9491-5. PMID: [2345179](//www.ncbi.nlm.nih.gov/pubmed/2345179).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2345179/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  14. Singh R, Gupta S, **Reddy R**. Capping of mammalian U6 small nuclear RNA in vitro is directed by a conserved stem-loop and AUAUAC sequence: conversion of a noncapped RNA into a capped RNA. Mol Cell Biol. 1990 Mar; 10(3):939-46. PMID: [2304469](//www.ncbi.nlm.nih.gov/pubmed/2304469); PMCID: [PMC360939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC360939).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2304469/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  15. Suh D, Yuan Y, Henning D, **Reddy R**. Secondary structure of 7SK and 7-2 small RNAs. Possible origin of some 7SK pseudogenes from cDNA formed through self-priming by 7SK RNA. Eur J Biochem. 1989 Dec 08; 186(1-2):221-6. PMID: [2598929](//www.ncbi.nlm.nih.gov/pubmed/2598929).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2598929/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  16. Singh R, **Reddy R**. Gamma-monomethyl phosphate: a cap structure in spliceosomal U6 small nuclear RNA. Proc Natl Acad Sci U S A. 1989 Nov; 86(21):8280-3. PMID: [2813391](//www.ncbi.nlm.nih.gov/pubmed/2813391); PMCID: [PMC298264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC298264).
+
+Citations:
+[91](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2813391/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  17. Yuan Y, Singh R, **Reddy R**. Rat nucleolar 7-2 RNA is homologous to mouse mitochondrial RNase mitochondrial RNA-processing RNA. J Biol Chem. 1989 Sep 05; 264(25):14835-9. PMID: [2475491](//www.ncbi.nlm.nih.gov/pubmed/2475491).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2475491/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  18. Yuan Y, **Reddy R**. Genes for human U3 small nucleolar RNA contain highly conserved flanking sequences. Biochim Biophys Acta. 1989 Jun 01; 1008(1):14-22. PMID: [2719960](//www.ncbi.nlm.nih.gov/pubmed/2719960).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2719960/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansAnimalsCells
+
+  19. **Reddy R** , Henning D, Suh D. Characterization of Novikoff hepatoma small RNAs homologous to repetitive DNAs. Mol Cell Biochem. 1988 Feb; 79(2):125-32. PMID: [3398835](//www.ncbi.nlm.nih.gov/pubmed/3398835).
+
+Citations:  Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  20. Das G, Henning D, Wright D, **Reddy R**. Upstream regulatory elements are necessary and sufficient for transcription of a U6 RNA gene by RNA polymerase III. EMBO J. 1988 Feb; 7(2):503-12. PMID: [3366121](//www.ncbi.nlm.nih.gov/pubmed/3366121); PMCID: [PMC454347](//www.ncbi.nlm.nih.gov/pmc/articles/PMC454347).
+
+Citations:
+[91](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3366121/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  21. Yuan Y, **Reddy R**. Organization of spliceosomal U6 snRNA genes in the mouse genome. Mol Biol Rep. 1988-1989; 13(3):159-64. PMID: [3255051](//www.ncbi.nlm.nih.gov/pubmed/3255051).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3255051/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 12 publications over 7 distinct years, with a maximum of 3
+publications in 1998 and
+2000](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,33,67,100,33,100,33,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1996| 1  
+1997| 2  
+1998| 3  
+1999| 1  
+2000| 3  
+2001| 1  
+2002| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+REDDY's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (123)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [RNA, Small Nuclear](https://profiles.viictr.org/profile/243709)
+  * [Signal Recognition Particle](https://profiles.viictr.org/profile/262768)
+  * [RNA Processing, Post-Transcriptional](https://profiles.viictr.org/profile/241265)
+  * [RNA](https://profiles.viictr.org/profile/243081)
+  * [RNA Caps](https://profiles.viictr.org/profile/252283)
+
+[Explore](https://profiles.viictr.org/profile/267427/198)
+
+_
+
+Co-Authors (1)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GU, JIAN](https://profiles.viictr.org/profile/12582970)
+
+[Explore](https://profiles.viictr.org/profile/267427/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [WILUSZ, JEREMY](https://profiles.viictr.org/profile/35949597)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [COOPER, THOMAS](https://profiles.viictr.org/profile/269742)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [BARTHOLOMEW, BLAINE](https://profiles.viictr.org/profile/12582859)
+
+[Explore](https://profiles.viictr.org/profile/267427/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [MALOVANNAYA, ANNA](https://profiles.viictr.org/profile/3010185)
+  * [SAZER, SHELLEY](https://profiles.viictr.org/profile/268145)
+  * [TSAI, FRANCIS](https://profiles.viictr.org/profile/267524)
+  * [UESUGI, MOTONARI](https://profiles.viictr.org/profile/268207)
+  * [WANG, LIE](https://profiles.viictr.org/profile/17411436)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [KARLIN, KRISTEN](https://profiles.viictr.org/profile/1826677)
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [SAZER, SHELLEY](https://profiles.viictr.org/profile/268145)
+  * [SERYSHEVA, IRINA](https://profiles.viictr.org/profile/266963)
+  * [WESTBROOK, THOMAS](https://profiles.viictr.org/profile/267742)
+
+_
+

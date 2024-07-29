@@ -1,0 +1,199 @@
+## FARINAZ ARBAB
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=EKoi6GvGOsXUVI3s4lvAKbnCIhWf&rnd=f759bead-
+adb3-4d0e-b08b-da5c9261f880)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=34309715)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Doan M, Ramani NS, **Arbab F** , [Green LK](https://profiles.viictr.org/profile/269723). Fine-needle aspiration of scalp masses: A review of 30 cases. Diagn Cytopathol. 2023 Feb; 51(2):140-145. PMID: [36334039](//www.ncbi.nlm.nih.gov/pubmed/36334039).
+
+Citations:  Fields:
+
+Cel Cell BiologyPat Pathology
+
+  2. Terzian T, Dumble M, **Arbab F** , Thaller C, [Donehower LA](https://profiles.viictr.org/profile/268019), [Lozano G](https://profiles.viictr.org/profile/12582900), Justice MJ, Roop DR, Box NF. Rpl27a mutation in the sooty foot ataxia mouse phenocopies high p53 mouse models. J Pathol. 2011 Aug; 224(4):540-52. PMID: [21674502](//www.ncbi.nlm.nih.gov/pubmed/21674502); PMCID: [PMC3632393](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3632393).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21674502/citedby/) Fields:
+
+Pat Pathology
+
+Translation:AnimalsCells
+
+  3. [Huang JC](https://profiles.viictr.org/profile/38926247), Goldsby JS, **Arbab F** , Melhem Z, Aleksic N, Wu KK. Oviduct prostacyclin functions as a paracrine factor to augment the development of embryos. Hum Reprod. 2004 Dec; 19(12):2907-12. PMID: [15492023](//www.ncbi.nlm.nih.gov/pubmed/15492023).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15492023/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:Animals
+
+  4. Shoher A, **Arbab F** , [Lucci A](https://profiles.viictr.org/profile/12582684). Giant pelvic schwannoma with ancient change. J Am Coll Surg. 2003 Jul; 197(1):163. PMID: [12831937](//www.ncbi.nlm.nih.gov/pubmed/12831937).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12831937/citedby/) Fields:
+
+Gen General SurgeryGyn GynecologyObs Obstetrics
+
+Translation:Humans
+
+  5. **Arbab F** , Goldsby J, Matijevic-Aleksic N, [Huang G](https://profiles.viictr.org/profile/12583813), [Ruan KH](https://profiles.viictr.org/profile/268982), [Huang JC](https://profiles.viictr.org/profile/38926247). Prostacyclin is an autocrine regulator in the contraction of oviductal smooth muscle. Hum Reprod. 2002 Dec; 17(12):3053-9. PMID: [12456602](//www.ncbi.nlm.nih.gov/pubmed/12456602).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12456602/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansCells
+
+  6. [Huang JC](https://profiles.viictr.org/profile/38926247), **Arbab F** , Tumbusch KJ, Goldsby JS, Matijevic-Aleksic N, Wu KK. Human fallopian tubes express prostacyclin (PGI) synthase and cyclooxygenases and synthesize abundant PGI. J Clin Endocrinol Metab. 2002 Sep; 87(9):4361-8. PMID: [12213900](//www.ncbi.nlm.nih.gov/pubmed/12213900).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12213900/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 6 publications over 5 distinct years, with a maximum of 2
+publications in
+2002](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,100,50,50,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,50,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 2  
+2003| 1  
+2004| 1  
+2011| 1  
+2022| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ARBAB's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (66)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Epoprostenol](https://profiles.viictr.org/profile/251243)
+  * [Fallopian Tubes](https://profiles.viictr.org/profile/257540)
+  * [Muscle Contraction](https://profiles.viictr.org/profile/243680)
+  * [Muscle, Smooth](https://profiles.viictr.org/profile/259217)
+  * [Intramolecular Oxidoreductases](https://profiles.viictr.org/profile/256256)
+
+[Explore](https://profiles.viictr.org/profile/34309715/198)
+
+_
+
+Co-Authors (7)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HUANG, JAOU-CHEN](https://profiles.viictr.org/profile/38926247)
+  * [GREEN, LINDA](https://profiles.viictr.org/profile/269723)
+  * [LUCCI, ANTHONY](https://profiles.viictr.org/profile/12582684)
+  * [RUAN, KE-HE](https://profiles.viictr.org/profile/268982)
+  * [HUANG, GANGXIONG](https://profiles.viictr.org/profile/12583813)
+
+[Explore](https://profiles.viictr.org/profile/34309715/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [RUAN, KE-HE](https://profiles.viictr.org/profile/268982)
+  * [AJANI, JAFFER A](https://profiles.viictr.org/profile/12582892)
+  * [BORIEK, ALADIN](https://profiles.viictr.org/profile/268287)
+  * [HUANG, JAOU-CHEN](https://profiles.viictr.org/profile/38926247)
+  * [LOZANO, GUILLERMINA](https://profiles.viictr.org/profile/12582900)
+
+[Explore](https://profiles.viictr.org/profile/34309715/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRACEY, ARTHUR](https://profiles.viictr.org/profile/270289)
+  * [DENAPOLI, THOMAS](https://profiles.viictr.org/profile/7612577)
+  * [FULLER, MAREN](https://profiles.viictr.org/profile/28999064)
+  * [OEZGUEN, NUMAN](https://profiles.viictr.org/profile/267606)
+  * [ZARRIN-KHAMEH, NEDA](https://profiles.viictr.org/profile/269793)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

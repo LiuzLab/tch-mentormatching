@@ -1,0 +1,625 @@
+## NICOLAS YOUNG
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=GKIz7mnGM8XMSZrj51vAKbnCIhWf&rnd=55cbc86f-9e18-4443-815c-f03cab84d88e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=16943307)  
+  
+
+Other Positions| Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Center for Precision Environmental Health  
+Division| Center for Precision Env Health  
+  
+  
+Title| Associate Professor  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Division| Molecular & Cellular Biology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01GM139295 (YOUNG, NICOLAS L)Sep 1, 2020 - May 31, 2025NIH  
+Neutron encoded activity based probes  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+F32CA139893 (YOUNG, NICOLAS L)Jul 1, 2010 - Jun 30, 2012NIH  
+Investigation of the Histone Code in DNA Damage Response and Repair Mechanisms  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Fox GC, [Poncha KF](https://profiles.viictr.org/profile/24845229), Smith BR, van der Maas LN, Robbins NN, Graham B, Dowen JM, Strahl BD, **Young NL** , Jain K. Histone H3K18 & H3K23 acetylation directs establishment of MLL-mediated H3K4 methylation. J Biol Chem. 2024 Jul 01; 107527. PMID: [38960040](//www.ncbi.nlm.nih.gov/pubmed/38960040).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+  2. Fox GC, [Poncha KF](https://profiles.viictr.org/profile/24845229), Smith BR, van der Maas LN, Robbins NN, Graham B, Dowen JM, Strahl BD, **Young NL** , Jain K. H3K18 & H3K23 acetylation directs establishment of MLL-mediated H3K4 methylation. bioRxiv. 2024 May 14. PMID: [38798640](//www.ncbi.nlm.nih.gov/pubmed/38798640); PMCID: [PMC11118386](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11118386).
+
+Citations:
+
+  3. Phillips M, Malone KL, Boyle BW, Montgomery C, Kressy IA, Joseph FM, Bright KM, Boyson SP, Chang S, Nix JC, **Young NL** , Jeffers V, Frietze S, Glass KC. Impact of Combinatorial Histone Modifications on Acetyllysine Recognition by the ATAD2 and ATAD2B Bromodomains. J Med Chem. 2024 May 23; 67(10):8186-8200. PMID: [38733345](//www.ncbi.nlm.nih.gov/pubmed/38733345); PMCID: [PMC11149620](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11149620).
+
+Citations:  Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  4. [Taylor BC](https://profiles.viictr.org/profile/28999384), Steinthal LH, Dias M, [Yalamanchili HK](https://profiles.viictr.org/profile/8950236), Ochsner SA, Zapata GE, Mehta NR, [McKenna NJ](https://profiles.viictr.org/profile/268182), **Young NL** , Nuotio-Antar AM. Histone proteoform analysis reveals epigenetic changes in adult mouse brown adipose tissue in response to cold stress. Epigenetics Chromatin. 2024 Apr 27; 17(1):12. PMID: [38678237](//www.ncbi.nlm.nih.gov/pubmed/38678237); PMCID: [PMC11055387](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11055387).
+
+Citations:  Fields:
+
+Bio BiochemistryGen Genetics
+
+Translation:AnimalsCells
+
+  5. [Taylor BC](https://profiles.viictr.org/profile/28999384), Steinthal LH, Dias M, Yalamanchili HK, Ochsner SA, Zapata GE, Mehta NR, [McKenna NJ](https://profiles.viictr.org/profile/268182), **Young NL** , Nuotio-Antar AM. Histone proteoform analysis reveals epigenetic changes in adult mouse brown adipose tissue in response to cold stress. bioRxiv. 2024 Jan 22. PMID: [38328142](//www.ncbi.nlm.nih.gov/pubmed/38328142); PMCID: [PMC10849524](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10849524).
+
+Citations:
+
+  6. Namitz KEW, Jain K, Marunde MR, Burg JM, Gloor SL, Joseph FM, [Poncha KF](https://profiles.viictr.org/profile/24845229), Gillespie ZB, Rodriguez KL, Popova IK, Hall NW, Vaidya A, Howard SA, Taylor HF, Mukhsinova L, Onuoha UC, Patteson EF, Cooke SW, Taylor BC, Weinzapfel EN, Cheek MA, Meiners MJ, Fox GC, Cowles MW, Krajewski K, Sun ZW, Cosgrove MS, **Young NL** , Keogh MC, Strahl BD. An acetylation-mediated chromatin switch governs H3K4 methylation read-write capability. Elife. 2023 05 19; 12. PMID: [37204295](//www.ncbi.nlm.nih.gov/pubmed/37204295); PMCID: [PMC10229121](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10229121).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37204295/citedby/) Fields:
+
+Bio Biology
+
+Translation:Cells
+
+  7. [Taylor BC](https://profiles.viictr.org/profile/28999384), **Young NL**. Histone H4 proteoforms and post-translational modifications in the Mus musculus brain with quantitative comparison of ages and brain regions. Anal Bioanal Chem. 2023 Apr; 415(9):1627-1639. PMID: [36754872](//www.ncbi.nlm.nih.gov/pubmed/36754872); PMCID: [PMC10165947](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10165947).
+
+Citations:  Fields:
+
+Che Chemistry Techniques
+
+Translation:AnimalsCells
+
+  8. Wang X, Shi Z, Lu HY, Kim JJ, [Bu W](https://profiles.viictr.org/profile/267154), Villalobos JA, Perera DN, Jung SY, Wang T, [Grimm SL](https://profiles.viictr.org/profile/35589914), [Taylor BC](https://profiles.viictr.org/profile/28999384), Rajapakshe K, Park H, Wulfkuhle J, **Young NL** , Li Y, [Coarfa C](https://profiles.viictr.org/profile/265668), Edwards DP, Huang S. High-throughput profiling of histone post-translational modifications and chromatin modifying proteins by reverse phase protein array. J Proteomics. 2022 06 30; 262:104596. PMID: [35489683](//www.ncbi.nlm.nih.gov/pubmed/35489683); PMCID: [PMC10165948](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10165948).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  9. Joseph FM, **Young NL**. Histone variant-specific post-translational modifications. Semin Cell Dev Biol. 2023 02 15; 135:73-84. PMID: [35277331](//www.ncbi.nlm.nih.gov/pubmed/35277331); PMCID: [PMC9458767](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9458767).
+
+Citations:  Fields:
+
+Cel Cell BiologyEmb Embryology
+
+  10. [Murdaugh RL](https://profiles.viictr.org/profile/6998783), Hoegenauer KA, Kitano A, Holt MV, Hill MC, Shi X, [Tiessen JF](https://profiles.viictr.org/profile/24845211), Chapple R, Hu T, Tseng YJ, Lin A, [Martin JF](https://profiles.viictr.org/profile/266646), **Young NL** , [Nakada D](https://profiles.viictr.org/profile/268530). The histone H3.3 chaperone HIRA restrains erythroid-biased differentiation of adult hematopoietic stem cells. Stem Cell Reports. 2021 08 10; 16(8):2014-2028. PMID: [34242617](//www.ncbi.nlm.nih.gov/pubmed/34242617); PMCID: [PMC8365107](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8365107).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34242617/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  11. Park KW, Wood CA, Li J, [Taylor BC](https://profiles.viictr.org/profile/28999384), Oh S, **Young NL** , [Jankowsky JL](https://profiles.viictr.org/profile/265826). Gene therapy using A? variants for amyloid reduction. Mol Ther. 2021 07 07; 29(7):2294-2307. PMID: [33647457](//www.ncbi.nlm.nih.gov/pubmed/33647457); PMCID: [PMC8261072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8261072).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33647457/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  12. **Young NL** , [Dere R](https://profiles.viictr.org/profile/18892307). Mechanistic insights into KDM4A driven genomic instability. Biochem Soc Trans. 2021 02 26; 49(1):93-105. PMID: [33492339](//www.ncbi.nlm.nih.gov/pubmed/33492339); PMCID: [PMC7925003](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7925003).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33492339/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  13. [Taylor BC](https://profiles.viictr.org/profile/28999384), **Young NL**. Combinations of histone post-translational modifications. Biochem J. 2021 02 12; 478(3):511-532. PMID: [33567070](//www.ncbi.nlm.nih.gov/pubmed/33567070).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33567070/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  14. Holt MV, Wang T, **Young NL**. Expeditious Extraction of Histones from Limited Cells or Tissue Samples and Quantitative Top-Down Proteomic Analysis. Curr Protoc. 2021 Feb; 1(2):e26. PMID: [33534192](//www.ncbi.nlm.nih.gov/pubmed/33534192); PMCID: [PMC8991418](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8991418).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33534192/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  15. Chang L, Campbell J, Raji IO, Guduru SKR, Kandel P, [Nguyen M](https://profiles.viictr.org/profile/41156379), Liu S, Tran K, Venugopal NK, [Taylor BC](https://profiles.viictr.org/profile/28999384), Holt MV, **Young NL** , Samuel ELG, [Jain P](https://profiles.viictr.org/profile/13152877), Santini C, Sankaran B, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Young DW](https://profiles.viictr.org/profile/5099690). Discovery of small molecules targeting the tandem tudor domain of the epigenetic factor UHRF1 using fragment-based ligand discovery. Sci Rep. 2021 01 13; 11(1):1121. PMID: [33441849](//www.ncbi.nlm.nih.gov/pubmed/33441849); PMCID: [PMC7806715](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7806715).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33441849/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  16. Andrews AJ, **Young NL**. Methodological innovations drive conceptual innovations forward in chromatin biology. Methods. 2020 12 01; 184:1-3. PMID: [33069800](//www.ncbi.nlm.nih.gov/pubmed/33069800).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  17. Guo YR, Fan Y, Zhou Y, Jin M, Zhang JL, Jiang H, Holt MV, Wang T, **Young NL** , Wang D, Zhong W, Tao YJ. Orsay Virus CP-d Adopts a Novel ?-Bracelet Structural Fold and Incorporates into Virions as a Head Fiber. J Virol. 2020 10 14; 94(21). PMID: [32817218](//www.ncbi.nlm.nih.gov/pubmed/32817218); PMCID: [PMC7565637](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7565637).
+
+Citations:  Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  18. Srzentic K, Fornelli L, Tsybin YO, Loo JA, Seckler H, Agar JN, Anderson LC, Bai DL, Beck A, Brodbelt JS, van der Burgt YEM, Chamot-Rooke J, Chatterjee S, Chen Y, Clarke DJ, Danis PO, Diedrich JK, D'Ippolito RA, Ge Y, Goo YA, Goodlett DR, Greer S, Haselmann KF, He L, Hendrickson CL, Hinkle JD, Holt MV, Hughes S, Hunt DF, Kelleher NL, Kozhinov AN, Lin Z, Malosse C, Marshall AG, Millikin RJ, Nagornov KO, Nicolardi S, Pengelley S, Quebbemann NR, Resemann A, Sandoval W, Sarin R, Schmitt ND, Shabanowitz J, Shaw JB, Shortreed MR, Smith LM, Sobott F, Suckau D, Toby T, Weisbrod CR, Wildburger NC, Yates JR, Yoon SH, **Young NL** , Zhou M, Dupr? M, Gasilova N, Menin L, Pa?a-Tolic L. Interlaboratory Study for Characterizing Monoclonal Antibodies by Top-Down and Middle-Down Mass Spectrometry. J Am Soc Mass Spectrom. 2020 Sep 02; 31(9):1783-1802. PMID: [32812765](//www.ncbi.nlm.nih.gov/pubmed/32812765); PMCID: [PMC7539639](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7539639).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32812765/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansAnimalsCells
+
+  19. Dai S, Holt MV, Horton JR, Woodcock CB, Patel A, Zhang X, **Young NL** , Wilkinson AW, Cheng X. Characterization of SETD3 methyltransferase-mediated protein methionine methylation. J Biol Chem. 2020 08 07; 295(32):10901-10910. PMID: [32503840](//www.ncbi.nlm.nih.gov/pubmed/32503840); PMCID: [PMC7415985](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7415985).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32503840/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  20. Jiang Y, Hu T, Wang T, Shi X, Kitano A, Eagle K, Hoegenauer KA, [Konopleva MY](https://profiles.viictr.org/profile/12583701), Lin CY, **Young NL** , [Nakada D](https://profiles.viictr.org/profile/268530). AMP-activated protein kinase links acetyl-CoA homeostasis to BRD4 recruitment in acute myeloid leukemia. Blood. 2019 12 12; 134(24):2183-2194. PMID: [31697807](//www.ncbi.nlm.nih.gov/pubmed/31697807); PMCID: [PMC6908829](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6908829).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31697807/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  21. Holt MV, Wang T, **Young NL**. High-Throughput Quantitative Top-Down Proteomics: Histone H4. J Am Soc Mass Spectrom. 2019 Dec; 30(12):2548-2560. PMID: [31741267](//www.ncbi.nlm.nih.gov/pubmed/31741267).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31741267/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansCells
+
+  22. Holt MV, Wang T, **Young NL**. One-Pot Quantitative Top- and Middle-Down Analysis of GluC-Digested Histone H4. J Am Soc Mass Spectrom. 2019 Dec; 30(12):2514-2525. PMID: [31147891](//www.ncbi.nlm.nih.gov/pubmed/31147891).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31147891/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansCells
+
+  23. Wang T, Holt MV, **Young NL**. Early butyrate induced acetylation of histone H4 is proteoform specific and linked to methylation state. Epigenetics. 2018; 13(5):519-535. PMID: [29940793](//www.ncbi.nlm.nih.gov/pubmed/29940793); PMCID: [PMC6140813](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6140813).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29940793/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  24. Wang T, Holt MV, **Young NL**. The histone H4 proteoform dynamics in response to SUV4-20 inhibition reveals single molecule mechanisms of inhibitor resistance. Epigenetics Chromatin. 2018 06 07; 11(1):29. PMID: [29880017](//www.ncbi.nlm.nih.gov/pubmed/29880017); PMCID: [PMC5992683](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5992683).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29880017/citedby/) Fields:
+
+Bio BiochemistryGen Genetics
+
+Translation:HumansCells
+
+  25. Jiang T, Hoover ME, Holt MV, Freitas MA, Marshall AG, **Young NL**. Middle-Down Characterization of the Cell Cycle Dependence of Histone H4 Posttranslational Modifications and Proteoforms. Proteomics. 2018 06; 18(11):e1700442. PMID: [29667342](//www.ncbi.nlm.nih.gov/pubmed/29667342); PMCID: [PMC8087174](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8087174).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29667342/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  26. Agar JN, Amster IJ, Baker MS, Bertozzi CR, Boja ES, Costello CE, Cravatt BF, Fenselau C, Garcia BA, Ge Y, Gunawardena J, Hendrickson RC, Hergenrother PJ, Huber CG, Ivanov AR, Jensen ON, Jewett MC, Kelleher NL, Kiessling LL, Krogan NJ, Larsen MR, Loo JA, Ogorzalek Loo RR, Lundberg E, MacCoss MJ, Mallick P, Mootha VK, Mrksich M, Muir TW, Patrie SM, Pesavento JJ, Pitteri SJ, Rodriguez H, Saghatelian A, Sandoval W, Sechi S, Slavoff SA, Smith LM, Snyder MP, Thomas PM, Van Eyk JE, Vidal M, Walt DR, White FM, Williams ER, Wohlschlager T, Wysocki VH, Yates NA, **Young NL** , Zhang B, Aebersold R, Schl?ter H, Uhl?n M. How many human proteoforms are there? Nat Chem Biol. 2018 02 14; 14(3):206-214. PMID: [29443976](//www.ncbi.nlm.nih.gov/pubmed/29443976); PMCID: [PMC5837046](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5837046).
+
+Citations:
+[188](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29443976/citedby/)
+Fields:
+
+Bio BiologyChe Chemistry
+
+Translation:HumansCells
+
+  27. Fan Y, Guo YR, Yuan W, Zhou Y, Holt MV, Wang T, Demeler B, **Young NL** , Zhong W, Tao YJ. Structure of a pentameric virion-associated fiber with a potential role in Orsay virus entry to host cells. PLoS Pathog. 2017 02; 13(2):e1006231. PMID: [28241071](//www.ncbi.nlm.nih.gov/pubmed/28241071); PMCID: [PMC5344674](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5344674).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28241071/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:AnimalsCells
+
+  28. Dang X, Singh A, Spetman BD, Nolan KD, Isaacs JS, Dennis JH, Dalton S, Marshall AG, **Young NL**. Label-Free Relative Quantitation of Isobaric and Isomeric Human Histone H2A and H2B Variants by Fourier Transform Ion Cyclotron Resonance Top-Down MS/MS. J Proteome Res. 2016 09 02; 15(9):3196-203. PMID: [27431976](//www.ncbi.nlm.nih.gov/pubmed/27431976); PMCID: [PMC6261780](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6261780).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27431976/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  29. Chen Y, Hoover ME, Dang X, Shomo AA, Guan X, Marshall AG, Freitas MA, **Young NL**. Quantitative Mass Spectrometry Reveals that Intact Histone H1 Phosphorylations are Variant Specific and Exhibit Single Molecule Hierarchical Dependence. Mol Cell Proteomics. 2016 Mar; 15(3):818-33. PMID: [26209608](//www.ncbi.nlm.nih.gov/pubmed/26209608); PMCID: [PMC4813703](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4813703).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26209608/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  30. Dang X, Scotcher J, Wu S, Chu RK, Tolic N, Ntai I, Thomas PM, Fellers RT, Early BP, Zheng Y, Durbin KR, Leduc RD, Wolff JJ, Thompson CJ, Pan J, Han J, Shaw JB, Salisbury JP, Easterling M, Borchers CH, Brodbelt JS, Agar JN, Kelleher NL, **Young NL** , Pa?a-Tolic L. The first pilot project of the consortium for top-down proteomics: a status report. Proteomics. 2014 May; 14(10):1130-40. PMID: [24644084](//www.ncbi.nlm.nih.gov/pubmed/24644084); PMCID: [PMC4146406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4146406).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24644084/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  31. Ficarro SB, Biagi JM, Wang J, Scotcher J, Koleva RI, Card JD, Adelmant G, He H, Askenazi M, Marshall AG, **Young NL** , Gray NS, Marto JA. Protected amine labels: a versatile molecular scaffold for multiplexed nominal mass and sub-Da isotopologue quantitative proteomic reagents. J Am Soc Mass Spectrom. 2014 Apr; 25(4):636-50. PMID: [24496597](//www.ncbi.nlm.nih.gov/pubmed/24496597); PMCID: [PMC3971929](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3971929).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24496597/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansCells
+
+  32. Harshman SW, **Young NL** , Parthun MR, Freitas MA. H1 histones: current perspectives and challenges. Nucleic Acids Res. 2013 Nov; 41(21):9593-609. PMID: [23945933](//www.ncbi.nlm.nih.gov/pubmed/23945933); PMCID: [PMC3834806](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3834806).
+
+Citations:
+[95](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23945933/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  33. Zhang Q, Noble KA, Mao Y, **Young NL** , Sathe SK, Roux KH, Marshall AG. Rapid screening for potential epitopes reactive with a polycolonal antibody by solution-phase H/D exchange monitored by FT-ICR mass spectrometry. J Am Soc Mass Spectrom. 2013 Jul; 24(7):1016-25. PMID: [23681851](//www.ncbi.nlm.nih.gov/pubmed/23681851).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23681851/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:AnimalsCells
+
+  34. Voigt P, LeRoy G, Drury WJ, Zee BM, Son J, Beck DB, **Young NL** , Garcia BA, Reinberg D. Asymmetrically modified nucleosomes. Cell. 2012 Sep 28; 151(1):181-93. PMID: [23021224](//www.ncbi.nlm.nih.gov/pubmed/23021224); PMCID: [PMC3498816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3498816).
+
+Citations:
+[198](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23021224/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  35. Barber MF, Michishita-Kioi E, Xi Y, Tasselli L, Kioi M, Moqtaderi Z, Tennen RI, Paredes S, **Young NL** , Chen K, Struhl K, Garcia BA, Gozani O, Li W, Chua KF. SIRT7 links H3K18 deacetylation to maintenance of oncogenic transformation. Nature. 2012 Jul 05; 487(7405):114-8. PMID: [22722849](//www.ncbi.nlm.nih.gov/pubmed/22722849); PMCID: [PMC3412143](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3412143).
+
+Citations:
+[234](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22722849/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  36. Green EM, Mas G, **Young NL** , Garcia BA, Gozani O. Methylation of H4 lysines 5, 8 and 12 by yeast Set5 calibrates chromatin stress responses. Nat Struct Mol Biol. 2012 Feb 19; 19(3):361-3. PMID: [22343720](//www.ncbi.nlm.nih.gov/pubmed/22343720); PMCID: [PMC3334815](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3334815).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22343720/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  37. Torrente MP, Zee BM, **Young NL** , Baliban RC, LeRoy G, Floudas CA, Hake SB, Garcia BA. Proteomic interrogation of human chromatin. PLoS One. 2011; 6(9):e24747. PMID: [21935452](//www.ncbi.nlm.nih.gov/pubmed/21935452); PMCID: [PMC3173473](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3173473).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21935452/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  38. Zee BM, **Young NL** , Garcia BA. Quantitative proteomic approaches to studying histone modifications. Curr Chem Genomics. 2011; 5(Suppl 1):106-14. PMID: [21966350](//www.ncbi.nlm.nih.gov/pubmed/21966350); PMCID: [PMC3178935](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3178935).
+
+Citations:
+
+  39. Sarg B, Lindner H, **Young NL** , Garcia BA, Waldmann T, Izzo A, Kamieniarz K, Richter F, Vogler C, Mittler G, Schneider R. Methylation of H2AR29 is a novel repressive PRMT6 target. Epigenetics Chromatin. 2011 Jul 20; 4:11. PMID: [21774791](//www.ncbi.nlm.nih.gov/pubmed/21774791); PMCID: [PMC3164600](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3164600).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21774791/citedby/) Fields:
+
+Bio BiochemistryGen Genetics
+
+  40. Yan K, Cao Q, Reilly CM, **Young NL** , Garcia BA, Mishra N. Histone deacetylase 9 deficiency protects against effector T cell-mediated systemic autoimmunity. J Biol Chem. 2011 Aug 19; 286(33):28833-28843. PMID: [21708950](//www.ncbi.nlm.nih.gov/pubmed/21708950); PMCID: [PMC3190691](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3190691).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21708950/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  41. **Young NL** , Dimaggio PA, Garcia BA. The significance, development and progress of high-throughput combinatorial histone code analysis. Cell Mol Life Sci. 2010 Dec; 67(23):3983-4000. PMID: [20683756](//www.ncbi.nlm.nih.gov/pubmed/20683756); PMCID: [PMC11115713](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11115713).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20683756/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  42. Plazas-Mayorca MD, Bloom JS, Zeissler U, Leroy G, **Young NL** , DiMaggio PA, Krugylak L, Schneider R, Garcia BA. Quantitative proteomics reveals direct and indirect alterations in the histone code following methyltransferase knockdown. Mol Biosyst. 2010 Sep; 6(9):1719-29. PMID: [20577673](//www.ncbi.nlm.nih.gov/pubmed/20577673); PMCID: [PMC3321735](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3321735).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20577673/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansCells
+
+  43. **Young NL** , Plazas-Mayorca MD, Garcia BA. Systems-wide proteomic characterization of combinatorial post-translational modification patterns. Expert Rev Proteomics. 2010 Feb; 7(1):79-92. PMID: [20121478](//www.ncbi.nlm.nih.gov/pubmed/20121478).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20121478/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  44. **Young NL** , Plazas-Mayorca MD, DiMaggio PA, Flaniken IZ, Beltran AJ, Mishra N, LeRoy G, Floudas CA, Garcia BA. Collective mass spectrometry approaches reveal broad and combinatorial modification of high mobility group protein A1a. J Am Soc Mass Spectrom. 2010 Jun; 21(6):960-70. PMID: [20202861](//www.ncbi.nlm.nih.gov/pubmed/20202861); PMCID: [PMC3321734](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3321734).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20202861/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansCells
+
+  45. Baliban RC, DiMaggio PA, Plazas-Mayorca MD, **Young NL** , Garcia BA, Floudas CA. A novel approach for untargeted post-translational modification identification using integer linear optimization and tandem mass spectrometry. Mol Cell Proteomics. 2010 May; 9(5):764-79. PMID: [20103568](//www.ncbi.nlm.nih.gov/pubmed/20103568); PMCID: [PMC2871412](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2871412).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20103568/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  46. Plazas-Mayorca MD, Zee BM, **Young NL** , Fingerman IM, LeRoy G, Briggs SD, Garcia BA. One-pot shotgun quantitative mass spectrometry characterization of histones. J Proteome Res. 2009 Nov; 8(11):5367-74. PMID: [19764812](//www.ncbi.nlm.nih.gov/pubmed/19764812); PMCID: [PMC2798817](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2798817).
+
+Citations:
+[80](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19764812/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  47. DiMaggio PA, **Young NL** , Baliban RC, Garcia BA, Floudas CA. A mixed integer linear optimization framework for the identification and quantification of targeted post-translational modifications of highly modified proteins using multiplexed electron transfer dissociation tandem mass spectrometry. Mol Cell Proteomics. 2009 Nov; 8(11):2527-43. PMID: [19666874](//www.ncbi.nlm.nih.gov/pubmed/19666874); PMCID: [PMC2773719](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2773719).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19666874/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  48. **Young NL** , DiMaggio PA, Plazas-Mayorca MD, Baliban RC, Floudas CA, Garcia BA. High throughput characterization of combinatorial histone codes. Mol Cell Proteomics. 2009 Oct; 8(10):2266-84. PMID: [19654425](//www.ncbi.nlm.nih.gov/pubmed/19654425); PMCID: [PMC2758755](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2758755).
+
+Citations:
+[146](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19654425/citedby/)
+Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  49. LeRoy G, Weston JT, Zee BM, **Young NL** , Plazas-Mayorca MD, Garcia BA. Heterochromatin protein 1 is extensively decorated with histone code-like post-translational modifications. Mol Cell Proteomics. 2009 Nov; 8(11):2432-42. PMID: [19567367](//www.ncbi.nlm.nih.gov/pubmed/19567367); PMCID: [PMC2773712](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2773712).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19567367/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  50. Xie W, Song C, **Young NL** , Sperling AS, Xu F, Sridharan R, Conway AE, Garcia BA, Plath K, Clark AT, Grunstein M. Histone h3 lysine 56 acetylation is linked to the core transcriptional network in human embryonic stem cells. Mol Cell. 2009 Feb 27; 33(4):417-27. PMID: [19250903](//www.ncbi.nlm.nih.gov/pubmed/19250903); PMCID: [PMC2671231](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2671231).
+
+Citations:
+[113](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19250903/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  51. El Gazzar M, Yoza BK, Chen X, Garcia BA, **Young NL** , McCall CE. Chromatin-specific remodeling by HMGB1 and linker histone H1 silences proinflammatory genes during endotoxin tolerance. Mol Cell Biol. 2009 Apr; 29(7):1959-71. PMID: [19158276](//www.ncbi.nlm.nih.gov/pubmed/19158276); PMCID: [PMC2655606](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2655606).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19158276/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 51 publications over 16 distinct years, with a maximum of
+6 publications in 2009 and
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,83,67,50,33,33,17,17,17,67,50,67,100,33,33,83&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2009| 6  
+2010| 5  
+2011| 4  
+2012| 3  
+2013| 2  
+2014| 2  
+2015| 1  
+2016| 1  
+2017| 1  
+2018| 4  
+2019| 3  
+2020| 4  
+2021| 6  
+2022| 2  
+2023| 2  
+2024| 5  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+YOUNG's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (229)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Histones](https://profiles.viictr.org/profile/260398)
+  * [Protein Processing, Post-Translational](https://profiles.viictr.org/profile/244286)
+  * [Histone Code](https://profiles.viictr.org/profile/247786)
+  * [Tandem Mass Spectrometry](https://profiles.viictr.org/profile/242665)
+  * [Proteomics](https://profiles.viictr.org/profile/255874)
+
+[Explore](https://profiles.viictr.org/profile/16943307/198)
+
+_
+
+Co-Authors (19)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [TAYLOR, Bethany](https://profiles.viictr.org/profile/28999384)
+  * [DERE, RUHEE](https://profiles.viictr.org/profile/18892307)
+  * [NAKADA, DAISUKE](https://profiles.viictr.org/profile/268530)
+  * [ANTAR, ALLI](https://profiles.viictr.org/profile/268735)
+  * [MURDAUGH, Rebecca](https://profiles.viictr.org/profile/6998783)
+
+[Explore](https://profiles.viictr.org/profile/16943307/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [DENT, SHARON R](https://profiles.viictr.org/profile/12583662)
+  * [BEDFORD, MARK T](https://profiles.viictr.org/profile/12582989)
+  * [HANASH, SAMIR](https://profiles.viictr.org/profile/12583618)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [SHI, XIAOBING](https://profiles.viictr.org/profile/12583914)
+
+[Explore](https://profiles.viictr.org/profile/16943307/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [FERREON, JOSEPHINE](https://profiles.viictr.org/profile/8065537)
+  * [MUSTOE, ANTHONY](https://profiles.viictr.org/profile/28999550)
+  * [QI, XIAOLI](https://profiles.viictr.org/profile/28999112)
+  * [REDDY, R](https://profiles.viictr.org/profile/267427)
+  * [SERYSHEVA, IRINA](https://profiles.viictr.org/profile/266963)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

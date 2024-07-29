@@ -1,0 +1,342 @@
+## KIAN KOH
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| 6501 Fannin St  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HaIx7yvsL4PVRIzgrn7GPw%3d%3d&rnd=c23ec460-4539-4601-bbd3-96897248e47e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=36832116)  
+  
+
+Other Positions| Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Center for Precision Environmental Health  
+Division| Center for Precision Env Health  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Chui JS, Izuel-Idoype T, Qualizza A, de Almeida RP, Piessens L, van der Veer BK, Vanmarcke G, Malesa A, Athanasouli P, Boon R, Vriens J, van Grunsven L, **Koh KP** , Verfaillie CM, Lluis F. Osmolar Modulation Drives Reversible Cell Cycle Exit and Human Pluripotent Cell Differentiation via NF-?? and WNT Signaling. Adv Sci (Weinh). 2024 Feb; 11(7):e2307554. PMID: [38037844](//www.ncbi.nlm.nih.gov/pubmed/38037844); PMCID: [PMC10870039](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10870039).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38037844/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansCells
+
+  2. van der Veer BK, Chen L, Custers C, Athanasouli P, Schroiff M, Cornelis R, Chui JS, [Finnell RH](https://profiles.viictr.org/profile/22247959), Lluis F, **Koh KP**. Dual functions of TET1 in germ layer lineage bifurcation distinguished by genomic context and dependence on 5-methylcytosine oxidation. Nucleic Acids Res. 2023 06 23; 51(11):5469-5498. PMID: [37021585](//www.ncbi.nlm.nih.gov/pubmed/37021585); PMCID: [PMC10287924](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10287924).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  3. Mori da Cunha MGMC, van der Veer BK, Giacomazzi G, Mackova K, Cattani L, **Koh KP** , Vande Velde G, Gijsbers R, Albersen M, Sampaolesi M, Deprest J. VEGF overexpressed mesoangioblasts enhance urethral and vaginal recovery following simulated vaginal birth in rats. Sci Rep. 2023 05 27; 13(1):8622. PMID: [37244975](//www.ncbi.nlm.nih.gov/pubmed/37244975); PMCID: [PMC10224946](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10224946).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Animals
+
+  4. Athanasouli P, Balli M, De Jaime-Soguero A, Boel A, Papanikolaou S, van der Veer BK, Janiszewski A, Vanhessche T, Francis A, El Laithy Y, Nigro AL, Aulicino F, **Koh KP** , Pasque V, Cosma MP, Verfaillie C, Zwijsen A, Heindryckx B, Nikolaou C, Lluis F. The Wnt/TCF7L1 transcriptional repressor axis drives primitive endoderm formation by antagonizing naive and formative pluripotency. Nat Commun. 2023 03 03; 14(1):1210. PMID: [36869101](//www.ncbi.nlm.nih.gov/pubmed/36869101); PMCID: [PMC9984534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9984534).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36869101/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  5. Abreu de Oliveira WA, Moens S, El Laithy Y, van der Veer BK, Athanasouli P, Cortesi EE, Baietti MF, **Koh KP** , Ventura JJ, Annibali D, Lluis F, Amant F. Wnt/?-Catenin Inhibition Disrupts Carboplatin Resistance in Isogenic Models of Triple-Negative Breast Cancer. Front Oncol. 2021; 11:705384. PMID: [34367990](//www.ncbi.nlm.nih.gov/pubmed/34367990); PMCID: [PMC8340846](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8340846).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34367990/citedby/)
+
+  6. Bartoccetti M, van der Veer BK, Luo X, Khoueiry R, She P, Bajaj M, Xu J, Janiszewski A, Thienpont B, Pasque V, **Koh KP**. Regulatory Dynamics of Tet1 and Oct4 Resolve Stages of Global DNA Demethylation and Transcriptomic Changes in Reprogramming. Cell Rep. 2020 Mar 17; 30(11):3948. PMID: [32187561](//www.ncbi.nlm.nih.gov/pubmed/32187561).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  7. Luo X, van der Veer BK, Sun L, Bartoccetti M, Boretto M, Vankelecom H, Khoueiry R, **Koh KP**. Coordination of germ layer lineage choice by TET1 during primed pluripotency. Genes Dev. 2020 04 01; 34(7-8):598-618. PMID: [32115407](//www.ncbi.nlm.nih.gov/pubmed/32115407); PMCID: [PMC7111260](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7111260).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  8. Bartoccetti M, van der Veer BK, Luo X, Khoueiry R, She P, Bajaj M, Xu J, Janiszewski A, Thienpont B, Pasque V, **Koh KP**. Regulatory Dynamics of Tet1 and Oct4 Resolve Stages of Global DNA Demethylation and Transcriptomic Changes in Reprogramming. Cell Rep. 2020 02 18; 30(7):2150-2169.e9. PMID: [32075734](//www.ncbi.nlm.nih.gov/pubmed/32075734).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32075734/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  9. Boretto M, Maenhoudt N, Luo X, Boeckx B, Bui B, Heremans R, Perneel L, Kobayashi H, Van Zundert I, Brems H, Cox B, Ferrante M, Uji-I H, **Koh KP** , D'Hooghe T, Vanhie A, Vergote I, Meuleman C, Tomassetti C, Lambrechts D, Vriens J, Timmerman D, Vankelecom H, Hennes A. Patient-derived organoids from endometrial disease capture clinical heterogeneity and are amenable to drug screening. Nat Cell Biol. 2019 08; 21(8):1041-1051. PMID: [31371824](//www.ncbi.nlm.nih.gov/pubmed/31371824).
+
+Citations:
+[100](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31371824/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:Humans
+
+  10. Khoueiry R, Sohni A, Thienpont B, Luo X, Velde JV, Bartoccetti M, Boeckx B, Zwijsen A, Rao A, Lambrechts D, **Koh KP**. Lineage-specific functions of TET1 in the postimplantation mouse embryo. Nat Genet. 2017 Jul; 49(7):1061-1072. PMID: [28504700](//www.ncbi.nlm.nih.gov/pubmed/28504700); PMCID: [PMC6033328](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6033328).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28504700/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  11. Lo Nigro A, de Jaime-Soguero A, Khoueiry R, Cho DS, Ferlazzo GM, Perini I, Abon Escalona V, Aranguren XL, Chuva de Sousa Lopes SM, **Koh KP** , Conaldi PG, Hu WS, Zwijsen A, Lluis F, Verfaillie CM. PDGFRa+ Cells in Embryonic Stem Cell Cultures Represent the In?Vitro Equivalent of the Pre-implantation Primitive Endoderm Precursors. Stem Cell Reports. 2017 02 14; 8(2):318-333. PMID: [28089671](//www.ncbi.nlm.nih.gov/pubmed/28089671); PMCID: [PMC5311469](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5311469).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28089671/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  12. Sohni A, Bartoccetti M, Khoueiry R, Spans L, Vande Velde J, De Troyer L, Pulakanti K, Claessens F, Rao S, **Koh KP**. Dynamic switching of active promoter and enhancer domains regulates Tet1 and Tet2 expression during cell state transitions between pluripotency and differentiation. Mol Cell Biol. 2015 Mar; 35(6):1026-42. PMID: [25582196](//www.ncbi.nlm.nih.gov/pubmed/25582196); PMCID: [PMC4333094](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4333094).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25582196/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  13. Ko M, An J, Bandukwala HS, Chavez L, Pastor WA, Segal MF, Li H, **Koh KP** , Hogan PG, Aravind L, Rao A, Aij? T, L?hdesm?ki H. Modulation of TET2 expression and 5-methylcytosine oxidation by the CXXC domain protein IDAX. Nature. 2013 May 02; 497(7447):122-6. PMID: [23563267](//www.ncbi.nlm.nih.gov/pubmed/23563267); PMCID: [PMC3643997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3643997).
+
+Citations:
+[180](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23563267/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  14. **Koh KP** , Rao A. DNA methylation and methylcytosine oxidation in cell fate decisions. Curr Opin Cell Biol. 2013 Apr; 25(2):152-61. PMID: [23498662](//www.ncbi.nlm.nih.gov/pubmed/23498662); PMCID: [PMC3649866](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3649866).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23498662/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  15. **Koh KP** , Yabuuchi A, Rao S, Huang Y, Cunniff K, Nardone J, Laiho A, Tahiliani M, Sommer CA, Mostoslavsky G, Lahesmaa R, Orkin SH, Rodig SJ, Daley GQ, Rao A. Tet1 and Tet2 regulate 5-hydroxymethylcytosine production and cell lineage specification in mouse embryonic stem cells. Cell Stem Cell. 2011 Feb 04; 8(2):200-13. PMID: [21295276](//www.ncbi.nlm.nih.gov/pubmed/21295276); PMCID: [PMC3134318](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3134318).
+
+Citations:
+[392](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21295276/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  16. Huang Y, Jankowska AM, Pape UJ, Tahiliani M, Bandukwala HS, An J, Lamperti ED, **Koh KP** , Ganetzky R, Liu XS, Aravind L, Agarwal S, Maciejewski JP, Rao A, Ko M. Impaired hydroxylation of 5-methylcytosine in myeloid cancers with mutant TET2. Nature. 2010 Dec 09; 468(7325):839-43. PMID: [21057493](//www.ncbi.nlm.nih.gov/pubmed/21057493); PMCID: [PMC3003755](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3003755).
+
+Citations:
+[581](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21057493/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  17. **Koh KP** , Sundrud MS, Rao A. Domain requirements and sequence specificity of DNA binding for the forkhead transcription factor FOXP3. PLoS One. 2009 Dec 01; 4(12):e8109. PMID: [19956618](//www.ncbi.nlm.nih.gov/pubmed/19956618); PMCID: [PMC2779587](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2779587).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19956618/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  18. Tahiliani M, **Koh KP** , Shen Y, Pastor WA, Bandukwala H, Brudno Y, Agarwal S, Iyer LM, Liu DR, Aravind L, Rao A. Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1. Science. 2009 May 15; 324(5929):930-5. PMID: [19372391](//www.ncbi.nlm.nih.gov/pubmed/19372391); PMCID: [PMC2715015](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2715015).
+
+Citations:
+[2403](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19372391/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  19. Yi T, Cuchara L, Wang Y, **Koh KP** , Ranjbaran H, Tellides G, Pober JS, Lorber MI. Human allograft arterial injury is ameliorated by sirolimus and cyclosporine and correlates with suppression of interferon-gamma. Transplantation. 2006 Feb 27; 81(4):559-66. PMID: [16495804](//www.ncbi.nlm.nih.gov/pubmed/16495804).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16495804/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:HumansAnimalsCells
+
+  20. **Koh KP** , Wang Y, Yi T, Shiao SL, Lorber MI, Sessa WC, Tellides G, Pober JS. T cell-mediated vascular dysfunction of human allografts results from IFN-gamma dysregulation of NO synthase. J Clin Invest. 2004 Sep; 114(6):846-56. PMID: [15372109](//www.ncbi.nlm.nih.gov/pubmed/15372109); PMCID: [PMC516264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC516264).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15372109/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  21. Choi J, Enis DR, **Koh KP** , Shiao SL, Pober JS. T lymphocyte-endothelial cell interactions. Annu Rev Immunol. 2004; 22:683-709. PMID: [15032593](//www.ncbi.nlm.nih.gov/pubmed/15032593).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15032593/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 21 publications over 12 distinct years, with a maximum of
+4 publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,50,0,25,0,0,50,25,25,0,50,0,25,0,50,0,25,75,25,0,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 2  
+2006| 1  
+2009| 2  
+2010| 1  
+2011| 1  
+2013| 2  
+2015| 1  
+2017| 2  
+2019| 1  
+2020| 3  
+2021| 1  
+2023| 4  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+KOH's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (137)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Proto-Oncogene Proteins](https://profiles.viictr.org/profile/261116)
+  * [5-Methylcytosine](https://profiles.viictr.org/profile/251437)
+  * [DNA-Binding Proteins](https://profiles.viictr.org/profile/243675)
+  * [Pluripotent Stem Cells](https://profiles.viictr.org/profile/259456)
+  * [Cell Differentiation](https://profiles.viictr.org/profile/258150)
+
+[Explore](https://profiles.viictr.org/profile/36832116/198)
+
+_
+
+Co-Authors (1)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [FINNELL, RICHARD](https://profiles.viictr.org/profile/22247959)
+
+[Explore](https://profiles.viictr.org/profile/36832116/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LOZANO, GUILLERMINA](https://profiles.viictr.org/profile/12582900)
+  * [BEHRINGER, RICHARD R](https://profiles.viictr.org/profile/12582530)
+  * [GOODELL, MARGARET](https://profiles.viictr.org/profile/269806)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [DEPINHO, RONALD A](https://profiles.viictr.org/profile/12583185)
+
+[Explore](https://profiles.viictr.org/profile/36832116/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CATIC, ANDRE](https://profiles.viictr.org/profile/6541051)
+  * [CONNEELY, ORLA](https://profiles.viictr.org/profile/267996)
+  * [LANZ, RAINER](https://profiles.viictr.org/profile/267684)
+  * [LIAO, LAN](https://profiles.viictr.org/profile/268314)
+  * [XIN, LI](https://profiles.viictr.org/profile/265825)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

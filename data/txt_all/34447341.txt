@@ -1,0 +1,190 @@
+## ROBERT TILLMAN
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Education, Innovation & Technology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BKQy5HfTbr%2f8SoPg4XXiKLeBaRSOgg%3d%3d&rnd=3958fbf3-6a24-4b01-af76-e8c19b971a7e)  
+ORCID ![ORCID
+Icon](https://profiles.viictr.org/Framework/Images/orcid_16x16\(1\).gif)|
+[0000-0002-6586-119X](http://sandbox.orcid.org/0000-0002-6586-119X)
+[![Additional
+info](https://profiles.viictr.org/Framework/Images/info.png)](https://profiles.viictr.org/about/default.aspx?tab=orcid)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=34447341)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Tillman RE** , Jang S, Abedin Z, Richards BF, Spaeth-Rublee B, Pincus HA. Policies, activities, and structures supporting research mentoring: a national survey of academic health centers with clinical and translational science awards. Acad Med. 2013 Jan; 88(1):90-6. PMID: [23165278](//www.ncbi.nlm.nih.gov/pubmed/23165278); PMCID: [PMC3529987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3529987).
+
+Citations:
+
+  2. Egawa T, **Tillman RE** , Naoe Y, Taniuchi I, Littman DR. The role of the Runx transcription factors in thymocyte differentiation and in homeostasis of naive T cells. J Exp Med. 2007 Aug 06; 204(8):1945-57. PMID: [17646406](//www.ncbi.nlm.nih.gov/pubmed/17646406); PMCID: [PMC2118679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2118679).
+
+Citations:
+
+  3. **Tillman RE** , Wooley AL, Hughes MM, Khor B, Sleckman BP. Regulation of T-cell receptor beta-chain gene assembly by recombination signals: the beyond 12/23 restriction. Immunol Rev. 2004 Aug; 200:36-43. PMID: [15242394](//www.ncbi.nlm.nih.gov/pubmed/15242394).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15242394/citedby/) Fields:
+
+All Allergy and ImmunologyTra Transplantation
+
+Translation:HumansAnimalsCells
+
+  4. Hughes MM, **Tillman RE** , Wehrly TD, White JM, Sleckman BP. The B12/23 restriction is critically dependent on recombination signal nonamer and spacer sequences. J Immunol. 2003 Dec 15; 171(12):6604-10. PMID: [14662863](//www.ncbi.nlm.nih.gov/pubmed/14662863).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14662863/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  5. Bassing CH, **Tillman RE** , Woodman BB, Canty D, Monroe RJ, Sleckman BP, Alt FW. T cell receptor (TCR) alpha/delta locus enhancer identity and position are critical for the assembly of TCR delta and alpha variable region genes. Proc Natl Acad Sci U S A. 2003 Mar 04; 100(5):2598-603. PMID: [12604775](//www.ncbi.nlm.nih.gov/pubmed/12604775); PMCID: [PMC151386](//www.ncbi.nlm.nih.gov/pmc/articles/PMC151386).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12604775/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  6. **Tillman RE** , Wooley AL, Khor B, Wehrly TD, Little CA, Sleckman BP. Cutting edge: targeting of V beta to D beta rearrangement by RSSs can be mediated by the V(D)J recombinase in the absence of additional lymphoid-specific factors. J Immunol. 2003 Jan 01; 170(1):5-9. PMID: [12496374](//www.ncbi.nlm.nih.gov/pubmed/12496374).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12496374/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  7. **Tillman RE** , Wooley AL, Hughes MM, Wehrly TD, Swat W, Sleckman BP. Restrictions limiting the generation of DNA double strand breaks during chromosomal V(D)J recombination. J Exp Med. 2002 Feb 04; 195(3):309-16. PMID: [11828005](//www.ncbi.nlm.nih.gov/pubmed/11828005); PMCID: [PMC2193590](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2193590).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11828005/citedby/) Fields:
+
+All Allergy and ImmunologyMed Medicine (General)
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 7 publications over 5 distinct years, with a maximum of 3
+publications in
+2003](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,33,100,33,0,0,33,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 1  
+2003| 3  
+2004| 1  
+2007| 1  
+2013| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+TILLMAN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (76)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Genes, T-Cell Receptor beta](https://profiles.viictr.org/profile/251328)
+  * [Recombination, Genetic](https://profiles.viictr.org/profile/261230)
+  * [Gene Rearrangement, beta-Chain T-Cell Antigen Receptor](https://profiles.viictr.org/profile/251910)
+  * [Organizational Policy](https://profiles.viictr.org/profile/251878)
+  * [Mentors](https://profiles.viictr.org/profile/255127)
+
+[Explore](https://profiles.viictr.org/profile/34447341/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [ROSENBERG, SUSAN](https://profiles.viictr.org/profile/268344)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [BEHRINGER, RICHARD R](https://profiles.viictr.org/profile/12582530)
+  * [CHEN, JUNJIE](https://profiles.viictr.org/profile/12583344)
+
+[Explore](https://profiles.viictr.org/profile/34447341/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BERGEMANN, ANDREW](https://profiles.viictr.org/profile/38200620)
+  * [BOEDEKER, PETER](https://profiles.viictr.org/profile/37834429)
+  * [JEFFREY, ANNE](https://profiles.viictr.org/profile/41589928)
+  * [MORENO, NANCY](https://profiles.viictr.org/profile/268154)
+  * [STAHL, DEVAN](https://profiles.viictr.org/profile/41589929)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+EcqcCIIKpy8I+ZerXvvsqB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

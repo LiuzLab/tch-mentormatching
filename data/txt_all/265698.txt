@@ -1,0 +1,455 @@
+## LAISING YEN
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=L64%2bwWfELcXwQpo%3d&rnd=f46830fa-
+df1a-4213-9935-fa2038e96ad0)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=265698)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=265698&cachekey=146a7ac7-1f88-4dcf-
+bc51-916d5c079283)  
+  
+
+Other Positions| Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Division| Molecular & Cellular Biology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+keywords
+
+  * [Riboswitch RNA switch Molecular switch Biosensor Gene regulation system Conditional gene regulation Drug screening RNA-seq Gene editing Synthetic Biology Gene therapy Cell therapy Cancer therapy Cancer biomarker Tumorgenesis Prostate cancer Ovarian cancer Chimeric RNA Fusion gene Fusion protein Fusion kinase](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Riboswitch
+RNA switch
+
+Molecular switch
+
+Biosensor
+
+Gene regulation system
+
+Conditional gene regulation
+
+Drug screening
+
+RNA-seq
+
+Gene editing
+
+Synthetic Biology
+
+Gene therapy
+
+Cell therapy
+
+Cancer therapy
+
+Cancer biomarker
+
+Tumorgenesis
+
+Prostate cancer
+
+Ovarian cancer
+
+Chimeric RNA
+
+Fusion gene
+
+Fusion protein
+
+Fusion kinase&exactphrase=false)
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01EB013584 (YEN, LAISING LEWIS)Aug 1, 2011 - Jul 31, 2016NIH  
+Harnessing the power of RNA sensor for imaging molecular signatures in vivo  
+Role: Principal Investigator  
+---  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Luo L, [Jea JD](https://profiles.viictr.org/profile/6998714), Wang Y, Chao PW, **Yen L**. Control of mammalian gene expression by modulation of polyA signal cleavage at 5' UTR. Nat Biotechnol. 2024 Jan 02. PMID: [38168982](//www.ncbi.nlm.nih.gov/pubmed/38168982).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38168982/citedby/) Fields:
+
+Bio Biotechnology
+
+  2. Gupta SK, **Yen L**. Chimeric RNA Design Principles for RNA-Mediated Gene Fusion. Cells. 2022 03 16; 11(6). PMID: [35326453](//www.ncbi.nlm.nih.gov/pubmed/35326453); PMCID: [PMC8947500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8947500).
+
+Citations:  Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:Animals
+
+  3. Gupta SK, [Jea JD](https://profiles.viictr.org/profile/6998714), **Yen L**. RNA-driven JAZF1-SUZ12 gene fusion in human endometrial stromal cells. PLoS Genet. 2021 12; 17(12):e1009985. PMID: [34928964](//www.ncbi.nlm.nih.gov/pubmed/34928964); PMCID: [PMC8722726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8722726).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34928964/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  4. Chen YJ, Chen CY, Mai TL, Chuang CF, Chen YC, Gupta SK, **Yen L** , Wang YD, Chuang TJ. Genome-wide, integrative analysis of circular RNA dysregulation and the corresponding circular RNA-microRNA-mRNA regulatory axes in autism. Genome Res. 2020 03; 30(3):375-391. PMID: [32127416](//www.ncbi.nlm.nih.gov/pubmed/32127416); PMCID: [PMC7111521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7111521).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32127416/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  5. Gupta SK, [Jea JD](https://profiles.viictr.org/profile/6998714), **Yen L**. Validating Gene Fusion as the Source of Chimeric RNAs. Methods Mol Biol. 2020; 2079:187-207. PMID: [31728972](//www.ncbi.nlm.nih.gov/pubmed/31728972).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Humans
+
+  6. Gupta SK, Luo L, **Yen L**. RNA-mediated gene fusion in mammalian cells. Proc Natl Acad Sci U S A. 2018 12 26; 115(52):E12295-E12304. PMID: [30538195](//www.ncbi.nlm.nih.gov/pubmed/30538195); PMCID: [PMC6310785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6310785).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30538195/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  7. Joseph NA, Chiou SH, Lung Z, Yang CL, Lin TY, Chang HW, Sun HS, Gupta SK, **Yen L** , Wang SD, Chow KC. The role of HGF-MET pathway and CCDC66 cirRNA expression in EGFR resistance and epithelial-to-mesenchymal transition of lung adenocarcinoma cells. J Hematol Oncol. 2018 05 31; 11(1):74. PMID: [29855336](//www.ncbi.nlm.nih.gov/pubmed/29855336); PMCID: [PMC5984410](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5984410).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29855336/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:HumansCells
+
+  8. Hsiao KY, Lin YC, Gupta SK, Chang N, **Yen L** , Sun HS, Tsai SJ. Noncoding Effects of Circular RNA CCDC66 Promote Colon Cancer Growth and Metastasis. Cancer Res. 2017 05 01; 77(9):2339-2350. PMID: [28249903](//www.ncbi.nlm.nih.gov/pubmed/28249903); PMCID: [PMC5910173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5910173).
+
+Citations:
+[311](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28249903/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  9. Jijakli K, Khraiwesh B, Fu W, Luo L, Alzahmi A, Koussa J, Chaiboonchoe A, Kirmizialtin S, **Yen L** , Salehi-Ashtiani K. The in vitro selection world. Methods. 2016 08 15; 106:3-13. PMID: [27312879](//www.ncbi.nlm.nih.gov/pubmed/27312879).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27312879/citedby/) Fields:
+
+Bio Biochemistry
+
+  10. Kannan K, Kordestani GK, Galagoda A, [Coarfa C](https://profiles.viictr.org/profile/265668), **Yen L**. Aberrant MUC1-TRIM46-KRTCAP2 Chimeric RNAs in High-Grade Serous Ovarian Carcinoma. Cancers (Basel). 2015 Oct 19; 7(4):2083-93. PMID: [26492273](//www.ncbi.nlm.nih.gov/pubmed/26492273); PMCID: [PMC4695878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4695878).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26492273/citedby/)
+
+  11. Kannan K, [Coarfa C](https://profiles.viictr.org/profile/265668), Chao PW, Luo L, Wang Y, Brinegar AE, [Hawkins SM](https://profiles.viictr.org/profile/267635), [Milosavljevic A](https://profiles.viictr.org/profile/268148), [Matzuk MM](https://profiles.viictr.org/profile/266520), **Yen L**. Recurrent BCAM-AKT2 fusion gene leads to a constitutively activated AKT2 fusion kinase in high-grade serous ovarian carcinoma. Proc Natl Acad Sci U S A. 2015 Mar 17; 112(11):E1272-7. PMID: [25733895](//www.ncbi.nlm.nih.gov/pubmed/25733895); PMCID: [PMC4371965](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4371965).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25733895/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  12. Kannan K, [Coarfa C](https://profiles.viictr.org/profile/265668), Rajapakshe K, [Hawkins SM](https://profiles.viictr.org/profile/267635), [Matzuk MM](https://profiles.viictr.org/profile/266520), [Milosavljevic A](https://profiles.viictr.org/profile/268148), **Yen L**. CDKN2D-WDFY2 is a cancer-specific fusion gene recurrent in high-grade serous ovarian carcinoma. PLoS Genet. 2014 Mar; 10(3):e1004216. PMID: [24675677](//www.ncbi.nlm.nih.gov/pubmed/24675677); PMCID: [PMC3967933](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3967933).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24675677/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  13. Zhang H, Lin W, Kannan K, Luo L, Li J, Chao PW, Wang Y, Chen YP, Gu J, **Yen L**. Aberrant chimeric RNA GOLM1-MAK10 encoding a secreted fusion protein as a molecular signature for human esophageal squamous cell carcinoma. Oncotarget. 2013 Nov; 4(11):2135-43. PMID: [24243830](//www.ncbi.nlm.nih.gov/pubmed/24243830); PMCID: [PMC3875775](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3875775).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24243830/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  14. Wu CC, Kannan K, [Lin S](https://profiles.viictr.org/profile/12583568), **Yen L** , [Milosavljevic A](https://profiles.viictr.org/profile/268148). Identification of cancer fusion drivers using network fusion centrality. Bioinformatics. 2013 May 01; 29(9):1174-81. PMID: [23505294](//www.ncbi.nlm.nih.gov/pubmed/23505294); PMCID: [PMC3634186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3634186).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23505294/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansCells
+
+  15. Kannan K, Wang L, Wang J, [Ittmann MM](https://profiles.viictr.org/profile/269566), Li W, **Yen L**. Recurrent chimeric RNAs enriched in human prostate cancer identified by deep sequencing. Proc Natl Acad Sci U S A. 2011 May 31; 108(22):9172-7. PMID: [21571633](//www.ncbi.nlm.nih.gov/pubmed/21571633); PMCID: [PMC3107329](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3107329).
+
+Citations:
+[98](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21571633/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  16. Wang L, Xi Y, Yu J, Dong L, **Yen L** , Li W. A statistical method for the detection of alternative splicing using RNA-seq. PLoS One. 2010 Jan 08; 5(1):e8529. PMID: [20072613](//www.ncbi.nlm.nih.gov/pubmed/20072613); PMCID: [PMC2798953](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2798953).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20072613/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Cells
+
+  17. **Yen L** , Stockwell BR, Mulligan RC. A mammalian cell-based assay for screening inhibitors of RNA cleavage. Methods Mol Biol. 2009; 540:335-47. PMID: [19381571](//www.ncbi.nlm.nih.gov/pubmed/19381571).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19381571/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  18. Link KH, Guo L, Ames TD, **Yen L** , Mulligan RC, Breaker RR. Engineering high-speed allosteric hammerhead ribozymes. Biol Chem. 2007 Aug; 388(8):779-86. PMID: [17655496](//www.ncbi.nlm.nih.gov/pubmed/17655496).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17655496/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  19. **Yen L** , Magnier M, Weissleder R, Stockwell BR, Mulligan RC. Identification of inhibitors of ribozyme self-cleavage in mammalian cells via high-throughput screening of chemical libraries. RNA. 2006 May; 12(5):797-806. PMID: [16556935](//www.ncbi.nlm.nih.gov/pubmed/16556935); PMCID: [PMC1440893](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1440893).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16556935/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  20. **Yen L** , Svendsen J, Lee JS, Gray JT, Magnier M, Baba T, D'Amato RJ, Mulligan RC. Exogenous control of mammalian gene expression through modulation of RNA self-cleavage. Nature. 2004 Sep 23; 431(7007):471-6. PMID: [15386015](//www.ncbi.nlm.nih.gov/pubmed/15386015).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15386015/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  21. **Yen L** , Gonzalez-Zulueta M, Feldman A, Yuan Y, Fryer H, Dawson T, Dawson V, Kalb RG. Reduction of functional N-methyl-D-aspartate receptors in neurons by RNase P-mediated cleavage of the NR1 mRNA. J Neurochem. 2001 Mar; 76(5):1386-94. PMID: [11238723](//www.ncbi.nlm.nih.gov/pubmed/11238723).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11238723/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  22. **Yen L** , Strittmatter SM, Kalb RG. Sequence-specific cleavage of Huntingtin mRNA by catalytic DNA. Ann Neurol. 1999 Sep; 46(3):366-73. PMID: [10482267](//www.ncbi.nlm.nih.gov/pubmed/10482267).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10482267/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansCells
+
+  23. Jakowec MW, **Yen L** , Kalb RG. In situ hybridization analysis of AMPA receptor subunit gene expression in the developing rat spinal cord. Neuroscience. 1995 Aug; 67(4):909-20. PMID: [7675213](//www.ncbi.nlm.nih.gov/pubmed/7675213).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7675213/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  24. **Yen L** , Sibley JT, Constantine-Paton M. Analysis of synaptic distribution within single retinal axonal arbors after chronic NMDA treatment. J Neurosci. 1995 Jun; 15(6):4712-25. PMID: [7540683](//www.ncbi.nlm.nih.gov/pubmed/7540683); PMCID: [PMC6577734](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6577734).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7540683/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  25. . Neuroscientist. Recovery from spinal cord injury: New approaches. 1995; 1:321.
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 25 publications over 19 distinct years, with a maximum of
+3 publications in
+1995](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,100,0,0,0,33,0,33,0,0,33,0,33,33,0,33,33,33,0,67,33,67,33,33,67,0,67,33,33,0,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1995| 3  
+1999| 1  
+2001| 1  
+2004| 1  
+2006| 1  
+2007| 1  
+2009| 1  
+2010| 1  
+2011| 1  
+2013| 2  
+2014| 1  
+2015| 2  
+2016| 1  
+2017| 1  
+2018| 2  
+2020| 2  
+2021| 1  
+2022| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+YEN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (189)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [RNA](https://profiles.viictr.org/profile/243081)
+  * [Oncogene Proteins, Fusion](https://profiles.viictr.org/profile/243678)
+  * [Gene Fusion](https://profiles.viictr.org/profile/251546)
+  * [RNA, Catalytic](https://profiles.viictr.org/profile/252019)
+  * [Co-Repressor Proteins](https://profiles.viictr.org/profile/248346)
+
+[Explore](https://profiles.viictr.org/profile/265698/198)
+
+_
+
+Co-Authors (7)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [JEA, Jocelyn](https://profiles.viictr.org/profile/6998714)
+  * [COARFA, CRISTIAN](https://profiles.viictr.org/profile/265668)
+  * [MILOSAVLJEVIC, ALEKSANDAR](https://profiles.viictr.org/profile/268148)
+  * [HAWKINS, SHANNON](https://profiles.viictr.org/profile/267635)
+  * [MATZUK, MARTIN](https://profiles.viictr.org/profile/266520)
+
+[Explore](https://profiles.viictr.org/profile/265698/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [COLEMAN, ROBERT](https://profiles.viictr.org/profile/12583050)
+  * [LU, KAREN H](https://profiles.viictr.org/profile/12582974)
+
+[Explore](https://profiles.viictr.org/profile/265698/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ADESINA, ADEKUNLE](https://profiles.viictr.org/profile/268657)
+  * [HAWKINS, SHANNON](https://profiles.viictr.org/profile/267635)
+  * [KRISHNAN, BHUVANESWARI](https://profiles.viictr.org/profile/268034)
+  * [MARDON, GRAEME](https://profiles.viictr.org/profile/268168)
+  * [QUINTANILLA, NORMA](https://profiles.viictr.org/profile/269341)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BROWN, CAMERON](https://profiles.viictr.org/profile/1826853)
+  * [GRESIK, MARY](https://profiles.viictr.org/profile/269607)
+  * [MASAND, RAMYA](https://profiles.viictr.org/profile/268666)
+  * [QUADRI, SYED](https://profiles.viictr.org/profile/267816)
+  * [REED, JON](https://profiles.viictr.org/profile/267094)
+
+_
+

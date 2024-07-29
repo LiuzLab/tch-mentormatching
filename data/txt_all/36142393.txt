@@ -1,0 +1,407 @@
+## XIA GAO
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1100 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=DqIxr0LGL6v3RYKj5X%2fX&rnd=89de6928-148f-4ecb-b9ef-73e15ba4187f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=36142393)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Division| Molecular & Cellular Biology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Juras PK, Racioppi L, Mukherjee D, Artham S, **Gao X** , Akullian D'Agostino L, Chang CY, [McDonnell DP](https://profiles.viictr.org/profile/268070). Increased CaMKK2 Expression Is an Adaptive Response That Maintains the Fitness of Tumor-Infiltrating Natural Killer Cells. Cancer Immunol Res. 2023 01 03; 11(1):109-122. PMID: [36301267](//www.ncbi.nlm.nih.gov/pubmed/36301267); PMCID: [PMC9812906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9812906).
+
+Citations:  Fields:
+
+All Allergy and ImmunologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  2. Xu L, Zhao B, Butler W, Xu H, Song N, Chen X, Spencer Hauck J, **Gao X** , Zhang H, Groth J, Yang Q, Zhao Y, Moon D, George D, Zhou Y, He Y, Huang J. Targeting glutamine metabolism network for the treatment of therapy-resistant prostate cancer. Oncogene. 2022 02; 41(8):1140-1154. PMID: [35046532](//www.ncbi.nlm.nih.gov/pubmed/35046532); PMCID: [PMC9985769](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9985769).
+
+Citations:  Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+  3. Xu L, Yin Y, Li Y, Chen X, Chang Y, Zhang H, Liu J, Beasley J, McCaw P, Zhang H, Young S, Groth J, Wang Q, Locasale JW, **Gao X** , Tang DG, Dong X, He Y, George D, Hu H, Huang J. A glutaminase isoform switch drives therapeutic resistance and disease progression of prostate cancer. Proc Natl Acad Sci U S A. 2021 03 30; 118(13). PMID: [33753479](//www.ncbi.nlm.nih.gov/pubmed/33753479); PMCID: [PMC8020804](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8020804).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33753479/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  4. Xu Q, Li Y, **Gao X** , Kang K, Williams JG, Tong L, Liu J, Ji M, Deterding LJ, Tong X, Locasale JW, Li L, Shats I, Li X. HNF4a regulates sulfur amino acid metabolism and confers sensitivity to methionine restriction in liver cancer. Nat Commun. 2020 08 07; 11(1):3978. PMID: [32770044](//www.ncbi.nlm.nih.gov/pubmed/32770044); PMCID: [PMC7414133](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7414133).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32770044/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  5. Sanderson SM, **Gao X** , Dai Z, Locasale JW. Methionine metabolism in health and cancer: a nexus of diet and precision medicine. Nat Rev Cancer. 2019 11; 19(11):625-637. PMID: [31515518](//www.ncbi.nlm.nih.gov/pubmed/31515518).
+
+Citations:
+[80](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31515518/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  6. **Gao X** , Sanderson SM, Dai Z, Reid MA, Cooper DE, Lu M, Richie JP, Ciccarella A, Calcagnotto A, Mikhael PG, Mentch SJ, Liu J, Ables G, Kirsch DG, Hsu DS, Nichenametla SN, Locasale JW. Dietary methionine influences therapy in mouse cancer models and alters human metabolism. Nature. 2019 08; 572(7769):397-401. PMID: [31367041](//www.ncbi.nlm.nih.gov/pubmed/31367041); PMCID: [PMC6951023](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6951023).
+
+Citations:
+[142](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31367041/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  7. **Gao X** , Locasale JW, Reid MA. Serine and Methionine Metabolism: Vulnerabilities in Lethal Prostate Cancer. Cancer Cell. 2019 03 18; 35(3):339-341. PMID: [30889375](//www.ncbi.nlm.nih.gov/pubmed/30889375); PMCID: [PMC6425948](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6425948).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30889375/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  8. Gemta LF, Siska PJ, Nelson ME, **Gao X** , Liu X, Locasale JW, Yagita H, Slingluff CL, Hoehn KL, Rathmell JC, Bullock TNJ. Impaired enolase 1 glycolytic activity restrains effector functions of tumor-infiltrating CD8+ T cells. Sci Immunol. 2019 01 25; 4(31). PMID: [30683669](//www.ncbi.nlm.nih.gov/pubmed/30683669); PMCID: [PMC6824424](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6824424).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30683669/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  9. Daniels BP, Kofman SB, Smith JR, Norris GT, Snyder AG, Kolb JP, **Gao X** , Locasale JW, Martinez J, Gale M, Loo YM, Oberst A. The Nucleotide Sensor ZBP1 and Kinase RIPK3 Induce the Enzyme IRG1 to Promote an Antiviral Metabolic State in Neurons. Immunity. 2019 01 15; 50(1):64-76.e4. PMID: [30635240](//www.ncbi.nlm.nih.gov/pubmed/30635240); PMCID: [PMC6342485](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6342485).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30635240/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  10. Reid MA, Allen AE, Liu S, Liberti MV, Liu P, Liu X, Dai Z, **Gao X** , Wang Q, Liu Y, Lai L, Locasale JW. Serine synthesis through PHGDH coordinates nucleotide levels by maintaining central carbon metabolism. Nat Commun. 2018 12 21; 9(1):5442. PMID: [30575741](//www.ncbi.nlm.nih.gov/pubmed/30575741); PMCID: [PMC6303315](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6303315).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30575741/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  11. Curtis M, Kenny HA, Ashcroft B, Mukherjee A, Johnson A, Zhang Y, Helou Y, Batlle R, Liu X, Gutierrez N, **Gao X** , Yamada SD, Lastra R, Montag A, Ahsan N, Locasale JW, Salomon AR, Lengyel E, Nebreda AR. Fibroblasts Mobilize Tumor Cell Glycogen to Promote Proliferation and Metastasis. Cell Metab. 2019 01 08; 29(1):141-155.e9. PMID: [30174305](//www.ncbi.nlm.nih.gov/pubmed/30174305); PMCID: [PMC6326875](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6326875).
+
+Citations:
+[96](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30174305/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansAnimalsCells
+
+  12. Dai Z, Mentch SJ, **Gao X** , Nichenametla SN, Locasale JW. Methionine metabolism influences genomic architecture and gene expression through H3K4me3 peak width. Nat Commun. 2018 05 16; 9(1):1955. PMID: [29769529](//www.ncbi.nlm.nih.gov/pubmed/29769529); PMCID: [PMC5955993](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5955993).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29769529/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  13. **Gao X** , Lee K, Reid MA, Sanderson SM, Qiu C, Li S, Liu J, Locasale JW. Serine Availability Influences Mitochondrial Dynamics and Function through Lipid Metabolism. Cell Rep. 2018 03 27; 22(13):3507-3520. PMID: [29590619](//www.ncbi.nlm.nih.gov/pubmed/29590619); PMCID: [PMC6054483](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6054483).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29590619/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  14. Liberti MV, Dai Z, Wardell SE, Baccile JA, Liu X, **Gao X** , Baldi R, Mehrmohamadi M, Johnson MO, Madhukar NS, Shestov AA, Chio IIC, Elemento O, Rathmell JC, Schroeder FC, [McDonnell DP](https://profiles.viictr.org/profile/268070), Locasale JW. A Predictive Model for Selective Targeting of the Warburg Effect through GAPDH Inhibition with a Natural Product. Cell Metab. 2017 Oct 03; 26(4):648-659.e8. PMID: [28918937](//www.ncbi.nlm.nih.gov/pubmed/28918937); PMCID: [PMC5629112](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5629112).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28918937/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansAnimalsCells
+
+  15. van der Veen JN, Lingrell S, **Gao X** , Takawale A, Kassiri Z, Vance DE, Jacobs RL. Fenofibrate, but not ezetimibe, prevents fatty liver disease in mice lacking phosphatidylethanolamine N-methyltransferase. J Lipid Res. 2017 04; 58(4):656-667. PMID: [28159867](//www.ncbi.nlm.nih.gov/pubmed/28159867); PMCID: [PMC5392742](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5392742).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28159867/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  16. **Gao X** , Locasale JW. Serine Metabolism Links Tumor Suppression to the Epigenetic Landscape. Cell Metab. 2016 12 13; 24(6):777-779. PMID: [27974177](//www.ncbi.nlm.nih.gov/pubmed/27974177).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27974177/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansCells
+
+  17. Zeng H, Cohen S, Guy C, Shrestha S, Neale G, Brown SA, Cloer C, Kishton RJ, **Gao X** , Youngblood B, Do M, Li MO, Locasale JW, Rathmell JC, Chi H. mTORC1 and mTORC2 Kinase Signaling and Glucose Metabolism Drive Follicular Helper T Cell Differentiation. Immunity. 2016 09 20; 45(3):540-554. PMID: [27637146](//www.ncbi.nlm.nih.gov/pubmed/27637146); PMCID: [PMC5050556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5050556).
+
+Citations:
+[138](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27637146/citedby/)
+Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  18. **Gao X** , Reid MA, Kong M, Locasale JW. Metabolic interactions with cancer epigenetics. Mol Aspects Med. 2017 04; 54:50-57. PMID: [27620316](//www.ncbi.nlm.nih.gov/pubmed/27620316); PMCID: [PMC5344790](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5344790).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27620316/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  19. Ser Z, **Gao X** , Johnson C, Mehrmohamadi M, Liu X, Li S, Locasale JW. Targeting One Carbon Metabolism with an Antimetabolite Disrupts Pyrimidine Homeostasis and Induces Nucleotide Overflow. Cell Rep. 2016 06 14; 15(11):2367-76. PMID: [27264180](//www.ncbi.nlm.nih.gov/pubmed/27264180); PMCID: [PMC4909568](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4909568).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27264180/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  20. **Gao X** , van der Veen JN, Vance JE, Thiesen A, Vance DE, Jacobs RL. Lack of phosphatidylethanolamine N-methyltransferase alters hepatic phospholipid composition and induces endoplasmic reticulum stress. Biochim Biophys Acta. 2015 Dec; 1852(12):2689-99. PMID: [26391255](//www.ncbi.nlm.nih.gov/pubmed/26391255).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26391255/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+  21. Wang Y, Su K, Ji A, van der Westhuyzen DR, **Gao X** , Graf GA, Sabeva NS, Foufelle F. GRP78 rescues the ABCG5 ABCG8 sterol transporter in db/db mice. Metabolism. 2015 Nov; 64(11):1435-43. PMID: [26365598](//www.ncbi.nlm.nih.gov/pubmed/26365598); PMCID: [PMC4609626](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4609626).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26365598/citedby/) Fields:
+
+Met Metabolism
+
+Translation:Animals
+
+  22. **Gao X** , van der Veen JN, Fernandez-Patron C, Vance JE, Vance DE, Jacobs RL. Insufficient glucose supply is linked to hypothermia upon cold exposure in high-fat diet-fed mice lacking PEMT. J Lipid Res. 2015 Sep; 56(9):1701-10. PMID: [26113536](//www.ncbi.nlm.nih.gov/pubmed/26113536); PMCID: [PMC4548774](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4548774).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26113536/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  23. **Gao X** , van der Veen JN, Zhu L, Chaba T, Lingrell S, Koonen DP, Dyck JR, Vance DE, Ordo?ez M, Gomez-Mu?oz A, Jacobs RL. Vagus nerve contributes to the development of steatohepatitis and obesity in phosphatidylethanolamine N-methyltransferase deficient mice. J Hepatol. 2015 Apr; 62(4):913-20. PMID: [25433161](//www.ncbi.nlm.nih.gov/pubmed/25433161).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25433161/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Animals
+
+  24. **Gao X** , van der Veen JN, Hermansson M, Vance DE, Ordo?ez M, Gomez-Mu?oz A, Jacobs RL. Decreased lipogenesis in white adipose tissue contributes to the resistance to high fat diet-induced obesity in phosphatidylethanolamine N-methyltransferase-deficient mice. Biochim Biophys Acta. 2015 Feb; 1851(2):152-62. PMID: [25463480](//www.ncbi.nlm.nih.gov/pubmed/25463480).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25463480/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  25. Gu HM, Li G, **Gao X** , Berthiaume LG, Zhang DW. Characterization of palmitoylation of ATP binding cassette transporter G1: effect on protein trafficking and function. Biochim Biophys Acta. 2013 Jun; 1831(6):1067-78. PMID: [23388354](//www.ncbi.nlm.nih.gov/pubmed/23388354).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23388354/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansAnimalsCells
+
+  26. **Gao X** , Gu H, Li G, Rye KA, Zhang DW. Identification of an amino acid residue in ATP-binding cassette transport G1 critical for mediating cholesterol efflux. Biochim Biophys Acta. 2012 Mar; 1821(3):552-9. PMID: [21821149](//www.ncbi.nlm.nih.gov/pubmed/21821149).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21821149/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansCells
+
+  27. Zou Y, Yi T, Xiao S, Li F, Li C, **Gao X** , Wu J, Yu M, Huang C. Amphiphilic diarylethene as a photoswitchable probe for imaging living cells. J Am Chem Soc. 2008 Nov 26; 130(47):15750-1. PMID: [18973291](//www.ncbi.nlm.nih.gov/pubmed/18973291).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18973291/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  28. Huang K, Yang H, Zhou Z, Yu M, Li F, **Gao X** , Yi T, Huang C. Multisignal chemosensor for Cr(3+) and its application in bioimaging. Org Lett. 2008 Jun 19; 10(12):2557-60. PMID: [18498171](//www.ncbi.nlm.nih.gov/pubmed/18498171).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18498171/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 28 publications over 13 distinct years, with a maximum of
+5 publications in
+2019](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,20,0,20,40,60,80,40,80,100,20,20,20,20,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2008| 2  
+2011| 1  
+2013| 1  
+2014| 2  
+2015| 3  
+2016| 4  
+2017| 2  
+2018| 4  
+2019| 5  
+2020| 1  
+2021| 1  
+2022| 1  
+2023| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+GAO's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (223)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Phosphatidylethanolamine N-Methyltransferase](https://profiles.viictr.org/profile/243432)
+  * [Serine](https://profiles.viictr.org/profile/260120)
+  * [Methionine](https://profiles.viictr.org/profile/243706)
+  * [Diet, High-Fat](https://profiles.viictr.org/profile/27546326)
+  * [Mitochondrial Dynamics](https://profiles.viictr.org/profile/27546964)
+
+[Explore](https://profiles.viictr.org/profile/36142393/198)
+
+_
+
+Co-Authors (1)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [MCDONNELL, DONALD](https://profiles.viictr.org/profile/268070)
+
+[Explore](https://profiles.viictr.org/profile/36142393/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [VAUTHEY, JEAN NICOLAS](https://profiles.viictr.org/profile/12582959)
+  * [BALLANTYNE, CHRISTIE](https://profiles.viictr.org/profile/266404)
+
+[Explore](https://profiles.viictr.org/profile/36142393/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BUTTE, NANCY](https://profiles.viictr.org/profile/267819)
+  * [CHACKO, SHAJI](https://profiles.viictr.org/profile/269874)
+  * [HIRSCHI, KENDAL](https://profiles.viictr.org/profile/267007)
+  * [XU, YONG](https://profiles.viictr.org/profile/269314)
+  * [YANG, YONGJIE](https://profiles.viictr.org/profile/2619306)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

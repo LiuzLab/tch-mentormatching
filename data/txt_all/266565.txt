@@ -1,0 +1,453 @@
+## NINGHUI CHENG
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1100 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=OKg45GvAQIn2S8Ho5G4%3d&rnd=fb8386db-28ab-490f-9ea5-4d6a875f604f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266565)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=266565&cachekey=9263d122-d0ca-4b95-9f94-b9547aa5e74e)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Li JM, Ye MY, Wang C, Ma XH, Wu NN, Zhong CL, Zhang Y, **Cheng N** , [Nakata PA](https://profiles.viictr.org/profile/266673), Zeng L, Liu JZ. Soybean GmSAUL1, a Bona Fide U-Box E3 Ligase, Negatively Regulates Immunity Likely through Repressing the Activation of GmMPK3. Int J Mol Sci. 2023 Mar 25; 24(7). PMID: [37047211](//www.ncbi.nlm.nih.gov/pubmed/37047211); PMCID: [PMC10094664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10094664).
+
+Citations:  Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:Animals
+
+  2. **Cheng N** , Donelson J, Breton G, [Nakata PA](https://profiles.viictr.org/profile/266673). Liver specific disruption of Glutaredoxin 3 leads to iron accumulation and impaired cellular iron homeostasis. Biochem Biophys Res Commun. 2023 03 15; 649:39-46. PMID: [36739698](//www.ncbi.nlm.nih.gov/pubmed/36739698).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Animals
+
+  3. **Cheng N** , Paris V, Rao X, Wang X, [Nakata PA](https://profiles.viictr.org/profile/266673). A conserved oxalyl-coenzyme A decarboxylase in oxalate catabolism. Plant Signal Behav. 2022 12 31; 17(1):2062555. PMID: [35510715](//www.ncbi.nlm.nih.gov/pubmed/35510715); PMCID: [PMC9090294](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9090294).
+
+Citations:  Fields:
+
+Bot Botany
+
+  4. Sprague SA, Tamang TM, Steiner T, Wu Q, Hu Y, Kakeshpour T, Park J, Yang J, Peng Z, Bergkamp B, Somayanda I, Peterson M, Oliveira Garcia E, Hao Y, St Amand P, Bai G, [Nakata PA](https://profiles.viictr.org/profile/266673), Rieu I, Jackson DP, **Cheng N** , Valent B, [Hirschi KD](https://profiles.viictr.org/profile/267007), Jagadish SK, Liu S, White FF, Park S. Redox-engineering enhances maize thermotolerance and grain yield in the field. Plant Biotechnol J. 2022 09; 20(9):1819-1832. PMID: [35656643](//www.ncbi.nlm.nih.gov/pubmed/35656643); PMCID: [PMC9398381](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9398381).
+
+Citations:  Fields:
+
+Bio BiotechnologyBot Botany
+
+  5. **Cheng N** , Mo Q, Donelson J, Wang L, Breton G, Rodney GG, Wang J, [Hirschi KD](https://profiles.viictr.org/profile/267007), [Wehrens XHT](https://profiles.viictr.org/profile/270302), [Nakata PA](https://profiles.viictr.org/profile/266673). Crucial Role of Mammalian Glutaredoxin 3 in Cardiac Energy Metabolism in Diet-induced Obese Mice Revealed by Transcriptome Analysis. Int J Biol Sci. 2021; 17(11):2871-2883. PMID: [34345213](//www.ncbi.nlm.nih.gov/pubmed/34345213); PMCID: [PMC8326124](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8326124).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34345213/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  6. . In vitro digestion and cellular antioxidant activity of β-carotene-loaded emulsion stabilized by soy protein isolate-Pleurotus eryngii polysaccharide conjugates. Food Hydrocolloids . 2021; 112:106340.
+
+  7. Foster J, **Cheng N** , Paris V, Wang L, [Wang J](https://profiles.viictr.org/profile/266173), Wang X, [Nakata PA](https://profiles.viictr.org/profile/266673). An Arabidopsis Oxalyl-CoA Decarboxylase, AtOXC, Is Important for Oxalate Catabolism in Plants. Int J Mol Sci. 2021 Mar 23; 22(6). PMID: [33806862](//www.ncbi.nlm.nih.gov/pubmed/33806862); PMCID: [PMC8004701](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8004701).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33806862/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:AnimalsCells
+
+  8. **Cheng N** , [Nakata PA](https://profiles.viictr.org/profile/266673). Development of a rapid and efficient protoplast isolation and transfection method for chickpea (Cicer arietinum). MethodsX. 2020; 7:101025. PMID: [32874941](//www.ncbi.nlm.nih.gov/pubmed/32874941); PMCID: [PMC7452273](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7452273).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32874941/citedby/)
+
+  9. **Cheng N** , Yu H, Rao X, Park S, Connolly EL, [Hirschi KD](https://profiles.viictr.org/profile/267007), [Nakata PA](https://profiles.viictr.org/profile/266673). Alteration of iron responsive gene expression in Arabidopsis glutaredoxin S17 loss of function plants with or without iron stress. Plant Signal Behav. 2020 06 02; 15(6):1758455. PMID: [32351167](//www.ncbi.nlm.nih.gov/pubmed/32351167); PMCID: [PMC8570760](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8570760).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32351167/citedby/) Fields:
+
+Bot Botany
+
+Translation:Animals
+
+  10. Zhao R, **Cheng N** , [Nakata PA](https://profiles.viictr.org/profile/266673), Zhao L, Hu Q. Consumption of polysaccharides from Auricularia auricular modulates the intestinal microbiota in mice. Food Res Int. 2019 09; 123:383-392. PMID: [31284990](//www.ncbi.nlm.nih.gov/pubmed/31284990).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31284990/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:AnimalsCells
+
+  11. Donelson J, Wang Q, Monroe TO, Jiang X, Zhou J, Yu H, Mo Q, [Sun Q](https://profiles.viictr.org/profile/269022), [Marini JC](https://profiles.viictr.org/profile/265723), Wang X, [Nakata PA](https://profiles.viictr.org/profile/266673), [Hirschi KD](https://profiles.viictr.org/profile/267007), [Wang J](https://profiles.viictr.org/profile/266173), Rodney GG, [Wehrens XHT](https://profiles.viictr.org/profile/270302), **Cheng N**. Cardiac-specific ablation of glutaredoxin 3 leads to cardiac hypertrophy and heart failure. Physiol Rep. 2019 04; 7(8):e14071. PMID: [31033205](//www.ncbi.nlm.nih.gov/pubmed/31033205); PMCID: [PMC6487472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6487472).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31033205/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  12. **Cheng N** , Foster J, Mysore KS, Wen J, Rao X, [Nakata PA](https://profiles.viictr.org/profile/266673). Effect of Acyl Activating Enzyme (AAE) 3 on the growth and development of Medicago truncatula. Biochem Biophys Res Commun. 2018 10 20; 505(1):255-260. PMID: [30245129](//www.ncbi.nlm.nih.gov/pubmed/30245129).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30245129/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  13. Xu HY, Zhang C, Li ZC, Wang ZR, Jiang XX, Shi YF, Tian SN, Braun E, Mei Y, Qiu WL, Li S, Wang B, Xu J, Navarre D, Ren D, **Cheng N** , [Nakata PA](https://profiles.viictr.org/profile/266673), Graham MA, Whitham SA, Liu JZ. The MAPK Kinase Kinase GmMEKK1 Regulates Cell Death and Defense Responses. Plant Physiol. 2018 10; 178(2):907-922. PMID: [30158117](//www.ncbi.nlm.nih.gov/pubmed/30158117); PMCID: [PMC6181047](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6181047).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30158117/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  14. Hu Y, Wu Q, Peng Z, Sprague SA, Wang W, Park J, Akhunov E, Jagadish KSV, [Nakata PA](https://profiles.viictr.org/profile/266673), **Cheng N** , [Hirschi KD](https://profiles.viictr.org/profile/267007), White FF, Park S. Silencing of OsGRXS17 in rice improves drought stress tolerance by modulating ROS accumulation and stomatal closure. Sci Rep. 2017 11 21; 7(1):15950. PMID: [29162892](//www.ncbi.nlm.nih.gov/pubmed/29162892); PMCID: [PMC5698295](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5698295).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29162892/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  15. Wu Q, Hu Y, Sprague SA, Kakeshpour T, Park J, [Nakata PA](https://profiles.viictr.org/profile/266673), **Cheng N** , [Hirschi KD](https://profiles.viictr.org/profile/267007), White FF, Park S. Expression of a monothiol glutaredoxin, AtGRXS17, in tomato (Solanum lycopersicum) enhances drought tolerance. Biochem Biophys Res Commun. 2017 09 30; 491(4):1034-1039. PMID: [28780355](//www.ncbi.nlm.nih.gov/pubmed/28780355).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28780355/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  16. Hao J, Unternaehrer J, Cui X, **Cheng N** , Oji Y. Regulation of Stemness in Carcinoma Cells. Stem Cells Int. 2017; 2017:7681769. PMID: [28819365](//www.ncbi.nlm.nih.gov/pubmed/28819365); PMCID: [PMC5551519](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5551519).
+
+Citations:
+
+  17. Jiang X, Chen J, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang C, Song X, Carroll SL, [Cai ZL](https://profiles.viictr.org/profile/8684236), Tang M, [Xue M](https://profiles.viictr.org/profile/7520380), **Cheng N** , Schaaf CP, [Li F](https://profiles.viictr.org/profile/4897356), [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Ferreon ACM](https://profiles.viictr.org/profile/8065525), [Xia F](https://profiles.viictr.org/profile/3009907), Wang MC, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), [Wang J](https://profiles.viictr.org/profile/266173). Quantitative real-time imaging of glutathione. Nat Commun. 2017 07 13; 8:16087. PMID: [28703127](//www.ncbi.nlm.nih.gov/pubmed/28703127); PMCID: [PMC5511354](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5511354).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28703127/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  18. . Glutaredoxins in plant development, abiotic stress response, and iron homeostasis: From model organisms to crops. Environmental and Experimental Botany. 2017; (139):91-98. [View Publication](https://doi.org/10.1016/j.envexpbot.2017.04.007).
+
+  19. Yu H, Yang J, Shi Y, Donelson J, Thompson SM, Sprague S, Roshan T, Wang DL, Liu J, Park S, [Nakata PA](https://profiles.viictr.org/profile/266673), Connolly EL, [Hirschi KD](https://profiles.viictr.org/profile/267007), [Grusak MA](https://profiles.viictr.org/profile/266567), **Cheng N**. Arabidopsis Glutaredoxin S17 Contributes to Vegetative Growth, Mineral Accumulation, and Redox Balance during Iron Deficiency. Front Plant Sci. 2017; 8:1045. PMID: [28674546](//www.ncbi.nlm.nih.gov/pubmed/28674546); PMCID: [PMC5474874](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5474874).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28674546/citedby/)
+
+  20. Pham K, Dong J, Jiang X, Qu Y, Yu H, Yang Y, Olea W, [Marini JC](https://profiles.viictr.org/profile/265723), [Chan L](https://profiles.viictr.org/profile/269461), [Wang J](https://profiles.viictr.org/profile/266173), [Wehrens XH](https://profiles.viictr.org/profile/270302), Cui X, Li Y, [Hadsell DL](https://profiles.viictr.org/profile/266951), **Cheng N**. Loss of glutaredoxin 3 impedes mammary lobuloalveolar development during pregnancy and lactation. Am J Physiol Endocrinol Metab. 2017 03 01; 312(3):E136-E149. PMID: [27894063](//www.ncbi.nlm.nih.gov/pubmed/27894063); PMCID: [PMC5374299](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5374299).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27894063/citedby/) Fields:
+
+End EndocrinologyMet MetabolismPhy Physiology
+
+Translation:AnimalsCells
+
+  21. Hu Y, Wu Q, Sprague SA, Park J, Oh M, Rajashekar CB, Koiwa H, [Nakata PA](https://profiles.viictr.org/profile/266673), **Cheng N** , [Hirschi KD](https://profiles.viictr.org/profile/267007), White FF, Park S. Tomato expressing Arabidopsis glutaredoxin gene AtGRXS17 confers tolerance to chilling stress via modulating cold responsive components. Hortic Res. 2015; 2:15051. PMID: [26623076](//www.ncbi.nlm.nih.gov/pubmed/26623076); PMCID: [PMC4641303](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4641303).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26623076/citedby/)
+
+  22. Ding S, Li C, **Cheng N** , Cui X, Xu X, Zhou G. Redox Regulation in Cancer Stem Cells. Oxid Med Cell Longev. 2015; 2015:750798. PMID: [26273424](//www.ncbi.nlm.nih.gov/pubmed/26273424); PMCID: [PMC4529979](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4529979).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26273424/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansCells
+
+  23. Pham K, Pal R, Qu Y, Liu X, Yu H, Shiao SL, Wang X, O'Brian Smith E, Cui X, Rodney GG, **Cheng N**. Nuclear glutaredoxin 3 is critical for protection against oxidative stress-induced cell death. Free Radic Biol Med. 2015 Aug; 85:197-206. PMID: [25975981](//www.ncbi.nlm.nih.gov/pubmed/25975981); PMCID: [PMC4902114](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4902114).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25975981/citedby/) Fields:
+
+Bio BiochemistryMed Medicine (General)
+
+Translation:HumansCells
+
+  24. Jiang X, Yu Y, Chen J, [Zhao M](https://profiles.viictr.org/profile/20424285), Chen H, Song X, Matzuk AJ, Carroll SL, Tan X, Sizovs A, **Cheng N** , [Wang MC](https://profiles.viictr.org/profile/266251), [Wang J](https://profiles.viictr.org/profile/266173). Quantitative imaging of glutathione in live cells using a reversible reaction-based ratiometric fluorescent probe. ACS Chem Biol. 2015 Mar 20; 10(3):864-74. PMID: [25531746](//www.ncbi.nlm.nih.gov/pubmed/25531746); PMCID: [PMC4371605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4371605).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25531746/citedby/) Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:HumansAnimalsCells
+
+  25. . GLUTAREDOXIN IN CANCER DEVELOPMENT, PROGRESSION, CHEMO-RESISTENCE AND CLINICAL APPLICATIONS. In Free Radicals: The Role of Antioxidants and Pro-Oxidants in Cancer Development. Editor: Bill Stone. 2014; 139-158.
+
+  26. Liu X, Liu S, Feng Y, Liu JZ, Chen Y, Pham K, Deng H, [Hirschi KD](https://profiles.viictr.org/profile/267007), Wang X, **Cheng N**. Structural insights into the N-terminal GIY-YIG endonuclease activity of Arabidopsis glutaredoxin AtGRXS16 in chloroplasts. Proc Natl Acad Sci U S A. 2013 Jun 04; 110(23):9565-70. PMID: [23690600](//www.ncbi.nlm.nih.gov/pubmed/23690600); PMCID: [PMC3677505](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3677505).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23690600/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  27. Connorton JM, Webster RE, **Cheng N** , Pittman JK. Knockout of multiple Arabidopsis cation/H(+) exchangers suggests isoform-specific roles in metal stress response, germination and seed mineral nutrition. PLoS One. 2012; 7(10):e47455. PMID: [23071810](//www.ncbi.nlm.nih.gov/pubmed/23071810); PMCID: [PMC3470555](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3470555).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23071810/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  28. Wu Q, Lin J, Liu JZ, Wang X, Lim W, Oh M, Park J, Rajashekar CB, Whitham SA, **Cheng NH** , [Hirschi KD](https://profiles.viictr.org/profile/267007), Park S. Ectopic expression of Arabidopsis glutaredoxin AtGRXS17 enhances thermotolerance in tomato. Plant Biotechnol J. 2012 Oct; 10(8):945-55. PMID: [22762155](//www.ncbi.nlm.nih.gov/pubmed/22762155).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22762155/citedby/) Fields:
+
+Bio BiotechnologyBot Botany
+
+Translation:AnimalsCells
+
+  29. Conn SJ, Gilliham M, Athman A, Schreiber AW, Baumann U, Moller I, **Cheng NH** , Stancombe MA, [Hirschi KD](https://profiles.viictr.org/profile/267007), Webb AA, Burton R, Kaiser BN, Tyerman SD, Leigh RA. Cell-specific vacuolar calcium storage mediated by CAX1 regulates apoplastic calcium concentration, gas exchange, and plant productivity in Arabidopsis. Plant Cell. 2011 Jan; 23(1):240-57. PMID: [21258004](//www.ncbi.nlm.nih.gov/pubmed/21258004); PMCID: [PMC3051233](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3051233).
+
+Citations:
+[83](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21258004/citedby/) Fields:
+
+Bot BotanyCel Cell Biology
+
+Translation:AnimalsCells
+
+  30. Qu Y, Wang J, Ray PS, Guo H, Huang J, Shin-Sim M, Bukoye BA, Liu B, Lee AV, [Lin X](https://profiles.viictr.org/profile/12583455), Huang P, Martens JW, Giuliano AE, Zhang N, **Cheng NH** , Cui X. Thioredoxin-like 2 regulates human cancer cell growth and metastasis via redox homeostasis and NF-?B signaling. J Clin Invest. 2011 Jan; 121(1):212-25. PMID: [21123948](//www.ncbi.nlm.nih.gov/pubmed/21123948); PMCID: [PMC3007146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3007146).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21123948/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  31. Li L, **Cheng N** , [Hirschi KD](https://profiles.viictr.org/profile/267007), Wang X. Structure of Arabidopsis chloroplastic monothiol glutaredoxin AtGRXcp. Acta Crystallogr D Biol Crystallogr. 2010 Jun; 66(Pt 6):725-32. PMID: [20516625](//www.ncbi.nlm.nih.gov/pubmed/20516625); PMCID: [PMC2879357](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2879357).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20516625/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansAnimalsCells
+
+  32. Mei H, **Cheng NH** , Zhao J, Park S, Escareno RA, Pittman JK, [Hirschi KD](https://profiles.viictr.org/profile/267007). Root development under metal stress in Arabidopsis thaliana requires the H+/cation antiporter CAX4. New Phytol. 2009; 183(1):95-105. PMID: [19368667](//www.ncbi.nlm.nih.gov/pubmed/19368667).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19368667/citedby/) Fields:
+
+Bot Botany
+
+Translation:AnimalsCells
+
+  33. Park S, **Cheng NH** , Pittman JK, Yoo KS, Park J, Smith RH, [Hirschi KD](https://profiles.viictr.org/profile/267007). Increased calcium levels and prolonged shelf life in tomatoes expressing Arabidopsis H+/Ca2+ transporters. Plant Physiol. 2005 Nov; 139(3):1194-206. PMID: [16244156](//www.ncbi.nlm.nih.gov/pubmed/16244156); PMCID: [PMC1283758](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1283758).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16244156/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  34. Sze H, Padmanaban S, Honys D, **Cheng NH** , Bock KW, Li X, Twell D, Ward JM, [Hirschi KD](https://profiles.viictr.org/profile/267007), Cellier F, Con?j?ro G. Expression patterns of a novel AtCHX gene family highlight potential roles in osmotic adjustment and K+ homeostasis in pollen development. Plant Physiol. 2004 Sep; 136(1):2532-47. PMID: [15347787](//www.ncbi.nlm.nih.gov/pubmed/15347787); PMCID: [PMC523320](//www.ncbi.nlm.nih.gov/pmc/articles/PMC523320).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15347787/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  35. Ding XS, Liu J, **Cheng NH** , Folimonov A, Hou YM, Bao Y, Katagi C, Carter SA, Nelson RS. The Tobacco mosaic virus 126-kDa protein associated with virus replication and movement suppresses RNA silencing. Mol Plant Microbe Interact. 2004 Jun; 17(6):583-92. PMID: [15195941](//www.ncbi.nlm.nih.gov/pubmed/15195941).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15195941/citedby/) Fields:
+
+Bot BotanyMic MicrobiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  36. Yang SJ, Carter SA, Cole AB, **Cheng NH** , Nelson RS. A natural variant of a host RNA-dependent RNA polymerase is associated with increased susceptibility to viruses by Nicotiana benthamiana. Proc Natl Acad Sci U S A. 2004 Apr 20; 101(16):6297-302. PMID: [15079073](//www.ncbi.nlm.nih.gov/pubmed/15079073); PMCID: [PMC395963](//www.ncbi.nlm.nih.gov/pmc/articles/PMC395963).
+
+Citations:
+[130](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15079073/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 36 publications over 17 distinct years, with a maximum of
+6 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,50,17,0,0,0,17,33,17,33,17,17,67,17,100,33,33,33,50,33,33,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 3  
+2005| 1  
+2009| 1  
+2010| 2  
+2011| 1  
+2012| 2  
+2013| 1  
+2014| 1  
+2015| 4  
+2016| 1  
+2017| 6  
+2018| 2  
+2019| 2  
+2020| 2  
+2021| 3  
+2022| 2  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+CHENG's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (213)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Glutaredoxins](https://profiles.viictr.org/profile/243049)
+  * [Arabidopsis](https://profiles.viictr.org/profile/245301)
+  * [Cardiomegaly](https://profiles.viictr.org/profile/241313)
+  * [Arabidopsis Proteins](https://profiles.viictr.org/profile/259364)
+  * [Carboxy-Lyases](https://profiles.viictr.org/profile/254414)
+
+[Explore](https://profiles.viictr.org/profile/266565/198)
+
+_
+
+Co-Authors (21)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [NAKATA, PAUL](https://profiles.viictr.org/profile/266673)
+  * [HIRSCHI, KENDAL](https://profiles.viictr.org/profile/267007)
+  * [WANG, JIN](https://profiles.viictr.org/profile/266173)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [RODNEY JR., GEORGE](https://profiles.viictr.org/profile/267066)
+
+[Explore](https://profiles.viictr.org/profile/266565/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HIRSCHI, KENDAL](https://profiles.viictr.org/profile/267007)
+  * [NAKATA, PAUL](https://profiles.viictr.org/profile/266673)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [BOZKURT, BIYKEM](https://profiles.viictr.org/profile/269383)
+  * [GRUSAK, MICHAEL](https://profiles.viictr.org/profile/266567)
+
+[Explore](https://profiles.viictr.org/profile/266565/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BARANOWSKI, TOM](https://profiles.viictr.org/profile/265673)
+  * [BUTTE, NANCY](https://profiles.viictr.org/profile/267819)
+  * [QUEZADA-CALVILLO, ROBERTO](https://profiles.viictr.org/profile/269071)
+  * [SOLTERO NGWOLO, ERICA](https://profiles.viictr.org/profile/29494149)
+  * [STOLL, BARBARA](https://profiles.viictr.org/profile/268170)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BIER, DENNIS](https://profiles.viictr.org/profile/268310)
+  * [HADSELL, DARRYL](https://profiles.viictr.org/profile/266951)
+  * [HEIRD, BILL](https://profiles.viictr.org/profile/269743)
+  * [MORENO, JENNETTE](https://profiles.viictr.org/profile/265848)
+  * [WANG, CHUNMEI](https://profiles.viictr.org/profile/3010485)
+
+_
+

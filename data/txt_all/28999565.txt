@@ -1,0 +1,208 @@
+## XINFANG YU
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=DqI%2b52TJJ8XMU6%2fv43aML7CZ&rnd=6d8dadea-6d9f-405b-b52e-69c3fd1d861b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999565)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Chai D](https://profiles.viictr.org/profile/35895164), Wang J, Fan C, Lim JM, Wang X, Neeli P, **Yu X** , [Young KH](https://profiles.viictr.org/profile/12582816), [Li Y](https://profiles.viictr.org/profile/28999515). Remodeling of anti-tumor immunity with antibodies targeting a p53 mutant. J Hematol Oncol. 2024 Jun 18; 17(1):45. PMID: [38886748](//www.ncbi.nlm.nih.gov/pubmed/38886748); PMCID: [PMC11184848](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11184848).
+
+Citations:  Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  2. Zhou S, [Chai D](https://profiles.viictr.org/profile/35895164), Wang X, Neeli P, **Yu X** , Davtyan A, [Young K](https://profiles.viictr.org/profile/12582816), [Li Y](https://profiles.viictr.org/profile/28999515). AI-powered discovery of a novel p53-Y220C reactivator. Front Oncol. 2023; 13:1229696. PMID: [37593097](//www.ncbi.nlm.nih.gov/pubmed/37593097); PMCID: [PMC10430779](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10430779).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37593097/citedby/)
+
+  3. **Yu X** , Li W, Liu H, Wang X, [Coarfa C](https://profiles.viictr.org/profile/265668), Cheng C, Yu X, Zeng Z, Cao Y, [Young KH](https://profiles.viictr.org/profile/12582816), [Li Y](https://profiles.viictr.org/profile/28999515). PD-L1 translocation to the plasma membrane enables tumor immune evasion through MIB2 ubiquitination. J Clin Invest. 2023 02 01; 133(3). PMID: [36719382](//www.ncbi.nlm.nih.gov/pubmed/36719382); PMCID: [PMC9888393](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9888393).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  4. Wang X, **Yu X** , Li W, Neeli P, Liu M, Li L, Zhang M, Fang X, [Young KH](https://profiles.viictr.org/profile/12582816), [Li Y](https://profiles.viictr.org/profile/28999515). Expanding anti-CD38 immunotherapy for lymphoid malignancies. J Exp Clin Cancer Res. 2022 Jun 28; 41(1):210. PMID: [35765110](//www.ncbi.nlm.nih.gov/pubmed/35765110); PMCID: [PMC9237984](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9237984).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  5. **Yu X** , Li W, [Young KH](https://profiles.viictr.org/profile/12582816), [Li Y](https://profiles.viictr.org/profile/28999515). Posttranslational Modifications in PD-L1 Turnover and Function: From Cradle to Grave. Biomedicines. 2021 Nov 16; 9(11). PMID: [34829931](//www.ncbi.nlm.nih.gov/pubmed/34829931); PMCID: [PMC8615371](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8615371).
+
+Citations:
+
+  6. **Yu X** , Li W, Deng Q, Liu H, Wang X, Hu H, Cao Y, [Xu-Monette ZY](https://profiles.viictr.org/profile/17440027), Li L, Zhang M, Lu Z, [Young KH](https://profiles.viictr.org/profile/12582816), [Li Y](https://profiles.viictr.org/profile/28999515). MYD88 L265P elicits mutation-specific ubiquitination to drive NF-?B activation and lymphomagenesis. Blood. 2021 03 25; 137(12):1615-1627. PMID: [33025009](//www.ncbi.nlm.nih.gov/pubmed/33025009); PMCID: [PMC7995293](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7995293).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33025009/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  7. **Yu X** , Li W, Liu H, Deng Q, Wang X, Hu H, [Xu-Monette ZY](https://profiles.viictr.org/profile/17440027), Xiong W, Lu Z, [Young KH](https://profiles.viictr.org/profile/12582816), Wang W, [Li Y](https://profiles.viictr.org/profile/28999515). Ubiquitination of the DNA-damage checkpoint kinase CHK1 by TRAF4 is required for CHK1 activation. J Hematol Oncol. 2020 05 01; 13(1):40. PMID: [32357935](//www.ncbi.nlm.nih.gov/pubmed/32357935); PMCID: [PMC7193419](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7193419).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32357935/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  8. Deng Q, Hu H, **Yu X** , Liu S, Wang L, Chen W, Zhang C, Zeng Z, Cao Y, [Xu-Monette ZY](https://profiles.viictr.org/profile/17440027), Li L, Zhang M, Rosenfeld S, Bao S, Hsi E, [Young KH](https://profiles.viictr.org/profile/12582816), Lu Z, [Li Y](https://profiles.viictr.org/profile/28999515). Tissue-specific microRNA expression alters cancer susceptibility conferred by a TP53 noncoding variant. Nat Commun. 2019 11 07; 10(1):5061. PMID: [31699989](//www.ncbi.nlm.nih.gov/pubmed/31699989); PMCID: [PMC6838078](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6838078).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31699989/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 8 publications over 6 distinct years, with a maximum of 2
+publications in 2021 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,100,50,100,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2019| 1  
+2020| 1  
+2021| 2  
+2022| 1  
+2023| 2  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+YU's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (45)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Ubiquitination](https://profiles.viictr.org/profile/250975)
+  * [Tumor Escape](https://profiles.viictr.org/profile/254663)
+  * [TNF Receptor-Associated Factor 4](https://profiles.viictr.org/profile/251957)
+  * [Myeloid Differentiation Factor 88](https://profiles.viictr.org/profile/247416)
+  * [Checkpoint Kinase 1](https://profiles.viictr.org/profile/27544998)
+
+[Explore](https://profiles.viictr.org/profile/28999565/198)
+
+_
+
+Co-Authors (5)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LI, YONG](https://profiles.viictr.org/profile/28999515)
+  * [YOUNG, KEN HE](https://profiles.viictr.org/profile/12582816)
+  * [XU-MONETTE, ZIJUN](https://profiles.viictr.org/profile/17440027)
+  * [Chai, Dafei](https://profiles.viictr.org/profile/35895164)
+  * [COARFA, CRISTIAN](https://profiles.viictr.org/profile/265668)
+
+[Explore](https://profiles.viictr.org/profile/28999565/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [SUN, SHAO-CONG](https://profiles.viictr.org/profile/12583869)
+  * [CASTILLO, JORGE](https://profiles.viictr.org/profile/38266317)
+  * [YOUNG, KEN HE](https://profiles.viictr.org/profile/12582816)
+  * [VAUTHEY, JEAN NICOLAS](https://profiles.viictr.org/profile/12582959)
+
+[Explore](https://profiles.viictr.org/profile/28999565/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BERNSTAM, ELMER](https://profiles.viictr.org/profile/30882399)
+  * [LI, YONG](https://profiles.viictr.org/profile/28999515)
+  * [SOKALE, ITUNU](https://profiles.viictr.org/profile/35549191)
+  * [SPITZ, MARGARET](https://profiles.viictr.org/profile/266382)
+  * [WHITWORTH, KRISTINA](https://profiles.viictr.org/profile/30364461)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,963 @@
+## ROBIA PAUTLER
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Integrative Physiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JLsx9HHLJZnVRIzgrn7GPw%3d%3d&rnd=ac88f75a-301d-4690-a924-a1bb86a4c8f5)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267744)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267744&cachekey=4ddf8103-10c4-43ca-9322-0369b39e6048)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Division| Neuroscience  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Department of Radiology  
+Division| Radiology  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Huffington Center on Aging  
+Division| Huffington Ctr on Aging  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01AG081192 (PAUTLER, ROBIA G)Jun 15, 2024 - Mar 31, 2029NIH  
+Incorporating Spatial Proteomics to Understand the Basis of Hyper and
+Hypoconnectivity in mouse models of AD  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R56AG071152 (PAUTLER, ROBIA G)Jun 1, 2021 - May 31, 2022NIH  
+Delaying Alzheimer's Disease Progression Through Intranasally Administered
+Nano-Antioxidants  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01EB026453 (ALLEN, MATTHEW J)Sep 30, 2018 - Jun 30, 2022NIH  
+Intratumoral imaging of hypoxia using 1H- and 19F-MRI with redox-responsive
+Eu-based contrast agents  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+S10OD023496 (PAUTLER, ROBIA G)Jun 1, 2018 - May 31, 2021NIH  
+9.4T MRI Upgrade  
+Role: Principal Investigator  
+  
+* * *  
+  
+R41AG055254 (PAUTLER, ROBIA G)Sep 30, 2017 - Aug 31, 2019NIH  
+Mitochondrial Targeted Nano-antioxidants to Treat Alzheimer's Disease  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21NS085208 (RODNEY, GEORGE G)May 15, 2014 - Apr 30, 2017NIH  
+MANGANESE ENHANCED MRI: NON-INVASIVE MEASURE OF PATHOGENESIS OF
+DYSTROPHINOPATHY  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R21DK093802 (PAUTLER, ROBIA G)Sep 1, 2012 - Jul 31, 2015NIH  
+Nano-Antioxidants as a Therapeutic for Preclinical Models of NAFLD  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AG029977 (PAUTLER, ROBIA G)Mar 15, 2008 - Feb 28, 2014NIH  
+Neuroimaging Biomarkers in Mouse Models of AD  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21NS051274 (PAUTLER, ROBIA G)Apr 1, 2005 - Mar 31, 2008NIH  
+MRI Determination of Axonal Transport Rates in Mouse CNS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Kho J, Polak U, Jiang MM, [Odom JD](https://profiles.viictr.org/profile/37941684), Hunter JV, [Ali SM](https://profiles.viictr.org/profile/37104187), [Burrage LC](https://profiles.viictr.org/profile/3010239), [Nagamani SC](https://profiles.viictr.org/profile/265521), **Pautler RG** , Thompson HP, Urayama A, [Jin Z](https://profiles.viictr.org/profile/9478053), Lee B. Argininosuccinate lyase deficiency causes blood-brain barrier disruption via nitric oxide-mediated dysregulation of claudin expression. JCI Insight. 2023 09 08; 8(17). PMID: [37490345](//www.ncbi.nlm.nih.gov/pubmed/37490345); PMCID: [PMC10544197](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10544197).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  2. Alkim E, Dowst H, DiCarlo J, Dobrolecki LE, Hern?ndez-Herrera A, Hormuth DA, Liao Y, McOwiti A, **Pautler R** , [Rimawi M](https://profiles.viictr.org/profile/269416), Roark A, Srinivasan RR, Virostko J, Zhang B, Zheng F, Rubin DL, Yankeelov TE, Lewis MT. Toward Practical Integration of Omic and Imaging Data in Co-Clinical Trials. Tomography. 2023 04 10; 9(2):810-828. PMID: [37104137](//www.ncbi.nlm.nih.gov/pubmed/37104137); PMCID: [PMC10144684](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10144684).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37104137/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  3. Subasinghe SAAS, Ortiz CJ, Romero J, Ward CL, Sertage AG, Kurenbekova L, [Yustein JT](https://profiles.viictr.org/profile/265958), **Pautler RG** , Allen MJ. Toward quantification of hypoxia using fluorinated EuII/III-containing ratiometric probes. Proc Natl Acad Sci U S A. 2023 04 11; 120(15):e2220891120. PMID: [37018203](//www.ncbi.nlm.nih.gov/pubmed/37018203); PMCID: [PMC10104500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10104500).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Humans
+
+  4. Ortiz CJ, Romero J, Pedersen SE, [Samee MAH](https://profiles.viictr.org/profile/28999249), **Pautler RG** , Lutter JC, Batchev AL, Sertage AG, Subasinghe SAAS, Allen MJ. Outersphere Approach to Increasing the Persistance of Oxygen-Sensitive Europium(II)-Containing Contrast Agents for Magnetic Resonance Imaging with Perfluorocarbon Nanoemulsions toward Imaging of Hypoxia. Adv Healthc Mater. 2023 07; 12(19):e2203209. PMID: [36906514](//www.ncbi.nlm.nih.gov/pubmed/36906514); PMCID: [PMC10440236](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10440236).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringTec Technology
+
+Translation:Humans
+
+  5. Peehl DM, Badea CT, Chenevert TL, Daldrup-Link HE, Ding L, Dobrolecki LE, Houghton AM, Kinahan PE, Kurhanewicz J, Lewis MT, Li S, Luker GD, Ma CX, Manning HC, Mowery YM, O'Dwyer PJ, **Pautler RG** , Rosen MA, Roudi R, Ross BD, Shoghi KI, Sriram R, Talpaz M, Wahl RL, Zhou R. Animal Models and Their Role in Imaging-Assisted Co-Clinical Trials. Tomography. 2023 03 16; 9(2):657-680. PMID: [36961012](//www.ncbi.nlm.nih.gov/pubmed/36961012); PMCID: [PMC10037611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10037611).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36961012/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansAnimals
+
+  6. Malyarenko D, Amouzandeh G, Pickup S, Zhou R, Manning HC, [Gammon ST](https://profiles.viictr.org/profile/12583228), Shoghi KI, Quirk JD, Sriram R, Larson P, Lewis MT, **Pautler RG** , Kinahan PE, Muzi M, Chenevert TL. Evaluation of Apparent Diffusion Coefficient Repeatability and Reproducibility for Preclinical MRIs Using Standardized Procedures and a Diffusion-Weighted Imaging Phantom. Tomography. 2023 02 07; 9(1):375-386. PMID: [36828382](//www.ncbi.nlm.nih.gov/pubmed/36828382); PMCID: [PMC9964373](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9964373).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36828382/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  7. Rashid MM, Corbin BA, Jella P, Ortiz CJ, Hassan Samee MA, **Pautler RG** , Allen MJ. Systemic Delivery of Divalent Europium from Ligand Screening with Implications to Direct Imaging of Hypoxia. J Am Chem Soc. 2022 12 21; 144(50):23053-23060. PMID: [36475663](//www.ncbi.nlm.nih.gov/pubmed/36475663); PMCID: [PMC9782726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9782726).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36475663/citedby/) Fields:
+
+Che Chemistry
+
+  8. [Ronca SE](https://profiles.viictr.org/profile/17678422), [Gunter SM](https://profiles.viictr.org/profile/17440186), Kairis RB, Lino A, Romero J, **Pautler RG** , Nimmo A, [Murray KO](https://profiles.viictr.org/profile/267299). A Potential Role for Substance P in West Nile Virus Neuropathogenesis. Viruses. 2022 09 04; 14(9). PMID: [36146768](//www.ncbi.nlm.nih.gov/pubmed/36146768); PMCID: [PMC9503494](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9503494).
+
+Citations:
+
+  9. Fadel LC, Patel IV, Romero J, Tan IC, [Kesler SR](https://profiles.viictr.org/profile/17440101), Rao V, Subasinghe SAAS, [Ray RS](https://profiles.viictr.org/profile/267456), [Yustein JT](https://profiles.viictr.org/profile/265958), Allen MJ, [Gibson BW](https://profiles.viictr.org/profile/268431), Verlinden JJ, Fayn S, Ruggiero N, Ortiz C, [Hipskind E](https://profiles.viictr.org/profile/31189491), Feng A, Iheanacho C, Wang A, **Pautler RG**. A Mouse Holder for Awake Functional Imaging in Unanesthetized Mice: Applications in 31P Spectroscopy, Manganese-Enhanced Magnetic Resonance Imaging Studies, and Resting-State Functional Magnetic Resonance Imaging. Biosensors (Basel). 2022 Aug 08; 12(8). PMID: [36005011](//www.ncbi.nlm.nih.gov/pubmed/36005011); PMCID: [PMC9406174](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9406174).
+
+Citations:
+
+  10. Subasinghe SAAS, **Pautler RG** , [Samee MAH](https://profiles.viictr.org/profile/28999249), [Yustein JT](https://profiles.viictr.org/profile/265958), Allen MJ. Dual-Mode Tumor Imaging Using Probes That Are Responsive to Hypoxia-Induced Pathological Conditions. Biosensors (Basel). 2022 Jun 30; 12(7). PMID: [35884281](//www.ncbi.nlm.nih.gov/pubmed/35884281); PMCID: [PMC9313010](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9313010).
+
+Citations:  Fields:
+
+Bio Biotechnology
+
+Translation:Humans
+
+  11. Noel CV, [Rainusso N](https://profiles.viictr.org/profile/265526), Robertson M, Romero J, [Masand P](https://profiles.viictr.org/profile/269955), [Coarfa C](https://profiles.viictr.org/profile/265668), **Pautler R**. Early detection of myocardial changes with and without dexrazoxane using serial magnetic resonance imaging in a pre-clinical mouse model. Cardiooncology. 2021 Jun 16; 7(1):23. PMID: [34134789](//www.ncbi.nlm.nih.gov/pubmed/34134789); PMCID: [PMC8207719](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8207719).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34134789/citedby/)
+
+  12. Stinnett G, Taheri N, Villanova J, Bohloul A, Guo X, Esposito EP, Xiao Z, Stueber D, Avendano C, Decuzzi P, **Pautler RG** , Colvin VL. 2D Gadolinium Oxide Nanoplates as T1 Magnetic Resonance Imaging Contrast Agents. Adv Healthc Mater. 2021 06; 10(11):e2001780. PMID: [33882196](//www.ncbi.nlm.nih.gov/pubmed/33882196).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33882196/citedby/) Fields:
+
+Bio Biomedical EngineeringTec Technology
+
+Translation:Animals
+
+  13. Subasinghe SAAS, Romero J, Ward CL, Bailey MD, Zehner DR, Mehta PJ, Carniato F, Botta M, [Yustein JT](https://profiles.viictr.org/profile/265958), **Pautler RG** , Allen MJ. Magnetic resonance thermometry using a GdIII-based contrast agent. Chem Commun (Camb). 2021 Feb 18; 57(14):1770-1773. PMID: [33475101](//www.ncbi.nlm.nih.gov/pubmed/33475101); PMCID: [PMC7897303](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7897303).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33475101/citedby/) Fields:
+
+Che Chemistry
+
+  14. Baum L, Chow AHL, Wang YX, Wu EX, **Pautler RG**. Nanoparticles to identify Alzheimer disease by magnetic resonance imaging: abridged secondary publication. Hong Kong Med J. 2020 Dec; 26 Suppl 7(6):17-19. PMID: [33229612](//www.ncbi.nlm.nih.gov/pubmed/33229612).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+  15. Wang HJ, Lee CS, Yee RSZ, Groom L, Friedman I, Babcock L, Georgiou DK, Hong J, Hanna AD, Recio J, Choi JM, Chang T, Agha NH, Romero J, [Sarkar P](https://profiles.viictr.org/profile/37989525), Voermans N, [Gaber MW](https://profiles.viictr.org/profile/269276), Jung SY, Baker ML, **Pautler RG** , Dirksen RT, Riazi S, [Hamilton SL](https://profiles.viictr.org/profile/269595). Adaptive thermogenesis enhances the life-threatening response to heat in mice with an Ryr1 mutation. Nat Commun. 2020 10 09; 11(1):5099. PMID: [33037202](//www.ncbi.nlm.nih.gov/pubmed/33037202); PMCID: [PMC7547078](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7547078).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33037202/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimals
+
+  16. Hudobenko J, Ganesh BP, Jiang J, Mohan EC, Lee S, Sheth S, Morales D, Zhu L, Kofler JK, **Pautler RG** , McCullough LD, Chauhan A. Growth differentiation factor-11 supplementation improves survival and promotes recovery after ischemic stroke in aged mice. Aging (Albany NY). 2020 05 04; 12(9):8049-8066. PMID: [32365331](//www.ncbi.nlm.nih.gov/pubmed/32365331); PMCID: [PMC7244081](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7244081).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32365331/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:Animals
+
+  17. Chen CA, Wang W, [Pedersen SE](https://profiles.viictr.org/profile/266929), Raman A, Seymour ML, Ruiz FR, Xia A, van der Heijden ME, Wang L, Yin J, Lopez J, Rech ME, Lewis RA, [Wu SM](https://profiles.viictr.org/profile/267834), [Liu Z](https://profiles.viictr.org/profile/266153), [Pereira FA](https://profiles.viictr.org/profile/269546), **Pautler RG** , [Zoghbi HY](https://profiles.viictr.org/profile/267945), Schaaf CP. Nr2f1 heterozygous knockout mice recapitulate neurological phenotypes of Bosch-Boonstra-Schaaf optic atrophy syndrome and show impaired hippocampal synaptic plasticity. Hum Mol Genet. 2020 03 27; 29(5):705-715. PMID: [31600777](//www.ncbi.nlm.nih.gov/pubmed/31600777); PMCID: [PMC7104670](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7104670).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31600777/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:Animals
+
+  18. Griffin DM, Bitner BR, Criss Ii Z, Marcano D, Berlin JM, Kent TA, Tour JM, Samson SL, **Pautler RG**. Use of a bioengineered antioxidant in mouse models of metabolic syndrome. Expert Opin Investig Drugs. 2020 Feb; 29(2):209-219. PMID: [31937152](//www.ncbi.nlm.nih.gov/pubmed/31937152).
+
+Citations:  Fields:
+
+Dru Drug Therapy
+
+Translation:Animals
+
+  19. Wong BKY, Murry JB, Ramakrishnan R, He F, [Balasa A](https://profiles.viictr.org/profile/37834413), Stinnett GR, [Pedersen SE](https://profiles.viictr.org/profile/266929), **Pautler RG** , [Van den Veyver IB](https://profiles.viictr.org/profile/266526). Maternal stress in Shank3ex4-9 mice increases pup-directed care and alters brain white matter in male offspring. PLoS One. 2019; 14(11):e0224876. PMID: [31703095](//www.ncbi.nlm.nih.gov/pubmed/31703095); PMCID: [PMC6839842](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6839842).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsPHPublic Health
+
+  20. [Tanifum EA](https://profiles.viictr.org/profile/267720), Devkota L, Ngwa C, [Badachhape AA](https://profiles.viictr.org/profile/28999111), [Ghaghada KB](https://profiles.viictr.org/profile/268527), Romero J, **Pautler RG** , [Annapragada AV](https://profiles.viictr.org/profile/269845). A Hyperfluorinated Hydrophilic Molecule for Aqueous 19F MRI Contrast Media. Contrast Media Mol Imaging. 2018; 2018:1693513. PMID: [30538612](//www.ncbi.nlm.nih.gov/pubmed/30538612); PMCID: [PMC6260405](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6260405).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30538612/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  21. [Lai YC](https://profiles.viictr.org/profile/265585), [Li N](https://profiles.viictr.org/profile/267442), Lawrence W, Wang S, Levine A, Burchhardt DM, **Pautler RG** , [Wehrens XH](https://profiles.viictr.org/profile/270302), [Anderson AE](https://profiles.viictr.org/profile/268159), Valderr?bano M. Myocardial remodeling and susceptibility to ventricular tachycardia in a model of chronic epilepsy. Epilepsia Open. 2018 Jun; 3(2):213-223. PMID: [29881800](//www.ncbi.nlm.nih.gov/pubmed/29881800); PMCID: [PMC5983128](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5983128).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29881800/citedby/) Fields:
+
+Neu Neurology
+
+  22. [Tanifum EA](https://profiles.viictr.org/profile/267720), Patel C, [Liaw ME](https://profiles.viictr.org/profile/39339158), **Pautler RG** , [Annapragada AV](https://profiles.viictr.org/profile/269845). Hydrophilic fluorinated molecules for spectral 19F MRI. Sci Rep. 2018 02 13; 8(1):2889. PMID: [29440665](//www.ncbi.nlm.nih.gov/pubmed/29440665); PMCID: [PMC5811496](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5811496).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29440665/citedby/) Fields:
+
+Sci Science
+
+  23. Cao Z, Balasubramanian A, [Pedersen SE](https://profiles.viictr.org/profile/266929), Romero J, **Pautler RG** , Marrelli SP. TRPV1-mediated Pharmacological Hypothermia Promotes Improved Functional Recovery Following Ischemic Stroke. Sci Rep. 2017 12 15; 7(1):17685. PMID: [29247238](//www.ncbi.nlm.nih.gov/pubmed/29247238); PMCID: [PMC5732157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5732157).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29247238/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  24. Basal LA, Bailey MD, Romero J, Ali MM, Kurenbekova L, [Yustein J](https://profiles.viictr.org/profile/265958), **Pautler RG** , Allen MJ. Fluorinated EuII-based multimodal contrast agent for temperature- and redox-responsive magnetic resonance imaging. Chem Sci. 2017 Dec 01; 8(12):8345-8350. PMID: [29780447](//www.ncbi.nlm.nih.gov/pubmed/29780447); PMCID: [PMC5933353](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5933353).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29780447/citedby/)
+
+  25. Palmieri M, Pal R, Nelvagal HR, Lotfi P, Stinnett GR, Seymour ML, Chaudhury A, Bajaj L, Bondar VV, Bremner L, Saleem U, Tse DY, Sanagasetti D, [Wu SM](https://profiles.viictr.org/profile/267834), [Neilson JR](https://profiles.viictr.org/profile/266073), Pereira FA, **Pautler RG** , Rodney GG, Cooper JD, Sardiello M. Corrigendum: mTORC1-independent TFEB activation via Akt inhibition promotes cellular clearance in neurodegenerative storage diseases. Nat Commun. 2017 06 13; 8:15793. PMID: [28607479](//www.ncbi.nlm.nih.gov/pubmed/28607479); PMCID: [PMC5474731](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5474731).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28607479/citedby/) Fields:
+
+Bio BiologySci Science
+
+  26. Golanov EV, Bovshik EI, Wong KK, **Pautler RG** , Foster CH, Federley RG, Zhang JY, Mancuso J, Wong ST, Britz GW. Subarachnoid hemorrhage - Induced block of cerebrospinal fluid flow: Role of brain coagulation factor III (tissue factor). J Cereb Blood Flow Metab. 2018 05; 38(5):793-808. PMID: [28350198](//www.ncbi.nlm.nih.gov/pubmed/28350198); PMCID: [PMC5987942](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5987942).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28350198/citedby/) Fields:
+
+Bra BrainMet MetabolismVas Vascular Diseases
+
+Translation:Animals
+
+  27. Shetty AN, **Pautler R** , Ghaghada K, Rendon D, Gao H, [Starosolski Z](https://profiles.viictr.org/profile/270164), Bhavane R, Patel C, [Annapragada A](https://profiles.viictr.org/profile/269845), [Yallampalli C](https://profiles.viictr.org/profile/2560322), Lee W. Corrigendum: A liposomal Gd contrast agent does not cross the mouse placental barrier. Sci Rep. 2017 02 16; 7:39724. PMID: [28205586](//www.ncbi.nlm.nih.gov/pubmed/28205586); PMCID: [PMC5311953](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5311953).
+
+Citations:  Fields:
+
+Sci Science
+
+  28. Palmieri M, Pal R, Nelvagal HR, Lotfi P, Stinnett GR, Seymour ML, Chaudhury A, Bajaj L, Bondar VV, Bremner L, Saleem U, Tse DY, Sanagasetti D, [Wu SM](https://profiles.viictr.org/profile/267834), [Neilson JR](https://profiles.viictr.org/profile/266073), [Pereira FA](https://profiles.viictr.org/profile/269546), **Pautler RG** , Rodney GG, Cooper JD, Sardiello M. mTORC1-independent TFEB activation via Akt inhibition promotes cellular clearance in neurodegenerative storage diseases. Nat Commun. 2017 02 06; 8:14338. PMID: [28165011](//www.ncbi.nlm.nih.gov/pubmed/28165011); PMCID: [PMC5303831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5303831).
+
+Citations:
+[160](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28165011/citedby/)
+Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  29. Quick AP, Landstrom AP, Wang Q, Beavers DL, Reynolds JO, Barreto-Torres G, Tran V, Showell J, Philippen LE, [Morris SA](https://profiles.viictr.org/profile/265727), Skapura D, Bos JM, [Pedersen SE](https://profiles.viictr.org/profile/266929), **Pautler RG** , Ackerman MJ, [Wehrens XH](https://profiles.viictr.org/profile/270302). Novel junctophilin-2 mutation A405S is associated with basal septal hypertrophy and diastolic dysfunction. JACC Basic Transl Sci. 2017 Feb; 2(1):56-67. PMID: [28393127](//www.ncbi.nlm.nih.gov/pubmed/28393127); PMCID: [PMC5384575](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5384575).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28393127/citedby/)
+
+  30. Pok S, Stupin IV, Tsao C, **Pautler RG** , Gao Y, Nieto RM, Tao ZW, Fraser CD, [Annapragada AV](https://profiles.viictr.org/profile/269845), Jacot JG. Full-Thickness Heart Repair with an Engineered Multilayered Myocardial Patch in Rat Model. Adv Healthc Mater. 2017 Mar; 6(5). PMID: [28081298](//www.ncbi.nlm.nih.gov/pubmed/28081298); PMCID: [PMC5896558](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5896558).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28081298/citedby/) Fields:
+
+Bio Biomedical EngineeringTec Technology
+
+Translation:Animals
+
+  31. Loehr JA, Stinnett GR, Roten WT, Wilson LJ, **Pautler RG** , Rodney GG, Hern?ndez-Rivera M. Eliminating Nox2 reactive oxygen species production protects dystrophic skeletal muscle from pathological calcium influx assessed in vivo by manganese-enhanced magnetic resonance imaging. J Physiol. 2016 11 01; 594(21):6395-6405. PMID: [27555555](//www.ncbi.nlm.nih.gov/pubmed/27555555); PMCID: [PMC5088246](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5088246).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27555555/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  32. Huq R, Samuel EL, Sikkema WK, Nilewski LG, Lee T, Tanner MR, Khan FS, Porter PC, Tajhya RB, Patel RS, Inoue T, **Pautler RG** , [Corry DB](https://profiles.viictr.org/profile/269165), Tour JM, [Beeton C](https://profiles.viictr.org/profile/265629). Preferential uptake of antioxidant carbon nanoparticles by T lymphocytes for immunomodulation. Sci Rep. 2016 Sep 22; 6:33808. PMID: [27654170](//www.ncbi.nlm.nih.gov/pubmed/27654170); PMCID: [PMC5031970](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5031970).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27654170/citedby/) Fields:
+
+Sci Science
+
+  33. Inoue T, Griffin DM, Huq R, Samuel EL, Ruano SH, Stinnett G, Majid TJ, [Beeton C](https://profiles.viictr.org/profile/265629), Tour JM, **Pautler RG**. Characterization of a novel MR-detectable nanoantioxidant that mitigates the recall immune response. NMR Biomed. 2016 10; 29(10):1436-44. PMID: [27552925](//www.ncbi.nlm.nih.gov/pubmed/27552925); PMCID: [PMC5035207](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5035207).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27552925/citedby/) Fields:
+
+Dia Diagnostic ImagingNuc Nuclear Medicine
+
+Translation:AnimalsCells
+
+  34. Shetty AN, **Pautler R** , [Ghaghada K](https://profiles.viictr.org/profile/268527), Rendon D, Gao H, [Starosolski Z](https://profiles.viictr.org/profile/270164), Bhavane R, Patel C, [Annapragada A](https://profiles.viictr.org/profile/269845), [Yallampalli C](https://profiles.viictr.org/profile/2560322), Lee W. A liposomal Gd contrast agent does not cross the mouse placental barrier. Sci Rep. 2016 06 14; 6:27863. PMID: [27298076](//www.ncbi.nlm.nih.gov/pubmed/27298076); PMCID: [PMC4906290](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4906290).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27298076/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  35. Bissig-Choisat B, Kettlun-Leyton C, Legras XD, Zorman B, Barzi M, Chen LL, Amin MD, Huang YH, **Pautler RG** , Hampton OA, Prakash MM, Yang D, Borowiak M, [Muzny D](https://profiles.viictr.org/profile/268028), Doddapaneni HV, Hu J, Shi Y, [Gaber MW](https://profiles.viictr.org/profile/269276), Hicks MJ, Thompson PA, [Lu Y](https://profiles.viictr.org/profile/12582560), [Mills GB](https://profiles.viictr.org/profile/12582930), [Finegold M](https://profiles.viictr.org/profile/269596), Goss JA, [Parsons DW](https://profiles.viictr.org/profile/265886), [Vasudevan SA](https://profiles.viictr.org/profile/269879), [Sumazin P](https://profiles.viictr.org/profile/2560346), [Bissig KD](https://profiles.viictr.org/profile/266494), L?pez-Terrada D. Novel patient-derived xenograft and cell line models for therapeutic testing of pediatric liver cancer. J Hepatol. 2016 08; 65(2):325-33. PMID: [27117591](//www.ncbi.nlm.nih.gov/pubmed/27117591); PMCID: [PMC5668139](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5668139).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27117591/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimalsCells
+
+  36. Dustin D, Hall BM, [Annapragada A](https://profiles.viictr.org/profile/269845), **Pautler RG**. Neuroimaging in Alzheimer's disease: preclinical challenges toward clinical efficacy. Transl Res. 2016 09; 175:37-53. PMID: [27033146](//www.ncbi.nlm.nih.gov/pubmed/27033146).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27033146/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesMed Medicine (General)
+
+Translation:HumansAnimals
+
+  37. [Blesson CS](https://profiles.viictr.org/profile/3010554), Schutt AK, Balakrishnan MP, **Pautler RG** , [Pedersen SE](https://profiles.viictr.org/profile/266929), [Sarkar P](https://profiles.viictr.org/profile/37989525), Gonzales D, Zhu G, [Marini JC](https://profiles.viictr.org/profile/265723), [Chacko SK](https://profiles.viictr.org/profile/269874), Yallampalli U, [Yallampalli C](https://profiles.viictr.org/profile/2560322). Novel lean type 2 diabetic rat model using gestational low-protein programming. Am J Obstet Gynecol. 2016 Apr; 214(4):540.e1-540.e7. PMID: [26874300](//www.ncbi.nlm.nih.gov/pubmed/26874300); PMCID: [PMC4808600](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4808600).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26874300/citedby/) Fields:
+
+Gyn GynecologyObs Obstetrics
+
+Translation:Animals
+
+  38. Majid T, Griffin D, Criss Z, Jarpe M, **Pautler RG**. Pharmocologic treatment with histone deacetylase 6 inhibitor (ACY-738) recovers Alzheimer's disease phenotype in amyloid precursor protein/presenilin 1 (APP/PS1) mice. Alzheimers Dement (N Y). 2015 Nov; 1(3):170-181. PMID: [29854936](//www.ncbi.nlm.nih.gov/pubmed/29854936); PMCID: [PMC5975056](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5975056).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29854936/citedby/)
+
+  39. Georgiou DK, Dagnino-Acosta A, Lee CS, Griffin DM, Wang H, [Lagor WR](https://profiles.viictr.org/profile/270145), **Pautler RG** , Dirksen RT, [Hamilton SL](https://profiles.viictr.org/profile/269595). Ca2+ Binding/Permeation via Calcium Channel, CaV1.1, Regulates the Intracellular Distribution of the Fatty Acid Transport Protein, CD36, and Fatty Acid Metabolism. J Biol Chem. 2015 Sep 25; 290(39):23751-65. PMID: [26245899](//www.ncbi.nlm.nih.gov/pubmed/26245899); PMCID: [PMC4583036](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4583036).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26245899/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  40. Samuel EL, Marcano DC, Berka V, Bitner BR, Wu G, Potter A, [Fabian RH](https://profiles.viictr.org/profile/267768), **Pautler RG** , Kent TA, Tsai AL, Tour JM. Highly efficient conversion of superoxide to oxygen using hydrophilic carbon clusters. Proc Natl Acad Sci U S A. 2015 Feb 24; 112(8):2343-8. PMID: [25675492](//www.ncbi.nlm.nih.gov/pubmed/25675492); PMCID: [PMC4345556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4345556).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25675492/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  41. Li H, Guo Q, Inoue T, Polito VA, Tabuchi K, Hammer RE, **Pautler RG** , [Taffet GE](https://profiles.viictr.org/profile/266821), Zheng H. Vascular and parenchymal amyloid pathology in an Alzheimer disease knock-in mouse model: interplay with cerebral blood flow. Mol Neurodegener. 2014 Aug 09; 9:28. PMID: [25108425](//www.ncbi.nlm.nih.gov/pubmed/25108425); PMCID: [PMC4132280](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4132280).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25108425/citedby/) Fields:
+
+Mol Molecular BiologyNeu Neurology
+
+Translation:HumansAnimals
+
+  42. Majid T, Ali YO, Venkitaramani DV, Jang MK, Lu HC, **Pautler RG**. In vivo axonal transport deficits in a mouse model of fronto-temporal dementia. Neuroimage Clin. 2014; 4:711-7. PMID: [24936422](//www.ncbi.nlm.nih.gov/pubmed/24936422); PMCID: [PMC4053640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4053640).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24936422/citedby/) Fields:
+
+Dia Diagnostic ImagingNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  43. Killoran KE, Miller AD, Uray KS, Weisbrodt NW, **Pautler RG** , Goyert SM, van Rooijen N, [Conner ME](https://profiles.viictr.org/profile/268086). Role of innate immunity and altered intestinal motility in LPS- and MnCl2-induced intestinal intussusception in mice. Am J Physiol Gastrointest Liver Physiol. 2014 Mar 01; 306(5):G445-53. PMID: [24407593](//www.ncbi.nlm.nih.gov/pubmed/24407593); PMCID: [PMC3949022](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3949022).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24407593/citedby/) Fields:
+
+Gas GastroenterologyPhy Physiology
+
+Translation:Animals
+
+  44. Tannour-Louet M, Lewis SK, Stewart J, Addai JB, [Sahin A](https://profiles.viictr.org/profile/12582927), Vangapandu HV, Lewis AL, Dittmar K, **Pautler RG** , Zhang L, Smith RG, Lamb DJ, Louet JF. Increased expression of CYP24A1 correlates with advanced stages of prostate cancer and can cause resistance to vitamin D3-based therapies. FASEB J. 2014 Jan; 28(1):364-72. PMID: [24081904](//www.ncbi.nlm.nih.gov/pubmed/24081904); PMCID: [PMC6188232](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6188232).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24081904/citedby/) Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  45. Chen W, Ayala-Orozco C, Biswal NC, Perez-Torres C, Bartels M, Bardhan R, Stinnet G, Liu XD, Ji B, Deorukhkar A, Brown LV, Guha S, **Pautler RG** , [Krishnan S](https://profiles.viictr.org/profile/12582672), Halas NJ, Joshi A. Targeting pancreatic cancer with magneto-fluorescent theranostic gold nanoshells. Nanomedicine (Lond). 2014; 9(8):1209-22. PMID: [24063415](//www.ncbi.nlm.nih.gov/pubmed/24063415); PMCID: [PMC4051872](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4051872).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24063415/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:HumansAnimalsCells
+
+  46. Reynolds JO, **Pautler RG** , P?rez-Torres CJ. Use of magnetization transfer contrast MRI to detect early molecular pathology in Alzheimer's disease. Magn Reson Med. 2014 Jan; 71(1):333-8. PMID: [23413044](//www.ncbi.nlm.nih.gov/pubmed/23413044).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23413044/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  47. Holth JK, Bomben VC, Reed JG, Inoue T, Younkin L, Younkin SG, **Pautler RG** , [Botas J](https://profiles.viictr.org/profile/269750), [Noebels JL](https://profiles.viictr.org/profile/269703). Tau loss attenuates neuronal network hyperexcitability in mouse and Drosophila genetic models of epilepsy. J Neurosci. 2013 Jan 23; 33(4):1651-9. PMID: [23345237](//www.ncbi.nlm.nih.gov/pubmed/23345237); PMCID: [PMC3711605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3711605).
+
+Citations:
+[111](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23345237/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  48. Zhu L, Hu L, Slesnick TC, **Pautler RG** , Justice MJ, [Belmont JW](https://profiles.viictr.org/profile/267229), Jiang Z. Zic3 is required in the extra-cardiac perinodal region of the lateral plate mesoderm for left-right patterning and heart development. Hum Mol Genet. 2013 Mar 01; 22(5):879-89. PMID: [23184148](//www.ncbi.nlm.nih.gov/pubmed/23184148); PMCID: [PMC3606008](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3606008).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23184148/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  49. Lian H, Shim DJ, Gaddam SS, Rodriguez-Rivera J, Bitner BR, **Pautler RG** , [Robertson CS](https://profiles.viictr.org/profile/269529), [Zheng H](https://profiles.viictr.org/profile/269684). I?Ba deficiency in brain leads to elevated basal neuroinflammation and attenuated response following traumatic brain injury: implications for functional recovery. Mol Neurodegener. 2012 Sep 19; 7:47. PMID: [22992283](//www.ncbi.nlm.nih.gov/pubmed/22992283); PMCID: [PMC3473257](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3473257).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22992283/citedby/) Fields:
+
+Mol Molecular BiologyNeu Neurology
+
+Translation:AnimalsCells
+
+  50. Bitner BR, Marcano DC, Berlin JM, [Fabian RH](https://profiles.viictr.org/profile/267768), Cherian L, Culver JC, [Dickinson ME](https://profiles.viictr.org/profile/269085), [Robertson CS](https://profiles.viictr.org/profile/269529), **Pautler RG** , Kent TA, Tour JM. Antioxidant carbon particles improve cerebrovascular dysfunction following traumatic brain injury. ACS Nano. 2012 Sep 25; 6(9):8007-14. PMID: [22866916](//www.ncbi.nlm.nih.gov/pubmed/22866916); PMCID: [PMC3458163](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3458163).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22866916/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:Animals
+
+  51. Bitner BR, Perez-Torres CJ, Hu L, Inoue T, **Pautler RG**. Improvements in a Mouse Model of Alzheimer's Disease Through SOD2 Overexpression are Due to Functional and Not Structural Alterations. Magn Reson Insights. 2012 Mar 29; 5:1-6. PMID: [22639527](//www.ncbi.nlm.nih.gov/pubmed/22639527); PMCID: [PMC3359050](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3359050).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22639527/citedby/)
+
+  52. Inoue T, Majid T, **Pautler RG**. Manganese enhanced MRI (MEMRI): neurophysiological applications. Rev Neurosci. 2011; 22(6):675-94. PMID: [22098448](//www.ncbi.nlm.nih.gov/pubmed/22098448); PMCID: [PMC3269402](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3269402).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22098448/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  53. Williams K, Koyama T, Schulz D, Kaluza GL, **Pautler RG** , Weisbrodt N, [Conner ME](https://profiles.viictr.org/profile/268086). Use of fluoroscopy to study in vivo motility in mouse pups. J Pediatr Gastroenterol Nutr. 2011 Jun; 52(6):679-85. PMID: [21593642](//www.ncbi.nlm.nih.gov/pubmed/21593642); PMCID: [PMC3098421](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3098421).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21593642/citedby/) Fields:
+
+Gas GastroenterologyNut Nutritional SciencesPed Pediatrics
+
+Translation:Animals
+
+  54. Ma T, Hoeffer CA, Wong H, Massaad CA, Zhou P, Iadecola C, Murphy MP, **Pautler RG** , Klann E. Amyloid ?-induced impairments in hippocampal synaptic plasticity are rescued by decreasing mitochondrial superoxide. J Neurosci. 2011 Apr 13; 31(15):5589-95. PMID: [21490199](//www.ncbi.nlm.nih.gov/pubmed/21490199); PMCID: [PMC3095121](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3095121).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21490199/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  55. Massaad CA, **Pautler RG**. Manganese-enhanced magnetic resonance imaging (MEMRI). Methods Mol Biol. 2011; 711:145-74. PMID: [21279601](//www.ncbi.nlm.nih.gov/pubmed/21279601); PMCID: [PMC3285478](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3285478).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21279601/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  56. Smith KD, Paylor R, **Pautler RG**. R-flurbiprofen improves axonal transport in the Tg2576 mouse model of Alzheimer's disease as determined by MEMRI. Magn Reson Med. 2011 May; 65(5):1423-9. PMID: [21500269](//www.ncbi.nlm.nih.gov/pubmed/21500269); PMCID: [PMC3241985](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3241985).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21500269/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  57. Bardhan R, Chen W, Bartels M, Perez-Torres C, Botero MF, McAninch RW, [Contreras A](https://profiles.viictr.org/profile/12582874), [Schiff R](https://profiles.viictr.org/profile/269128), **Pautler RG** , Halas NJ, Joshi A. Tracking of multimodal therapeutic nanocomplexes targeting breast cancer in vivo. Nano Lett. 2010 Dec 08; 10(12):4920-8. PMID: [21090693](//www.ncbi.nlm.nih.gov/pubmed/21090693); PMCID: [PMC4089981](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4089981).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21090693/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:HumansAnimalsCells
+
+  58. Sharma R, Buras E, Terashima T, Serrano F, Massaad CA, Hu L, Bitner B, Inoue T, [Chan L](https://profiles.viictr.org/profile/269461), **Pautler RG**. Hyperglycemia induces oxidative stress and impairs axonal transport rates in mice. PLoS One. 2010 Oct 18; 5(10):e13463. PMID: [20976160](//www.ncbi.nlm.nih.gov/pubmed/20976160); PMCID: [PMC2956689](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2956689).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20976160/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  59. Peethumnongsin E, Yang L, Hu L, Takashima A, **Pautler RG** , [Zheng H](https://profiles.viictr.org/profile/269684), Kallhoff-Mu?oz V. Convergence of presenilin- and tau-mediated pathways on axonal trafficking and neuronal function. J Neurosci. 2010 Oct 06; 30(40):13409-18. PMID: [20926667](//www.ncbi.nlm.nih.gov/pubmed/20926667); PMCID: [PMC2962595](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2962595).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20926667/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  60. Massaad CA, Amin SK, Hu L, Mei Y, Klann E, **Pautler RG**. Mitochondrial superoxide contributes to blood flow and axonal transport deficits in the Tg2576 mouse model of Alzheimer's disease. PLoS One. 2010 May 10; 5(5):e10561. PMID: [20479943](//www.ncbi.nlm.nih.gov/pubmed/20479943); PMCID: [PMC2866668](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2866668).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20479943/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  61. Bitner BR, Brink DC, Mathew LC, **Pautler RG** , [Robertson CS](https://profiles.viictr.org/profile/269529). Impact of arginase II on CBF in experimental cortical impact injury in mice using MRI. J Cereb Blood Flow Metab. 2010 Jun; 30(6):1105-9. PMID: [20372170](//www.ncbi.nlm.nih.gov/pubmed/20372170); PMCID: [PMC2949199](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2949199).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20372170/citedby/) Fields:
+
+Bra BrainMet MetabolismVas Vascular Diseases
+
+Translation:Animals
+
+  62. Chen W, Bardhan R, Bartels M, Perez-Torres C, **Pautler RG** , Halas NJ, Joshi A. A molecularly targeted theranostic probe for ovarian cancer. Mol Cancer Ther. 2010 Apr; 9(4):1028-38. PMID: [20371708](//www.ncbi.nlm.nih.gov/pubmed/20371708); PMCID: [PMC4134931](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4134931).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20371708/citedby/) Fields:
+
+Ant Antineoplastic Agents
+
+Translation:HumansCells
+
+  63. Massaad CA, [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Serrano F, **Pautler RG** , P?rez-Torres CJ. In vitro and in vivo magnetic resonance imaging (MRI) detection of GFP through magnetization transfer contrast (MTC). Neuroimage. 2010 Apr 01; 50(2):375-82. PMID: [20060482](//www.ncbi.nlm.nih.gov/pubmed/20060482); PMCID: [PMC2824127](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2824127).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20060482/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  64. Smith KD, Peethumnongsin E, Lin H, [Zheng H](https://profiles.viictr.org/profile/269684), **Pautler RG**. Increased Human Wildtype Tau Attenuates Axonal Transport Deficits Caused by Loss of APP in Mouse Models. Magn Reson Insights. 2010; 4:11-18. PMID: [20798780](//www.ncbi.nlm.nih.gov/pubmed/20798780); PMCID: [PMC2927830](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2927830).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20798780/citedby/)
+
+  65. Hassan AA, Chan BT, Tran LA, Hartman KB, Ananta JS, Mackeyev Y, Hu L, **Pautler RG** , Wilson LJ, Lee AV. Serine-derivatized gadonanotubes as magnetic nanoprobes for intracellular labeling. Contrast Media Mol Imaging. 2010 Jan-Feb; 5(1):34-8. PMID: [20101755](//www.ncbi.nlm.nih.gov/pubmed/20101755).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20101755/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansCells
+
+  66. Hu L, Sun Y, Villasana LE, Paylor R, Klann E, **Pautler RG**. Early changes in the apparent diffusion coefficient (ADC) in a mouse model of Sandhoff's disease occur prior to disease symptoms and behavioral deficits. Magn Reson Med. 2009 Nov; 62(5):1175-84. PMID: [19780154](//www.ncbi.nlm.nih.gov/pubmed/19780154); PMCID: [PMC3238566](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3238566).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19780154/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansAnimals
+
+  67. Serrano F, Chang A, Hernandez C, **Pautler RG** , Sweatt JD, Klann E. NADPH oxidase mediates beta-amyloid peptide-induced activation of ERK in hippocampal organotypic cultures. Mol Brain. 2009 Oct 05; 2:31. PMID: [19804648](//www.ncbi.nlm.nih.gov/pubmed/19804648); PMCID: [PMC2762965](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2762965).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19804648/citedby/) Fields:
+
+Bra BrainMol Molecular Biology
+
+Translation:AnimalsCells
+
+  68. Massaad CA, **Pautler RG** , Klann E. Mitochondrial superoxide: a key player in Alzheimer's disease. Aging (Albany NY). 2009 Sep 14; 1(9):758-61. PMID: [20157564](//www.ncbi.nlm.nih.gov/pubmed/20157564); PMCID: [PMC2815734](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2815734).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20157564/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:HumansAnimalsCells
+
+  69. Massaad CA, Washington TM, **Pautler RG** , Klann E. Overexpression of SOD-2 reduces hippocampal superoxide and prevents memory deficits in a mouse model of Alzheimer's disease. Proc Natl Acad Sci U S A. 2009 Aug 11; 106(32):13576-81. PMID: [19666610](//www.ncbi.nlm.nih.gov/pubmed/19666610); PMCID: [PMC2726352](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2726352).
+
+Citations:
+[83](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19666610/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  70. Kallhoff-Munoz V, Hu L, Chen X, **Pautler RG** , [Zheng H](https://profiles.viictr.org/profile/269684). Genetic dissection of gamma-secretase-dependent and -independent functions of presenilin in regulating neuronal cell cycle and cell death. J Neurosci. 2008 Oct 29; 28(44):11421-31. PMID: [18971484](//www.ncbi.nlm.nih.gov/pubmed/18971484); PMCID: [PMC2615184](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2615184).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18971484/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  71. Serrano F, Deshazer M, Smith KD, Ananta JS, Wilson LJ, **Pautler RG**. Assessing transneuronal dysfunction utilizing manganese-enhanced MRI (MEMRI). Magn Reson Med. 2008 Jul; 60(1):169-75. PMID: [18581360](//www.ncbi.nlm.nih.gov/pubmed/18581360).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18581360/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:AnimalsCells
+
+  72. Smith KD, Kallhoff V, [Zheng H](https://profiles.viictr.org/profile/269684), **Pautler RG**. In vivo axonal transport rates decrease in a mouse model of Alzheimer's disease. Neuroimage. 2007 May 01; 35(4):1401-8. PMID: [17369054](//www.ncbi.nlm.nih.gov/pubmed/17369054); PMCID: [PMC2063432](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2063432).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17369054/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  73. Sano M, Izumi Y, Helenius K, Asakura M, Rossi DJ, Xie M, [Taffet G](https://profiles.viictr.org/profile/266821), Hu L, **Pautler RG** , Wilson CR, Boudina S, Abel ED, Taegtmeyer H, [Scaglia F](https://profiles.viictr.org/profile/268358), Graham BH, Kralli A, Shimizu N, Tanaka H, [Schneider MD](https://profiles.viictr.org/profile/268004), M?kel? TP. M?nage-?-trois 1 is critical for the transcriptional function of PPARgamma coactivator 1. Cell Metab. 2007 Feb; 5(2):129-42. PMID: [17276355](//www.ncbi.nlm.nih.gov/pubmed/17276355).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17276355/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:AnimalsCells
+
+  74. Kannankeril PJ, Mitchell BM, Goonasekera SA, [Chelu MG](https://profiles.viictr.org/profile/29494265), [Zhang W](https://profiles.viictr.org/profile/12582977), Sood S, [Kearney DL](https://profiles.viictr.org/profile/269620), Danila CI, De Biasi M, [Wehrens XH](https://profiles.viictr.org/profile/270302), **Pautler RG** , Roden DM, [Taffet GE](https://profiles.viictr.org/profile/266821), Dirksen RT, Anderson ME, Hamilton SL. Mice with the R176Q cardiac ryanodine receptor mutation exhibit catecholamine-induced ventricular tachycardia and cardiomyopathy. Proc Natl Acad Sci U S A. 2006 Aug 08; 103(32):12179-84. PMID: [16873551](//www.ncbi.nlm.nih.gov/pubmed/16873551); PMCID: [PMC1567715](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1567715).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16873551/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  75. **Pautler RG**. Biological applications of manganese-enhanced magnetic resonance imaging. Methods Mol Med. 2006; 124:365-86. PMID: [16506430](//www.ncbi.nlm.nih.gov/pubmed/16506430).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16506430/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimals
+
+  76. Tyszka JM, Readhead C, Bearer EL, **Pautler RG** , Jacobs RE. Statistical diffusion tensor histology reveals regional dysmyelination effects in the shiverer mouse mutant. Neuroimage. 2006 Feb 15; 29(4):1058-65. PMID: [16213163](//www.ncbi.nlm.nih.gov/pubmed/16213163); PMCID: [PMC3376084](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3376084).
+
+Citations:
+[89](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16213163/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:AnimalsCells
+
+  77. **Pautler RG**. In vivo, trans-synaptic tract-tracing utilizing manganese-enhanced magnetic resonance imaging (MEMRI). NMR Biomed. 2004 Dec; 17(8):595-601. PMID: [15761948](//www.ncbi.nlm.nih.gov/pubmed/15761948).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15761948/citedby/) Fields:
+
+Dia Diagnostic ImagingNuc Nuclear Medicine
+
+Translation:HumansAnimalsCells
+
+  78. **Pautler RG**. Mouse MRI: concepts and applications in physiology. Physiology (Bethesda). 2004 Aug; 19:168-75. PMID: [15304630](//www.ncbi.nlm.nih.gov/pubmed/15304630).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15304630/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  79. Ghugre NR, Martin M, Scadeng M, Ruffins S, Hiltner T, **Pautler R** , Waters C, Readhead C, Jacobs R, Wood JC. Superiority of 3D wavelet-packet denoising in MR microscopy. Magn Reson Imaging. 2003 Oct; 21(8):913-21. PMID: [14599542](//www.ncbi.nlm.nih.gov/pubmed/14599542).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14599542/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  80. **Pautler RG** , Fraser SE. The year(s) of the contrast agent - micro-MRI in the new millennium. Curr Opin Immunol. 2003 Aug; 15(4):385-92. PMID: [12900268](//www.ncbi.nlm.nih.gov/pubmed/12900268).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12900268/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  81. **Pautler RG** , Mongeau R, Jacobs RE. In vivo trans-synaptic tract tracing from the murine striatum and amygdala utilizing manganese enhanced MRI (MEMRI). Magn Reson Med. 2003 Jul; 50(1):33-9. PMID: [12815676](//www.ncbi.nlm.nih.gov/pubmed/12815676).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12815676/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:AnimalsCells
+
+  82. **Pautler RG** , Koretsky AP. Tracing odor-induced activation in the olfactory bulbs of mice using manganese-enhanced magnetic resonance imaging. Neuroimage. 2002 Jun; 16(2):441-8. PMID: [12030829](//www.ncbi.nlm.nih.gov/pubmed/12030829).
+
+Citations:
+[75](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12030829/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  83. Hu TC, **Pautler RG** , MacGowan GA, Koretsky AP. Manganese-enhanced MRI of mouse heart during changes in inotropy. Magn Reson Med. 2001 Nov; 46(5):884-90. PMID: [11675639](//www.ncbi.nlm.nih.gov/pubmed/11675639).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11675639/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  84. **Pautler RG** , Silva AC, Koretsky AP. In vivo neuronal tract tracing using manganese-enhanced magnetic resonance imaging. Magn Reson Med. 1998 Nov; 40(5):740-8. PMID: [9797158](//www.ncbi.nlm.nih.gov/pubmed/9797158).
+
+Citations:
+[133](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9797158/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 84 publications over 24 distinct years, with a maximum of
+10 publications in
+2010](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|10&cht=bvs&chd=t:0,0,0,0,10,0,0,10,10,30,20,10,20,20,20,40,100,40,40,40,30,30,70,80,30,10,50,30,40,60,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1998| 1  
+2001| 1  
+2002| 1  
+2003| 3  
+2004| 2  
+2005| 1  
+2006| 2  
+2007| 2  
+2008| 2  
+2009| 4  
+2010| 10  
+2011| 4  
+2012| 4  
+2013| 4  
+2014| 3  
+2015| 3  
+2016| 7  
+2017| 8  
+2018| 3  
+2019| 1  
+2020| 5  
+2021| 3  
+2022| 4  
+2023| 6  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+PAUTLER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (400)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Manganese](https://profiles.viictr.org/profile/264084)
+  * [Magnetic Resonance Imaging](https://profiles.viictr.org/profile/245806)
+  * [Axonal Transport](https://profiles.viictr.org/profile/255605)
+  * [Alzheimer Disease](https://profiles.viictr.org/profile/250108)
+  * [Olfactory Pathways](https://profiles.viictr.org/profile/258564)
+
+[Explore](https://profiles.viictr.org/profile/267744/198)
+
+_
+
+Co-Authors (80)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SERRANO FORTY, FARIDIS](https://profiles.viictr.org/profile/23478774)
+  * [ANNAPRAGADA, ANANTH](https://profiles.viictr.org/profile/269845)
+  * [YUSTEIN, JASON](https://profiles.viictr.org/profile/265958)
+  * [ZHENG, HUI](https://profiles.viictr.org/profile/269684)
+  * [TANIFUM, ERIC](https://profiles.viictr.org/profile/267720)
+
+[Explore](https://profiles.viictr.org/profile/267744/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [SPALLETTA, GIANFRANCO](https://profiles.viictr.org/profile/11312399)
+  * [DOODY, RACHELLE](https://profiles.viictr.org/profile/269523)
+  * [ZHENG, HUI](https://profiles.viictr.org/profile/269684)
+  * [WILDE, ELISABETH](https://profiles.viictr.org/profile/267730)
+
+[Explore](https://profiles.viictr.org/profile/267744/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DE GIORGI, MARCO](https://profiles.viictr.org/profile/20777976)
+  * [GIBSON, BRIAN](https://profiles.viictr.org/profile/268431)
+  * [KARCH, JASON](https://profiles.viictr.org/profile/28999225)
+  * [SAMEE, MD. ABUL HASSAN](https://profiles.viictr.org/profile/28999249)
+  * [WYTHE, JOSHUA](https://profiles.viictr.org/profile/8451896)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9OAoViz93UPhzgPYFlUVlOB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BEETON, CHRISTINE](https://profiles.viictr.org/profile/265629)
+  * [LARIN, KIRILL](https://profiles.viictr.org/profile/266154)
+  * [MARTIN, JAMES](https://profiles.viictr.org/profile/266646)
+  * [POCHE, ROSS](https://profiles.viictr.org/profile/1737888)
+  * [SAHIN, ERGUN](https://profiles.viictr.org/profile/267303)
+
+_
+

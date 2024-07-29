@@ -1,0 +1,260 @@
+## HYUN-HWAN JEONG
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1250 MOURSUND STREET  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HrIl7yjvN4r7CKXo73XFCraPKl%2bPkzA%3d&rnd=cf2924f7-2410-4d4b-9a95-ea7322dcb374)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=15317861)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Deisseroth CA](https://profiles.viictr.org/profile/37800263), Lee WS, Kim J, **Jeong HH** , [Dhindsa RS](https://profiles.viictr.org/profile/35089811), Wang J, [Zoghbi HY](https://profiles.viictr.org/profile/267945), [Liu Z](https://profiles.viictr.org/profile/266153). Literature-based predictions of Mendelian disease therapies. Am J Hum Genet. 2023 10 05; 110(10):1661-1672. PMID: [37741276](//www.ncbi.nlm.nih.gov/pubmed/37741276); PMCID: [PMC10577072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10577072).
+
+Citations:  Fields:
+
+Gen Genetics
+
+  2. Kim J, [de Haro M](https://profiles.viictr.org/profile/3009799), [Al-Ramahi I](https://profiles.viictr.org/profile/3009798), Garaicoechea LL, **Jeong HH** , [Sonn JY](https://profiles.viictr.org/profile/28999205), Tadros B, [Liu Z](https://profiles.viictr.org/profile/266153), [Botas J](https://profiles.viictr.org/profile/269750), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Evolutionarily conserved regulators of tau identify targets for new therapies. Neuron. 2023 03 15; 111(6):824-838.e7. PMID: [36610398](//www.ncbi.nlm.nih.gov/pubmed/36610398).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36610398/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimals
+
+  3. Zhang W, Bado IL, Hu J, Wan YW, Wu L, Wang H, Gao Y, **Jeong HH** , [Xu Z](https://profiles.viictr.org/profile/28999141), Hao X, [Lege BM](https://profiles.viictr.org/profile/23512875), Al-Ouran R, Li L, Li J, [Yu L](https://profiles.viictr.org/profile/28999563), Singh S, Lo HC, [Niu M](https://profiles.viictr.org/profile/24845219), Liu J, Jiang W, Li Y, Wong STC, Cheng C, [Liu Z](https://profiles.viictr.org/profile/266153), Zhang XH. The bone microenvironment invigorates metastatic seeds for further dissemination. Cell. 2021 04 29; 184(9):2471-2486.e20. PMID: [33878291](//www.ncbi.nlm.nih.gov/pubmed/33878291); PMCID: [PMC8087656](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8087656).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33878291/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  4. Bado IL, Zhang W, Hu J, [Xu Z](https://profiles.viictr.org/profile/28999141), Wang H, [Sarkar P](https://profiles.viictr.org/profile/37989525), Li L, Wan YW, Liu J, Wu W, Lo HC, Kim IS, Singh S, Janghorban M, Muscarella AM, Goldstein A, Singh P, **Jeong HH** , Liu C, [Schiff R](https://profiles.viictr.org/profile/269128), [Huang S](https://profiles.viictr.org/profile/267743), Ellis MJ, [Gaber MW](https://profiles.viictr.org/profile/269276), Gugala Z, [Liu Z](https://profiles.viictr.org/profile/266153), Zhang XH. The bone microenvironment increases phenotypic plasticity of ER+ breast cancer cells. Dev Cell. 2021 04 19; 56(8):1100-1117.e9. PMID: [33878299](//www.ncbi.nlm.nih.gov/pubmed/33878299); PMCID: [PMC8062036](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8062036).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33878299/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  5. **Jeong HH** , [Chandrakantan A](https://profiles.viictr.org/profile/17678416), [Adler AC](https://profiles.viictr.org/profile/17678421). Obstructive Sleep Apnea and Dementia-Common Gene Associations through Network-Based Identification of Common Driver Genes. Genes (Basel). 2021 04 09; 12(4). PMID: [33918603](//www.ncbi.nlm.nih.gov/pubmed/33918603); PMCID: [PMC8069301](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8069301).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  6. **Jeong HH** , [Liu Z](https://profiles.viictr.org/profile/266153). Are HHV-6A and HHV-7 Really More Abundant in Alzheimer's Disease? Neuron. 2019 12 18; 104(6):1034-1035. PMID: [31855626](//www.ncbi.nlm.nih.gov/pubmed/31855626).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31855626/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansCells
+
+  7. **Jeong HH** , Kim SY, Rousseaux MWC, [Zoghbi HY](https://profiles.viictr.org/profile/267945), [Liu Z](https://profiles.viictr.org/profile/266153). Beta-binomial modeling of CRISPR pooled screen data identifies target genes with greater sensitivity and fewer false negatives. Genome Res. 2019 Jun; 29(6):999-1008. PMID: [31015259](//www.ncbi.nlm.nih.gov/pubmed/31015259); PMCID: [PMC6581060](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6581060).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31015259/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Cells
+
+  8. Choi WT, Tosun M, **Jeong HH** , Karakas C, Semerci F, [Liu Z](https://profiles.viictr.org/profile/266153), [Maletic-Savatic M](https://profiles.viictr.org/profile/266043). Metabolomics of mammalian brain reveals regional differences. BMC Syst Biol. 2018 12 21; 12(Suppl 8):127. PMID: [30577853](//www.ncbi.nlm.nih.gov/pubmed/30577853); PMCID: [PMC6302375](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6302375).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30577853/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Animals
+
+  9. Rousseaux MWC, [Al-Ramahi I](https://profiles.viictr.org/profile/3009798), **Jeong HH** , [Bajic A](https://profiles.viictr.org/profile/3010475), Revelli JP, Ye H, Phan ET, [Deger JM](https://profiles.viictr.org/profile/31168762), Perez AM, [Kim JY](https://profiles.viictr.org/profile/3494074), Lavery LA, Xu Q, Li MZ, Kang H, Kim JJ, [Shulman JM](https://profiles.viictr.org/profile/267488), [Westbrook TF](https://profiles.viictr.org/profile/267742), Elledge SJ, [Liu Z](https://profiles.viictr.org/profile/266153), [Botas J](https://profiles.viictr.org/profile/269750), [Zoghbi HY](https://profiles.viictr.org/profile/267945), V?zquez-V?lez GE. A Druggable Genome Screen Identifies Modifiers of a-Synuclein Levels via a Tiered Cross-Species Validation Approach. J Neurosci. 2018 10 24; 38(43):9286-9301. PMID: [30249792](//www.ncbi.nlm.nih.gov/pubmed/30249792); PMCID: [PMC6199406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6199406).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30249792/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  10. Guo C, **Jeong HH** , Hsieh YC, Klein HU, Bennett DA, De Jager PL, [Liu Z](https://profiles.viictr.org/profile/266153), [Shulman JM](https://profiles.viictr.org/profile/267488). Tau Activates Transposable Elements in Alzheimer's Disease. Cell Rep. 2018 06 05; 23(10):2874-2880. PMID: [29874575](//www.ncbi.nlm.nih.gov/pubmed/29874575); PMCID: [PMC6181645](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6181645).
+
+Citations:
+[91](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29874575/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  11. [Yalamanchili HK](https://profiles.viictr.org/profile/8950236), Guo C, [Shulman JM](https://profiles.viictr.org/profile/267488), [Liu Z](https://profiles.viictr.org/profile/266153), **Jeong HH**. An ultra-fast and scalable quantification pipeline for transposable elements from next generation sequencing data. Pac Symp Biocomput. 2018; 23:168-179. PMID: [29218879](//www.ncbi.nlm.nih.gov/pubmed/29218879).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29218879/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansAnimalsCells
+
+  12. **Jeong HH** , Kim SY, Rousseaux MWC, [Zoghbi HY](https://profiles.viictr.org/profile/267945), [Liu Z](https://profiles.viictr.org/profile/266153). CRISPRcloud: a secure cloud-based pipeline for CRISPR pooled screen deconvolution. Bioinformatics. 2017 Sep 15; 33(18):2963-2965. PMID: [28541456](//www.ncbi.nlm.nih.gov/pubmed/28541456); PMCID: [PMC5870715](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5870715).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28541456/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Cells
+
+  13. Roh SH, Hryc CF, **Jeong HH** , Fei X, Jakana J, Lorimer GH, Chiu W. Subunit conformational variation within individual GroEL oligomers resolved by Cryo-EM. Proc Natl Acad Sci U S A. 2017 08 01; 114(31):8259-8264. PMID: [28710336](//www.ncbi.nlm.nih.gov/pubmed/28710336); PMCID: [PMC5547627](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5547627).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28710336/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 13 publications over 5 distinct years, with a maximum of 4
+publications in
+2018](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,100,50,0,75,0,50,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2017| 2  
+2018| 4  
+2019| 2  
+2021| 3  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+JEONG's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (98)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Computational Biology](https://profiles.viictr.org/profile/263266)
+  * [Clustered Regularly Interspaced Short Palindromic Repeats](https://profiles.viictr.org/profile/27547110)
+  * [Herpesvirus 7, Human](https://profiles.viictr.org/profile/255742)
+  * [DNA Transposable Elements](https://profiles.viictr.org/profile/262017)
+  * [Roseolovirus Infections](https://profiles.viictr.org/profile/256666)
+
+[Explore](https://profiles.viictr.org/profile/15317861/198)
+
+_
+
+Co-Authors (25)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [ADLER, ADAM](https://profiles.viictr.org/profile/17678421)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [YALAMANCHILI, HARI](https://profiles.viictr.org/profile/8950236)
+  * [SHULMAN, JOSHUA](https://profiles.viictr.org/profile/267488)
+
+[Explore](https://profiles.viictr.org/profile/15317861/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [DOODY, RACHELLE](https://profiles.viictr.org/profile/269523)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [LICHTARGE, OLIVIER](https://profiles.viictr.org/profile/269815)
+
+[Explore](https://profiles.viictr.org/profile/15317861/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ALI, IRFAN](https://profiles.viictr.org/profile/7520384)
+  * [LOTZE, TIMOTHY](https://profiles.viictr.org/profile/267050)
+  * [SULLY, KRYSTAL](https://profiles.viictr.org/profile/27841702)
+  * [THOMAS, AJAY](https://profiles.viictr.org/profile/40963393)
+  * [TORRES, TAYLOR](https://profiles.viictr.org/profile/40339555)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

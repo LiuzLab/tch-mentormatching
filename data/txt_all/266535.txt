@@ -1,0 +1,541 @@
+## ALBERT RAIZNER
+
+| | Title| Clinical Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 6550 Fannin Suite 2021  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=N7kx6H%2fJJZnVRIzgrn7GPw%3d%3d&rnd=56b5237b-f654-411c-830a-4eb22b9bc459)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266535)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Raizner AE** , Young JB. Constantly Bombarded with New Drugs: What's a Cardiologist to Do? Methodist Debakey Cardiovasc J. 2022; 18(5):74-76. PMID: [36561079](//www.ncbi.nlm.nih.gov/pubmed/36561079); PMCID: [PMC9733149](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9733149).
+
+Citations:  Fields:
+
+Car CardiologyVas Vascular Diseases
+
+  2. Young JB, **Raizner AE**. Cardiovascular Pharmacology: Contemporary Physiologic and Scientific Approaches to Cardiovascular Disease Prevention and Treatment. Methodist Debakey Cardiovasc J. 2022; 18(5):1-4. PMID: [36561086](//www.ncbi.nlm.nih.gov/pubmed/36561086); PMCID: [PMC9733162](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9733162).
+
+Citations:  Fields:
+
+Car CardiologyVas Vascular Diseases
+
+  3. **Raizner AE** , Qui?ones MA. Coenzyme Q10 for Patients With Cardiovascular Disease: JACC Focus Seminar. J Am Coll Cardiol. 2021 02 09; 77(5):609-619. PMID: [33538259](//www.ncbi.nlm.nih.gov/pubmed/33538259).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33538259/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  4. Haenel A, Ghosn M, Karimi T, Vykoukal J, Shah D, [Valderrabano M](https://profiles.viictr.org/profile/266087), Schulz DG, **Raizner A** , Schmitz C, Alt EU. Unmodified autologous stem cells at point of care for chronic myocardial infarction. World J Stem Cells. 2019 Oct 26; 11(10):831-858. PMID: [31692971](//www.ncbi.nlm.nih.gov/pubmed/31692971); PMCID: [PMC6828597](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6828597).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31692971/citedby/)
+
+  5. **Raizner AE** , Cooke JP. Dietary Supplements: Facts and Fallacies. Methodist Debakey Cardiovasc J. 2019 Jul-Sep; 15(3):169-170. PMID: [31687094](//www.ncbi.nlm.nih.gov/pubmed/31687094); PMCID: [PMC6822645](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6822645).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31687094/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  6. Sunkara A, **Raizner A**. Supplemental Vitamins and Minerals for Cardiovascular Disease Prevention and Treatment. Methodist Debakey Cardiovasc J. 2019 Jul-Sep; 15(3):179-184. PMID: [31687096](//www.ncbi.nlm.nih.gov/pubmed/31687096); PMCID: [PMC6822653](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6822653).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31687096/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  7. **Raizner AE**. Coenzyme Q10. Methodist Debakey Cardiovasc J. 2019 Jul-Sep; 15(3):185-191. PMID: [31687097](//www.ncbi.nlm.nih.gov/pubmed/31687097); PMCID: [PMC6822644](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6822644).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31687097/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:HumansAnimals
+
+  8. Alviar CL, Tellez A, Wang M, Potts P, Smith D, Tsui M, Budzynski W, **Raizner AE** , [Kleiman NS](https://profiles.viictr.org/profile/267822), Lev EI, Granada JF, Kaluza GL. Low-dose sirolimus-eluting hydroxyapatite coating on stents does not increase platelet activation and adhesion ex vivo. J Thromb Thrombolysis. 2012 Jul; 34(1):91-8. PMID: [22350685](//www.ncbi.nlm.nih.gov/pubmed/22350685).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22350685/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:HumansCTClinical Trials
+
+  9. Furlan AJ, Reisman M, Massaro J, Mauri L, Adams H, Albers GW, Felberg R, Herrmann H, Kar S, Landzberg M, **Raizner A** , Wechsler L, CLOSURE I Investigators. Closure or medical therapy for cryptogenic stroke with patent foramen ovale. N Engl J Med. 2012 Mar 15; 366(11):991-9. PMID: [22417252](//www.ncbi.nlm.nih.gov/pubmed/22417252).
+
+Citations:
+[224](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22417252/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  10. Furlan AJ, Reisman M, Massaro J, Mauri L, Adams H, Albers GW, Felberg R, Herrmann H, Kar S, Landzberg M, **Raizner A** , Wechsler L, CLOSURE I Investigators. Study design of the CLOSURE I Trial: a prospective, multicenter, randomized, controlled trial to evaluate the safety and efficacy of the STARFlex septal closure system versus best medical therapy in patients with stroke or transient ischemic attack due to presumed paradoxical embolism through a patent foramen ovale. Stroke. 2010 Dec; 41(12):2872-83. PMID: [21051670](//www.ncbi.nlm.nih.gov/pubmed/21051670).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21051670/citedby/) Fields:
+
+Bra BrainVas Vascular Diseases
+
+Translation:HumansPHPublic Health
+
+  11. Novack V, Cutlip D, [Kleiman N](https://profiles.viictr.org/profile/267822), Pencina M, Mauri L, Yen CH, Berger P, Goldberg S, Kellett M, Waksman R, Hong M, **Raizner AE** , Cohen DJ. In-hospital and 1-year outcomes among unselected percutaneous coronary intervention patients treated with either sirolimus- or paclitaxel-eluting stents: results from the EVENT (Evaluation of Drug Eluting Stents and Ischemic Events) registry. JACC Cardiovasc Interv. 2009 Aug; 2(8):767-75. PMID: [19695546](//www.ncbi.nlm.nih.gov/pubmed/19695546).
+
+Citations:  Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  12. **Raizner AE**. Magnetic navigation: a pivotal technology. Catheter Cardiovasc Interv. 2007 May 01; 69(6):856. PMID: [17427904](//www.ncbi.nlm.nih.gov/pubmed/17427904).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17427904/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  13. Weisz G, Moses JW, Teirstein PS, Holmes DR, **Raizner AE** , Satler LF, Mishkel G, Wilensky RL, Wang P, Kuntz RE, Popma JJ, Leon MB. Safety of sirolimus-eluting stenting and its effect on restenosis in patients with unstable angina pectoris (a SIRIUS substudy). Am J Cardiol. 2007 Apr 15; 99(8):1044-50. PMID: [17437725](//www.ncbi.nlm.nih.gov/pubmed/17437725).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17437725/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  14. Granada JF, Wallace-Bradley D, Win HK, Alviar CL, Builes A, Lev EI, Barrios R, Schulz DG, **Raizner AE** , Kaluza GL. In vivo plaque characterization using intravascular ultrasound-virtual histology in a porcine model of complex coronary lesions. Arterioscler Thromb Vasc Biol. 2007 Feb; 27(2):387-93. PMID: [17138936](//www.ncbi.nlm.nih.gov/pubmed/17138936).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17138936/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Animals
+
+  15. Hirohata A, Morino Y, Ako J, Sakurai R, Buchbinder M, Caputo RP, Karas SP, Mishkel GJ, Mooney MR, O'shaughnessy CD, **Raizner AE** , Wilensky RL, Williams DO, Wong SC, Yock PG, Honda Y, Moses JW, Fitzgerald PJ, DIRECT Investigators. Comparison of the efficacy of direct coronary stenting with sirolimus-eluting stents versus stenting with predilation by intravascular ultrasound imaging (from the DIRECT trial). Am J Cardiol. 2006 Dec 01; 98(11):1464-7. PMID: [17126651](//www.ncbi.nlm.nih.gov/pubmed/17126651).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17126651/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  16. Lev EI, Tayyan N, **Raizner AE** , [Solomon SL](https://profiles.viictr.org/profile/266815), Simmons D, [Kleiman NS](https://profiles.viictr.org/profile/267822). Initial impact of drug-eluting stent use on the spectrum of patients undergoing percutaneous coronary intervention. Coron Artery Dis. 2006 May; 17(4):379-84. PMID: [16707962](//www.ncbi.nlm.nih.gov/pubmed/16707962).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16707962/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  17. Rodriguez AE, Granada JF, Vigo CF, Delgado J, Fernandez-Pereira C, Pocovi A, Rodriguez-Granillo AM, Schulz D, **Raizner AE** , Palacios I, O'Neill W, Kaluza GL, Stone G, ORAR II Investigators, Rodriguez-Alemparte M. Oral rapamycin after coronary bare-metal stent implantation to prevent restenosis: the Prospective, Randomized Oral Rapamycin in Argentina (ORAR II) Study. J Am Coll Cardiol. 2006 Apr 18; 47(8):1522-9. PMID: [16630986](//www.ncbi.nlm.nih.gov/pubmed/16630986).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16630986/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  18. Atmakuri SR, Lev EI, Alviar C, Ibarra E, **Raizner AE** , [Solomon SL](https://profiles.viictr.org/profile/266815), [Kleiman NS](https://profiles.viictr.org/profile/267822). Initial experience with a magnetic navigation system for percutaneous coronary intervention in complex coronary artery lesions. J Am Coll Cardiol. 2006 Feb 07; 47(3):515-21. PMID: [16458129](//www.ncbi.nlm.nih.gov/pubmed/16458129).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16458129/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  19. Granada JF, Ensenat D, Keswani AN, Kaluza GL, **Raizner AE** , Liu XM, Peyton KJ, Azam MA, Wang H, Durante W. Single perivascular delivery of mitomycin C stimulates p21 expression and inhibits neointima formation in rat arteries. Arterioscler Thromb Vasc Biol. 2005 Nov; 25(11):2343-8. PMID: [16141400](//www.ncbi.nlm.nih.gov/pubmed/16141400).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16141400/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:AnimalsCells
+
+  20. Granada JF, Moreno PR, Burke AP, Schulz DG, **Raizner AE** , Kaluza GL. Endovascular needle injection of cholesteryl linoleate into the arterial wall produces complex vascular lesions identifiable by intravascular ultrasound: early development in a porcine model of vulnerable plaque. Coron Artery Dis. 2005 Jun; 16(4):217-24. PMID: [15915073](//www.ncbi.nlm.nih.gov/pubmed/15915073).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15915073/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Animals
+
+  21. Hermiller JB, **Raizner A** , Cannon L, Gurbel PA, Kutcher MA, Wong SC, Russell ME, Ellis SG, Mehran R, Stone GW, TAXUS-IV Investigators. Outcomes with the polymer-based paclitaxel-eluting TAXUS stent in patients with diabetes mellitus: the TAXUS-IV trial. J Am Coll Cardiol. 2005 Apr 19; 45(8):1172-9. PMID: [15837245](//www.ncbi.nlm.nih.gov/pubmed/15837245).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15837245/citedby/) Fields:
+
+Car Cardiology
+
+Translation:HumansCTClinical Trials
+
+  22. Buergler JM, Maliszewski CR, Broekman MJ, Kaluza GL, Schulz DG, Marcus AJ, **Raizner AE** , [Kleiman NS](https://profiles.viictr.org/profile/267822), Ali NM. Effects of SolCD39, a novel inhibitor of Platelet Aggregation, on Platelet Deposition and Aggregation after PTCA in a Porcine Model. J Thromb Thrombolysis. 2005 Apr; 19(2):115-22. PMID: [16052302](//www.ncbi.nlm.nih.gov/pubmed/16052302).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16052302/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:HumansAnimals
+
+  23. Conklin LD, McAninch RE, Schulz D, Kaluza GL, [LeMaire SA](https://profiles.viictr.org/profile/269388), [Coselli JS](https://profiles.viictr.org/profile/267370), **Raizner AE** , Sutton RE. HIV-based vectors and angiogenesis following rabbit hindlimb ischemia. J Surg Res. 2005 Jan; 123(1):55-66. PMID: [15652951](//www.ncbi.nlm.nih.gov/pubmed/15652951).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15652951/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:AnimalsCells
+
+  24. Mintz GS, Hong MK, **Raizner AE** , Lee CW, Kim JJ, Escolar E, Fearnot NE, Park SW, Park SJ, Weissman NJ. Comparison of quantitative angiographic parameters with the magnitude of neointimal hyperplasia measured by volumetric intravascular ultrasound in patients treated with bare metal and nonpolymeric paclitaxel-coated stents. Am J Cardiol. 2005 Jan 01; 95(1):105-7. PMID: [15619403](//www.ncbi.nlm.nih.gov/pubmed/15619403).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15619403/citedby/) Fields:
+
+Car Cardiology
+
+Translation:HumansCTClinical Trials
+
+  25. Mintz GS, Hong MK, **Raizner AE** , Lee CW, Kim JJ, Escolar E, Fearnot NE, Park SW, Park SJ, Weissman NJ. Intravascular ultrasound assessment of neointima distribution and the length of stent that was free of intravascular ultrasound-detectable intimal hyperplasia in paclitaxel-eluting stents. Am J Cardiol. 2005 Jan 01; 95(1):107-9. PMID: [15619404](//www.ncbi.nlm.nih.gov/pubmed/15619404).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:HumansCTClinical Trials
+
+  26. Kaluza GL, **Raizner AE**. Brachytherapy for restenosis after stenting for coronary artery disease: its role in the drug-eluting stent era. Curr Opin Cardiol. 2004 Nov; 19(6):601-7. PMID: [15502506](//www.ncbi.nlm.nih.gov/pubmed/15502506).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15502506/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  27. Kaluza GL, Gershlick AH, Park SJ, De Scheerder I, Chevalier B, Camenzind E, Goy JJ, Missault L, Reifart N, Vrints C, Urban P, Shim WH, [Ho DS](https://profiles.viictr.org/profile/267305), Fearnot NE, Voorhees WD, **Raizner AE**. Comparison of neointimal formation in polymer-free paclitaxel stents versus stainless stents (from the ASPECT and ELUTES randomized clinical trials). Am J Cardiol. 2004 Jul 15; 94(2):199-201. PMID: [15246901](//www.ncbi.nlm.nih.gov/pubmed/15246901).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15246901/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  28. Granada JF, Kaluza GL, **Raizner AE** , Moreno PR. Vulnerable plaque paradigm: prediction of future clinical events based on a morphological definition. Catheter Cardiovasc Interv. 2004 Jul; 62(3):364-74. PMID: [15224306](//www.ncbi.nlm.nih.gov/pubmed/15224306).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15224306/citedby/) Fields:
+
+Car Cardiology
+
+Translation:HumansAnimals
+
+  29. Gershlick A, De Scheerder I, Chevalier B, Stephens-Lloyd A, Camenzind E, Vrints C, Reifart N, Missault L, Goy JJ, Brinker JA, **Raizner AE** , Urban P, Heldman AW. Inhibition of restenosis with a paclitaxel-eluting, polymer-free coronary stent: the European evaLUation of pacliTaxel Eluting Stent (ELUTES) trial. Circulation. 2004 Feb 03; 109(4):487-93. PMID: [14744971](//www.ncbi.nlm.nih.gov/pubmed/14744971).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14744971/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:HumansCTClinical Trials
+
+  30. Plana JC, Iskander SS, Ostrowski ML, Howell JF, Kurrelmeyer K, **Raizner AE** , Zoghbi WA. Cardiac angiosarcoma: an unusual presentation simulating mitral stenosis and constrictive-effusive pericarditis. J Am Soc Echocardiogr. 2003 Dec; 16(12):1331-3. PMID: [14652616](//www.ncbi.nlm.nih.gov/pubmed/14652616).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14652616/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  31. Okura H, Lee DP, Lo S, Yeung AC, Honda Y, Waksman R, Kaluza GL, Ali NM, Bonneau HN, Yock PG, **Raizner AE** , Mintz GS, Fitzgerald PJ. Late incomplete apposition with excessive remodeling of the stented coronary artery following intravascular brachytherapy. Am J Cardiol. 2003 Sep 01; 92(5):587-90. PMID: [12943881](//www.ncbi.nlm.nih.gov/pubmed/12943881).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12943881/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  32. Granada JF, Kaluza GL, **Raizner A**. Drug-eluting stents for cardiovascular disorders. Curr Atheroscler Rep. 2003 Jul; 5(4):308-16. PMID: [12793972](//www.ncbi.nlm.nih.gov/pubmed/12793972).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12793972/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  33. Costantini CO, Lansky AJ, Mintz GS, Shirai K, Teirstein PS, Stone G, Vandertie L, Proctor B, Fahy M, Yeung A, **Raizner AE** , Waksman R, Leon MB, INHIBIT trial. Implications of the presence and length of "geographic miss" on restenosis and the edge phenomenon in the INHIBIT trial. Am J Cardiol. 2003 May 15; 91(10):1261-5. PMID: [12745117](//www.ncbi.nlm.nih.gov/pubmed/12745117).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:HumansCTClinical Trials
+
+  34. Shirai K, Lansky AJ, Mintz GS, Costantini CO, Cristea E, Fahy M, Vandertie L, Yeung A, **Raizner AE** , Waksman R, Leon MB. Feasibility and efficacy of tandem positioning on angiographic and clinical outcomes in the Intimal Hyperplasia Inhibition with Beta In-Stent Trial. Am J Cardiol. 2003 May 01; 91(9):1113-5. PMID: [12714158](//www.ncbi.nlm.nih.gov/pubmed/12714158).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:HumansCTClinical Trials
+
+  35. Park SJ, Shim WH, Ho DS, **Raizner AE** , Park SW, Hong MK, Lee CW, Choi D, Jang Y, Lam R, Weissman NJ, Mintz GS. A paclitaxel-eluting stent for the prevention of coronary restenosis. N Engl J Med. 2003 Apr 17; 348(16):1537-45. PMID: [12700373](//www.ncbi.nlm.nih.gov/pubmed/12700373).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12700373/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCTClinical Trials
+
+  36. Waksman R, **Raizner A** , Popma JJ. Beta emitter systems and results from clinical trials. state of the art. Cardiovasc Radiat Med. 2003 Apr-Jun; 4(2):54-63. PMID: [14581084](//www.ncbi.nlm.nih.gov/pubmed/14581084).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14581084/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  37. Fajardo L-G LF, Prionas SD, Kaluza GL, **Raizner AE**. Acute vasculitis after endovascular brachytherapy. Int J Radiat Oncol Biol Phys. 2002 Jul 01; 53(3):714-9. PMID: [12062617](//www.ncbi.nlm.nih.gov/pubmed/12062617).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12062617/citedby/) Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:AnimalsPHPublic Health
+
+  38. Nguyen-Ho P, Kaluza GL, Zymek PT, **Raizner AE**. Intracoronary brachytherapy. Catheter Cardiovasc Interv. 2002 Jun; 56(2):281-8. PMID: [12112930](//www.ncbi.nlm.nih.gov/pubmed/12112930).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  39. Fernandes V, Kaluza GL, Godlewski B, Li G, **Raizner AE**. Novel technique for stent delivery in tortuous coronary arteries: report of three cases. Catheter Cardiovasc Interv. 2002 Apr; 55(4):485-90. PMID: [11948896](//www.ncbi.nlm.nih.gov/pubmed/11948896).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  40. Beusterien KM, Plante KM, Waksman R, **Raizner AE** , Annis M, Goss TF. The cost-effectiveness of beta-radiation therapy for treatment of in-stent restenosis: an analysis at 290-day follow-up. Cardiovasc Radiat Med. 2002 Apr-Jun; 3(2):107-13. PMID: [12699841](//www.ncbi.nlm.nih.gov/pubmed/12699841).
+
+Citations:  Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  41. Fernandes V, Kaluza GL, Zymek PT, DeFelice CA, Hust R, **Raizner AE**. Successful balloon valvuloplasty in an adult patient with severe pulmonic stenosis and aneurysmal poststenotic dilatation. Catheter Cardiovasc Interv. 2002 Mar; 55(3):376-80. PMID: [11870946](//www.ncbi.nlm.nih.gov/pubmed/11870946).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  42. Waksman R, **Raizner AE** , Yeung AC, Lansky AJ, Vandertie L. Use of localised intracoronary beta radiation in treatment of in-stent restenosis: the INHIBIT randomised controlled trial. Lancet. 2002 Feb 16; 359(9306):551-7. PMID: [11867107](//www.ncbi.nlm.nih.gov/pubmed/11867107).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11867107/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCTClinical Trials
+
+  43. Kaluza GL, Jenkins TP, Mourtada FA, Ali NM, Lee DP, Okura H, Fitzgerald PJ, **Raizner AE**. Targeting the adventitia with intracoronary beta-radiation: comparison of two dose prescriptions and the role of centering coronary arteries. Int J Radiat Oncol Biol Phys. 2002 Jan 01; 52(1):184-91. PMID: [11777637](//www.ncbi.nlm.nih.gov/pubmed/11777637).
+
+Citations:  Fields:
+
+Neo NeoplasmsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  44. **Raizner AE** , Kaluza GL. The Proliferation REduction with Vascular ENergy Trial (PREVENT). Curr Control Trials Cardiovasc Med. 2001; 2(1):16-19. PMID: [11806768](//www.ncbi.nlm.nih.gov/pubmed/11806768); PMCID: [PMC59647](//www.ncbi.nlm.nih.gov/pmc/articles/PMC59647).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 44 publications over 13 distinct years, with a maximum of
+7 publications in 2002 and 2003 and
+2005](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,14,100,100,57,100,71,29,0,14,14,0,29,0,0,0,0,0,0,57,0,14,29,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2001| 1  
+2002| 7  
+2003| 7  
+2004| 4  
+2005| 7  
+2006| 5  
+2007| 2  
+2009| 1  
+2010| 1  
+2012| 2  
+2019| 4  
+2021| 1  
+2022| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+RAIZNER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (214)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Dietary Supplements](https://profiles.viictr.org/profile/257526)
+  * [Coronary Restenosis](https://profiles.viictr.org/profile/261868)
+  * [Ubiquinone](https://profiles.viictr.org/profile/263737)
+  * [Stents](https://profiles.viictr.org/profile/240546)
+  * [Cardiovascular Diseases](https://profiles.viictr.org/profile/258680)
+
+[Explore](https://profiles.viictr.org/profile/266535/198)
+
+_
+
+Co-Authors (7)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [KLEIMAN, NEAL](https://profiles.viictr.org/profile/267822)
+  * [HO, DAVID](https://profiles.viictr.org/profile/267305)
+  * [PLANA GOMEZ, JUAN](https://profiles.viictr.org/profile/8065532)
+  * [VALDERRABANO, MIGUEL](https://profiles.viictr.org/profile/266087)
+  * [SOLOMON, STUART](https://profiles.viictr.org/profile/266815)
+
+[Explore](https://profiles.viictr.org/profile/266535/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [BALLANTYNE, CHRISTIE](https://profiles.viictr.org/profile/266404)
+  * [KLEIMAN, NEAL](https://profiles.viictr.org/profile/267822)
+  * [NAMBI, VIJAY](https://profiles.viictr.org/profile/270211)
+  * [BIRNBAUM, YOCHAI](https://profiles.viictr.org/profile/265899)
+
+[Explore](https://profiles.viictr.org/profile/266535/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ABUKHALIL, JOHN](https://profiles.viictr.org/profile/268077)
+  * [ANGELINI, PAOLO](https://profiles.viictr.org/profile/267558)
+  * [KARIM, AMIN](https://profiles.viictr.org/profile/269669)
+  * [LUFSCHANOWSKI, ROBERTO](https://profiles.viictr.org/profile/267782)
+  * [PRITCHETT, ALLISON](https://profiles.viictr.org/profile/269405)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [ATTAR, MOHAMMED](https://profiles.viictr.org/profile/269451)
+  * [MCCOLLUM, CHARLES](https://profiles.viictr.org/profile/267277)
+  * [SHAH, DIPAN](https://profiles.viictr.org/profile/266353)
+  * [VALDERRABANO, MIGUEL](https://profiles.viictr.org/profile/266087)
+  * [VELAMURI, KANTA](https://profiles.viictr.org/profile/266514)
+
+_
+

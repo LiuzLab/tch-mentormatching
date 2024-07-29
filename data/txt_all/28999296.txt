@@ -1,0 +1,414 @@
+## ATIF IQBAL
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Surgery  
+Address| 7200 CAMBRIDGE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F7855yvuMYn0Sq%2fv43aML7CZ&rnd=4dafe810-1064-409a-81ee-126d9ff320d7)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999296)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Iqbal A** , Khan A, Hughes S, George TJ, Tan S, Garcia-Chavez H, Read T. Validation of a pelvic surgery difficulty risk model to predict difficult pelvic dissection and poor outcomes. Surgery. 2023 05; 173(5):1199-1204. PMID: [36801077](//www.ncbi.nlm.nih.gov/pubmed/36801077).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  2. **Iqbal A** , Aijaz N, Hughes SJ, Read TE, Tan SA. The Impact of a Narcotic-Sparing Enhanced Recovery Protocol on Postoperative Narcotic Use Following Colectomy. Dis Colon Rectum. 2023 08 01; 66(8):1102-1109. PMID: [35316244](//www.ncbi.nlm.nih.gov/pubmed/35316244).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+  3. Mi X, Zou B, Rashidi P, Baharloo R, Fillingim RB, Wallace MR, Crispen PL, Parvataneni HK, Prieto HA, Gray CF, Machuca TN, Hughes SJ, Murad GJA, Thomas E, **Iqbal A** , Tighe PJ, Temporal Postoperative Pain Signatures (TEMPOS) Group. Effects of Patient and Surgery Characteristics on Persistent Postoperative Pain: A Mediation Analysis. Clin J Pain. 2021 11 01; 37(11):803-811. PMID: [34475340](//www.ncbi.nlm.nih.gov/pubmed/34475340); PMCID: [PMC8511273](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8511273).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34475340/citedby/) Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Humans
+
+  4. Aryan M, Read T, Goldstein L, Burriss N, Grajo JR, Moser P, George TJ, Tan S, **Iqbal A**. Utility of Restaging MRI Following Neoadjuvant Chemoradiotherapy for Stage II-III Rectal Adenocarcinoma. Cureus. 2021 Oct; 13(10):e19037. PMID: [34858737](//www.ncbi.nlm.nih.gov/pubmed/34858737); PMCID: [PMC8612598](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8612598).
+
+Citations:
+
+  5. Read T, Garcia-Chavez HJ, Scaria D, **Iqbal A**. Impact of Early Exposure to Robotic Surgery Among Pre-clinical Medical Students on Career Choice and Simulation Skills. Am Surg. 2023 Nov; 89(11):4923-4925. PMID: [34547950](//www.ncbi.nlm.nih.gov/pubmed/34547950).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+  6. Verbus EA, Rossi AJ, Luna AJ, **Iqbal A** , Morris VK, Hernandez JM. Circulating Tumor DNA as a Predictive Biomarker in Adjuvant Chemotherapy for Patients with Stage 2A Colon Cancer (COBRA). Ann Surg Oncol. 2021 Aug; 28(8):4095-4097. PMID: [33999346](//www.ncbi.nlm.nih.gov/pubmed/33999346).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33999346/citedby/) Fields:
+
+Gen General SurgeryNeo Neoplasms
+
+Translation:Humans
+
+  7. George TJ, Ivey AM, Ali A, Lee JH, Wang Y, Daily KC, Ramnaraign BH, Tan SA, Terracina KP, Read TE, Dang LH, **Iqbal A**. Activity of Sorafenib Plus Capecitabine in Previously Treated Metastatic Colorectal Cancer. Oncologist. 2021 05; 26(5):362-e724. PMID: [33512054](//www.ncbi.nlm.nih.gov/pubmed/33512054); PMCID: [PMC8100547](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8100547).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansCTClinical Trials
+
+  8. Franke AJ, Skelton WP, George TJ, **Iqbal A**. A Comprehensive Review of Randomized Clinical Trials Shaping the Landscape of Rectal Cancer Therapy. Clin Colorectal Cancer. 2021 03; 20(1):1-19. PMID: [32863179](//www.ncbi.nlm.nih.gov/pubmed/32863179).
+
+Citations:  Fields:
+
+Gas GastroenterologyNeo Neoplasms
+
+Translation:Humans
+
+  9. Skelton WP, Franke AJ, **Iqbal A** , George TJ. Comprehensive literature review of randomized clinical trials examining novel treatment advances in patients with colon cancer. J Gastrointest Oncol. 2020 Aug; 11(4):790-802. PMID: [32953161](//www.ncbi.nlm.nih.gov/pubmed/32953161); PMCID: [PMC7475336](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7475336).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32953161/citedby/)
+
+  10. [Dasari A](https://profiles.viictr.org/profile/12583598), [Morris VK](https://profiles.viictr.org/profile/17440039), Allegra CJ, Atreya C, Benson AB, Boland P, Chung K, Copur MS, Corcoran RB, Deming DA, Dwyer A, Diehn M, [Eng C](https://profiles.viictr.org/profile/12583785), George TJ, Gollub MJ, Goodwin RA, [Hamilton SR](https://profiles.viictr.org/profile/12583714), Hechtman JF, Hochster H, Hong TS, Innocenti F, **Iqbal A** , Jacobs SA, Kennecke HF, Lee JJ, Lieu CH, Lenz HJ, Lindwasser OW, [Odisio B](https://profiles.viictr.org/profile/12583150), Ou FS, Porter L, [Raghav K](https://profiles.viictr.org/profile/12582798), Schrag D, Scott AJ, Shi Q, Strickler JH, Venook A, Yaeger R, Yothers G, You YN, Zell JA, Kopetz S, Montagut C. ctDNA applications and integration in colorectal cancer: an NCI Colon and Rectal-Anal Task Forces whitepaper. Nat Rev Clin Oncol. 2020 12; 17(12):757-770. PMID: [32632268](//www.ncbi.nlm.nih.gov/pubmed/32632268); PMCID: [PMC7790747](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7790747).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32632268/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  11. Delitto D, Loftus TJ, **Iqbal A**. Age-dependent response to multimodal therapy for stage II-III rectal cancer. Oncotarget. 2019 Jul 23; 10(45):4615. PMID: [31384389](//www.ncbi.nlm.nih.gov/pubmed/31384389); PMCID: [PMC6659795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6659795).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+  12. Filiberto AC, Le CB, Loftus TJ, Cooper LA, Shaw C, Sarosi GA, **Iqbal A** , Tan SA. Gender differences among surgical fellowship program directors. Surgery. 2019 11; 166(5):735-737. PMID: [31256855](//www.ncbi.nlm.nih.gov/pubmed/31256855).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31256855/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  13. Tang Y, Tan SA, **Iqbal A** , Li J, Glover SC. STAT3 Genotypic Variant rs744166 and Increased Tyrosine Phosphorylation of STAT3 in IL-23 Responsive Innate Lymphoid Cells during Pathogenesis of Crohn's Disease. J Immunol Res. 2019; 2019:9406146. PMID: [31321245](//www.ncbi.nlm.nih.gov/pubmed/31321245); PMCID: [PMC6610725](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6610725).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31321245/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  14. Filiberto AC, Loftus TJ, Tan SA, Read TE, **Iqbal A**. Sigmoido-rectal intussusception. SAGE Open Med Case Rep. 2019; 7:2050313X19856242. PMID: [31217975](//www.ncbi.nlm.nih.gov/pubmed/31217975); PMCID: [PMC6558527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6558527).
+
+Citations:
+
+  15. Delitto D, Loftus TJ, **Iqbal A**. Pathologic stage dictates survival after neoadjuvant radiation for rectal cancer. Oncotarget. 2018 Oct 26; 9(84):35474-35475. PMID: [30464801](//www.ncbi.nlm.nih.gov/pubmed/30464801); PMCID: [PMC6231453](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6231453).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+  16. Stoner PL, Kamel A, Ayoub F, Tan S, **Iqbal A** , Glover SC, Zimmermann EM. Perioperative Care of Patients with Inflammatory Bowel Disease: Focus on Nutritional Support. Gastroenterol Res Pract. 2018; 2018:7890161. PMID: [30344603](//www.ncbi.nlm.nih.gov/pubmed/30344603); PMCID: [PMC6174741](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6174741).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30344603/citedby/)
+
+  17. Ayoub F, Kamel AY, Ouni A, Chaudhry N, Ader Y, Tan S, **Iqbal A** , Zimmermann EM, Glover SC. Pre-operative total parenteral nutrition improves post-operative outcomes in a subset of Crohn's disease patients undergoing major abdominal surgery. Gastroenterol Rep (Oxf). 2019 Apr; 7(2):107-114. PMID: [30976423](//www.ncbi.nlm.nih.gov/pubmed/30976423); PMCID: [PMC6454845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6454845).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30976423/citedby/)
+
+  18. Kamel AY, [Ayoub F](https://profiles.viictr.org/profile/40860132), Banerjee D, Chaudhry N, Ader Y, Tan S, Zimmermann EM, Glover SC, **Iqbal A**. Effects of Preoperative Use of Biologic Agents on Operative Outcomes in Crohn's Disease Patients. Am Surg. 2018 Sep 01; 84(9):1526-1530. PMID: [30268188](//www.ncbi.nlm.nih.gov/pubmed/30268188).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30268188/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  19. Stewart DC, Berrie D, Li J, Liu X, Rickerson C, Mkoji D, **Iqbal A** , Tan S, Doty AL, Glover SC, Simmons CS. Quantitative assessment of intestinal stiffness and associations with fibrosis in human inflammatory bowel disease. PLoS One. 2018; 13(7):e0200377. PMID: [29995938](//www.ncbi.nlm.nih.gov/pubmed/29995938); PMCID: [PMC6040714](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6040714).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29995938/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimals
+
+  20. Kolarich A, George TJ, Hughes SJ, Delitto D, Allegra CJ, Hall WA, [Chang GJ](https://profiles.viictr.org/profile/12583822), Tan SA, Shaw CM, **Iqbal A**. Rectal cancer patients younger than 50 years lack a survival benefit from NCCN guideline-directed treatment for stage II and III disease. Cancer. 2018 09 01; 124(17):3510-3519. PMID: [29984547](//www.ncbi.nlm.nih.gov/pubmed/29984547); PMCID: [PMC10450543](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10450543).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29984547/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  21. **Iqbal A** , Sakharuk I, Goldstein L, Tan SA, Qiu P, Li Z, Hughes SJ. Readmission After Elective Ileostomy in Colorectal Surgery Is Predictable. JSLS. 2018 Jul-Sep; 22(3). PMID: [30275672](//www.ncbi.nlm.nih.gov/pubmed/30275672); PMCID: [PMC6158969](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6158969).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30275672/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  22. **Iqbal A** , Khan A, George TJ, Tan S, Qiu P, Yang K, Trevino J, Hughes S. Objective Preoperative Parameters Predict Difficult Pelvic Dissections and Clinical Outcomes. J Surg Res. 2018 12; 232:15-25. PMID: [30463711](//www.ncbi.nlm.nih.gov/pubmed/30463711).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  23. Delitto D, George TJ, Loftus TJ, Qiu P, [Chang GJ](https://profiles.viictr.org/profile/12583822), Allegra CJ, Hall WA, Hughes SJ, Tan SA, Shaw CM, **Iqbal A**. Prognostic Value of Clinical vs Pathologic Stage in Rectal Cancer Patients Receiving Neoadjuvant Therapy. J Natl Cancer Inst. 2018 05 01; 110(5):460-466. PMID: [29165692](//www.ncbi.nlm.nih.gov/pubmed/29165692); PMCID: [PMC6279292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6279292).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29165692/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  24. **Iqbal A** , Sakharuk I, Tan S, Hughes SJ, Sarosi G. Improvement in Resident Robotic Surgical Perception with a Cadaver Training Lab: A Pilot Study. Am Surg. 2017 Nov 01; 83(11):e414-e420. PMID: [30454223](//www.ncbi.nlm.nih.gov/pubmed/30454223).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  25. **Iqbal A** , George TJ. Randomized Clinical Trials in Colon and Rectal Cancer. Surg Oncol Clin N Am. 2017 10; 26(4):689-704. PMID: [28923225](//www.ncbi.nlm.nih.gov/pubmed/28923225).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28923225/citedby/) Fields:
+
+Gen General SurgeryNeo Neoplasms
+
+Translation:Humans
+
+  26. Hall DJ, Shaw CM, **Iqbal A** , Tan SA. The Uterine Flap: An Option for Autogenous Repair of Perineal Hernia after Abdominoperineal Resection. Am Surg. 2017 Aug 01; 83(8):e324-325. PMID: [28822376](//www.ncbi.nlm.nih.gov/pubmed/28822376).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28822376/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  27. Franke AJ, **Iqbal A** , Starr JS, Nair RM, George TJ. Management of Malignant Bowel Obstruction Associated With GI Cancers. J Oncol Pract. 2017 07; 13(7):426-434. PMID: [28697317](//www.ncbi.nlm.nih.gov/pubmed/28697317).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28697317/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  28. Franke AJ, Parekh H, Starr JS, Tan SA, **Iqbal A** , George TJ. Total Neoadjuvant Therapy: A Shifting Paradigm in Locally Advanced Rectal Cancer Management. Clin Colorectal Cancer. 2018 03; 17(1):1-12. PMID: [28803718](//www.ncbi.nlm.nih.gov/pubmed/28803718).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28803718/citedby/) Fields:
+
+Gas GastroenterologyNeo Neoplasms
+
+Translation:Humans
+
+  29. Aijaz T, Singhal D, Tan SA, **Iqbal A**. A novel method of minimally invasive rectus abdominis muscle flap harvest: Laparoscopic surgeons take note. J Minim Access Surg. 2017 Apr-Jun; 13(2):146-147. PMID: [28281481](//www.ncbi.nlm.nih.gov/pubmed/28281481); PMCID: [PMC5363123](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5363123).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28281481/citedby/)
+
+  30. Aijaz N, Draganov P, **Iqbal A** , Liu X. Coexistence of Juvenile-Like Polyp with Neurofibroma at the Gastroesophageal Junction in an Adult with Neurofibromatosis Type I. Case Rep Pathol. 2017; 2017:9836759. PMID: [28168076](//www.ncbi.nlm.nih.gov/pubmed/28168076); PMCID: [PMC5266816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5266816).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28168076/citedby/)
+
+  31. Peters HC, Liu X, **Iqbal A** , Cunningham LA, Tan SA. Colorectal Cancer Metastasis to the Thymus Gland: Rare Presentation of Colorectal Cancer as Anterior Mediastinal Mass. Case Rep Surg. 2017; 2017:6581965. PMID: [28116210](//www.ncbi.nlm.nih.gov/pubmed/28116210); PMCID: [PMC5237732](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5237732).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28116210/citedby/)
+
+  32. **Iqbal A** , Raza A, Huang E, Goldstein L, Hughes SJ, Tan SA. Cost Effectiveness of a Novel Attempt to Reduce Readmission after Ileostomy Creation. JSLS. 2017 Jan-Mar; 21(1). PMID: [28144122](//www.ncbi.nlm.nih.gov/pubmed/28144122); PMCID: [PMC5266511](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5266511).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28144122/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  33. Raza A, Safar B, Jamil R, Goldstein L, Tan S, **Iqbal A**. Concomitant Laparoscopic Ileocolectomy and Ladd's Procedure for Crohn's Ileocolitis with Mesenteric Abscess and Congenital Megacolon. Am Surg. 2016 09; 82(9):e284-6. PMID: [27670550](//www.ncbi.nlm.nih.gov/pubmed/27670550).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  34. Goldstein L, **Iqbal A** , Tan S. Laparoscopic treatment of adult intussusception. Am Surg. 2014 Jul; 80(7):e187-8. PMID: [24987879](//www.ncbi.nlm.nih.gov/pubmed/24987879).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24987879/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  35. Kim SS, Kim T, Tan SA, Goldstein LE, **Iqbal A**. Combined abdominal and paracoccygeal resection of presacral aggressive angiomyxoma. Am Surg. 2013 Aug; 79(8):E262-3. PMID: [23896229](//www.ncbi.nlm.nih.gov/pubmed/23896229).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 35 publications over 10 distinct years, with a maximum of
+9 publications in 2017 and
+2018](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,11,0,11,100,100,44,33,56,11,11,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2013| 1  
+2014| 1  
+2016| 1  
+2017| 9  
+2018| 9  
+2019| 4  
+2020| 3  
+2021| 5  
+2022| 1  
+2023| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+IQBAL's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (157)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Rectal Neoplasms](https://profiles.viictr.org/profile/244204)
+  * [Ileostomy](https://profiles.viictr.org/profile/252402)
+  * [Crohn Disease](https://profiles.viictr.org/profile/253676)
+  * [Patient Readmission](https://profiles.viictr.org/profile/261013)
+  * [Robotic Surgical Procedures](https://profiles.viictr.org/profile/27547395)
+
+[Explore](https://profiles.viictr.org/profile/28999296/198)
+
+_
+
+Co-Authors (8)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [CHANG, GEORGE J](https://profiles.viictr.org/profile/12583822)
+  * [DASARI, NAGESHWARA V.](https://profiles.viictr.org/profile/12583598)
+  * [AYOUB, FARES](https://profiles.viictr.org/profile/40860132)
+  * [HAMILTON, STANLEY R](https://profiles.viictr.org/profile/12583714)
+  * [ENG, CATHY](https://profiles.viictr.org/profile/12583785)
+
+[Explore](https://profiles.viictr.org/profile/28999296/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [CHANG, GEORGE J](https://profiles.viictr.org/profile/12583822)
+  * [MINSKY, BRUCE](https://profiles.viictr.org/profile/12583973)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [DAS, PRAJNAN](https://profiles.viictr.org/profile/12583051)
+  * [VAUTHEY, JEAN NICOLAS](https://profiles.viictr.org/profile/12582959)
+
+[Explore](https://profiles.viictr.org/profile/28999296/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BONEFAS, ELIZABETH](https://profiles.viictr.org/profile/268167)
+  * [BUSH, RUTH](https://profiles.viictr.org/profile/23478767)
+  * [CHOI, EUGENE](https://profiles.viictr.org/profile/15317944)
+  * [KHANSA, IBRAHIM](https://profiles.viictr.org/profile/43473406)
+  * [ROJAS-KHALIL, YESENIA](https://profiles.viictr.org/profile/28999538)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9QYVsPLp/MLn0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

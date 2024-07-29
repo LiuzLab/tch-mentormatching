@@ -1,0 +1,181 @@
+## XIAOLI QI
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=DqIx7mnObrr8Zo3u7TXHLqE%3d&rnd=5cd3fba8-9350-4c71-9a64-a452f5045c07)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999112)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Wang J, Lu D, Yu X, **Qi X** , Lin H, [Holloman BL](https://profiles.viictr.org/profile/38304503), Jin F, Xu L, [Ding L](https://profiles.viictr.org/profile/28999484), [Peng W](https://profiles.viictr.org/profile/12582778), Wang M, Chen X. Development of a First-in-Class RIPK1 Degrader to Enhance Antitumor Immunity. Res Sq. 2024 Apr 08. PMID: [38659866](//www.ncbi.nlm.nih.gov/pubmed/38659866); PMCID: [PMC11042424](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11042424).
+
+Citations:
+
+  2. Yu W, Chen Y, [Putluri N](https://profiles.viictr.org/profile/269361), [Osman A](https://profiles.viictr.org/profile/12583945), [Coarfa C](https://profiles.viictr.org/profile/265668), Putluri V, [Kamal AHM](https://profiles.viictr.org/profile/37834421), [Asmussen JK](https://profiles.viictr.org/profile/28999451), [Katsonis P](https://profiles.viictr.org/profile/3009828), [Myers JN](https://profiles.viictr.org/profile/12582564), [Lai SY](https://profiles.viictr.org/profile/12582776), Lu W, Stephan CC, Powell RT, [Johnson FM](https://profiles.viictr.org/profile/12582905), [Skinner HD](https://profiles.viictr.org/profile/12583525), Kazi J, [Ahmed KM](https://profiles.viictr.org/profile/29494116), Hu L, Threet A, Meyer MD, [Bankson JA](https://profiles.viictr.org/profile/12583373), Wang T, Davis J, Parker KR, Harris MA, [Baek ML](https://profiles.viictr.org/profile/28999313), Echeverria GV, **Qi X** , Wang J, Frederick AI, Walsh AJ, [Lichtarge O](https://profiles.viictr.org/profile/269815), Frederick MJ, [Sandulache VC](https://profiles.viictr.org/profile/16943294). Evolution of cisplatin resistance through coordinated metabolic reprogramming of the cellular reductive state. Br J Cancer. 2023 06; 128(11):2013-2024. PMID: [37012319](//www.ncbi.nlm.nih.gov/pubmed/37012319); PMCID: [PMC10205814](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10205814).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37012319/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  3. Lu D, Yu X, Lin H, [Cheng R](https://profiles.viictr.org/profile/35549194), [Monroy EY](https://profiles.viictr.org/profile/34774538), **Qi X** , Wang MC, Wang J. Applications of covalent chemistry in targeted protein degradation. Chem Soc Rev. 2022 Nov 14; 51(22):9243-9261. PMID: [36285735](//www.ncbi.nlm.nih.gov/pubmed/36285735); PMCID: [PMC9669245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9669245).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36285735/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Cells
+
+  4. Yu X, Guo WH, Lin H, [Cheng R](https://profiles.viictr.org/profile/35549194), [Monroy EY](https://profiles.viictr.org/profile/34774538), Jin F, [Ding L](https://profiles.viictr.org/profile/28999484), Lu D, **Qi X** , Wang MC, Wang J. Discovery of a potent BTK and IKZF1/3 triple degrader through reversible covalent BTK PROTAC development. Curr Res Chem Biol. 2022; 2. PMID: [36712232](//www.ncbi.nlm.nih.gov/pubmed/36712232); PMCID: [PMC9879287](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9879287).
+
+Citations:
+
+  5. Guo WH, **Qi X** , Yu X, Liu Y, [Chung CI](https://profiles.viictr.org/profile/43356968), Bai F, Lin X, Lu D, Wang L, Chen J, Su LH, Nomie KJ, Li F, Wang MC, Shu X, Woyach JA, Wang ML, [Wang J](https://profiles.viictr.org/profile/266173), Onuchic JN. Enhancing intracellular accumulation and target engagement of PROTACs with reversible covalent chemistry. Nat Commun. 2020 08 26; 11(1):4268. PMID: [32848159](//www.ncbi.nlm.nih.gov/pubmed/32848159); PMCID: [PMC7450057](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7450057).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32848159/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 5 publications over 4 distinct years, with a maximum of 2
+publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,100,50,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2020| 1  
+2022| 2  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+QI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (25)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Ubiquitin-Protein Ligases](https://profiles.viictr.org/profile/239949)
+  * [Drug Discovery](https://profiles.viictr.org/profile/245352)
+  * [Proteolysis](https://profiles.viictr.org/profile/27546418)
+  * [Head and Neck Neoplasms](https://profiles.viictr.org/profile/257665)
+  * [Kelch-Like ECH-Associated Protein 1](https://profiles.viictr.org/profile/27545018)
+
+[Explore](https://profiles.viictr.org/profile/28999112/198)
+
+_
+
+Co-Authors (22)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SANDULACHE, VLAD](https://profiles.viictr.org/profile/16943294)
+  * [Ding, Lang](https://profiles.viictr.org/profile/28999484)
+  * [Monroy, Erika](https://profiles.viictr.org/profile/34774538)
+  * [Cheng, Ran](https://profiles.viictr.org/profile/35549194)
+  * [PENG, WEIYI](https://profiles.viictr.org/profile/12582778)
+
+[Explore](https://profiles.viictr.org/profile/28999112/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [MYERS, JEFFREY N](https://profiles.viictr.org/profile/12582564)
+  * [LOZANO, GUILLERMINA](https://profiles.viictr.org/profile/12582900)
+  * [ROSENTHAL, DAVID](https://profiles.viictr.org/profile/12582628)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+
+[Explore](https://profiles.viictr.org/profile/28999112/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [EICHELE, GREGOR](https://profiles.viictr.org/profile/268289)
+  * [LUDTKE, STEVEN](https://profiles.viictr.org/profile/270167)
+  * [MALOVANNAYA, ANNA](https://profiles.viictr.org/profile/3010185)
+  * [PILLON, MONICA](https://profiles.viictr.org/profile/33131863)
+  * [VAN NOSTRAND, ERIC](https://profiles.viictr.org/profile/30426460)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

@@ -1,0 +1,365 @@
+## SUKYEONG LEE
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Jac15EXFI4a7Q4v4&rnd=983d4e2d-ee9b-4b2c-9fc9-3ef8f9e104c8)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267678)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267678&cachekey=721f9386-48fd-45ee-950b-cdfb6c64a733)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Lee S** , Roh SH, Lee J, Sung N, Liu J, [Tsai FTF](https://profiles.viictr.org/profile/267524). Cryo-EM Structures of the Hsp104 Protein Disaggregase Captured in the ATP Conformation. Cell Rep. 2019 01 02; 26(1):29-36.e3. PMID: [30605683](//www.ncbi.nlm.nih.gov/pubmed/30605683); PMCID: [PMC6347426](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6347426).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30605683/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  2. Lee J, Kim JH, Biter AB, Sielaff B, **Lee S** , [Tsai FT](https://profiles.viictr.org/profile/267524). Heat shock protein (Hsp) 70 is an activator of the Hsp104 motor. Proc Natl Acad Sci U S A. 2013 May 21; 110(21):8513-8. PMID: [23650362](//www.ncbi.nlm.nih.gov/pubmed/23650362); PMCID: [PMC3666692](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3666692).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23650362/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  3. Biter AB, **Lee S** , Sung N, [Tsai FT](https://profiles.viictr.org/profile/267524). Structural basis for intersubunit signaling in a protein disaggregating machine. Proc Natl Acad Sci U S A. 2012 Jul 31; 109(31):12515-20. PMID: [22802670](//www.ncbi.nlm.nih.gov/pubmed/22802670); PMCID: [PMC3411974](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3411974).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22802670/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  4. Biter AB, Lee J, Sung N, [Tsai FT](https://profiles.viictr.org/profile/267524), **Lee S**. Functional analysis of conserved cis- and trans-elements in the Hsp104 protein disaggregating machine. J Struct Biol. 2012 Aug; 179(2):172-80. PMID: [22634726](//www.ncbi.nlm.nih.gov/pubmed/22634726); PMCID: [PMC3411918](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3411918).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22634726/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  5. **Lee S** , Augustin S, Tatsuta T, Gerdes F, Langer T, [Tsai FT](https://profiles.viictr.org/profile/267524). Electron cryomicroscopy structure of a membrane-anchored mitochondrial AAA protease. J Biol Chem. 2011 Feb 11; 286(6):4404-11. PMID: [21147776](//www.ncbi.nlm.nih.gov/pubmed/21147776); PMCID: [PMC3039362](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3039362).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21147776/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  6. **Lee S** , Sielaff B, Lee J, [Tsai FT](https://profiles.viictr.org/profile/267524). CryoEM structure of Hsp104 and its mechanistic implication for protein disaggregation. Proc Natl Acad Sci U S A. 2010 May 04; 107(18):8135-40. PMID: [20404203](//www.ncbi.nlm.nih.gov/pubmed/20404203); PMCID: [PMC2889573](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2889573).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20404203/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  7. **Lee S** , [Tsai FT](https://profiles.viictr.org/profile/267524). Crystallization and preliminary X-ray crystallographic analysis of a 40 kDa N-terminal fragment of the yeast prion-remodeling factor Hsp104. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2007 Sep 01; 63(Pt 9):784-6. PMID: [17768355](//www.ncbi.nlm.nih.gov/pubmed/17768355); PMCID: [PMC2376311](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2376311).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17768355/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:AnimalsCells
+
+  8. **Lee S** , Choi JM, [Tsai FT](https://profiles.viictr.org/profile/267524). Visualizing the ATPase cycle in a protein disaggregating machine: structural basis for substrate binding by ClpB. Mol Cell. 2007 Jan 26; 25(2):261-71. PMID: [17244533](//www.ncbi.nlm.nih.gov/pubmed/17244533); PMCID: [PMC1855157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1855157).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17244533/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  9. Weibezahn J, Zahn R, **Lee S** , [Tsai FT](https://profiles.viictr.org/profile/267524), Bukau B, Mogk A, Haslberger T. M domains couple the ClpB threading motor with the DnaK chaperone activity. Mol Cell. 2007 Jan 26; 25(2):247-60. PMID: [17244532](//www.ncbi.nlm.nih.gov/pubmed/17244532).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17244532/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  10. Rees I, **Lee S** , Kim H, [Tsai FT](https://profiles.viictr.org/profile/267524). The E3 ubiquitin ligase CHIP binds the androgen receptor in a phosphorylation-dependent manner. Biochim Biophys Acta. 2006 Jun; 1764(6):1073-9. PMID: [16725394](//www.ncbi.nlm.nih.gov/pubmed/16725394).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16725394/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansCells
+
+  11. **Lee S** , [Tsai FT](https://profiles.viictr.org/profile/267524). Molecular chaperones in protein quality control. J Biochem Mol Biol. 2005 May 31; 38(3):259-65. PMID: [15943899](//www.ncbi.nlm.nih.gov/pubmed/15943899).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15943899/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:Cells
+
+  12. Tessarz P, Schlieker C, Zahn R, Maglica Z, **Lee S** , Zentgraf H, Weber-Ban EU, Dougan DA, [Tsai FT](https://profiles.viictr.org/profile/267524), Mogk A, Bukau B, Weibezahn J. Thermotolerance requires refolding of aggregated proteins by substrate translocation through the central pore of ClpB. Cell. 2004 Nov 24; 119(5):653-65. PMID: [15550247](//www.ncbi.nlm.nih.gov/pubmed/15550247).
+
+Citations:
+[220](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15550247/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  13. **Lee S** , Sowa ME, Choi JM, Tsai FT. The ClpB/Hsp104 molecular chaperone-a protein disaggregating machine. J Struct Biol. 2004 Apr-May; 146(1-2):99-105. PMID: [15037241](//www.ncbi.nlm.nih.gov/pubmed/15037241).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15037241/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  14. **Lee S** , Hisayoshi M, Yoshida M, [Tsai FT](https://profiles.viictr.org/profile/267524). Crystallization and preliminary X-ray crystallographic analysis of the Hsp100 chaperone ClpB from Thermus thermophilus. Acta Crystallogr D Biol Crystallogr. 2003 Dec; 59(Pt 12):2334-6. PMID: [14646112](//www.ncbi.nlm.nih.gov/pubmed/14646112).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14646112/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:Cells
+
+  15. **Lee S** , Sowa ME, Watanabe YH, Sigler PB, Chiu W, Yoshida M, [Tsai FT](https://profiles.viictr.org/profile/267524). The structure of ClpB: a molecular chaperone that rescues proteins from an aggregated state. Cell. 2003 Oct 17; 115(2):229-40. PMID: [14567920](//www.ncbi.nlm.nih.gov/pubmed/14567920).
+
+Citations:
+[192](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14567920/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  16. **Lee S** , Kuhn RJ, Rossmann MG. Probing the potential glycoprotein binding site of sindbis virus capsid protein with dioxane and model building. Proteins. 1998 Nov 01; 33(2):311-7. PMID: [9779796](//www.ncbi.nlm.nih.gov/pubmed/9779796).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9779796/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  17. Kovari LC, Momany CA, Miyagi F, **Lee S** , Campbell S, Vuong B, Vogt VM, Rossmann MG. Crystals of Rous sarcoma virus capsid protein show a helical arrangement of protein subunits. Virology. 1997 Nov 10; 238(1):79-84. PMID: [9375011](//www.ncbi.nlm.nih.gov/pubmed/9375011).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9375011/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  18. Hwang KY, Song HK, Chang C, Lee J, **Lee SY** , Kim KK, Choe S, Sweet RM, Suh SW. Crystal structure of thermostable alpha-amylase from Bacillus licheniformis refined at 1.7 A resolution. Mol Cells. 1997 Apr 30; 7(2):251-8. PMID: [9163741](//www.ncbi.nlm.nih.gov/pubmed/9163741).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9163741/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  19. Choi HK, Lu G, **Lee S** , Wengler G, Rossmann MG. Structure of Semliki Forest virus core protein. Proteins. 1997 Mar; 27(3):345-59. PMID: [9094737](//www.ncbi.nlm.nih.gov/pubmed/9094737).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9094737/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  20. Choi HK, **Lee S** , Zhang YP, McKinney BR, Wengler G, Rossmann MG, Kuhn RJ. Structural analysis of Sindbis virus capsid mutants involving assembly and catalysis. J Mol Biol. 1996 Sep 20; 262(2):151-67. PMID: [8831786](//www.ncbi.nlm.nih.gov/pubmed/8831786).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8831786/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  21. **Lee S** , Owen KE, Choi HK, Lee H, Lu G, Wengler G, Brown DT, Rossmann MG, Kuhn RJ. Identification of a protein binding site on the surface of the alphavirus nucleocapsid and its implication in virus assembly. Structure. 1996 May 15; 4(5):531-41. PMID: [8736552](//www.ncbi.nlm.nih.gov/pubmed/8736552).
+
+Citations:
+[81](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8736552/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  22. **Lee SY** , Kim S, Sweet RM, Suh SW. Crystallization and a preliminary X-ray crystallographic study of alpha-amylase from Bacillus licheniformis. Arch Biochem Biophys. 1991 Dec; 291(2):255-7. PMID: [1952938](//www.ncbi.nlm.nih.gov/pubmed/1952938).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1952938/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 21 publications over 12 distinct years, with a maximum of
+3 publications in 1997 and
+2007](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,67,100,33,0,0,0,0,67,67,33,33,100,0,0,67,0,67,33,0,0,0,0,0,33,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1996| 2  
+1997| 3  
+1998| 1  
+2003| 2  
+2004| 2  
+2005| 1  
+2006| 1  
+2007| 3  
+2010| 2  
+2012| 2  
+2013| 1  
+2019| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LEE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (93)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Heat-Shock Proteins](https://profiles.viictr.org/profile/244291)
+  * [Molecular Chaperones](https://profiles.viictr.org/profile/254831)
+  * [Saccharomyces cerevisiae](https://profiles.viictr.org/profile/246460)
+  * [Cryoelectron Microscopy](https://profiles.viictr.org/profile/248518)
+  * [Adenosine Triphosphatases](https://profiles.viictr.org/profile/256298)
+
+[Explore](https://profiles.viictr.org/profile/267678/198)
+
+_
+
+Co-Authors (1)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [TSAI, FRANCIS](https://profiles.viictr.org/profile/267524)
+
+[Explore](https://profiles.viictr.org/profile/267678/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [TSAI, FRANCIS](https://profiles.viictr.org/profile/267524)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [BARTHOLOMEW, BLAINE](https://profiles.viictr.org/profile/12582859)
+  * [LUDTKE, STEVEN](https://profiles.viictr.org/profile/270167)
+  * [IRA, GRZEGORZ](https://profiles.viictr.org/profile/269248)
+
+[Explore](https://profiles.viictr.org/profile/267678/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [JUNG, SUNG](https://profiles.viictr.org/profile/268570)
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [WANG, LIE](https://profiles.viictr.org/profile/17411436)
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+  * [YOUNG, NICOLAS](https://profiles.viictr.org/profile/16943307)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BERGET, SUSAN](https://profiles.viictr.org/profile/268010)
+  * [LUDTKE, STEVEN](https://profiles.viictr.org/profile/270167)
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [STRINGER, JANET](https://profiles.viictr.org/profile/268147)
+  * [WILSON, JOHN](https://profiles.viictr.org/profile/267523)
+
+_
+

@@ -1,0 +1,838 @@
+## KOEN VENKEN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Pb1hsjGUdtLVRIzgrn7GPw%3d%3d&rnd=0df65590-58fb-4868-869a-ff532e9ad24b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3010184)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01GM138781 (VENKEN, KOEN JOZEF THEO)Sep 1, 2020 - May 31, 2025NIH  
+Exploring the limits of luciferase multiplexing to assay multiple cellular
+signaling pathways at once  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R21OD022981 (VENKEN, KOEN JOZEF THEO)Jul 1, 2016 - Jun 30, 2019NIH  
+RESOLVING COMPLEX SYSTEMIC ENDOGENOUS EXPRESSION PATTERNS INTO SUBCELLULAR
+HIGH-RESOLUTION LOCALIZATION  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Venken K** , Decruy T, Sparwasser T, Elewaut D. Tregs protect against invariant NKT cell-mediated autoimmune colitis and hepatitis. Immunology. 2024 Feb; 171(2):277-285. PMID: [37984469](//www.ncbi.nlm.nih.gov/pubmed/37984469).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  2. Hoorens A, Van de Wiele T, Mortier C, Quintelier K, De Craemer AS, Renson T, Deroo L, Dumas E, Verheugen E, Coudenys J, Decruy T, Lukasik Z, Van Gassen S, Saeys Y, Lobat?n T, Van den Bosch F, **Venken K** , Elewaut D. Gut Inflammation in Axial Spondyloarthritis Patients is Characterized by a Marked Type 17 Skewed Mucosal Innate-like T Cell Signature. Arthritis Rheumatol. 2023 11; 75(11):1969-1982. PMID: [37293832](//www.ncbi.nlm.nih.gov/pubmed/37293832).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37293832/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:HumansCells
+
+  3. Van Hoorebeke L, Ambler C, Hegen M, Symanowicz P, Steyn S, Berstein G, Mortier C, Gracey E, Coudenys J, Manuello T, Decruy T, Maelegheer M, Stappers F, Gilis E, Gaublomme D, Van Welden S, Elewaut D, **Venken K**. ROR?t inhibition ameliorates IL-23 driven experimental psoriatic arthritis by predominantly modulating ?d-T cells. Rheumatology (Oxford). 2023 09 01; 62(9):3169-3178. PMID: [36661300](//www.ncbi.nlm.nih.gov/pubmed/36661300).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36661300/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:Animals
+
+  4. **Venken K** , Jarlborg M, Decruy T, Mortier C, Vlieghe C, Gilis E, De Craemer AS, Coudenys J, Cambr? I, Fleury D, Klimowicz A, Van den Bosch F, Hoorens A, Lobaton T, de Roock S, Sparwasser T, Nabozny G, Jacques P, Elewaut D. Distinct immune modulatory roles of regulatory T cells in gut versus joint inflammation in TNF-driven spondyloarthritis. Ann Rheum Dis. 2023 08; 82(8):1076-1090. PMID: [37197892](//www.ncbi.nlm.nih.gov/pubmed/37197892).
+
+Citations:  Fields:
+
+Rhe Rheumatology
+
+Translation:HumansCells
+
+  5. **Venken KJT** , Matinyan N, Gonzalez Y, [Dierick HA](https://profiles.viictr.org/profile/265943). Multiplexed Transgenic Selection and Counterselection Strategies to Expedite Genetic Manipulation Workflows Using Drosophila melanogaster. Curr Protoc. 2023 Feb; 3(2):e652. PMID: [36757287](//www.ncbi.nlm.nih.gov/pubmed/36757287); PMCID: [PMC9923875](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9923875).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Animals
+
+  6. **Venken KJT** , Matinyan N, Gonzalez Y, Sarrion-Perdigones A, [Dierick HA](https://profiles.viictr.org/profile/265943). Synthetic Assembly DNA Cloning to Build Plasmids for Multiplexed Transgenic Selection, Counterselection or Any Other Genetic Strategies Using Drosophila melanogaster. Curr Protoc. 2023 Feb; 3(2):e653. PMID: [36757602](//www.ncbi.nlm.nih.gov/pubmed/36757602); PMCID: [PMC10281009](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10281009).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Animals
+
+  7. **Venken KJT** , Matinyan N, Gonzalez Y, [Dierick HA](https://profiles.viictr.org/profile/265943). Serial Recombineering Cloning to Build Selectable and Tagged Genomic P[acman] BAC Clones for Selection Transgenesis and Functional Gene Analysis using Drosophila melanogaster. Curr Protoc. 2023 Feb; 3(2):e675. PMID: [36757632](//www.ncbi.nlm.nih.gov/pubmed/36757632); PMCID: [PMC9923880](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9923880).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  8. Beterams A, Calatayud Arroyo M, De Paepe K, De Craemer AS, Elewaut D, **Venken K** , Van de Wiele T. In vitro triple coculture with gut microbiota from spondyloarthritis patients is characterized by inter-individual differences in inflammatory responses. Sci Rep. 2022 06 21; 12(1):10475. PMID: [35729185](//www.ncbi.nlm.nih.gov/pubmed/35729185); PMCID: [PMC9213446](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9213446).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Humans
+
+  9. Chmielowiec J, Szlachcic WJ, Yang D, Scavuzzo MA, Wamble K, Sarrion-Perdigones A, Sabek OM, **Venken KJT** , Borowiak M. Human pancreatic microenvironment promotes ?-cell differentiation via non-canonical WNT5A/JNK and BMP signaling. Nat Commun. 2022 04 12; 13(1):1952. PMID: [35414140](//www.ncbi.nlm.nih.gov/pubmed/35414140); PMCID: [PMC9005503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9005503).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  10. Kandel P, Semerci F, [Mishra R](https://profiles.viictr.org/profile/31422903), Choi W, [Bajic A](https://profiles.viictr.org/profile/3010475), Baluya D, Ma L, Chen K, Cao AC, Phongmekhin T, Matinyan N, [Chamakuri S](https://profiles.viictr.org/profile/12402364), Raji IO, Chang L, Fuentes-Prior P, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), Benn CL, **Venken K** , Moore DD, [Young DW](https://profiles.viictr.org/profile/5099690), [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), Jim?nez-Panizo A, Est?banez-Perpi?? E. Oleic acid is an endogenous ligand of TLX/NR2E1 that triggers hippocampal neurogenesis. Proc Natl Acad Sci U S A. 2022 03 29; 119(13):e2023784119. PMID: [35333654](//www.ncbi.nlm.nih.gov/pubmed/35333654); PMCID: [PMC9060471](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9060471).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35333654/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  11. Sarrion-Perdigones A, Gonzalez Y, **Venken KJT**. Synthetic Assembly DNA Cloning of Multiplex Hextuple Luciferase Reporter Plasmids. Methods Mol Biol. 2022; 2524:409-432. PMID: [35821490](//www.ncbi.nlm.nih.gov/pubmed/35821490); PMCID: [PMC10155188](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10155188).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+  12. Sarrion-Perdigones A, Gonzalez Y, Chang L, Gallego-Flores T, [Young DW](https://profiles.viictr.org/profile/5099690), **Venken KJT**. Multiplex Hextuple Luciferase Assaying. Methods Mol Biol. 2022; 2524:433-456. PMID: [35821491](//www.ncbi.nlm.nih.gov/pubmed/35821491); PMCID: [PMC10157609](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10157609).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  13. Lukasik Z, Gracey E, **Venken K** , Ritchlin C, Elewaut D. Crossing the boundaries: IL-23 and its role in linking inflammation of the skin, gut and joints. Rheumatology (Oxford). 2021 10 19; 60(Suppl 4):iv16-iv27. PMID: [33961030](//www.ncbi.nlm.nih.gov/pubmed/33961030); PMCID: [PMC8527243](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8527243).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33961030/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:HumansAnimals
+
+  14. Matinyan N, Karkhanis MS, Gonzalez Y, Jain A, Saltzman A, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Sarrion-Perdigones A, [Dierick HA](https://profiles.viictr.org/profile/265943), **Venken KJT**. Multiplexed drug-based selection and counterselection genetic manipulations in Drosophila. Cell Rep. 2021 09 14; 36(11):109700. PMID: [34525356](//www.ncbi.nlm.nih.gov/pubmed/34525356); PMCID: [PMC8480232](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8480232).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34525356/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  15. Matinyan N, Gonzalez Y, [Dierick HA](https://profiles.viictr.org/profile/265943), **Venken KJT**. Determining effective drug concentrations for selection and counterselection genetics in Drosophila melanogaster. STAR Protoc. 2021 09 17; 2(3):100783. PMID: [34585147](//www.ncbi.nlm.nih.gov/pubmed/34585147); PMCID: [PMC8458262](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8458262).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  16. Wang J, Liu H, Bertrand RE, Sarrion-Perdigones A, Gonzalez Y, **Venken KJT** , Chen R. A novel statistical method for interpreting the pathogenicity of rare variants. Genet Med. 2021 01; 23(1):59-68. PMID: [32884132](//www.ncbi.nlm.nih.gov/pubmed/32884132); PMCID: [PMC7796914](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7796914).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32884132/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  17. Sarrion-Perdigones A, Gonzalez Y, **Venken KJT**. Rapid and Efficient Synthetic Assembly of Multiplex Luciferase Reporter Plasmids for the Simultaneous Monitoring of Up to Six Cellular Signaling Pathways. Curr Protoc Mol Biol. 2020 06; 131(1):e121. PMID: [32539183](//www.ncbi.nlm.nih.gov/pubmed/32539183); PMCID: [PMC7386564](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7386564).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32539183/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  18. Sarrion-Perdigones A, Chang L, Gonzalez Y, Gallego-Flores T, [Young DW](https://profiles.viictr.org/profile/5099690), **Venken KJT**. Simultaneous Examination of Cellular Pathways using Multiplex Hextuple Luciferase Assaying. Curr Protoc Mol Biol. 2020 06; 131(1):e122. PMID: [32539239](//www.ncbi.nlm.nih.gov/pubmed/32539239); PMCID: [PMC7806208](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7806208).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32539239/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  19. Kundert P, Sarrion-Perdigones A, Gonzalez Y, Katoh-Kurasawa M, Hirose S, [Lehmann P](https://profiles.viictr.org/profile/14348440), **Venken KJT** , [Shaulsky G](https://profiles.viictr.org/profile/267001). A GoldenBraid cloning system for synthetic biology in social amoebae. Nucleic Acids Res. 2020 05 07; 48(8):4139-4146. PMID: [32232356](//www.ncbi.nlm.nih.gov/pubmed/32232356); PMCID: [PMC7192589](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7192589).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32232356/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  20. Govindarajan S, Verheugen E, **Venken K** , Gaublomme D, Maelegheer M, Cloots E, Gysens F, De Geest BG, Cheng TY, Moody DB, Janssens S, Drennan M, Elewaut D. ER stress in antigen-presenting cells promotes NKT cell activation through endogenous neutral lipids. EMBO Rep. 2020 06 04; 21(6):e48927. PMID: [32363653](//www.ncbi.nlm.nih.gov/pubmed/32363653); PMCID: [PMC7271650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7271650).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32363653/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  21. Dumas E, **Venken K** , Rosenbaum JT, Elewaut D. Intestinal Microbiota, HLA-B27, and Spondyloarthritis: Dangerous Liaisons. Rheum Dis Clin North Am. 2020 05; 46(2):213-224. PMID: [32340697](//www.ncbi.nlm.nih.gov/pubmed/32340697).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32340697/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:Humans
+
+  22. Lukasik Z, Elewaut D, **Venken K**. MAIT Cells Come to the Rescue in Cancer Immunotherapy? Cancers (Basel). 2020 Feb 11; 12(2). PMID: [32053875](//www.ncbi.nlm.nih.gov/pubmed/32053875); PMCID: [PMC7072265](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7072265).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32053875/citedby/)
+
+  23. Sarrion-Perdigones A, Chang L, Gonzalez Y, Gallego-Flores T, [Young DW](https://profiles.viictr.org/profile/5099690), **Venken KJT**. Examining multiple cellular pathways at once using multiplex hextuple luciferase assaying. Nat Commun. 2019 12 13; 10(1):5710. PMID: [31836712](//www.ncbi.nlm.nih.gov/pubmed/31836712); PMCID: [PMC6911020](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6911020).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31836712/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  24. Gilis E, Gaublomme D, Staal J, **Venken K** , Dhaenens M, Lambrecht S, Coudenys J, Decruy T, Schryvers N, Driege Y, Dumas E, Demeyer A, van Hengel J, Van Hoorebeke L, Deforce D, Beyaert R, Elewaut D, De Muynck A. Deletion of Mucosa-Associated Lymphoid Tissue Lymphoma Translocation Protein 1 in Mouse T Cells Protects Against Development of Autoimmune Arthritis but Leads to Spontaneous Osteoporosis. Arthritis Rheumatol. 2019 12; 71(12):2005-2015. PMID: [31259485](//www.ncbi.nlm.nih.gov/pubmed/31259485).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31259485/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:AnimalsCells
+
+  25. Benner L, Castro EA, Whitworth C, **Venken KJT** , Yang H, Fang J, Oliver B, Cook KR, Lerit DA. Drosophila Heterochromatin Stabilization Requires the Zinc-Finger Protein Small Ovary. Genetics. 2019 11; 213(3):877-895. PMID: [31558581](//www.ncbi.nlm.nih.gov/pubmed/31558581); PMCID: [PMC6827387](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6827387).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31558581/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  26. Gaublomme D, Schryvers N, Lambrecht S, Lories R, **Venken K** , Elewaut D, Cambr? I. Running promotes chronicity of arthritis by local modulation of complement activators and impairing T regulatory feedback loops. Ann Rheum Dis. 2019 06; 78(6):787-795. PMID: [30928902](//www.ncbi.nlm.nih.gov/pubmed/30928902).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30928902/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:HumansAnimalsCells
+
+  27. **Venken K** , Jacques P, Labadia ME, Decruy T, Coudenys J, Hoyt K, Wayne AL, Hughes R, Turner M, Van Gassen S, Martens L, Smith D, Harcken C, Wahle J, Wang CT, Verheugen E, Schryvers N, Cypers H, Wittoek R, Piette Y, Gyselbrecht L, Van Calenbergh S, Van den Bosch F, Saeys Y, Nabozny G, Elewaut D, Mortier C, Varkas G. ROR?t inhibition selectively targets IL-17 producing iNKT and ?d-T cells enriched in Spondyloarthritis patients. Nat Commun. 2019 01 02; 10(1):9. PMID: [30602780](//www.ncbi.nlm.nih.gov/pubmed/30602780); PMCID: [PMC6315029](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6315029).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30602780/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  28. Janssens J, Bitra A, Wang J, Decruy T, **Venken K** , van der Eycken J, Elewaut D, Zajonc DM, van Calenbergh S. 4"-O-Alkylated a-Galactosylceramide Analogues as iNKT-Cell Antigens: Synthetic, Biological, and Structural Studies. ChemMedChem. 2019 01 08; 14(1):147-168. PMID: [30556652](//www.ncbi.nlm.nih.gov/pubmed/30556652); PMCID: [PMC6428220](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6428220).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30556652/citedby/) Fields:
+
+Che ChemistryPha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  29. De Bruyne M, Bogaert DJ, **Venken K** , Van den Bossche L, Bonroy C, Roels L, Tavernier SJ, van de Vijver E, Driessen A, van Gijn M, Elewaut D, Grimbacher B, Haerynck F, Moes N, Dullaers M, G?mez-Diaz L. A novel LPS-responsive beige-like anchor protein (LRBA) mutation presents with normal cytotoxic T lymphocyte-associated protein 4 (CTLA-4) and overactive TH17 immunity. J Allergy Clin Immunol. 2018 12; 142(6):1968-1971. PMID: [30193839](//www.ncbi.nlm.nih.gov/pubmed/30193839).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30193839/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  30. **Venken K** , Gaublomme D, Menu E, Vanderkerken K, Elewaut D, Favreau M. Checkpoint inhibition in the treatment of multiple myeloma: A way to boost innate-like T cell anti-tumor function? Mol Immunol. 2018 09; 101:521-526. PMID: [30153633](//www.ncbi.nlm.nih.gov/pubmed/30153633).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30153633/citedby/) Fields:
+
+All Allergy and ImmunologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  31. Zhao M, Svensson MND, **Venken K** , Chawla A, Liang S, Engel I, Mydel P, Day J, Elewaut D, Bottini N, Kronenberg M. Altered thymic differentiation and modulation of arthritis by invariant NKT cells expressing mutant ZAP70. Nat Commun. 2018 07 06; 9(1):2627. PMID: [29980684](//www.ncbi.nlm.nih.gov/pubmed/29980684); PMCID: [PMC6035278](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6035278).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29980684/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  32. Govindarajan S, **Venken K** , Elewaut D, Mortier C. It Takes "Guts" to Cause Joint Inflammation: Role of Innate-Like T Cells. Front Immunol. 2018; 9:1489. PMID: [30008717](//www.ncbi.nlm.nih.gov/pubmed/30008717); PMCID: [PMC6033969](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6033969).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30008717/citedby/) Fields:
+
+All Allergy and Immunology
+
+  33. Gilis E, **Venken K** , Debusschere K, Vereecke L, Elewaut D, Mortier C. The Role of the Microbiome in Gut and Joint Inflammation in Psoriatic Arthritis and Spondyloarthritis. J Rheumatol Suppl. 2018 Jun; 94:36-39. PMID: [29858352](//www.ncbi.nlm.nih.gov/pubmed/29858352).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29858352/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:HumansCells
+
+  34. Janssens J, Decruy T, **Venken K** , Seki T, Krols S, Van der Eycken J, Tsuji M, Elewaut D, Van Calenbergh S. Efficient Divergent Synthesis of New Immunostimulant 4?-Modified a-Galactosylceramide Analogues. ACS Med Chem Lett. 2017 Jun 08; 8(6):642-647. PMID: [28626526](//www.ncbi.nlm.nih.gov/pubmed/28626526); PMCID: [PMC5467197](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5467197).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28626526/citedby/)
+
+  35. **Venken K** , Faict S, Maes K, De Veirman K, De Bruyne E, Boon L, Elewaut D, Vanderkerken K, Menu E, Favreau M, Leleu X. Both mucosal-associated invariant and natural killer T-cell deficiency in multiple myeloma can be countered by PD-1 inhibition. Haematologica. 2017 07; 102(7):e266-e270. PMID: [28385777](//www.ncbi.nlm.nih.gov/pubmed/28385777); PMCID: [PMC5566052](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5566052).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28385777/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  36. Guillaume J, Seki T, Decruy T, **Venken K** , Elewaut D, Tsuji M, Van Calenbergh S. Synthesis of C6''-modified a-C-GalCer analogues as mouse and human iNKT cell agonists. Org Biomol Chem. 2017 Mar 08; 15(10):2217-2225. PMID: [28221388](//www.ncbi.nlm.nih.gov/pubmed/28221388).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28221388/citedby/) Fields:
+
+Bio BiochemistryChe Chemistry
+
+Translation:HumansAnimalsCells
+
+  37. Palmer DJ, Grove NC, Ing J, Crane AM, **Venken K** , Davis BR, [Ng P](https://profiles.viictr.org/profile/269950). Homology Requirements for Efficient, Footprintless Gene Editing at the CFTR Locus in Human iPSCs with Helper-dependent Adenoviral Vectors. Mol Ther Nucleic Acids. 2016 Oct 11; 5(10):e372. PMID: [27727248](//www.ncbi.nlm.nih.gov/pubmed/27727248); PMCID: [PMC5095686](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5095686).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27727248/citedby/)
+
+  38. Vanderkerken K, Elewaut D, **Venken K** , Menu E, Favreau M. Does an NKT-cell-based immunotherapeutic approach have a future in multiple myeloma? Oncotarget. 2016 Apr 26; 7(17):23128-40. PMID: [26895468](//www.ncbi.nlm.nih.gov/pubmed/26895468); PMCID: [PMC5029615](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5029615).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26895468/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  39. **Venken K** , Elewaut D. New immune cells in spondyloarthritis: Key players or innocent bystanders? Best Pract Res Clin Rheumatol. 2015 12; 29(6):706-14. PMID: [27107508](//www.ncbi.nlm.nih.gov/pubmed/27107508).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27107508/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:HumansCells
+
+  40. **Venken KJ** , Sarrion-Perdigones A, Vandeventer PJ, Abel NS, [Christiansen AE](https://profiles.viictr.org/profile/267604), Hoffman KL. Genome engineering: Drosophila melanogaster and beyond. Wiley Interdiscip Rev Dev Biol. 2016 Mar-Apr; 5(2):233-67. PMID: [26447401](//www.ncbi.nlm.nih.gov/pubmed/26447401); PMCID: [PMC4761275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4761275).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26447401/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  41. Nagarkar-Jaiswal S, Lee PT, Campbell ME, Chen K, Anguiano-Zarate S, Gutierrez MC, Busby T, Lin WW, He Y, Schulze KL, Booth BW, Evans-Holm M, **Venken KJ** , Levis RW, Spradling AC, Hoskins RA, [Bellen HJ](https://profiles.viictr.org/profile/268278). A library of MiMICs allows tagging of genes and reversible, spatial and temporal knockdown of proteins in Drosophila. Elife. 2015 Mar 31; 4. PMID: [25824290](//www.ncbi.nlm.nih.gov/pubmed/25824290); PMCID: [PMC4379497](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4379497).
+
+Citations:
+[156](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25824290/citedby/)
+Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  42. Gnerer JP, **Venken KJ** , [Dierick HA](https://profiles.viictr.org/profile/265943). Gene-specific cell labeling using MiMIC transposons. Nucleic Acids Res. 2015 Apr 30; 43(8):e56. PMID: [25712101](//www.ncbi.nlm.nih.gov/pubmed/25712101); PMCID: [PMC4417149](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4417149).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25712101/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  43. Shahab J, Baratta C, Scuric B, Godt D, **Venken KJ** , Ringuette MJ. Loss of SPARC dysregulates basal lamina assembly to disrupt larval fat body homeostasis in Drosophila melanogaster. Dev Dyn. 2015 Apr; 244(4):540-52. PMID: [25529377](//www.ncbi.nlm.nih.gov/pubmed/25529377).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25529377/citedby/) Fields:
+
+Ana Anatomy
+
+Translation:AnimalsCells
+
+  44. [Haelterman NA](https://profiles.viictr.org/profile/1826458), Jiang L, Li Y, Bayat V, Sandoval H, Ugur B, Tan KL, Zhang K, Bei D, Xiong B, Charng WL, Busby T, Jawaid A, David G, Jaiswal M, **Venken KJ** , [Yamamoto S](https://profiles.viictr.org/profile/3009536), [Chen R](https://profiles.viictr.org/profile/266790), [Bellen HJ](https://profiles.viictr.org/profile/268278). Large-scale identification of chemically induced mutations in Drosophila melanogaster. Genome Res. 2014 Oct; 24(10):1707-18. PMID: [25258387](//www.ncbi.nlm.nih.gov/pubmed/25258387); PMCID: [PMC4199363](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4199363).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25258387/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  45. **Venken KJ** , [Bellen HJ](https://profiles.viictr.org/profile/268278). Chemical mutagens, transposons, and transgenes to interrogate gene function in Drosophila melanogaster. Methods. 2014 Jun 15; 68(1):15-28. PMID: [24583113](//www.ncbi.nlm.nih.gov/pubmed/24583113); PMCID: [PMC4061744](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4061744).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24583113/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  46. Cassidy JJ, Posadas DM, Giri R, **Venken KJ** , Ji J, Jiang H, [Bellen HJ](https://profiles.viictr.org/profile/268278), Carthew RW, Jha AR, White KP. miR-9a minimizes the phenotypic impact of genomic diversity by buffering a transcription factor. Cell. 2013 Dec 19; 155(7):1556-67. PMID: [24360277](//www.ncbi.nlm.nih.gov/pubmed/24360277); PMCID: [PMC3891883](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3891883).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24360277/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  47. Chen YC, Lin YQ, Banerjee S, **Venken K** , Li J, Ismat A, Chen K, Duraine L, [Bellen HJ](https://profiles.viictr.org/profile/268278), Bhat MA. Drosophila neuroligin 2 is required presynaptically and postsynaptically for proper synaptic differentiation and synaptic transmission. J Neurosci. 2012 Nov 07; 32(45):16018-30. PMID: [23136438](//www.ncbi.nlm.nih.gov/pubmed/23136438); PMCID: [PMC3508708](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3508708).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23136438/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  48. Szabad J, [Bellen HJ](https://profiles.viictr.org/profile/268278), **Venken KJ**. An assay to detect in vivo Y chromosome loss in Drosophila wing disc cells. G3 (Bethesda). 2012 Sep; 2(9):1095-102. PMID: [22973547](//www.ncbi.nlm.nih.gov/pubmed/22973547); PMCID: [PMC3429924](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3429924).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22973547/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:AnimalsCells
+
+  49. Alves-Silva J, Beaven R, Klein M, Parkin J, Millard TH, [Bellen HJ](https://profiles.viictr.org/profile/268278), **Venken KJ** , Ballestrem C, Kammerer RA, Prokop A, S?nchez-Soriano N. Spectraplakins promote microtubule-mediated axonal growth by functioning as structural microtubule-associated proteins and EB1-dependent +TIPs (tip interacting proteins). J Neurosci. 2012 Jul 04; 32(27):9143-58. PMID: [22764224](//www.ncbi.nlm.nih.gov/pubmed/22764224); PMCID: [PMC3666083](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3666083).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22764224/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  50. Geiser J, **Venken KJ** , De Lisle RC, Andrews GK. A mouse model of acrodermatitis enteropathica: loss of intestine zinc transporter ZIP4 (Slc39a4) disrupts the stem cell niche and intestine integrity. PLoS Genet. 2012; 8(6):e1002766. PMID: [22737083](//www.ncbi.nlm.nih.gov/pubmed/22737083); PMCID: [PMC3380849](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3380849).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22737083/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  51. **Venken KJ** , [Bellen HJ](https://profiles.viictr.org/profile/268278). Genome-wide manipulations of Drosophila melanogaster with transposons, Flp recombinase, and FC31 integrase. Methods Mol Biol. 2012; 859:203-28. PMID: [22367874](//www.ncbi.nlm.nih.gov/pubmed/22367874).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22367874/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  52. Wirtz-Peitz F, Lee S, Kwon Y, Buckner M, Hoskins RA, **Venken KJ** , [Bellen HJ](https://profiles.viictr.org/profile/268278), Mohr SE, Perrimon N, Neum?ller RA. Stringent analysis of gene function and protein-protein interactions using fluorescently tagged genes. Genetics. 2012 Mar; 190(3):931-40. PMID: [22174071](//www.ncbi.nlm.nih.gov/pubmed/22174071); PMCID: [PMC3296255](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3296255).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22174071/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  53. **Venken KJ** , Simpson JH, [Bellen HJ](https://profiles.viictr.org/profile/268278). Genetic manipulation of genes and cells in the nervous system of the fruit fly. Neuron. 2011 Oct 20; 72(2):202-30. PMID: [22017985](//www.ncbi.nlm.nih.gov/pubmed/22017985); PMCID: [PMC3232021](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3232021).
+
+Citations:
+[188](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22017985/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  54. **Venken KJ** , Schulze KL, [Haelterman NA](https://profiles.viictr.org/profile/1826458), Pan H, He Y, Evans-Holm M, Carlson JW, Levis RW, Spradling AC, Hoskins RA, [Bellen HJ](https://profiles.viictr.org/profile/268278). MiMIC: a highly versatile transposon insertion resource for engineering Drosophila melanogaster genes. Nat Methods. 2011 Sep; 8(9):737-43. PMID: [21985007](//www.ncbi.nlm.nih.gov/pubmed/21985007); PMCID: [PMC3191940](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3191940).
+
+Citations:
+[319](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21985007/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:AnimalsCells
+
+  55. Zheng L, Michelson Y, Freger V, Avraham Z, **Venken KJ** , [Bellen HJ](https://profiles.viictr.org/profile/268278), Justice MJ, Wides R. Drosophila Ten-m and filamin affect motor neuron growth cone guidance. PLoS One. 2011; 6(8):e22956. PMID: [21857973](//www.ncbi.nlm.nih.gov/pubmed/21857973); PMCID: [PMC3152545](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3152545).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21857973/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  56. Brown CD, Ma L, Bristow CA, Miller SW, Wagner U, Kheradpour P, Eaton ML, Loriaux P, Sealfon R, Li Z, Ishii H, Spokony RF, Chen J, Hwang L, [Cheng C](https://profiles.viictr.org/profile/28652472), Auburn RP, Davis MB, Domanus M, Shah PK, Morrison CA, Zieba J, Suchy S, Senderowicz L, Victorsen A, Bild NA, Grundstad AJ, Hanley D, MacAlpine DM, Mannervik M, **Venken K** , [Bellen H](https://profiles.viictr.org/profile/268278), White R, Gerstein M, Russell S, Grossman RL, Ren B, Posakony JW, Kellis M, White KP, N?gre N. A cis-regulatory map of the Drosophila genome. Nature. 2011 Mar 24; 471(7339):527-31. PMID: [21430782](//www.ncbi.nlm.nih.gov/pubmed/21430782); PMCID: [PMC3179250](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3179250).
+
+Citations:
+[295](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21430782/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  57. modENCODE Consortium, Roy S, Ernst J, Kharchenko PV, Kheradpour P, Negre N, Eaton ML, Landolin JM, Bristow CA, Ma L, Lin MF, Washietl S, Arshinoff BI, Ay F, Meyer PE, Robine N, Washington NL, Di Stefano L, Berezikov E, Brown CD, Candeias R, Carlson JW, Carr A, Jungreis I, Marbach D, Sealfon R, Tolstorukov MY, Will S, Alekseyenko AA, Artieri C, Booth BW, Brooks AN, Dai Q, Davis CA, Duff MO, Feng X, Gorchakov AA, Gu T, Henikoff JG, Kapranov P, Li R, MacAlpine HK, Malone J, Minoda A, Nordman J, Okamura K, Perry M, Powell SK, Riddle NC, Sakai A, Samsonova A, Sandler JE, Schwartz YB, Sher N, Spokony R, Sturgill D, van Baren M, Wan KH, Yang L, Yu C, Feingold E, Good P, Guyer M, Lowdon R, Ahmad K, Andrews J, Berger B, Brenner SE, Brent MR, Cherbas L, Elgin SC, Gingeras TR, Grossman R, Hoskins RA, Kaufman TC, Kent W, Kuroda MI, Orr-Weaver T, Perrimon N, Pirrotta V, Posakony JW, Ren B, Russell S, Cherbas P, Graveley BR, Lewis S, Micklem G, Oliver B, Park PJ, Celniker SE, Henikoff S, Karpen GH, Lai EC, MacAlpine DM, Stein LD, White KP, Kellis M. Identification of functional elements and regulatory circuits by Drosophila modENCODE. Science. 2010 Dec 24; 330(6012):1787-97. PMID: [21177974](//www.ncbi.nlm.nih.gov/pubmed/21177974); PMCID: [PMC3192495](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3192495).
+
+Citations:
+[664](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21177974/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  58. **Venken KJ** , Popodi E, Holtzman SL, Schulze KL, Park S, Carlson JW, Hoskins RA, [Bellen HJ](https://profiles.viictr.org/profile/268278), Kaufman TC. A molecularly defined duplication set for the X chromosome of Drosophila melanogaster. Genetics. 2010 Dec; 186(4):1111-25. PMID: [20876565](//www.ncbi.nlm.nih.gov/pubmed/20876565); PMCID: [PMC2998297](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2998297).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20876565/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  59. Verstreken P, Ohyama T, Haueter C, Habets RL, Lin YQ, Swan LE, Ly CV, **Venken KJ** , De Camilli P, [Bellen HJ](https://profiles.viictr.org/profile/268278). Tweek, an evolutionarily conserved protein, is required for synaptic vesicle recycling. Neuron. 2009 Jul 30; 63(2):203-15. PMID: [19640479](//www.ncbi.nlm.nih.gov/pubmed/19640479); PMCID: [PMC2759194](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2759194).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19640479/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  60. **Venken KJ** , Carlson JW, Schulze KL, Pan H, He Y, Spokony R, Wan KH, Koriabine M, de Jong PJ, White KP, [Bellen HJ](https://profiles.viictr.org/profile/268278), Hoskins RA. Versatile P[acman] BAC libraries for transgenesis studies in Drosophila melanogaster. Nat Methods. 2009 Jun; 6(6):431-4. PMID: [19465919](//www.ncbi.nlm.nih.gov/pubmed/19465919); PMCID: [PMC2784134](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2784134).
+
+Citations:
+[227](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19465919/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:AnimalsCells
+
+  61. Pepple KL, Atkins M, **Venken K** , Wellnitz K, Harding M, [Frankfort B](https://profiles.viictr.org/profile/268696), [Mardon G](https://profiles.viictr.org/profile/268168). Two-step selection of a single R8 photoreceptor: a bistable loop between senseless and rough locks in R8 fate. Development. 2008 Dec; 135(24):4071-9. PMID: [19004852](//www.ncbi.nlm.nih.gov/pubmed/19004852); PMCID: [PMC3135101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3135101).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19004852/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  62. **Venken KJ** , Kasprowicz J, Kuenen S, Yan J, Hassan BA, Verstreken P. Recombineering-mediated tagging of Drosophila genomic constructs for in vivo localization and acute protein inactivation. Nucleic Acids Res. 2008 Oct; 36(18):e114. PMID: [18676454](//www.ncbi.nlm.nih.gov/pubmed/18676454); PMCID: [PMC2566861](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2566861).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18676454/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  63. **Venken KJ** , [Bellen HJ](https://profiles.viictr.org/profile/268278). Transgenesis upgrades for Drosophila melanogaster. Development. 2007 Oct; 134(20):3571-84. PMID: [17905790](//www.ncbi.nlm.nih.gov/pubmed/17905790).
+
+Citations:
+[72](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17905790/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  64. Koh TW, Korolchuk VI, Wairkar YP, Jiao W, Evergren E, Pan H, Zhou Y, **Venken KJ** , Shupliakov O, Robinson IM, O'Kane CJ, [Bellen HJ](https://profiles.viictr.org/profile/268278). Eps15 and Dap160 control synaptic vesicle membrane retrieval and synapse development. J Cell Biol. 2007 Jul 16; 178(2):309-22. PMID: [17620409](//www.ncbi.nlm.nih.gov/pubmed/17620409); PMCID: [PMC2064449](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2064449).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17620409/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  65. **Venken KJ** , He Y, Hoskins RA, [Bellen HJ](https://profiles.viictr.org/profile/268278). P[acman]: a BAC transgenic platform for targeted insertion of large DNA fragments in D. melanogaster. Science. 2006 Dec 15; 314(5806):1747-51. PMID: [17138868](//www.ncbi.nlm.nih.gov/pubmed/17138868).
+
+Citations:
+[440](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17138868/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  66. [Shroyer NF](https://profiles.viictr.org/profile/5807714), Wallis D, **Venken KJ** , [Bellen HJ](https://profiles.viictr.org/profile/268278), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Gfi1 functions downstream of Math1 to control intestinal secretory cell subtype allocation and differentiation. Genes Dev. 2005 Oct 15; 19(20):2412-7. PMID: [16230531](//www.ncbi.nlm.nih.gov/pubmed/16230531); PMCID: [PMC1257395](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1257395).
+
+Citations:
+[140](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16230531/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  67. Tsuda H, [Jafar-Nejad H](https://profiles.viictr.org/profile/269877), [Patel AJ](https://profiles.viictr.org/profile/7520391), Sun Y, Chen HK, Rose MF, **Venken KJ** , [Botas J](https://profiles.viictr.org/profile/269750), Orr HT, [Bellen HJ](https://profiles.viictr.org/profile/268278), [Zoghbi HY](https://profiles.viictr.org/profile/267945). The AXH domain of Ataxin-1 mediates neurodegeneration through its interaction with Gfi-1/Senseless proteins. Cell. 2005 Aug 26; 122(4):633-44. PMID: [16122429](//www.ncbi.nlm.nih.gov/pubmed/16122429).
+
+Citations:
+[97](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16122429/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  68. Verstreken P, Ly CV, **Venken KJ** , Koh TW, Zhou Y, [Bellen HJ](https://profiles.viictr.org/profile/268278). Synaptic mitochondria are critical for mobilization of reserve pool vesicles at Drosophila neuromuscular junctions. Neuron. 2005 Aug 04; 47(3):365-78. PMID: [16055061](//www.ncbi.nlm.nih.gov/pubmed/16055061).
+
+Citations:
+[388](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16055061/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  69. **Venken KJ** , [Bellen HJ](https://profiles.viictr.org/profile/268278). Emerging technologies for gene manipulation in Drosophila melanogaster. Nat Rev Genet. 2005 Mar; 6(3):167-78. PMID: [15738961](//www.ncbi.nlm.nih.gov/pubmed/15738961).
+
+Citations:
+[96](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15738961/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  70. Kazanjian A, Wallis D, Au N, Nigam R, **Venken KJ** , Cagle PT, [Dickey BF](https://profiles.viictr.org/profile/12583387), [Bellen HJ](https://profiles.viictr.org/profile/268278), Gilks CB, Grimes HL. Growth factor independence-1 is expressed in primary human neuroendocrine lung carcinomas and mediates the differentiation of murine pulmonary neuroendocrine cells. Cancer Res. 2004 Oct 01; 64(19):6874-82. PMID: [15466176](//www.ncbi.nlm.nih.gov/pubmed/15466176).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15466176/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  71. Watase K, **Venken KJ** , Sun Y, Orr HT, [Zoghbi HY](https://profiles.viictr.org/profile/267945). Regional differences of somatic CAG repeat instability do not account for selective neuronal vulnerability in a knock-in mouse model of SCA1. Hum Mol Genet. 2003 Nov 01; 12(21):2789-95. PMID: [12952864](//www.ncbi.nlm.nih.gov/pubmed/12952864).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12952864/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:AnimalsCells
+
+  72. Wallis D, Hamblen M, Zhou Y, **Venken KJ** , Schumacher A, Grimes HL, [Zoghbi HY](https://profiles.viictr.org/profile/267945), Orkin SH, [Bellen HJ](https://profiles.viictr.org/profile/268278). The zinc finger transcription factor Gfi1, implicated in lymphomagenesis, is required for inner ear hair cell differentiation and survival. Development. 2003 Jan; 130(1):221-32. PMID: [12441305](//www.ncbi.nlm.nih.gov/pubmed/12441305).
+
+Citations:
+[125](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12441305/citedby/)
+Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  73. **Venken K** , Di Maria E, Bellone E, Balestra P, Cassandrini D, Mandich P, De Jonghe P, Timmerman V, Svaren J. Search for mutations in the EGR2 corepressor proteins, NAB1 and NAB2, in human peripheral neuropathies. Neurogenetics. 2002 Mar; 4(1):37-41. PMID: [12030330](//www.ncbi.nlm.nih.gov/pubmed/12030330).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12030330/citedby/) Fields:
+
+Gen GeneticsNeu Neurology
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 73 publications over 22 distinct years, with a maximum of
+7 publications in 2020 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,14,29,14,57,14,29,29,29,29,71,71,14,29,57,43,43,86,71,100,43,71,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 1  
+2003| 2  
+2004| 1  
+2005| 4  
+2006| 1  
+2007| 2  
+2008| 2  
+2009| 2  
+2010| 2  
+2011| 5  
+2012| 5  
+2013| 1  
+2014| 2  
+2015| 4  
+2016| 3  
+2017| 3  
+2018| 6  
+2019| 5  
+2020| 7  
+2021| 3  
+2022| 5  
+2023| 7  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+VENKEN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (373)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Drosophila melanogaster](https://profiles.viictr.org/profile/246028)
+  * [Spondylarthritis](https://profiles.viictr.org/profile/254440)
+  * [Natural Killer T-Cells](https://profiles.viictr.org/profile/264477)
+  * [Luciferases](https://profiles.viictr.org/profile/250105)
+  * [Cloning, Molecular](https://profiles.viictr.org/profile/261457)
+
+[Explore](https://profiles.viictr.org/profile/3010184/198)
+
+_
+
+Co-Authors (25)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [DIERICK, HERMAN](https://profiles.viictr.org/profile/265943)
+  * [YOUNG, DAMIAN](https://profiles.viictr.org/profile/5099690)
+  * [HAELTERMAN, NELE](https://profiles.viictr.org/profile/1826458)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+
+[Explore](https://profiles.viictr.org/profile/3010184/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [DAVIS, RONALD](https://profiles.viictr.org/profile/268115)
+  * [YAMAMOTO, SHINYA](https://profiles.viictr.org/profile/3009536)
+  * [MARDON, GRAEME](https://profiles.viictr.org/profile/268168)
+  * [DIERICK, HERMAN](https://profiles.viictr.org/profile/265943)
+
+[Explore](https://profiles.viictr.org/profile/3010184/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [FERREON, JOSEPHINE](https://profiles.viictr.org/profile/8065537)
+  * [GILBERT, HIRAM](https://profiles.viictr.org/profile/267387)
+  * [JUNG, SUNG](https://profiles.viictr.org/profile/268570)
+  * [YOUNG, DAMIAN](https://profiles.viictr.org/profile/5099690)
+  * [ZHOU, MING](https://profiles.viictr.org/profile/267360)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BUSCH, GERALD](https://profiles.viictr.org/profile/267821)
+  * [DONOVIEL, DORIT](https://profiles.viictr.org/profile/267178)
+  * [GILBERT, HIRAM](https://profiles.viictr.org/profile/267387)
+  * [LEE, SUKYEONG](https://profiles.viictr.org/profile/267678)
+  * [WESTBROOK, THOMAS](https://profiles.viictr.org/profile/267742)
+
+_
+

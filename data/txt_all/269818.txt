@@ -1,0 +1,364 @@
+## YI HAN
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=L6Mx70XFI4a7Q4v4&rnd=7afeacb9-93fe-4f0f-835d-f1ed2ed9e8d8)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269818)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=269818&cachekey=031c3a67-8dd0-4542-88f6-3c35b4f667ac)  
+  
+
+Other Positions| Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Human Genome Sequencing Center  
+Division| Human Genome Sequencing Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Mahmoud M](https://profiles.viictr.org/profile/24845337), Harting J, Corbitt H, Chen X, Jhangiani SN, Doddapaneni H, [Meng Q](https://profiles.viictr.org/profile/12583622), Han T, Lambert C, Zhang S, Baybayan P, Henno G, Shen H, Hu J, **Han Y** , Riegler C, Metcalf G, [Chinn IK](https://profiles.viictr.org/profile/8065501), Eberle MA, Kingan S, [Farinholt T](https://profiles.viictr.org/profile/1826504), Carvalho CMB, [Gibbs RA](https://profiles.viictr.org/profile/269695), Kronenberg Z, [Muzny D](https://profiles.viictr.org/profile/268028), [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). Closing the gap: Solving complex medically relevant genes at scale. medRxiv. 2024 Mar 18. PMID: [38562723](//www.ncbi.nlm.nih.gov/pubmed/38562723); PMCID: [PMC10984040](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10984040).
+
+Citations:
+
+  2. Frank ML, Lu K, Erdogan C, **Han Y** , Hu J, Wang T, [Heymach JV](https://profiles.viictr.org/profile/12582703), Zhang J, Reuben A. T-Cell Receptor Repertoire Sequencing in the Era of Cancer Immunotherapy. Clin Cancer Res. 2023 03 14; 29(6):994-1008. PMID: [36413126](//www.ncbi.nlm.nih.gov/pubmed/36413126); PMCID: [PMC10011887](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10011887).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36413126/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  3. Harris RA, Raveendran M, Lyfoung DT, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), [Mahmoud M](https://profiles.viictr.org/profile/24845337), Prall TM, Karl JA, Doddapaneni H, [Meng Q](https://profiles.viictr.org/profile/12583622), **Han Y** , [Muzny D](https://profiles.viictr.org/profile/268028), Wiseman RW, O'Connor DH, Rogers J. Construction of a new chromosome-scale, long-read reference genome assembly for the Syrian hamster, Mesocricetus auratus. Gigascience. 2022 05 28; 11. PMID: [35640223](//www.ncbi.nlm.nih.gov/pubmed/35640223); PMCID: [PMC9155146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9155146).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35640223/citedby/) Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:AnimalsCells
+
+  4. Menon VK, [Okhuysen PC](https://profiles.viictr.org/profile/12583928), Chappell CL, Mahmoud M, [Mahmoud M](https://profiles.viictr.org/profile/24845337), [Meng Q](https://profiles.viictr.org/profile/12583622), Doddapaneni H, Vee V, **Han Y** , Salvi S, Bhamidipati S, Kottapalli K, Weissenberger G, Shen H, [Ross MC](https://profiles.viictr.org/profile/1826609), Hoffman KL, Cregeen SJ, [Muzny DM](https://profiles.viictr.org/profile/268028), Metcalf GA, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). Fully resolved assembly of Cryptosporidium parvum. Gigascience. 2022 02 15; 11. PMID: [35166336](//www.ncbi.nlm.nih.gov/pubmed/35166336); PMCID: [PMC8848321](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8848321).
+
+Citations:  Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:HumansAnimals
+
+  5. Meng Q, Gao Q, Mehrazarin S, Tangwanichgapong K, Wang Y, Huang Y, Pan Y, Robinson S, Liu Z, Zangiabadi A, Lux R, Papapanou PN, Guo XE, Wang H, Berchowitz LE, **Han YW**. Fusobacterium nucleatum secretes amyloid-like FadA to enhance pathogenicity. EMBO Rep. 2021 07 05; 22(7):e52891. PMID: [34184813](//www.ncbi.nlm.nih.gov/pubmed/34184813); PMCID: [PMC8406402](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8406402).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34184813/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  6. Wang L, Qian H, Nian Y, **Han Y** , Ren Z, Zhang H, Hu L, Prasad BVV, Laganowsky A, Yan N, [Zhou M](https://profiles.viictr.org/profile/267360). Structure and mechanism of human diacylglycerol O-acyltransferase?1. Nature. 2020 05; 581(7808):329-332. PMID: [32433610](//www.ncbi.nlm.nih.gov/pubmed/32433610); PMCID: [PMC7255049](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7255049).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32433610/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  7. Hampton OA, English AC, Wang M, Salerno WJ, Liu Y, [Muzny DM](https://profiles.viictr.org/profile/268028), **Han Y** , [Wheeler DA](https://profiles.viictr.org/profile/266937), [Worley KC](https://profiles.viictr.org/profile/266909), [Lupski JR](https://profiles.viictr.org/profile/268099), [Gibbs RA](https://profiles.viictr.org/profile/269695). SVachra: a tool to identify genomic structural variation in mate pair sequencing data containing inward and outward facing reads. BMC Genomics. 2017 Oct 03; 18(Suppl 6):691. PMID: [28984202](//www.ncbi.nlm.nih.gov/pubmed/28984202); PMCID: [PMC5629590](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5629590).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28984202/citedby/) Fields:
+
+Gen Genetics
+
+  8. [Gingras MC](https://profiles.viictr.org/profile/266579), Covington KR, Chang DK, [Donehower LA](https://profiles.viictr.org/profile/268019), Gill AJ, [Ittmann MM](https://profiles.viictr.org/profile/269566), [Creighton CJ](https://profiles.viictr.org/profile/265729), Johns AL, Shinbrot E, Dewal N, [Fisher WE](https://profiles.viictr.org/profile/267699), Australian Pancreatic Cancer Genome Initiative, Pilarsky C, [Overman MJ](https://profiles.viictr.org/profile/12583817), Jamieson NB, [Van Buren G](https://profiles.viictr.org/profile/270068), Drummond J, Walker K, Hampton OA, Xi L, [Muzny DM](https://profiles.viictr.org/profile/268028), Doddapaneni H, Lee SL, Bellair M, Hu J, **Han Y** , Dinh HH, Dahdouli M, Samra JS, Bailey P, Waddell N, Pearson JV, Harliwong I, Wang H, Aust D, Oien KA, Hruban RH, Hodges SE, McElhany A, Saengboonmee C, Duthie FR, Grimmond SM, Biankin AV, [Wheeler DA](https://profiles.viictr.org/profile/266937), [Gibbs RA](https://profiles.viictr.org/profile/269695), Gr?tzmann R. Ampullary Cancers Harbor ELF3 Tumor Suppressor Gene Mutations and Exhibit Frequent WNT Dysregulation. Cell Rep. 2016 Feb 02; 14(4):907-919. PMID: [26804919](//www.ncbi.nlm.nih.gov/pubmed/26804919); PMCID: [PMC4982376](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4982376).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26804919/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  9. Ostrowski EA, Shen Y, Tian X, Sucgang R, Jiang H, Qu J, Katoh-Kurasawa M, Brock DA, Dinh C, Lara-Garduno F, Lee SL, Kovar CL, Dinh HH, Korchina V, Jackson L, Patil S, **Han Y** , Chaboub L, [Shaulsky G](https://profiles.viictr.org/profile/267001), [Muzny DM](https://profiles.viictr.org/profile/268028), [Worley KC](https://profiles.viictr.org/profile/266909), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Richards S](https://profiles.viictr.org/profile/266888), Kuspa A, Strassmann JE, Queller DC. Genomic signatures of cooperation and conflict in the social amoeba. Curr Biol. 2015 Jun 15; 25(12):1661-5. PMID: [26051890](//www.ncbi.nlm.nih.gov/pubmed/26051890); PMCID: [PMC4591038](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4591038).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26051890/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  10. English AC, Salerno WJ, Hampton OA, Gonzaga-Jauregui C, Ambreth S, [Ritter DI](https://profiles.viictr.org/profile/3009521), Beck CR, Davis CF, Dahdouli M, Ma S, Carroll A, Veeraraghavan N, Bruestle J, Drees B, Hastie A, Lam ET, White S, Mishra P, Wang M, **Han Y** , Zhang F, [Stankiewicz P](https://profiles.viictr.org/profile/269299), [Wheeler DA](https://profiles.viictr.org/profile/266937), Reid JG, [Muzny DM](https://profiles.viictr.org/profile/268028), Rogers J, [Sabo A](https://profiles.viictr.org/profile/269113), [Worley KC](https://profiles.viictr.org/profile/266909), [Lupski JR](https://profiles.viictr.org/profile/268099), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Gibbs RA](https://profiles.viictr.org/profile/269695). Assessing structural variation in a personal genome-towards a human reference diploid genome. BMC Genomics. 2015 Apr 11; 16:286. PMID: [25886820](//www.ncbi.nlm.nih.gov/pubmed/25886820); PMCID: [PMC4490614](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4490614).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25886820/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  11. Wang M, Beck CR, English AC, [Meng Q](https://profiles.viictr.org/profile/12583622), Buhay C, **Han Y** , Doddapaneni HV, Yu F, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Lupski JR](https://profiles.viictr.org/profile/268099), [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695). PacBio-LITS: a large-insert targeted sequencing method for characterization of human disease-associated chromosomal structural variations. BMC Genomics. 2015 Mar 19; 16:214. PMID: [25887218](//www.ncbi.nlm.nih.gov/pubmed/25887218); PMCID: [PMC4376517](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4376517).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25887218/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  12. Nie S, Tian B, Wang X, Gilhuley K, Lu X, **Han YW** , Tang YW, Pincus DH, Welker M. Fusobacterium nucleatum subspecies identification by matrix-assisted laser desorption ionization-time of flight mass spectrometry. J Clin Microbiol. 2015 Apr; 53(4):1399-402. PMID: [25653408](//www.ncbi.nlm.nih.gov/pubmed/25653408); PMCID: [PMC4365237](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4365237).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25653408/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  13. **Han YW**. Fusobacterium nucleatum: a commensal-turned pathogen. Curr Opin Microbiol. 2015 Feb; 23:141-7. PMID: [25576662](//www.ncbi.nlm.nih.gov/pubmed/25576662); PMCID: [PMC4323942](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4323942).
+
+Citations:
+[212](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25576662/citedby/)
+Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  14. Rubinstein MR, Wang X, Liu W, Hao Y, Cai G, **Han YW**. Fusobacterium nucleatum promotes colorectal carcinogenesis by modulating E-cadherin/?-catenin signaling via its FadA adhesin. Cell Host Microbe. 2013 Aug 14; 14(2):195-206. PMID: [23954158](//www.ncbi.nlm.nih.gov/pubmed/23954158); PMCID: [PMC3770529](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3770529).
+
+Citations:
+[683](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23954158/citedby/)
+Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  15. Wang X, Buhimschi CS, Temoin S, Bhandari V, **Han YW** , Buhimschi IA. Comparative microbial analysis of paired amniotic fluid and cord blood from pregnancies complicated by preterm birth and early-onset neonatal sepsis. PLoS One. 2013; 8(2):e56131. PMID: [23437088](//www.ncbi.nlm.nih.gov/pubmed/23437088); PMCID: [PMC3577789](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3577789).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23437088/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  16. English AC, [Richards S](https://profiles.viictr.org/profile/266888), **Han Y** , Wang M, Vee V, Qu J, [Qin X](https://profiles.viictr.org/profile/267418), [Muzny DM](https://profiles.viictr.org/profile/268028), Reid JG, [Worley KC](https://profiles.viictr.org/profile/266909), [Gibbs RA](https://profiles.viictr.org/profile/269695). Mind the gap: upgrading genomes with Pacific Biosciences RS long-read sequencing technology. PLoS One. 2012; 7(11):e47768. PMID: [23185243](//www.ncbi.nlm.nih.gov/pubmed/23185243); PMCID: [PMC3504050](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3504050).
+
+Citations:
+[436](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23185243/citedby/)
+Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  17. Fardini Y, Wang X, Nithianantham S, Lee D, Shoham M, **Han YW** , T?moin S. Fusobacterium nucleatum adhesin FadA binds vascular endothelial cadherin and alters endothelial integrity. Mol Microbiol. 2011 Dec; 82(6):1468-80. PMID: [22040113](//www.ncbi.nlm.nih.gov/pubmed/22040113); PMCID: [PMC3237733](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3237733).
+
+Citations:
+[90](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22040113/citedby/) Fields:
+
+Mic MicrobiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  18. Buhimschi CS, Bhandari V, Dulay AT, Nayeri UA, Abdel-Razeq SS, Pettker CM, Thung S, Zhao G, **Han YW** , Bizzarro M, Buhimschi IA. Proteomics mapping of cord blood identifies haptoglobin "switch-on" pattern as biomarker of early-onset neonatal sepsis in preterm newborns. PLoS One. 2011; 6(10):e26111. PMID: [22028810](//www.ncbi.nlm.nih.gov/pubmed/22028810); PMCID: [PMC3189953](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3189953).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22028810/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  19. Daines B, Wang H, Wang L, Li Y, **Han Y** , Emmert D, Gelbart W, Wang X, Li W, Gibbs R, [Chen R](https://profiles.viictr.org/profile/266790). The Drosophila melanogaster transcriptome by paired-end RNA sequencing. Genome Res. 2011 Feb; 21(2):315-24. PMID: [21177959](//www.ncbi.nlm.nih.gov/pubmed/21177959); PMCID: [PMC3032934](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3032934).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21177959/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  20. Daines B, Wang H, Li Y, **Han Y** , Gibbs R, [Chen R](https://profiles.viictr.org/profile/266790). High-throughput multiplex sequencing to discover copy number variants in Drosophila. Genetics. 2009 Aug; 182(4):935-41. PMID: [19528327](//www.ncbi.nlm.nih.gov/pubmed/19528327); PMCID: [PMC2728881](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2728881).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19528327/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  21. Srivatsan A, **Han Y** , Peng J, Tehranchi AK, Gibbs R, Wang JD, [Chen R](https://profiles.viictr.org/profile/266790). High-precision, whole-genome sequencing of laboratory strains facilitates genetic studies. PLoS Genet. 2008 Aug 01; 4(8):e1000139. PMID: [18670626](//www.ncbi.nlm.nih.gov/pubmed/18670626); PMCID: [PMC2474695](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2474695).
+
+Citations:
+[127](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18670626/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 21 publications over 14 distinct years, with a maximum of
+5 publications in
+2015](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,20,40,20,40,0,100,20,20,0,0,20,20,40,20,20&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2008| 1  
+2009| 1  
+2010| 1  
+2011| 2  
+2012| 1  
+2013| 2  
+2015| 5  
+2016| 1  
+2017| 1  
+2020| 1  
+2021| 1  
+2022| 2  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HAN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (127)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Fusobacterium nucleatum](https://profiles.viictr.org/profile/264318)
+  * [Adhesins, Bacterial](https://profiles.viictr.org/profile/254189)
+  * [Virulence Factors](https://profiles.viictr.org/profile/253111)
+  * [Fusobacterium Infections](https://profiles.viictr.org/profile/252804)
+  * [Bacteria, Anaerobic](https://profiles.viictr.org/profile/260338)
+
+[Explore](https://profiles.viictr.org/profile/269818/198)
+
+_
+
+Co-Authors (30)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [SEDLAZECK, FRITZ](https://profiles.viictr.org/profile/24845007)
+  * [MUZNY, DONNA](https://profiles.viictr.org/profile/268028)
+  * [MAHMOUD, MEDHAT](https://profiles.viictr.org/profile/24845337)
+  * [CHEN, RUI](https://profiles.viictr.org/profile/266790)
+
+[Explore](https://profiles.viictr.org/profile/269818/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [YAMAOKA, YOSHIO](https://profiles.viictr.org/profile/268194)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [SHELBURNE, SAMUEL](https://profiles.viictr.org/profile/12583810)
+  * [SEDLAZECK, FRITZ](https://profiles.viictr.org/profile/24845007)
+
+[Explore](https://profiles.viictr.org/profile/269818/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [HEANEY, JASON](https://profiles.viictr.org/profile/268694)
+  * [LEE, BRENDAN](https://profiles.viictr.org/profile/267019)
+  * [ROGERS, JEFFREY](https://profiles.viictr.org/profile/265901)
+  * [WORLEY, KIM](https://profiles.viictr.org/profile/266909)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [DUDCHENKO, OLGA](https://profiles.viictr.org/profile/3010058)
+  * [GU, YANGHONG](https://profiles.viictr.org/profile/3009510)
+  * [ROGERS, JEFFREY](https://profiles.viictr.org/profile/265901)
+  * [SABO, ANIKO](https://profiles.viictr.org/profile/269113)
+  * [SMITH, JANICE](https://profiles.viictr.org/profile/268567)
+
+_
+

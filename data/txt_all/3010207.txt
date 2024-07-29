@@ -1,0 +1,373 @@
+## KEVIN ROARTY
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JKQx83HeQIn2S8Ho5G4%3d&rnd=491f7caf-5e9a-47d8-9a44-001146e5d9c1)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3010207)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+K22CA207463 (ROARTY, KEVIN P.)Jun 6, 2017 - May 31, 2021NIH  
+Wnt pathway dynamics in breast cancer metastasis  
+Role: Principal Investigator  
+---  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Roarty K**. Taking shape: Intercalation within the mammary terminal end bud. Dev Cell. 2023 07 10; 58(13):1123-1125. PMID: [37433279](//www.ncbi.nlm.nih.gov/pubmed/37433279).
+
+Citations:  Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:Cells
+
+  2. [Si H](https://profiles.viictr.org/profile/28999496), [Esquivel M](https://profiles.viictr.org/profile/31189466), [Mendoza Mendoza E](https://profiles.viictr.org/profile/34768195), **Roarty K**. The covert symphony: cellular and molecular accomplices in breast cancer metastasis. Front Cell Dev Biol. 2023; 11:1221784. PMID: [37440925](//www.ncbi.nlm.nih.gov/pubmed/37440925); PMCID: [PMC10333702](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10333702).
+
+Citations:
+
+  3. **Roarty K**. Unlocking the secrets of cancer stem cells: Immune checkpoint inhibitors face their formidable foes. Cell Stem Cell. 2023 06 01; 30(6):743-744. PMID: [37267909](//www.ncbi.nlm.nih.gov/pubmed/37267909).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  4. [Si H](https://profiles.viictr.org/profile/28999496), Zhao N, Pedroza A, Zaske AM, [Rosen JM](https://profiles.viictr.org/profile/267640), [Creighton CJ](https://profiles.viictr.org/profile/265729), **Roarty K**. Noncanonical Wnt/Ror2 signaling regulates cell-matrix adhesion to prompt directional tumor cell invasion in breast cancer. Mol Biol Cell. 2022 09 15; 33(11):ar103. PMID: [36001375](//www.ncbi.nlm.nih.gov/pubmed/36001375); PMCID: [PMC9582800](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9582800).
+
+Citations:
+
+  5. Zhao N, Powell RT, [Yuan X](https://profiles.viictr.org/profile/28999380), Bae G, **Roarty KP** , Stossi F, Strempfl M, Toneff MJ, Johnson HL, [Mani SA](https://profiles.viictr.org/profile/12583524), Jones P, Stephan CC, [Rosen JM](https://profiles.viictr.org/profile/267640). Morphological screening of mesenchymal mammary tumor organoids to identify drugs that reverse epithelial-mesenchymal transition. Nat Commun. 2021 07 12; 12(1):4262. PMID: [34253738](//www.ncbi.nlm.nih.gov/pubmed/34253738); PMCID: [PMC8275587](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8275587).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34253738/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  6. **Roarty K** , Echeverria GV. Laboratory Models for Investigating Breast Cancer Therapy Resistance and Metastasis. Front Oncol. 2021; 11:645698. PMID: [33777805](//www.ncbi.nlm.nih.gov/pubmed/33777805); PMCID: [PMC7988094](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7988094).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33777805/citedby/)
+
+  7. Nguyen TM, Kabotyanski EB, Dou Y, Reineke LC, Zhang P, [Zhang XH](https://profiles.viictr.org/profile/269369), [Malovannaya A](https://profiles.viictr.org/profile/3010185), Jung SY, Mo Q, **Roarty KP** , Chen Y, Zhang B, [Neilson JR](https://profiles.viictr.org/profile/266073), [Lloyd RE](https://profiles.viictr.org/profile/269833), Perou CM, Ellis MJ, [Rosen JM](https://profiles.viictr.org/profile/267640). FGFR1-Activated Translation of WNT Pathway Components with Structured 5' UTRs Is Vulnerable to Inhibition of EIF4A-Dependent Translation Initiation. Cancer Res. 2018 08 01; 78(15):4229-4240. PMID: [29844125](//www.ncbi.nlm.nih.gov/pubmed/29844125); PMCID: [PMC6072612](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6072612).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29844125/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  8. Sreekumar A, Toneff MJ, Toh E, **Roarty K** , [Creighton CJ](https://profiles.viictr.org/profile/265729), Belka GK, Lee DK, Xu J, Chodosh LA, [Richards JS](https://profiles.viictr.org/profile/267831), [Rosen JM](https://profiles.viictr.org/profile/267640). WNT-Mediated Regulation of FOXO1 Constitutes a Critical Axis Maintaining Pubertal Mammary Stem Cell Homeostasis. Dev Cell. 2017 11 20; 43(4):436-448.e6. PMID: [29103953](//www.ncbi.nlm.nih.gov/pubmed/29103953); PMCID: [PMC5698144](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5698144).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29103953/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  9. **Roarty K** , Pfefferle AD, [Creighton CJ](https://profiles.viictr.org/profile/265729), Perou CM, [Rosen JM](https://profiles.viictr.org/profile/267640). Ror2-mediated alternative Wnt signaling regulates cell fate and adhesion during mammary tumor progression. Oncogene. 2017 10 26; 36(43):5958-5968. PMID: [28650466](//www.ncbi.nlm.nih.gov/pubmed/28650466); PMCID: [PMC5658260](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5658260).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28650466/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  10. Sreekumar A, **Roarty K** , [Rosen JM](https://profiles.viictr.org/profile/267640). The mammary stem cell hierarchy: a looking glass into heterogeneous breast cancer landscapes. Endocr Relat Cancer. 2015 Dec; 22(6):T161-76. PMID: [26206777](//www.ncbi.nlm.nih.gov/pubmed/26206777); PMCID: [PMC4618079](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4618079).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26206777/citedby/) Fields:
+
+End EndocrinologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  11. **Roarty K** , Shore AN, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Rosen JM](https://profiles.viictr.org/profile/267640). Ror2 regulates branching, differentiation, and actin-cytoskeletal dynamics within the mammary epithelium. J Cell Biol. 2015 Feb 02; 208(3):351-66. PMID: [25624393](//www.ncbi.nlm.nih.gov/pubmed/25624393); PMCID: [PMC4315251](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4315251).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25624393/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  12. Wei W, [Tweardy DJ](https://profiles.viictr.org/profile/17439982), Zhang M, Zhang X, Landua J, Petrovic I, [Bu W](https://profiles.viictr.org/profile/267154), **Roarty K** , [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), [Rosen JM](https://profiles.viictr.org/profile/267640), [Lewis MT](https://profiles.viictr.org/profile/267000). STAT3 signaling is activated preferentially in tumor-initiating cells in claudin-low models of human breast cancer. Stem Cells. 2014 Oct; 32(10):2571-82. PMID: [24891218](//www.ncbi.nlm.nih.gov/pubmed/24891218).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24891218/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  13. [Rosen JM](https://profiles.viictr.org/profile/267640), **Roarty K**. Paracrine signaling in mammary gland development: what can we learn about intratumoral heterogeneity? Breast Cancer Res. 2014 Jan 29; 16(1):202. PMID: [24476463](//www.ncbi.nlm.nih.gov/pubmed/24476463); PMCID: [PMC3978850](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3978850).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24476463/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  14. **Roarty K** , [Rosen JM](https://profiles.viictr.org/profile/267640). Pygopus 2: tilting the Wnt-Notch balance in mammary epithelial lineage determination. Breast Cancer Res. 2013 Dec 23; 15(6):322. PMID: [24365076](//www.ncbi.nlm.nih.gov/pubmed/24365076); PMCID: [PMC3979041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3979041).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  15. Pond AC, Bin X, Batts T, **Roarty K** , [Hilsenbeck S](https://profiles.viictr.org/profile/268374), [Rosen JM](https://profiles.viictr.org/profile/267640). Fibroblast growth factor receptor signaling is essential for normal mammary gland development and stem cell function. Stem Cells. 2013 Jan; 31(1):178-89. PMID: [23097355](//www.ncbi.nlm.nih.gov/pubmed/23097355); PMCID: [PMC3690809](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3690809).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23097355/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  16. Shore AN, Kabotyanski EB, **Roarty K** , Smith MA, Zhang Y, [Creighton CJ](https://profiles.viictr.org/profile/265729), Dinger ME, [Rosen JM](https://profiles.viictr.org/profile/267640). Pregnancy-induced noncoding RNA (PINC) associates with polycomb repressive complex 2 and regulates mammary epithelial differentiation. PLoS Genet. 2012; 8(7):e1002840. PMID: [22911650](//www.ncbi.nlm.nih.gov/pubmed/22911650); PMCID: [PMC3406180](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3406180).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22911650/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  17. Meerbrey KL, Hu G, Kessler JD, **Roarty K** , Li MZ, Fang JE, Herschkowitz JI, Burrows AE, Ciccia A, Sun T, Schmitt EM, Bernardi RJ, Fu X, Bland CS, [Cooper TA](https://profiles.viictr.org/profile/269742), [Schiff R](https://profiles.viictr.org/profile/269128), [Rosen JM](https://profiles.viictr.org/profile/267640), [Westbrook TF](https://profiles.viictr.org/profile/267742), Elledge SJ. The pINDUCER lentiviral toolkit for inducible RNA interference in vitro and in vivo. Proc Natl Acad Sci U S A. 2011 Mar 01; 108(9):3665-70. PMID: [21307310](//www.ncbi.nlm.nih.gov/pubmed/21307310); PMCID: [PMC3048138](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3048138).
+
+Citations:
+[356](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21307310/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  18. **Roarty K** , [Rosen JM](https://profiles.viictr.org/profile/267640). Wnt and mammary stem cells: hormones cannot fly wingless. Curr Opin Pharmacol. 2010 Dec; 10(6):643-9. PMID: [20810315](//www.ncbi.nlm.nih.gov/pubmed/20810315); PMCID: [PMC2981611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2981611).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20810315/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  19. Qin H, Wang L, Feng T, Elson CO, Niyongere SA, Lee SJ, Reynolds SL, Weaver CT, **Roarty K** , Serra R, Benveniste EN, Cong Y. TGF-beta promotes Th17 cell development through inhibition of SOCS3. J Immunol. 2009 Jul 01; 183(1):97-105. PMID: [19535626](//www.ncbi.nlm.nih.gov/pubmed/19535626); PMCID: [PMC2851540](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2851540).
+
+Citations:
+[103](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19535626/citedby/)
+Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  20. **Roarty K** , Baxley SE, Crowley MR, Frost AR, Serra R. Loss of TGF-beta or Wnt5a results in an increase in Wnt/beta-catenin activity and redirects mammary tumour phenotype. Breast Cancer Res. 2009; 11(2):R19. PMID: [19344510](//www.ncbi.nlm.nih.gov/pubmed/19344510); PMCID: [PMC2688948](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2688948).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19344510/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  21. Johnson ET, Nicola T, **Roarty K** , Yoder BK, Haycraft CJ, Serra R. Role for primary cilia in the regulation of mouse ovarian function. Dev Dyn. 2008 Aug; 237(8):2053-60. PMID: [18629867](//www.ncbi.nlm.nih.gov/pubmed/18629867).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18629867/citedby/) Fields:
+
+Ana Anatomy
+
+Translation:AnimalsCells
+
+  22. Brantley EC, Nabors LB, Gillespie GY, Choi YH, Palmer CA, Harrison K, **Roarty K** , Benveniste EN. Loss of protein inhibitors of activated STAT-3 expression in glioblastoma multiforme tumors: implications for STAT-3 activation and gene expression. Clin Cancer Res. 2008 Aug 01; 14(15):4694-704. PMID: [18676737](//www.ncbi.nlm.nih.gov/pubmed/18676737); PMCID: [PMC3886729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3886729).
+
+Citations:
+[86](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18676737/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  23. **Roarty K** , Serra R. Wnt5a is required for proper mammary gland development and TGF-beta-mediated inhibition of ductal growth. Development. 2007 Nov; 134(21):3929-39. PMID: [17898001](//www.ncbi.nlm.nih.gov/pubmed/17898001).
+
+Citations:
+[92](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17898001/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 23 publications over 14 distinct years, with a maximum of
+3 publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,33,67,67,33,33,33,67,67,67,0,67,33,0,0,67,33,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2008| 2  
+2009| 2  
+2010| 1  
+2011| 1  
+2012| 1  
+2013| 2  
+2014| 2  
+2015| 2  
+2017| 2  
+2018| 1  
+2021| 2  
+2022| 1  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ROARTY's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (163)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Mammary Glands, Animal](https://profiles.viictr.org/profile/240194)
+  * [Receptor Tyrosine Kinase-like Orphan Receptors](https://profiles.viictr.org/profile/250522)
+  * [Wnt Proteins](https://profiles.viictr.org/profile/254805)
+  * [Mammary Neoplasms, Animal](https://profiles.viictr.org/profile/246226)
+  * [Cytoskeleton](https://profiles.viictr.org/profile/249855)
+
+[Explore](https://profiles.viictr.org/profile/3010207/198)
+
+_
+
+Co-Authors (19)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ROSEN, JEFFREY](https://profiles.viictr.org/profile/267640)
+  * [Si, Hongjiang](https://profiles.viictr.org/profile/28999496)
+  * [CREIGHTON, CHAD](https://profiles.viictr.org/profile/265729)
+  * [Esquivel, Madelyn](https://profiles.viictr.org/profile/31189466)
+  * [Mendoza Mendoza, Erika](https://profiles.viictr.org/profile/34768195)
+
+[Explore](https://profiles.viictr.org/profile/3010207/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ROSEN, JEFFREY](https://profiles.viictr.org/profile/267640)
+  * [LEWIS, MICHAEL](https://profiles.viictr.org/profile/267000)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [LYDON, JOHN](https://profiles.viictr.org/profile/269737)
+  * [LI, YI](https://profiles.viictr.org/profile/267733)
+
+[Explore](https://profiles.viictr.org/profile/3010207/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BISSIG, KARL-DIMITER](https://profiles.viictr.org/profile/266494)
+  * [GORELICK, DANIEL](https://profiles.viictr.org/profile/23478773)
+  * [LONARD, DAVID](https://profiles.viictr.org/profile/269800)
+  * [NIKOLAI, BRYAN](https://profiles.viictr.org/profile/1826673)
+  * [VASILEIOU, SPYRIDOULA](https://profiles.viictr.org/profile/22016531)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [DASGUPTA, SUBHAMOY](https://profiles.viictr.org/profile/3010259)
+  * [LANZ, RAINER](https://profiles.viictr.org/profile/267684)
+  * [MAO, JIANQIANG](https://profiles.viictr.org/profile/269646)
+  * [OKA, KAZUHIRO](https://profiles.viictr.org/profile/268137)
+  * [SMITH, ROY](https://profiles.viictr.org/profile/269524)
+
+_
+

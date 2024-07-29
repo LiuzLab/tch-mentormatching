@@ -1,0 +1,678 @@
+## RICHARD HURWITZ
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1102 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JKMl83LONJHVRIzgrn7GPw%3d%3d&rnd=e25fb96f-a63e-48cf-845b-98e1bd975dd9)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266847)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Ophthalmology  
+Division| Ophthalmology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R21CA097762 (HURWITZ, RICHARD L)Jul 22, 2002 - Jun 30, 2005NIH  
+Gene Therapy for Retinoblastoma  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01EY006656 (HURWITZ, RICHARD L)Jul 1, 1986 - Nov 30, 1996NIH  
+CYCLIC GMP RECEPTORS IN THE RETINA  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Liu A, Ildefonso CJ, Bond WS, Hurwitz MY, **Hurwitz RL**. Inhibitors of metalloprotease, ?-sectretase, protein kinase C and Rho kinase inhibit wild-type adenoviral replication. PLoS One. 2020; 15(7):e0236175. PMID: [32697798](//www.ncbi.nlm.nih.gov/pubmed/32697798); PMCID: [PMC7375579](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7375579).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  2. George A, Dinu B, Estrada N, [Minard CG](https://profiles.viictr.org/profile/267444), **Hurwitz R** , Mahoney DH, Yates AM, Vaughan M, [Carmouche A](https://profiles.viictr.org/profile/5236829), [Airewele G](https://profiles.viictr.org/profile/269786), [Kirk SE](https://profiles.viictr.org/profile/266653), [Fasipe T](https://profiles.viictr.org/profile/3009864), Uwaezuoke P, Ware RE. Novel dose escalation to predict treatment with hydroxyurea (NDEPTH): A randomized controlled trial of a dose-prediction equation to determine maximum tolerated dose of hydroxyurea in pediatric sickle cell disease. Am J Hematol. 2020 09; 95(9):E242-E244. PMID: [32472611](//www.ncbi.nlm.nih.gov/pubmed/32472611).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  3. Akinfenwa PY, Bond WS, Ildefonso CJ, Hurwitz MY, **Hurwitz RL**. Versican G1 domain enhances adenoviral-mediated transgene expression and can be modulated by inhibitors of the Janus kinase (JAK)/STAT and Src family kinase pathways. J Biol Chem. 2017 09 01; 292(35):14381-14390. PMID: [28684419](//www.ncbi.nlm.nih.gov/pubmed/28684419); PMCID: [PMC5582833](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5582833).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28684419/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  4. Bond WS, Akinfenwa PY, Perlaky L, Hurwitz MY, **Hurwitz RL** , Ch?vez-Barrios P. Tumorspheres but not adherent cells derived from retinoblastoma tumors are of malignant origin. PLoS One. 2013; 8(6):e63519. PMID: [23826078](//www.ncbi.nlm.nih.gov/pubmed/23826078); PMCID: [PMC3691222](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3691222).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23826078/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  5. Liu Z, Zhao X, Mao H, [Baxter PA](https://profiles.viictr.org/profile/265524), Huang Y, Yu L, [Wadhwa L](https://profiles.viictr.org/profile/267141), Su JM, [Adesina A](https://profiles.viictr.org/profile/268657), Perlaky L, Hurwitz M, Idamakanti N, Police SR, Hallenbeck PL, **Hurwitz RL** , Lau CC, [Chintagumpala M](https://profiles.viictr.org/profile/268049), [Blaney SM](https://profiles.viictr.org/profile/268174), Li XN. Intravenous injection of oncolytic picornavirus SVV-001 prolongs animal survival in a panel of primary tumor-based orthotopic xenograft mouse models of pediatric glioma. Neuro Oncol. 2013 Sep; 15(9):1173-85. PMID: [23658322](//www.ncbi.nlm.nih.gov/pubmed/23658322); PMCID: [PMC3748915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3748915).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23658322/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:AnimalsCells
+
+  6. **Hurwitz RL**. A new vision of mesenchymal stromal cells. Mol Ther. 2012 Nov; 20(11):2017-8. PMID: [23131854](//www.ncbi.nlm.nih.gov/pubmed/23131854); PMCID: [PMC3498812](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3498812).
+
+Citations:  Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimals
+
+  7. Ildefonso CJ, Bond WS, Al-Tawashi AR, Hurwitz MY, **Hurwitz RL**. The liberation of CD44 intracellular domain modulates adenoviral vector transgene expression. J Biol Chem. 2012 Sep 21; 287(39):32697-707. PMID: [22865879](//www.ncbi.nlm.nih.gov/pubmed/22865879); PMCID: [PMC3463356](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3463356).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22865879/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  8. [Wadhwa L](https://profiles.viictr.org/profile/267141), Bond WS, Perlaky L, [Overbeek PA](https://profiles.viictr.org/profile/268020), Hurwitz MY, **Hurwitz RL** , Ch?vez-Barrios P. Embryonic retinal tumors in SV40 T-Ag transgenic mice contain CD133+ tumor-initiating cells. Invest Ophthalmol Vis Sci. 2012 Jun 08; 53(7):3454-62. PMID: [22562503](//www.ncbi.nlm.nih.gov/pubmed/22562503); PMCID: [PMC4022423](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4022423).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22562503/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansAnimalsCells
+
+  9. Bond WS, [Wadhwa L](https://profiles.viictr.org/profile/267141), Perlaky L, Penland RL, Hurwitz MY, **Hurwitz RL** , Ch?vez-Barrios P. Establishment and propagation of human retinoblastoma tumors in immune deficient mice. J Vis Exp. 2011 Aug 04; (54). PMID: [21847079](//www.ncbi.nlm.nih.gov/pubmed/21847079); PMCID: [PMC3211116](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3211116).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21847079/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  10. Yu L, [Baxter PA](https://profiles.viictr.org/profile/265524), Zhao X, Liu Z, [Wadhwa L](https://profiles.viictr.org/profile/267141), Zhang Y, Su JM, Tan X, Yang J, [Adesina A](https://profiles.viictr.org/profile/268657), Perlaky L, Hurwitz M, Idamakanti N, Police SR, Hallenbeck PL, [Blaney SM](https://profiles.viictr.org/profile/268174), [Chintagumpala M](https://profiles.viictr.org/profile/268049), **Hurwitz RL** , Li XN. A single intravenous injection of oncolytic picornavirus SVV-001 eliminates medulloblastomas in primary tumor-based orthotopic xenograft mouse models. Neuro Oncol. 2011 Jan; 13(1):14-27. PMID: [21075780](//www.ncbi.nlm.nih.gov/pubmed/21075780); PMCID: [PMC3018906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3018906).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21075780/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  11. Ildefonso CJ, Kong L, [Leen A](https://profiles.viictr.org/profile/268626), Chai SJ, Petrochelli V, [Chintagumpala M](https://profiles.viictr.org/profile/268049), Hurwitz MY, **Hurwitz RL** , Ch?vez-Barrios P. Absence of systemic immune response to adenovectors after intraocular administration to children with retinoblastoma. Mol Ther. 2010 Oct; 18(10):1885-90. PMID: [20606647](//www.ncbi.nlm.nih.gov/pubmed/20606647); PMCID: [PMC2951557](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2951557).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20606647/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCellsCTClinical Trials
+
+  12. [Wadhwa L](https://profiles.viictr.org/profile/267141), Hurwitz MY, **Hurwitz RL** , Ch?vez-Barrios P. Treatment of invasive retinoblastoma in a murine model using an oncolytic picornavirus. Cancer Res. 2007 Nov 15; 67(22):10653-6. PMID: [18006805](//www.ncbi.nlm.nih.gov/pubmed/18006805).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18006805/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  13. [Chintagumpala M](https://profiles.viictr.org/profile/268049), [Chevez-Barrios P](https://profiles.viictr.org/profile/269744), [Paysse EA](https://profiles.viictr.org/profile/268192), [Plon SE](https://profiles.viictr.org/profile/269771), **Hurwitz R**. Retinoblastoma: review of current management. Oncologist. 2007 Oct; 12(10):1237-46. PMID: [17962617](//www.ncbi.nlm.nih.gov/pubmed/17962617).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17962617/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  14. Higham-Kessler J, Reinert SE, Snodgrass WT, Hensle TW, Koyle MA, **Hurwitz RS** , Cendron M, Diamond DA, Caldamone AA. A review of failures of endoscopic treatment of vesicoureteral reflux with dextranomer microspheres. J Urol. 2007 Feb; 177(2):710-4; discussion 714-5. PMID: [17222662](//www.ncbi.nlm.nih.gov/pubmed/17222662).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17222662/citedby/) Fields:
+
+Uro Urology
+
+Translation:Humans
+
+  15. Chaudhuri SR, Mallam JN, [Wadhwa L](https://profiles.viictr.org/profile/267141), [Ng P](https://profiles.viictr.org/profile/269950), Hurwitz MY, **Hurwitz RL** , Ch?vez-Barrios P. Modulation of adenoviral transduction in vitro and in vivo by hyaluronan and its receptor CD44. Mol Ther. 2007 Mar; 15(3):566-70. PMID: [17180120](//www.ncbi.nlm.nih.gov/pubmed/17180120).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17180120/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  16. Chong EM, Coffee RE, [Chintagumpala M](https://profiles.viictr.org/profile/268049), **Hurwitz RL** , Hurwitz MY, Ch?vez-Barrios P. Extensively necrotic retinoblastoma is associated with high-risk prognostic factors. Arch Pathol Lab Med. 2006 Nov; 130(11):1669-72. PMID: [17076529](//www.ncbi.nlm.nih.gov/pubmed/17076529).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17076529/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  17. [Chintagumpala M](https://profiles.viictr.org/profile/268049), Mieler W, [Paysse E](https://profiles.viictr.org/profile/268192), [Boniuk M](https://profiles.viictr.org/profile/269456), Kozinetz C, Hurwitz MY, **Hurwitz RL** , Ch?vez-Barrios P. Response of retinoblastoma with vitreous tumor seeding to adenovirus-mediated delivery of thymidine kinase followed by ganciclovir. J Clin Oncol. 2005 Nov 01; 23(31):7927-35. PMID: [16258092](//www.ncbi.nlm.nih.gov/pubmed/16258092).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16258092/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  18. Mallam JN, Hurwitz MY, Mahoney T, **Hurwitz RL** , Ch?vez-Barrios P. Efficient gene transfer into retinal cells using adenoviral vectors: dependence on receptor expression. Invest Ophthalmol Vis Sci. 2004 Jun; 45(6):1680-7. PMID: [15161826](//www.ncbi.nlm.nih.gov/pubmed/15161826).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15161826/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansAnimalsCells
+
+  19. **Hurwitz RL** , [Boniuk M](https://profiles.viictr.org/profile/269456), [Chintagumpala M](https://profiles.viictr.org/profile/268049), Hurwitz MY, Ch?vez-Barrios P. Retinoblastoma: from bench to bedside. Expert Rev Mol Med. 2003 Jan 07; 5(1):1-14. PMID: [14987394](//www.ncbi.nlm.nih.gov/pubmed/14987394).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14987394/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimals
+
+  20. **Hurwitz RL**. Re.:"A Death in the Laboratory". Mol Ther. 2001 Jul; 4(1):4. PMID: [11472099](//www.ncbi.nlm.nih.gov/pubmed/11472099).
+
+Citations:  Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:Humans
+
+  21. Suber ML, Hurwitz MY, **Hurwitz RL** , Ch?vez-Barrios P. Immune consequences of intraocular administration of modified adenoviral vectors. Hum Gene Ther. 2001 May 01; 12(7):833-8. PMID: [11339899](//www.ncbi.nlm.nih.gov/pubmed/11339899).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11339899/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:AnimalsCells
+
+  22. Takahashi S, Rousseau RF, Yotnda P, Mei Z, Dotti G, Rill D, **Hurwitz R** , Marini F, [Andreeff M](https://profiles.viictr.org/profile/12582880), Brenner MK. Autologous antileukemic immune response induced by chronic lymphocytic leukemia B cells expressing the CD40 ligand and interleukin 2 transgenes. Hum Gene Ther. 2001 Apr 10; 12(6):659-70. PMID: [11426465](//www.ncbi.nlm.nih.gov/pubmed/11426465).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11426465/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansCells
+
+  23. Hurwitz MY, Louie K, Marcus KT, Holcombe VN, Schafer P, Aguilar-Cordova CE, **Hurwitz RL** , Ch?vez-Barrios P. Metastatic and nonmetastatic models of retinoblastoma. Am J Pathol. 2000 Oct; 157(4):1405-12. PMID: [11021842](//www.ncbi.nlm.nih.gov/pubmed/11021842); PMCID: [PMC1850157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1850157).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11021842/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansAnimalsCells
+
+  24. **Hurwitz RL** , Brenner MK, [Poplack DG](https://profiles.viictr.org/profile/268156), Horowitz MC. Retinoblastoma treatment. Science. 1999 Jul 30; 285(5428):663-4. PMID: [10454919](//www.ncbi.nlm.nih.gov/pubmed/10454919).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10454919/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  25. Hurwitz MY, Marcus KT, Louie K, Aguilar-Cordova E, **Hurwitz RL** , Ch?vez-Barrios P. Suicide gene therapy for treatment of retinoblastoma in a murine model. Hum Gene Ther. 1999 Feb 10; 10(3):441-8. PMID: [10048396](//www.ncbi.nlm.nih.gov/pubmed/10048396).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10048396/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  26. Paulin L, Hurwitz MY, **Hurwitz RL** , Kommonen B, Kylm? T. Cloning and analysis of the cDNA encoding the rod G-protein transduction alpha, beta1 and gamma1 subunits from the canine retina. Gene. 1997 Jul 01; 193(1):1-4. PMID: [9249060](//www.ncbi.nlm.nih.gov/pubmed/9249060).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  27. Paulin L, Hurwitz MY, **Hurwitz RL** , Kommonen B, Kylm? T. Cloning of the cDNA encoding rod photoreceptor cGMP-phosphodiesterase alpha and gamma subunits from the retinal degenerate Labrador retriever dog. Res Vet Sci. 1997 May-Jun; 62(3):293-6. PMID: [9300552](//www.ncbi.nlm.nih.gov/pubmed/9300552).
+
+Citations:  Fields:
+
+Vet Veterinary Medicine
+
+Translation:HumansAnimalsCells
+
+  28. Murray JC, Hill RM, Hegemier S, **Hurwitz RL**. Lymphoblastic lymphoma following prenatal exposure to phenytoin. J Pediatr Hematol Oncol. 1996 May; 18(2):241-3. PMID: [8846150](//www.ncbi.nlm.nih.gov/pubmed/8846150).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8846150/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  29. Kommonen B, Kylma T, Cohen RJ, Penn JS, Paulin L, Hurwitz M, **Hurwitz RL**. Elevation of cGMP with normal expression and activity of rod cGMP-PDE in photoreceptor degenerate labrador retrievers. Ophthalmic Res. 1996; 28(1):19-28. PMID: [8726673](//www.ncbi.nlm.nih.gov/pubmed/8726673).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8726673/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  30. Carcamo B, Hurwitz MY, Craft CM, **Hurwitz RL**. The mammalian pineal expresses the cone but not the rod cyclic GMP phosphodiesterase. J Neurochem. 1995 Sep; 65(3):1085-92. PMID: [7643086](//www.ncbi.nlm.nih.gov/pubmed/7643086).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7643086/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  31. Srivastava D, **Hurwitz RL** , Fox DA. Lead- and calcium-mediated inhibition of bovine rod cGMP phosphodiesterase: interactions with magnesium. Toxicol Appl Pharmacol. 1995 Sep; 134(1):43-52. PMID: [7676457](//www.ncbi.nlm.nih.gov/pubmed/7676457).
+
+Citations:  Fields:
+
+Pha PharmacologyTox Toxicology
+
+Translation:AnimalsCells
+
+  32. Srivastava D, Fox DA, **Hurwitz RL**. Effects of magnesium on cyclic GMP hydrolysis by the bovine retinal rod cyclic GMP phosphodiesterase. Biochem J. 1995 Jun 01; 308 ( Pt 2):653-8. PMID: [7772055](//www.ncbi.nlm.nih.gov/pubmed/7772055); PMCID: [PMC1136976](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1136976).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7772055/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  33. Fox DA, Srivastava D, **Hurwitz RL**. Lead-induced alterations in rod-mediated visual functions and cGMP metabolism: new insights. Neurotoxicology. 1994; 15(3):503-12. PMID: [7854584](//www.ncbi.nlm.nih.gov/pubmed/7854584).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7854584/citedby/) Fields:
+
+Env Environmental HealthNeu NeurologyTox Toxicology
+
+Translation:AnimalsCells
+
+  34. Suber ML, Pittler SJ, Qin N, Wright GC, Holcombe V, Lee RH, Craft CM, Lolley RN, Baehr W, **Hurwitz RL**. Irish setter dogs affected with rod/cone dysplasia contain a nonsense mutation in the rod cGMP phosphodiesterase beta-subunit gene. Proc Natl Acad Sci U S A. 1993 May 01; 90(9):3968-72. PMID: [8387203](//www.ncbi.nlm.nih.gov/pubmed/8387203); PMCID: [PMC46427](//www.ncbi.nlm.nih.gov/pmc/articles/PMC46427).
+
+Citations:
+[70](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8387203/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  35. Morad AB, Steuber CP, Mahoney DH, **Hurwitz RL**. Hypoplastic anemia in an infant with human immunodeficiency virus (HIV) infection. Am J Hematol. 1993 Feb; 42(2):236. PMID: [8438892](//www.ncbi.nlm.nih.gov/pubmed/8438892).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8438892/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  36. Kazazian HH, Dowling CE, **Hurwitz RL** , Coleman M, Stopeck A, Adams JG. Dominant thalassemia-like phenotypes associated with mutations in exon 3 of the beta-globin gene. Blood. 1992 Jun 01; 79(11):3014-8. PMID: [1586746](//www.ncbi.nlm.nih.gov/pubmed/1586746).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1586746/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  37. Pittler SJ, Lee AK, Altherr MR, Howard TA, Seldin MF, **Hurwitz RL** , Wasmuth JJ, Baehr W. Primary structure and chromosomal localization of human and mouse rod photoreceptor cGMP-gated cation channel. J Biol Chem. 1992 Mar 25; 267(9):6257-62. PMID: [1372902](//www.ncbi.nlm.nih.gov/pubmed/1372902).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1372902/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  38. Hayani A, Mahoney DH, Hawkins HK, Steuber CP, **Hurwitz R** , Fernbach DJ. Soft-tissue sarcomas other than rhabdomyosarcoma in children. Med Pediatr Oncol. 1992; 20(2):114-8. PMID: [1734215](//www.ncbi.nlm.nih.gov/pubmed/1734215).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1734215/citedby/) Fields:
+
+Neo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  39. [Chintagumpala MM](https://profiles.viictr.org/profile/268049), **Hurwitz RL** , [Moake JL](https://profiles.viictr.org/profile/268005), Mahoney DH, Steuber CP. Chronic relapsing thrombotic thrombocytopenic purpura in infants with large von Willebrand factor multimers during remission. J Pediatr. 1992 Jan; 120(1):49-53. PMID: [1731024](//www.ncbi.nlm.nih.gov/pubmed/1731024).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1731024/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  40. Booth DP, **Hurwitz RL** , Lolley RN. Phosphodiesterase of cone photoreceptors from the lizard, Anolis carolinensis. J Neurochem. 1991 Jun; 56(6):1949-56. PMID: [1851207](//www.ncbi.nlm.nih.gov/pubmed/1851207).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1851207/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  41. **Hurwitz R** , Holcombe V. Affinity purification of the photoreceptor cGMP-gated cation channel. J Biol Chem. 1991 May 05; 266(13):7975-7. PMID: [1850731](//www.ncbi.nlm.nih.gov/pubmed/1850731).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1850731/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  42. **Hurwitz RL** , Bogenmann E, Font RL, Holcombe V, Clark D. Expression of the functional cone phototransduction cascade in retinoblastoma. J Clin Invest. 1990 Jun; 85(6):1872-8. PMID: [2161431](//www.ncbi.nlm.nih.gov/pubmed/2161431); PMCID: [PMC296653](//www.ncbi.nlm.nih.gov/pmc/articles/PMC296653).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2161431/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  43. **Hurwitz RL** , Hirsch KM, Clark DJ, Holcombe VN, Hurwitz MY. Induction of a calcium/calmodulin-dependent phosphodiesterase during phytohemagglutinin-stimulated lymphocyte mitogenesis. J Biol Chem. 1990 May 25; 265(15):8901-7. PMID: [2160471](//www.ncbi.nlm.nih.gov/pubmed/2160471).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2160471/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  44. **Hurwitz RL** , Mahoney DH, Armstrong DL, Browder TM. Reversible encephalopathy and seizures as a result of conventional vincristine administration. Med Pediatr Oncol. 1988; 16(3):216-9. PMID: [3164090](//www.ncbi.nlm.nih.gov/pubmed/3164090).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3164090/citedby/) Fields:
+
+Neo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  45. Lee RH, Lieberman BS, **Hurwitz RL** , Lolley RN. Phosphodiesterase-probes show distinct defects in rd mice and Irish setter dog disorders. Invest Ophthalmol Vis Sci. 1985 Nov; 26(11):1569-79. PMID: [2997075](//www.ncbi.nlm.nih.gov/pubmed/2997075).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2997075/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  46. **Hurwitz RL** , Bunt-Milam AH, Chang ML, Beavo JA. cGMP phosphodiesterase in rod and cone outer segments of the retina. J Biol Chem. 1985 Jan 10; 260(1):568-73. PMID: [2981219](//www.ncbi.nlm.nih.gov/pubmed/2981219).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2981219/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  47. **Hurwitz RL** , Bunt-Milam AH, Beavo JA. Immunologic characterization of the photoreceptor outer segment cyclic GMP phosphodiesterase. J Biol Chem. 1984 Jul 10; 259(13):8612-8. PMID: [6330115](//www.ncbi.nlm.nih.gov/pubmed/6330115).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6330115/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  48. **Hurwitz RL** , Beavo JA. Immunotitration analysis of the rod outer segment phosphodiesterase. Adv Cyclic Nucleotide Protein Phosphorylation Res. 1984; 17:239-48. PMID: [6203341](//www.ncbi.nlm.nih.gov/pubmed/6203341).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6203341/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  49. **Hurwitz RL** , Hansen RS, Harrison SA, Martins TJ, Mumby MC, Beavo JA. Immunologic approaches to the study of cyclic nucleotide phosphodiesterases. Adv Cyclic Nucleotide Protein Phosphorylation Res. 1984; 16:89-106. PMID: [6326539](//www.ncbi.nlm.nih.gov/pubmed/6326539).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6326539/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  50. Beavo JA, Hansen RS, Harrison SA, **Hurwitz RL** , Martins TJ, Mumby MC. Identification and properties of cyclic nucleotide phosphodiesterases. Mol Cell Endocrinol. 1982 Nov-Dec; 28(3):387-410. PMID: [6185373](//www.ncbi.nlm.nih.gov/pubmed/6185373).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6185373/citedby/) Fields:
+
+Cel Cell BiologyEnd EndocrinologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  51. Hozier J, Lindquist L, **Hurwitz R** , LeBien T, Kersey J. Evolution of cultured leukemic cell lines monitored by chromosomal and immunologic analysis. Int J Cancer. 1980 Sep 15; 26(3):281-4. PMID: [6945291](//www.ncbi.nlm.nih.gov/pubmed/6945291).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6945291/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  52. **Hurwitz RL** , Schreinemachers D, Kersey JH. Elimination of platelets from mononuclear cell preparations using heat-killed yeast. Exp Hematol. 1979 Feb; 7(2):81-6. PMID: [371975](//www.ncbi.nlm.nih.gov/pubmed/371975).
+
+Citations: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/371975/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  53. **Hurwitz R** , Hozier J, LeBien T, Minowada J, Gajl-Peczalska K, Kubonishi I, Kersey J. Characterization of a leukemic cell line of the pre-B phenotype. Int J Cancer. 1979 Feb; 23(2):174-80. PMID: [83966](//www.ncbi.nlm.nih.gov/pubmed/83966).
+
+Citations: [60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/83966/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  54. LeBien TW, **Hurwitz RL** , Kersey JH. Characterization of a xenoantiserum produced against three molar KCl-solubilized antigens obtained from a non-T, non-B (pre-B) acute lymphoblastic leukemia cell line. J Immunol. 1979 Jan; 122(1):82-8. PMID: [310838](//www.ncbi.nlm.nih.gov/pubmed/310838).
+
+Citations: [9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/310838/citedby/)
+Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 33 publications over 18 distinct years, with a maximum of
+3 publications in 1995 and 2001 and 2007 and
+2012](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:33,100,67,67,0,67,33,100,0,33,33,33,67,100,0,0,67,33,100,67,0,0,0,33,0,0,67,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 1  
+1995| 3  
+1996| 2  
+1997| 2  
+1999| 2  
+2000| 1  
+2001| 3  
+2003| 1  
+2004| 1  
+2005| 1  
+2006| 2  
+2007| 3  
+2010| 2  
+2011| 1  
+2012| 3  
+2013| 2  
+2017| 1  
+2020| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HURWITZ's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (352)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Retinoblastoma](https://profiles.viictr.org/profile/249614)
+  * [Genetic Vectors](https://profiles.viictr.org/profile/260508)
+  * [Adenoviridae](https://profiles.viictr.org/profile/253827)
+  * [3',5'-Cyclic-GMP Phosphodiesterases](https://profiles.viictr.org/profile/261891)
+  * [Versicans](https://profiles.viictr.org/profile/247397)
+
+[Explore](https://profiles.viictr.org/profile/266847/198)
+
+_
+
+Co-Authors (21)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [CHINTAGUMPALA, MURALI](https://profiles.viictr.org/profile/268049)
+  * [WADHWA, LALITA](https://profiles.viictr.org/profile/267141)
+  * [PAYSSE, EVELYN](https://profiles.viictr.org/profile/268192)
+  * [CHEVEZ-BARRIOS, PATRICIA](https://profiles.viictr.org/profile/269744)
+  * [PLON, SHARON](https://profiles.viictr.org/profile/269771)
+
+[Explore](https://profiles.viictr.org/profile/266847/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [CHINTAGUMPALA, MURALI](https://profiles.viictr.org/profile/268049)
+  * [SCHEFLER, AMY](https://profiles.viictr.org/profile/6030334)
+  * [GOMBOS, DAN S](https://profiles.viictr.org/profile/12583000)
+  * [SUZUKI, MASATAKA](https://profiles.viictr.org/profile/265870)
+
+[Explore](https://profiles.viictr.org/profile/266847/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AIREWELE, GLADSTONE](https://profiles.viictr.org/profile/269786)
+  * [CARMOUCHE, ALAUNDRA](https://profiles.viictr.org/profile/5236829)
+  * [FLANAGAN, JONATHAN](https://profiles.viictr.org/profile/268458)
+  * [KIM, YOUNGNA](https://profiles.viictr.org/profile/267625)
+  * [MAHONEY, JR., DONALD](https://profiles.viictr.org/profile/267273)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BERTUCH, ALISON](https://profiles.viictr.org/profile/266270)
+  * [FASIPE, TITILOPE](https://profiles.viictr.org/profile/3009864)
+  * [KIM, YOUNGNA](https://profiles.viictr.org/profile/267625)
+  * [KIRK, SUSAN](https://profiles.viictr.org/profile/266653)
+  * [MAHONEY, JR., DONALD](https://profiles.viictr.org/profile/267273)
+
+_
+

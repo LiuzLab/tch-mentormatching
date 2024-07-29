@@ -1,0 +1,237 @@
+## NILSON SALAS
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Surgery  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=GKI88mrJbrj0So7%2bwHnBJ%2fqJIwQ%3d&rnd=725dd04a-2a43-44dd-a51d-a0d2c09ee17d)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=15317806)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Lyons C, Joseph R, **Salas N** , Reardon PR, Bass BL, Dunkin BJ. Mesh fixation with a barbed anchor suture results in significantly less strangulation of the abdominal wall. Surg Endosc. 2012 May; 26(5):1254-7. PMID: [22083327](//www.ncbi.nlm.nih.gov/pubmed/22083327).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22083327/citedby/) Fields:
+
+Dia Diagnostic ImagingGas GastroenterologyGen General Surgery
+
+Translation:Animals
+
+  2. Joseph RA, **Salas NA** , Donovan MA, Reardon PR, Bass BL, Dunkin BJ. Single-site laparoscopic (SSL) cholecystectomy in human cadavers using a novel percutaneous instrument platform and a magnetic anchoring and guidance system (MAGS): reestablishing the "critical view". Surg Endosc. 2012 Jan; 26(1):149-53. PMID: [21789639](//www.ncbi.nlm.nih.gov/pubmed/21789639).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21789639/citedby/) Fields:
+
+Dia Diagnostic ImagingGas GastroenterologyGen General Surgery
+
+Translation:Humans
+
+  3. Joseph RA, Goh AC, Cuevas SP, Donovan MA, Kauffman MG, **Salas NA** , Miles B, Bass BL, Dunkin BJ. "Chopstick" surgery: a novel technique improves surgeon performance and eliminates arm collision in robotic single-incision laparoscopic surgery. Surg Endosc. 2010 Jun; 24(6):1331-5. PMID: [20033723](//www.ncbi.nlm.nih.gov/pubmed/20033723).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20033723/citedby/) Fields:
+
+Dia Diagnostic ImagingGas GastroenterologyGen General Surgery
+
+Translation:Humans
+
+  4. Boon JR, **Salas N** , Avila D, Boone TB, [Lipshultz LI](https://profiles.viictr.org/profile/266450), [Link RE](https://profiles.viictr.org/profile/266761). Construct validity of the pig intestine model in the simulation of laparoscopic urethrovesical anastomosis: tools for objective evaluation. J Endourol. 2008 Dec; 22(12):2713-6. PMID: [19099517](//www.ncbi.nlm.nih.gov/pubmed/19099517).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19099517/citedby/) Fields:
+
+Uro Urology
+
+Translation:Animals
+
+  5. Smith CP, Gangitano DA, Munoz A, **Salas NA** , Boone TB, Aoki KR, Francis J, Somogyi GT. Botulinum toxin type A normalizes alterations in urothelial ATP and NO release induced by chronic spinal cord injury. Neurochem Int. 2008 May; 52(6):1068-75. PMID: [18187233](//www.ncbi.nlm.nih.gov/pubmed/18187233); PMCID: [PMC2440726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2440726).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18187233/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  6. [Khera M](https://profiles.viictr.org/profile/266483), Boone TB, **Salas N** , Jett MF, Somogyi GT. The role of the prostacyclin receptor antagonist RO3244019 in treating neurogenic detrusor overactivity after spinal cord injury in rats. BJU Int. 2007 Feb; 99(2):442-6. PMID: [17313428](//www.ncbi.nlm.nih.gov/pubmed/17313428).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17313428/citedby/) Fields:
+
+Uro Urology
+
+Translation:Animals
+
+  7. **Salas NA** , Somogyi GT, Gangitano DA, Boone TB, Smith CP. Receptor activated bladder and spinal ATP release in neurally intact and chronic spinal cord injured rats. Neurochem Int. 2007 Jan; 50(2):345-50. PMID: [17067723](//www.ncbi.nlm.nih.gov/pubmed/17067723); PMCID: [PMC2753267](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2753267).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17067723/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  8. [Khera M](https://profiles.viictr.org/profile/266483), Somogyi GT, **Salas NA** , Kiss S, Boone TB, Smith CP. In vivo effects of botulinum toxin A on visceral sensory function in chronic spinal cord-injured rats. Urology. 2005 Jul; 66(1):208-12. PMID: [15992889](//www.ncbi.nlm.nih.gov/pubmed/15992889).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15992889/citedby/) Fields:
+
+Uro Urology
+
+Translation:Animals
+
+  9. Vemulakonda VM, Somogyi GT, Kiss S, **Salas NA** , Boone TB, Smith CP. Inhibitory effect of intravesically applied botulinum toxin A in chronic bladder inflammation. J Urol. 2005 Feb; 173(2):621-4. PMID: [15643276](//www.ncbi.nlm.nih.gov/pubmed/15643276).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15643276/citedby/) Fields:
+
+Uro Urology
+
+Translation:Animals
+
+  10. Terrell ML, **Salas N** , Bui V, Summy-Long JY, Kadekaro M. NO inhibition of the magnocellular neuroendocrine system in rats is independent of cGMP signaling pathway. Exp Neurol. 2003 Dec; 184(2):846-56. PMID: [14769377](//www.ncbi.nlm.nih.gov/pubmed/14769377).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14769377/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 10 publications over 7 distinct years, with a maximum of 2
+publications in 2005 and 2007 and
+2011](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,50,0,100,50,100,50,50,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2003| 1  
+2005| 2  
+2006| 1  
+2007| 2  
+2008| 1  
+2009| 1  
+2011| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SALAS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (90)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Spinal Cord Injuries](https://profiles.viictr.org/profile/255468)
+  * [Adenosine Triphosphate](https://profiles.viictr.org/profile/246868)
+  * [Urinary Bladder](https://profiles.viictr.org/profile/257844)
+  * [Spinal Cord](https://profiles.viictr.org/profile/240587)
+  * [Botulinum Toxins, Type A](https://profiles.viictr.org/profile/242501)
+
+[Explore](https://profiles.viictr.org/profile/15317806/198)
+
+_
+
+Co-Authors (3)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [KHERA, MOHIT](https://profiles.viictr.org/profile/266483)
+  * [LINK, RICHARD](https://profiles.viictr.org/profile/266761)
+  * [LIPSHULTZ, LARRY](https://profiles.viictr.org/profile/266450)
+
+[Explore](https://profiles.viictr.org/profile/15317806/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [BUTLER, CHARLES E](https://profiles.viictr.org/profile/12582594)
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+  * [KHAVARI, ROSE](https://profiles.viictr.org/profile/9909039)
+  * [DIMITRIJEVIC, MILAN](https://profiles.viictr.org/profile/267373)
+
+[Explore](https://profiles.viictr.org/profile/15317806/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ACHARYA, GHANASHYAM](https://profiles.viictr.org/profile/268719)
+  * [MATHISON, MEGUMI](https://profiles.viictr.org/profile/1737890)
+  * [SHEN, HU YING](https://profiles.viictr.org/profile/270198)
+  * [SHIN, CRYSTAL](https://profiles.viictr.org/profile/9039067)
+  * [YAO, QIZHI](https://profiles.viictr.org/profile/268592)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9QYVsPLp/MLn0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

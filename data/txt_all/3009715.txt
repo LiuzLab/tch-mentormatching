@@ -1,0 +1,615 @@
+## KANGHO KIM
+
+| | Title| Adjunct Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| 6431 Fannin  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Hao%2b5k3IbqD8S6%2fv43aML7CZ&rnd=136e9240-a30c-4340-ab94-85931d7e00c9)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3009715)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Lee SH, Suh JH, Heo MJ, Choi JM, Yang Y, Jung HJ, Gao Z, Yongmei Y, Jung SY, Kolonin MG, Cox AR, [Hartig SM](https://profiles.viictr.org/profile/268501), Eltzschig HK, Ju C, Moore DD, **Kim KH** , Lee SH, Suh JH, Heo MJ, Choi JM, Yang Y, Jung HJ, Gao Z, Yu Y, Jung SY, Kolonin MG, Cox AR, Hartig SM, Eltzschig HK, Ju C, Moore DD, Kim KH. The Hepatokine Orosomucoid 2 Mediates Beneficial Metabolic Effects of Bile Acids. Diabetes. 2024 May 01; 73(5):701-712. PMID: [38320268](//www.ncbi.nlm.nih.gov/pubmed/38320268); PMCID: [PMC11043061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11043061).
+
+Citations:  Fields:
+
+End Endocrinology
+
+  2. Masschelin PM, [Saha P](https://profiles.viictr.org/profile/265977), Ochsner SA, Cox AR, **Kim KH** , [Felix JB](https://profiles.viictr.org/profile/24845188), Sharp R, Li X, Tan L, Park JH, Wang L, Putluri V, Lorenzi PL, Nuotio-Antar AM, Sun Z, [Kaipparettu BA](https://profiles.viictr.org/profile/269257), [Putluri N](https://profiles.viictr.org/profile/269361), Moore DD, Summers SA, [McKenna NJ](https://profiles.viictr.org/profile/268182), [Hartig SM](https://profiles.viictr.org/profile/268501). Vitamin B2 enables regulation of fasting glucose availability. Elife. 2023 Jul 07; 12. PMID: [37417957](//www.ncbi.nlm.nih.gov/pubmed/37417957); PMCID: [PMC10328530](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10328530).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37417957/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  3. [Cox AR](https://profiles.viictr.org/profile/3010609), Masschelin PM, [Saha PK](https://profiles.viictr.org/profile/265977), [Felix JB](https://profiles.viictr.org/profile/24845188), Sharp R, Lian Z, Xia Y, Chernis N, Bader DA, **Kim KH** , Li X, Yoshino J, Li X, Li G, Sun Z, Wu H, [Coarfa C](https://profiles.viictr.org/profile/265668), Moore DD, Klein S, Sun K, [Hartig SM](https://profiles.viictr.org/profile/268501). The rheumatoid arthritis drug auranofin lowers leptin levels and exerts antidiabetic effects in obese mice. Cell Metab. 2022 12 06; 34(12):1932-1946.e7. PMID: [36243005](//www.ncbi.nlm.nih.gov/pubmed/36243005); PMCID: [PMC9742315](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9742315).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36243005/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+  4. Suh JH, **Kim KH** , [Conner ME](https://profiles.viictr.org/profile/268086), Moore DD, [Preidis GA](https://profiles.viictr.org/profile/6714426). Hepatic PPARa Is Destabilized by SIRT1 Deacetylase in Undernourished Male Mice. Front Nutr. 2022; 9:831879. PMID: [35419389](//www.ncbi.nlm.nih.gov/pubmed/35419389); PMCID: [PMC8997242](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8997242).
+
+Citations:
+
+  5. Cox AR, Chernis N, **Kim KH** , Masschelin PM, [Saha PK](https://profiles.viictr.org/profile/265977), Briley SM, Sharp R, Li X, [Felix JB](https://profiles.viictr.org/profile/24845188), [Sun Z](https://profiles.viictr.org/profile/6478181), Moore DD, [Pangas SA](https://profiles.viictr.org/profile/267477), [Hartig SM](https://profiles.viictr.org/profile/268501). Ube2i deletion in adipocytes causes lipoatrophy in mice. Mol Metab. 2021 06; 48:101221. PMID: [33771728](//www.ncbi.nlm.nih.gov/pubmed/33771728); PMCID: [PMC8080079](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8080079).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33771728/citedby/) Fields:
+
+Met Metabolism
+
+Translation:AnimalsCells
+
+  6. Lee SH, Choi JM, Jung SY, Cox AR, [Hartig SM](https://profiles.viictr.org/profile/268501), Moore DD, **Kim KH**. The bile acid induced hepatokine orosomucoid suppresses adipocyte differentiation. Biochem Biophys Res Commun. 2021 01 01; 534:864-870. PMID: [33168190](//www.ncbi.nlm.nih.gov/pubmed/33168190); PMCID: [PMC7785631](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7785631).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33168190/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  7. [Preidis GA](https://profiles.viictr.org/profile/6714426), [Soni KG](https://profiles.viictr.org/profile/17973046), Suh JH, Halder T, **Kim KH** , Choi JM, Li F, [Devaraj S](https://profiles.viictr.org/profile/266182), [Conner ME](https://profiles.viictr.org/profile/268086), [Coarfa C](https://profiles.viictr.org/profile/265668), Jung SY, Moore DD. Coagulopathy in Malnourished Mice Is Sexually Dimorphic and Regulated by Nutrient-Sensing Nuclear Receptors. Hepatol Commun. 2020 Dec; 4(12):1835-1850. PMID: [33305154](//www.ncbi.nlm.nih.gov/pubmed/33305154); PMCID: [PMC7706303](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7706303).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33305154/citedby/) Fields:
+
+Gas Gastroenterology
+
+  8. Cox AR, Chernis N, Bader DA, [Saha PK](https://profiles.viictr.org/profile/265977), Masschelin PM, [Felix JB](https://profiles.viictr.org/profile/24845188), Sharp R, Lian Z, Putluri V, Rajapakshe K, **Kim KH** , [Villareal DT](https://profiles.viictr.org/profile/8684231), Armamento-Villareal R, [Wu H](https://profiles.viictr.org/profile/266361), [Coarfa C](https://profiles.viictr.org/profile/265668), [Putluri N](https://profiles.viictr.org/profile/269361), [Hartig SM](https://profiles.viictr.org/profile/268501). STAT1 Dissociates Adipose Tissue Inflammation From Insulin Sensitivity in Obesity. Diabetes. 2020 12; 69(12):2630-2641. PMID: [32994273](//www.ncbi.nlm.nih.gov/pubmed/32994273); PMCID: [PMC7679774](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7679774).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32994273/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansAnimalsCells
+
+  9. Pastore N, Huynh T, Herz NJ, Calcagni' A, [Klisch TJ](https://profiles.viictr.org/profile/265995), Brunetti L, **Kim KH** , [De Giorgi M](https://profiles.viictr.org/profile/20777976), Hurley A, Carissimo A, Mutarelli M, Aleksieva N, D'Orsi L, [Lagor WR](https://profiles.viictr.org/profile/270145), Moore DD, Settembre C, [Finegold MJ](https://profiles.viictr.org/profile/269596), Forbes SJ, [Ballabio A](https://profiles.viictr.org/profile/266220). TFEB regulates murine liver cell fate during development and regeneration. Nat Commun. 2020 05 18; 11(1):2461. PMID: [32424153](//www.ncbi.nlm.nih.gov/pubmed/32424153); PMCID: [PMC7235048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7235048).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32424153/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  10. Dong J, Kaushal A, Katz TA, Jangid RK, Robertson MJ, [Grimm SL](https://profiles.viictr.org/profile/35589914), Ambati CSR, Putluri V, Cox AR, **Kim KH** , May TD, Gallo MR, Moore DD, [Hartig SM](https://profiles.viictr.org/profile/268501), [Foulds CE](https://profiles.viictr.org/profile/267919), [Putluri N](https://profiles.viictr.org/profile/269361), [Coarfa C](https://profiles.viictr.org/profile/265668), [Walker CL](https://profiles.viictr.org/profile/17873538), Trevi?o LS. Epigenome environment interactions accelerate epigenomic aging and unlock metabolically restricted epigenetic reprogramming in adulthood. Nat Commun. 2020 05 08; 11(1):2316. PMID: [32385268](//www.ncbi.nlm.nih.gov/pubmed/32385268); PMCID: [PMC7210260](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7210260).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32385268/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  11. [Wooton-Kee CR](https://profiles.viictr.org/profile/3009587), Robertson M, Zhou Y, [Dong B](https://profiles.viictr.org/profile/3009532), Sun Z, **Kim KH** , [Liu H](https://profiles.viictr.org/profile/37104192), [Xu Y](https://profiles.viictr.org/profile/269314), [Putluri N](https://profiles.viictr.org/profile/269361), [Saha P](https://profiles.viictr.org/profile/265977), [Coarfa C](https://profiles.viictr.org/profile/265668), [Moore DD](https://profiles.viictr.org/profile/268340), Nuotio-Antar AM. Metabolic dysregulation in the Atp7b-/- Wilson's disease mouse model. Proc Natl Acad Sci U S A. 2020 01 28; 117(4):2076-2083. PMID: [31924743](//www.ncbi.nlm.nih.gov/pubmed/31924743); PMCID: [PMC6994990](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6994990).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31924743/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  12. Zhou Y, [Dong B](https://profiles.viictr.org/profile/3009532), **Kim KH** , Choi S, Sun Z, Wu N, [Wu Y](https://profiles.viictr.org/profile/14348333), Scott J, Moore DD. Vitamin D Receptor Activation in Liver Macrophages Protects Against Hepatic Endoplasmic Reticulum Stress in Mice. Hepatology. 2020 04; 71(4):1453-1466. PMID: [31381163](//www.ncbi.nlm.nih.gov/pubmed/31381163).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31381163/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:AnimalsCells
+
+  13. Choi S, [Dong B](https://profiles.viictr.org/profile/3009532), Lin CJ, Heo MJ, **Kim KH** , Sun Z, Wagner M, [Putluri N](https://profiles.viictr.org/profile/269361), Suh JM, Wang MC, Moore DD. Methyl-Sensing Nuclear Receptor Liver Receptor Homolog-1 Regulates Mitochondrial Function in Mouse Hepatocytes. Hepatology. 2020 03; 71(3):1055-1069. PMID: [31355949](//www.ncbi.nlm.nih.gov/pubmed/31355949); PMCID: [PMC6987012](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6987012).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31355949/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimalsCells
+
+  14. **Kim KH** , Choi JM, Li F, [Dong B](https://profiles.viictr.org/profile/3009532), [Wooton-Kee CR](https://profiles.viictr.org/profile/3009587), Arizpe A, Anakk S, Jung SY, [Hartig SM](https://profiles.viictr.org/profile/268501), Moore DD. Constitutive Androstane Receptor Differentially Regulates Bile Acid Homeostasis in Mouse Models of Intrahepatic Cholestasis. Hepatol Commun. 2019 Jan; 3(1):147-159. PMID: [30620001](//www.ncbi.nlm.nih.gov/pubmed/30620001); PMCID: [PMC6312660](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6312660).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30620001/citedby/) Fields:
+
+Gas Gastroenterology
+
+  15. Pankowicz FP, Barzi M, **Kim KH** , Legras X, Martins CS, [Wooton-Kee CR](https://profiles.viictr.org/profile/3009587), [Lagor WR](https://profiles.viictr.org/profile/270145), [Marini JC](https://profiles.viictr.org/profile/265723), [Elsea SH](https://profiles.viictr.org/profile/270128), Bissig-Choisat B, Moore DD, [Bissig KD](https://profiles.viictr.org/profile/266494). Rapid Disruption of Genes Specifically in Livers of Mice Using Multiplex CRISPR/Cas9 Editing. Gastroenterology. 2018 12; 155(6):1967-1970.e6. PMID: [30170115](//www.ncbi.nlm.nih.gov/pubmed/30170115); PMCID: [PMC6420307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6420307).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30170115/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:AnimalsCells
+
+  16. **Kim KH** , Choi JM, [Li F](https://profiles.viictr.org/profile/4897356), Arizpe A, [Wooton-Kee CR](https://profiles.viictr.org/profile/3009587), Anakk S, Jung SY, [Finegold MJ](https://profiles.viictr.org/profile/269596), Moore DD. Xenobiotic Nuclear Receptor Signaling Determines Molecular Pathogenesis of Progressive Familial Intrahepatic Cholestasis. Endocrinology. 2018 06 01; 159(6):2435-2446. PMID: [29718219](//www.ncbi.nlm.nih.gov/pubmed/29718219); PMCID: [PMC7263843](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7263843).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29718219/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  17. **Kim KH** , Choi S, Zhou Y, Kim EY, Lee JM, [Saha PK](https://profiles.viictr.org/profile/265977), Anakk S, Moore DD. Hepatic FXR/SHP axis modulates systemic glucose and fatty acid homeostasis in aged mice. Hepatology. 2017 08; 66(2):498-509. PMID: [28378930](//www.ncbi.nlm.nih.gov/pubmed/28378930); PMCID: [PMC8156739](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8156739).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28378930/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:AnimalsCells
+
+  18. **Kim KH** , Moore DD. Regulation of Liver Energy Balance by the Nuclear Receptors Farnesoid X Receptor and Peroxisome Proliferator Activated Receptor a. Dig Dis. 2017; 35(3):203-209. PMID: [28249296](//www.ncbi.nlm.nih.gov/pubmed/28249296).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28249296/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  19. Wu N, **Kim KH** , Zhou Y, Lee JM, Kettner NM, Mamrosh JL, Choi S, [Fu L](https://profiles.viictr.org/profile/268379), Moore DD. Small Heterodimer Partner (NR0B2) Coordinates Nutrient Signaling and the Circadian Clock in Mice. Mol Endocrinol. 2016 Sep; 30(9):988-95. PMID: [27427832](//www.ncbi.nlm.nih.gov/pubmed/27427832); PMCID: [PMC5004116](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5004116).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27427832/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  20. **Kim KH** , Lee JM, Zhou Y, [Harpavat S](https://profiles.viictr.org/profile/270008), Moore DD. Glucocorticoids Have Opposing Effects on Liver Fibrosis in Hepatic Stellate and Immune Cells. Mol Endocrinol. 2016 Aug; 30(8):905-16. PMID: [27355192](//www.ncbi.nlm.nih.gov/pubmed/27355192); PMCID: [PMC5414623](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5414623).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27355192/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  21. Kim DG, **Kim KH** , Seo YJ, Yang H, Marcusson EG, Son E, Lee K, Sa JK, Lee HW, Nam DH. Anti-miR delivery strategies to bypass the blood-brain barrier in glioblastoma therapy. Oncotarget. 2016 May 17; 7(20):29400-11. PMID: [27102443](//www.ncbi.nlm.nih.gov/pubmed/27102443); PMCID: [PMC5045404](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5045404).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27102443/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  22. Gomez-Ospina N, Potter CJ, Xiao R, Manickam K, Kim MS, **Kim KH** , [Shneider BL](https://profiles.viictr.org/profile/8354536), Picarsic JL, Jacobson TA, Zhang J, He W, [Liu P](https://profiles.viictr.org/profile/3010309), Knisely AS, [Finegold MJ](https://profiles.viictr.org/profile/269596), [Muzny DM](https://profiles.viictr.org/profile/268028), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Lupski JR](https://profiles.viictr.org/profile/268099), [Plon SE](https://profiles.viictr.org/profile/269771), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Eng CM](https://profiles.viictr.org/profile/267270), Yang Y, Washington GC, Porteus MH, Berquist WE, Kambham N, Singh RJ, Xia F, Enns GM, Moore DD. Mutations in the nuclear bile acid receptor FXR cause progressive familial intrahepatic cholestasis. Nat Commun. 2016 Feb 18; 7:10713. PMID: [26888176](//www.ncbi.nlm.nih.gov/pubmed/26888176); PMCID: [PMC4759630](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4759630).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26888176/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Humans
+
+  23. Kang CU, Jeon BH, Park SS, Kang JS, **Kim KH** , Kim DK, Choi UK, Kim SJ. Inhibition of pyrite oxidation by surface coating: a long-term field study. Environ Geochem Health. 2016 Oct; 38(5):1137-1146. PMID: [26493832](//www.ncbi.nlm.nih.gov/pubmed/26493832).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26493832/citedby/) Fields:
+
+Che ChemistryEnv Environmental Health
+
+Translation:CellsPHPublic Health
+
+  24. Lee Y, **Kim KH** , Kim DG, Cho HJ, Kim Y, Rheey J, Shin K, Seo YJ, Choi YS, Lee JI, Lee J, Joo KM, Nam DH. FoxM1 Promotes Stemness and Radio-Resistance of Glioblastoma by Regulating the Master Stem Cell Regulator Sox2. PLoS One. 2015; 10(10):e0137703. PMID: [26444992](//www.ncbi.nlm.nih.gov/pubmed/26444992); PMCID: [PMC4596841](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4596841).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26444992/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  25. Elkamhawy A, Viswanath AN, Pae AN, Kim HY, Heo JC, Park WK, Lee CO, Yang H, **Kim KH** , Nam DH, Seol HJ, Cho H, Roh EJ. Discovery of potent and selective cytotoxic activity of new quinazoline-ureas against TMZ-resistant glioblastoma multiforme (GBM). Eur J Med Chem. 2015 Oct 20; 103:210-22. PMID: [26355532](//www.ncbi.nlm.nih.gov/pubmed/26355532).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26355532/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  26. **Kim KH** , Sederstrom JM. Assaying Cell Cycle Status Using Flow Cytometry. Curr Protoc Mol Biol. 2015 Jul 01; 111:28.6.1-28.6.11. PMID: [26131851](//www.ncbi.nlm.nih.gov/pubmed/26131851); PMCID: [PMC4516267](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4516267).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26131851/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimals
+
+  27. Lee JM, Wagner M, Xiao R, **Kim KH** , Feng D, Lazar MA, Moore DD. Nutrient-sensing nuclear receptors coordinate autophagy. Nature. 2014 Dec 04; 516(7529):112-5. PMID: [25383539](//www.ncbi.nlm.nih.gov/pubmed/25383539); PMCID: [PMC4267857](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4267857).
+
+Citations:
+[224](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25383539/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  28. Kang W, Jin J, Yang H, Seol HJ, **Kim KH** , Lee JI, Kim SU, Joo KM, Nam DH. Genetically-engineered human neural stem cells with rabbit carboxyl esterase can target CNS lymphoma. Anticancer Res. 2013 Dec; 33(12):5335-42. PMID: [24324067](//www.ncbi.nlm.nih.gov/pubmed/24324067).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24324067/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  29. Yang H, Lee HW, Kim Y, Lee Y, Choi YS, **Kim KH** , Jin J, Lee J, Joo KM, Nam DH. Radiosensitization of brain metastasis by targeting c-MET. Lab Invest. 2013 Mar; 93(3):344-53. PMID: [23381625](//www.ncbi.nlm.nih.gov/pubmed/23381625).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23381625/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesPat Pathology
+
+Translation:HumansAnimalsCells
+
+  30. **Kim KH** , Seol HJ, Kim EH, Rheey J, Jin HJ, Lee Y, Joo KM, Lee J, Nam DH. Wnt/?-catenin signaling is a key downstream mediator of MET signaling in glioblastoma stem cells. Neuro Oncol. 2013 Feb; 15(2):161-71. PMID: [23258844](//www.ncbi.nlm.nih.gov/pubmed/23258844); PMCID: [PMC3548587](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3548587).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23258844/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  31. Hwang SJ, Seol HJ, Park YM, **Kim KH** , Gorospe M, Nam DH, Kim HH. MicroRNA-146a suppresses metastatic activity in brain metastasis. Mol Cells. 2012 Sep; 34(3):329-34. PMID: [22949171](//www.ncbi.nlm.nih.gov/pubmed/22949171); PMCID: [PMC3887840](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3887840).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22949171/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  32. Joo KM, Jin J, **Kim E** , Ho Kim K, Kim Y, Gu Kang B, Kang YJ, Lathia JD, Cheong KH, Song PH, Kim H, Seol HJ, Kong DS, Lee JI, Rich JN, Lee J, Nam DH. MET signaling regulates glioblastoma stem cells. Cancer Res. 2012 Aug 01; 72(15):3828-38. PMID: [22617325](//www.ncbi.nlm.nih.gov/pubmed/22617325).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22617325/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  33. Joo KM, Jin J, Kang BG, Lee SJ, **Kim KH** , Yang H, Lee YA, Cho YJ, Im YS, Lee DS, Lim DH, Kim DH, Um HD, Lee SH, Lee JI, Nam DH. Trans-differentiation of neural stem cells: a therapeutic mechanism against the radiation induced brain damage. PLoS One. 2012; 7(2):e25936. PMID: [22347993](//www.ncbi.nlm.nih.gov/pubmed/22347993); PMCID: [PMC3277599](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3277599).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22347993/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCellsPHPublic Health
+
+  34. Kim Y, **Kim KH** , Lee J, Lee YA, Kim M, Lee SJ, Park K, Yang H, Jin J, Joo KM, Lee J, Nam DH. Wnt activation is implicated in glioblastoma radioresistance. Lab Invest. 2012 Mar; 92(3):466-73. PMID: [22083670](//www.ncbi.nlm.nih.gov/pubmed/22083670).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22083670/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesPat Pathology
+
+Translation:HumansAnimalsCells
+
+  35. **Kim KH** , Yoo HY, Joo KM, Jung Y, Jin J, Kim Y, Yoon SJ, Choi SH, Seol HJ, Park WY, Nam DH. Time-course analysis of DNA damage response-related genes after in vitro radiation in H460 and H1229 lung cancer cell lines. Exp Mol Med. 2011 Jul 30; 43(7):419-26. PMID: [21633183](//www.ncbi.nlm.nih.gov/pubmed/21633183); PMCID: [PMC3158501](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3158501).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21633183/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansCells
+
+  36. Seol HJ, Jin J, Seong DH, Joo KM, Kang W, Yang H, Kim J, Shin CS, Kim Y, **Kim KH** , Kong DS, Lee JI, Aboody KS, Lee HJ, Kim SU, Nam DH. Genetically engineered human neural stem cells with rabbit carboxyl esterase can target brain metastasis from breast cancer. Cancer Lett. 2011 Dec 08; 311(2):152-9. PMID: [21868150](//www.ncbi.nlm.nih.gov/pubmed/21868150).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21868150/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  37. **Kim KH** , Lee GY, Kim JI, Ham M, Won Lee J, Kim JB. Inhibitory effect of LXR activation on cell proliferation and cell cycle progression through lipogenic activity. J Lipid Res. 2010 Dec; 51(12):3425-33. PMID: [20847297](//www.ncbi.nlm.nih.gov/pubmed/20847297); PMCID: [PMC2975714](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2975714).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20847297/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  38. Kim AY, Lee YS, **Kim KH** , Lee JH, Lee HK, Jang SH, Kim SE, Lee GY, Lee JW, Jung SA, Chung HY, Jeong S, Kim JB. Adiponectin represses colon cancer cell proliferation via AdipoR1- and -R2-mediated AMPK activation. Mol Endocrinol. 2010 Jul; 24(7):1441-52. PMID: [20444885](//www.ncbi.nlm.nih.gov/pubmed/20444885); PMCID: [PMC5417469](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5417469).
+
+Citations:
+[100](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20444885/citedby/)
+Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  39. **Kim KH** , Yoon JM, Choi AH, Kim WS, Lee GY, Kim JB. Liver X receptor ligands suppress ubiquitination and degradation of LXRalpha by displacing BARD1/BRCA1. Mol Endocrinol. 2009 Apr; 23(4):466-74. PMID: [19164445](//www.ncbi.nlm.nih.gov/pubmed/19164445); PMCID: [PMC5419272](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5419272).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19164445/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  40. Choi SM, Cho HJ, Cho H, **Kim KH** , Kim JB, Park H. Stra13/DEC1 and DEC2 inhibit sterol regulatory element binding protein-1c in a hypoxia-inducible factor-dependent mechanism. Nucleic Acids Res. 2008 Nov; 36(20):6372-85. PMID: [18838394](//www.ncbi.nlm.nih.gov/pubmed/18838394); PMCID: [PMC2582599](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2582599).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18838394/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  41. Choe SS, Choi AH, Lee JW, **Kim KH** , Chung JJ, Park J, Lee KM, Park KG, Lee IK, Kim JB. Chronic activation of liver X receptor induces beta-cell apoptosis through hyperactivation of lipogenesis: liver X receptor-mediated lipotoxicity in pancreatic beta-cells. Diabetes. 2007 Jun; 56(6):1534-43. PMID: [17369526](//www.ncbi.nlm.nih.gov/pubmed/17369526).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17369526/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  42. Park J, Choe SS, Choi AH, **Kim KH** , Yoon MJ, Suganami T, Ogawa Y, Kim JB. Increase in glucose-6-phosphate dehydrogenase in adipocytes stimulates oxidative stress and inflammatory signals. Diabetes. 2006 Nov; 55(11):2939-49. PMID: [17065329](//www.ncbi.nlm.nih.gov/pubmed/17065329).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17065329/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  43. **Kim KH** , Choi SH, Lee TS, Oh WK, Kim DS, Kim JB. Selective LXRalpha inhibitory effects observed in plant extracts of MEH184 (Parthenocissua tricuspidata) and MEH185 (Euscaphis japonica). Biochem Biophys Res Commun. 2006 Oct 20; 349(2):513-8. PMID: [16949052](//www.ncbi.nlm.nih.gov/pubmed/16949052).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16949052/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansAnimalsCells
+
+  44. Lee YS, Kim WS, **Kim KH** , Yoon MJ, Cho HJ, Shen Y, Ye JM, Lee CH, Oh WK, Kim CT, Hohnen-Behrens C, Gosby A, Kraegen EW, James DE, Kim JB. Berberine, a natural plant product, activates AMP-activated protein kinase with beneficial metabolic effects in diabetic and insulin-resistant states. Diabetes. 2006 Aug; 55(8):2256-64. PMID: [16873688](//www.ncbi.nlm.nih.gov/pubmed/16873688).
+
+Citations:
+[340](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16873688/citedby/)
+Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  45. Song MJ, **Kim KH** , Yoon JM, Kim JB. Activation of Toll-like receptor 4 is associated with insulin resistance in adipocytes. Biochem Biophys Res Commun. 2006 Aug 04; 346(3):739-45. PMID: [16781673](//www.ncbi.nlm.nih.gov/pubmed/16781673).
+
+Citations:
+[153](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16781673/citedby/)
+Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  46. Do EU, Jo EB, Choi G, Piao LZ, Shin J, Seo MD, Kang SJ, Lee BJ, **Kim KH** , Kim JB, Kim SI. Melanocortin 4 receptors interact with antimicrobial frog peptide analogues. Biochem Biophys Res Commun. 2006 May 19; 343(4):1094-100. PMID: [16579969](//www.ncbi.nlm.nih.gov/pubmed/16579969).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansAnimalsCells
+
+  47. Yoo EJ, Chung JJ, Choe SS, **Kim KH** , Kim JB. Down-regulation of histone deacetylases stimulates adipocyte differentiation. J Biol Chem. 2006 Mar 10; 281(10):6608-15. PMID: [16407282](//www.ncbi.nlm.nih.gov/pubmed/16407282).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16407282/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  48. **Kim KH** , Song MJ, Chung J, Park H, Kim JB. Hypoxia inhibits adipocyte differentiation in a HDAC-independent manner. Biochem Biophys Res Commun. 2005 Aug 12; 333(4):1178-84. PMID: [15975549](//www.ncbi.nlm.nih.gov/pubmed/15975549).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15975549/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  49. Park J, Rho HK, **Kim KH** , Choe SS, Lee YS, Kim JB. Overexpression of glucose-6-phosphate dehydrogenase is associated with lipid dysregulation and insulin resistance in obesity. Mol Cell Biol. 2005 Jun; 25(12):5146-57. PMID: [15923630](//www.ncbi.nlm.nih.gov/pubmed/15923630); PMCID: [PMC1140588](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1140588).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15923630/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  50. **Kim KH** , Song MJ, Yoo EJ, Choe SS, Park SD, Kim JB. Regulatory role of glycogen synthase kinase 3 for transcriptional activity of ADD1/SREBP1c. J Biol Chem. 2004 Dec 10; 279(50):51999-2006. PMID: [15466874](//www.ncbi.nlm.nih.gov/pubmed/15466874).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15466874/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 50 publications over 21 distinct years, with a maximum of
+7 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,14,29,86,14,14,14,29,43,57,29,14,57,57,29,43,14,100,14,29,14,14&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 1  
+2005| 2  
+2006| 6  
+2007| 1  
+2008| 1  
+2009| 1  
+2010| 2  
+2011| 3  
+2012| 4  
+2013| 2  
+2014| 1  
+2015| 4  
+2016| 4  
+2017| 2  
+2018| 3  
+2019| 1  
+2020| 7  
+2021| 1  
+2022| 2  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+KIM's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (328)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Receptors, Cytoplasmic and Nuclear](https://profiles.viictr.org/profile/262075)
+  * [Orosomucoid](https://profiles.viictr.org/profile/252394)
+  * [Bile Acids and Salts](https://profiles.viictr.org/profile/264812)
+  * [Liver](https://profiles.viictr.org/profile/241242)
+  * [Adipogenesis](https://profiles.viictr.org/profile/248166)
+
+[Explore](https://profiles.viictr.org/profile/3009715/198)
+
+_
+
+Co-Authors (45)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HARTIG, SEAN](https://profiles.viictr.org/profile/268501)
+  * [WOOTON-KEE, CLAVIA](https://profiles.viictr.org/profile/3009587)
+  * [SAHA, PRADIP](https://profiles.viictr.org/profile/265977)
+  * [PREIDIS, GEOFFREY](https://profiles.viictr.org/profile/6714426)
+  * [DONG, BINGNING](https://profiles.viictr.org/profile/3009532)
+
+[Explore](https://profiles.viictr.org/profile/3009715/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [ANDREEFF, MICHAEL](https://profiles.viictr.org/profile/12582880)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+
+[Explore](https://profiles.viictr.org/profile/3009715/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHANG, ERIC](https://profiles.viictr.org/profile/267726)
+  * [PARCHEM, RONALD](https://profiles.viictr.org/profile/15317902)
+  * [RICHARDS, JOANNE](https://profiles.viictr.org/profile/267831)
+  * [SHEN, TAO](https://profiles.viictr.org/profile/3009548)
+  * [SREEKUMAR, ARUN](https://profiles.viictr.org/profile/266636)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [AGOULNIK, IRINA](https://profiles.viictr.org/profile/269792)
+  * [DEMAYO, FRANCESCO](https://profiles.viictr.org/profile/267848)
+  * [LANZ, RAINER](https://profiles.viictr.org/profile/267684)
+  * [ROSEN, JEFFREY](https://profiles.viictr.org/profile/267640)
+  * [SMITH, ROY](https://profiles.viictr.org/profile/269524)
+
+_
+

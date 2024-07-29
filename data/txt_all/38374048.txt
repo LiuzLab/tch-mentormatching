@@ -1,0 +1,453 @@
+## STEVEN BOEYNAEMS
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| 1250 MOURSUND STREET  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Bb8192DJbqn6Q5bj4X7POZSOJBzEkiEX&rnd=5affdbd7-818a-4124-b380-8ffadebfaff6)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=38374048)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Field S, Dorone Y, Dwyer WP, Cox JA, Raba D, Froehlich J, Blea M, [Carmo OMS](https://profiles.viictr.org/profile/40674826), Wallace IS, Hastings R, **Boeynaems S** , Rhee SY. Arabidopsis thaliana RHAMNOSE 1 condensate formation drives UDP-rhamnose synthesis. bioRxiv. 2024 Feb 19. PMID: [38464008](//www.ncbi.nlm.nih.gov/pubmed/38464008); PMCID: [PMC10925092](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10925092).
+
+Citations:
+
+  2. Qin W, Cheah JS, Xu C, Messing J, Freibaum BD, **Boeynaems S** , Taylor JP, Udeshi ND, Carr SA, Ting AY. Dynamic mapping of proteome trafficking within and between living cells by TransitID. Cell. 2023 07 20; 186(15):3307-3324.e30. PMID: [37385249](//www.ncbi.nlm.nih.gov/pubmed/37385249); PMCID: [PMC10527209](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10527209).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37385249/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  3. **Boeynaems S** , Dorone Y, Zhuang Y, Shabardina V, Huang G, Marian A, Kim G, Sanyal A, Sen NE, Griffith D, Docampo R, Lasker K, Ruiz-Trillo I, Auburger G, Holehouse AS, Kabashi E, Lin Y, Gitler AD. Poly(A)-binding protein is an ataxin-2 chaperone that regulates biomolecular condensates. Mol Cell. 2023 Jun 15; 83(12):2020-2034.e6. PMID: [37295429](//www.ncbi.nlm.nih.gov/pubmed/37295429); PMCID: [PMC10318123](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10318123).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37295429/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  4. Romero-Perez PS, Dorone Y, Flores E, Sukenik S, **Boeynaems S**. When Phased without Water: Biophysics of Cellular Desiccation, from Biomolecules to Condensates. Chem Rev. 2023 07 26; 123(14):9010-9035. PMID: [37132487](//www.ncbi.nlm.nih.gov/pubmed/37132487); PMCID: [PMC10375483](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10375483).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37132487/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  5. [Onuchic P](https://profiles.viictr.org/profile/40100182), **Boeynaems S**. You're in then you're out. Nat Chem Biol. 2023 Apr; 19(4):399-400. PMID: [36747053](//www.ncbi.nlm.nih.gov/pubmed/36747053).
+
+Citations:  Fields:
+
+Bio BiologyChe Chemistry
+
+  6. **Boeynaems S** , Ma XR, Yeong V, Ginell GM, Chen JH, Blum JA, Nakayama L, Sanyal A, Briner A, Haver DV, Pauwels J, Ekman A, Schmidt HB, Sundararajan K, Porta L, Lasker K, Larabell C, Hayashi MAF, Kundaje A, Impens F, Obermeyer A, Holehouse AS, Gitler AD. Aberrant phase separation is a common killing strategy of positively charged peptides in biology and human disease. bioRxiv. 2023 Mar 09. PMID: [36945394](//www.ncbi.nlm.nih.gov/pubmed/36945394); PMCID: [PMC10028949](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10028949).
+
+Citations:
+
+  7. Xu WQ, Cheah JS, Xu C, Messing J, Freibaum BD, **Boeynaems S** , Taylor JP, Udeshi ND, Carr SA, Ting AY. Dynamic mapping of proteome trafficking within and between living cells by TransitID. bioRxiv. 2023 Feb 08. PMID: [36798302](//www.ncbi.nlm.nih.gov/pubmed/36798302); PMCID: [PMC9934598](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9934598).
+
+Citations:
+
+  8. **Boeynaems S** , Chong S, Gsponer J, Holt L, Milovanovic D, Mitrea DM, Mueller-Cajar O, Portz B, Reilly JF, Reinkemeier CD, Sabari BR, Sanulli S, Shorter J, Sontag E, Strader L, Stachowiak J, Weber SC, White M, Zhang H, Zweckstetter M, Elbaum-Garfinkle S, Kriwacki R. Phase Separation in Biology and Disease; Current Perspectives and Open Questions. J Mol Biol. 2023 03 01; 435(5):167971. PMID: [36690068](//www.ncbi.nlm.nih.gov/pubmed/36690068); PMCID: [PMC9970028](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9970028).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36690068/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  9. Kim G, Nakayama L, Blum JA, Akiyama T, **Boeynaems S** , Chakraborty M, Couthouis J, Tassoni-Tsuchida E, Rodriguez CM, Bassik MC, Gitler AD. Genome-wide CRISPR screen reveals v-ATPase as a drug target to lower levels of ALS protein ataxin-2. Cell Rep. 2022 10 25; 41(4):111508. PMID: [36288714](//www.ncbi.nlm.nih.gov/pubmed/36288714); PMCID: [PMC9664452](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9664452).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36288714/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimals
+
+  10. Lasker K, **Boeynaems S** , Lam V, Scholl D, Stainton E, Briner A, Jacquemyn M, Daelemans D, Deniz A, Villa E, Holehouse AS, Gitler AD, Shapiro L. The material properties of a bacterial-derived biomolecular condensate tune biological function in natural and synthetic systems. Nat Commun. 2022 09 26; 13(1):5643. PMID: [36163138](//www.ncbi.nlm.nih.gov/pubmed/36163138); PMCID: [PMC9512792](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9512792).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36163138/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  11. Vanneste J, Vercruysse T, **Boeynaems S** , Van Damme P, Daelemans D, Van Den Bosch L. Cellular Stress Induces Nucleocytoplasmic Transport Deficits Independent of Stress Granules. Biomedicines. 2022 May 03; 10(5). PMID: [35625794](//www.ncbi.nlm.nih.gov/pubmed/35625794); PMCID: [PMC9138870](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9138870).
+
+Citations:
+
+  12. Dorone Y, **Boeynaems S** , Rhee SY. Live imaging Arabidopsis thaliana embryos under different hydration conditions. STAR Protoc. 2021 12 17; 2(4):101025. PMID: [34977672](//www.ncbi.nlm.nih.gov/pubmed/34977672); PMCID: [PMC8683761](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8683761).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  13. **Boeynaems S** , Gitler AD. You come at the misfolded proteins, you best not miss. Trends Biochem Sci. 2022 01; 47(1):1-2. PMID: [34654581](//www.ncbi.nlm.nih.gov/pubmed/34654581).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  14. Gabarre S, Vernaillen F, Baatsen P, Vints K, Cawthorne C, **Boeynaems S** , Michiels E, Vandael D, Gounko NV, Munck S. A workflow for streamlined acquisition and correlation of serial regions of interest in array tomography. BMC Biol. 2021 07 30; 19(1):152. PMID: [34330271](//www.ncbi.nlm.nih.gov/pubmed/34330271); PMCID: [PMC8323292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8323292).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34330271/citedby/) Fields:
+
+Bio Biology
+
+  15. Dorone Y, **Boeynaems S** , Flores E, Jin B, Hateley S, Bossi F, Lazarus E, Pennington JG, Michiels E, De Decker M, Vints K, Baatsen P, Bassel GW, Otegui MS, Holehouse AS, Exposito-Alonso M, Sukenik S, Gitler AD, Rhee SY. A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation. Cell. 2021 08 05; 184(16):4284-4298.e27. PMID: [34233164](//www.ncbi.nlm.nih.gov/pubmed/34233164); PMCID: [PMC8513799](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8513799).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34233164/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  16. Friedman AK, **Boeynaems S** , Baker LA. Synthetic hydrogel mimics of the nuclear pore complex for the study of nucleocytoplasmic transport defects in C9orf72 ALS/FTD. Anal Bioanal Chem. 2022 Jan; 414(1):525-532. PMID: [34170347](//www.ncbi.nlm.nih.gov/pubmed/34170347).
+
+Citations:  Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansCells
+
+  17. Fumagalli L, Young FL, **Boeynaems S** , De Decker M, Mehta AR, Swijsen A, Fazal R, Guo W, Moisse M, Beckers J, Dedeene L, Selvaraj BT, Vandoorne T, Madan V, van Blitterswijk M, Raitcheva D, McCampbell A, Poesen K, Gitler AD, Koch P, Vanden Berghe P, Thal DR, Verfaillie C, Chandran S, Van Den Bosch L, Bullock SL, Van Damme P. C9orf72-derived arginine-containing dipeptide repeats associate with axonal transport machinery and impede microtubule-based motility. Sci Adv. 2021 04; 7(15). PMID: [33837088](//www.ncbi.nlm.nih.gov/pubmed/33837088); PMCID: [PMC8034861](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8034861).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33837088/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  18. Fazal R, **Boeynaems S** , Swijsen A, De Decker M, Fumagalli L, Moisse M, Vanneste J, Guo W, Boon R, Vercruysse T, Eggermont K, Swinnen B, Beckers J, Pakravan D, Vandoorne T, Vanden Berghe P, Verfaillie C, Van Den Bosch L, Van Damme P. HDAC6 inhibition restores TDP-43 pathology and axonal transport defects in human motor neurons with TARDBP mutations. EMBO J. 2021 04 01; 40(7):e106177. PMID: [33694180](//www.ncbi.nlm.nih.gov/pubmed/33694180); PMCID: [PMC8013789](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8013789).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33694180/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:HumansCells
+
+  19. Hastings RL, **Boeynaems S**. Designer Condensates: A Toolkit for the Biomolecular Architect. J Mol Biol. 2021 06 11; 433(12):166837. PMID: [33539874](//www.ncbi.nlm.nih.gov/pubmed/33539874).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33539874/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  20. Tazelaar GHP, **Boeynaems S** , De Decker M, van Vugt JJFA, Kool L, Goedee HS, McLaughlin RL, Sproviero W, Iacoangeli A, Moisse M, Jacquemyn M, Daelemans D, Dekker AM, van der Spek RA, Westeneng HJ, Kenna KP, Assialioui A, Da Silva N, Project MinE ALS Sequencing Consortium, Pardina JSM, Hardiman O, Morrison KE, Shaw PJ, Shaw CE, Pasterkamp RJ, Landers JE, Van Den Bosch L, Robberecht W, Al-Chalabi A, van den Berg LH, Van Damme P, Veldink JH, van Es MA, Povedano M, Salachas F, Millecamps S, Vourc'h P, Corcia P, Couratier P. ATXN1 repeat expansions confer risk for amyotrophic lateral sclerosis and contribute to TDP-43 mislocalization. Brain Commun. 2020; 2(2):fcaa064. PMID: [32954321](//www.ncbi.nlm.nih.gov/pubmed/32954321); PMCID: [PMC7425293](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7425293).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32954321/citedby/)
+
+  21. Gittings LM, **Boeynaems S** , Lightwood D, Clargo A, Topia S, Nakayama L, Troakes C, Mann DMA, Gitler AD, Lashley T, Isaacs AM. Symmetric dimethylation of poly-GR correlates with disease duration in C9orf72 FTLD and ALS and reduces poly-GR phase separation and toxicity. Acta Neuropathol. 2020 02; 139(2):407-410. PMID: [31832771](//www.ncbi.nlm.nih.gov/pubmed/31832771); PMCID: [PMC6989575](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6989575).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31832771/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansCells
+
+  22. Vanneste J, Vercruysse T, **Boeynaems S** , Sicart A, Van Damme P, Daelemans D, Van Den Bosch L. C9orf72-generated poly-GR and poly-PR do not directly interfere with nucleocytoplasmic transport. Sci Rep. 2019 10 31; 9(1):15728. PMID: [31673013](//www.ncbi.nlm.nih.gov/pubmed/31673013); PMCID: [PMC6823349](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6823349).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31673013/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  23. **Boeynaems S** , Gitler AD. Axons Gonna Ride 'til They Can't No More. Neuron. 2019 10 23; 104(2):179-181. PMID: [31647889](//www.ncbi.nlm.nih.gov/pubmed/31647889).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31647889/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Cells
+
+  24. **Boeynaems S** , Holehouse AS, Weinhardt V, Kovacs D, Van Lindt J, Larabell C, Van Den Bosch L, Das R, Tompa PS, Pappu RV, Gitler AD. Spontaneous driving forces give rise to protein-RNA condensates with coexisting phases and complex material properties. Proc Natl Acad Sci U S A. 2019 04 16; 116(16):7889-7898. PMID: [30926670](//www.ncbi.nlm.nih.gov/pubmed/30926670); PMCID: [PMC6475405](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6475405).
+
+Citations:
+[120](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30926670/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Cells
+
+  25. **Boeynaems S** , Gitler AD. Pour Some Sugar on TDP(-43). Mol Cell. 2018 09 06; 71(5):649-651. PMID: [30193092](//www.ncbi.nlm.nih.gov/pubmed/30193092).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30193092/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Humans
+
+  26. Bogaert E, **Boeynaems S** , Kato M, Guo L, Caulfield TR, Steyaert J, Scheveneels W, Wilmans N, Haeck W, Hersmus N, Schymkowitz J, Rousseau F, Shorter J, Callaerts P, Robberecht W, Van Damme P, Van Den Bosch L. Molecular Dissection of FUS Points at Synergistic Effect of Low-Complexity Domains in Toxicity. Cell Rep. 2018 07 17; 24(3):529-537.e4. PMID: [30021151](//www.ncbi.nlm.nih.gov/pubmed/30021151); PMCID: [PMC6077250](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6077250).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30021151/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  27. **Boeynaems S** , Gitler AD. Phosphorylation Leads the Way for Protein Aggregate Disassembly. Dev Cell. 2018 05 07; 45(3):279-281. PMID: [29738705](//www.ncbi.nlm.nih.gov/pubmed/29738705).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29738705/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  28. **Boeynaems S** , Alberti S, Fawzi NL, Mittag T, Rousseau F, Schymkowitz J, Shorter J, Wolozin B, Van Den Bosch L, Tompa P, Fuxreiter M, Polymenidou M. Protein Phase Separation: A New Phase in Cell Biology. Trends Cell Biol. 2018 06; 28(6):420-435. PMID: [29602697](//www.ncbi.nlm.nih.gov/pubmed/29602697); PMCID: [PMC6034118](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6034118).
+
+Citations:
+[483](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29602697/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  29. **Boeynaems S** , Tompa P, Van Den Bosch L. Phasing in on the cell cycle. Cell Div. 2018; 13:1. PMID: [29416553](//www.ncbi.nlm.nih.gov/pubmed/29416553); PMCID: [PMC5785872](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5785872).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29416553/citedby/)
+
+  30. Swinnen B, Bento-Abreu A, Gendron TF, **Boeynaems S** , Bogaert E, Nuyts R, Timmers M, Scheveneels W, Hersmus N, Wang J, Mizielinska S, Isaacs AM, Petrucelli L, Lemmens R, Van Damme P, Van Den Bosch L, Robberecht W. A zebrafish model for C9orf72 ALS reveals RNA toxicity as a pathogenic mechanism. Acta Neuropathol. 2018 03; 135(3):427-443. PMID: [29302778](//www.ncbi.nlm.nih.gov/pubmed/29302778).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29302778/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  31. Swinnen B, **Boeynaems S** , Schrooten M, Saegeman V, Claeys KG, Van Damme P. Anterior interosseous mononeuropathy associated with HEV infection. Neurol Neuroimmunol Neuroinflamm. 2018 Mar; 5(2):e429. PMID: [29296634](//www.ncbi.nlm.nih.gov/pubmed/29296634); PMCID: [PMC5745356](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5745356).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29296634/citedby/) Fields:
+
+Neu Neurology
+
+  32. **Boeynaems S** , De Decker M, Tompa P, Van Den Bosch L. Arginine-rich Peptides Can Actively Mediate Liquid-liquid Phase Separation. Bio Protoc. 2017 Sep 05; 7(17):e2525. PMID: [34541184](//www.ncbi.nlm.nih.gov/pubmed/34541184); PMCID: [PMC8413492](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8413492).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34541184/citedby/)
+
+  33. **Boeynaems S** , Bogaert E, Kovacs D, Konijnenberg A, Timmerman E, Volkov A, Guharoy M, De Decker M, Jaspers T, Ryan VH, Janke AM, Baatsen P, Vercruysse T, Kolaitis RM, Daelemans D, Taylor JP, Kedersha N, Anderson P, Impens F, Sobott F, Schymkowitz J, Rousseau F, Fawzi NL, Robberecht W, Van Damme P, Tompa P, Van Den Bosch L. Phase Separation of C9orf72 Dipeptide Repeats Perturbs Stress Granule Dynamics. Mol Cell. 2017 Mar 16; 65(6):1044-1055.e5. PMID: [28306503](//www.ncbi.nlm.nih.gov/pubmed/28306503); PMCID: [PMC5364369](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5364369).
+
+Citations:
+[205](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28306503/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  34. **Boeynaems S** , Bogaert E, Van Damme P, Van Den Bosch L. Inside out: the role of nucleocytoplasmic transport in ALS and FTLD. Acta Neuropathol. 2016 08; 132(2):159-173. PMID: [27271576](//www.ncbi.nlm.nih.gov/pubmed/27271576); PMCID: [PMC4947127](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4947127).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27271576/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  35. **Boeynaems S** , Bogaert E, Michiels E, Gijselinck I, Sieben A, Jovicic A, De Baets G, Scheveneels W, Steyaert J, Cuijt I, Verstrepen KJ, Callaerts P, Rousseau F, Schymkowitz J, Cruts M, Van Broeckhoven C, Van Damme P, Gitler AD, Robberecht W, Van Den Bosch L. Drosophila screen connects nuclear transport genes to DPR pathology in c9ALS/FTD. Sci Rep. 2016 Feb 12; 6:20877. PMID: [26869068](//www.ncbi.nlm.nih.gov/pubmed/26869068); PMCID: [PMC4751451](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4751451).
+
+Citations:
+[133](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26869068/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  36. Jovicic A, Mertens J, **Boeynaems S** , Bogaert E, Chai N, Yamada SB, Paul JW, Sun S, Herdy JR, Bieri G, Kramer NJ, Gage FH, Van Den Bosch L, Robberecht W, Gitler AD. Modifiers of C9orf72 dipeptide repeat toxicity connect nucleocytoplasmic transport defects to FTD/ALS. Nat Neurosci. 2015 Sep; 18(9):1226-9. PMID: [26308983](//www.ncbi.nlm.nih.gov/pubmed/26308983); PMCID: [PMC4552077](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4552077).
+
+Citations:
+[301](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26308983/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  37. Gemayel R, Chavali S, Pougach K, Zhu B, **Boeynaems S** , van der Zande E, Gevaert K, Rousseau F, Schymkowitz J, Babu MM, Verstrepen KJ, Legendre M. Variable Glutamine-Rich Repeats Modulate Transcription Factor Activity. Mol Cell. 2015 Aug 20; 59(4):615-27. PMID: [26257283](//www.ncbi.nlm.nih.gov/pubmed/26257283); PMCID: [PMC4543046](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4543046).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26257283/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  38. Gemayel R, Cho J, **Boeynaems S** , Verstrepen KJ. Beyond junk-variable tandem repeats as facilitators of rapid evolution of regulatory and coding sequences. Genes (Basel). 2012 Jul 26; 3(3):461-80. PMID: [24704980](//www.ncbi.nlm.nih.gov/pubmed/24704980); PMCID: [PMC3899988](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3899988).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24704980/citedby/) Fields:
+
+Gen Genetics
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 38 publications over 11 distinct years, with a maximum of
+8 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|8&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,25,25,38,75,50,13,100,38,88,13&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2012| 1  
+2015| 2  
+2016| 2  
+2017| 3  
+2018| 6  
+2019| 4  
+2020| 1  
+2021| 8  
+2022| 3  
+2023| 7  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BOEYNAEMS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (141)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Amyotrophic Lateral Sclerosis](https://profiles.viictr.org/profile/251836)
+  * [Phase Transition](https://profiles.viictr.org/profile/258071)
+  * [Intrinsically Disordered Proteins](https://profiles.viictr.org/profile/27547176)
+  * [Dipeptides](https://profiles.viictr.org/profile/250266)
+  * [Proteins](https://profiles.viictr.org/profile/263805)
+
+[Explore](https://profiles.viictr.org/profile/38374048/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [Onuchic, Paulo](https://profiles.viictr.org/profile/40100182)
+  * [Carmo, Olivia](https://profiles.viictr.org/profile/40674826)
+
+[Explore](https://profiles.viictr.org/profile/38374048/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [CYKOWSKI, MATTHEW](https://profiles.viictr.org/profile/14348186)
+  * [FERREON, ALLAN](https://profiles.viictr.org/profile/8065525)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+
+[Explore](https://profiles.viictr.org/profile/38374048/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GLINTON, KEVIN](https://profiles.viictr.org/profile/31330334)
+  * [GU, YANGHONG](https://profiles.viictr.org/profile/3009510)
+  * [SCAGLIA, FERNANDO](https://profiles.viictr.org/profile/268358)
+  * [WANGLER, MICHAEL](https://profiles.viictr.org/profile/268429)
+  * [WORLEY, KIM](https://profiles.viictr.org/profile/266909)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

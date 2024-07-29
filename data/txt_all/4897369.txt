@@ -1,0 +1,243 @@
+## SURABI VEERARAGAVAN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=IK4182TVIYzVRIzgrn7GPw%3d%3d&rnd=9ed08e01-b059-4698-bc14-debce5a2d8bd)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=4897369)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Suarez CF, Harb OA, Robledo A, Largoza G, Ahn JJ, Alley EK, Wu T, **Veeraragavan S** , McClugage ST, [Iacobas I](https://profiles.viictr.org/profile/7520381), Fish JE, Kan PT, Marrelli SP, [Wythe JD](https://profiles.viictr.org/profile/8451896). MEK signaling represents a viable therapeutic vulnerability of KRAS-driven somatic brain arteriovenous malformations. bioRxiv. 2024 May 15. PMID: [38766159](//www.ncbi.nlm.nih.gov/pubmed/38766159); PMCID: [PMC11101126](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11101126).
+
+Citations:
+
+  2. Jain A, Spanjaard M, Theiss S, Schaaf CP, [Malovannaya A](https://profiles.viictr.org/profile/3010185), [Strong TV](https://profiles.viictr.org/profile/34493462), Reznik DL, Yang MV, Albelda de la Haza P, **Veeraragavan S** , Samaco RC. Magel2 truncation alters select behavioral and physiological outcomes in a rat model of Schaaf-Yang syndrome. Dis Model Mech. 2023 02 01; 16(2). PMID: [36637363](//www.ncbi.nlm.nih.gov/pubmed/36637363); PMCID: [PMC9922728](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9922728).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36637363/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimals
+
+  3. Wotton JM, Peterson E, Flenniken AM, Bains RS, **Veeraragavan S** , Bower LR, Bubier JA, Parisien M, Bezginov A, Haselimashhadi H, Mason J, Moore MA, Stewart ME, Clary DA, Delbarre DJ, Anderson LC, D'Souza A, Goodwin LO, Harrison ME, Huang Z, Mckay M, Qu D, Santos L, Srinivasan S, Urban R, Vukobradovic I, Ward CS, Willett AM, Braun RE, Brown SDM, [Dickinson ME](https://profiles.viictr.org/profile/269085), Heaney JD, Kumar V, Lloyd KCK, Mallon AM, McKerlie C, Murray SA, Nutter LMJ, Parkinson H, Seavitt JR, Wells S, Samaco RC, Chesler EJ, Smedley D, Diatchenko L, Baumbauer KM, Young EE, Bonin RP, Mandillo S, White JK, International Mouse Phenotyping Consortium. Identifying genetic determinants of inflammatory pain in mice using a large-scale gene-targeted screen. Pain. 2022 06 01; 163(6):1139-1157. PMID: [35552317](//www.ncbi.nlm.nih.gov/pubmed/35552317); PMCID: [PMC9100450](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9100450).
+
+Citations:  Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Animals
+
+  4. Haselimashhadi H, Mason JC, Munoz-Fuentes V, Babalola K, Acar EF, Kumar V, White J, Flenniken AM, King R, Straiton E, Seavitt JR, Gaspero A, Garza A, Christianson AE, Hsu CW, Reynolds CL, [Lanza DG](https://profiles.viictr.org/profile/3009682), Lorenzo I, Green JR, Gallegos JJ, Bohat R, Samaco RC, **Veeraragavan S** , Kim JK, Miller G, Fuchs H, Garrett L, Becker L, Kang YK, Clary D, Cho SY, Tamura M, Tanaka N, Soo KD, Bezginov A, Spielmann N, Maier H, Gailus-Durner V, Hiroshi M, Yuichi O, [Heaney JD](https://profiles.viictr.org/profile/268694), [Dickinson ME](https://profiles.viictr.org/profile/269085), Wolfgang W, Tocchini-Valentini GP, Lloyd KCK, McKerlie C, Seong JK, Brown SDM, Smedley D, Flicek P, Mallon AM, Parkinson H, Meehan TF, L?pez-G?mez F, About GB, Champy MF, Vasseur L, Leblanc S, Meziane H, Selloum M, Reilly PT, Sorg T, Yann H, de Angelis MH. Soft windowing application to improve analysis of high-throughput phenotyping data. Bioinformatics. 2020 03 01; 36(5):1492-1500. PMID: [31591642](//www.ncbi.nlm.nih.gov/pubmed/31591642); PMCID: [PMC7115897](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7115897).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31591642/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansAnimals
+
+  5. Luk B, **Veeraragavan S** , Engevik M, Balderas M, Major A, Runge J, [Luna RA](https://profiles.viictr.org/profile/268217), [Versalovic J](https://profiles.viictr.org/profile/269718). Postnatal colonization with human "infant-type" Bifidobacterium species alters behavior of adult gnotobiotic mice. PLoS One. 2018; 13(5):e0196510. PMID: [29763437](//www.ncbi.nlm.nih.gov/pubmed/29763437); PMCID: [PMC5953436](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5953436).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29763437/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  6. Gulinello M, Mitchell HA, Chang Q, Timothy O'Brien W, Zhou Z, Abel T, Wang L, Corbin JG, **Veeraragavan S** , Samaco RC, Andrews NA, Fagiolini M, Cole TB, Burbacher TM, Crawley JN. Rigor and reproducibility in rodent behavioral research. Neurobiol Learn Mem. 2019 11; 165:106780. PMID: [29307548](//www.ncbi.nlm.nih.gov/pubmed/29307548); PMCID: [PMC6034984](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6034984).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29307548/citedby/) Fields:
+
+Beh Behavioral SciencesBio BiologyNeu Neurology
+
+Translation:Animals
+
+  7. **Veeraragavan S** , Wan YW, Connolly DR, Hamilton SM, Ward CS, Soriano S, Pitcher MR, McGraw CM, Huang SG, Green JR, Yuva LA, Liang AJ, Neul JL, Yasui DH, LaSalle JM, [Liu Z](https://profiles.viictr.org/profile/266153), Paylor R, Samaco RC. Loss of MeCP2 in the rat models regression, impaired sociability and transcriptional deficits of Rett syndrome. Hum Mol Genet. 2016 08 01; 25(15):3284-3302. PMID: [27365498](//www.ncbi.nlm.nih.gov/pubmed/27365498); PMCID: [PMC5179927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5179927).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27365498/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimals
+
+  8. Hamilton SM, Green JR, **Veeraragavan S** , Yuva L, McCoy A, Wu Y, Warren J, Little L, Ji D, Cui X, Weinstein E, Paylor R. Fmr1 and Nlgn3 knockout rats: novel tools for investigating autism spectrum disorders. Behav Neurosci. 2014 Apr; 128(2):103-9. PMID: [24773431](//www.ncbi.nlm.nih.gov/pubmed/24773431).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24773431/citedby/) Fields:
+
+Beh Behavioral SciencesNeu Neurology
+
+Translation:Animals
+
+  9. **Veeraragavan S** , Graham D, Bui N, Yuva-Paylor LA, Paylor R, Wess J. Genetic reduction of muscarinic M4 receptor modulates analgesic response and acoustic startle response in a mouse model of fragile X syndrome (FXS). Behav Brain Res. 2012 Mar 01; 228(1):1-8. PMID: [22123412](//www.ncbi.nlm.nih.gov/pubmed/22123412); PMCID: [PMC3264832](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3264832).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22123412/citedby/) Fields:
+
+Beh Behavioral SciencesBra Brain
+
+Translation:Animals
+
+  10. **Veeraragavan S** , Bui N, Perkins JR, Yuva-Paylor LA, Paylor R. The modulation of fragile X behaviors by the muscarinic M4 antagonist, tropicamide. Behav Neurosci. 2011 Oct; 125(5):783-90. PMID: [21942438](//www.ncbi.nlm.nih.gov/pubmed/21942438); PMCID: [PMC3183989](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3183989).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21942438/citedby/) Fields:
+
+Beh Behavioral SciencesNeu Neurology
+
+Translation:Animals
+
+  11. **Veeraragavan S** , Bui N, Perkins JR, Yuva-Paylor LA, Carpenter RL, Paylor R. Modulation of behavioral phenotypes by a muscarinic M1 antagonist in a mouse model of fragile X syndrome. Psychopharmacology (Berl). 2011 Sep; 217(1):143-51. PMID: [21487657](//www.ncbi.nlm.nih.gov/pubmed/21487657).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21487657/citedby/) Fields:
+
+Psy Psychopharmacology
+
+Translation:Animals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 8 distinct years, with a maximum of 3
+publications in
+2011](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,33,0,33,0,67,0,33,33,0,33,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2011| 3  
+2014| 1  
+2016| 1  
+2018| 2  
+2020| 1  
+2021| 1  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+VEERARAGAVAN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (61)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Fragile X Syndrome](https://profiles.viictr.org/profile/247904)
+  * [Fragile X Mental Retardation Protein](https://profiles.viictr.org/profile/239759)
+  * [Behavior, Animal](https://profiles.viictr.org/profile/262537)
+  * [Receptor, Muscarinic M4](https://profiles.viictr.org/profile/251616)
+  * [Muscarinic Antagonists](https://profiles.viictr.org/profile/243479)
+
+[Explore](https://profiles.viictr.org/profile/4897369/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [WYTHE, JOSHUA](https://profiles.viictr.org/profile/8451896)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [DICKINSON, MARY](https://profiles.viictr.org/profile/269085)
+  * [IACOBAS, IONELA](https://profiles.viictr.org/profile/7520381)
+
+[Explore](https://profiles.viictr.org/profile/4897369/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [SHERMAN, STEPHANIE](https://profiles.viictr.org/profile/15317859)
+  * [NELSON, DAVID](https://profiles.viictr.org/profile/269694)
+  * [GLAZE, DANIEL](https://profiles.viictr.org/profile/266425)
+  * [SCHAPIRO, STEVEN J](https://profiles.viictr.org/profile/12582491)
+
+[Explore](https://profiles.viictr.org/profile/4897369/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GINGRAS, MARIE-CLAUDE](https://profiles.viictr.org/profile/266579)
+  * [HARRIS, RONALD](https://profiles.viictr.org/profile/267623)
+  * [KLISCH, TIEMO](https://profiles.viictr.org/profile/265995)
+  * [MATHUR, VEENA](https://profiles.viictr.org/profile/2619345)
+  * [SABO, ANIKO](https://profiles.viictr.org/profile/269113)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

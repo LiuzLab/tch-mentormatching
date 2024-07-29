@@ -1,0 +1,408 @@
+## ZACHARY PITKOW
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Address| One Baylor Plaza  
+Houston, 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JqIk6mrQQIn2S8Ho5G4%3d&rnd=8cca3fd9-7650-4c89-9eaa-9944282b2e30)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=2619384)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01MH130597 (SHETH, SAMEER ANIL)Jun 1, 2023 - Mar 31, 2028NIH  
+Intracranial Investigation of Neural Circuity Underlying Human Mood  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R01NS120407 (PITKOW, ZACHARY SAMUEL)Sep 30, 2020 - Jun 30, 2025NIH  
+CRCNS: Neural computations for continuous control in virtual reality foraging  
+Role: Principal Investigator  
+  
+* * *  
+  
+U01NS094368 (PITKOW, ZACHARY SAMUEL)Sep 30, 2015 - Jun 30, 2020NIH  
+Dynamic network computations for foraging in an uncertain environment  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21DC014518 (ANGELAKI, DORA)Apr 1, 2015 - Mar 31, 2017NIH  
+Cortical feedback to the vestibular brainstem  
+Role: Co-Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Fu J, Shrinivasan S, Ponder K, Muhammad T, [Ding Z](https://profiles.viictr.org/profile/24845227), Wang E, Ding Z, [Tran DT](https://profiles.viictr.org/profile/24845011), Fahey PG, Papadopoulos S, Patel S, Reimer J, Ecker AS, **Pitkow X** , Haefner RM, [Sinz FH](https://profiles.viictr.org/profile/11761036), Franke K, Tolias AS, Fu J, Shrinivasan S, Baroni L, Ding Z, Fahey PG, Pierzchlewicz P, [Ponder K](https://profiles.viictr.org/profile/40152178), Froebe R, Ntanavara L, Muhammad T, Willeke KF, Wang E, Ding Z, Tran DT, Papadopoulos S, Patel S, [Reimer J](https://profiles.viictr.org/profile/3010234), Ecker AS, Pitkow X, Antolik J, Sinz FH, Haefner RM, [Tolias AS](https://profiles.viictr.org/profile/265515), Franke K. Pattern completion and disruption characterize contextual modulation in the visual cortex. bioRxiv. 2024 May 09. PMID: [36993321](//www.ncbi.nlm.nih.gov/pubmed/36993321); PMCID: [PMC10054952](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10054952).
+
+Citations:
+
+  2. Celii B, Papadopoulos S, Ding Z, Fahey PG, Wang E, Papadopoulos C, Kunin AB, Patel S, Bae JA, Bodor AL, Brittain D, Buchanan J, Bumbarger DJ, Castro MA, Cobos E, Dorkenwald S, Elabbady L, Halageri A, Jia Z, Jordan C, Kapner D, Kemnitz N, Kinn S, Lee K, Li K, Lu R, Macrina T, Mahalingam G, Mitchell E, Mondal SS, Mu S, Nehoran B, Popovych S, Schneider-Mizell CM, Silversmith W, Takeno M, Torres R, Turner NL, Wong W, Wu J, Yu SC, Yin W, Xenes D, Kitchell LM, Rivlin PK, Rose VA, Bishop CA, Wester B, Froudarakis E, Walker EY, [Sinz F](https://profiles.viictr.org/profile/11761036), Seung HS, Collman F, da Costa NM, Reid RC, **Pitkow X** , [Tolias AS](https://profiles.viictr.org/profile/265515), [Reimer J](https://profiles.viictr.org/profile/3010234), Papadopoulos S. NEURD: automated proofreading and feature extraction for connectomics. bioRxiv. 2024 Apr 27. PMID: [36993282](//www.ncbi.nlm.nih.gov/pubmed/36993282); PMCID: [PMC10055177](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10055177).
+
+Citations:
+
+  3. MICrONS Consortium, Brittain D, Bumbarger DJ, Kapner D, Kinn S, Seshamani S, Suckow S, Torres R, Yin W, Castro MA, Halageri A, Jia Z, Jordan C, Kemnitz N, Lee K, Li K, Lu R, Mitchell E, Mondal SS, Mu S, Nehoran B, Popovych S, Silversmith W, Wong W, Wu J, [Reimer J](https://profiles.viictr.org/profile/3010234), [Tolias AS](https://profiles.viictr.org/profile/265515), Schneider-Mizell CM, Bodor AL, Buchanan J, Elabbady L, Gamlin C, Mahalingam G, Takeno M, Dorkenwald S, Bae JA, Macrina T, Turner NL, Seung HS, Reid RC, Collman F, Ma?arico da Costa N. Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex. bioRxiv. 2024 Jan 06. PMID: [36747710](//www.ncbi.nlm.nih.gov/pubmed/36747710); PMCID: [PMC9900837](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9900837).
+
+Citations:
+
+  4. Wang EY, Fahey PG, [Ponder K](https://profiles.viictr.org/profile/40152178), [Ding Z](https://profiles.viictr.org/profile/24845227), Chang A, Muhammad T, Patel S, Ding Z, [Tran D](https://profiles.viictr.org/profile/24845011), Fu J, Papadopoulos S, Franke K, Ecker AS, [Reimer J](https://profiles.viictr.org/profile/3010234), **Pitkow X** , [Sinz FH](https://profiles.viictr.org/profile/11761036), [Tolias AS](https://profiles.viictr.org/profile/265515). Towards a Foundation Model of the Mouse Visual Cortex. bioRxiv. 2023 Apr 21. PMID: [36993435](//www.ncbi.nlm.nih.gov/pubmed/36993435); PMCID: [PMC10055288](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10055288).
+
+Citations:
+
+  5. Lakshminarasimhan KJ, Avila E, **Pitkow X** , Angelaki DE. Dynamical latent state computation in the male macaque posterior parietal cortex. Nat Commun. 2023 04 01; 14(1):1832. PMID: [37005470](//www.ncbi.nlm.nih.gov/pubmed/37005470); PMCID: [PMC10067966](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10067966).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37005470/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  6. [Ding Z](https://profiles.viictr.org/profile/24845227), Fahey PG, Papadopoulos S, Wang EY, Celii B, Papadopoulos C, Kunin AB, Chang A, Fu J, Ding Z, Patel S, [Ponder K](https://profiles.viictr.org/profile/40152178), Muhammad T, Bae JA, Bodor AL, Brittain D, Buchanan J, Bumbarger DJ, Castro MA, Cobos E, Dorkenwald S, Elabbady L, Halageri A, Jia Z, Jordan C, Kapner D, Kemnitz N, Kinn S, Lee K, Li K, Lu R, Macrina T, Mahalingam G, Mitchell E, Mondal SS, Mu S, Nehoran B, Popovych S, Schneider-Mizell CM, Silversmith W, Takeno M, Torres R, Turner NL, Wong W, Wu J, Yin W, Yu SC, Froudarakis E, [Sinz F](https://profiles.viictr.org/profile/11761036), Seung HS, Collman F, da Costa NM, Reid RC, Walker EY, **Pitkow X** , [Reimer J](https://profiles.viictr.org/profile/3010234), [Tolias AS](https://profiles.viictr.org/profile/265515). Functional connectomics reveals general wiring rule in mouse visual cortex. bioRxiv. 2023 Mar 30. PMID: [36993398](//www.ncbi.nlm.nih.gov/pubmed/36993398); PMCID: [PMC10054929](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10054929).
+
+Citations:
+
+  7. Li Z, Ortega Caro J, Rusak E, Brendel W, Bethge M, Anselmi F, Patel AB, [Tolias AS](https://profiles.viictr.org/profile/265515), **Pitkow X**. Robust deep learning object recognition models rely on low frequency information in natural images. PLoS Comput Biol. 2023 03; 19(3):e1010932. PMID: [36972288](//www.ncbi.nlm.nih.gov/pubmed/36972288); PMCID: [PMC10079058](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10079058).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36972288/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Humans
+
+  8. Ding Z, [Tran DT](https://profiles.viictr.org/profile/24845011), [Ponder K](https://profiles.viictr.org/profile/40152178), Cobos E, [Ding Z](https://profiles.viictr.org/profile/24845227), Fahey PG, Wang E, Muhammad T, Fu J, Cadena SA, Papadopoulos S, Patel S, Franke K, [Reimer J](https://profiles.viictr.org/profile/3010234), [Sinz FH](https://profiles.viictr.org/profile/11761036), Ecker AS, **Pitkow X** , [Tolias AS](https://profiles.viictr.org/profile/265515). Bipartite invariance in mouse primary visual cortex. bioRxiv. 2023 Mar 16. PMID: [36993218](//www.ncbi.nlm.nih.gov/pubmed/36993218); PMCID: [PMC10055119](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10055119).
+
+Citations:
+
+  9. Xiao J, [Provenza NR](https://profiles.viictr.org/profile/36136344), Asfouri J, Myers J, Mathura RK, Metzger B, Adkinson JA, Allawala AB, Pirtle V, Oswalt D, Shofty B, Robinson ME, [Mathew SJ](https://profiles.viictr.org/profile/269727), [Goodman WK](https://profiles.viictr.org/profile/17873564), Pouratian N, Schrater PR, Patel AB, [Tolias AS](https://profiles.viictr.org/profile/265515), [Bijanki KR](https://profiles.viictr.org/profile/28999159), **Pitkow X** , [Sheth SA](https://profiles.viictr.org/profile/23479136). Decoding Depression Severity From Intracranial Neural Activity. Biol Psychiatry. 2023 09 15; 94(6):445-453. PMID: [36736418](//www.ncbi.nlm.nih.gov/pubmed/36736418); PMCID: [PMC10394110](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10394110).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36736418/citedby/) Fields:
+
+Psy PsychiatryPsy Psychophysiology
+
+Translation:Humans
+
+  10. **Pitkow X**. Algorithmic similarity depends continuously on the input distribution, not categorically on how inputs are generated. Trends Cogn Sci. 2023 03; 27(3):214-215. PMID: [36635179](//www.ncbi.nlm.nih.gov/pubmed/36635179).
+
+Citations:  Fields:
+
+Psy Psychology
+
+Translation:HumansCells
+
+  11. Karantzas N, Besier E, Ortega Caro J, **Pitkow X** , [Tolias AS](https://profiles.viictr.org/profile/265515), Patel AB, Anselmi F. Understanding Robustness and Generalization of Artificial Neural Networks Through Fourier Masks. Front Artif Intell. 2022; 5:890016. PMID: [35903397](//www.ncbi.nlm.nih.gov/pubmed/35903397); PMCID: [PMC9314860](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9314860).
+
+Citations:
+
+  12. Alefantis P, Lakshminarasimhan K, Avila E, Noel JP, **Pitkow X** , Angelaki DE. Sensory Evidence Accumulation Using Optic Flow in a Naturalistic Navigation Task. J Neurosci. 2022 07 06; 42(27):5451-5462. PMID: [35641186](//www.ncbi.nlm.nih.gov/pubmed/35641186); PMCID: [PMC9270913](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9270913).
+
+Citations:
+
+  13. Kim J, Orhan E, Yoon K, **Pitkow X**. Two-Argument Activation Functions Learn Soft XOR Operations Like Cortical Neurons. IEEE Access. 2022; 10:58071-58080. PMID: [36339794](//www.ncbi.nlm.nih.gov/pubmed/36339794); PMCID: [PMC9634945](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9634945).
+
+Citations:
+
+  14. Stavropoulos A, Lakshminarasimhan KJ, Laurens J, **Pitkow X** , Angelaki DE. Influence of sensory modality and control dynamics on human path integration. Elife. 2022 02 18; 11. PMID: [35179488](//www.ncbi.nlm.nih.gov/pubmed/35179488); PMCID: [PMC8856658](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8856658).
+
+Citations:
+
+  15. Yang Q, Walker E, Cotton RJ, [Tolias AS](https://profiles.viictr.org/profile/265515), **Pitkow X**. Revealing nonlinear neural decoding by analyzing choices. Nat Commun. 2021 11 16; 12(1):6557. PMID: [34785652](//www.ncbi.nlm.nih.gov/pubmed/34785652); PMCID: [PMC8595442](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8595442).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  16. Kwon M, Daptardar S, Schrater P, **Pitkow X**. Inverse Rational Control with Partially Observable Continuous Nonlinear Dynamics. Adv Neural Inf Process Syst. 2020 Dec; 33:7898-7909. PMID: [34712038](//www.ncbi.nlm.nih.gov/pubmed/34712038); PMCID: [PMC8549572](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8549572).
+
+Citations:
+
+  17. Wu Z, Kwon M, Daptardar S, Schrater P, **Pitkow X**. Rational thoughts in neural codes. Proc Natl Acad Sci U S A. 2020 11 24; 117(47):29311-29320. PMID: [33229521](//www.ncbi.nlm.nih.gov/pubmed/33229521); PMCID: [PMC7703629](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7703629).
+
+Citations:
+
+  18. Lakshminarasimhan KJ, Avila E, [Neyhart E](https://profiles.viictr.org/profile/24845002), DeAngelis GC, **Pitkow X** , Angelaki DE. Tracking the Mind's Eye: Primate Gaze Behavior during Virtual Visuomotor Navigation Reflects Belief Dynamics. Neuron. 2020 05 20; 106(4):662-674.e5. PMID: [32171388](//www.ncbi.nlm.nih.gov/pubmed/32171388); PMCID: [PMC7323886](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7323886).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32171388/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimals
+
+  19. Walker EY, [Sinz FH](https://profiles.viictr.org/profile/11761036), Cobos E, Muhammad T, Froudarakis E, Fahey PG, Ecker AS, [Reimer J](https://profiles.viictr.org/profile/3010234), **Pitkow X** , [Tolias AS](https://profiles.viictr.org/profile/265515). Inception loops discover what excites neurons most using deep predictive models. Nat Neurosci. 2019 12; 22(12):2060-2065. PMID: [31686023](//www.ncbi.nlm.nih.gov/pubmed/31686023).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31686023/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  20. **Pitkow X** , [Reimer J](https://profiles.viictr.org/profile/3010234), [Tolias AS](https://profiles.viictr.org/profile/265515), [Sinz FH](https://profiles.viictr.org/profile/11761036), Bethge M. Engineering a Less Artificial Intelligence. Neuron. 2019 09 25; 103(6):967-979. PMID: [31557461](//www.ncbi.nlm.nih.gov/pubmed/31557461).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31557461/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  21. Giahi Saravani A, Forseth KJ, Tandon N, **Pitkow X**. Dynamic Brain Interactions during Picture Naming. eNeuro. 2019 Jul/Aug; 6(4). PMID: [31196941](//www.ncbi.nlm.nih.gov/pubmed/31196941); PMCID: [PMC6624411](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6624411).
+
+Citations:
+
+  22. Kumar A, Wu Z, **Pitkow X** , Schrater P. Belief dynamics extraction. Cogsci. 2019 Jul; 2019:2058-2064. PMID: [33367289](//www.ncbi.nlm.nih.gov/pubmed/33367289); PMCID: [PMC7754614](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7754614).
+
+Citations:
+
+  23. Lakshminarasimhan KJ, Pouget A, DeAngelis GC, Angelaki DE, **Pitkow X**. Inferring decoding strategies for multiple correlated neural populations. PLoS Comput Biol. 2018 09; 14(9):e1006371. PMID: [30248091](//www.ncbi.nlm.nih.gov/pubmed/30248091); PMCID: [PMC6188888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6188888).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30248091/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  24. Subramaniyan M, Ecker AS, Patel SS, Cotton RJ, **Pitkow X** , Berens P, [Tolias AS](https://profiles.viictr.org/profile/265515), Bethge M. Faster processing of moving compared with flashed bars in awake macaque V1 provides a neural correlate of the flash lag illusion. J Neurophysiol. 2018 11 01; 120(5):2430-2452. PMID: [30365390](//www.ncbi.nlm.nih.gov/pubmed/30365390); PMCID: [PMC6295525](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6295525).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30365390/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  25. Lakshminarasimhan KJ, Petsalis M, Park H, DeAngelis GC, **Pitkow X** , Angelaki DE. A Dynamic Bayesian Observer Model Reveals Origins of Bias in Visual Path Integration. Neuron. 2018 07 11; 99(1):194-206.e5. PMID: [29937278](//www.ncbi.nlm.nih.gov/pubmed/29937278); PMCID: [PMC6190923](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6190923).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29937278/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  26. **Pitkow X** , Angelaki DE. Inference in the Brain: Statistics Flowing in Redundant Population Codes. Neuron. 2017 Jun 07; 94(5):943-953. PMID: [28595050](//www.ncbi.nlm.nih.gov/pubmed/28595050); PMCID: [PMC5543692](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5543692).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28595050/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  27. **Pitkow X**. Probability by Time. Neuron. 2016 Oct 19; 92(2):275-277. PMID: [27764660](//www.ncbi.nlm.nih.gov/pubmed/27764660).
+
+Citations:
+
+  28. Kim HR, **Pitkow X** , Angelaki DE, DeAngelis GC. A simple approach to ignoring irrelevant variables by population decoding based on multisensory neurons. J Neurophysiol. 2016 09 01; 116(3):1449-67. PMID: [27334948](//www.ncbi.nlm.nih.gov/pubmed/27334948); PMCID: [PMC5040375](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5040375).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27334948/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  29. **Pitkow X** , Liu S, Angelaki DE, DeAngelis GC, Pouget A. How Can Single Sensory Neurons Predict Behavior? Neuron. 2015 Jul 15; 87(2):411-23. PMID: [26182422](//www.ncbi.nlm.nih.gov/pubmed/26182422); PMCID: [PMC4683594](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4683594).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26182422/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  30. Moreno-Bote R, Beck J, Kanitscheider I, **Pitkow X** , Latham P, Pouget A. Information-limiting correlations. Nat Neurosci. 2014 Oct; 17(10):1410-7. PMID: [25195105](//www.ncbi.nlm.nih.gov/pubmed/25195105); PMCID: [PMC4486057](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4486057).
+
+Citations:
+
+  31. Beck JM, Ma WJ, **Pitkow X** , Latham PE, Pouget A. Not noisy, just wrong: the role of suboptimal inference in behavioral variability. Neuron. 2012 Apr 12; 74(1):30-9. PMID: [22500627](//www.ncbi.nlm.nih.gov/pubmed/22500627); PMCID: [PMC4486264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4486264).
+
+Citations:
+
+  32. **Pitkow X** , Meister M. Decorrelation and efficient coding by retinal ganglion cells. Nat Neurosci. 2012 Mar 11; 15(4):628-35. PMID: [22406548](//www.ncbi.nlm.nih.gov/pubmed/22406548); PMCID: [PMC3725273](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3725273).
+
+Citations:
+
+  33. **Pitkow X** , Ahmadian Y, Miller KD. Learning unbelievable probabilities. Adv Neural Inf Process Syst. 2011 Dec; 24:738-746. PMID: [28781497](//www.ncbi.nlm.nih.gov/pubmed/28781497); PMCID: [PMC5543998](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5543998).
+
+Citations:
+
+  34. **Pitkow X**. Exact feature probabilities in images with occlusion. J Vis. 2010 Dec 31; 10(14). PMID: [21196508](//www.ncbi.nlm.nih.gov/pubmed/21196508); PMCID: [PMC7757861](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7757861).
+
+Citations:
+
+  35. **Pitkow X** , Sompolinsky H, Meister M. A neural computation for visual acuity in the presence of eye movements. PLoS Biol. 2007 Dec; 5(12):e331. PMID: [18162043](//www.ncbi.nlm.nih.gov/pubmed/18162043); PMCID: [PMC2222970](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2222970).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 35 publications over 15 distinct years, with a maximum of
+7 publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14,29,0,14,14,29,14,43,57,43,14,57,100,43&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2010| 1  
+2011| 1  
+2012| 2  
+2014| 1  
+2015| 1  
+2016| 2  
+2017| 1  
+2018| 3  
+2019| 4  
+2020| 3  
+2021| 1  
+2022| 4  
+2023| 7  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+PITKOW's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (94)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Models, Neurological](https://profiles.viictr.org/profile/259937)
+  * [Neurons](https://profiles.viictr.org/profile/240409)
+  * [Probability](https://profiles.viictr.org/profile/259990)
+  * [Brain](https://profiles.viictr.org/profile/244853)
+  * [Motion Perception](https://profiles.viictr.org/profile/264129)
+
+[Explore](https://profiles.viictr.org/profile/2619384/198)
+
+_
+
+Co-Authors (12)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+  * [REIMER, JACOB](https://profiles.viictr.org/profile/3010234)
+  * [SINZ, FABIAN](https://profiles.viictr.org/profile/11761036)
+  * [Ding, Zhuokun](https://profiles.viictr.org/profile/24845227)
+  * [Ponder, Kayla](https://profiles.viictr.org/profile/40152178)
+
+[Explore](https://profiles.viictr.org/profile/2619384/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+  * [GABBIANI, FABRIZIO](https://profiles.viictr.org/profile/266193)
+  * [CHANG, EDWARD I-FEI](https://profiles.viictr.org/profile/12583166)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+
+[Explore](https://profiles.viictr.org/profile/2619384/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHITWOOD, RAYMOND](https://profiles.viictr.org/profile/23479121)
+  * [JAGIRDAR, ROHAN](https://profiles.viictr.org/profile/17650548)
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [SAMUEL, MELANIE](https://profiles.viictr.org/profile/10133659)
+  * [XUE, MINGSHAN](https://profiles.viictr.org/profile/7520380)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiUzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [DEWELL, RICHARD](https://profiles.viictr.org/profile/3009865)
+  * [DICKMAN, J. DAVID](https://profiles.viictr.org/profile/266654)
+  * [DUMAN, JOSEPH](https://profiles.viictr.org/profile/268900)
+  * [SAGGAU, PETER](https://profiles.viictr.org/profile/268285)
+  * [SINGH, SUNITA](https://profiles.viictr.org/profile/3494044)
+
+_
+

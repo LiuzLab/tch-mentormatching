@@ -1,0 +1,303 @@
+## AMIR OWRANGI
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiation Oncology  
+Address| 2525 HOLLY HALL  
+Houston, TX 77054  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F6Y58yvoN5n0SIjkwHnBJ%2fqJIwQ%3d&rnd=11b312f6-7266-4817-96a5-d13d25dd2608)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=49466790)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Owrangi A** , Medrano A, Gao Y, Kazemifar S, Hrycushko B, Medin P, Nwachukwu C, Jia X, Albuquerque K. Definitive radiation for advanced cervix cancer is not associated with vaginal shortening-a prospective vaginal length and dose correlation. Brachytherapy. 2024 Mar-Apr; 23(2):136-140. PMID: [38242726](//www.ncbi.nlm.nih.gov/pubmed/38242726).
+
+Citations:
+
+  2. Kanani A, Fatemi-Ardakani A, **Owrangi AM** , Yazdi M, Baghbani H, Mosleh-Shirazi MA. Quantification of Artifacts and Image Distortions in 1.5 Tesla Magnetic Resonance Images of a Commercial Multi-Channel Vaginal Cylinder Brachytherapy Applicator Set. J Biomed Phys Eng. 2023 Dec; 13(6):523-534. PMID: [38148963](//www.ncbi.nlm.nih.gov/pubmed/38148963); PMCID: [PMC10749412](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10749412).
+
+Citations:
+
+  3. Liang X, Yen A, Bai T, Godley A, Shen C, Wu J, Meng B, Lin MH, Medin P, Yan Y, **Owrangi A** , Desai N, Hannan R, Garant A, Jiang S, Deng J. Bony structure enhanced synthetic CT generation using Dixon sequences for pelvis MR-only radiotherapy. Med Phys. 2023 Dec; 50(12):7368-7382. PMID: [37358195](//www.ncbi.nlm.nih.gov/pubmed/37358195).
+
+Citations:
+
+  4. Kanani A, **Owrangi A** , Yazdi M, Fatemi-Ardekani A, Mosleh-Shirazi MA. Development of a multi-purpose quality control phantom for MRI-based treatment planning in high-dose-rate brachytherapy of cervical cancer. J Contemp Brachytherapy. 2023 Feb; 15(1):57-68. PMID: [36970435](//www.ncbi.nlm.nih.gov/pubmed/36970435); PMCID: [PMC10034728](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10034728).
+
+Citations:
+
+  5. Kanani A, Yazdi M, **Owrangi AM** , Karbasi S, Mosleh-Shirazi MA. Metal artifact reduction in cervix brachytherapy with titanium applicators using dual-energy CT through virtual monoenergetic images and an iterative algorithm: A phantom study. Brachytherapy. 2022 Nov-Dec; 21(6):933-942. PMID: [35933273](//www.ncbi.nlm.nih.gov/pubmed/35933273).
+
+Citations:
+
+  6. D'Cunha P, Gonzalez Y, Nwachukwu C, Hrycushko B, Medin P, **Owrangi A** , Jia X, Albuquerque K. Change in image-guided planning strategies over time impacts oncologic and survival outcomes for intracavitary cervical cancer brachytherapy. Brachytherapy. 2022 Sep-Oct; 21(5):668-677. PMID: [35871130](//www.ncbi.nlm.nih.gov/pubmed/35871130).
+
+Citations:
+
+  7. Li W, Kazemifar S, Bai T, Nguyen D, Weng Y, Li Y, Xia J, Xiong J, Xie Y, **Owrangi A** , Jiang S. Synthesizing CT images from MR images with deep learning: model generalization for different datasets through transfer learning. Biomed Phys Eng Express. 2021 02 24; 7(2). PMID: [33545707](//www.ncbi.nlm.nih.gov/pubmed/33545707).
+
+Citations:
+
+  8. Gonzalez Y, Giap F, Klages P, **Owrangi A** , Jia X, Albuquerque K. Predicting which patients may benefit from the hybrid intracavitary+interstitial needle (IC/IS) applicator for advanced cervical cancer: A dosimetric comparison and toxicity benefit analysis. Brachytherapy. 2021 Jan-Feb; 20(1):136-145. PMID: [33132073](//www.ncbi.nlm.nih.gov/pubmed/33132073).
+
+Citations:
+
+  9. Kanani A, **Owrangi AM** , Mosleh-Shirazi MA. Comprehensive methodology for commissioning modern 3D-image-based treatment planning systems for high dose rate gynaecological brachytherapy: A review. Phys Med. 2020 Sep; 77:21-29. PMID: [32768917](//www.ncbi.nlm.nih.gov/pubmed/32768917).
+
+Citations:
+
+  10. Kazemifar S, Barrag?n Montero AM, Souris K, Rivas ST, Timmerman R, Park YK, Jiang S, Geets X, Sterpin E, **Owrangi A**. Dosimetric evaluation of synthetic CT generated with GANs for MRI-only proton therapy treatment planning of brain tumors. J Appl Clin Med Phys. 2020 May; 21(5):76-86. PMID: [32216098](//www.ncbi.nlm.nih.gov/pubmed/32216098); PMCID: [PMC7286008](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7286008).
+
+Citations:
+
+  11. Kazemifar S, McGuire S, Timmerman R, Wardak Z, Nguyen D, Park Y, Jiang S, **Owrangi A**. MRI-only brain radiotherapy: Assessing the dosimetric accuracy of synthetic CT images generated using a deep learning approach. Radiother Oncol. 2019 07; 136:56-63. PMID: [31015130](//www.ncbi.nlm.nih.gov/pubmed/31015130).
+
+Citations:
+
+  12. Balagopal A, Kazemifar S, Nguyen D, Lin MH, Hannan R, **Owrangi A** , Jiang S. Fully automated organ segmentation in male pelvic CT images. Phys Med Biol. 2018 Dec 14; 63(24):245015. PMID: [30523973](//www.ncbi.nlm.nih.gov/pubmed/30523973).
+
+Citations:
+
+  13. **Owrangi AM** , Greer PB, Glide-Hurst CK. MRI-only treatment planning: benefits and challenges. Phys Med Biol. 2018 02 26; 63(5):05TR01. PMID: [29393071](//www.ncbi.nlm.nih.gov/pubmed/29393071); PMCID: [PMC5886006](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5886006).
+
+Citations:
+
+  14. Safigholi H, Han DY, Mashouf S, Soliman A, Meigooni AS, **Owrangi A** , Song WY. Direction modulated brachytherapy (DMBT) for treatment of cervical cancer: A planning study with 192 Ir, 60 Co, and 169 Yb HDR sources. Med Phys. 2017 Dec; 44(12):6538-6547. PMID: [28940520](//www.ncbi.nlm.nih.gov/pubmed/28940520).
+
+Citations:
+
+  15. **Owrangi AM** , Roberts DA, Covington EL, Hayman JA, Masi KM, Lee C, Moran JM, Prisciandaro JI. Revisiting fetal dose during radiation therapy: evaluating treatment techniques and a custom shield [JACMP, 17(5), 2016]. J Appl Clin Med Phys. 2017 11; 18(6):288. PMID: [29125230](//www.ncbi.nlm.nih.gov/pubmed/29125230); PMCID: [PMC5689918](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5689918).
+
+Citations:
+
+  16. Soliman AS, Burns L, **Owrangi A** , Lee Y, Song WY, Stanisz G, Chugh BP. A realistic phantom for validating MRI-based synthetic CT images of the human skull. Med Phys. 2017 Sep; 44(9):4687-4694. PMID: [28644905](//www.ncbi.nlm.nih.gov/pubmed/28644905).
+
+Citations:
+
+  17. **Owrangi AM** , Roberts DA, Covington EL, Hayman JA, Masi KM, Lee C, Moran JM, Prisciandaro JI. Revisiting fetal dose during radiation therapy: evaluating treatment techniques and a custom shield. J Appl Clin Med Phys. 2016 09 08; 17(5):34-46. PMID: [27685109](//www.ncbi.nlm.nih.gov/pubmed/27685109); PMCID: [PMC5874082](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5874082).
+
+Citations:
+
+  18. Soliman AS, **Owrangi A** , Ravi A, Song WY. Metal artefacts in MRI-guided brachytherapy of cervical cancer. J Contemp Brachytherapy. 2016 Aug; 8(4):363-9. PMID: [27648092](//www.ncbi.nlm.nih.gov/pubmed/27648092); PMCID: [PMC5018526](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5018526).
+
+Citations:
+
+  19. Covington EL, Ritter TA, Moran JM, **Owrangi AM** , Prisciandaro JI. Technical Report: Evaluation of peripheral dose for flattening filter free photon beams. Med Phys. 2016 Aug; 43(8):4789. PMID: [27487896](//www.ncbi.nlm.nih.gov/pubmed/27487896); PMCID: [PMC5148180](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5148180).
+
+Citations:
+
+  20. Soliman AS, Elzibak A, Easton H, Kim JY, Han DY, Safigholi H, Mashouf S, **Owrangi A** , Ravi A, Song WY. Quantitative MRI assessment of a novel direction modulated brachytherapy tandem applicator for cervical cancer at 1.5T. Radiother Oncol. 2016 09; 120(3):500-506. PMID: [27443448](//www.ncbi.nlm.nih.gov/pubmed/27443448).
+
+Citations:
+
+  21. Han DY, Safigholi H, Soliman A, Ravi A, Leung E, Scanderbeg DJ, Liu Z, **Owrangi A** , Song WY. Direction Modulated Brachytherapy for Treatment of Cervical Cancer. II: Comparative Planning Study With Intracavitary and Intracavitary-Interstitial Techniques. Int J Radiat Oncol Biol Phys. 2016 10 01; 96(2):440-448. PMID: [27598809](//www.ncbi.nlm.nih.gov/pubmed/27598809).
+
+Citations:
+
+  22. Chow JC, **Owrangi AM**. A surface energy spectral study on the bone heterogeneity and beam obliquity using the flattened and unflattened photon beams. Rep Pract Oncol Radiother. 2016 Jan-Feb; 21(1):63-70. PMID: [26900360](//www.ncbi.nlm.nih.gov/pubmed/26900360); PMCID: [PMC4716443](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4716443).
+
+Citations:
+
+  23. **Owrangi AM** , Jolly S, Balter JM, Cao Y, Maturen KE, Young L, Zhu T, Prisciandaro JI. Clinical implementation of MR-guided vaginal cylinder brachytherapy. J Appl Clin Med Phys. 2015 11 08; 16(6):490-500. PMID: [26699556](//www.ncbi.nlm.nih.gov/pubmed/26699556); PMCID: [PMC5691024](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5691024).
+
+Citations:
+
+  24. **Owrangi AM** , Prisciandaro JI, Soliman A, Ravi A, Song WY. Magnetic resonance imaging-guided brachytherapy for cervical cancer: initiating a program. J Contemp Brachytherapy. 2015 Oct; 7(5):417-22. PMID: [26622249](//www.ncbi.nlm.nih.gov/pubmed/26622249); PMCID: [PMC4663219](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4663219).
+
+Citations:
+
+  25. Kirby M, Ouriadov A, Svenningsen S, **Owrangi A** , Wheatley A, Etemad-Rezai R, Santyr GE, McCormack DG, Parraga G. Hyperpolarized 3He and 129Xe magnetic resonance imaging apparent diffusion coefficients: physiological relevance in older never- and ex-smokers. Physiol Rep. 2014 Jul 16; 2(7). PMID: [25347853](//www.ncbi.nlm.nih.gov/pubmed/25347853); PMCID: [PMC4187551](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4187551).
+
+Citations:
+
+  26. **Owrangi AM** , Entwistle B, Lu A, Chiu J, Hussain N, Etemad-Rezai R, Parraga G. Semi-automated scoring of pulmonary emphysema from X-ray CT: trainee reproducibility and accuracy. Eur J Radiol. 2013 Nov; 82(11):e734-41. PMID: [23957938](//www.ncbi.nlm.nih.gov/pubmed/23957938).
+
+Citations:
+
+  27. **Owrangi AM** , Etemad-Rezai R, McCormack DG, Cunningham IA, Parraga G. Computed tomography density histogram analysis to evaluate pulmonary emphysema in ex-smokers. Acad Radiol. 2013 May; 20(5):537-45. PMID: [23570935](//www.ncbi.nlm.nih.gov/pubmed/23570935).
+
+Citations:
+
+  28. Kirby M, **Owrangi A** , Svenningsen S, Wheatley A, Coxson HO, Paterson NA, McCormack DG, Parraga G. On the role of abnormal DL(CO) in ex-smokers without airflow limitation: symptoms, exercise capacity and hyperpolarised helium-3 MRI. Thorax. 2013 Aug; 68(8):752-9. PMID: [23604381](//www.ncbi.nlm.nih.gov/pubmed/23604381).
+
+Citations:
+
+  29. Chow JC, Jiang R, **Owrangi AM**. Dosimetry of small bone joint calculated by the analytical anisotropic algorithm: a Monte Carlo evaluation using the EGSnrc. J Appl Clin Med Phys. 2013 Jan 06; 15(1):4588. PMID: [24423828](//www.ncbi.nlm.nih.gov/pubmed/24423828); PMCID: [PMC5711239](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5711239).
+
+Citations:
+
+  30. Kirby M, Svenningsen S, Kanhere N, **Owrangi A** , Wheatley A, Coxson HO, Santyr GE, Paterson NA, McCormack DG, Parraga G. Pulmonary ventilation visualized using hyperpolarized helium-3 and xenon-129 magnetic resonance imaging: differences in COPD and relationship to emphysema. J Appl Physiol (1985). 2013 Mar 15; 114(6):707-15. PMID: [23239874](//www.ncbi.nlm.nih.gov/pubmed/23239874).
+
+Citations:
+
+  31. Chow JC, **Owrangi AM**. Surface dose reduction from bone interface in kilovoltage X-ray radiation therapy: a Monte Carlo study of photon spectra. J Appl Clin Med Phys. 2012 Sep 06; 13(5):3911. PMID: [22955657](//www.ncbi.nlm.nih.gov/pubmed/22955657); PMCID: [PMC5718228](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5718228).
+
+Citations:
+
+  32. Kirby M, Svenningsen S, **Owrangi A** , Wheatley A, Farag A, Ouriadov A, Santyr GE, Etemad-Rezai R, Coxson HO, McCormack DG, Parraga G. Hyperpolarized 3He and 129Xe MR imaging in healthy volunteers and patients with chronic obstructive pulmonary disease. Radiology. 2012 Nov; 265(2):600-10. PMID: [22952383](//www.ncbi.nlm.nih.gov/pubmed/22952383).
+
+Citations:
+
+  33. **Owrangi AM** , Wang JX, Wheatley A, McCormack DG, Parraga G. Quantitative (1)H and hyperpolarized (3)He magnetic resonance imaging: comparison in chronic obstructive pulmonary disease and healthy never-smokers. Eur J Radiol. 2014 Jan; 83(1):64-72. PMID: [22571928](//www.ncbi.nlm.nih.gov/pubmed/22571928).
+
+Citations:
+
+  34. Awad J, **Owrangi A** , Villemaire L, O'Riordan E, Parraga G, Fenster A. Three-dimensional lung tumor segmentation from x-ray computed tomography using sparse field active models. Med Phys. 2012 Feb; 39(2):851-65. PMID: [22320795](//www.ncbi.nlm.nih.gov/pubmed/22320795).
+
+Citations:
+
+  35. **Owrangi AM** , Parraga G. Chest MRI in children: why bother? Respirology. 2012 Jan; 17(1):3-4. PMID: [21988296](//www.ncbi.nlm.nih.gov/pubmed/21988296).
+
+Citations:
+
+  36. Chow JC, **Owrangi AM**. Dependences of mucosal dose on photon beams in head-and-neck intensity-modulated radiation therapy: a Monte Carlo study. Med Dosim. 2012; 37(2):195-200. PMID: [21993201](//www.ncbi.nlm.nih.gov/pubmed/21993201).
+
+Citations:
+
+  37. Villemaire L, **Owrangi AM** , Etemad-Rezai R, Wilson L, O'Riordan E, Keller H, Driscoll B, Bauman G, Fenster A, Parraga G. Pulmonary tumor measurements from x-ray computed tomography in one, two, and three dimensions. Acad Radiol. 2011 Nov; 18(11):1391-402. PMID: [21917485](//www.ncbi.nlm.nih.gov/pubmed/21917485).
+
+Citations:
+
+  38. L?tourneau D, Sharpe MB, **Owrangi A** , Jaffray DA. Automated beam model optimization. Med Phys. 2010 May; 37(5):2110-20. PMID: [20527544](//www.ncbi.nlm.nih.gov/pubmed/20527544).
+
+Citations:
+
+  39. Chow JC, **Owrangi AM**. Solid water as phantom material for dosimetry of electron backscatter using low-energy electron beams: a Monte Carlo evaluation. Med Phys. 2009 May; 36(5):1587-94. PMID: [19544774](//www.ncbi.nlm.nih.gov/pubmed/19544774).
+
+Citations:
+
+  40. Chow JC, **Owrangi AM**. Depth dependence of electron backscatter: an energy spectral and dosimetry study using Monte Carlo simulation. Med Phys. 2009 Feb; 36(2):594-601. PMID: [19291999](//www.ncbi.nlm.nih.gov/pubmed/19291999).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 40 publications over 16 distinct years, with a maximum of
+6 publications in
+2012](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,17,33,100,67,17,50,83,50,33,17,50,17,33,50,17&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2009| 2  
+2010| 1  
+2011| 2  
+2012| 6  
+2013| 4  
+2014| 1  
+2015| 3  
+2016| 5  
+2017| 3  
+2018| 2  
+2019| 1  
+2020| 3  
+2021| 1  
+2022| 2  
+2023| 3  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+OWRANGI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (126)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Brachytherapy](https://profiles.viictr.org/profile/250665)
+  * [Radiotherapy Planning, Computer-Assisted](https://profiles.viictr.org/profile/254233)
+  * [Pulmonary Emphysema](https://profiles.viictr.org/profile/261967)
+  * [Radiotherapy, Image-Guided](https://profiles.viictr.org/profile/27546654)
+  * [Monte Carlo Method](https://profiles.viictr.org/profile/244026)
+
+[Explore](https://profiles.viictr.org/profile/49466790/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [MOHAN, RADHE](https://profiles.viictr.org/profile/12583017)
+  * [COURT, LAURENCE EDWARD](https://profiles.viictr.org/profile/12582626)
+  * [FRANK, STEVEN JAY](https://profiles.viictr.org/profile/12582619)
+  * [KRY, STEPHEN F](https://profiles.viictr.org/profile/12582993)
+  * [FOLLOWILL, DAVID S](https://profiles.viictr.org/profile/12583659)
+
+[Explore](https://profiles.viictr.org/profile/49466790/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ECHEVERRIA, ALFREDO](https://profiles.viictr.org/profile/23478768)
+  * [HAMSTRA, DANIEL](https://profiles.viictr.org/profile/34089599)
+  * [LUDWIG, MICHELLE](https://profiles.viictr.org/profile/2619439)
+  * [REN, TONG](https://profiles.viictr.org/profile/40725605)
+  * [UGARTE, VINCENT](https://profiles.viictr.org/profile/28999125)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ/9pJT6x3XUXJPV6yY1gN1AdI9fj5a9U4+aNrG+Mqv3R0Ah6vZbG7FnPjyO/B70o93n31HgwnQ0v//l+ZMiQnZ05dTUbxrT/PiU1/thfvN/wekzor52QqXWWVzXVp6F8zLcXgNSpmzvls56K+e9YVJ0TAHmx4/9MAoiPSt4sYkjfisseztSicCZGxqA1756Bcz8WDCFBS0qHIn8IOnvbDqNdiDMN9cz/RewxWAU9A2KJwOgk6mJ/h/a0nP6VfC1cFSVswx8tp8Pb8VCT++VAWhC1PK0qq0TMrG3yh/cfTgg4g==)
+
+_
+

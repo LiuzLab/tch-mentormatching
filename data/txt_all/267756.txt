@@ -1,0 +1,482 @@
+## JIANRONG TANG
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1250 MOURSUND STREET  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=PL8x72KWQIn2S8Ho5G4%3d&rnd=e07e0544-ce17-4049-ab30-e5e1f522750a)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267756)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267756&cachekey=d825290a-216d-4c98-b3aa-c72e9df6a60b)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01NS100738 (TANG, JIANRONG)Apr 1, 2018 - Jul 31, 2027NIH  
+Deep brain stimulation in Rett syndrome mice: cognitive effects and their
+mechanisms  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R56NS100738 (TANG, JIANRONG)Apr 1, 2017 - Mar 31, 2018NIH  
+Deep brain stimulation in Rett syndrome mice: cognitive benefits and their
+mechanisms  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Zhou J, Cattoglio C, Shao Y, Tirumala HP, Vetralla C, Bajikar SS, Li Y, Chen H, Wang Q, Wu Z, Tang B, Zahabiyon M, [Bajic A](https://profiles.viictr.org/profile/3010475), Meng X, Ferrie JJ, LaGrone A, Zhang P, Kim JJ, **Tang J** , [Liu Z](https://profiles.viictr.org/profile/266153), Darzacq X, Heintz N, Tjian R, [Zoghbi HY](https://profiles.viictr.org/profile/267945). A novel pathogenic mutation of MeCP2 impairs chromatin association independent of protein levels. Genes Dev. 2023 10 01; 37(19-20):883-900. PMID: [37890975](//www.ncbi.nlm.nih.gov/pubmed/37890975); PMCID: [PMC10691473](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10691473).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37890975/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  2. Wang Q, Tang B, Hao S, Wu Z, Yang T, **Tang J**. Forniceal deep brain stimulation in a mouse model of Rett syndrome increases neurogenesis and hippocampal memory beyond the treatment period. Brain Stimul. 2023 Sep-Oct; 16(5):1401-1411. PMID: [37704033](//www.ncbi.nlm.nih.gov/pubmed/37704033); PMCID: [PMC11152200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11152200).
+
+Citations:  Fields:
+
+Bra Brain
+
+Translation:Animals
+
+  3. Wang Q, de Prisco N, **Tang J** , Gennarino VA. Protocol for recording epileptiform discharges of EEG and behavioral seizures in freely moving mice. STAR Protoc. 2022 06 17; 3(2):101245. PMID: [35310070](//www.ncbi.nlm.nih.gov/pubmed/35310070); PMCID: [PMC8927982](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8927982).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35310070/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  4. He L, [Caudill MS](https://profiles.viictr.org/profile/21983716), [Jing J](https://profiles.viictr.org/profile/20551928), Wang W, Sun Y, **Tang J** , [Jiang X](https://profiles.viictr.org/profile/268555), [Zoghbi HY](https://profiles.viictr.org/profile/267945). A weakened recurrent circuit in the hippocampus of Rett syndrome mice disrupts long-term memory representations. Neuron. 2022 05 18; 110(10):1689-1699.e6. PMID: [35290792](//www.ncbi.nlm.nih.gov/pubmed/35290792); PMCID: [PMC9930308](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9930308).
+
+Citations:  Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  5. Wang Q, Tang B, **Tang J**. Protocol for deep brain stimulation in the fimbria-fornix of freely moving mice. STAR Protoc. 2022 03 18; 3(1):101054. PMID: [35005636](//www.ncbi.nlm.nih.gov/pubmed/35005636); PMCID: [PMC8715214](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8715214).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  6. Hao S, Wang Q, Tang B, Wu Z, Yang T, **Tang J**. CDKL5 Deficiency Augments Inhibitory Input into the Dentate Gyrus That Can Be Reversed by Deep Brain Stimulation. J Neurosci. 2021 10 27; 41(43):9031-9046. PMID: [34544833](//www.ncbi.nlm.nih.gov/pubmed/34544833); PMCID: [PMC8549531](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8549531).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34544833/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  7. Shao Y, Sztainberg Y, Wang Q, Bajikar SS, Trostle AJ, Wan YW, Jafar-Nejad P, Rigo F, [Liu Z](https://profiles.viictr.org/profile/266153), **Tang J** , [Zoghbi HY](https://profiles.viictr.org/profile/267945). Antisense oligonucleotide therapy in a humanized mouse model of MECP2 duplication syndrome. Sci Transl Med. 2021 03 03; 13(583). PMID: [33658357](//www.ncbi.nlm.nih.gov/pubmed/33658357); PMCID: [PMC8976688](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8976688).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33658357/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  8. Alcott CE, [Yalamanchili HK](https://profiles.viictr.org/profile/8950236), Ji P, van der Heijden ME, Saltzman A, Elrod N, Lin A, Leng M, [Bhatt B](https://profiles.viictr.org/profile/31194420), Hao S, Wang Q, Saliba A, **Tang J** , [Malovannaya A](https://profiles.viictr.org/profile/3010185), Wagner EJ, [Liu Z](https://profiles.viictr.org/profile/266153), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Partial loss of CFIm25 causes learning deficits and aberrant neuronal alternative polyadenylation. Elife. 2020 04 22; 9. PMID: [32319885](//www.ncbi.nlm.nih.gov/pubmed/32319885); PMCID: [PMC7176433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7176433).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32319885/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  9. Chen W, [Cai ZL](https://profiles.viictr.org/profile/8684236), Chao ES, Chen H, Longley CM, Hao S, [Chao HT](https://profiles.viictr.org/profile/23478929), Kim JH, Messier JE, [Zoghbi HY](https://profiles.viictr.org/profile/267945), **Tang J** , [Swann JW](https://profiles.viictr.org/profile/268300), [Xue M](https://profiles.viictr.org/profile/7520380). Stxbp1/Munc18-1 haploinsufficiency impairs inhibition and mediates key neurological features of STXBP1 encephalopathy. Elife. 2020 02 19; 9. PMID: [32073399](//www.ncbi.nlm.nih.gov/pubmed/32073399); PMCID: [PMC7056272](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7056272).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32073399/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  10. Creson TK, Rojas C, Hwaun E, Vaissiere T, Kilinc M, Jimenez-Gomez A, Holder JL, **Tang J** , Colgin LL, Miller CA, Rumbaugh G. Re-expression of SynGAP protein in adulthood improves translatable measures of brain function and behavior. Elife. 2019 04 26; 8. PMID: [31025938](//www.ncbi.nlm.nih.gov/pubmed/31025938); PMCID: [PMC6504227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6504227).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31025938/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimals
+
+  11. Pohodich AE, [Yalamanchili H](https://profiles.viictr.org/profile/8950236), Raman AT, Wan YW, Gundry M, Hao S, Jin H, **Tang J** , [Liu Z](https://profiles.viictr.org/profile/266153), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Forniceal deep brain stimulation induces gene expression and splicing changes that promote neurogenesis and plasticity. Elife. 2018 03 23; 7. PMID: [29570050](//www.ncbi.nlm.nih.gov/pubmed/29570050); PMCID: [PMC5906096](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5906096).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29570050/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  12. [Orengo JP](https://profiles.viictr.org/profile/15317718), van der Heijden ME, Hao S, **Tang J** , Orr HT, [Zoghbi HY](https://profiles.viictr.org/profile/267945). Motor neuron degeneration correlates with respiratory dysfunction in SCA1. Dis Model Mech. 2018 02 26; 11(2). PMID: [29419414](//www.ncbi.nlm.nih.gov/pubmed/29419414); PMCID: [PMC5894948](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5894948).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29419414/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  13. Gennarino VA, Palmer EE, McDonell LM, Wang L, Adamski CJ, Koire A, See L, Chen CA, Schaaf CP, Rosenfeld JA, Panzer JA, Moog U, Hao S, Bye A, Kirk EP, [Stankiewicz P](https://profiles.viictr.org/profile/269299), Breman AM, McBride A, Kandula T, Dubbs HA, Macintosh R, Cardamone M, Zhu Y, Ying K, Dias KR, Cho MT, Henderson LB, Baskin B, Morris P, Tao J, Cowley MJ, Dinger ME, Roscioli T, Caluseriu O, Suchowersky O, Sachdev RK, [Lichtarge O](https://profiles.viictr.org/profile/269815), **Tang J** , Boycott KM, Holder JL, [Zoghbi HY](https://profiles.viictr.org/profile/267945). A Mild PUM1 Mutation Is Associated with Adult-Onset Ataxia, whereas Haploinsufficiency Causes Developmental Delay and Seizures. Cell. 2018 02 22; 172(5):924-936.e11. PMID: [29474920](//www.ncbi.nlm.nih.gov/pubmed/29474920); PMCID: [PMC5832058](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5832058).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29474920/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  14. Yeh SY, Huang WH, Wang W, Ward CS, Chao ES, Wu Z, Tang B, **Tang J** , Sun JJ, Esther van der Heijden M, Gray PA, [Xue M](https://profiles.viictr.org/profile/7520380), [Ray RS](https://profiles.viictr.org/profile/267456), Ren D, [Zoghbi HY](https://profiles.viictr.org/profile/267945). Respiratory Network Stability and Modulatory Response to Substance P Require Nalcn. Neuron. 2017 Apr 19; 94(2):294-303.e4. PMID: [28392070](//www.ncbi.nlm.nih.gov/pubmed/28392070); PMCID: [PMC5702257](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5702257).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28392070/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  15. Lasagna-Reeves CA, [de Haro M](https://profiles.viictr.org/profile/3009799), Hao S, Park J, Rousseaux MW, [Al-Ramahi I](https://profiles.viictr.org/profile/3009798), Jafar-Nejad P, Vilanova-Velez L, See L, De Maio A, [Nitschke L](https://profiles.viictr.org/profile/5807715), Wu Z, Troncoso JC, [Westbrook TF](https://profiles.viictr.org/profile/267742), **Tang J** , [Botas J](https://profiles.viictr.org/profile/269750), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Reduction of Nuak1 Decreases Tau and Reverses Phenotypes in a Tauopathy Mouse Model. Neuron. 2016 Oct 19; 92(2):407-418. PMID: [27720485](//www.ncbi.nlm.nih.gov/pubmed/27720485); PMCID: [PMC5745060](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5745060).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27720485/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  16. Lu H, Ash RT, He L, Kee SE, Wang W, [Yu D](https://profiles.viictr.org/profile/268365), Hao S, Meng X, Ure K, Ito-Ishida A, Tang B, Sun Y, [Ji D](https://profiles.viictr.org/profile/266795), **Tang J** , [Arenkiel BR](https://profiles.viictr.org/profile/266249), Smirnakis SM, [Zoghbi HY](https://profiles.viictr.org/profile/267945). Loss and Gain of MeCP2 Cause Similar Hippocampal Circuit Dysfunction that Is Rescued by Deep Brain Stimulation in a Rett Syndrome Mouse Model. Neuron. 2016 Aug 17; 91(4):739-747. PMID: [27499081](//www.ncbi.nlm.nih.gov/pubmed/27499081); PMCID: [PMC5019177](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5019177).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27499081/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  17. Meng X, Wang W, Lu H, He LJ, Chen W, Chao ES, [Fiorotto ML](https://profiles.viictr.org/profile/266734), Tang B, Herrera JA, Seymour ML, Neul JL, [Pereira FA](https://profiles.viictr.org/profile/269546), **Tang J** , [Xue M](https://profiles.viictr.org/profile/7520380), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Manipulations of MeCP2 in glutamatergic neurons highlight their contributions to Rett and other neurological disorders. Elife. 2016 06 21; 5. PMID: [27328325](//www.ncbi.nlm.nih.gov/pubmed/27328325); PMCID: [PMC4946906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4946906).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27328325/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  18. Ure K, Lu H, Wang W, Ito-Ishida A, Wu Z, He LJ, Sztainberg Y, Chen W, **Tang J** , [Zoghbi HY](https://profiles.viictr.org/profile/267945). Restoration of Mecp2 expression in GABAergic neurons is sufficient to rescue multiple disease features in a mouse model of Rett syndrome. Elife. 2016 06 21; 5. PMID: [27328321](//www.ncbi.nlm.nih.gov/pubmed/27328321); PMCID: [PMC4946897](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4946897).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27328321/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  19. Sztainberg Y, Chen HM, [Swann JW](https://profiles.viictr.org/profile/268300), Hao S, Tang B, Wu Z, **Tang J** , Wan YW, [Liu Z](https://profiles.viictr.org/profile/266153), Rigo F, [Zoghbi HY](https://profiles.viictr.org/profile/267945). Reversal of phenotypes in MECP2 duplication mice using genetic rescue or antisense oligonucleotides. Nature. 2015 Dec 03; 528(7580):123-6. PMID: [26605526](//www.ncbi.nlm.nih.gov/pubmed/26605526); PMCID: [PMC4839300](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4839300).
+
+Citations:
+[74](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26605526/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  20. Hao S, Tang B, Wu Z, Ure K, Sun Y, Tao H, Gao Y, Patel AJ, [Curry DJ](https://profiles.viictr.org/profile/265950), Samaco RC, [Zoghbi HY](https://profiles.viictr.org/profile/267945), **Tang J**. Forniceal deep brain stimulation rescues hippocampal memory in Rett syndrome mice. Nature. 2015 Oct 15; 526(7573):430-4. PMID: [26469053](//www.ncbi.nlm.nih.gov/pubmed/26469053); PMCID: [PMC4828032](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4828032).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26469053/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  21. Jenson D, Yang K, Acevedo-Rodriguez A, Levine A, Broussard JI, **Tang J** , Dani JA. Dopamine and norepinephrine receptors participate in methylphenidate enhancement of in vivo hippocampal synaptic plasticity. Neuropharmacology. 2015 Mar; 90:23-32. PMID: [25445492](//www.ncbi.nlm.nih.gov/pubmed/25445492); PMCID: [PMC4533926](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4533926).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25445492/citedby/) Fields:
+
+Neu NeurologyPha Pharmacology
+
+Translation:AnimalsCells
+
+  22. Han K, Holder JL, Schaaf CP, Lu H, Chen H, Kang H, **Tang J** , Wu Z, Hao S, [Cheung SW](https://profiles.viictr.org/profile/268913), Yu P, Sun H, Breman AM, Patel A, Lu HC, [Zoghbi HY](https://profiles.viictr.org/profile/267945). SHANK3 overexpression causes manic-like behaviour with unique pharmacogenetic properties. Nature. 2013 Nov 07; 503(7474):72-7. PMID: [24153177](//www.ncbi.nlm.nih.gov/pubmed/24153177); PMCID: [PMC3923348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3923348).
+
+Citations:
+[157](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24153177/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  23. Zhang TA, **Tang J** , Pidoplichko VI, Dani JA. Addictive nicotine alters local circuit inhibition during the induction of in vivo hippocampal synaptic potentiation. J Neurosci. 2010 May 05; 30(18):6443-53. PMID: [20445070](//www.ncbi.nlm.nih.gov/pubmed/20445070); PMCID: [PMC2891764](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2891764).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20445070/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  24. **Tang J** , Dani JA. Dopamine enables in vivo synaptic plasticity associated with the addictive drug nicotine. Neuron. 2009 Sep 10; 63(5):673-82. PMID: [19755109](//www.ncbi.nlm.nih.gov/pubmed/19755109); PMCID: [PMC2746116](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2746116).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19755109/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  25. Kamprath K, Marsicano G, **Tang J** , Monory K, Bisogno T, Di Marzo V, Lutz B, Wotjak CT. Cannabinoid CB1 receptor mediates fear extinction via habituation-like processes. J Neurosci. 2006 Jun 21; 26(25):6677-86. PMID: [16793875](//www.ncbi.nlm.nih.gov/pubmed/16793875); PMCID: [PMC6673838](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6673838).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16793875/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  26. Wu LJ, Toyoda H, Zhao MG, Lee YS, **Tang J** , Ko SW, Jia YH, Shum FW, Zerbinatti CV, Bu G, Wei F, Xu TL, Muglia LJ, Chen ZF, Auberson YP, Kaang BK, Zhuo M. Upregulation of forebrain NMDA NR2B receptors contributes to behavioral sensitization after inflammation. J Neurosci. 2005 Nov 30; 25(48):11107-16. PMID: [16319310](//www.ncbi.nlm.nih.gov/pubmed/16319310); PMCID: [PMC6725642](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6725642).
+
+Citations:
+[110](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16319310/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  27. **Tang J** , Mederer A, Wotjak CT, Wanisch K. Trace fear conditioning depends on NMDA receptor activation and protein synthesis within the dorsal hippocampus of mice. Behav Brain Res. 2005 Feb 10; 157(1):63-9. PMID: [15617772](//www.ncbi.nlm.nih.gov/pubmed/15617772).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15617772/citedby/) Fields:
+
+Beh Behavioral SciencesBra Brain
+
+Translation:AnimalsCells
+
+  28. **Tang J** , Ko S, Ding HK, Qiu CS, Calejesan AA, Zhuo M. Pavlovian fear memory induced by activation in the anterior cingulate cortex. Mol Pain. 2005 Feb 09; 1:6. PMID: [15813993](//www.ncbi.nlm.nih.gov/pubmed/15813993); PMCID: [PMC1074356](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1074356).
+
+Citations:
+[89](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15813993/citedby/) Fields:
+
+Mol Molecular BiologyNeu NeurologyPsy Psychophysiology
+
+Translation:HumansAnimals
+
+  29. Wei F, Xia XM, **Tang J** , Ao H, Ko S, Liauw J, Qiu CS, Zhuo M. Calmodulin regulates synaptic plasticity in the anterior cingulate cortex and behavioral responses: a microelectroporation study in adult rodents. J Neurosci. 2003 Sep 10; 23(23):8402-9. PMID: [12968002](//www.ncbi.nlm.nih.gov/pubmed/12968002); PMCID: [PMC6740679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6740679).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12968002/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  30. Wagner S, Schachner M, Dityatev A, Wotjak CT, **Tang J**. Potentiation of amygdaloid and hippocampal auditory-evoked potentials in a discriminatory fear-conditioning task in mice as a function of tone pattern and context. Eur J Neurosci. 2003 Aug; 18(3):639-50. PMID: [12911760](//www.ncbi.nlm.nih.gov/pubmed/12911760).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12911760/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  31. Marsicano G, Wotjak CT, Azad SC, Bisogno T, Rammes G, Cascio MG, Hermann H, **Tang J** , Hofmann C, Di Marzo V, Lutz B, Zieglg?nsberger W. The endogenous cannabinoid system controls extinction of aversive memories. Nature. 2002 Aug 01; 418(6897):530-4. PMID: [12152079](//www.ncbi.nlm.nih.gov/pubmed/12152079).
+
+Citations:
+[664](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12152079/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  32. Wotjak CT, Wagner S, Williams G, Schachner M, Dityatev A, **Tang J**. Potentiated amygdaloid auditory-evoked potentials and freezing behavior after fear conditioning in mice. Brain Res. 2001 Nov 23; 919(2):232-41. PMID: [11701135](//www.ncbi.nlm.nih.gov/pubmed/11701135).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11701135/citedby/) Fields:
+
+Bra Brain
+
+Translation:Animals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 32 publications over 18 distinct years, with a maximum of
+4 publications in
+2016](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,25,25,50,0,75,25,0,0,25,25,0,0,25,25,50,100,25,75,25,50,75,50,50,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2001| 1  
+2002| 1  
+2003| 2  
+2005| 3  
+2006| 1  
+2009| 1  
+2010| 1  
+2013| 1  
+2014| 1  
+2015| 2  
+2016| 4  
+2017| 1  
+2018| 3  
+2019| 1  
+2020| 2  
+2021| 3  
+2022| 2  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+TANG's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (213)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Deep Brain Stimulation](https://profiles.viictr.org/profile/246189)
+  * [Rett Syndrome](https://profiles.viictr.org/profile/248056)
+  * [Fear](https://profiles.viictr.org/profile/260349)
+  * [Hippocampus](https://profiles.viictr.org/profile/259857)
+  * [Dentate Gyrus](https://profiles.viictr.org/profile/247563)
+
+[Explore](https://profiles.viictr.org/profile/267756/198)
+
+_
+
+Co-Authors (30)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [XUE, MINGSHAN](https://profiles.viictr.org/profile/7520380)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [HOLDER JR, JIMMY](https://profiles.viictr.org/profile/267458)
+  * [ORENGO, JAMES](https://profiles.viictr.org/profile/15317718)
+
+[Explore](https://profiles.viictr.org/profile/267756/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+  * [SHETH, SAMEER](https://profiles.viictr.org/profile/23479136)
+  * [ALKADHI, KARIM](https://profiles.viictr.org/profile/267582)
+  * [GLAZE, DANIEL](https://profiles.viictr.org/profile/266425)
+
+[Explore](https://profiles.viictr.org/profile/267756/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DAVE, VIRAL](https://profiles.viictr.org/profile/266615)
+  * [FORDIS JR, C](https://profiles.viictr.org/profile/269802)
+  * [GORGIS, NOELLE](https://profiles.viictr.org/profile/17411527)
+  * [LEMKE, DANIEL](https://profiles.viictr.org/profile/266806)
+  * [LUBEGA, JOSEPH](https://profiles.viictr.org/profile/3009643)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [ANDERSON, ANNE](https://profiles.viictr.org/profile/268159)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [MALETIC-SAVATIC, MIRJANA](https://profiles.viictr.org/profile/266043)
+  * [SWANN, JOHN](https://profiles.viictr.org/profile/268300)
+
+_
+

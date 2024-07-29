@@ -1,0 +1,317 @@
+## RAYMOND CHITWOOD
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Address| 1250 MOURSUND STREET  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BKop7GrJJMXWTob593TNLpSOJBzEkiEX&rnd=6b55b5ca-
+df62-4566-9d11-756f0217e7e7)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=23479121)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+F32MH067462 (CHITWOOD, RAYMOND A)May 13, 2004 - May 12, 2006NIH  
+LTP induction in subicular pyramidal neurons  
+Role: Principal Investigator  
+---  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Xiao K](https://profiles.viictr.org/profile/24845235), Li Y, **Chitwood RA** , [Magee JC](https://profiles.viictr.org/profile/23478949). A critical role for CaMKII in behavioral timescale synaptic plasticity in hippocampal CA1 pyramidal neurons. Sci Adv. 2023 09 08; 9(36):eadi3088. PMID: [37672577](//www.ncbi.nlm.nih.gov/pubmed/37672577); PMCID: [PMC10482326](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10482326).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37672577/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  2. Ordemann GJ, Apgar CJ, **Chitwood RA** , Brager DH. Altered A-Type Potassium Channel Function Impairs Dendritic Spike Initiation and Temporoammonic Long-Term Potentiation in Fragile X Syndrome. J Neurosci. 2021 Jul 07; 41(27):5947-5962. PMID: [34083256](//www.ncbi.nlm.nih.gov/pubmed/34083256); PMCID: [PMC8265803](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8265803).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34083256/citedby/) Fields:
+
+Neu Neurology
+
+  3. Huckleberry KA, Shue F, Copeland T, **Chitwood RA** , Yin W, Drew MR. Dorsal and ventral hippocampal adult-born neurons contribute to context fear memory. Neuropsychopharmacology. 2018 11; 43(12):2487-2496. PMID: [29941977](//www.ncbi.nlm.nih.gov/pubmed/29941977); PMCID: [PMC6180107](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6180107).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29941977/citedby/) Fields:
+
+Neu NeurologyPsy Psychopharmacology
+
+Translation:AnimalsCells
+
+  4. Thaxton C, Kloth AD, Clark EP, Moy SS, **Chitwood RA** , Philpot BD. Common Pathophysiology in Multiple Mouse Models of Pitt-Hopkins Syndrome. J Neurosci. 2018 01 24; 38(4):918-936. PMID: [29222403](//www.ncbi.nlm.nih.gov/pubmed/29222403); PMCID: [PMC5783968](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5783968).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29222403/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  5. Zhao Z, Luan L, Wei X, Zhu H, Li X, Lin S, Siegel JJ, **Chitwood RA** , Xie C. Nanoelectronic Coating Enabled Versatile Multifunctional Neural Probes. Nano Lett. 2017 08 09; 17(8):4588-4595. PMID: [28682082](//www.ncbi.nlm.nih.gov/pubmed/28682082); PMCID: [PMC5869028](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5869028).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28682082/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:HumansAnimalsCells
+
+  6. Siegel JJ, **Chitwood RA** , Ding JM, Payne C, Taylor W, Gray R, Zemelman BV, Johnston D. Prefrontal Cortex Dysfunction in Fragile X Mice Depends on the Continued Absence of Fragile X Mental Retardation Protein in the Adult Brain. J Neurosci. 2017 08 02; 37(31):7305-7317. PMID: [28652410](//www.ncbi.nlm.nih.gov/pubmed/28652410); PMCID: [PMC6596701](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6596701).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28652410/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  7. Luan L, Wei X, Zhao Z, Siegel JJ, Potnis O, Tuppen CA, Lin S, Kazmi S, Fowler RA, Holloway S, Dunn AK, **Chitwood RA** , Xie C. Ultraflexible nanoelectronic probes form reliable, glial scar-free neural integration. Sci Adv. 2017 Feb; 3(2):e1601966. PMID: [28246640](//www.ncbi.nlm.nih.gov/pubmed/28246640); PMCID: [PMC5310823](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5310823).
+
+Citations:
+[123](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28246640/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  8. Siegel JJ, Taylor W, Gray R, Kalmbach B, Zemelman BV, Desai NS, Johnston D, **Chitwood RA**. Trace Eyeblink Conditioning in Mice Is Dependent upon the Dorsal Medial Prefrontal Cortex, Cerebellum, and Amygdala: Behavioral Characterization and Functional Circuitry eNeuro. 2015 Jul-Aug; 2(4). PMID: [26464998](//www.ncbi.nlm.nih.gov/pubmed/26464998); PMCID: [PMC4596016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4596016).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26464998/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+  9. Desai NS, Siegel JJ, Taylor W, **Chitwood RA** , Johnston D. MATLAB-based automated patch-clamp system for awake behaving mice. J Neurophysiol. 2015 Aug; 114(2):1331-45. PMID: [26084901](//www.ncbi.nlm.nih.gov/pubmed/26084901); PMCID: [PMC4725114](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4725114).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26084901/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  10. Moya MV, Siegel JJ, McCord ED, Kalmbach BE, Dembrow N, Johnston D, **Chitwood RA**. Species-specific differences in the medial prefrontal projections to the pons between rat and rabbit. J Comp Neurol. 2014 Sep 01; 522(13):3052-74. PMID: [24639247](//www.ncbi.nlm.nih.gov/pubmed/24639247); PMCID: [PMC4107027](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4107027).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24639247/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  11. Kalmbach BE, **Chitwood RA** , Dembrow NC, Johnston D. Dendritic generation of mGluR-mediated slow afterdepolarization in layer 5 neurons of prefrontal cortex. J Neurosci. 2013 Aug 14; 33(33):13518-32. PMID: [23946410](//www.ncbi.nlm.nih.gov/pubmed/23946410); PMCID: [PMC3742935](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3742935).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23946410/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  12. Siegel JJ, Kalmbach B, **Chitwood RA** , Mauk MD. Persistent activity in a cortical-to-subcortical circuit: bridging the temporal gap in trace eyelid conditioning. J Neurophysiol. 2012 Jan; 107(1):50-64. PMID: [21957220](//www.ncbi.nlm.nih.gov/pubmed/21957220); PMCID: [PMC3349685](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3349685).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21957220/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:Animals
+
+  13. Dembrow NC, **Chitwood RA** , Johnston D. Projection-specific neuromodulation of medial prefrontal cortex neurons. J Neurosci. 2010 Dec 15; 30(50):16922-37. PMID: [21159963](//www.ncbi.nlm.nih.gov/pubmed/21159963); PMCID: [PMC3075873](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3075873).
+
+Citations:
+[164](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21159963/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  14. Routh BN, Johnston D, Harris K, **Chitwood RA**. Anatomical and electrophysiological comparison of CA1 pyramidal neurons of the rat and mouse. J Neurophysiol. 2009 Oct; 102(4):2288-302. PMID: [19675296](//www.ncbi.nlm.nih.gov/pubmed/19675296); PMCID: [PMC2775381](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2775381).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19675296/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  15. Fan Y, Fricker D, Brager DH, Chen X, Lu HC, **Chitwood RA** , Johnston D. Activity-dependent decrease of excitability in rat hippocampal neurons through increases in I(h). Nat Neurosci. 2005 Nov; 8(11):1542-51. PMID: [16234810](//www.ncbi.nlm.nih.gov/pubmed/16234810).
+
+Citations:
+[195](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16234810/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  16. Soares D, **Chitwood RA** , Hyson RL, Carr CE. Intrinsic neuronal properties of the chick nucleus angularis. J Neurophysiol. 2002 Jul; 88(1):152-62. PMID: [12091541](//www.ncbi.nlm.nih.gov/pubmed/12091541).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12091541/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  17. Nakazawa K, Quirk MC, **Chitwood RA** , Watanabe M, Yeckel MF, Sun LD, Kato A, Carr CA, Johnston D, Wilson MA, Tonegawa S. Requirement for hippocampal CA3 NMDA receptors in associative memory recall. Science. 2002 Jul 12; 297(5579):211-8. PMID: [12040087](//www.ncbi.nlm.nih.gov/pubmed/12040087); PMCID: [PMC2877140](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2877140).
+
+Citations:
+[410](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12040087/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 17 publications over 12 distinct years, with a maximum of
+4 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,50,0,0,25,0,0,0,25,25,25,0,25,25,50,0,100,25,0,0,25,0,25,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 2  
+2005| 1  
+2009| 1  
+2010| 1  
+2011| 1  
+2013| 1  
+2014| 1  
+2015| 2  
+2017| 4  
+2018| 1  
+2021| 1  
+2023| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+CHITWOOD's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (124)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Prefrontal Cortex](https://profiles.viictr.org/profile/243891)
+  * [Pyramidal Cells](https://profiles.viictr.org/profile/263053)
+  * [Pons](https://profiles.viictr.org/profile/245055)
+  * [Efferent Pathways](https://profiles.viictr.org/profile/261963)
+  * [CA1 Region, Hippocampal](https://profiles.viictr.org/profile/262307)
+
+[Explore](https://profiles.viictr.org/profile/23479121/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [MAGEE, JEFFREY](https://profiles.viictr.org/profile/23478949)
+  * [XIAO, Kuo](https://profiles.viictr.org/profile/24845235)
+
+[Explore](https://profiles.viictr.org/profile/23479121/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [MAGEE, JEFFREY](https://profiles.viictr.org/profile/23478949)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [ALKADHI, KARIM](https://profiles.viictr.org/profile/267582)
+  * [SWANN, JOHN](https://profiles.viictr.org/profile/268300)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+
+[Explore](https://profiles.viictr.org/profile/23479121/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [JIANG, XIAOLONG](https://profiles.viictr.org/profile/268555)
+  * [MCGINLEY, MATTHEW](https://profiles.viictr.org/profile/18830398)
+  * [MEDINA, JAVIER](https://profiles.viictr.org/profile/14462449)
+  * [SAGGAU, PETER](https://profiles.viictr.org/profile/268285)
+  * [XUE, MINGSHAN](https://profiles.viictr.org/profile/7520380)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiUzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

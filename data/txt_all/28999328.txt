@@ -1,0 +1,474 @@
+## SARA NOWAKOWSKI
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 6620 MAIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Baoi4CvpL5z0TYD683DLCraPKl%2bPkzA%3d&rnd=46f71081-c056-4335-8001-c7ef3e5a51a6)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999328)  
+  
+
+Other Positions| Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Psychiatry & Behavioral Sciences  
+Division| Psychiatry & Behavioral Sciences  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01NR018342 (NOWAKOWSKI, SARA)Feb 1, 2019 - Nov 30, 2024NIH  
+SleepHab: Effectiveness of Healthy Sleep Habits for Hospitalized Older Adults
+to Optimize Rehabilitation  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+K23NR014008 (NOWAKOWSKI, SARA)Sep 27, 2012 - May 31, 2016NIH  
+Cognitive Behavioral Therapy for Insomnia and Nocturnal Hot Flashes in
+Menopause  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Razjouyan J](https://profiles.viictr.org/profile/15619488), [Hanania NA](https://profiles.viictr.org/profile/266276), **Nowakowski S** , Agrawal R, [Sharafkhaneh A](https://profiles.viictr.org/profile/267036). Identification of sleep phenotypes in COPD using machine learning-based cluster analysis. Respir Med. 2024 Jun; 227:107641. PMID: [38710399](//www.ncbi.nlm.nih.gov/pubmed/38710399); PMCID: [PMC11218872](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11218872).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  2. [Meers JM](https://profiles.viictr.org/profile/35469337), Bower J, **Nowakowski S** , Alfano C. Interaction of sleep and emotion across the menstrual cycle. J Sleep Res. 2024 Mar 21; e14185. PMID: [38513350](//www.ncbi.nlm.nih.gov/pubmed/38513350).
+
+Citations:  Fields:
+
+Psy Psychophysiology
+
+  3. Royle ML, Connolly EJ, **Nowakowski S** , Temple JR. Sleep duration, sleep quality, and weapon carrying in a sample of adolescents from Texas. Prev Med Rep. 2023 Oct; 35:102385. PMID: [37662869](//www.ncbi.nlm.nih.gov/pubmed/37662869); PMCID: [PMC10474321](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10474321).
+
+Citations:
+
+  4. Agrawal R, [Sharafkhaneh A](https://profiles.viictr.org/profile/267036), Gottlieb DJ, **Nowakowski S** , [Razjouyan J](https://profiles.viictr.org/profile/15619488). Mortality Patterns Associated with Central Sleep Apnea among Veterans: A Large, Retrospective, Longitudinal Report. Ann Am Thorac Soc. 2023 03; 20(3):450-455. PMID: [36375082](//www.ncbi.nlm.nih.gov/pubmed/36375082); PMCID: [PMC9993148](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9993148).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36375082/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  5. Pappadis MR, Deer RR, Li CY, **Nowakowski S** , Shaltoni HM, Bhavnani SK, Reistetter T, Hreha K, Dean JM, Hong I, Na A. The Pre-Adaptation of a Stroke-Specific Self-Management Program Among Older Adults. J Aging Health. 2023 10; 35(9):632-642. PMID: [36719035](//www.ncbi.nlm.nih.gov/pubmed/36719035); PMCID: [PMC10387498](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10387498).
+
+Citations:  Fields:
+
+Ger Geriatrics
+
+Translation:Humans
+
+  6. Maghsoudi A, **Nowakowski S** , Agrawal R, [Sharafkhaneh A](https://profiles.viictr.org/profile/267036), [Kunik ME](https://profiles.viictr.org/profile/266844), Naik AD, Xu H, [Razjouyan J](https://profiles.viictr.org/profile/15619488). Sentiment Analysis of Insomnia-Related Tweets via a Combination of Transformers Using Dempster-Shafer Theory: Pre- and Peri-COVID-19 Pandemic Retrospective Study. J Med Internet Res. 2022 12 27; 24(12):e41517. PMID: [36417585](//www.ncbi.nlm.nih.gov/pubmed/36417585); PMCID: [PMC9822178](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9822178).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36417585/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:HumansPHPublic Health
+
+  7. Arentson-Lantz EJ, Deer RR, Kokonda M, Wen CL, Pecha TA, [Carreon SA](https://profiles.viictr.org/profile/28999547), Ngyen TM, Volpi E, **Nowakowski S**. Improvements in sleep quality and fatigue are associated with improvements in functional recovery following hospitalization in older adults. Front Sleep. 2022; 1. PMID: [37251511](//www.ncbi.nlm.nih.gov/pubmed/37251511); PMCID: [PMC10217784](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10217784).
+
+Citations:
+
+  8. Rahman M, **Nowakowski S** , Agrawal R, Naik A, [Sharafkhaneh A](https://profiles.viictr.org/profile/267036), [Razjouyan J](https://profiles.viictr.org/profile/15619488). Validation of a Natural Language Processing Algorithm for the Extraction of the Sleep Parameters from the Polysomnography Reports. Healthcare (Basel). 2022 Sep 22; 10(10). PMID: [36292283](//www.ncbi.nlm.nih.gov/pubmed/36292283); PMCID: [PMC9602175](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9602175).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36292283/citedby/)
+
+  9. [Meers JM](https://profiles.viictr.org/profile/35469337), **Nowakowski S**. Sleep During Pregnancy. Curr Psychiatry Rep. 2022 08; 24(8):353-357. PMID: [35689720](//www.ncbi.nlm.nih.gov/pubmed/35689720).
+
+Citations:  Fields:
+
+Psy Psychiatry
+
+  10. **Nowakowski S** , Kokonda M, Sultana R, Duong BB, Nagy SE, Zaidan MF, Baig MM, Grigg BV, Seashore J, Deer RR. Association between Sleep Quality and Mental Health among Patients at a Post-COVID-19 Recovery Clinic. Brain Sci. 2022 Apr 30; 12(5). PMID: [35624973](//www.ncbi.nlm.nih.gov/pubmed/35624973); PMCID: [PMC9139253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9139253).
+
+Citations:
+
+  11. Teague TT, Debian A, Kokonda M, [Malhotra S](https://profiles.viictr.org/profile/22016588), Arentson-Lantz E, [Shaib F](https://profiles.viictr.org/profile/269875), **Nowakowski S**. Longitudinal Analysis Evaluating Self-Reported CPAP Use for OSA during the COVID-19 Pandemic. Brain Sci. 2022 Jan 19; 12(2). PMID: [35203895](//www.ncbi.nlm.nih.gov/pubmed/35203895); PMCID: [PMC8870344](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8870344).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35203895/citedby/)
+
+  12. Jin JW, **Nowakowski S** , Taylor A, [Medina LD](https://profiles.viictr.org/profile/37742698), [Kunik ME](https://profiles.viictr.org/profile/266844). Cognitive Behavioral Therapy for Mood and Insomnia in Persons With Dementia: A Systematic Review. Alzheimer Dis Assoc Disord. 2021 Oct-Dec 01; 35(4):366-373. PMID: [33929370](//www.ncbi.nlm.nih.gov/pubmed/33929370).
+
+Citations:  Fields:
+
+Neu NeurologyPsy Psychiatry
+
+Translation:Humans
+
+  13. Kennedy KER, Onyeonwu C, **Nowakowski S** , Hale L, Branas CC, Killgore WDS, Wills CCA, Grandner MA. Menstrual regularity and bleeding is associated with sleep duration, sleep quality and fatigue in a community sample. J Sleep Res. 2022 02; 31(1):e13434. PMID: [34404109](//www.ncbi.nlm.nih.gov/pubmed/34404109).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34404109/citedby/) Fields:
+
+Psy Psychophysiology
+
+Translation:Humans
+
+  14. [Stavinoha PL](https://profiles.viictr.org/profile/17440171), Olsthoorn IM, Swartz MC, **Nowakowski S** , Wells SJ, Hicklen RS, Sheikh I, Jang HJ. Non-pharmacological sleep interventions for pediatric cancer patients and survivors: a systematic review protocol. Syst Rev. 2021 06 04; 10(1):166. PMID: [34088350](//www.ncbi.nlm.nih.gov/pubmed/34088350); PMCID: [PMC8176735](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8176735).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34088350/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  15. **Nowakowski S** , [Meers JM](https://profiles.viictr.org/profile/35469337). Cognitive-behavior therapy for sleep disorders at midlife. Menopause. 2021 05 24; 28(7):833-835. PMID: [34033600](//www.ncbi.nlm.nih.gov/pubmed/34033600).
+
+Citations:  Fields:
+
+Gyn Gynecology
+
+Translation:Humans
+
+  16. **Nowakowski S** , Levy-Meeks ME, Dawson DB, [Meers JM](https://profiles.viictr.org/profile/35469337), Stout-Aguilar JS, Kilic GS, Borahay MA. Association of preoperative sleep pattern with posthysterectomy pain: a pilot study. J Clin Sleep Med. 2020 11 15; 16(11):1901-1908. PMID: [32776870](//www.ncbi.nlm.nih.gov/pubmed/32776870); PMCID: [PMC8034220](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8034220).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32776870/citedby/) Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Humans
+
+  17. [Crew EC](https://profiles.viictr.org/profile/31086277), Baron KG, Grandner MA, Ievers-Landis CE, McCrae CS, Nadorff MR, **Nowakowski S** , Ochsner Margolies S, Hansen K. The Society of Behavioral Sleep Medicine (SBSM) COVID-19 Task Force: Objectives and Summary Recommendations for Managing Sleep during a Pandemic. Behav Sleep Med. 2020 Jul-Aug; 18(4):570-572. PMID: [32538157](//www.ncbi.nlm.nih.gov/pubmed/32538157).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32538157/citedby/) Fields:
+
+Beh Behavioral SciencesPsy Psychophysiology
+
+Translation:HumansPHPublic Health
+
+  18. [Meers JM](https://profiles.viictr.org/profile/35469337), **Nowakowski S**. Sleep, premenstrual mood disorder, and women's health. Curr Opin Psychol. 2020 08; 34:43-49. PMID: [31610482](//www.ncbi.nlm.nih.gov/pubmed/31610482).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31610482/citedby/) Fields:
+
+Psy Psychology
+
+Translation:Humans
+
+  19. Cho NY, Kim S, **Nowakowski S** , Shin C, Suh S. Sleep disturbance in women who undergo surgical menopause compared with women who experience natural menopause. Menopause. 2019 04; 26(4):357-364. PMID: [30422933](//www.ncbi.nlm.nih.gov/pubmed/30422933).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30422933/citedby/) Fields:
+
+Gyn Gynecology
+
+Translation:Humans
+
+  20. **Nowakowski S** , [Meers JM](https://profiles.viictr.org/profile/35469337). Cognitive Behavioral Therapy for Insomnia and Women's Health: Sex as a Biological Variable. Sleep Med Clin. 2019 Jun; 14(2):185-197. PMID: [31029186](//www.ncbi.nlm.nih.gov/pubmed/31029186); PMCID: [PMC6494116](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6494116).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31029186/citedby/) Fields:
+
+Psy Psychophysiology
+
+Translation:Humans
+
+  21. Randall C, **Nowakowski S** , Ellis JG. Managing Acute Insomnia in Prison: Evaluation of a "One-Shot" Cognitive Behavioral Therapy for Insomnia (CBT-I) Intervention. Behav Sleep Med. 2019 Nov-Dec; 17(6):827-836. PMID: [30289290](//www.ncbi.nlm.nih.gov/pubmed/30289290).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30289290/citedby/) Fields:
+
+Beh Behavioral SciencesPsy Psychophysiology
+
+Translation:Humans
+
+  22. Ong JC, Arand D, Schmitz M, Baron K, Blackburn R, Grandner MA, Lichstein KL, **Nowakowski S** , Teixeira C, Boling K, C Dawson S, Hansen K. A Concept Map of Behavioral Sleep Medicine: Defining the Scope of the Field and Strategic Priorities. Behav Sleep Med. 2018 Nov-Dec; 16(6):523-526. PMID: [30118323](//www.ncbi.nlm.nih.gov/pubmed/30118323).
+
+Citations:  Fields:
+
+Beh Behavioral SciencesPsy Psychophysiology
+
+  23. **Nowakowski S** , Matthews KA, Hall MH, Thurston RC, von K?nel R. Sleep characteristics and inflammatory biomarkers among midlife women. Sleep. 2018 05 01; 41(5). PMID: [29617910](//www.ncbi.nlm.nih.gov/pubmed/29617910); PMCID: [PMC5946814](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5946814).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29617910/citedby/) Fields:
+
+Psy Psychophysiology
+
+Translation:Humans
+
+  24. Kling JM, Manson JE, Naughton MJ, Temkit M, Sullivan SD, Gower EW, Hale L, Weitlauf JC, **Nowakowski S** , Crandall CJ. Association of sleep disturbance and sexual function in postmenopausal women. Menopause. 2017 06; 24(6):604-612. PMID: [28141665](//www.ncbi.nlm.nih.gov/pubmed/28141665); PMCID: [PMC5443696](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5443696).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28141665/citedby/) Fields:
+
+Gyn Gynecology
+
+Translation:Humans
+
+  25. **Nowakowski S** , Choi H, [Meers J](https://profiles.viictr.org/profile/35469337), Temple JR. Inadequate Sleep as a Mediating Variable between Exposure to Interparental Violence and Depression Severity in Adolescents. J Child Adolesc Trauma. 2016 Jun; 9(2):109-114. PMID: [27563369](//www.ncbi.nlm.nih.gov/pubmed/27563369); PMCID: [PMC4993528](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4993528).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27563369/citedby/)
+
+  26. Thomas A, Grandner M, **Nowakowski S** , Nesom G, Corbitt C, Perlis ML. Where are the Behavioral Sleep Medicine Providers and Where are They Needed? A Geographic Assessment. Behav Sleep Med. 2016 Nov-Dec; 14(6):687-98. PMID: [27159249](//www.ncbi.nlm.nih.gov/pubmed/27159249); PMCID: [PMC5070478](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5070478).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27159249/citedby/) Fields:
+
+Beh Behavioral SciencesPsy Psychophysiology
+
+Translation:Humans
+
+  27. Lalley-Chareczko L, Segal A, Perlis ML, **Nowakowski S** , Tal JZ, Grandner MA. Sleep Disturbance Partially Mediates the Relationship Between Intimate Partner Violence and Physical/Mental Health in Women and Men. J Interpers Violence. 2017 08; 32(16):2471-2495. PMID: [26149676](//www.ncbi.nlm.nih.gov/pubmed/26149676); PMCID: [PMC4710553](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4710553).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26149676/citedby/) Fields:
+
+Soc Social Sciences
+
+Translation:Humans
+
+  28. Grandner MA, **Nowakowski S** , Kloss JD, Perlis ML. Insomnia symptoms predict physical and mental impairments among postmenopausal women. Sleep Med. 2015 Mar; 16(3):317-8. PMID: [25698406](//www.ncbi.nlm.nih.gov/pubmed/25698406); PMCID: [PMC4375439](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4375439).
+
+Citations:  Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Humans
+
+  29. Meliska CJ, Mart?nez LF, L?pez AM, Sorenson DL, **Nowakowski S** , Kripke DF, Elliott J, Parry BL. Antepartum depression severity is increased during seasonally longer nights: relationship to melatonin and cortisol timing and quantity. Chronobiol Int. 2013 Nov; 30(9):1160-73. PMID: [23998286](//www.ncbi.nlm.nih.gov/pubmed/23998286); PMCID: [PMC4041493](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4041493).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23998286/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Humans
+
+  30. **Nowakowski S** , [Meers J](https://profiles.viictr.org/profile/35469337), Heimbach E. Sleep and Women's Health. Sleep Med Res. 2013; 4(1):1-22. PMID: [25688329](//www.ncbi.nlm.nih.gov/pubmed/25688329); PMCID: [PMC4327930](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4327930).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25688329/citedby/)
+
+  31. Suh S, **Nowakowski S** , Bernert RA, Ong JC, Siebern AT, Dowdle CL, Manber R. Clinical significance of night-to-night sleep variability in insomnia. Sleep Med. 2012 May; 13(5):469-75. PMID: [22357064](//www.ncbi.nlm.nih.gov/pubmed/22357064); PMCID: [PMC4086618](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4086618).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22357064/citedby/) Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Humans
+
+  32. Manber R, Bernert RA, Suh S, **Nowakowski S** , Siebern AT, Ong JC. CBT for insomnia in patients with high and low depressive symptom severity: adherence and clinical outcomes. J Clin Sleep Med. 2011 Dec 15; 7(6):645-52. PMID: [22171204](//www.ncbi.nlm.nih.gov/pubmed/22171204); PMCID: [PMC3227711](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3227711).
+
+Citations:
+[75](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22171204/citedby/) Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Humans
+
+  33. Meliska CJ, Martínez LF, López AM, Sorenson DL, **Nowakowski S** , Parry BL, Mart?nez LF, L?pez AM. Relationship of morningness-eveningness questionnaire score to melatonin and sleep timing, body mass index and atypical depressive symptoms in peri- and post-menopausal women. Psychiatry Res. 2011 Jun 30; 188(1):88-95. PMID: [21237517](//www.ncbi.nlm.nih.gov/pubmed/21237517); PMCID: [PMC3100421](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3100421).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21237517/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  34. **Nowakowski S** , Meliska CJ, Martinez LF, Parry BL. Sleep and menopause. Curr Neurol Neurosci Rep. 2009 Mar; 9(2):165-72. PMID: [19268040](//www.ncbi.nlm.nih.gov/pubmed/19268040).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19268040/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  35. Parry BL, Meliska CJ, Sorenson DL, López AM, Martínez LF, **Nowakowski S** , Hauger RL, Elliott JA, L?pez AM, Mart?nez LF. Increased melatonin and delayed offset in menopausal depression: role of years past menopause, follicle-stimulating hormone, sleep end time, and body mass index. J Clin Endocrinol Metab. 2008 Jan; 93(1):54-60. PMID: [18042653](//www.ncbi.nlm.nih.gov/pubmed/18042653); PMCID: [PMC2190736](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2190736).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18042653/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:Humans
+
+  36. Orff HJ, Drummond SP, **Nowakowski S** , Perils ML. Discrepancy between subjective symptomatology and objective neuropsychological performance in insomnia. Sleep. 2007 Sep; 30(9):1205-11. PMID: [17910392](//www.ncbi.nlm.nih.gov/pubmed/17910392); PMCID: [PMC1978394](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1978394).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17910392/citedby/) Fields:
+
+Psy Psychophysiology
+
+Translation:Humans
+
+  37. Perlis ML, Smith MT, Orff H, Enright T, **Nowakowski S** , Jungquist C, Plotkin K. The effects of modafinil and cognitive behavior therapy on sleep continuity in patients with primary insomnia. Sleep. 2004 Jun 15; 27(4):715-25. PMID: [15283007](//www.ncbi.nlm.nih.gov/pubmed/15283007).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15283007/citedby/) Fields:
+
+Psy Psychophysiology
+
+Translation:HumansCTClinical Trials
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 37 publications over 16 distinct years, with a maximum of
+6 publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,17,0,0,33,0,17,0,33,17,33,0,33,33,17,50,50,33,67,100,50,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 1  
+2007| 2  
+2009| 1  
+2011| 2  
+2012| 1  
+2013| 2  
+2015| 2  
+2016| 2  
+2017| 1  
+2018| 3  
+2019| 3  
+2020| 2  
+2021| 4  
+2022| 6  
+2023| 3  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+NOWAKOWSKI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (140)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Sleep Initiation and Maintenance Disorders](https://profiles.viictr.org/profile/261417)
+  * [Sleep](https://profiles.viictr.org/profile/249076)
+  * [Sleep Wake Disorders](https://profiles.viictr.org/profile/255588)
+  * [Menopause](https://profiles.viictr.org/profile/246837)
+  * [Pregnancy Complications](https://profiles.viictr.org/profile/248966)
+
+[Explore](https://profiles.viictr.org/profile/28999328/198)
+
+_
+
+Co-Authors (11)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [MEERS, JESSICA](https://profiles.viictr.org/profile/35469337)
+  * [RAZJOUYAN, JAVAD](https://profiles.viictr.org/profile/15619488)
+  * [SHARAFKHANEH, AMIR](https://profiles.viictr.org/profile/267036)
+  * [KUNIK, MARK](https://profiles.viictr.org/profile/266844)
+  * [CARREON, SAMANTHA](https://profiles.viictr.org/profile/28999547)
+
+[Explore](https://profiles.viictr.org/profile/28999328/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [STORCH, ERIC](https://profiles.viictr.org/profile/23478906)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [KUNIK, MARK](https://profiles.viictr.org/profile/266844)
+  * [MEERS, JESSICA](https://profiles.viictr.org/profile/35469337)
+  * [STANLEY, MELINDA](https://profiles.viictr.org/profile/269075)
+
+[Explore](https://profiles.viictr.org/profile/28999328/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AMSPOKER, AMBER](https://profiles.viictr.org/profile/265946)
+  * [DAVILA, JESSICA](https://profiles.viictr.org/profile/268397)
+  * [HYSONG, SYLVIA](https://profiles.viictr.org/profile/270308)
+  * [SANSGIRY, SHUBHADA](https://profiles.viictr.org/profile/265828)
+  * [WALDER, ANNETTE](https://profiles.viictr.org/profile/269214)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

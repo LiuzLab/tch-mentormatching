@@ -1,0 +1,600 @@
+## MUSTAFA OZEN
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| Department of Pathology  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O6Qq5GvnIoj4CIrp9Q%3d%3d&rnd=b7492782-0d8e-4f38-ba40-570a9957df2f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=265593)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Usta Saglam NG, Duz MB, Salman Yilmaz S, **Ozen M** , Balcioglu I. Comparison of microRNA expression levels in patients with schizophrenia before and after electroconvulsive therapy. Psychiatr Genet. 2024 Aug 01; 34(4):79-85. PMID: [38842000](//www.ncbi.nlm.nih.gov/pubmed/38842000).
+
+Citations:  Fields:
+
+Gen GeneticsPsy Psychiatry
+
+Translation:Humans
+
+  2. Boyukozer FB, Tanoglu EG, **Ozen M** , [Ittmann M](https://profiles.viictr.org/profile/269566), Aslan ES. Kallikrein gene family as biomarkers for recurrent prostate cancer. Croat Med J. 2020 Oct 31; 61(5):450-456. PMID: [33150763](//www.ncbi.nlm.nih.gov/pubmed/33150763); PMCID: [PMC7684543](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7684543).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33150763/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  3. Koparir A, Karatas OF, Yilmaz SS, Suer I, Ozer B, Yuceturk B, **Ozen M**. Revealing the functions of novel mutations in RAB3GAP1 in Martsolf and Warburg micro syndromes. Am J Med Genet A. 2019 04; 179(4):579-587. PMID: [30730599](//www.ncbi.nlm.nih.gov/pubmed/30730599).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30730599/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  4. Suer I, Guzel E, Karatas OF, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Ittmann M](https://profiles.viictr.org/profile/269566), **Ozen M**. MicroRNAs as prognostic markers in prostate cancer. Prostate. 2019 02; 79(3):265-271. PMID: [30345533](//www.ncbi.nlm.nih.gov/pubmed/30345533).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30345533/citedby/) Fields:
+
+Uro Urology
+
+Translation:Humans
+
+  5. Karatas OF, Wang J, Shao L, **Ozen M** , Zhang Y, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Ittmann M](https://profiles.viictr.org/profile/269566). miR-33a is a tumor suppressor microRNA that is decreased in prostate cancer. Oncotarget. 2017 Sep 01; 8(36):60243-60256. PMID: [28947967](//www.ncbi.nlm.nih.gov/pubmed/28947967); PMCID: [PMC5601135](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5601135).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28947967/citedby/) Fields:
+
+Neo Neoplasms
+
+  6. Pashaei E, Pashaei E, Ahmady M, **Ozen M** , Aydin N. Meta-analysis of miRNA expression profiles for prostate cancer recurrence following radical prostatectomy. PLoS One. 2017; 12(6):e0179543. PMID: [28651018](//www.ncbi.nlm.nih.gov/pubmed/28651018); PMCID: [PMC5484492](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5484492).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28651018/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  7. Karatas OF, Suer I, Yuceturk B, Yilmaz M, Oz B, Guven G, Cansiz H, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Ittmann M](https://profiles.viictr.org/profile/269566), **Ozen M**. Identification of microRNA profile specific to cancer stem-like cells directly isolated from human larynx cancer specimens. BMC Cancer. 2016 11 05; 16(1):853. PMID: [27816053](//www.ncbi.nlm.nih.gov/pubmed/27816053); PMCID: [PMC5097853](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5097853).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27816053/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  8. Pashaei E, Guzel E, Ozgurses ME, Demirel G, Aydin N, **Ozen M**. A Meta-Analysis: Identification of Common Mir-145 Target Genes that have Similar Behavior in Different GEO Datasets. PLoS One. 2016; 11(9):e0161491. PMID: [27655328](//www.ncbi.nlm.nih.gov/pubmed/27655328); PMCID: [PMC5031439](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5031439).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27655328/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+  9. Elagoz Yuksel M, Yuceturk B, Karatas OF, **Ozen M** , Dogangun B. The altered promoter methylation of oxytocin receptor gene in autism. J Neurogenet. 2016 Sep - Dec; 30(3-4):280-284. PMID: [27309964](//www.ncbi.nlm.nih.gov/pubmed/27309964).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27309964/citedby/) Fields:
+
+Gen GeneticsNeu Neurology
+
+Translation:HumansCells
+
+  10. Karatas OF, Guzel E, Duz MB, [Ittmann M](https://profiles.viictr.org/profile/269566), **Ozen M**. The role of ATP-binding cassette transporter genes in the progression of prostate cancer. Prostate. 2016 Apr; 76(5):434-44. PMID: [26708806](//www.ncbi.nlm.nih.gov/pubmed/26708806).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26708806/citedby/) Fields:
+
+Uro Urology
+
+Translation:Humans
+
+  11. Duz MB, Karatas OF, Guzel E, Turgut NF, Yilmaz M, [Creighton CJ](https://profiles.viictr.org/profile/265729), **Ozen M**. Identification of miR-139-5p as a saliva biomarker for tongue squamous cell carcinoma: a pilot study. Cell Oncol (Dordr). 2016 Apr; 39(2):187-93. PMID: [26650483](//www.ncbi.nlm.nih.gov/pubmed/26650483).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26650483/citedby/) Fields:
+
+Cel Cell BiologyNeo NeoplasmsPat Pathology
+
+Translation:Humans
+
+  12. Lee B, Duz MB, Sagong B, Koparir A, Lee KY, Choi JY, Seven M, Yuksel A, Kim UK, **Ozen M**. Revealing the function of a novel splice-site mutation of CHD7 in CHARGE syndrome. Gene. 2016 Feb 01; 576(2 Pt 2):776-81. PMID: [26551301](//www.ncbi.nlm.nih.gov/pubmed/26551301).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26551301/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  13. Karaca E, Harel T, [Pehlivan D](https://profiles.viictr.org/profile/27841639), Jhangiani SN, Gambin T, Coban Akdemir Z, Gonzaga-Jauregui C, Erdin S, Bayram Y, Campbell IM, Hunter JV, Atik MM, Van Esch H, [Yuan B](https://profiles.viictr.org/profile/1826469), Wiszniewski W, Isikay S, Yesil G, Yuregir OO, Tug Bozdogan S, Aslan H, Aydin H, Tos T, Aksoy A, De Vivo DC, Jain P, Geckinli BB, Sezer O, Gul D, Durmaz B, Cogulu O, Ozkinay F, Topcu V, Candan S, Cebi AH, Ikbal M, Yilmaz Gulec E, Gezdirici A, Koparir E, Ekici F, Coskun S, Cicek S, Karaer K, Koparir A, Duz MB, Kirat E, Fenercioglu E, Ulucan H, Seven M, Guran T, Elcioglu N, Yildirim MS, Aktas D, Alikasifoglu M, Ture M, Yakut T, Overton JD, Yuksel A, **Ozen M** , [Muzny DM](https://profiles.viictr.org/profile/268028), Adams DR, [Boerwinkle E](https://profiles.viictr.org/profile/267689), Chung WK, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Lupski JR](https://profiles.viictr.org/profile/268099). Genes that Affect Brain Structure and Function Identified by Rare Variant Analyses of Mendelian Neurologic Disease. Neuron. 2015 Nov 04; 88(3):499-513. PMID: [26539891](//www.ncbi.nlm.nih.gov/pubmed/26539891); PMCID: [PMC4824012](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4824012).
+
+Citations:
+[111](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26539891/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  14. Karatas OF, Suer I, Yuceturk B, Yilmaz M, Hajiyev Y, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Ittmann M](https://profiles.viictr.org/profile/269566), **Ozen M**. The role of miR-145 in stem cell characteristics of human laryngeal squamous cell carcinoma Hep-2 cells. Tumour Biol. 2016 Mar; 37(3):4183-92. PMID: [26490990](//www.ncbi.nlm.nih.gov/pubmed/26490990).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26490990/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  15. Atik T, Koparir A, Bademci G, Foster J, Altunoglu U, Bowdin S, Elcioglu N, Tayfun GA, Atik SS, **Ozen M** , Ozkinay F, Alanay Y, Kayserili H, Thiel S, Tekin M, Mutlu GY. Novel MASP1 mutations are associated with an expanded phenotype in 3MC1 syndrome. Orphanet J Rare Dis. 2015 Sep 30; 10:128. PMID: [26419238](//www.ncbi.nlm.nih.gov/pubmed/26419238); PMCID: [PMC4589207](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4589207).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26419238/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  16. Koparir A, Karatas OF, Yuceturk B, Yuksel B, Bayrak AO, Gerdan OF, Sagiroglu MS, Gezdirici A, Kirimtay K, Selcuk E, Karabay A, [Creighton CJ](https://profiles.viictr.org/profile/265729), Yuksel A, **Ozen M**. Novel POC1A mutation in primordial dwarfism reveals new insights for centriole biogenesis. Hum Mol Genet. 2015 Oct 01; 24(19):5378-87. PMID: [26162852](//www.ncbi.nlm.nih.gov/pubmed/26162852).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26162852/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansCells
+
+  17. Karatas OF, Yuceturk B, Suer I, Yilmaz M, Cansiz H, Solak M, [Ittmann M](https://profiles.viictr.org/profile/269566), **Ozen M**. Role of miR-145 in human laryngeal squamous cell carcinoma. Head Neck. 2016 Feb; 38(2):260-6. PMID: [26083661](//www.ncbi.nlm.nih.gov/pubmed/26083661).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26083661/citedby/) Fields:
+
+Gen General SurgeryNeo Neoplasms
+
+Translation:HumansCells
+
+  18. **Ozen M** , Karatas OF, Gulluoglu S, Bayrak OF, Sevli S, Guzel E, Ekici ID, Caskurlu T, Solak M, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Ittmann M](https://profiles.viictr.org/profile/269566). Overexpression of miR-145-5p inhibits proliferation of prostate cancer cells and reduces SOX2 expression. Cancer Invest. 2015 Jul; 33(6):251-8. PMID: [25951106](//www.ncbi.nlm.nih.gov/pubmed/25951106).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25951106/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  19. Yilmaz SS, Guzel E, Karatas OF, Yilmaz M, [Creighton CJ](https://profiles.viictr.org/profile/265729), **Ozen M**. MiR-221 as a pre- and postoperative plasma biomarker for larynx cancer patients. Laryngoscope. 2015 Dec; 125(12):E377-81. PMID: [25945817](//www.ncbi.nlm.nih.gov/pubmed/25945817).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25945817/citedby/) Fields:
+
+Oto Otolaryngology
+
+Translation:Humans
+
+  20. Cengiz M, Karatas OF, Koparir E, Yavuzer S, Ali C, Yavuzer H, Kirat E, Karter Y, **Ozen M**. Differential expression of hypertension-associated microRNAs in the plasma of patients with white coat hypertension. Medicine (Baltimore). 2015 Apr; 94(13):e693. PMID: [25837765](//www.ncbi.nlm.nih.gov/pubmed/25837765); PMCID: [PMC4554020](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4554020).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25837765/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  21. Koparir A, Karatas OF, Atayoglu AT, Yuksel B, Sagiroglu MS, Seven M, Ulucan H, Yuksel A, **Ozen M**. Whole-exome sequencing revealed two novel mutations in Usher syndrome. Gene. 2015 Jun 01; 563(2):215-8. PMID: [25834954](//www.ncbi.nlm.nih.gov/pubmed/25834954).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25834954/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Humans
+
+  22. Ekin A, Karatas OF, Culha M, **Ozen M**. Designing a gold nanoparticle-based nanocarrier for microRNA transfection into the prostate and breast cancer cells. J Gene Med. 2014 Nov-Dec; 16(11-12):331-5. PMID: [25331590](//www.ncbi.nlm.nih.gov/pubmed/25331590).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25331590/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansCells
+
+  23. Guzel E, Karatas OF, Duz MB, Solak M, [Ittmann M](https://profiles.viictr.org/profile/269566), **Ozen M**. Differential expression of stem cell markers and ABCG2 in recurrent prostate cancer. Prostate. 2014 Nov; 74(15):1498-505. PMID: [25175483](//www.ncbi.nlm.nih.gov/pubmed/25175483).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25175483/citedby/) Fields:
+
+Uro Urology
+
+Translation:HumansCells
+
+  24. Yilmaz M, Karatas OF, Yuceturk B, Dag H, Yener M, **Ozen M**. Alpha-B-crystallin expression in human laryngeal squamous cell carcinoma tissues. Head Neck. 2015 Sep; 37(9):1344-8. PMID: [24817638](//www.ncbi.nlm.nih.gov/pubmed/24817638).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24817638/citedby/) Fields:
+
+Gen General SurgeryNeo Neoplasms
+
+Translation:Humans
+
+  25. Koparir A, Gezdirici A, Koparir E, Ulucan H, Yilmaz M, Erdemir A, Yuksel A, **Ozen M**. Poikiloderma with neutropenia: genotype-ethnic origin correlation, expanding phenotype and literature review. Am J Med Genet A. 2014 Oct; 164A(10):2535-40. PMID: [25044170](//www.ncbi.nlm.nih.gov/pubmed/25044170).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25044170/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  26. Guzel E, Karatas OF, Semercioz A, Ekici S, Aykan S, Yentur S, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Ittmann M](https://profiles.viictr.org/profile/269566), **Ozen M**. Identification of microRNAs differentially expressed in prostatic secretions of patients with prostate cancer. Int J Cancer. 2015 Feb 15; 136(4):875-9. PMID: [24976077](//www.ncbi.nlm.nih.gov/pubmed/24976077).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24976077/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  27. Karatas OF, Guzel E, Suer I, Ekici ID, Caskurlu T, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Ittmann M](https://profiles.viictr.org/profile/269566), **Ozen M**. miR-1 and miR-133b are differentially expressed in patients with recurrent prostate cancer. PLoS One. 2014; 9(6):e98675. PMID: [24967583](//www.ncbi.nlm.nih.gov/pubmed/24967583); PMCID: [PMC4072786](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4072786).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24967583/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  28. Seven M, Karatas OF, Duz MB, **Ozen M**. The role of miRNAs in cancer: from pathogenesis to therapeutic implications. Future Oncol. 2014 May; 10(6):1027-48. PMID: [24941988](//www.ncbi.nlm.nih.gov/pubmed/24941988).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24941988/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  29. Karaca E, Weitzer S, [Pehlivan D](https://profiles.viictr.org/profile/27841639), Shiraishi H, Gogakos T, Hanada T, Jhangiani SN, Wiszniewski W, Withers M, Campbell IM, Erdin S, Isikay S, Franco LM, Gonzaga-Jauregui C, Gambin T, Gelowani V, Hunter JV, Yesil G, Koparir E, Yilmaz S, Brown M, Briskin D, Hafner M, Morozov P, Farazi TA, Bernreuther C, Glatzel M, Trattnig S, Friske J, Kronnerwetter C, Bainbridge MN, Gezdirici A, Seven M, [Muzny DM](https://profiles.viictr.org/profile/268028), [Boerwinkle E](https://profiles.viictr.org/profile/267689), **Ozen M** , Baylor Hopkins Center for Mendelian Genomics, Clausen T, Tuschl T, Yuksel A, Hess A, [Gibbs RA](https://profiles.viictr.org/profile/269695), Martinez J, Penninger JM, [Lupski JR](https://profiles.viictr.org/profile/268099). Human CLP1 mutations alter tRNA biogenesis, affecting both peripheral and central nervous system function. Cell. 2014 Apr 24; 157(3):636-50. PMID: [24766809](//www.ncbi.nlm.nih.gov/pubmed/24766809); PMCID: [PMC4146440](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4146440).
+
+Citations:
+[104](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24766809/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  30. Suer I, Karatas OF, Yuceturk B, Yilmaz M, Guven G, Buge O, Cansiz H, **Ozen M**. Characterization of stem-like cells directly isolated from freshly resected laryngeal squamous cell carcinoma specimens. Curr Stem Cell Res Ther. 2014; 9(4):347-53. PMID: [24678693](//www.ncbi.nlm.nih.gov/pubmed/24678693).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24678693/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  31. Bayrak OF, Gulluoglu S, Aydemir E, Ture U, Acar H, Atalay B, Demir Z, Sevli S, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Ittmann M](https://profiles.viictr.org/profile/269566), Sahin F, **Ozen M**. MicroRNA expression profiling reveals the potential function of microRNA-31 in chordomas. J Neurooncol. 2013 Nov; 115(2):143-51. PMID: [23912551](//www.ncbi.nlm.nih.gov/pubmed/23912551).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23912551/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansCells
+
+  32. Seven M, Gezdirici A, Ulucan H, Karatas OF, Yosunkaya E, Yuksel A, **Ozen M**. A novel EFNB1 mutation in a patient with craniofrontonasal syndrome and right hallux duplication. Gene. 2013 Sep 25; 527(2):675-8. PMID: [23845783](//www.ncbi.nlm.nih.gov/pubmed/23845783).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23845783/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Humans
+
+  33. Karatas OF, Guzel E, Karaca E, Sevli S, Soyucen E, Yuksel A, **Ozen M**. MicroRNA profiling in lymphocytes and serum of tyrosinemia type-I patients. Mol Biol Rep. 2013 Jul; 40(7):4619-23. PMID: [23649765](//www.ncbi.nlm.nih.gov/pubmed/23649765).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23649765/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  34. Ulucan H, Koparir E, Koparir A, Karaca E, Emre R, Gezdirici A, Yosunkaya E, Seven M, **Ozen M** , Yuksel A. Circumferential skin folds and multiple anomalies: confirmation of a distinct autosomal recessive Michelin tire baby syndrome. Clin Dysmorphol. 2013 Apr; 22(2):87-90. PMID: [23324645](//www.ncbi.nlm.nih.gov/pubmed/23324645).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23324645/citedby/) Fields:
+
+Ter Teratology
+
+Translation:Humans
+
+  35. Gezdirici A, Yenigun A, Koparir E, Yosunkaya E, Ulucan H, Seven M, Yuksel A, **Ozen M**. A rare case of split hand/foot malformation with sensorineural hearing loss and Mondini dysplasia. Clin Dysmorphol. 2013 Jan; 22(1):33-5. PMID: [23168687](//www.ncbi.nlm.nih.gov/pubmed/23168687).
+
+Citations:  Fields:
+
+Ter Teratology
+
+Translation:Humans
+
+  36. Karaca E, Karakoc-Aydiner E, Bayrak OF, Keles S, Sevli S, Barlan IB, Yuksel A, Chatila TA, **Ozen M**. Identification of a novel mutation in ZAP70 and prenatal diagnosis in a Turkish family with severe combined immunodeficiency disorder. Gene. 2013 Jan 10; 512(2):189-93. PMID: [23124046](//www.ncbi.nlm.nih.gov/pubmed/23124046).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23124046/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCellsCTClinical Trials
+
+  37. Aydemir E, Bayrak OF, Sahin F, Atalay B, Kose GT, **Ozen M** , Sevli S, Dalan AB, Yalvac ME, Dogruluk T, T?re U. Characterization of cancer stem-like cells in chordoma. J Neurosurg. 2012 Apr; 116(4):810-20. PMID: [22283189](//www.ncbi.nlm.nih.gov/pubmed/22283189).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22283189/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:HumansCells
+
+  38. Bayrak OF, Aydemir E, Gulluoglu S, Sahin F, Sevli S, Yalvac ME, Acar H, **Ozen M**. The effects of chemotherapeutic agents on differentiated chordoma cells. J Neurosurg Spine. 2011 Dec; 15(6):620-4. PMID: [21905773](//www.ncbi.nlm.nih.gov/pubmed/21905773).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21905773/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:HumansCells
+
+  39. Dakhova O, **Ozen M** , [Creighton CJ](https://profiles.viictr.org/profile/265729), Li R, Ayala G, [Rowley D](https://profiles.viictr.org/profile/269631), [Ittmann M](https://profiles.viictr.org/profile/269566). Global gene expression analysis of reactive stroma in prostate cancer. Clin Cancer Res. 2009 Jun 15; 15(12):3979-89. PMID: [19509179](//www.ncbi.nlm.nih.gov/pubmed/19509179); PMCID: [PMC2734921](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2734921).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19509179/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  40. [Castro P](https://profiles.viictr.org/profile/268709), [Creighton CJ](https://profiles.viictr.org/profile/265729), **Ozen M** , Berel D, Mims MP, [Ittmann M](https://profiles.viictr.org/profile/269566). Genomic profiling of prostate cancers from African American men. Neoplasia. 2009 Mar; 11(3):305-12. PMID: [19242612](//www.ncbi.nlm.nih.gov/pubmed/19242612); PMCID: [PMC2647733](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2647733).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19242612/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  41. Shafer J, [Davis AR](https://profiles.viictr.org/profile/269827), Gannon FH, Fouletier-Dilling CM, Lazard Z, Moran K, Gugala Z, **Ozen M** , [Ittmann M](https://profiles.viictr.org/profile/269566), Heggeness MH, Olmsted-Davis E. Oxygen tension directs chondrogenic differentiation of myelo-monocytic progenitors during endochondral bone formation. Tissue Eng. 2007 Aug; 13(8):2011-9. PMID: [17518751](//www.ncbi.nlm.nih.gov/pubmed/17518751).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17518751/citedby/) Fields:
+
+Bio BiotechnologyHis Histology
+
+Translation:HumansAnimalsCells
+
+  42. Olmsted-Davis E, Gannon FH, **Ozen M** , [Ittmann MM](https://profiles.viictr.org/profile/269566), Gugala Z, Hipp JA, Moran KM, Fouletier-Dilling CM, Schumara-Martin S, Lindsey RW, Heggeness MH, [Brenner MK](https://profiles.viictr.org/profile/268200), [Davis AR](https://profiles.viictr.org/profile/269827). Hypoxic adipocytes pattern early heterotopic bone formation. Am J Pathol. 2007 Feb; 170(2):620-32. PMID: [17255330](//www.ncbi.nlm.nih.gov/pubmed/17255330); PMCID: [PMC1851874](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1851874).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17255330/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansAnimalsCells
+
+  43. Yan J, Yu CT, **Ozen M** , [Ittmann M](https://profiles.viictr.org/profile/269566), [Tsai SY](https://profiles.viictr.org/profile/266552), Tsai MJ. Steroid receptor coactivator-3 and activator protein-1 coordinately regulate the transcription of components of the insulin-like growth factor/AKT signaling pathway. Cancer Res. 2006 Nov 15; 66(22):11039-46. PMID: [17108143](//www.ncbi.nlm.nih.gov/pubmed/17108143).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17108143/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  44. Dai H, Li R, [Wheeler T](https://profiles.viictr.org/profile/266558), **Ozen M** , [Ittmann M](https://profiles.viictr.org/profile/269566), Anderson M, Wang Y, [Rowley D](https://profiles.viictr.org/profile/269631), Younes M, Ayala GE. Enhanced survival in perineural invasion of pancreatic cancer: an in vitro approach. Hum Pathol. 2007 Feb; 38(2):299-307. PMID: [17097719](//www.ncbi.nlm.nih.gov/pubmed/17097719).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17097719/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansAnimalsCells
+
+  45. **Ozen M** , [Ittmann M](https://profiles.viictr.org/profile/269566). Increased expression and activity of CDC25C phosphatase and an alternatively spliced variant in prostate cancer. Clin Cancer Res. 2005 Jul 01; 11(13):4701-6. PMID: [16000564](//www.ncbi.nlm.nih.gov/pubmed/16000564).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16000564/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  46. **Ozen M** , Medrano EE, [Ittmann M](https://profiles.viictr.org/profile/269566). Inhibition of proliferation and survival of melanoma cells by adenoviral-mediated expression of dominant negative fibroblast growth factor receptor. Melanoma Res. 2004 Feb; 14(1):13-21. PMID: [15091189](//www.ncbi.nlm.nih.gov/pubmed/15091189).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15091189/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  47. Freeman KW, Gangula RD, Welm BE, **Ozen M** , Foster BA, [Rosen JM](https://profiles.viictr.org/profile/267640), [Ittmann M](https://profiles.viictr.org/profile/269566), [Greenberg NM](https://profiles.viictr.org/profile/24844899), Spencer DM. Conditional activation of fibroblast growth factor receptor (FGFR) 1, but not FGFR2, in prostate cancer cells leads to increased osteopontin induction, extracellular signal-regulated kinase activation, and in vivo proliferation. Cancer Res. 2003 Oct 01; 63(19):6237-43. PMID: [14559809](//www.ncbi.nlm.nih.gov/pubmed/14559809).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14559809/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  48. Polnaszek N, Kwabi-Addo B, Peterson LE, **Ozen M** , [Greenberg NM](https://profiles.viictr.org/profile/24844899), Ortega S, Basilico C, [Ittmann M](https://profiles.viictr.org/profile/269566). Fibroblast growth factor 2 promotes tumor progression in an autochthonous mouse model of prostate cancer. Cancer Res. 2003 Sep 15; 63(18):5754-60. PMID: [14522896](//www.ncbi.nlm.nih.gov/pubmed/14522896).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14522896/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 48 publications over 17 distinct years, with a maximum of
+12 publications in
+2015](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|12&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,17,8,8,17,17,0,17,0,8,17,42,75,100,25,17,8,8,8,0,0,0,8&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2003| 2  
+2004| 1  
+2005| 1  
+2006| 2  
+2007| 2  
+2009| 2  
+2011| 1  
+2012| 2  
+2013| 5  
+2014| 9  
+2015| 12  
+2016| 3  
+2017| 2  
+2018| 1  
+2019| 1  
+2020| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+OZEN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (304)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [MicroRNAs](https://profiles.viictr.org/profile/260697)
+  * [Laryngeal Neoplasms](https://profiles.viictr.org/profile/249339)
+  * [Prostatic Neoplasms](https://profiles.viictr.org/profile/245090)
+  * [Neoplastic Stem Cells](https://profiles.viictr.org/profile/244630)
+  * [Biomarkers, Tumor](https://profiles.viictr.org/profile/246417)
+
+[Explore](https://profiles.viictr.org/profile/265593/198)
+
+_
+
+Co-Authors (17)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ITTMANN, MICHAEL](https://profiles.viictr.org/profile/269566)
+  * [CREIGHTON, CHAD](https://profiles.viictr.org/profile/265729)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [DAVIS, ELIZABETH](https://profiles.viictr.org/profile/269827)
+  * [CASTRO, PATRICIA](https://profiles.viictr.org/profile/268709)
+
+[Explore](https://profiles.viictr.org/profile/265593/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+
+[Explore](https://profiles.viictr.org/profile/265593/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GOLARDI, NATALIA](https://profiles.viictr.org/profile/23479084)
+  * [KEARNEY, DEBRA](https://profiles.viictr.org/profile/269620)
+  * [LASCO, TODD](https://profiles.viictr.org/profile/23479194)
+  * [LUNA, RUTH](https://profiles.viictr.org/profile/268217)
+  * [MAMONKIN, MAKSIM](https://profiles.viictr.org/profile/1826306)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [ADESINA, ADEKUNLE](https://profiles.viictr.org/profile/268657)
+  * [ELGHETANY, MOHAMED](https://profiles.viictr.org/profile/266095)
+  * [POWELL, SUZANNE](https://profiles.viictr.org/profile/269823)
+  * [ROY, ANGSHUMOY](https://profiles.viictr.org/profile/268647)
+  * [SANDBERG, GLENN](https://profiles.viictr.org/profile/266391)
+
+_
+

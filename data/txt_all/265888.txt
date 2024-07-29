@@ -1,0 +1,576 @@
+## MICHAEL LIEBSCHNER
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 2002 HOLCOMBE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O6o8sEXFI4a7Q4v4&rnd=568e9353-d523-44ef-
+ad62-d3bd95c5b42a)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=265888)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=265888&cachekey=461f082f-f303-4413-b9ca-1a2277a915cf)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Fang X, Kim D, Xu X, Kuang T, Lampen N, Lee J, Deng HH, **Liebschner MAK** , Xia JJ, Gateno J, Yan P. Correspondence attention for facial appearance simulation. Med Image Anal. 2024 Apr; 93:103094. PMID: [38306802](//www.ncbi.nlm.nih.gov/pubmed/38306802).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  2. Ma L, Xiao D, Kim D, Lian C, Kuang T, Liu Q, Deng H, Yang E, **Liebschner MAK** , Gateno J, Xia JJ, Yap PT. Simulation of Postoperative Facial Appearances via Geometric Deep Learning for Efficient Orthognathic Surgical Planning. IEEE Trans Med Imaging. 2023 02; 42(2):336-345. PMID: [35657829](//www.ncbi.nlm.nih.gov/pubmed/35657829); PMCID: [PMC10037541](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10037541).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+  3. Reed WR, Lima CR, **Liebschner MAK** , Hurt CP, Li P, Gudavalli MR. Measurement of Force and Intramuscular Pressure Changes Related to Thrust Spinal Manipulation in an In Vivo Animal Model. Biology (Basel). 2022 Dec 30; 12(1). PMID: [36671758](//www.ncbi.nlm.nih.gov/pubmed/36671758); PMCID: [PMC9855381](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9855381).
+
+Citations:
+
+  4. Reed WR, **Liebschner MAK** , Lima CR, Singh H, Hurt CP, Martins DF, Cox JM, Gudavalli MR. In vivo measurement of intradiscal pressure changes related to thrust and non-thrust spinal manipulation in an animal model: a pilot study. Chiropr Man Therap. 2022 09 06; 30(1):36. PMID: [36068588](//www.ncbi.nlm.nih.gov/pubmed/36068588); PMCID: [PMC9446573](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9446573).
+
+Citations:
+
+  5. Ma L, Kim D, Lian C, Xiao D, Kuang T, Liu Q, Lang Y, Deng HH, Gateno J, Wu Y, Yang E, **Liebschner MAK** , Xia JJ, Yap PT. Deep Simulation of Facial Appearance Changes Following Craniomaxillofacial Bony Movements in Orthognathic Surgical Planning. Med Image Comput Comput Assist Interv. 2021 Sep-Oct; 12904:459-468. PMID: [34966912](//www.ncbi.nlm.nih.gov/pubmed/34966912); PMCID: [PMC8713535](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8713535).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingMed Medical Informatics
+
+  6. Kim D, Kuang T, Rodrigues YL, Gateno J, Shen SGF, Wang X, Stein K, Deng HH, **Liebschner MAK** , Xia JJ. A novel incremental simulation of facial changes following orthognathic surgery using FEM with realistic lip sliding effect. Med Image Anal. 2021 08; 72:102095. PMID: [34090256](//www.ncbi.nlm.nih.gov/pubmed/34090256); PMCID: [PMC8316331](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8316331).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34090256/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  7. Russo V, Colleluori G, Chen R, [Mediwala S](https://profiles.viictr.org/profile/267067), Qualls C, **Liebschner M** , [Villareal DT](https://profiles.viictr.org/profile/8684231), Armamento-Villareal R. Testosterone therapy and bone quality in men with diabetes and hypogonadism: Study design and protocol. Contemp Clin Trials Commun. 2021 Mar; 21:100723. PMID: [33718653](//www.ncbi.nlm.nih.gov/pubmed/33718653); PMCID: [PMC7933702](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7933702).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33718653/citedby/)
+
+  8. Kim D, Kuang T, Rodrigues YL, Gateno J, Shen SGF, Wang X, Deng H, Yuan P, [Alfi DM](https://profiles.viictr.org/profile/41415758), **Liebschner MAK** , Xia JJ. A New Approach of Predicting Facial Changes following Orthognathic Surgery using Realistic Lip Sliding Effect. Med Image Comput Comput Assist Interv. 2019 Oct; 11768:336-344. PMID: [31886472](//www.ncbi.nlm.nih.gov/pubmed/31886472); PMCID: [PMC6934101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6934101).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31886472/citedby/) Fields:
+
+Dia Diagnostic ImagingMed Medical Informatics
+
+  9. Zhang X, Kim D, Shen S, Yuan P, Liu S, Tang Z, Zhang G, Zhou X, Gateno J, **Liebschner MAK** , Xia JJ. An eFTD-VP framework for efficiently generating patient-specific anatomically detailed facial soft tissue FE mesh for craniomaxillofacial surgery simulation. Biomech Model Mechanobiol. 2018 Apr; 17(2):387-402. PMID: [29027022](//www.ncbi.nlm.nih.gov/pubmed/29027022); PMCID: [PMC5845478](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5845478).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29027022/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  10. **Liebschner MAK** , [Ehni BL](https://profiles.viictr.org/profile/267652). Letter to the Editor: Cerebral Hemorrhage following Chiropractic Activator Treatment-Case Report and Review of Literature. J Neurol Surg Rep. 2017 Oct; 78(4):e115-e116. PMID: [29027546](//www.ncbi.nlm.nih.gov/pubmed/29027546); PMCID: [PMC5633371](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5633371).
+
+Citations:
+
+  11. Kim D, Ho DC, Mai H, Zhang X, Shen SGF, Shen S, Yuan P, Liu S, Zhang G, Zhou X, Gateno J, **Liebschner MAK** , Xia JJ. A clinically validated prediction method for facial soft-tissue changes following double-jaw surgery. Med Phys. 2017 Aug; 44(8):4252-4261. PMID: [28570001](//www.ncbi.nlm.nih.gov/pubmed/28570001); PMCID: [PMC5553697](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5553697).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28570001/citedby/) Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  12. Reed WR, Pickar JG, Sozio RS, **Liebschner MAK** , Little JW, Gudavalli MR. Characteristics of Paraspinal Muscle Spindle Response to Mechanically Assisted Spinal Manipulation: A Preliminary Report. J Manipulative Physiol Ther. 2017 Jul - Aug; 40(6):371-380. PMID: [28633885](//www.ncbi.nlm.nih.gov/pubmed/28633885); PMCID: [PMC5679286](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5679286).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28633885/citedby/) Fields:
+
+Chi Chiropractic
+
+Translation:AnimalsCells
+
+  13. Zhang G, Xia JJ, **Liebschner M** , Zhang X, Kim D, Zhou X. Improved Rubin-Bodner model for the prediction of soft tissue deformations. Med Eng Phys. 2016 11; 38(11):1369-1375. PMID: [27717593](//www.ncbi.nlm.nih.gov/pubmed/27717593); PMCID: [PMC5087603](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5087603).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27717593/citedby/) Fields:
+
+Bio Biomedical EngineeringBio BiophysicsPhy Physics
+
+Translation:Humans
+
+  14. Zhang X, Tang Z, **Liebschner MA** , Kim D, Shen S, Chang CM, Yuan P, Zhang G, Gateno J, Zhou X, Zhang SX, Xia JJ. An eFace-Template Method for Efficiently Generating Patient-Specific Anatomically-Detailed Facial Soft Tissue FE Models for Craniomaxillofacial Surgery Simulation. Ann Biomed Eng. 2016 May; 44(5):1656-71. PMID: [26464269](//www.ncbi.nlm.nih.gov/pubmed/26464269); PMCID: [PMC4833683](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4833683).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26464269/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  15. Reed WR, **Liebschner MA** , Sozio RS, Pickar JG, Gudavalli MR. Neural Response During a Mechanically Assisted Spinal Manipulation in an Animal Model: A Pilot Study. J Nov Physiother Phys Rehabil. 2015 Sep; 2(2):20-27. PMID: [26618202](//www.ncbi.nlm.nih.gov/pubmed/26618202); PMCID: [PMC4659401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4659401).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26618202/citedby/)
+
+  16. **Liebschner MA** , [Chun K](https://profiles.viictr.org/profile/3009846), Kim N, [Ehni B](https://profiles.viictr.org/profile/267652). In vitro biomechanical evaluation of single impulse and repetitive mechanical shockwave devices utilized for spinal manipulative therapy. Ann Biomed Eng. 2014 Dec; 42(12):2524-36. PMID: [25326437](//www.ncbi.nlm.nih.gov/pubmed/25326437).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25326437/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  17. Tarawneh AM, Wettergreen M, **Liebschner MA**. Computer-aided tissue engineering: benefiting from the control over scaffold micro-architecture. Methods Mol Biol. 2012; 868:1-25. PMID: [22692601](//www.ncbi.nlm.nih.gov/pubmed/22692601).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22692601/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimals
+
+  18. **Liebschner MA** , Wettergreen M. Scaffold pore space modulation through intelligent design of dissolvable microparticles. Methods Mol Biol. 2012; 868:71-89. PMID: [22692605](//www.ncbi.nlm.nih.gov/pubmed/22692605).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Humans
+
+  19. Fahim DK, Sun K, Tawackoli W, Mendel E, [Rhines LD](https://profiles.viictr.org/profile/12583749), Burton AW, Kim DH, [Ehni BL](https://profiles.viictr.org/profile/267652), **Liebschner MA**. Premature adjacent vertebral fracture after vertebroplasty: a biomechanical study. Neurosurgery. 2011 Sep; 69(3):733-44. PMID: [21499145](//www.ncbi.nlm.nih.gov/pubmed/21499145).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21499145/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  20. **Liebschner MA**. CMBBE special issue on novel computational methods in orthopaedic biomechanics. Comput Methods Biomech Biomed Engin. 2011 Feb; 14(2):133. PMID: [21337220](//www.ncbi.nlm.nih.gov/pubmed/21337220).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringPhy Physiology
+
+Translation:Humans
+
+  21. Kadivar Z, Sung C, Thompson Z, O'Malley M, **Liebschner M** , Deng Z. Comparison of reaching kinematics during mirror and parallel robot assisted movements. Stud Health Technol Inform. 2011; 163:247-53. PMID: [21335798](//www.ncbi.nlm.nih.gov/pubmed/21335798).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21335798/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  22. Mc Donnell P, Harrison N, **Liebschner MA** , Mc Hugh PE. Simulation of vertebral trabecular bone loss using voxel finite element analysis. J Biomech. 2009 Dec 11; 42(16):2789-96. PMID: [19782987](//www.ncbi.nlm.nih.gov/pubmed/19782987).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19782987/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Humans
+
+  23. Mc Donnell P, **Liebschner MA** , Tawackoli W, Mc Hugh PE. Vibrational testing of trabecular bone architectures using rapid prototype models. Med Eng Phys. 2009 Jan; 31(1):108-15. PMID: [18555727](//www.ncbi.nlm.nih.gov/pubmed/18555727).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringBio BiophysicsPhy Physics
+
+Translation:Humans
+
+  24. Tyndyk MA, McGarry JP, Barron V, McHugh PE, O'Mahoney D, Tawackoli W, **Liebschner MA**. Effects of intervertebral disk degeneration on the flexibility of the human thoracolumbar spine. J Long Term Eff Med Implants. 2008; 18(4):269-88. PMID: [20370640](//www.ncbi.nlm.nih.gov/pubmed/20370640).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20370640/citedby/) Fields:
+
+Tec Technology
+
+Translation:Humans
+
+  25. Lemoine JJ, Xia JJ, Andersen CR, Gateno J, Buford W, **Liebschner MA**. Geometry-based algorithm for the prediction of nonpathologic mandibular movement. J Oral Maxillofac Surg. 2007 Dec; 65(12):2411-7. PMID: [18022462](//www.ncbi.nlm.nih.gov/pubmed/18022462).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18022462/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  26. Gateno J, Xia JJ, Teichgraeber JF, Christensen AM, Lemoine JJ, **Liebschner MA** , Gliddon MJ, Briggs ME. Clinical feasibility of computer-aided surgical simulation (CASS) in the treatment of complex cranio-maxillofacial deformities. J Oral Maxillofac Surg. 2007 Apr; 65(4):728-34. PMID: [17368370](//www.ncbi.nlm.nih.gov/pubmed/17368370).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17368370/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  27. Xia JJ, Gateno J, Teichgraeber JF, Christensen AM, Lasky RE, Lemoine JJ, **Liebschner MA**. Accuracy of the computer-aided surgical simulation (CASS) system in the treatment of patients with complex craniomaxillofacial deformity: A pilot study. J Oral Maxillofac Surg. 2007 Feb; 65(2):248-54. PMID: [17236929](//www.ncbi.nlm.nih.gov/pubmed/17236929).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17236929/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  28. Xia JJ, Phillips CV, Gateno J, Teichgraeber JF, Christensen AM, Gliddon MJ, Lemoine JJ, **Liebschner MA**. Cost-effectiveness analysis for computer-aided surgical simulation in complex cranio-maxillofacial surgery. J Oral Maxillofac Surg. 2006 Dec; 64(12):1780-4. PMID: [17113445](//www.ncbi.nlm.nih.gov/pubmed/17113445).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17113445/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  29. Gliddon MJ, Xia JJ, Gateno J, Wong HT, Lasky RE, Teichgraeber JF, Jia X, **Liebschner MA** , Lemoine JJ. The accuracy of cephalometric tracing superimposition. J Oral Maxillofac Surg. 2006 Feb; 64(2):194-202. PMID: [16413890](//www.ncbi.nlm.nih.gov/pubmed/16413890).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16413890/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  30. Wettergreen MA, Bucklen BS, Sun W, **Liebschner MA**. Computer-aided tissue engineering of a human vertebral body. Ann Biomed Eng. 2005 Oct; 33(10):1333-43. PMID: [16240082](//www.ncbi.nlm.nih.gov/pubmed/16240082).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16240082/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+  31. Hedberg EL, Kroese-Deutman HC, Shih CK, Lemoine JJ, **Liebschner MA** , Miller MJ, Yasko AW, Crowther RS, Carney DH, Mikos AG, Jansen JA. Methods: a comparative analysis of radiography, microcomputed tomography, and histology for bone tissue engineering. Tissue Eng. 2005 Sep-Oct; 11(9-10):1356-67. PMID: [16259591](//www.ncbi.nlm.nih.gov/pubmed/16259591).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16259591/citedby/) Fields:
+
+Bio BiotechnologyHis Histology
+
+Translation:Animals
+
+  32. Lemoine JJ, Xia JJ, Gateno J, **Liebschner MA**. Radiographic analysis for jaw motion normalization. J Oral Maxillofac Surg. 2005 Jul; 63(7):961-7. PMID: [16003623](//www.ncbi.nlm.nih.gov/pubmed/16003623).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16003623/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  33. Hedberg EL, Shih CK, Lemoine JJ, Timmer MD, **Liebschner MA** , Jansen JA, Mikos AG. In vitro degradation of porous poly(propylene fumarate)/poly(DL-lactic-co-glycolic acid) composite scaffolds. Biomaterials. 2005 Jun; 26(16):3215-25. PMID: [15603816](//www.ncbi.nlm.nih.gov/pubmed/15603816).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15603816/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+  34. **Liebschner MA** , Wimalawansa SJ, Rajapakse CS, Gunaratne GH, M?ller R. Testing two predictions for fracture load using computer models of trabecular bone. Biophys J. 2005 Aug; 89(2):759-67. PMID: [15879468](//www.ncbi.nlm.nih.gov/pubmed/15879468); PMCID: [PMC1366627](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1366627).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15879468/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Humans
+
+  35. **Liebschner MA** , Keller TS. Hydraulic strengthening affects the stiffness and strength of cortical bone. Ann Biomed Eng. 2005 Jan; 33(1):26-38. PMID: [15709703](//www.ncbi.nlm.nih.gov/pubmed/15709703).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15709703/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimals
+
+  36. Sikavitsas VI, Bancroft GN, Lemoine JJ, **Liebschner MA** , Dauner M, Mikos AG. Flow perfusion enhances the calcified matrix deposition of marrow stromal cells in biodegradable nonwoven fiber mesh scaffolds. Ann Biomed Eng. 2005 Jan; 33(1):63-70. PMID: [15709706](//www.ncbi.nlm.nih.gov/pubmed/15709706).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15709706/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:AnimalsCells
+
+  37. Gateno J, Kim KW, Lalani Z, Teichgraeber JF, **Liebschner MA** , Lemoine JJ, Xia JJ. Biomechanical evaluation of the pins of a mandibular external distractor. J Oral Maxillofac Surg. 2004 Oct; 62(10):1259-63. PMID: [15452814](//www.ncbi.nlm.nih.gov/pubmed/15452814).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15452814/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  38. Song Y, **Liebschner MA** , Gunaratne GH. A study of age-related architectural changes that are most damaging to bones. Biophys J. 2004 Dec; 87(6):3642-7. PMID: [15377523](//www.ncbi.nlm.nih.gov/pubmed/15377523); PMCID: [PMC1304878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1304878).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15377523/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:HumansAnimals
+
+  39. Sun K, **Liebschner MA**. Biomechanics of prophylactic vertebral reinforcement. Spine (Phila Pa 1976). 2004 Jul 01; 29(13):1428-35; discusssion 1435. PMID: [15223933](//www.ncbi.nlm.nih.gov/pubmed/15223933).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15223933/citedby/) Fields:
+
+Ort Orthopedics
+
+Translation:Humans
+
+  40. Tawackoli W, Marco R, **Liebschner MA**. The effect of compressive axial preload on the flexibility of the thoracolumbar spine. Spine (Phila Pa 1976). 2004 May 01; 29(9):988-93. PMID: [15105669](//www.ncbi.nlm.nih.gov/pubmed/15105669).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15105669/citedby/) Fields:
+
+Ort Orthopedics
+
+Translation:Humans
+
+  41. Templeton A, [Cody D](https://profiles.viictr.org/profile/12583746), **Liebschner M**. Updating a 3-D vertebral body finite element model using 2-D images. Med Eng Phys. 2004 May; 26(4):329-33. PMID: [15121058](//www.ncbi.nlm.nih.gov/pubmed/15121058).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15121058/citedby/) Fields:
+
+Bio Biomedical EngineeringBio BiophysicsPhy Physics
+
+Translation:Humans
+
+  42. **Liebschner MA**. Biomechanical considerations of animal models used in tissue engineering of bone. Biomaterials. 2004 Apr; 25(9):1697-714. PMID: [14697871](//www.ncbi.nlm.nih.gov/pubmed/14697871).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14697871/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimals
+
+  43. Gateno J, Anderson PB, Xia JJ, Horng JC, Teichgraeber JF, **Liebschner MA**. A comparative assessment of mandibular condylar position in patients with anterior disc displacement of the temporomandibular joint. J Oral Maxillofac Surg. 2004 Jan; 62(1):39-43. PMID: [14699547](//www.ncbi.nlm.nih.gov/pubmed/14699547).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14699547/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  44. Sun K, **Liebschner MA**. Evolution of vertebroplasty: a biomechanical perspective. Ann Biomed Eng. 2004 Jan; 32(1):77-91. PMID: [14964724](//www.ncbi.nlm.nih.gov/pubmed/14964724).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14964724/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimals
+
+  45. Templeton A, **Liebschner M**. A hierarchical approach to finite element modeling of the human spine. Crit Rev Eukaryot Gene Expr. 2004; 14(4):317-28. PMID: [15663359](//www.ncbi.nlm.nih.gov/pubmed/15663359).
+
+Citations:  Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:Humans
+
+  46. **Liebschner MA** , Kopperdahl DL, Rosenberg WS, Keaveny TM. Finite element modeling of the human thoracolumbar spine. Spine (Phila Pa 1976). 2003 Mar 15; 28(6):559-65. PMID: [12642762](//www.ncbi.nlm.nih.gov/pubmed/12642762).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12642762/citedby/) Fields:
+
+Ort Orthopedics
+
+Translation:Humans
+
+  47. Behravesh E, Timmer MD, Lemoine JJ, **Liebschner MA** , Mikos AG. Evaluation of the in vitro degradation of macroporous hydrogels using gravimetry, confined compression testing, and microcomputed tomography. Biomacromolecules. 2002 Nov-Dec; 3(6):1263-70. PMID: [12425664](//www.ncbi.nlm.nih.gov/pubmed/12425664).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12425664/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+  48. Mummaneni PV, Haddock SM, **Liebschner MA** , Keaveny TM, Rosenberg WS. Biomechanical evaluation of a double-threaded pedicle screw in elderly vertebrae. J Spinal Disord Tech. 2002 Feb; 15(1):64-8. PMID: [11891455](//www.ncbi.nlm.nih.gov/pubmed/11891455).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11891455/citedby/) Fields:
+
+Ort Orthopedics
+
+Translation:Humans
+
+  49. **Liebschner MA** , Rosenberg WS, Keaveny TM. Effects of bone cement volume and distribution on vertebral stiffness after vertebroplasty. Spine (Phila Pa 1976). 2001 Jul 15; 26(14):1547-54. PMID: [11462084](//www.ncbi.nlm.nih.gov/pubmed/11462084).
+
+Citations:
+[142](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11462084/citedby/)
+Fields:
+
+Ort Orthopedics
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 49 publications over 20 distinct years, with a maximum of
+9 publications in
+2004](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:0,0,0,0,0,0,0,11,22,11,100,78,22,33,22,11,0,33,22,0,11,22,11,44,0,11,0,33,22,11,11&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2001| 1  
+2002| 2  
+2003| 1  
+2004| 9  
+2005| 7  
+2006| 2  
+2007| 3  
+2008| 2  
+2009| 1  
+2011| 3  
+2012| 2  
+2014| 1  
+2015| 2  
+2016| 1  
+2017| 4  
+2019| 1  
+2021| 3  
+2022| 2  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LIEBSCHNER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (186)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Spine](https://profiles.viictr.org/profile/247464)
+  * [Tissue Engineering](https://profiles.viictr.org/profile/262622)
+  * [Lumbar Vertebrae](https://profiles.viictr.org/profile/260797)
+  * [Manipulation, Spinal](https://profiles.viictr.org/profile/251393)
+  * [Computer Simulation](https://profiles.viictr.org/profile/246174)
+
+[Explore](https://profiles.viictr.org/profile/265888/198)
+
+_
+
+Co-Authors (7)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [EHNI, BRUCE](https://profiles.viictr.org/profile/267652)
+  * [CHUN, KWON SOO](https://profiles.viictr.org/profile/3009846)
+  * [RHINES, LAURENCE D](https://profiles.viictr.org/profile/12583749)
+  * [CODY, DIANNA](https://profiles.viictr.org/profile/12583746)
+  * [MEDIWALA, SANJAY](https://profiles.viictr.org/profile/267067)
+
+[Explore](https://profiles.viictr.org/profile/265888/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BIRLA, RAVI](https://profiles.viictr.org/profile/32836403)
+  * [ROHRICH, RODNEY](https://profiles.viictr.org/profile/30445263)
+  * [MOHAN, RADHE](https://profiles.viictr.org/profile/12583017)
+  * [ANDREWS, JAMES](https://profiles.viictr.org/profile/21983711)
+  * [CHANG, EDWARD I-FEI](https://profiles.viictr.org/profile/12583166)
+
+[Explore](https://profiles.viictr.org/profile/265888/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHAN, LAWRENCE](https://profiles.viictr.org/profile/269461)
+  * [GABA, RUCHI](https://profiles.viictr.org/profile/3009692)
+  * [GUAN, DONGYIN](https://profiles.viictr.org/profile/35378922)
+  * [HERMAN, MARK](https://profiles.viictr.org/profile/37104299)
+  * [ZAHID, MALEEHA](https://profiles.viictr.org/profile/41652738)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BALASUBRAMANYAM, ASHOK](https://profiles.viictr.org/profile/268015)
+  * [DUFRANE, NANCY](https://profiles.viictr.org/profile/269092)
+  * [GABA, RUCHI](https://profiles.viictr.org/profile/3009692)
+  * [RAJAN, ARUN](https://profiles.viictr.org/profile/266870)
+  * [SAHA, PRADIP](https://profiles.viictr.org/profile/265977)
+
+_
+

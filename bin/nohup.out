@@ -1,0 +1,41 @@
+/home/matthewn/projects/tch-mentormatching/bin/batch_summarize_pdfs.py:50: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  message = truncate_text(row[column_index])
+/home/matthewn/projects/tch-mentormatching/bin/batch_summarize_pdfs.py:50: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  message = truncate_text(row[column_index])
+Batch ID: batch_J7NHhTQUhisL4w26AxJSAv5w
+Current batch status: validating
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: in_progress
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: finalizing
+Current batch status: completed
+Summarized CVs saved to ../data/mentor_data_with_summaries.csv

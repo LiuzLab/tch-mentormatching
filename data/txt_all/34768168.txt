@@ -1,0 +1,298 @@
+## FURQAN FAZAL
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=EL4i8GTJbq30XI7hwHnBJ%2fqJIwQ%3d&rnd=14bcb611-b094-469f-8907-8eb7bfefa673)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=34768168)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=34768168&cachekey=d8256e8f-f008-4575-a161-602eafcfaa1b)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Therapeutic Innovation Center  
+Division| Therapeutic Innovation Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Biography  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+education and training
+
+Stanford University, Stanford| PhD| 04/2015| Applied Physics  
+---|---|---|---  
+Stanford University, Stanford| MS| 09/2010| Applied Physics  
+Amherst College, Amherst| BA| 05/2008| Physics, Chemistry, Biology  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+webpage  
+  
+![](https://www.google.com/s2/favicons?domain=http://fazallab.org)| [Lab
+Website](http://fazallab.org)  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Featured Content  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Twitter
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Sharma S, **Fazal FM** , Sharma S, Fazal FM. Localization of RNAs to the mitochondria-mechanisms and functions. RNA. 2024 May 16; 30(6):597-608. PMID: [38448244](//www.ncbi.nlm.nih.gov/pubmed/38448244); PMCID: [PMC11098466](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11098466).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  2. Maas-Bauer K, Lohmeyer JK, Hirai T, Ramos TL, **Fazal FM** , Litzenburger UM, Yost KE, Ribado JV, Kambham N, Wenokur AS, Lin PY, Alvarez M, Mavers M, Baker J, Bhatt AS, Chang HY, Simonetta F, Negrin RS. Invariant natural killer T-cell subsets have diverse graft-versus-host-disease-preventing and antitumor effects. Blood. 2021 09 09; 138(10):858-870. PMID: [34036317](//www.ncbi.nlm.nih.gov/pubmed/34036317); PMCID: [PMC8432044](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8432044).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34036317/citedby/) Fields:
+
+Hem Hematology
+
+Translation:AnimalsCells
+
+  3. Wu KE, **Fazal FM** , Parker KR, Zou J, Chang HY. RNA-GPS Predicts SARS-CoV-2 RNA Residency to Host Mitochondria and Nucleolus. Cell Syst. 2020 07 22; 11(1):102-108.e3. PMID: [32673562](//www.ncbi.nlm.nih.gov/pubmed/32673562); PMCID: [PMC7305881](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7305881).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32673562/citedby/) Fields:
+
+Cel Cell BiologyCom Computational BiologyMol Molecular Biology
+
+Translation:HumansCellsPHPublic Health
+
+  4. **Fazal FM** , Chang HY. Subcellular Spatial Transcriptomes: Emerging Frontier for Understanding Gene Regulation. Cold Spring Harb Symp Quant Biol. 2019; 84:31-45. PMID: [32482897](//www.ncbi.nlm.nih.gov/pubmed/32482897); PMCID: [PMC7426137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7426137).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32482897/citedby/) Fields:
+
+Bio Biology
+
+  5. Wu KE, Parker KR, **Fazal FM** , Chang HY, Zou J. RNA-GPS predicts high-resolution RNA subcellular localization and highlights the role of splicing. RNA. 2020 07; 26(7):851-865. PMID: [32220894](//www.ncbi.nlm.nih.gov/pubmed/32220894); PMCID: [PMC7297119](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7297119).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32220894/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  6. **Fazal FM** , Han S, Parker KR, Kaewsapsak P, Xu J, Boettiger AN, Chang HY, Ting AY. Atlas of Subcellular RNA Localization Revealed by APEX-Seq. Cell. 2019 07 11; 178(2):473-490.e26. PMID: [31230715](//www.ncbi.nlm.nih.gov/pubmed/31230715); PMCID: [PMC6786773](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6786773).
+
+Citations:
+[145](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31230715/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  7. Sun L, **Fazal FM** , Li P, Broughton JP, Lee B, Tang L, Huang W, Kool ET, Chang HY, Zhang QC. RNA structure maps across mammalian cellular compartments. Nat Struct Mol Biol. 2019 04; 26(4):322-330. PMID: [30886404](//www.ncbi.nlm.nih.gov/pubmed/30886404); PMCID: [PMC6640855](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6640855).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30886404/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  8. Meng CA, **Fazal FM** , Block SM. Real-time observation of polymerase-promoter contact remodeling during transcription initiation. Nat Commun. 2017 10 27; 8(1):1178. PMID: [29079833](//www.ncbi.nlm.nih.gov/pubmed/29079833); PMCID: [PMC5660091](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5660091).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29079833/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  9. **Fazal FM** , Chang HY. lncRNA Structure: Message to the Heart. Mol Cell. 2016 10 06; 64(1):1-2. PMID: [27716479](//www.ncbi.nlm.nih.gov/pubmed/27716479).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27716479/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  10. **Fazal FM** , Koslover DJ, Luisi BF, Block SM. Direct observation of processive exoribonuclease motion using optical tweezers. Proc Natl Acad Sci U S A. 2015 Dec 08; 112(49):15101-6. PMID: [26598710](//www.ncbi.nlm.nih.gov/pubmed/26598710); PMCID: [PMC4679025](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4679025).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26598710/citedby/) Fields:
+
+Sci Science
+
+  11. **Fazal FM** , Meng CA, Murakami K, Kornberg RD, Block SM. Real-time observation of the initiation of RNA polymerase II transcription. Nature. 2015 Sep 10; 525(7568):274-7. PMID: [26331540](//www.ncbi.nlm.nih.gov/pubmed/26331540); PMCID: [PMC4624315](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4624315).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26331540/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  12. Koslover DJ, **Fazal FM** , Mooney RA, Landick R, Block SM. Binding and translocation of termination factor rho studied at the single-molecule level. J Mol Biol. 2012 Nov 09; 423(5):664-76. PMID: [22885804](//www.ncbi.nlm.nih.gov/pubmed/22885804); PMCID: [PMC3472157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3472157).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22885804/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  13. **Fazal FM** , Block SM. Optical tweezers study life under tension. Nat Photonics. 2011 May 31; 5:318-321. PMID: [22145010](//www.ncbi.nlm.nih.gov/pubmed/22145010); PMCID: [PMC3229214](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3229214).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22145010/citedby/)
+
+  14. Ghosh A, **Fazal FM** , Fischer P. Circular differential double diffraction in chiral media. Opt Lett. 2007 Jul 01; 32(13):1836-8. PMID: [17603586](//www.ncbi.nlm.nih.gov/pubmed/17603586).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  15. **Fazal FM** , Hansen DE. Glucose-specific poly(allylamine) hydrogels--a reassessment. Bioorg Med Chem Lett. 2007 Jan 01; 17(1):235-8. PMID: [17035016](//www.ncbi.nlm.nih.gov/pubmed/17035016); PMCID: [PMC1828204](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1828204).
+
+Citations:  Fields:
+
+Bio BiochemistryChe Chemistry
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 15 publications over 11 distinct years, with a maximum of
+3 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,33,33,0,0,0,33,33,0,0,67,33,33,0,67,100,33,0,0,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 1  
+2007| 1  
+2011| 1  
+2012| 1  
+2015| 2  
+2016| 1  
+2017| 1  
+2019| 2  
+2020| 3  
+2021| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+FAZAL's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (82)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [RNA](https://profiles.viictr.org/profile/243081)
+  * [Mitochondrial Membranes](https://profiles.viictr.org/profile/251259)
+  * [Mitochondria](https://profiles.viictr.org/profile/244812)
+  * [Multifunctional Enzymes](https://profiles.viictr.org/profile/27547174)
+  * [Transcription Initiation, Genetic](https://profiles.viictr.org/profile/27546758)
+
+[Explore](https://profiles.viictr.org/profile/34768168/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [COOPER, THOMAS](https://profiles.viictr.org/profile/269742)
+  * [WILUSZ, JEREMY](https://profiles.viictr.org/profile/35949597)
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [MUSTOE, ANTHONY](https://profiles.viictr.org/profile/28999550)
+
+[Explore](https://profiles.viictr.org/profile/34768168/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [KARLIN, KRISTEN](https://profiles.viictr.org/profile/1826677)
+  * [LI, XIN](https://profiles.viictr.org/profile/28999564)
+  * [QI, XIAOLI](https://profiles.viictr.org/profile/28999112)
+  * [REDDY, R](https://profiles.viictr.org/profile/267427)
+  * [ZHOU, ZHENG](https://profiles.viictr.org/profile/266299)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

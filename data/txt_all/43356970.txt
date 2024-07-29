@@ -1,0 +1,223 @@
+## AYA ALBITTAR
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 6720 BERTNER  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F7Ixr0TLIoLhUo7%2fwHnBJ%2fqJIwQ%3d&rnd=9a60b5bc-d94b-4e28-ba60-95237bba12a4)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=43356970)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Kampouri E, Krantz EM, Xie H, Ibrahimi SS, Kiem ES, Sekhon MK, Liang EC, Cowan AJ, Portuguese AJ, Green DJ, **Albittar A** , Huang JJ, Gauthier J, P?rez-Osorio AC, Jerome KR, Zerr D, Boeckh MJ, Hill JA. Human Herpesvirus-6 Reactivation and Disease Are Infrequent in Chimeric Antigen Receptor T-cell Therapy Recipients. Blood. 2024 Apr 18. PMID: [38635788](//www.ncbi.nlm.nih.gov/pubmed/38635788).
+
+Citations:  Fields:
+
+Hem Hematology
+
+  2. Liang EC, Rejeski K, Fei T, **Albittar A** , Huang JJ, Portuguese AJ, Wu Q, Raj S, Subklewe M, Shouval R, Gauthier J. Development and validation of an automated computational approach to grade immune effector cell-associated hematotoxicity. Bone Marrow Transplant. 2024 Jul; 59(7):910-917. PMID: [38627450](//www.ncbi.nlm.nih.gov/pubmed/38627450).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38627450/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:Humans
+
+  3. Liang EC, **Albittar A** , Huang JJ, Hirayama AV, Kimble EL, Portuguese AJ, Chapuis A, Shadman M, Till BG, Cassaday RD, Milano F, Kiem HP, Riddell SR, Turtle CJ, Maloney DG, Gauthier J. Factors associated with long-term outcomes of CD19 CAR T-cell therapy for relapsed/refractory CLL. Blood Adv. 2023 11 28; 7(22):6990-7005. PMID: [37774014](//www.ncbi.nlm.nih.gov/pubmed/37774014); PMCID: [PMC10690558](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10690558).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37774014/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCTClinical Trials
+
+  4. Altan M, Soto F, Zhong LL, Akhmedzhanov FO, Wilson NR, Zarifa A, **Albittar AA** , Yang V, Lewis J, Rinsurongkawong W, Jack Lee J, Rinsurongkawong V, Zhang J, [Gibbons DL](https://profiles.viictr.org/profile/12583086), [Vaporciyan AA](https://profiles.viictr.org/profile/12582580), Jennings K, Khawaja F, [Faiz SA](https://profiles.viictr.org/profile/12583882), [Shannon VR](https://profiles.viictr.org/profile/12583675), [Shroff G](https://profiles.viictr.org/profile/12583640), [Godoy MCB](https://profiles.viictr.org/profile/12583566), [Daver NG](https://profiles.viictr.org/profile/12583574), Gandhi S, [Mendoza TR](https://profiles.viictr.org/profile/12583317), [Naing A](https://profiles.viictr.org/profile/12583863), [Daniel-MacDougall C](https://profiles.viictr.org/profile/12583976), [Heymach JV](https://profiles.viictr.org/profile/12582703), [Sheshadri A](https://profiles.viictr.org/profile/17440176). Incidence and Risk Factors for Pneumonitis Associated With Checkpoint Inhibitors in Advanced Non-Small Cell Lung Cancer: A Single Center Experience. Oncologist. 2023 Nov 02; 28(11):e1065-e1074. PMID: [37156009](//www.ncbi.nlm.nih.gov/pubmed/37156009); PMCID: [PMC10628566](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10628566).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37156009/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  5. Portuguese AJ, **Albittar A** , Gooley TH, Deeg HJ. Transplantation for myeloid neoplasms with antecedent solid tumor. Cancer. 2023 01 01; 129(1):142-150. PMID: [36316954](//www.ncbi.nlm.nih.gov/pubmed/36316954).
+
+Citations:
+
+  6. [Sheshadri A](https://profiles.viictr.org/profile/17440176), Goizueta AA, [Shannon VR](https://profiles.viictr.org/profile/12583675), London D, [Garcia-Manero G](https://profiles.viictr.org/profile/12583738), [Kantarjian HM](https://profiles.viictr.org/profile/12582901), [Ravandi-Kashani F](https://profiles.viictr.org/profile/12583711), [Kadia TM](https://profiles.viictr.org/profile/12583065), [Konopleva MY](https://profiles.viictr.org/profile/12583701), [DiNardo CD](https://profiles.viictr.org/profile/12583624), Pierce S, Zarifa A, **Albittar AA** , Zhong LL, Akhmedzhanov FO, Arain MH, Alfayez M, Alotaibi A, Altan M, [Naing A](https://profiles.viictr.org/profile/12583863), [Mendoza TR](https://profiles.viictr.org/profile/12583317), [Godoy MCB](https://profiles.viictr.org/profile/12583566), [Shroff G](https://profiles.viictr.org/profile/12583640), Kim ST, [Faiz SA](https://profiles.viictr.org/profile/12583882), [Kontoyiannis DP](https://profiles.viictr.org/profile/12582577), Khawaja F, Jennings K, [Daver NG](https://profiles.viictr.org/profile/12583574). Pneumonitis after immune checkpoint inhibitor therapies in patients with acute myeloid leukemia: A retrospective cohort study. Cancer. 2022 07 15; 128(14):2736-2745. PMID: [35452134](//www.ncbi.nlm.nih.gov/pubmed/35452134); PMCID: [PMC9232977](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9232977).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  7. [Dev R](https://profiles.viictr.org/profile/12583494), Zhong LL, Zarifa A, **Albittar AA** , Rubin L, Liu S, Yap TA, [Dalal S](https://profiles.viictr.org/profile/12583795), [Hui D](https://profiles.viictr.org/profile/12583538), [Karp DD](https://profiles.viictr.org/profile/12583392), [Tsimberidou AM](https://profiles.viictr.org/profile/12583722), [Piha-Paul SA](https://profiles.viictr.org/profile/12582720), Ahnert JR, [Fu S](https://profiles.viictr.org/profile/12583682), [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), [Naing A](https://profiles.viictr.org/profile/12583863). Supportive care for the prevention of nausea, vomiting and anorexia in a phase 1B study of selinexor in advanced cancer patients: an exploratory study. Invest New Drugs. 2022 02; 40(1):124-133. PMID: [34559346](//www.ncbi.nlm.nih.gov/pubmed/34559346).
+
+Citations:  Fields:
+
+Ant Antineoplastic AgentsPha Pharmacology
+
+Translation:HumansCTClinical Trials
+
+  8. Alhalabi O, Soomro Z, Sun R, Hasanov E, **Albittar A** , Tripathy D, [Valero V](https://profiles.viictr.org/profile/12582911), [Ibrahim NK](https://profiles.viictr.org/profile/12582894). Outcomes of changing systemic therapy in patients with relapsed breast cancer and 1 to 3 brain metastases. NPJ Breast Cancer. 2021 Mar 19; 7(1):28. PMID: [33742001](//www.ncbi.nlm.nih.gov/pubmed/33742001); PMCID: [PMC7979865](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7979865).
+
+Citations:
+
+  9. **Albittar AA** , Alhalabi O, Glitza Oliva IC. Immunotherapy for Melanoma. Adv Exp Med Biol. 2020; 1244:51-68. PMID: [32301010](//www.ncbi.nlm.nih.gov/pubmed/32301010).
+
+Citations:
+
+  10. Zarifa A, **Albittar A** , Kim PY, [Hassan S](https://profiles.viictr.org/profile/12583958), Palaskas N, [Iliescu C](https://profiles.viictr.org/profile/12583905), Durand JB, [Lopez-Mattei J](https://profiles.viictr.org/profile/12583221). Cardiac toxicities of anticancer treatments: chemotherapy, targeted therapy and immunotherapy. Curr Opin Cardiol. 2019 07; 34(4):441-450. PMID: [31082852](//www.ncbi.nlm.nih.gov/pubmed/31082852).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31082852/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  11. Turk T, Aboshady OA, **Albittar A**. Studying medicine in crisis: Students' perspectives from Syria. Med Teach. 2016 Aug; 38(8):861-2. PMID: [27414434](//www.ncbi.nlm.nih.gov/pubmed/27414434).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 7 distinct years, with a maximum of 2
+publications in 2021 and 2022 and 2023 and
+2024](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,50,50,100,100,100,100&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2016| 1  
+2019| 1  
+2020| 1  
+2021| 2  
+2022| 2  
+2023| 2  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ALBITTAR's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (46)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Armed Conflicts](https://profiles.viictr.org/profile/27544369)
+  * [Education, Medical](https://profiles.viictr.org/profile/250045)
+  * [Students, Medical](https://profiles.viictr.org/profile/254258)
+  * [Attitude of Health Personnel](https://profiles.viictr.org/profile/242851)
+  * [Immunotherapy](https://profiles.viictr.org/profile/242861)
+
+[Explore](https://profiles.viictr.org/profile/43356970/198)
+
+_
+
+Co-Authors (32)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SHESHADRI, AJAY](https://profiles.viictr.org/profile/17440176)
+  * [NAING, AUNG](https://profiles.viictr.org/profile/12583863)
+  * [DAVER, NAVAL](https://profiles.viictr.org/profile/12583574)
+  * [DEV, RONY](https://profiles.viictr.org/profile/12583494)
+  * [IBRAHIM, NUHAD K](https://profiles.viictr.org/profile/12582894)
+
+[Explore](https://profiles.viictr.org/profile/43356970/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [KIRKWOOD, JOHN](https://profiles.viictr.org/profile/2619432)
+  * [GARCIA-MANERO, GUILLERMO](https://profiles.viictr.org/profile/12583738)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [PRIETO, VICTOR](https://profiles.viictr.org/profile/12583731)
+
+[Explore](https://profiles.viictr.org/profile/43356970/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ALSHAMI, NOOR](https://profiles.viictr.org/profile/41330819)
+  * [ANURAG, MEENAKSHI](https://profiles.viictr.org/profile/15619466)
+  * [GIRARDEAU, MIYSHA](https://profiles.viictr.org/profile/31721879)
+  * [GUERRINI, CHRISTI](https://profiles.viictr.org/profile/15317794)
+  * [IMARHIA, FIONA](https://profiles.viictr.org/profile/35602803)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

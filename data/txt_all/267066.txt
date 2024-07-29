@@ -1,0 +1,543 @@
+## GEORGE RODNEY JR.
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Integrative Physiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JKQ072DeQIn2S8Ho5G4%3d&rnd=8f1a4a62-a722-4be4-900f-f98d1b5b9bf3)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267066)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R21NS085208 (RODNEY, GEORGE G)May 15, 2014 - Apr 30, 2017NIH  
+MANGANESE ENHANCED MRI: NON-INVASIVE MEASURE OF PATHOGENESIS OF
+DYSTROPHINOPATHY  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01AR061370 (RODNEY, GEORGE G)Aug 1, 2012 - Jul 31, 2022NIH/NIAMS  
+NADPH Oxidase and Autophagic Dysfunction in Duchenne Muscular Dystrophy  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AR053349 (HAMILTON, SUSAN L)Dec 1, 2005 - Mar 31, 2021NIH  
+Basis of Muscle Dysfunction in Malignant Hyperthermia & Central Core Disease  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+K01AR051519 (RODNEY, GEORGE G)May 1, 2005 - Apr 30, 2011NIH/NIAMS  
+Calmodulin &Calmodulin Binding Domains in E-C Coupling  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32NS044636 (RODNEY, GEORGE G)Mar 21, 2003NIH/NINDS  
+Regulation of Calcium Release by Calmodulin in Muscle  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Zhang C](https://profiles.viictr.org/profile/3009849), Joshi A, Liu Y, [Sert O](https://profiles.viictr.org/profile/24845243), [Haddix SG](https://profiles.viictr.org/profile/31413746), Teliska LH, Rasband A, Rodney GG, [Rasband MN](https://profiles.viictr.org/profile/265764). Ankyrin-dependent Na+ channel clustering prevents neuromuscular synapse fatigue. Curr Biol. 2021 09 13; 31(17):3810-3819.e4. PMID: [34289389](//www.ncbi.nlm.nih.gov/pubmed/34289389); PMCID: [PMC8440394](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8440394).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34289389/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  2. [Cheng N](https://profiles.viictr.org/profile/266565), Mo Q, Donelson J, Wang L, Breton G, Rodney GG, Wang J, [Hirschi KD](https://profiles.viictr.org/profile/267007), [Wehrens XHT](https://profiles.viictr.org/profile/270302), [Nakata PA](https://profiles.viictr.org/profile/266673). Crucial Role of Mammalian Glutaredoxin 3 in Cardiac Energy Metabolism in Diet-induced Obese Mice Revealed by Transcriptome Analysis. Int J Biol Sci. 2021; 17(11):2871-2883. PMID: [34345213](//www.ncbi.nlm.nih.gov/pubmed/34345213); PMCID: [PMC8326124](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8326124).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34345213/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  3. Cully TR, Rodney GG. Nox4 - RyR1 - Nox2: Regulators of micro-domain signaling in skeletal muscle. Redox Biol. 2020 09; 36:101557. PMID: [32506037](//www.ncbi.nlm.nih.gov/pubmed/32506037); PMCID: [PMC7283154](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7283154).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32506037/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:Animals
+
+  4. Donelson J, Wang Q, Monroe TO, Jiang X, Zhou J, Yu H, Mo Q, [Sun Q](https://profiles.viictr.org/profile/269022), [Marini JC](https://profiles.viictr.org/profile/265723), Wang X, [Nakata PA](https://profiles.viictr.org/profile/266673), [Hirschi KD](https://profiles.viictr.org/profile/267007), [Wang J](https://profiles.viictr.org/profile/266173), Rodney GG, [Wehrens XHT](https://profiles.viictr.org/profile/270302), [Cheng N](https://profiles.viictr.org/profile/266565). Cardiac-specific ablation of glutaredoxin 3 leads to cardiac hypertrophy and heart failure. Physiol Rep. 2019 04; 7(8):e14071. PMID: [31033205](//www.ncbi.nlm.nih.gov/pubmed/31033205); PMCID: [PMC6487472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6487472).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31033205/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  5. Ferguson DP, Monroe TO, Heredia CP, Fleischmann R, Rodney GG, [Taffet GE](https://profiles.viictr.org/profile/266821), [Fiorotto ML](https://profiles.viictr.org/profile/266734). Postnatal undernutrition alters adult female mouse cardiac structure and function leading to limited exercise capacity. J Physiol. 2019 04; 597(7):1855-1872. PMID: [30730556](//www.ncbi.nlm.nih.gov/pubmed/30730556); PMCID: [PMC6441894](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6441894).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30730556/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  6. Monroe TO, Hill MC, Morikawa Y, Leach JP, Heallen T, Cao S, Krijger PHL, de Laat W, [Wehrens XHT](https://profiles.viictr.org/profile/270302), Rodney GG, [Martin JF](https://profiles.viictr.org/profile/266646). YAP Partially Reprograms Chromatin Accessibility to Directly Induce Adult Cardiogenesis In?Vivo. Dev Cell. 2019 03 25; 48(6):765-779.e7. PMID: [30773489](//www.ncbi.nlm.nih.gov/pubmed/30773489); PMCID: [PMC6435425](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6435425).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30773489/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  7. [Kitagawa MG](https://profiles.viictr.org/profile/3009612), Reynolds JO, [Durgan D](https://profiles.viictr.org/profile/3010143), Rodney G, Karmouty-Quintana H, Bryan R, [Pandit LM](https://profiles.viictr.org/profile/267859). Twik-2-/- mouse demonstrates pulmonary vascular heterogeneity in intracellular pathways for vasocontractility. Physiol Rep. 2019 01; 7(1):e13950. PMID: [30632293](//www.ncbi.nlm.nih.gov/pubmed/30632293); PMCID: [PMC6328926](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6328926).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30632293/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  8. Olthoff JT, Lindsay A, Abo-Zahrah R, Baltgalvis KA, Patrinostro X, Belanto JJ, Yu DY, Perrin BJ, Garry DJ, Rodney GG, Lowe DA, Ervasti JM. Loss of peroxiredoxin-2 exacerbates eccentric contraction-induced force loss in dystrophin-deficient muscle. Nat Commun. 2018 11 30; 9(1):5104. PMID: [30504831](//www.ncbi.nlm.nih.gov/pubmed/30504831); PMCID: [PMC6269445](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6269445).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30504831/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  9. Pal R, Palmieri M, Chaudhury A, di Ronza A, [Neilson JR](https://profiles.viictr.org/profile/266073), Rodney GG, Sardiello M, [Klisch TJ](https://profiles.viictr.org/profile/265995). Src regulates amino acid-mediated mTORC1 activation by disrupting GATOR1-Rag GTPase interaction. Nat Commun. 2018 10 19; 9(1):4351. PMID: [30341294](//www.ncbi.nlm.nih.gov/pubmed/30341294); PMCID: [PMC6195609](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6195609).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30341294/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  10. Kho J, Tian X, Wong WT, Bertin T, Jiang MM, Chen S, [Jin Z](https://profiles.viictr.org/profile/9478053), Shchelochkov OA, [Burrage LC](https://profiles.viictr.org/profile/3010239), [Reddy AK](https://profiles.viictr.org/profile/268339), Jiang H, Abo-Zahrah R, Ma S, Zhang P, [Bissig KD](https://profiles.viictr.org/profile/266494), [Kim JJ](https://profiles.viictr.org/profile/3494074), [Devaraj S](https://profiles.viictr.org/profile/266182), Rodney GG, Erez A, Bryan NS, [Nagamani SCS](https://profiles.viictr.org/profile/265521), [Lee BH](https://profiles.viictr.org/profile/267019). Argininosuccinate Lyase Deficiency Causes an Endothelial-Dependent Form of Hypertension. Am J Hum Genet. 2018 08 02; 103(2):276-287. PMID: [30075114](//www.ncbi.nlm.nih.gov/pubmed/30075114); PMCID: [PMC6080833](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6080833).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30075114/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  11. Wang Q, Quick AP, Cao S, Reynolds J, Chiang DY, Beavers D, [Li N](https://profiles.viictr.org/profile/267442), Wang G, Rodney GG, Anderson ME, [Wehrens XHT](https://profiles.viictr.org/profile/270302). Oxidized CaMKII (Ca2+/Calmodulin-Dependent Protein Kinase II) Is Essential for Ventricular Arrhythmia in a Mouse Model of Duchenne Muscular Dystrophy. Circ Arrhythm Electrophysiol. 2018 04; 11(4):e005682. PMID: [29654126](//www.ncbi.nlm.nih.gov/pubmed/29654126); PMCID: [PMC5903581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5903581).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29654126/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:AnimalsCells
+
+  12. Loehr JA, Wang S, Cully TR, Pal R, [Larina IV](https://profiles.viictr.org/profile/270273), [Larin KV](https://profiles.viictr.org/profile/266154), Rodney GG. NADPH oxidase mediates microtubule alterations and diaphragm dysfunction in dystrophic mice. Elife. 2018 01 30; 7. PMID: [29381135](//www.ncbi.nlm.nih.gov/pubmed/29381135); PMCID: [PMC5812717](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5812717).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29381135/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  13. Liu R, Lee J, Kim BS, Wang Q, Buxton SK, Balasubramanyam N, [Kim JJ](https://profiles.viictr.org/profile/3494074), Dong J, Zhang A, Li S, Gupte AA, Hamilton DJ, Martin JF, Rodney GG, [Coarfa C](https://profiles.viictr.org/profile/265668), [Wehrens XH](https://profiles.viictr.org/profile/270302), Yechoor VK, Moulik M. Tead1 is required for maintaining adult cardiomyocyte function, and its loss results in lethal dilated cardiomyopathy. JCI Insight. 2017 09 07; 2(17). PMID: [28878117](//www.ncbi.nlm.nih.gov/pubmed/28878117); PMCID: [PMC5621883](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5621883).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28878117/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  14. Sopariwala DH, Yadav V, Badin PM, Likhite N, Sheth M, Lorca S, Vila IK, Kim ER, Tong Q, Song MS, Rodney GG, Narkar VA. Long-term PGC1? overexpression leads to apoptosis, autophagy and muscle wasting. Sci Rep. 2017 08 31; 7(1):10237. PMID: [28860475](//www.ncbi.nlm.nih.gov/pubmed/28860475); PMCID: [PMC5578977](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5578977).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28860475/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  15. Brinegar AE, Xia Z, Loehr JA, Li W, Rodney GG, [Cooper TA](https://profiles.viictr.org/profile/269742). Extensive alternative splicing transitions during postnatal skeletal muscle development are required for calcium handling functions. Elife. 2017 08 11; 6. PMID: [28826478](//www.ncbi.nlm.nih.gov/pubmed/28826478); PMCID: [PMC5577920](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5577920).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28826478/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  16. Pal R, Bondar VV, Adamski CJ, Rodney GG, Sardiello M. Inhibition of ERK1/2 Restores GSK3? Activity and Protein Synthesis Levels in a Model of Tuberous Sclerosis. Sci Rep. 2017 06 23; 7(1):4174. PMID: [28646232](//www.ncbi.nlm.nih.gov/pubmed/28646232); PMCID: [PMC5482840](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5482840).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28646232/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  17. Lee CS, Hanna AD, Wang H, Dagnino-Acosta A, Joshi AD, Knoblauch M, Xia Y, Georgiou DK, Xu J, Long C, Amano H, Reynolds C, Dong K, Martin JC, [Lagor WR](https://profiles.viictr.org/profile/270145), Rodney GG, [Sahin E](https://profiles.viictr.org/profile/267303), Sewry C, [Hamilton SL](https://profiles.viictr.org/profile/269595). A chemical chaperone improves muscle function in mice with a RyR1 mutation. Nat Commun. 2017 03 24; 8:14659. PMID: [28337975](//www.ncbi.nlm.nih.gov/pubmed/28337975); PMCID: [PMC5376670](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5376670).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28337975/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  18. Palmieri M, Pal R, Nelvagal HR, Lotfi P, Stinnett GR, Seymour ML, Chaudhury A, Bajaj L, Bondar VV, Bremner L, Saleem U, Tse DY, Sanagasetti D, [Wu SM](https://profiles.viictr.org/profile/267834), [Neilson JR](https://profiles.viictr.org/profile/266073), [Pereira FA](https://profiles.viictr.org/profile/269546), [Pautler RG](https://profiles.viictr.org/profile/267744), Rodney GG, Cooper JD, Sardiello M. mTORC1-independent TFEB activation via Akt inhibition promotes cellular clearance in neurodegenerative storage diseases. Nat Commun. 2017 02 06; 8:14338. PMID: [28165011](//www.ncbi.nlm.nih.gov/pubmed/28165011); PMCID: [PMC5303831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5303831).
+
+Citations:
+[160](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28165011/citedby/)
+Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  19. Giudice J, Loehr JA, Rodney GG, [Cooper TA](https://profiles.viictr.org/profile/269742). Alternative Splicing of Four Trafficking Genes Regulates Myofiber Structure and Skeletal Muscle Physiology. Cell Rep. 2016 11 15; 17(8):1923-1933. PMID: [27851958](//www.ncbi.nlm.nih.gov/pubmed/27851958); PMCID: [PMC5140099](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5140099).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27851958/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  20. Tajhya RB, Hu X, Tanner MR, Huq R, Kongchan N, [Neilson JR](https://profiles.viictr.org/profile/266073), Rodney GG, [Horrigan FT](https://profiles.viictr.org/profile/265890), Timchenko LT, [Beeton C](https://profiles.viictr.org/profile/265629). Functional KCa1.1 channels are crucial for regulating the proliferation, migration and differentiation of human primary skeletal myoblasts. Cell Death Dis. 2016 10 20; 7(10):e2426. PMID: [27763639](//www.ncbi.nlm.nih.gov/pubmed/27763639); PMCID: [PMC5133989](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5133989).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27763639/citedby/) Fields:
+
+Cel Cell BiologyInt Internal Medicine
+
+Translation:HumansCells
+
+  21. Loehr JA, Stinnett GR, Roten WT, Wilson LJ, [Pautler RG](https://profiles.viictr.org/profile/267744), Rodney GG, Hern?ndez-Rivera M. Eliminating Nox2 reactive oxygen species production protects dystrophic skeletal muscle from pathological calcium influx assessed in vivo by manganese-enhanced magnetic resonance imaging. J Physiol. 2016 11 01; 594(21):6395-6405. PMID: [27555555](//www.ncbi.nlm.nih.gov/pubmed/27555555); PMCID: [PMC5088246](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5088246).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27555555/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  22. Rodney GG, Pal R, Abo-Zahrah R. Redox regulation of autophagy in skeletal muscle. Free Radic Biol Med. 2016 09; 98:103-112. PMID: [27184957](//www.ncbi.nlm.nih.gov/pubmed/27184957); PMCID: [PMC4975974](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4975974).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27184957/citedby/) Fields:
+
+Bio BiochemistryMed Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  23. Pal R, Bajaj L, Sharma J, Palmieri M, Di Ronza A, Lotfi P, Chaudhury A, [Neilson J](https://profiles.viictr.org/profile/266073), Sardiello M, Rodney GG. NADPH oxidase promotes Parkinsonian phenotypes by impairing autophagic flux in an mTORC1-independent fashion in a cellular model of Parkinson's disease. Sci Rep. 2016 Mar 10; 6:22866. PMID: [26960433](//www.ncbi.nlm.nih.gov/pubmed/26960433); PMCID: [PMC4785399](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4785399).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26960433/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  24. Wang Q, Wang W, Wang G, Rodney GG, [Wehrens XH](https://profiles.viictr.org/profile/270302). Crosstalk between RyR2 oxidation and phosphorylation contributes to cardiac dysfunction in mice with Duchenne muscular dystrophy. J Mol Cell Cardiol. 2015 Dec; 89(Pt B):177-84. PMID: [26555638](//www.ncbi.nlm.nih.gov/pubmed/26555638); PMCID: [PMC4689641](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4689641).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26555638/citedby/) Fields:
+
+Car CardiologyCel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  25. Pham K, Pal R, Qu Y, Liu X, Yu H, Shiao SL, Wang X, O'Brian Smith E, Cui X, Rodney GG, [Cheng N](https://profiles.viictr.org/profile/266565). Nuclear glutaredoxin 3 is critical for protection against oxidative stress-induced cell death. Free Radic Biol Med. 2015 Aug; 85:197-206. PMID: [25975981](//www.ncbi.nlm.nih.gov/pubmed/25975981); PMCID: [PMC4902114](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4902114).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25975981/citedby/) Fields:
+
+Bio BiochemistryMed Medicine (General)
+
+Translation:HumansCells
+
+  26. Lee CS, Dagnino-Acosta A, Yarotskyy V, Hanna A, Lyfenko A, Knoblauch M, Georgiou DK, Swank MW, Long C, Ismailov II, Lanner J, Tran T, Dong K, Rodney GG, [Dickinson ME](https://profiles.viictr.org/profile/269085), [Beeton C](https://profiles.viictr.org/profile/265629), Zhang P, Dirksen RT, [Hamilton SL](https://profiles.viictr.org/profile/269595), Poch? RA. Ca(2+) permeation and/or binding to CaV1.1 fine-tunes skeletal muscle Ca(2+) signaling to sustain muscle function. Skelet Muscle. 2015; 5:4. PMID: [25717360](//www.ncbi.nlm.nih.gov/pubmed/25717360); PMCID: [PMC4340672](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4340672).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25717360/citedby/) Fields:
+
+Phy Physiology
+
+  27. Loehr JA, Abo-Zahrah R, Pal R, Rodney GG. Sphingomyelinase promotes oxidant production and skeletal muscle contractile dysfunction through activation of NADPH oxidase. Front Physiol. 2014; 5:530. PMID: [25653619](//www.ncbi.nlm.nih.gov/pubmed/25653619); PMCID: [PMC4300905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4300905).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25653619/citedby/)
+
+  28. Pal R, Palmieri M, Loehr JA, Li S, Abo-Zahrah R, Monroe TO, Thakur PB, Sardiello M, Rodney GG. Src-dependent impairment of autophagy by oxidative stress in a mouse model of Duchenne muscular dystrophy. Nat Commun. 2014 Jul 16; 5:4425. PMID: [25028121](//www.ncbi.nlm.nih.gov/pubmed/25028121); PMCID: [PMC4101811](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4101811).
+
+Citations:
+[81](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25028121/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  29. Pal R, Monroe TO, Palmieri M, Sardiello M, Rodney GG. Rotenone induces neurotoxicity through Rac1-dependent activation of NADPH oxidase in SHSY-5Y cells. FEBS Lett. 2014 Jan 31; 588(3):472-81. PMID: [24374334](//www.ncbi.nlm.nih.gov/pubmed/24374334); PMCID: [PMC3932663](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3932663).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24374334/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  30. Pal R, Basu Thakur P, Li S, [Minard C](https://profiles.viictr.org/profile/267444), Rodney GG. Real-time imaging of NADPH oxidase activity in living cells using a novel fluorescent protein reporter. PLoS One. 2013; 8(5):e63989. PMID: [23704967](//www.ncbi.nlm.nih.gov/pubmed/23704967); PMCID: [PMC3660327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3660327).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23704967/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  31. Lanner JT, Georgiou DK, Dagnino-Acosta A, Ainbinder A, Cheng Q, Joshi AD, Chen Z, Yarotskyy V, Oakes JM, Lee CS, Monroe TO, Santillan A, Dong K, Goodyear L, Ismailov II, Rodney GG, Dirksen RT, [Hamilton SL](https://profiles.viictr.org/profile/269595). AICAR prevents heat-induced sudden death in RyR1 mutant mice independent of AMPK activation. Nat Med. 2012 Jan 08; 18(2):244-51. PMID: [22231556](//www.ncbi.nlm.nih.gov/pubmed/22231556); PMCID: [PMC3274651](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3274651).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22231556/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  32. Xiong LW, Newman RA, Rodney GG, Thomas O, Zhang JZ, Persechini A, Shea MA, Hamilton SL. Lobe-dependent regulation of ryanodine receptor type 1 by calmodulin. J Biol Chem. 2002 Oct 25; 277(43):40862-70. PMID: [12185083](//www.ncbi.nlm.nih.gov/pubmed/12185083).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12185083/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  33. Rodney GG, Krol J, Williams B, Beckingham K, Hamilton SL. The carboxy-terminal calcium binding sites of calmodulin control calmodulin's switch from an activator to an inhibitor of RYR1. Biochemistry. 2001 Oct 16; 40(41):12430-5. PMID: [11591164](//www.ncbi.nlm.nih.gov/pubmed/11591164).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11591164/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  34. Pate P, Mochca-Morales J, Wu Y, Zhang JZ, Rodney GG, [Serysheva II](https://profiles.viictr.org/profile/266963), Williams BY, Anderson ME, Hamilton SL. Determinants for calmodulin binding on voltage-dependent Ca2+ channels. J Biol Chem. 2000 Dec 15; 275(50):39786-92. PMID: [11005820](//www.ncbi.nlm.nih.gov/pubmed/11005820).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11005820/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  35. Rodney GG, Moore CP, Williams BY, Zhang JZ, Krol J, Pedersen SE, Hamilton SL. Calcium binding to calmodulin leads to an N-terminal shift in its binding site on the ryanodine Receptor. J Biol Chem. 2001 Jan 19; 276(3):2069-74. PMID: [11035044](//www.ncbi.nlm.nih.gov/pubmed/11035044).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11035044/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  36. Rodney GG, Williams BY, Strasburg GM, Beckingham K, Hamilton SL. Regulation of RYR1 activity by Ca(2+) and calmodulin. Biochemistry. 2000 Jul 04; 39(26):7807-12. PMID: [10869186](//www.ncbi.nlm.nih.gov/pubmed/10869186).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10869186/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  37. Moore CP, Rodney G, Zhang JZ, Santacruz-Toloza L, Strasburg G, Hamilton SL. Apocalmodulin and Ca2+ calmodulin bind to the same region on the skeletal muscle Ca2+ release channel. Biochemistry. 1999 Jun 29; 38(26):8532-7. PMID: [10387100](//www.ncbi.nlm.nih.gov/pubmed/10387100).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10387100/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  38. Zhang JZ, Wu Y, Williams BY, Rodney G, Mandel F, Strasburg GM, Hamilton SL. Oxidation of the skeletal muscle Ca2+ release channel alters calmodulin binding. Am J Physiol. 1999 Jan; 276(1 Pt 1):C46-53. PMID: [9886919](//www.ncbi.nlm.nih.gov/pubmed/9886919).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9886919/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 38 publications over 14 distinct years, with a maximum of
+6 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,33,50,17,17,0,0,0,0,0,0,0,0,0,17,33,17,67,83,100,83,67,17,33,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1999| 2  
+2000| 3  
+2001| 1  
+2002| 1  
+2012| 1  
+2013| 2  
+2014| 1  
+2015| 4  
+2016| 5  
+2017| 6  
+2018| 5  
+2019| 4  
+2020| 1  
+2021| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+RODNEY JR.'s Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (232)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Muscular Dystrophy, Duchenne](https://profiles.viictr.org/profile/248442)
+  * [NADPH Oxidases](https://profiles.viictr.org/profile/260743)
+  * [Ryanodine Receptor Calcium Release Channel](https://profiles.viictr.org/profile/259679)
+  * [Muscle, Skeletal](https://profiles.viictr.org/profile/261529)
+  * [NADPH Oxidase 2](https://profiles.viictr.org/profile/27545521)
+
+[Explore](https://profiles.viictr.org/profile/267066/198)
+
+_
+
+Co-Authors (44)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [ZHANG, CHUANSHENG](https://profiles.viictr.org/profile/3009849)
+  * [CHENG, NINGHUI](https://profiles.viictr.org/profile/266565)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [COOPER, THOMAS](https://profiles.viictr.org/profile/269742)
+
+[Explore](https://profiles.viictr.org/profile/267066/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [DAVIS, TERESA](https://profiles.viictr.org/profile/268105)
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+
+[Explore](https://profiles.viictr.org/profile/267066/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BEETON, CHRISTINE](https://profiles.viictr.org/profile/265629)
+  * [DE GIORGI, MARCO](https://profiles.viictr.org/profile/20777976)
+  * [PEDERSEN, STEEN](https://profiles.viictr.org/profile/266929)
+  * [POCHE, ROSS](https://profiles.viictr.org/profile/1737888)
+  * [RASMUSSEN, TARA](https://profiles.viictr.org/profile/28999059)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9OAoViz93UPhzgPYFlUVlOB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BEETON, CHRISTINE](https://profiles.viictr.org/profile/265629)
+  * [LEE, CHANG SEOK](https://profiles.viictr.org/profile/3009873)
+  * [PEDERSEN, STEEN](https://profiles.viictr.org/profile/266929)
+  * [WARD, CHRISTOPHER](https://profiles.viictr.org/profile/3010293)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+
+_
+

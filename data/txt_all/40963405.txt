@@ -1,0 +1,392 @@
+## MATIAS BRUZONI
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Surgery  
+Address| 9835 N Lake Creek Parkway  
+Austin, TX 78717  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=G6ok6GTUbqnnU5Xi7nLiKLeBaRSOgg%3d%3d&rnd=67af61a9-f88b-46a2-94d4-c348cdb51c31)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=40963405)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Liang NE, Lin S, Slater BJ, **Bruzoni M**. Use of magnets in pediatric surgery. Semin Pediatr Surg. 2024 Feb; 33(1):151381. PMID: [38194748](//www.ncbi.nlm.nih.gov/pubmed/38194748).
+
+Citations:  Fields:
+
+Gen General SurgeryPed Pediatrics
+
+Translation:Humans
+
+  2. Liang NE, Herdes RE, Balili R, Pratt JSA, **Bruzoni M**. Sleeve gastrectomy for the treatment of adolescent obesity in children aged 13 and under: a retrospective study. Surg Obes Relat Dis. 2024 Apr; 20(4):354-361. PMID: [38195315](//www.ncbi.nlm.nih.gov/pubmed/38195315).
+
+Citations:  Fields:
+
+Met Metabolism
+
+Translation:Humans
+
+  3. Shah A, Liang NE, **Bruzoni M** , Pratt JSA, Zitsman J, Nadler EP. Outcomes after metabolic and bariatric surgery in preteens versus teens using the Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program database and center-specific data. Obesity (Silver Spring). 2024 Jan; 32(1):150-155. PMID: [37800184](//www.ncbi.nlm.nih.gov/pubmed/37800184).
+
+Citations:  Fields:
+
+Met MetabolismNut Nutritional SciencesPhy Physiology
+
+Translation:Humans
+
+  4. Lee WG, Evans LL, Chen CS, Fuchs JR, Zamora IJ, **Bruzoni M** , Harrison MR, Muensterer OJ. Lessons Learned From the First-In-Human Compassionate Use of Connect-EA? in Ten Patients With Esophageal Atresia. J Pediatr Surg. 2024 Mar; 59(3):437-444. PMID: [37838619](//www.ncbi.nlm.nih.gov/pubmed/37838619).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37838619/citedby/) Fields:
+
+Gen General SurgeryPed Pediatrics
+
+Translation:Humans
+
+  5. Salimi-Jazia F, Wood LSY, Jones RE, Chandler J, Rafeeqi T, Dutta S, Steinberg G, **Bruzoni M**. Corrigendum to: "Ten-Year Experience With Laparoscopic Pedicled Omental Flap for Cerebral Revascularization in Patients With Moyamoya Disease" J Pediatr Surg 57 (2022) 710-715. J Pediatr Surg. 2023 Nov; 58(11):2268. PMID: [37500373](//www.ncbi.nlm.nih.gov/pubmed/37500373).
+
+Citations:  Fields:
+
+Gen General SurgeryPed Pediatrics
+
+  6. Oh J, Gutkin P, Wang YP, Sandhu N, Majzner RG, Nadel H, Shimada H, Lansinger O, von Eyben R, Donaldson S, **Bruzoni M** , Sodji QH, Hiniker SM. Time to resolution of iodine-123 metaiodobenzylguanidine (123 I-MIBG) avidity and local control outcomes for high-risk neuroblastoma following radiation therapy. J Med Imaging Radiat Oncol. 2023 Feb; 67(1):81-88. PMID: [36300562](//www.ncbi.nlm.nih.gov/pubmed/36300562).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingNeo NeoplasmsRad Radiology
+
+Translation:Humans
+
+  7. Salimi-Jazi F, Chkhikvadze T, Shi J, Pourmehdi-Lahiji A, Moshksar A, Rafeeqi TA, Pratt J, **Bruzoni M** , Chao S. Trends in Adolescent Bariatric Procedures: a 15-Year Analysis of the National Inpatient Survey. Obes Surg. 2022 11; 32(11):3658-3665. PMID: [36103080](//www.ncbi.nlm.nih.gov/pubmed/36103080).
+
+Citations:
+
+  8. Evans LL, Chen CS, Muensterer OJ, Sahlabadi M, Lovvorn HN, Novotny NM, Upperman JS, Martinez JA, **Bruzoni M** , Dunn JCY, Harrison MR, Fuchs JR, Zamora IJ. The novel application of an emerging device for salvage of primary repair in high-risk complex esophageal atresia. J Pediatr Surg. 2022 Dec; 57(12):810-818. PMID: [35760639](//www.ncbi.nlm.nih.gov/pubmed/35760639).
+
+Citations:
+
+  9. Herdes RE, Matheson BE, Tsao DD, **Bruzoni M** , Pratt JSA. Effect of telehealth implementation on an adolescent metabolic and bariatric surgery program. Surg Obes Relat Dis. 2022 09; 18(9):1161-1166. PMID: [35753896](//www.ncbi.nlm.nih.gov/pubmed/35753896).
+
+Citations:
+
+  10. Rao RR, Dulken BW, Matalon DR, Borensztein M, McGuinness M, Cizek SM, **Bruzoni M** , Tan SY, Kreimer S. Leiomyomatosis in an Infant With a SUFU Splice Site Variant: Case Report. J Pediatr Hematol Oncol. 2022 07 01; 44(5):e914-e917. PMID: [35398865](//www.ncbi.nlm.nih.gov/pubmed/35398865).
+
+Citations:
+
+  11. Hsu D, Zhang KY, Rubesova E, **Bruzoni M** , Khavari N, Goyal A. Superior Mesenteric Artery Syndrome in an Adolescent With Anorexia and Suspected Pancreatitis. JPGN Rep. 2022 May; 3(2):e194. PMID: [37168901](//www.ncbi.nlm.nih.gov/pubmed/37168901); PMCID: [PMC10158292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10158292).
+
+Citations:
+
+  12. Salimi-Jazi F, Wood LSY, Jones RE, Chandler J, Rafeeqi T, Dutta S, Steinberg G, **Bruzoni M**. Ten-year experience with laparoscopic pedicled omental flap for cerebral revascularization in patients with Moyamoya disease. J Pediatr Surg. 2022 Nov; 57(11):710-715. PMID: [35197196](//www.ncbi.nlm.nih.gov/pubmed/35197196).
+
+Citations:
+
+  13. Diyaolu M, Wood LS, **Bruzoni M**. Sutureless closure for the management of gastroschisis. Transl Gastroenterol Hepatol. 2021; 6:31. PMID: [34423152](//www.ncbi.nlm.nih.gov/pubmed/34423152); PMCID: [PMC8343509](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8343509).
+
+Citations:
+
+  14. McShane EK, Gurland B, Sheth VR, **Bruzoni M** , Enemchukwu E. Adult residual rectourethral fistula and diverticulum presenting decades after imperforate anus repair: a?case report. J Med Case Rep. 2021 Jul 15; 15(1):370. PMID: [34261520](//www.ncbi.nlm.nih.gov/pubmed/34261520); PMCID: [PMC8281626](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8281626).
+
+Citations:
+
+  15. Herdes RE, El Haija MA, Johnson K, Shepard WE, Zak Y, **Bruzoni M** , Pratt JSA. Experience With Vertical Sleeve Gastrectomy in Adolescent and Young Adult Ehlers-Danlos Syndrome Patients: a Case Series and Review of the Literature. Obes Surg. 2021 09; 31(9):4168-4173. PMID: [33948912](//www.ncbi.nlm.nih.gov/pubmed/33948912).
+
+Citations:
+
+  16. Jones RE, Wood LSY, Matheson BE, Pratt JSA, Burgart AM, Garza D, Shepard WE, **Bruzoni M**. Pilot Evaluation of a Multidisciplinary Strategy for Laparoscopic Sleeve Gastrectomy in Adolescents and Young Adults with Obesity and Intellectual Disabilities. Obes Surg. 2021 08; 31(8):3883-3887. PMID: [33797732](//www.ncbi.nlm.nih.gov/pubmed/33797732).
+
+Citations:
+
+  17. Ogle SB, Dewberry LC, Jenkins TM, Inge TH, Kelsey M, **Bruzoni M** , Pratt JSA. Outcomes of Bariatric Surgery in Older Versus Younger Adolescents. Pediatrics. 2021 03; 147(3). PMID: [33526606](//www.ncbi.nlm.nih.gov/pubmed/33526606); PMCID: [PMC7919111](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7919111).
+
+Citations:
+
+  18. Huang AC, Montiel-Esparza R, Scott G, Martin B, **Bruzoni M** , Kadapakkam M, Namjoshi SS. A Novel Case of Carcinoid Tumor in a Pediatric Patient With Short Bowel Syndrome Secondary to Gastroschisis. JPGN Rep. 2020 Nov; 1(2):e023. PMID: [37206611](//www.ncbi.nlm.nih.gov/pubmed/37206611); PMCID: [PMC10191495](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10191495).
+
+Citations:
+
+  19. Huang M, Zeki J, Sumarsono N, Coles GL, Taylor JS, Danzer E, **Bruzoni M** , Hazard FK, Lacayo NJ, Sakamoto KM, Dunn JCY, Spunt SL, Chiu B. Epigenetic Targeting of TERT-Associated Gene Expression Signature in Human Neuroblastoma with TERT Overexpression. Cancer Res. 2020 03 01; 80(5):1024-1035. PMID: [31900258](//www.ncbi.nlm.nih.gov/pubmed/31900258); PMCID: [PMC7056551](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7056551).
+
+Citations:
+
+  20. Jones RE, Yeh AM, Kambham N, El Haija MA, Pratt J, **Bruzoni M**. Intraoperative Liver Biopsy During Adolescent Bariatric Surgery: Is It Really Necessary? Obes Surg. 2020 01; 30(1):69-76. PMID: [31446562](//www.ncbi.nlm.nih.gov/pubmed/31446562).
+
+Citations:
+
+  21. Anderson JN, Girsen AI, Hintz SR, El-Sayed YY, Davis AS, Barth RA, Halabi S, Hazard FK, Sylvester KG, **Bruzoni M** , [Blumenfeld YJ](https://profiles.viictr.org/profile/3494071). Obstetric and neonatal outcomes in pregnancies complicated by fetal lung masses: does final histology matter? J Matern Fetal Neonatal Med. 2021 Nov; 34(22):3662-3668. PMID: [31722592](//www.ncbi.nlm.nih.gov/pubmed/31722592).
+
+Citations:  Fields:
+
+Obs ObstetricsPer Perinatology
+
+Translation:Humans
+
+  22. Butler MW, Fuchs J, **Bruzoni M**. Serial Reduction of an Extremely Large Gastroschisis using Vacuum-Assisted Closure. European J Pediatr Surg Rep. 2018 Jan; 6(1):e97-e99. PMID: [30591853](//www.ncbi.nlm.nih.gov/pubmed/30591853); PMCID: [PMC6306277](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6306277).
+
+Citations:
+
+  23. Narayan RR, Abadilla N, Greenberg DR, Sylvester KG, Hintz SR, Barth RA, **Bruzoni M**. Predicting Pathology From Imaging in Children Undergoing Resection of Congenital Lung Lesions. J Surg Res. 2019 04; 236:68-73. PMID: [30694781](//www.ncbi.nlm.nih.gov/pubmed/30694781).
+
+Citations:
+
+  24. Pratt JSA, Browne A, Browne NT, **Bruzoni M** , Cohen M, Desai A, Inge T, Linden BC, Mattar SG, Michalsky M, Podkameni D, Reichard KW, Stanford FC, Zeller MH, Zitsman J. ASMBS pediatric metabolic and bariatric surgery guidelines, 2018. Surg Obes Relat Dis. 2018 07; 14(7):882-901. PMID: [30077361](//www.ncbi.nlm.nih.gov/pubmed/30077361); PMCID: [PMC6097871](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6097871).
+
+Citations:
+
+  25. Foster D, Sinclair TJ, Taylor JS, Dutta S, Lorenz HP, **Bruzoni M**. Endoscopic Excision of Benign Facial Masses in Children: A Review of Outcomes. J Laparoendosc Adv Surg Tech A. 2018 May; 28(5):617-621. PMID: [29446701](//www.ncbi.nlm.nih.gov/pubmed/29446701).
+
+Citations:
+
+  26. Jazi FS, Sinclair TJ, Thorson CM, Castillo R, Bonham AC, Esquivel CO, **Bruzoni M**. The challenges of closing an ileostomy in patients with total intestinal aganglionosis after small bowel transplant. Pediatr Surg Int. 2018 Jan; 34(1):113-116. PMID: [29170900](//www.ncbi.nlm.nih.gov/pubmed/29170900).
+
+Citations:
+
+  27. Jaramillo JD, Snyder E, Farrales S, Stevens M, Wall JK, Chao S, Morton J, Pratt JS, Hammer L, Shepard WE, **Bruzoni M**. A multidisciplinary approach to laparoscopic sleeve gastrectomy among multiethnic adolescents in the United States. J Pediatr Surg. 2017 Oct; 52(10):1606-1609. PMID: [28697852](//www.ncbi.nlm.nih.gov/pubmed/28697852).
+
+Citations:
+
+  28. Wall JK, Sinclair TJ, Kethman W, Williams C, Albanese C, Sylvester KG, **Bruzoni M**. Advanced minimal access surgery in infants weighing less than 3kg: A single center experience. J Pediatr Surg. 2018 Mar; 53(3):503-507. PMID: [28549685](//www.ncbi.nlm.nih.gov/pubmed/28549685).
+
+Citations:
+
+  29. Imler D, Keller C, [Sivasankar S](https://profiles.viictr.org/profile/44685146), Wang NE, Vasanawala S, **Bruzoni M** , Quinn J. Magnetic Resonance Imaging Versus Ultrasound as the Initial Imaging Modality for Pediatric and Young Adult Patients With Suspected Appendicitis. Acad Emerg Med. 2017 05; 24(5):569-577. PMID: [28207968](//www.ncbi.nlm.nih.gov/pubmed/28207968).
+
+Citations:
+
+  30. **Bruzoni M** , Jaramillo JD, Dunlap JL, Abrajano C, Stack SW, Hintz SR, Hernandez-Boussard T, Dutta S. Sutureless vs Sutured Gastroschisis Closure: A Prospective Randomized Controlled Trial. J Am Coll Surg. 2017 Jun; 224(6):1091-1096.e1. PMID: [28279777](//www.ncbi.nlm.nih.gov/pubmed/28279777).
+
+Citations:
+
+  31. Keller C, Wang NE, Imler DL, Vasanawala SS, **Bruzoni M** , Quinn JV. Predictors of Nondiagnostic Ultrasound for Appendicitis. J Emerg Med. 2017 Mar; 52(3):318-323. PMID: [27692650](//www.ncbi.nlm.nih.gov/pubmed/27692650).
+
+Citations:
+
+  32. Wall J, Esquivel M, **Bruzoni M** , Wright R, Berquist W, Albanese C. Endoscopic Submucosal Dissection of a Large Hamartoma in a Young Child. J Pediatr Gastroenterol Nutr. 2016 Jan; 62(1):e5-7. PMID: [26709909](//www.ncbi.nlm.nih.gov/pubmed/26709909).
+
+Citations:
+
+  33. **Bruzoni M** , Steinberg GK, Dutta S. Laparoscopic harvesting of omental pedicle flap for cerebral revascularization in children with moyamoya disease. J Pediatr Surg. 2016 Apr; 51(4):592-7. PMID: [26611331](//www.ncbi.nlm.nih.gov/pubmed/26611331).
+
+Citations:
+
+  34. Jaramillo J, Snyder E, Dunlap JL, Wright R, Mendoza F, **Bruzoni M**. The Hispanic Clinic for Pediatric Surgery: A model to improve parent-provider communication for Hispanic pediatric surgery patients. J Pediatr Surg. 2016 Apr; 51(4):670-4. PMID: [26474548](//www.ncbi.nlm.nih.gov/pubmed/26474548).
+
+Citations:
+
+  35. **Bruzoni M** , Jaramillo JD, Kastenberg ZJ, Wall JK, Wright R, Dutta S. Long-term follow-up of laparoscopic transcutaneous inguinal herniorraphy with high transfixation suture ligature of the hernia sac. J Pediatr Surg. 2015 Oct; 50(10):1767-71. PMID: [26201542](//www.ncbi.nlm.nih.gov/pubmed/26201542).
+
+Citations:
+
+  36. Apfeld JC, Wren SM, Macheka N, Mbuwayesango BA, **Bruzoni M** , Sylvester KG, Kastenberg ZJ. Infant, maternal, and geographic factors influencing gastroschisis related mortality in Zimbabwe. Surgery. 2015 Dec; 158(6):1475-80. PMID: [26071924](//www.ncbi.nlm.nih.gov/pubmed/26071924).
+
+Citations:
+
+  37. Snyder E, Amado V, Jacobe M, Sacks GD, **Bruzoni M** , Mapasse D, DeUgarte DA. General surgical services at an urban teaching hospital in Mozambique. J Surg Res. 2015 Oct; 198(2):340-5. PMID: [25940163](//www.ncbi.nlm.nih.gov/pubmed/25940163); PMCID: [PMC4560971](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4560971).
+
+Citations:
+
+  38. Dunlap JL, Jaramillo JD, Koppolu R, Wright R, Mendoza F, **Bruzoni M**. The effects of language concordant care on patient satisfaction and clinical understanding for Hispanic pediatric surgery patients. J Pediatr Surg. 2015 Sep; 50(9):1586-9. PMID: [25783324](//www.ncbi.nlm.nih.gov/pubmed/25783324).
+
+Citations:
+
+  39. Wright R, Abrajano C, Koppolu R, Stevens M, Nyznyk S, Chao S, **Bruzoni M** , Wall J. Initial results of endoscopic gastrocutaneous fistula closure in children using an over-the-scope clip. J Laparoendosc Adv Surg Tech A. 2015 Jan; 25(1):69-72. PMID: [25531644](//www.ncbi.nlm.nih.gov/pubmed/25531644); PMCID: [PMC4361278](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4361278).
+
+Citations:
+
+  40. Navarro R, Chao K, Gooderham PA, **Bruzoni M** , Dutta S, Steinberg GK. Less invasive pedicled omental-cranial transposition in pediatric patients with moyamoya disease and failed prior revascularization. Neurosurgery. 2014 Mar; 10 Suppl 1:1-14. PMID: [23921707](//www.ncbi.nlm.nih.gov/pubmed/23921707).
+
+Citations:
+
+  41. **Bruzoni M** , Slater BJ, Wall J, St Peter SD, Dutta S. A prospective randomized trial of ultrasound- vs landmark-guided central venous access in the pediatric population. J Am Coll Surg. 2013 May; 216(5):939-43. PMID: [23478546](//www.ncbi.nlm.nih.gov/pubmed/23478546).
+
+Citations:
+
+  42. Salles A, Kastenberg ZJ, Wall JK, Visser BC, **Bruzoni M**. Complete resection of a rare intrahepatic variant of a choledochal cyst. J Pediatr Surg. 2013 Mar; 48(3):652-4. PMID: [23480926](//www.ncbi.nlm.nih.gov/pubmed/23480926).
+
+Citations:
+
+  43. Lin SR, Kastenberg ZJ, **Bruzoni M** , Albanese CT, Dutta S. Chest wall reconstruction using implantable cross-linked porcine dermal collagen matrix (Permacol). J Pediatr Surg. 2012 Jul; 47(7):1472-5. PMID: [22813819](//www.ncbi.nlm.nih.gov/pubmed/22813819).
+
+Citations:
+
+  44. **Bruzoni M** , Dutta S. Single-site umbilical laparoscopic splenectomy. Semin Pediatr Surg. 2011 Nov; 20(4):212-8. PMID: [21968157](//www.ncbi.nlm.nih.gov/pubmed/21968157).
+
+Citations:
+
+  45. Kastenberg Z, **Bruzoni M** , Dutta S. A modification of the laparoscopic transcutaneous inguinal hernia repair to achieve transfixation ligature of the hernia sac. J Pediatr Surg. 2011 Aug; 46(8):1658-64. PMID: [21843740](//www.ncbi.nlm.nih.gov/pubmed/21843740).
+
+Citations:
+
+  46. **Bruzoni M** , Parikh P, Celis R, Are C, Ly QP, Meza JL, Sasson AR. Management of the primary tumor in patients with metastatic pancreatic neuroendocrine tumor: a contemporary single-institution review. Am J Surg. 2009 Mar; 197(3):376-81. PMID: [19245918](//www.ncbi.nlm.nih.gov/pubmed/19245918).
+
+Citations:
+
+  47. **Bruzoni M** , Sudan DL, Cusick RA, Thompson JS. Comparison of short bowel syndrome acquired early in life and during adolescence. Transplantation. 2008 Jul 15; 86(1):63-6. PMID: [18622279](//www.ncbi.nlm.nih.gov/pubmed/18622279).
+
+Citations:
+
+  48. **Bruzoni M** , Sasson AR. Open and laparoscopic spleen-preserving, splenic vessel-preserving distal pancreatectomy: indications and outcomes. J Gastrointest Surg. 2008 Jul; 12(7):1202-6. PMID: [18437500](//www.ncbi.nlm.nih.gov/pubmed/18437500).
+
+Citations:
+
+  49. **Bruzoni M** , Johnston E, Sasson AR. Pancreatic incidentalomas: clinical and pathologic spectrum. Am J Surg. 2008 Mar; 195(3):329-32; discussion 332. PMID: [18308040](//www.ncbi.nlm.nih.gov/pubmed/18308040).
+
+Citations:
+
+  50. Pipinos II, **Bruzoni M** , Johanning JM, Matthew Longo G, Lynch TG. Transcervical carotid stenting with flow reversal for neuroprotection: technique, results, advantages, and limitations. Vascular. 2006 Sep-Oct; 14(5):245-55. PMID: [17038294](//www.ncbi.nlm.nih.gov/pubmed/17038294).
+
+Citations:
+
+  51. Plotkin H, Coughlin S, Kreikemeier R, Heldt K, **Bruzoni M** , Lerner G. Low doses of pamidronate to treat osteopenia in children with severe cerebral palsy: a pilot study. Dev Med Child Neurol. 2006 Sep; 48(9):709-12. PMID: [16904014](//www.ncbi.nlm.nih.gov/pubmed/16904014).
+
+Citations:
+
+  52. Amarillo HA, **Bruzoni M** , Loto M, Castagneto GH, Mihura ME. Hemorrhagic adrenal pseudocyst: laparoscopic treatment. Surg Endosc. 2004 Oct; 18(10):1539. PMID: [15791385](//www.ncbi.nlm.nih.gov/pubmed/15791385).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 52 publications over 18 distinct years, with a maximum of
+7 publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,14,0,29,0,43,14,0,29,14,29,43,71,29,71,57,14,43,71,100,57,14&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 1  
+2006| 2  
+2008| 3  
+2009| 1  
+2011| 2  
+2012| 1  
+2013| 2  
+2014| 3  
+2015| 5  
+2016| 2  
+2017| 5  
+2018| 4  
+2019| 1  
+2020| 3  
+2021| 5  
+2022| 7  
+2023| 4  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BRUZONI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (278)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Obesity, Morbid](https://profiles.viictr.org/profile/254305)
+  * [Laparoscopy](https://profiles.viictr.org/profile/253562)
+  * [Bariatric Surgery](https://profiles.viictr.org/profile/245616)
+  * [Pediatric Obesity](https://profiles.viictr.org/profile/27547054)
+  * [Esophageal Atresia](https://profiles.viictr.org/profile/252637)
+
+[Explore](https://profiles.viictr.org/profile/40963405/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [BLUMENFELD, YAIR](https://profiles.viictr.org/profile/3494071)
+  * [SIVASANKAR, SHYAM](https://profiles.viictr.org/profile/44685146)
+
+[Explore](https://profiles.viictr.org/profile/40963405/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [CONRAD, CLAUDIUS](https://profiles.viictr.org/profile/12582862)
+  * [GUAN, XIAOMING](https://profiles.viictr.org/profile/266612)
+  * [ROHRICH, RODNEY](https://profiles.viictr.org/profile/30445263)
+  * [RAMIREZ, PEDRO TOMAS](https://profiles.viictr.org/profile/12582582)
+  * [BRANDT, MARY](https://profiles.viictr.org/profile/267950)
+
+[Explore](https://profiles.viictr.org/profile/40963405/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRANDT, MARY](https://profiles.viictr.org/profile/267950)
+  * [CASTRO, KATHERINE](https://profiles.viictr.org/profile/48003267)
+  * [FLORES, CELIA DEL CARMEN](https://profiles.viictr.org/profile/18035812)
+  * [MILEWICZ, ALLEN](https://profiles.viictr.org/profile/269544)
+  * [OLUTOYE, OLUYINKA](https://profiles.viictr.org/profile/266840)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9QYVsPLp/MLn0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

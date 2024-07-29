@@ -1,0 +1,304 @@
+## JENNIFER HALLIDAY
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Pqo87WzDIZLVRIzgrn7GPw%3d%3d&rnd=fc54f0ab-2ddc-4c4b-811f-d42765902193)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=29964659)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Bradley CC, Gordon AJE, **Halliday JA** , [Herman C](https://profiles.viictr.org/profile/269211). Transcription fidelity: New paradigms in epigenetic inheritance, genome instability and disease. DNA Repair (Amst). 2019 09; 81:102652. PMID: [31326363](//www.ncbi.nlm.nih.gov/pubmed/31326363); PMCID: [PMC6764924](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6764924).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31326363/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  2. Gordon AJE, Sivaramakrishnan P, **Halliday JA** , [Herman C](https://profiles.viictr.org/profile/269211). Transcription infidelity and genome integrity: the parallax view. Transcription. 2018; 9(5):315-320. PMID: [29929421](//www.ncbi.nlm.nih.gov/pubmed/29929421); PMCID: [PMC6150618](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6150618).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  3. Sivaramakrishnan P, Gordon AJE, **Halliday JA** , [Herman C](https://profiles.viictr.org/profile/269211). How Acts of Infidelity Promote DNA Break Repair: Collision and Collusion Between DNA Repair and Transcription. Bioessays. 2018 10; 40(10):e1800045. PMID: [30091472](//www.ncbi.nlm.nih.gov/pubmed/30091472); PMCID: [PMC6334755](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6334755).
+
+Citations:  Fields:
+
+Bio BiologyCel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  4. Girard ME, Gopalkrishnan S, Grace ED, **Halliday JA** , Gourse RL, [Herman C](https://profiles.viictr.org/profile/269211). DksA and ppGpp Regulate the sS Stress Response by Activating Promoters for the Small RNA DsrA and the Anti-Adapter Protein IraP. J Bacteriol. 2018 01 15; 200(2). PMID: [29061665](//www.ncbi.nlm.nih.gov/pubmed/29061665); PMCID: [PMC5738727](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5738727).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29061665/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  5. Sivaramakrishnan P, **Halliday JA** , Liu J, Golding I, [Rosenberg SM](https://profiles.viictr.org/profile/268344), [Herman C](https://profiles.viictr.org/profile/269211), Sep?lveda LA, N??ez MAB. The transcription fidelity factor GreA impedes DNA break repair. Nature. 2017 10 12; 550(7675):214-218. PMID: [28976965](//www.ncbi.nlm.nih.gov/pubmed/28976965); PMCID: [PMC5654330](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5654330).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28976965/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  6. Xia J, Chen LT, Mei Q, Ma CH, **Halliday JA** , Lin HY, Magnan D, Pribis JP, Fitzgerald DM, Hamilton HM, Richters M, [Nehring RB](https://profiles.viictr.org/profile/3010136), Shen X, Li L, [Bates D](https://profiles.viictr.org/profile/265690), [Hastings PJ](https://profiles.viictr.org/profile/268348), [Herman C](https://profiles.viictr.org/profile/269211), Jayaram M, [Rosenberg SM](https://profiles.viictr.org/profile/268344). Holliday junction trap shows how cells use recombination and a junction-guardian role of RecQ helicase. Sci Adv. 2016 Nov; 2(11):e1601605. PMID: [28090586](//www.ncbi.nlm.nih.gov/pubmed/28090586); PMCID: [PMC5222578](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5222578).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28090586/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  7. Satory D, Gordon AJ, Wang M, **Halliday JA** , Golding I, [Herman C](https://profiles.viictr.org/profile/269211). DksA involvement in transcription fidelity buffers stochastic epigenetic change. Nucleic Acids Res. 2015 Dec 02; 43(21):10190-9. PMID: [26304546](//www.ncbi.nlm.nih.gov/pubmed/26304546); PMCID: [PMC4666387](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4666387).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26304546/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  8. Gordon AJ, Satory D, **Halliday JA** , [Herman C](https://profiles.viictr.org/profile/269211). Lost in transcription: transient errors in information transfer. Curr Opin Microbiol. 2015 Apr; 24:80-7. PMID: [25637723](//www.ncbi.nlm.nih.gov/pubmed/25637723); PMCID: [PMC4380820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4380820).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25637723/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  9. Gordon AJ, Satory D, Wang M, **Halliday JA** , Golding I, [Herman C](https://profiles.viictr.org/profile/269211). Removal of 8-oxo-GTP by MutT hydrolase is not a major contributor to transcriptional fidelity. Nucleic Acids Res. 2014 Oct 29; 42(19):12015-26. PMID: [25294823](//www.ncbi.nlm.nih.gov/pubmed/25294823); PMCID: [PMC4231768](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4231768).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25294823/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  10. Bednarz M, **Halliday JA** , [Herman C](https://profiles.viictr.org/profile/269211), Golding I. Revisiting bistability in the lysis/lysogeny circuit of bacteriophage lambda. PLoS One. 2014; 9(6):e100876. PMID: [24963924](//www.ncbi.nlm.nih.gov/pubmed/24963924); PMCID: [PMC4070997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4070997).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24963924/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Cells
+
+  11. Shee C, Cox BD, Gu F, Luengas EM, Joshi MC, Chiu LY, Magnan D, **Halliday JA** , Frisch RL, Gibson JL, [Nehring RB](https://profiles.viictr.org/profile/3010136), Do HG, Hernandez M, [Li L](https://profiles.viictr.org/profile/12583687), [Herman C](https://profiles.viictr.org/profile/269211), [Hastings PJ](https://profiles.viictr.org/profile/268348), [Bates D](https://profiles.viictr.org/profile/265690), Harris RS, Miller KM, [Rosenberg SM](https://profiles.viictr.org/profile/268344). Engineered proteins detect spontaneous DNA breakage in human and bacterial cells. Elife. 2013 Oct 29; 2:e01222. PMID: [24171103](//www.ncbi.nlm.nih.gov/pubmed/24171103); PMCID: [PMC3809393](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3809393).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24171103/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  12. Satory D, **Halliday JA** , Sivaramakrishnan P, Lua RC, [Herman C](https://profiles.viictr.org/profile/269211). Characterization of a novel RNA polymerase mutant that alters DksA activity. J Bacteriol. 2013 Sep; 195(18):4187-94. PMID: [23852871](//www.ncbi.nlm.nih.gov/pubmed/23852871); PMCID: [PMC3754754](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3754754).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23852871/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  13. Gordon AJ, Satory D, **Halliday JA** , [Herman C](https://profiles.viictr.org/profile/269211). Heritable change caused by transient transcription errors. PLoS Genet. 2013 Jun; 9(6):e1003595. PMID: [23825966](//www.ncbi.nlm.nih.gov/pubmed/23825966); PMCID: [PMC3694819](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3694819).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23825966/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  14. Satory D, Gordon AJ, **Halliday JA** , [Herman C](https://profiles.viictr.org/profile/269211). Epigenetic switches: can infidelity govern fate in microbes? Curr Opin Microbiol. 2011 Apr; 14(2):212-7. PMID: [21496764](//www.ncbi.nlm.nih.gov/pubmed/21496764).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21496764/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  15. Tehranchi AK, Blankschien MD, Zhang Y, **Halliday JA** , Srivatsan A, Peng J, [Herman C](https://profiles.viictr.org/profile/269211), Wang JD. The transcription factor DksA prevents conflicts between DNA replication and transcription machinery. Cell. 2010 May 14; 141(4):595-605. PMID: [20478253](//www.ncbi.nlm.nih.gov/pubmed/20478253); PMCID: [PMC2919171](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2919171).
+
+Citations:
+[101](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20478253/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  16. Blankschien MD, Lee JH, Grace ED, Lennon CW, **Halliday JA** , Ross W, Gourse RL, [Herman C](https://profiles.viictr.org/profile/269211). Super DksAs: substitutions in DksA enhancing its effects on transcription initiation. EMBO J. 2009 Jun 17; 28(12):1720-31. PMID: [19424178](//www.ncbi.nlm.nih.gov/pubmed/19424178); PMCID: [PMC2699356](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2699356).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19424178/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  17. Gordon AJ, **Halliday JA** , Blankschien MD, Burns PA, Yatagai F, [Herman C](https://profiles.viictr.org/profile/269211). Transcriptional infidelity promotes heritable phenotypic change in a bistable gene network. PLoS Biol. 2009 Feb 24; 7(2):e44. PMID: [19243224](//www.ncbi.nlm.nih.gov/pubmed/19243224); PMCID: [PMC2652393](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2652393).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19243224/citedby/) Fields:
+
+Bio Biology
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 17 publications over 10 distinct years, with a maximum of
+3 publications in
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,33,33,0,100,67,67,33,67,67,33,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2009| 2  
+2010| 1  
+2011| 1  
+2013| 3  
+2014| 2  
+2015| 2  
+2016| 1  
+2017| 2  
+2018| 2  
+2019| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HALLIDAY's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (95)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Escherichia coli](https://profiles.viictr.org/profile/240900)
+  * [Escherichia coli Proteins](https://profiles.viictr.org/profile/248764)
+  * [Transcription, Genetic](https://profiles.viictr.org/profile/259024)
+  * [Gene Expression Regulation, Bacterial](https://profiles.viictr.org/profile/261490)
+  * [DNA-Directed RNA Polymerases](https://profiles.viictr.org/profile/259676)
+
+[Explore](https://profiles.viictr.org/profile/29964659/198)
+
+_
+
+Co-Authors (6)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HERMAN, CHRISTOPHE](https://profiles.viictr.org/profile/269211)
+  * [ROSENBERG, SUSAN](https://profiles.viictr.org/profile/268344)
+  * [BATES, DAVID](https://profiles.viictr.org/profile/265690)
+  * [HASTINGS, PHILIP](https://profiles.viictr.org/profile/268348)
+  * [NEHRING, RALF](https://profiles.viictr.org/profile/3010136)
+
+[Explore](https://profiles.viictr.org/profile/29964659/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ROSENBERG, SUSAN](https://profiles.viictr.org/profile/268344)
+  * [HERMAN, CHRISTOPHE](https://profiles.viictr.org/profile/269211)
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [HASTINGS, PHILIP](https://profiles.viictr.org/profile/268348)
+
+[Explore](https://profiles.viictr.org/profile/29964659/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BAE, YANGJIN](https://profiles.viictr.org/profile/3009541)
+  * [KAIPPARETTU, BENNY](https://profiles.viictr.org/profile/269257)
+  * [KATSONIS, PANAGIOTIS](https://profiles.viictr.org/profile/3009828)
+  * [KLISCH, TIEMO](https://profiles.viictr.org/profile/265995)
+  * [XIA, FAN](https://profiles.viictr.org/profile/3009907)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,476 @@
+## IN YOUNG PARK
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=H6UJ7nDJJ8XFR53mwHnBJ%2fqJIwQ%3d&rnd=cb6a1eed-0fa7-4395-965e-52a00d055cfd)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=18892306)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=18892306&cachekey=4a9437ba-9de8-4b30-8471-30878ad00d0c)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Center for Precision Environmental Health  
+Division| Center for Precision Env Health  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Harrison SP, Siller R, Tanaka Y, Chollet ME, de la Morena-Barrio ME, Xiang Y, Patterson B, Andersen E, Bravo-P?rez C, Kempf H, ?srud KS, Lunov O, Dejneka A, Mowinckel MC, Stavik B, Sandset PM, Melum E, Baumgarten S, Bonanini F, Kurek D, Mathapati S, Almaas R, Sharma K, Wilson SR, Skottvoll FS, Boger IC, Bogen IL, Nyman TA, Wu JJ, Bezrouk A, Cizkova D, Corral J, Mokry J, Zweigerdt R, **Park IH** , Sullivan GJ. Scalable production of tissue-like vascularized liver organoids from human PSCs. Exp Mol Med. 2023 09; 55(9):2005-2024. PMID: [37653039](//www.ncbi.nlm.nih.gov/pubmed/37653039); PMCID: [PMC10545717](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10545717).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37653039/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  2. Koenning M, Wang X, Karki M, Jangid RK, Kearns S, Tripathi DN, Cianfrocco M, Verhey KJ, Jung SY, [Coarfa C](https://profiles.viictr.org/profile/265668), Ward CS, Kalish BT, [Grimm SL](https://profiles.viictr.org/profile/35589914), Rathmell WK, Mostany R, [Dere R](https://profiles.viictr.org/profile/18892307), [Rasband MN](https://profiles.viictr.org/profile/265764), [Walker CL](https://profiles.viictr.org/profile/17873538), **Park IY**. Neuronal SETD2 activity links microtubule methylation to an anxiety-like phenotype in mice. Brain. 2021 09 04; 144(8):2527-2540. PMID: [34014281](//www.ncbi.nlm.nih.gov/pubmed/34014281); PMCID: [PMC8418347](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8418347).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34014281/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  3. Cho J, Kim S, Lee H, Rah W, Cho HC, Kim NK, Bae S, Shin DH, Lee MG, **Park IH** , Tanaka Y, Shin E, Yi H, Han JW, Hwang PTJ, Jun HW, Park HJ, Cho K, Lee SW, Jung JK, Levit RD, Sussman MA, Harvey RP, Yoon YS. Regeneration of infarcted mouse hearts by cardiovascular tissue formed via the direct reprogramming of mouse fibroblasts. Nat Biomed Eng. 2021 08; 5(8):880-896. PMID: [34426676](//www.ncbi.nlm.nih.gov/pubmed/34426676); PMCID: [PMC8809198](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8809198).
+
+Citations:
+
+  4. Kearns S, Mason FM, Rathmell WK, **Park IY** , [Walker C](https://profiles.viictr.org/profile/17873538), Verhey KJ, Cianfrocco MA. Molecular determinants for a-tubulin methylation by SETD2. J Biol Chem. 2021 07; 297(1):100898. PMID: [34157286](//www.ncbi.nlm.nih.gov/pubmed/34157286); PMCID: [PMC8294582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8294582).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34157286/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  5. Karki M, Jangid RK, Anish R, Seervai RNH, Bertocchio JP, Hotta T, Msaouel P, Jung SY, [Grimm SL](https://profiles.viictr.org/profile/35589914), [Coarfa C](https://profiles.viictr.org/profile/265668), Weissman BE, Ohi R, Verhey KJ, Hodges HC, Burggren W, [Dere R](https://profiles.viictr.org/profile/18892307), **Park IY** , Prasad BVV, Rathmell WK, [Walker CL](https://profiles.viictr.org/profile/17873538), Tripathi DN. A cytoskeletal function for PBRM1 reading methylated microtubules. Sci Adv. 2021 04; 7(14). PMID: [33811077](//www.ncbi.nlm.nih.gov/pubmed/33811077); PMCID: [PMC11059954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11059954).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33811077/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  6. Seervai RNH, Jangid RK, Karki M, Tripathi DN, Jung SY, Kearns SE, Verhey KJ, Cianfrocco MA, Millis BA, Tyska MJ, Mason FM, Rathmell WK, **Park IY** , [Dere R](https://profiles.viictr.org/profile/18892307), [Walker CL](https://profiles.viictr.org/profile/17873538). The Huntingtin-interacting protein SETD2/HYPB is an actin lysine methyltransferase. Sci Adv. 2020 10; 6(40). PMID: [33008892](//www.ncbi.nlm.nih.gov/pubmed/33008892); PMCID: [PMC7852384](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7852384).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33008892/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  7. Yoon Y, Kim HS, Jeon I, Noh JE, Park HJ, Lee S, **Park IH** , Stevanato L, Hicks C, Corteling R, Barker RA, Sinden JD, Song J. Implantation of the clinical-grade human neural stem cell line, CTX0E03, rescues the behavioral and pathological deficits in the quinolinic acid-lesioned rodent model of Huntington's disease. Stem Cells. 2020 08; 38(8):936-947. PMID: [32374064](//www.ncbi.nlm.nih.gov/pubmed/32374064); PMCID: [PMC7496241](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7496241).
+
+Citations:
+
+  8. Cakir B, Xiang Y, Tanaka Y, Kural MH, Parent M, Kang YJ, Chapeton K, Patterson B, Yuan Y, He CS, Raredon MSB, Dengelegi J, Kim KY, Sun P, Zhong M, Lee S, Patra P, Hyder F, Niklason LE, Lee SH, Yoon YS, **Park IH**. Engineering of human brain organoids with a functional vascular-like system. Nat Methods. 2019 11; 16(11):1169-1175. PMID: [31591580](//www.ncbi.nlm.nih.gov/pubmed/31591580); PMCID: [PMC6918722](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6918722).
+
+Citations:
+
+  9. Kim KY, Tanaka Y, Su J, Cakir B, Xiang Y, Patterson B, Ding J, Jung YW, Kim JH, Hysolli E, Lee H, Dajani R, Kim J, Zhong M, Lee JH, Skalnik D, Lim JM, Sullivan GJ, Wang J, **Park IH**. Uhrf1 regulates active transcriptional marks at bivalent domains in pluripotent stem cells through Setd1a. Nat Commun. 2018 07 03; 9(1):2583. PMID: [29968706](//www.ncbi.nlm.nih.gov/pubmed/29968706); PMCID: [PMC6030064](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6030064).
+
+Citations:
+
+  10. Chiang YC, **Park IY** , Terzo EA, Tripathi DN, Mason FM, Fahey CC, Karki M, Shuster CB, Sohn BH, Chowdhury P, Powell RT, Ohi R, Tsai YS, de Cubas AA, Khan A, Davis IJ, Strahl BD, Parker JS, [Dere R](https://profiles.viictr.org/profile/18892307), [Walker CL](https://profiles.viictr.org/profile/17873538), Rathmell WK. SETD2 Haploinsufficiency for Microtubule Methylation Is an Early Driver of Genomic Instability in Renal Cell Carcinoma. Cancer Res. 2018 06 15; 78(12):3135-3146. PMID: [29724720](//www.ncbi.nlm.nih.gov/pubmed/29724720); PMCID: [PMC6004258](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6004258).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29724720/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  11. Sohn BH, **Park IY** , Shin JH, Yim SY, Lee JS. Glutamine synthetase mediates sorafenib sensitivity in ?-catenin-active hepatocellular carcinoma cells. Exp Mol Med. 2018 01 05; 50(1):e421. PMID: [29303508](//www.ncbi.nlm.nih.gov/pubmed/29303508); PMCID: [PMC5992988](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5992988).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29303508/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansCells
+
+  12. Lee SJ, Sohn YD, Andukuri A, Kim S, Byun J, Han JW, **Park IH** , Jun HW, Yoon YS. Enhanced Therapeutic and Long-Term Dynamic Vascularization Effects of Human Pluripotent Stem Cell-Derived Endothelial Cells Encapsulated in a Nanomatrix Gel. Circulation. 2017 Nov 14; 136(20):1939-1954. PMID: [28972000](//www.ncbi.nlm.nih.gov/pubmed/28972000); PMCID: [PMC5685906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5685906).
+
+Citations:
+
+  13. [Sun M](https://profiles.viictr.org/profile/17440051), Tong P, Kong W, Dong B, Huang Y, **Park IY** , Zhou L, Liu XD, [Ding Z](https://profiles.viictr.org/profile/12583419), Zhang X, Bai S, German P, Powell R, Wang Q, Tong X, [Tannir NM](https://profiles.viictr.org/profile/12583355), [Matin SF](https://profiles.viictr.org/profile/12583401), Rathmell WK, [Fuller GN](https://profiles.viictr.org/profile/12582524), [McCutcheon IE](https://profiles.viictr.org/profile/12582925), [Walker CL](https://profiles.viictr.org/profile/17873538), Wang J, [Jonasch E](https://profiles.viictr.org/profile/12582637). HNF1B Loss Exacerbates the Development of Chromophobe Renal Cell Carcinomas. Cancer Res. 2017 10 01; 77(19):5313-5326. PMID: [28807937](//www.ncbi.nlm.nih.gov/pubmed/28807937); PMCID: [PMC5626626](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5626626).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28807937/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  14. Han L, Wu HJ, Zhu H, Kim KY, Marjani SL, Riester M, Euskirchen G, Zi X, Yang J, Han J, Snyder M, **Park IH** , Irizarry R, Weissman SM, Michor F, Fan R, Pan X. Bisulfite-independent analysis of CpG island methylation enables genome-scale stratification of single cells. Nucleic Acids Res. 2017 Jun 02; 45(10):e77. PMID: [28126923](//www.ncbi.nlm.nih.gov/pubmed/28126923); PMCID: [PMC5605247](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5605247).
+
+Citations:
+
+  15. Yang J, Tanaka Y, Seay M, Li Z, Jin J, Garmire LX, Zhu X, Taylor A, Li W, Euskirchen G, Halene S, Kluger Y, Snyder MP, **Park IH** , Pan X, Weissman SM. Single cell transcriptomics reveals unanticipated features of early hematopoietic precursors. Nucleic Acids Res. 2017 02 17; 45(3):1281-1296. PMID: [28003475](//www.ncbi.nlm.nih.gov/pubmed/28003475); PMCID: [PMC5388401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5388401).
+
+Citations:
+
+  16. Lee S, Park C, Han JW, Kim JY, Cho K, Kim EJ, Kim S, Lee SJ, Oh SY, Tanaka Y, **Park IH** , An HJ, Shin CM, Sharma S, Yoon YS. Direct Reprogramming of Human Dermal Fibroblasts Into Endothelial Cells Using ER71/ETV2. Circ Res. 2017 Mar 03; 120(5):848-861. PMID: [28003219](//www.ncbi.nlm.nih.gov/pubmed/28003219); PMCID: [PMC5336520](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5336520).
+
+Citations:
+
+  17. **Park IY** , Chowdhury P, Tripathi DN, Powell RT, [Dere R](https://profiles.viictr.org/profile/18892307), Terzo EA, Rathmell WK, [Walker CL](https://profiles.viictr.org/profile/17873538). Methylated a-tubulin antibodies recognize a new microtubule modification on mitotic microtubules. MAbs. 2016 Nov/Dec; 8(8):1590-1597. PMID: [27594515](//www.ncbi.nlm.nih.gov/pubmed/27594515); PMCID: [PMC5098444](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5098444).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27594515/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  18. **Park IY** , Powell RT, Tripathi DN, [Dere R](https://profiles.viictr.org/profile/18892307), Ho TH, Blasius TL, Chiang YC, Davis IJ, Fahey CC, Hacker KE, Verhey KJ, [Bedford MT](https://profiles.viictr.org/profile/12582989), [Jonasch E](https://profiles.viictr.org/profile/12582637), Rathmell WK, [Walker CL](https://profiles.viictr.org/profile/17873538). Dual Chromatin and Cytoskeletal Remodeling by SETD2. Cell. 2016 Aug 11; 166(4):950-962. PMID: [27518565](//www.ncbi.nlm.nih.gov/pubmed/27518565); PMCID: [PMC5101839](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5101839).
+
+Citations:
+[86](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27518565/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  19. Sowers JL, Mirfattah B, Xu P, Tang H, **Park IY** , [Walker C](https://profiles.viictr.org/profile/17873538), Wu P, Laezza F, Sowers LC, Zhang K. Quantification of histone modifications by parallel-reaction monitoring: a method validation. Anal Chem. 2015 Oct 06; 87(19):10006-14. PMID: [26356480](//www.ncbi.nlm.nih.gov/pubmed/26356480); PMCID: [PMC7986961](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7986961).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26356480/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansAnimalsCells
+
+  20. Lee BK, Shen W, Lee J, Rhee C, Chung H, Kim KY, **Park IH** , Kim J. Tgif1 Counterbalances the Activity of Core Pluripotency Factors in Mouse Embryonic Stem Cells. Cell Rep. 2015 Oct 06; 13(1):52-60. PMID: [26411691](//www.ncbi.nlm.nih.gov/pubmed/26411691).
+
+Citations:
+
+  21. Ho TH, **Park IY** , Zhao H, Tong P, Champion MD, Yan H, [Monzon FA](https://profiles.viictr.org/profile/267110), Hoang A, [Tamboli P](https://profiles.viictr.org/profile/12582962), Parker AS, Joseph RW, Qiao W, Dykema K, [Tannir NM](https://profiles.viictr.org/profile/12583355), Castle EP, Nunez-Nateras R, Teh BT, Wang J, Walker CL, Hung MC, [Jonasch E](https://profiles.viictr.org/profile/12582637). High-resolution profiling of histone h3 lysine 36 trimethylation in metastatic renal cell carcinoma. Oncogene. 2016 Mar 24; 35(12):1565-74. PMID: [26073078](//www.ncbi.nlm.nih.gov/pubmed/26073078); PMCID: [PMC4679725](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4679725).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26073078/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansCells
+
+  22. Kwon YW, Paek JS, Cho HJ, Lee CS, Lee HJ, **Park IH** , Roh TY, Kang CM, Yang HM, Park YB, Kim HS. Role of Zscan4 in secondary murine iPSC derivation mediated by protein extracts of ESC or iPSC. Biomaterials. 2015 Aug; 59:102-15. PMID: [25956855](//www.ncbi.nlm.nih.gov/pubmed/25956855).
+
+Citations:
+
+  23. Dajani R, Koo SE, Sullivan GJ, **Park IH**. Investigation of Rett syndrome using pluripotent stem cells. J Cell Biochem. 2013 Nov; 114(11):2446-53. PMID: [23744605](//www.ncbi.nlm.nih.gov/pubmed/23744605); PMCID: [PMC3773984](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3773984).
+
+Citations:
+
+  24. Lee JB, Werbowetski-Ogilvie TE, Lee JH, McIntyre BA, Schnerch A, Hong SH, **Park IH** , Daley GQ, Bernstein ID, Bhatia M. Notch-HES1 signaling axis controls hemato-endothelial fate decisions of human embryonic and induced pluripotent stem cells. Blood. 2013 Aug 15; 122(7):1162-73. PMID: [23733337](//www.ncbi.nlm.nih.gov/pubmed/23733337).
+
+Citations:
+
+  25. Ge X, Ren Y, Bartulos O, Lee MY, Yue Z, Kim KY, Li W, Amos PJ, Bozkulak EC, Iyer A, Zheng W, Zhao H, Martin KA, Kotton DN, Tellides G, **Park IH** , Yue L, Qyang Y. Modeling supravalvular aortic stenosis syndrome with human induced pluripotent stem cells. Circulation. 2012 Oct 02; 126(14):1695-704. PMID: [22914687](//www.ncbi.nlm.nih.gov/pubmed/22914687); PMCID: [PMC3586776](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3586776).
+
+Citations:
+
+  26. International Stem Cell Initiative, Amps K, Andrews PW, Anyfantis G, Armstrong L, Avery S, Baharvand H, Baker J, Baker D, Munoz MB, Beil S, Benvenisty N, Ben-Yosef D, Biancotti JC, Bosman A, Brena RM, Brison D, Caisander G, Camarasa MV, Chen J, Chiao E, Choi YM, Choo AB, Collins D, Colman A, Crook JM, Daley GQ, Dalton A, De Sousa PA, Denning C, Downie J, Dvorak P, Montgomery KD, Feki A, Ford A, Fox V, Fraga AM, Frumkin T, Ge L, Gokhale PJ, Golan-Lev T, Gourabi H, Gropp M, Lu G, Hampl A, Harron K, Healy L, Herath W, Holm F, Hovatta O, Hyllner J, Inamdar MS, Irwanto AK, Ishii T, Jaconi M, Jin Y, Kimber S, Kiselev S, Knowles BB, Kopper O, Kukharenko V, Kuliev A, Lagarkova MA, Laird PW, Lako M, Laslett AL, Lavon N, Lee DR, Lee JE, Li C, Lim LS, Ludwig TE, Ma Y, Maltby E, Mateizel I, Mayshar Y, Mileikovsky M, Minger SL, Miyazaki T, Moon SY, Moore H, Mummery C, Nagy A, Nakatsuji N, Narwani K, Oh SK, Oh SK, Olson C, Otonkoski T, Pan F, **Park IH** , Pells S, Pera MF, Pereira LV, Qi O, Raj GS, Reubinoff B, Robins A, Robson P, Rossant J, Salekdeh GH, Schulz TC, Sermon K, Sheik Mohamed J, Shen H, Sherrer E, Sidhu K, Sivarajah S, Skottman H, Spits C, Stacey GN, Strehl R, Strelchenko N, Suemori H, Sun B, Suuronen R, Takahashi K, Tuuri T, Venu P, Verlinsky Y, Ward-van Oostwaard D, Weisenberger DJ, Wu Y, Yamanaka S, Young L, Zhou Q. Screening ethnically diverse human embryonic stem cells identifies a chromosome 20 minimal amplicon conferring growth advantage. Nat Biotechnol. 2011 Nov 27; 29(12):1132-44. PMID: [22119741](//www.ncbi.nlm.nih.gov/pubmed/22119741); PMCID: [PMC3454460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3454460).
+
+Citations:
+
+  27. Jang J, Kang HC, Kim HS, Kim JY, Huh YJ, Kim DS, Yoo JE, Lee JA, Lim B, Lee J, Yoon TM, **Park IH** , Hwang DY, Daley GQ, Kim DW. Induced pluripotent stem cell models from X-linked adrenoleukodystrophy patients. Ann Neurol. 2011 Sep; 70(3):402-9. PMID: [21721033](//www.ncbi.nlm.nih.gov/pubmed/21721033).
+
+Citations:
+
+  28. Jin J, Kwon YW, Paek JS, Cho HJ, Yu J, Lee JY, Chu IS, **Park IH** , Park YB, Kim HS, Kim Y. Analysis of differential proteomes of induced pluripotent stem cells by protein-based reprogramming of fibroblasts. J Proteome Res. 2011 Mar 04; 10(3):977-89. PMID: [21175196](//www.ncbi.nlm.nih.gov/pubmed/21175196).
+
+Citations:
+
+  29. Loewer S, Cabili MN, Guttman M, Loh YH, Thomas K, **Park IH** , Garber M, Curran M, Onder T, Agarwal S, Manos PD, Datta S, Lander ES, Schlaeger TM, Daley GQ, Rinn JL. Large intergenic non-coding RNA-RoR modulates reprogramming of human induced pluripotent stem cells. Nat Genet. 2010 Dec; 42(12):1113-7. PMID: [21057500](//www.ncbi.nlm.nih.gov/pubmed/21057500); PMCID: [PMC3040650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3040650).
+
+Citations:
+
+  30. Tolar J, **Park IH** , Xia L, Lees CJ, Peacock B, Webber B, McElmurry RT, Eide CR, Orchard PJ, Kyba M, Osborn MJ, Lund TC, Wagner JE, Daley GQ, Blazar BR. Hematopoietic differentiation of induced pluripotent stem cells from patients with mucopolysaccharidosis type I (Hurler syndrome). Blood. 2011 Jan 20; 117(3):839-47. PMID: [21037085](//www.ncbi.nlm.nih.gov/pubmed/21037085); PMCID: [PMC3035077](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3035077).
+
+Citations:
+
+  31. Kim DS, Lee JS, Leem JW, Huh YJ, Kim JY, Kim HS, **Park IH** , Daley GQ, Hwang DY, Kim DW. Robust enhancement of neural differentiation from human ES and iPS cells regardless of their innate difference in differentiation propensity. Stem Cell Rev Rep. 2010 Jun; 6(2):270-81. PMID: [20376579](//www.ncbi.nlm.nih.gov/pubmed/20376579).
+
+Citations:
+
+  32. Sohn BH, **Park IY** , Lee JJ, Yang SJ, Jang YJ, Park KC, Kim DJ, Lee DC, Sohn HA, Kim TW, Yoo HS, Choi JY, Bae YS, Yeom YI. Functional switching of TGF-beta1 signaling in liver cancer via epigenetic modulation of a single CpG site in TTP promoter. Gastroenterology. 2010 May; 138(5):1898-908. PMID: [20038433](//www.ncbi.nlm.nih.gov/pubmed/20038433).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20038433/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  33. Min SH, Kim DM, Kim MN, Ge J, Lee DC, **Park IY** , Park KC, Hwang JS, Cho CW, Yeom YI. Gene delivery using a derivative of the protein transduction domain peptide, K-Antp. Biomaterials. 2010 Mar; 31(7):1858-64. PMID: [19954838](//www.ncbi.nlm.nih.gov/pubmed/19954838).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19954838/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:AnimalsCells
+
+  34. Deng J, Shoemaker R, Xie B, Gore A, LeProust EM, Antosiewicz-Bourget J, Egli D, Maherali N, **Park IH** , Yu J, Daley GQ, Eggan K, Hochedlinger K, Thomson J, Wang W, Gao Y, Zhang K. Targeted bisulfite sequencing reveals changes in DNA methylation associated with nuclear reprogramming. Nat Biotechnol. 2009 Apr; 27(4):353-60. PMID: [19330000](//www.ncbi.nlm.nih.gov/pubmed/19330000); PMCID: [PMC2715272](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2715272).
+
+Citations:
+
+  35. Shon JK, Shon BH, **Park IY** , Lee SU, Fa L, Chang KY, Shin JH, Lee YI. Hepatitis B virus-X protein recruits histone deacetylase 1 to repress insulin-like growth factor binding protein 3 transcription. Virus Res. 2009 Jan; 139(1):14-21. PMID: [18948152](//www.ncbi.nlm.nih.gov/pubmed/18948152).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18948152/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  36. **Park IH** , Arora N, Huo H, Maherali N, Ahfeldt T, Shimamura A, Lensch MW, Cowan C, Hochedlinger K, Daley GQ. Disease-specific induced pluripotent stem cells. Cell. 2008 Sep 05; 134(5):877-86. PMID: [18691744](//www.ncbi.nlm.nih.gov/pubmed/18691744); PMCID: [PMC2633781](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2633781).
+
+Citations:
+
+  37. Lee DC, Kang YK, Kim WH, Jang YJ, Kim DJ, **Park IY** , Sohn BH, Sohn HA, Lee HG, Lim JS, Kim JW, Song EY, Kim DM, Lee MN, Oh GT, Kim SJ, Park KC, Yoo HS, Choi JY, Yeom YI. Functional and clinical evidence for NDRG2 as a candidate suppressor of liver cancer metastasis. Cancer Res. 2008 Jun 01; 68(11):4210-20. PMID: [18519680](//www.ncbi.nlm.nih.gov/pubmed/18519680).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18519680/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  38. **Park IH** , Zhao R, West JA, Yabuuchi A, Huo H, Ince TA, Lerou PH, Lensch MW, Daley GQ. Reprogramming of human somatic cells to pluripotency with defined factors. Nature. 2008 Jan 10; 451(7175):141-6. PMID: [18157115](//www.ncbi.nlm.nih.gov/pubmed/18157115).
+
+Citations:
+
+  39. **Park IY** , Sohn BH, Yu E, Suh DJ, Chung YH, Lee JH, Surzycki SJ, Lee YI. Aberrant epigenetic modifications in hepatocarcinogenesis induced by hepatitis B virus X protein. Gastroenterology. 2007 Apr; 132(4):1476-94. PMID: [17408664](//www.ncbi.nlm.nih.gov/pubmed/17408664).
+
+Citations:
+[116](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17408664/citedby/)
+Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  40. Yang I, **Park IY** , Jang SM, Shi LH, Ku HK, Park SR. Rapid quantification of DNA methylation through dNMP analysis following bisulfite-PCR. Nucleic Acids Res. 2006 May 05; 34(8):e61. PMID: [16679448](//www.ncbi.nlm.nih.gov/pubmed/16679448); PMCID: [PMC1458279](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1458279).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16679448/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  41. **Park IY** , Sohn BH, Choo JH, Joe CO, Seong JK, Lee YI, Chung JH. Deregulation of DNA methyltransferases and loss of parental methylation at the insulin-like growth factor II (Igf2)/H19 loci in p53 knockout mice prior to tumor development. J Cell Biochem. 2005 Feb 15; 94(3):585-96. PMID: [15543560](//www.ncbi.nlm.nih.gov/pubmed/15543560).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15543560/citedby/) Fields:
+
+Bio BiochemistryCel Cell Biology
+
+Translation:AnimalsCells
+
+  42. Yoon SW, **Park IY** , Sohn BH, Lee J, Yeo WH, Lee YI. A new compound from Micromonospora sp. SA246, 9-hydroxycrisamicin-A, activates hepatitis B virus replication. Biochem Biophys Res Commun. 2004 Jul 02; 319(3):859-65. PMID: [15184062](//www.ncbi.nlm.nih.gov/pubmed/15184062).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15184062/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansCells
+
+  43. Han YM, Kim SJ, Park JS, **Park IY** , Kang YK, Lee CS, Koo DB, Lee TH, Yu DY, Kim YH, Lee KJ, Lee KK. Blastocyst viability and generation of transgenic cattle following freezing of in vitro produced, DNA-injected embryos. Anim Reprod Sci. 2000 Oct 02; 63(1-2):53-63. PMID: [10967240](//www.ncbi.nlm.nih.gov/pubmed/10967240).
+
+Citations:  Fields:
+
+Rep Reproductive MedicineVet Veterinary MedicineZoo Zoology
+
+Translation:AnimalsCells
+
+  44. Koo DB, Kang YK, Choi YH, Park JS, Han SK, **Park IY** , Kim SU, Lee KK, Son DS, Chang WK, Han YM. In vitro development of reconstructed porcine oocytes after somatic cell nuclear transfer. Biol Reprod. 2000 Oct; 63(4):986-92. PMID: [10993818](//www.ncbi.nlm.nih.gov/pubmed/10993818).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10993818/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:AnimalsCells
+
+  45. Kim SJ, Sohn BH, Jeong S, Pak KW, Park JS, **Park IY** , Lee TH, Choi YH, Lee CS, Han YM, Yu DY, Lee KK. High-level expression of human lactoferrin in milk of transgenic mice using genomic lactoferrin sequence. J Biochem. 1999 Aug; 126(2):320-5. PMID: [10423524](//www.ncbi.nlm.nih.gov/pubmed/10423524).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10423524/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  46. Lee SW, **Park IY** , Hahn Y, Lee JE, Seong CS, Chung JH, Park YS. Cloning of mouse sepiapterin reductase gene and characterization of its promoter region. Biochim Biophys Acta. 1999 Apr 14; 1445(1):165-71. PMID: [10209270](//www.ncbi.nlm.nih.gov/pubmed/10209270).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10209270/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 46 publications over 20 distinct years, with a maximum of
+4 publications in 2015 and 2017 and
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,50,50,0,0,0,25,25,25,50,75,75,75,75,25,50,0,100,75,100,75,25,50,100,0,25,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1999| 2  
+2000| 2  
+2004| 1  
+2005| 1  
+2006| 1  
+2007| 2  
+2008| 3  
+2009| 3  
+2010| 3  
+2011| 3  
+2012| 1  
+2013| 2  
+2015| 4  
+2016| 3  
+2017| 4  
+2018| 3  
+2019| 1  
+2020| 2  
+2021| 4  
+2023| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+PARK's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (310)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Histone-Lysine N-Methyltransferase](https://profiles.viictr.org/profile/261541)
+  * [Microtubules](https://profiles.viictr.org/profile/257219)
+  * [Induced Pluripotent Stem Cells](https://profiles.viictr.org/profile/254079)
+  * [Histone Code](https://profiles.viictr.org/profile/247786)
+  * [Lysine](https://profiles.viictr.org/profile/263018)
+
+[Explore](https://profiles.viictr.org/profile/18892306/198)
+
+_
+
+Co-Authors (15)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [WALKER, CHERYL](https://profiles.viictr.org/profile/17873538)
+  * [DERE, RUHEE](https://profiles.viictr.org/profile/18892307)
+  * [JONASCH, ERIC](https://profiles.viictr.org/profile/12582637)
+  * [COARFA, CRISTIAN](https://profiles.viictr.org/profile/265668)
+  * [GRIMM, SANDRA](https://profiles.viictr.org/profile/35589914)
+
+[Explore](https://profiles.viictr.org/profile/18892306/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [BEDFORD, MARK T](https://profiles.viictr.org/profile/12582989)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [WALKER, CHERYL](https://profiles.viictr.org/profile/17873538)
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+
+[Explore](https://profiles.viictr.org/profile/18892306/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [FENG, QIN](https://profiles.viictr.org/profile/267850)
+  * [MAO, JIANQIANG](https://profiles.viictr.org/profile/269646)
+  * [MCCLENDON, LISA](https://profiles.viictr.org/profile/266065)
+  * [PEREIRA, FREDERICK](https://profiles.viictr.org/profile/269546)
+  * [SLAUGHTER, BARBARA](https://profiles.viictr.org/profile/269616)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

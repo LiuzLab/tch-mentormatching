@@ -1,0 +1,517 @@
+## SREEDHAR MANDAYAM
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O6o%2b5WTeIYbVRIzgrn7GPw%3d%3d&rnd=4dd6c263-1128-4d44-8bd1-914b65ec2260)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266378)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=266378&cachekey=5f159a56-53c4-4322-a4b4-1b67f014f7bc)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Mamlouk O, Strati P, Feng L, Sun R, Ayers A, Steiner RE, Nair R, Flowers C, Ramdial JL, Saini N, Srour SA, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Kebriaei P](https://profiles.viictr.org/profile/12582909), [Nastoupil LJ](https://profiles.viictr.org/profile/12583227), Rodriguez MA, [Shpall EJ](https://profiles.viictr.org/profile/12582631), [Nieto Y](https://profiles.viictr.org/profile/12582721), [Westin J](https://profiles.viictr.org/profile/12583859), [Neelapu SS](https://profiles.viictr.org/profile/12583042), **Mandayam S** , [Ahmed S](https://profiles.viictr.org/profile/12583951). Real-world analysis of safety and efficacy of CAR T-cell therapy in lymphoma patients with decreased kidney function. Br J Haematol. 2024 01; 204(1):e11-e16. PMID: [37822075](//www.ncbi.nlm.nih.gov/pubmed/37822075).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  2. Iorgulescu JB, Shaw LK, [Rashid A](https://profiles.viictr.org/profile/12583732), Rao P, **Mandayam S** , [Patel KP](https://profiles.viictr.org/profile/12583921), [Schmeler KM](https://profiles.viictr.org/profile/12583815), Yang RK, Msaouel P. M?llerian-Type Clear Cell Carcinoma of Donor Origin in a Male Patient with a Kidney Transplant: Ascertained by Molecular Testing. Curr Oncol. 2023 10 05; 30(10):9019-9027. PMID: [37887551](//www.ncbi.nlm.nih.gov/pubmed/37887551); PMCID: [PMC10605321](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10605321).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  3. Spitz EC, Dittmar HB, Lee VL, Bearden DL, Kalentar-Zadeh K, Moore LW, **Mandayam S**. Nutritional Management of Patients With Both Chronic Kidney Disease and Cancer. J Ren Nutr. 2023 09; 33(5):615-617. PMID: [37553059](//www.ncbi.nlm.nih.gov/pubmed/37553059).
+
+Citations:  Fields:
+
+Nep NephrologyNut Nutritional Sciences
+
+Translation:Humans
+
+  4. Perissinotti AJ, Bishop MR, Bubalo J, Geyer MB, Goodrich A, Howard SC, Kula J, **Mandayam S** , Cairo MS, Pui CH. Expert consensus guidelines for the prophylaxis and management of tumor lysis syndrome in the United States: Results of a modified Delphi panel. Cancer Treat Rev. 2023 Nov; 120:102603. PMID: [37579533](//www.ncbi.nlm.nih.gov/pubmed/37579533).
+
+Citations:  Fields:
+
+Ant Antineoplastic AgentsNeo Neoplasms
+
+  5. Carstens MH, Garc?a N, **Mandayam S** , [Workeneh B](https://profiles.viictr.org/profile/17440162), Pastora I, Calder?n C, Bertram KA, Correa D. Safety of Stromal Vascular Fraction Cell Therapy for Chronic Kidney Disease of Unknown Cause (Mesoamerican Nephropathy). Stem Cells Transl Med. 2023 01 30; 12(1):7-16. PMID: [36545894](//www.ncbi.nlm.nih.gov/pubmed/36545894); PMCID: [PMC9887091](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9887091).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36545894/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCellsCTClinical Trials
+
+  6. [Holliday MW](https://profiles.viictr.org/profile/22016600), Li Q, Bustamante EG, [Niu J](https://profiles.viictr.org/profile/17062687), Huang L, Espina IM, Dominguez JR, [Truong L](https://profiles.viictr.org/profile/267800), [Murray KO](https://profiles.viictr.org/profile/267299), Fan L, [Anumudu SJ](https://profiles.viictr.org/profile/17411387), [Shah M](https://profiles.viictr.org/profile/14348364), [Fischer RSB](https://profiles.viictr.org/profile/9833235), [Vangala C](https://profiles.viictr.org/profile/14348416), **Mandayam S** , Perez J, Pan JS, [Ali S](https://profiles.viictr.org/profile/22016469), [Awan AA](https://profiles.viictr.org/profile/22016599), [Sheikh-Hamad D](https://profiles.viictr.org/profile/266984). Potential Mechanisms Involved in Chronic Kidney Disease of Unclear Etiology. Clin J Am Soc Nephrol. 2022 09; 17(9):1293-1304. PMID: [35944911](//www.ncbi.nlm.nih.gov/pubmed/35944911); PMCID: [PMC9625092](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9625092).
+
+Citations:
+
+  7. Turcotte A, Achi S, Mamlouk O, **Mandayam S**. Electrolytes disturbances in cancer patients. Curr Opin Nephrol Hypertens. 2022 09 01; 31(5):425-434. PMID: [35894276](//www.ncbi.nlm.nih.gov/pubmed/35894276).
+
+Citations:
+
+  8. Strasma AK, Worrall H, [Vangala C](https://profiles.viictr.org/profile/14348416), Silva Cabrera RM, **Mandayam SA** , [Murray KO](https://profiles.viictr.org/profile/267299), [Fischer RSB](https://profiles.viictr.org/profile/9833235). Urinary Findings Among Adults and Children in a Region of Nicaragua Endemic for Mesoamerican Nephropathy. Kidney Int Rep. 2022 Feb; 7(2):327-329. PMID: [35155872](//www.ncbi.nlm.nih.gov/pubmed/35155872); PMCID: [PMC8820982](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8820982).
+
+Citations:
+
+  9. Mamlouk O, Nair R, Iyer SP, Edwards A, [Neelapu SS](https://profiles.viictr.org/profile/12583042), Steiner RE, Adkins SA, Hawkins M, Saini N, Devashish K, Strati P, **Mandayam S** , [Ahmed S](https://profiles.viictr.org/profile/12583951). Safety of CAR T-cell therapy in kidney transplant recipients. Blood. 2021 05 06; 137(18):2558-2562. PMID: [33512386](//www.ncbi.nlm.nih.gov/pubmed/33512386); PMCID: [PMC8109014](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8109014).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33512386/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  10. Strasma A, Coke H, Mamlouk O, Tchakarov A, **Mandayam S**. Lupus-Like Glomerulonephritis Associated With Regorafenib, a Multikinase Inhibitor. Kidney Med. 2021 Mar-Apr; 3(2):294-298. PMID: [33851126](//www.ncbi.nlm.nih.gov/pubmed/33851126); PMCID: [PMC8039408](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8039408).
+
+Citations:
+
+  11. [Workeneh BT](https://profiles.viictr.org/profile/17440162), **Mandayam S**. Promoting Peritoneal Dialysis Retention in Underserved Communities. Am J Med Sci. 2021 01; 361(1):1-2. PMID: [33422190](//www.ncbi.nlm.nih.gov/pubmed/33422190).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  12. [Fischer RSB](https://profiles.viictr.org/profile/9833235), Unrine JM, [Vangala C](https://profiles.viictr.org/profile/14348416), Sanderson WT, **Mandayam S** , [Murray KO](https://profiles.viictr.org/profile/267299). Evidence of nickel and other trace elements and their relationship to clinical findings in acute Mesoamerican Nephropathy: A case-control analysis. PLoS One. 2020; 15(11):e0240988. PMID: [33170853](//www.ncbi.nlm.nih.gov/pubmed/33170853); PMCID: [PMC7654766](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7654766).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33170853/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansPHPublic Health
+
+  13. [Abudayyeh A](https://profiles.viictr.org/profile/12583202), Song J, Abdelrahim M, Dahbour I, Page VD, [Zhou S](https://profiles.viictr.org/profile/12583201), [Shen C](https://profiles.viictr.org/profile/12582820), Zhao B, Pai RN, Amaram-Davila J, [Manzano JG](https://profiles.viictr.org/profile/12583970), George MC, [Yennu S](https://profiles.viictr.org/profile/12582651), **Mandayam SA** , [Nates JL](https://profiles.viictr.org/profile/12583031), Moss AH. Renal Replacement Therapy in Patients With Stage IV Cancer Admitted to the Intensive Care Unit With Acute Kidney Injury at a Comprehensive Cancer Center Was Not Associated With Survival. Am J Hosp Palliat Care. 2020 Sep; 37(9):707-715. PMID: [31986903](//www.ncbi.nlm.nih.gov/pubmed/31986903); PMCID: [PMC7363512](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7363512).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31986903/citedby/) Fields:
+
+Nur NursingPal Palliative Care
+
+Translation:Humans
+
+  14. **Mandayam S** , Tighiouart H, Madias NE, Adrogu? HJ. Osmotic and Nonosmotic Sodium Storage during Acute Hypertonic Sodium Loading. Am J Nephrol. 2019; 50(1):11-18. PMID: [31216539](//www.ncbi.nlm.nih.gov/pubmed/31216539).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31216539/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:HumansAnimals
+
+  15. [Zhang HH](https://profiles.viictr.org/profile/31362085), **Mandayam S** , [Niu J](https://profiles.viictr.org/profile/17062687), [Atmar RL](https://profiles.viictr.org/profile/268394), Wu E, Chen D, Zamani R, [Shah MK](https://profiles.viictr.org/profile/14348364), Cort?s-Penfield NW. Dialysis Catheter-related Bloodstream Infections in Patients Receiving Hemodialysis on an Emergency-only Basis: A Retrospective Cohort Analysis. Clin Infect Dis. 2019 03 05; 68(6):1011-1016. PMID: [29986016](//www.ncbi.nlm.nih.gov/pubmed/29986016); PMCID: [PMC6399430](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6399430).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29986016/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  16. [Fischer RSB](https://profiles.viictr.org/profile/9833235), [Vangala C](https://profiles.viictr.org/profile/14348416), **Mandayam S** , Chavarria D, Garcia F, Garcia LL, [Murray KO](https://profiles.viictr.org/profile/267299), Garc?a-Trabanino R. Clinical markers to predict progression from acute to chronic kidney disease in Mesoamerican nephropathy. Kidney Int. 2018 12; 94(6):1205-1216. PMID: [30466566](//www.ncbi.nlm.nih.gov/pubmed/30466566); PMCID: [PMC8719352](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8719352).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30466566/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  17. [Awan AA](https://profiles.viictr.org/profile/22016599), [Niu J](https://profiles.viictr.org/profile/17062687), Pan JS, [Erickson KF](https://profiles.viictr.org/profile/15318038), **Mandayam S** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Navaneethan SD](https://profiles.viictr.org/profile/14490839), [Ramanathan V](https://profiles.viictr.org/profile/267749). Trends in the Causes of Death among Kidney Transplant Recipients in the United States (1996-2014). Am J Nephrol. 2018; 48(6):472-481. PMID: [30472701](//www.ncbi.nlm.nih.gov/pubmed/30472701); PMCID: [PMC6347016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6347016).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30472701/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  18. [Venkatasubba Rao CP](https://profiles.viictr.org/profile/269920), [Bershad EM](https://profiles.viictr.org/profile/265920), Calvillo E, Maldonado N, [Damani R](https://profiles.viictr.org/profile/3009575), **Mandayam S** , Suarez JI. Real-time Noninvasive Monitoring of Intracranial Fluid Shifts During Dialysis Using Volumetric Integral Phase-Shift Spectroscopy (VIPS): A Proof-of-Concept Study. Neurocrit Care. 2018 02; 28(1):117-126. PMID: [28547320](//www.ncbi.nlm.nih.gov/pubmed/28547320).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28547320/citedby/) Fields:
+
+Cri Critical CareNeu Neurology
+
+Translation:Humans
+
+  19. [Navaneethan SD](https://profiles.viictr.org/profile/14490839), **Mandayam S**. Time to Look Beyond Obesity Metrics and Mortality in Kidney Disease. Kidney Int Rep. 2018 Mar; 3(2):244-246. PMID: [29725628](//www.ncbi.nlm.nih.gov/pubmed/29725628); PMCID: [PMC5932301](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5932301).
+
+Citations:
+
+  20. [Shah MK](https://profiles.viictr.org/profile/14348364), **Mandayam S** , Adrogu? HJ. Osmotic Demyelination Unrelated to Hyponatremia. Am J Kidney Dis. 2018 03; 71(3):436-440. PMID: [29277507](//www.ncbi.nlm.nih.gov/pubmed/29277507).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29277507/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  21. [Fischer RSB](https://profiles.viictr.org/profile/9833235), [Vangala C](https://profiles.viictr.org/profile/14348416), [Truong L](https://profiles.viictr.org/profile/267800), **Mandayam S** , Chavarria D, Granera Llanes OM, Fonseca Laguna MU, Guerra Baez A, Garcia F, [Murray KO](https://profiles.viictr.org/profile/267299), Garc?a-Trabanino R. Early detection of acute tubulointerstitial nephritis in the genesis of Mesoamerican nephropathy. Kidney Int. 2018 03; 93(3):681-690. PMID: [29162294](//www.ncbi.nlm.nih.gov/pubmed/29162294).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29162294/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  22. [Murray KO](https://profiles.viictr.org/profile/267299), Kolodziej S, [Ronca SE](https://profiles.viictr.org/profile/17678422), Gorchakov R, Navarro P, Nolan MS, Podoll A, Finkel K, **Mandayam S**. Visualization of West Nile Virus in Urine Sediment using Electron Microscopy and Immunogold up to Nine Years Postinfection. Am J Trop Med Hyg. 2017 Dec; 97(6):1913-1919. PMID: [29141749](//www.ncbi.nlm.nih.gov/pubmed/29141749); PMCID: [PMC5805063](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5805063).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29141749/citedby/) Fields:
+
+Tro Tropical Medicine
+
+Translation:HumansCells
+
+  23. Tong A, Manera KE, Chapman JR, Warrens AN, Rosenbloom D, Wong G, Gill J, Budde K, Rostaing L, Marson L, Josephson MA, Reese PP, Pruett TL, Hanson CS, O'Donoghue D, Tam-Tham H, Halimi JM, Shen JI, Kanellis J, Scandling JD, Howard K, Howell M, Cross N, Evangelidis N, Masson P, Oberbauer R, Fung S, Jesudason S, Knight S, **Mandayam S** , McDonald SP, Chadban S, Rajan T, Craig JC, Sautenet B. Developing Consensus-Based Priority Outcome Domains for Trials in Kidney Transplantation: A Multinational Delphi Survey With Patients, Caregivers, and Health Professionals. Transplantation. 2017 08; 101(8):1875-1886. PMID: [28738403](//www.ncbi.nlm.nih.gov/pubmed/28738403); PMCID: [PMC5603314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5603314).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28738403/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:Humans
+
+  24. [Fischer RSB](https://profiles.viictr.org/profile/9833235), **Mandayam S** , Chavarria D, [Vangala C](https://profiles.viictr.org/profile/14348416), Nolan MS, Garcia LL, Palma L, Garcia F, [Murray KO](https://profiles.viictr.org/profile/267299), Garc?a-Trabanino R. Clinical Evidence of Acute Mesoamerican Nephropathy. Am J Trop Med Hyg. 2017 Oct; 97(4):1247-1256. PMID: [28722618](//www.ncbi.nlm.nih.gov/pubmed/28722618); PMCID: [PMC5637619](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5637619).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28722618/citedby/) Fields:
+
+Tro Tropical Medicine
+
+Translation:Humans
+
+  25. **Mandayam S** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591). Worldwide Preparedness for Kidney Health Care. JAMA. 2017 05 09; 317(18):1838-1839. PMID: [28430831](//www.ncbi.nlm.nih.gov/pubmed/28430831).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28430831/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  26. Evangelidis N, Tong A, Manns B, Hemmelgarn B, [Wheeler DC](https://profiles.viictr.org/profile/266937), Tugwell P, Crowe S, Harris T, Van Biesen W, [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), Sautenet B, O'Donoghue D, Tam-Tham H, Youssouf S, **Mandayam S** , Ju A, Hawley C, Pollock C, Harris DC, Johnson DW, Rifkin DE, Tentori F, Agar J, Polkinghorne KR, Gallagher M, Kerr PG, McDonald SP, Howard K, Howell M, Craig JC, Standardized Outcomes in Nephrology?Hemodialysis (SONG-HD) Initiative. Developing a Set of Core Outcomes for Trials in Hemodialysis: An International Delphi Survey. Am J Kidney Dis. 2017 Oct; 70(4):464-475. PMID: [28238554](//www.ncbi.nlm.nih.gov/pubmed/28238554).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28238554/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  27. [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), Goldstein BA, Mitani AA, Ding VY, [Airy M](https://profiles.viictr.org/profile/15317930), **Mandayam S** , Chang TI, Brookhart MA, Fishbane S. Safety of Intravenous Iron in Hemodialysis: Longer-term Comparisons of Iron Sucrose Versus Sodium Ferric Gluconate Complex. Am J Kidney Dis. 2017 Jun; 69(6):771-779. PMID: [28063734](//www.ncbi.nlm.nih.gov/pubmed/28063734); PMCID: [PMC5441933](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5441933).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28063734/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  28. Tong A, Manns B, Hemmelgarn B, Wheeler DC, Evangelidis N, Tugwell P, Crowe S, Van Biesen W, [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), O'Donoghue D, Tam-Tham H, Shen JI, Pinter J, Larkins N, Youssouf S, **Mandayam S** , Ju A, Craig JC, SONG-HD Investigators. Establishing Core Outcome Domains in Hemodialysis: Report of the Standardized Outcomes in Nephrology-Hemodialysis (SONG-HD) Consensus Workshop. Am J Kidney Dis. 2017 Jan; 69(1):97-107. PMID: [27497527](//www.ncbi.nlm.nih.gov/pubmed/27497527); PMCID: [PMC5369351](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5369351).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27497527/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  29. Vasudevan DA, Northrup TF, **Mandayam S** , Bamidele OO, Stotts AL. Impact of Physician Training on Diagnosis and Counseling of Overweight and Obese Asian Patients. J Racial Ethn Health Disparities. 2017 06; 4(3):322-328. PMID: [27129859](//www.ncbi.nlm.nih.gov/pubmed/27129859).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27129859/citedby/) Fields:
+
+Epi EpidemiologyPub Public HealthSoc Social Sciences
+
+Translation:Humans
+
+  30. [Navaneethan SD](https://profiles.viictr.org/profile/14490839), **Mandayam S** , Arrigain S, Rahman M, [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), Schold JD. Obstructive and Restrictive Lung Function Measures and CKD: National Health and Nutrition Examination Survey (NHANES) 2007-2012. Am J Kidney Dis. 2016 09; 68(3):414-21. PMID: [27130720](//www.ncbi.nlm.nih.gov/pubmed/27130720); PMCID: [PMC5002238](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5002238).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27130720/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  31. [Murray KO](https://profiles.viictr.org/profile/267299), [Fischer RS](https://profiles.viictr.org/profile/9833235), Chavarria D, Garcia MN, Gorchakov R, [Hotez PJ](https://profiles.viictr.org/profile/266166), Leibler JH, [Lopez JE](https://profiles.viictr.org/profile/5807716), **Mandayam S** , Marin A, Duttmann C, Jiron W, Sheleby J. Mesoamerican nephropathy: a neglected tropical disease with an infectious etiology? Microbes Infect. 2015 Oct; 17(10):671-5. PMID: [26320026](//www.ncbi.nlm.nih.gov/pubmed/26320026).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26320026/citedby/) Fields:
+
+All Allergy and ImmunologyMic Microbiology
+
+Translation:HumansAnimalsPHPublic Health
+
+  32. [Airy M](https://profiles.viictr.org/profile/15317930), **Mandayam S** , Mitani AA, Chang TI, Ding VY, Brookhart MA, Goldstein BA, [Winkelmayer WC](https://profiles.viictr.org/profile/5714591). Comparative outcomes of predominant facility-level use of ferumoxytol versus other intravenous iron formulations in incident hemodialysis patients. Nephrol Dial Transplant. 2015 Dec; 30(12):2068-75. PMID: [26311216](//www.ncbi.nlm.nih.gov/pubmed/26311216); PMCID: [PMC4829057](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4829057).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26311216/citedby/) Fields:
+
+Nep NephrologyTra Transplantation
+
+Translation:Humans
+
+  33. Sangsiraprapha W, [Truong L](https://profiles.viictr.org/profile/267800), **Mandayam S**. ANCA-mediated crescentic glomerulonephritis with linear deposition of IgG along the glomerular basement membrane. Saudi J Kidney Dis Transpl. 2014 May; 25(3):634-7. PMID: [24821165](//www.ncbi.nlm.nih.gov/pubmed/24821165).
+
+Citations:  Fields:
+
+Nep NephrologyTra Transplantation
+
+Translation:HumansCells
+
+  34. Moore LW, Byham-Gray LD, Scott Parrott J, Rigassio-Radler D, **Mandayam S** , Jones SL, [Mitch WE](https://profiles.viictr.org/profile/270281), Osama Gaber A. The mean dietary protein intake at different stages of chronic kidney disease is higher than current guidelines. Kidney Int. 2013 Apr; 83(4):724-32. PMID: [23302719](//www.ncbi.nlm.nih.gov/pubmed/23302719).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23302719/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  35. Vasudevan D, Stotts A, Anabor OL, **Mandayam S**. Primary care physician's knowledge of ethnicity-specific guidelines for obesity diagnosis and readiness for obesity intervention among South Asian Indians. J Immigr Minor Health. 2012 Oct; 14(5):759-66. PMID: [22198060](//www.ncbi.nlm.nih.gov/pubmed/22198060).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22198060/citedby/) Fields:
+
+Pub Public HealthSoc Social Sciences
+
+Translation:Humans
+
+  36. Vasudevan D, Stotts AL, **Mandayam S** , Omegie LA. Comparison of BMI and anthropometric measures among South Asian Indians using standard and modified criteria. Public Health Nutr. 2011 May; 14(5):809-16. PMID: [21247513](//www.ncbi.nlm.nih.gov/pubmed/21247513).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21247513/citedby/) Fields:
+
+Nut Nutritional SciencesPub Public Health
+
+Translation:Humans
+
+  37. **Mandayam S** , Shahinian VB. Are chronic dialysis patients at increased risk for cancer? J Nephrol. 2008 Mar-Apr; 21(2):166-74. PMID: [18446710](//www.ncbi.nlm.nih.gov/pubmed/18446710).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18446710/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  38. Taneja S, **Mandayam S** , Kayani ZZ, Kuo YF, Shahinian VB. Comparison of stage at diagnosis of cancer in patients who are on dialysis versus the general population. Clin J Am Soc Nephrol. 2007 Sep; 2(5):1008-13. PMID: [17702737](//www.ncbi.nlm.nih.gov/pubmed/17702737); PMCID: [PMC2222550](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2222550).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17702737/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  39. Chiou SK, **Mandayam S**. NSAIDs enhance proteasomic degradation of survivin, a mechanism of gastric epithelial cell injury and apoptosis. Biochem Pharmacol. 2007 Nov 15; 74(10):1485-95. PMID: [17727822](//www.ncbi.nlm.nih.gov/pubmed/17727822).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17727822/citedby/) Fields:
+
+Bio BiochemistryPha Pharmacology
+
+Translation:AnimalsCells
+
+  40. **Mandayam S** , [Mitch WE](https://profiles.viictr.org/profile/270281). Dietary protein restriction benefits patients with chronic kidney disease. Nephrology (Carlton). 2006 Feb; 11(1):53-7. PMID: [16509933](//www.ncbi.nlm.nih.gov/pubmed/16509933).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16509933/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  41. **Mandayam S** , [Mitch WE](https://profiles.viictr.org/profile/270281). Is cystatin C more effective than creatinine in predicting adverse cardiovascular outcomes in elderly people? Nat Clin Pract Nephrol. 2005 Nov; 1(1):8-9. PMID: [16932354](//www.ncbi.nlm.nih.gov/pubmed/16932354).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+  42. **Mandayam S** , Ahuja TS. Dialyzing a patient with human immunodeficiency virus infection: what a nephrologist needs to know. Am J Nephrol. 2004 Sep-Oct; 24(5):511-21. PMID: [15452404](//www.ncbi.nlm.nih.gov/pubmed/15452404).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15452404/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 42 publications over 18 distinct years, with a maximum of
+9 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,11,11,11,22,11,0,0,11,11,11,11,22,33,100,33,22,33,33,22,56,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 1  
+2005| 1  
+2006| 1  
+2007| 2  
+2008| 1  
+2011| 1  
+2012| 1  
+2013| 1  
+2014| 1  
+2015| 2  
+2016| 3  
+2017| 9  
+2018| 3  
+2019| 2  
+2020| 3  
+2021| 3  
+2022| 2  
+2023| 5  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MANDAYAM's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (207)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Renal Insufficiency, Chronic](https://profiles.viictr.org/profile/261810)
+  * [Kidney Failure, Chronic](https://profiles.viictr.org/profile/247791)
+  * [Water-Electrolyte Imbalance](https://profiles.viictr.org/profile/249098)
+  * [Renal Dialysis](https://profiles.viictr.org/profile/256634)
+  * [Acid-Base Imbalance](https://profiles.viictr.org/profile/255248)
+
+[Explore](https://profiles.viictr.org/profile/266378/198)
+
+_
+
+Co-Authors (44)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [MURRAY, KRISTY](https://profiles.viictr.org/profile/267299)
+  * [WINKELMAYER, WOLFGANG](https://profiles.viictr.org/profile/5714591)
+  * [FISCHER, REBECCA](https://profiles.viictr.org/profile/9833235)
+  * [WORKENEH, BIRUH T](https://profiles.viictr.org/profile/17440162)
+  * [NAVANEETHAN, SANKAR](https://profiles.viictr.org/profile/14490839)
+
+[Explore](https://profiles.viictr.org/profile/266378/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [WINKELMAYER, WOLFGANG](https://profiles.viictr.org/profile/5714591)
+  * [NAVANEETHAN, SANKAR](https://profiles.viictr.org/profile/14490839)
+  * [ERICKSON, KEVIN](https://profiles.viictr.org/profile/15318038)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+
+[Explore](https://profiles.viictr.org/profile/266378/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AWAN, AHMED](https://profiles.viictr.org/profile/22016599)
+  * [GRAND, ALEXANDRA](https://profiles.viictr.org/profile/38131157)
+  * [HYINK, DEBORAH](https://profiles.viictr.org/profile/269330)
+  * [RAGHAVAN, RAJEEV](https://profiles.viictr.org/profile/268946)
+  * [WEINMAN, EDWARD](https://profiles.viictr.org/profile/15317913)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [HARIHARAN, RAMESH](https://profiles.viictr.org/profile/269559)
+  * [JACOBSON, STUART](https://profiles.viictr.org/profile/266086)
+  * [KLEIMAN, NEAL](https://profiles.viictr.org/profile/267822)
+  * [PUTTAPPA, RUPA](https://profiles.viictr.org/profile/265812)
+  * [WEINBERG, ARMIN](https://profiles.viictr.org/profile/268624)
+
+_
+

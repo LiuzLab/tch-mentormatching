@@ -1,0 +1,422 @@
+## ASHOK THERUVATH
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiology  
+Address| 6621 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F7g47m6JFIPwVJr74W%2fKCraPKl%2bPkzA%3d&rnd=316a8857-4021-405a-9437-5831cf88b92f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=38246208)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Wang YJ, Qu L, Sheybani ND, Luo X, Wang J, Hawk KE, **Theruvath AJ** , Gatidis S, Xiao X, Pribnow A, Rubin D, Daldrup-Link HE. AI Transformers for Radiation Dose Reduction in Serial Whole-Body PET Scans. Radiol Artif Intell. 2023 May; 5(3):e220246. PMID: [37293349](//www.ncbi.nlm.nih.gov/pubmed/37293349); PMCID: [PMC10245181](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10245181).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37293349/citedby/)
+
+  2. Suryadevara V, Hajipour MJ, Adams LC, Aissaoui NM, Rashidi A, Kiru L, **Theruvath AJ** , Huang CH, Maruyama M, Tsubosaka M, Lyons JK, Wu WE, Roudi R, Goodman SB, Daldrup-Link HE. MegaPro, a clinically translatable nanoparticle for in vivo tracking of stem cell implants in pig cartilage defects. Theranostics. 2023; 13(8):2710-2720. PMID: [37215574](//www.ncbi.nlm.nih.gov/pubmed/37215574); PMCID: [PMC10196837](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10196837).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37215574/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular BiologyNan NanotechnologyThe Therapeutics
+
+Translation:AnimalsCells
+
+  3. Rashidi A, Baratto L, **Theruvath AJ** , Greene EB, Jayapal P, Hawk KE, Lu R, Seekins J, Spunt SL, Pribnow A, Daldrup-Link HE. Improved Detection of Bone Metastases in Children and Young Adults with Ferumoxytol-enhanced MRI. Radiol Imaging Cancer. 2023 03; 5(2):e220080. PMID: [36999999](//www.ncbi.nlm.nih.gov/pubmed/36999999); PMCID: [PMC10077085](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10077085).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36999999/citedby/) Fields:
+
+Neo NeoplasmsRad Radiology
+
+Translation:HumansCTClinical Trials
+
+  4. Baratto L, Nyalakonda R, **Theruvath AJ** , Sarrami AH, Hawk KE, Rashidi A, Shen S, States L, Aboian M, Jeng M, Daldrup-Link HE. Comparison of whole-body DW-MRI with 2-[18F]FDG PET for staging and treatment monitoring of children with Langerhans cell histiocytosis. Eur J Nucl Med Mol Imaging. 2023 05; 50(6):1689-1698. PMID: [36717409](//www.ncbi.nlm.nih.gov/pubmed/36717409); PMCID: [PMC10121877](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10121877).
+
+Citations:  Fields:
+
+Nuc Nuclear MedicinePhy Physics
+
+Translation:Humans
+
+  5. Wang YJ, Wang P, Adams LC, Sheybani ND, Qu L, Sarrami AH, **Theruvath AJ** , Gatidis S, Ho T, Zhou Q, Pribnow A, Thakor AS, Rubin D, Daldrup-Link HE. Low-count whole-body PET/MRI restoration: an evaluation of dose reduction spectrum and five state-of-the-art artificial intelligence models. Eur J Nucl Med Mol Imaging. 2023 04; 50(5):1337-1350. PMID: [36633614](//www.ncbi.nlm.nih.gov/pubmed/36633614); PMCID: [PMC10387227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10387227).
+
+Citations:  Fields:
+
+Nuc Nuclear MedicinePhy Physics
+
+Translation:Humans
+
+  6. Wu WE, Chang E, Jin L, Liu S, Huang CH, Kamal R, Liang T, Aissaoui NM, **Theruvath AJ** , Pisani L, Moseley M, Stoyanova T, Paulmurugan R, Huang J, Mitchell DA, Daldrup-Link HE. Multimodal In Vivo Tracking of Chimeric Antigen Receptor T Cells in Preclinical Glioblastoma Models. Invest Radiol. 2023 06 01; 58(6):388-395. PMID: [36729074](//www.ncbi.nlm.nih.gov/pubmed/36729074); PMCID: [PMC10164035](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10164035).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36729074/citedby/) Fields:
+
+Rad Radiology
+
+Translation:HumansAnimalsCells
+
+  7. Rashidi A, Baratto L, Jayapal P, **Theruvath AJ** , Greene EB, Lu R, Spunt SL, Daldrup-Link HE. Detection of bone marrow metastases in children and young adults with solid cancers with diffusion-weighted MRI. Skeletal Radiol. 2023 Jun; 52(6):1179-1192. PMID: [36441237](//www.ncbi.nlm.nih.gov/pubmed/36441237); PMCID: [PMC10757820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10757820).
+
+Citations:  Fields:
+
+Ort OrthopedicsRad Radiology
+
+Translation:Humans
+
+  8. Rashidi A, **Theruvath AJ** , Huang CH, Wu W, Mahmoud EE, Jesu Raj JG, Marycz K, Daldrup-Link HE. Vascular injury of immature epiphyses impair stem cell engraftment in cartilage defects. Sci Rep. 2022 07 09; 12(1):11696. PMID: [35810189](//www.ncbi.nlm.nih.gov/pubmed/35810189); PMCID: [PMC9271080](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9271080).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  9. Jung KO, **Theruvath AJ** , Nejadnik H, Liu A, Xing L, Sulchek T, Daldrup-Link HE, Pratx G. Mechanoporation enables rapid and efficient radiolabeling of stem cells for PET imaging. Sci Rep. 2022 02 22; 12(1):2955. PMID: [35194089](//www.ncbi.nlm.nih.gov/pubmed/35194089); PMCID: [PMC8863797](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8863797).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  10. Rashidi A, Baratto L, **Theruvath AJ** , Greene EB, Hawk KE, Lu R, Link MP, Spunt SL, Daldrup-Link HE. Diagnostic Accuracy of 2-[18F]FDG-PET and whole-body DW-MRI for the detection of bone marrow metastases in children and young adults. Eur Radiol. 2022 Jul; 32(7):4967-4979. PMID: [35099603](//www.ncbi.nlm.nih.gov/pubmed/35099603); PMCID: [PMC9232918](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9232918).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  11. **Theruvath AJ** , Siedek F, Yerneni K, Muehe AM, Spunt SL, Pribnow A, Moseley M, Lu Y, Zhao Q, Gulaka P, Chaudhari A, Daldrup-Link HE. Validation of Deep Learning-based Augmentation for Reduced 18F-FDG Dose for PET/MRI in Children and Young Adults with Lymphoma. Radiol Artif Intell. 2021 Nov; 3(6):e200232. PMID: [34870211](//www.ncbi.nlm.nih.gov/pubmed/34870211); PMCID: [PMC8637226](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8637226).
+
+Citations:
+
+  12. **Theruvath AJ** , Rashidi A, Nyalakonda RR, Avedian RS, Steffner RJ, Spunt SL, Daldrup-Link HE. Ferumoxytol magnetic resonance imaging detects joint and pleural infiltration of bone sarcomas in pediatric and young adult patients. Pediatr Radiol. 2021 12; 51(13):2521-2529. PMID: [34410452](//www.ncbi.nlm.nih.gov/pubmed/34410452); PMCID: [PMC8602726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8602726).
+
+Citations:  Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  13. Daldrup-Link HE, **Theruvath AJ** , Rashidi A, Iv M, Majzner RG, Spunt SL, Goodman S, Moseley M. How to stop using gadolinium chelates for magnetic resonance imaging: clinical-translational experiences with ferumoxytol. Pediatr Radiol. 2022 Feb; 52(2):354-366. PMID: [34046709](//www.ncbi.nlm.nih.gov/pubmed/34046709); PMCID: [PMC8626538](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8626538).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34046709/citedby/) Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  14. Daldrup-Link HE, **Theruvath AJ** , Baratto L, Hawk KE. One-stop local and whole-body staging of children with cancer. Pediatr Radiol. 2022 Feb; 52(2):391-400. PMID: [33929564](//www.ncbi.nlm.nih.gov/pubmed/33929564); PMCID: [PMC10874282](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10874282).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33929564/citedby/) Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  15. **Theruvath AJ** , Mahmoud EE, Wu W, Nejadnik H, Kiru L, Liang T, Felt S, Daldrup-Link HE. Ascorbic Acid and Iron Supplement Treatment Improves Stem Cell-Mediated Cartilage Regeneration in a Minipig Model. Am J Sports Med. 2021 06; 49(7):1861-1870. PMID: [33872071](//www.ncbi.nlm.nih.gov/pubmed/33872071); PMCID: [PMC8177720](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8177720).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33872071/citedby/) Fields:
+
+Spo Sports Medicine
+
+Translation:AnimalsCells
+
+  16. Wang YJ, Baratto L, Hawk KE, **Theruvath AJ** , Pribnow A, Thakor AS, Gatidis S, Lu R, Gummidipundi SE, Garcia-Diaz J, Rubin D, Daldrup-Link HE. Artificial intelligence enables whole-body positron emission tomography scans with minimal radiation exposure. Eur J Nucl Med Mol Imaging. 2021 08; 48(9):2771-2781. PMID: [33527176](//www.ncbi.nlm.nih.gov/pubmed/33527176); PMCID: [PMC8266729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8266729).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33527176/citedby/) Fields:
+
+Nuc Nuclear MedicinePhy Physics
+
+Translation:HumansPHPublic Health
+
+  17. **Theruvath AJ** , Aghighi M, Iv M, Nejadnik H, Lavezo J, Pisani LJ, Daldrup-Link HE. Brain iron deposition after Ferumoxytol-enhanced MRI: A study of Porcine Brains. Nanotheranostics. 2020; 4(4):195-200. PMID: [32637297](//www.ncbi.nlm.nih.gov/pubmed/32637297); PMCID: [PMC7332795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7332795).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32637297/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:Animals
+
+  18. Muehe AM, Yerneni K, **Theruvath AJ** , Thakor AS, Pribnow A, Avedian R, Steffner R, Rosenberg J, Hawk KE, Daldrup-Link HE. Ferumoxytol Does Not Impact Standardized Uptake Values on PET/MR Scans. Mol Imaging Biol. 2020 06; 22(3):722-729. PMID: [31325083](//www.ncbi.nlm.nih.gov/pubmed/31325083); PMCID: [PMC6980446](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6980446).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31325083/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular Biology
+
+Translation:Humans
+
+  19. Nejadnik H, Jung KO, **Theruvath AJ** , Kiru L, Liu A, Wu W, Sulchek T, Pratx G, Daldrup-Link HE. Instant labeling of therapeutic cells for multimodality imaging. Theranostics. 2020; 10(13):6024-6034. PMID: [32483435](//www.ncbi.nlm.nih.gov/pubmed/32483435); PMCID: [PMC7255004](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7255004).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32483435/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular BiologyNan NanotechnologyThe Therapeutics
+
+Translation:AnimalsCells
+
+  20. **Theruvath AJ** , Siedek F, Muehe AM, Garcia-Diaz J, Kirchner J, Martin O, Link MP, Spunt S, Pribnow A, Rosenberg J, Herrmann K, Gatidis S, Sch?fer JF, Moseley M, Umutlu L, Daldrup-Link HE. Therapy Response Assessment of Pediatric Tumors with Whole-Body Diffusion-weighted MRI and FDG PET/MRI. Radiology. 2020 07; 296(1):143-151. PMID: [32368961](//www.ncbi.nlm.nih.gov/pubmed/32368961); PMCID: [PMC7325702](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7325702).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32368961/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  21. Muehe AM, Siedek F, **Theruvath AJ** , Seekins J, Spunt SL, Pribnow A, Hazard FK, Liang T, Daldrup-Link H. Differentiation of benign and malignant lymph nodes in pediatric patients on ferumoxytol-enhanced PET/MRI. Theranostics. 2020; 10(8):3612-3621. PMID: [32206111](//www.ncbi.nlm.nih.gov/pubmed/32206111); PMCID: [PMC7069081](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7069081).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32206111/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular BiologyNan NanotechnologyThe Therapeutics
+
+Translation:HumansCTClinical Trials
+
+  22. Siedek F, Muehe AM, **Theruvath AJ** , Avedian R, Pribnow A, Spunt SL, Liang T, Farrell C, Daldrup-Link HE. Comparison of ferumoxytol- and gadolinium chelate-enhanced MRI for assessment of sarcomas in children and adolescents. Eur Radiol. 2020 Mar; 30(3):1790-1803. PMID: [31844962](//www.ncbi.nlm.nih.gov/pubmed/31844962); PMCID: [PMC7035151](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7035151).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31844962/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  23. **Theruvath AJ** , Nejadnik H, Lenkov O, Yerneni K, Li K, Kuntz L, Wolterman C, Tuebel J, Burgkart R, Liang T, Felt S, Daldrup-Link HE. Tracking Stem Cell Implants in Cartilage Defects of Minipigs by Using Ferumoxytol-enhanced MRI. Radiology. 2019 07; 292(1):129-137. PMID: [31063081](//www.ncbi.nlm.nih.gov/pubmed/31063081); PMCID: [PMC6614913](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6614913).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31063081/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  24. Staatz G, Daldrup-Link HE, Herrmann J, Hirsch FW, Seehofnerova A, Sorantin E, **Theruvath AJ** , Sch?fer JF, Lollert A. [From Xrays to PET/MR, and then? - Future imaging in pediatric radiology]. Rofo. 2019 04; 191(4):357-366. PMID: [30897652](//www.ncbi.nlm.nih.gov/pubmed/30897652).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingNuc Nuclear MedicineRad Radiology
+
+Translation:Humans
+
+  25. **Theruvath AJ** , Nejadnik H, Muehe AM, Gassert F, Lacayo NJ, Goodman SB, Daldrup-Link HE. Tracking Cell Transplants in Femoral Osteonecrosis with Magnetic Resonance Imaging: A Proof-of-Concept Study in Patients. Clin Cancer Res. 2018 12 15; 24(24):6223-6229. PMID: [30224340](//www.ncbi.nlm.nih.gov/pubmed/30224340); PMCID: [PMC6295241](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6295241).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30224340/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  26. Aghighi M, **Theruvath AJ** , Pareek A, Pisani LL, Alford R, Muehe AM, Sethi TK, Holdsworth SJ, Hazard FK, Gratzinger D, Luna-Fineman S, Advani R, Spunt SL, Daldrup-Link HE. Magnetic Resonance Imaging of Tumor-Associated Macrophages: Clinical Translation. Clin Cancer Res. 2018 09 01; 24(17):4110-4118. PMID: [29764855](//www.ncbi.nlm.nih.gov/pubmed/29764855); PMCID: [PMC6125171](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6125171).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29764855/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  27. Muehe AM, **Theruvath AJ** , Lai L, Aghighi M, Quon A, Holdsworth SJ, Wang J, Luna-Fineman S, Marina N, Advani R, Rosenberg J, Daldrup-Link HE. How to Provide Gadolinium-Free PET/MR Cancer Staging of Children and Young Adults in Less than 1?h: the Stanford Approach. Mol Imaging Biol. 2018 04; 20(2):324-335. PMID: [28721605](//www.ncbi.nlm.nih.gov/pubmed/28721605); PMCID: [PMC5773418](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5773418).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28721605/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular Biology
+
+Translation:Humans
+
+  28. Aghighi M, Pisani L, **Theruvath AJ** , Muehe AM, Donig J, Khan R, Holdsworth SJ, Kambham N, Concepcion W, Grimm PC, Daldrup-Link HE. Ferumoxytol Is Not Retained in Kidney Allografts in Patients Undergoing Acute Rejection. Mol Imaging Biol. 2018 02; 20(1):139-149. PMID: [28411307](//www.ncbi.nlm.nih.gov/pubmed/28411307); PMCID: [PMC6391060](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6391060).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28411307/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular Biology
+
+Translation:Humans
+
+  29. Pareek A, Muehe AM, **Theruvath AJ** , Gulaka PK, Spunt SL, Daldrup-Link HE. Whole-body PET/MRI of Pediatric Patients: The Details That Matter. J Vis Exp. 2017 12 19; (130). PMID: [29286486](//www.ncbi.nlm.nih.gov/pubmed/29286486); PMCID: [PMC5755621](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5755621).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29286486/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Humans
+
+  30. **Theruvath AJ** , Ilivitzki A, Muehe A, Theruvath J, Gulaka P, Kim C, Luna-Fineman S, Sakamoto KM, Yeom KW, Yang P, Moseley M, Chan F, Daldrup-Link HE. A PET/MR Imaging Approach for the Integrated Assessment of Chemotherapy-induced Brain, Heart, and Bone Injuries in Pediatric Cancer Survivors: A Pilot Study. Radiology. 2017 12; 285(3):971-979. PMID: [28777701](//www.ncbi.nlm.nih.gov/pubmed/28777701); PMCID: [PMC5708284](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5708284).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28777701/citedby/) Fields:
+
+Rad Radiology
+
+Translation:HumansCTClinical Trials
+
+  31. **Theruvath AJ** , Sukerkar PA, Bao S, Rosenberg J, Luna-Fineman S, Kharbanda S, Daldrup-Link HE. Bone marrow oedema predicts bone collapse in paediatric and adolescent leukaemia patients with corticosteroid-induced osteonecrosis. Eur Radiol. 2018 Jan; 28(1):410-417. PMID: [28726121](//www.ncbi.nlm.nih.gov/pubmed/28726121); PMCID: [PMC5718952](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5718952).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28726121/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  32. Moltz JH, Meine H, Geisler B, D'Anastasi M, Dos Santos DP, **Theruvath AJ** , Hahn HK, Heckel F, Kie?ling A. On the evaluation of segmentation editing tools. J Med Imaging (Bellingham). 2014 Oct; 1(3):034005. PMID: [26158063](//www.ncbi.nlm.nih.gov/pubmed/26158063); PMCID: [PMC4478728](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4478728).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26158063/citedby/)
+
+  33. Damman J, Hoeger S, Boneschansker L, **Theruvath A** , Waldherr R, Leuvenink HG, Ploeg RJ, Yard BA, Seelen MA. Targeting complement activation in brain-dead donors improves renal function after transplantation. Transpl Immunol. 2011 May; 24(4):233-7. PMID: [21440065](//www.ncbi.nlm.nih.gov/pubmed/21440065).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21440065/citedby/) Fields:
+
+All Allergy and ImmunologyTra Transplantation
+
+Translation:HumansAnimalsCells
+
+  34. Yuan X, **Theruvath AJ** , Ge X, Floerchinger B, Jurisch A, Tullius SG, Garc?a-Carde?a G. Machine perfusion or cold storage in organ transplantation: indication, mechanisms, and future perspectives. Transpl Int. 2010 Jun; 23(6):561-70. PMID: [20074082](//www.ncbi.nlm.nih.gov/pubmed/20074082).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20074082/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 34 publications over 10 distinct years, with a maximum of
+6 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,17,0,0,17,0,0,50,67,50,83,100,83,83,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2010| 1  
+2011| 1  
+2014| 1  
+2017| 3  
+2018| 4  
+2019| 3  
+2020| 5  
+2021| 6  
+2022| 5  
+2023| 5  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+THERUVATH's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (139)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Ferrosoferric Oxide](https://profiles.viictr.org/profile/244271)
+  * [Magnetic Resonance Imaging](https://profiles.viictr.org/profile/245806)
+  * [Positron-Emission Tomography](https://profiles.viictr.org/profile/248540)
+  * [Contrast Media](https://profiles.viictr.org/profile/258175)
+  * [Cartilage, Articular](https://profiles.viictr.org/profile/259080)
+
+[Explore](https://profiles.viictr.org/profile/38246208/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [MACAPINLAC, HOMER A](https://profiles.viictr.org/profile/12582999)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [MAWLAWI, OSAMA](https://profiles.viictr.org/profile/12582618)
+
+[Explore](https://profiles.viictr.org/profile/38246208/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BOTELHO, MARCOS](https://profiles.viictr.org/profile/30445218)
+  * [GHAGHADA, KETANKUMAR](https://profiles.viictr.org/profile/268527)
+  * [MONTGOMERY, MARK](https://profiles.viictr.org/profile/40068932)
+  * [MURPHY, PAUL](https://profiles.viictr.org/profile/267419)
+  * [RIZVI, SYED](https://profiles.viictr.org/profile/41782276)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqNFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

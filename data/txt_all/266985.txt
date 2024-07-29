@@ -1,0 +1,1262 @@
+## JIANMING XU
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=PLMlwWfELcXwQpo%3d&rnd=8f32d2af-2377-4f18-8503-99dd8f7c6dc0)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266985)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=266985&cachekey=00ed8bc4-ae4c-46d7-995b-09900d7f0e53)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R21DE033147 (FAKHOURI, WALID D.)Aug 1, 2023 - Jul 31, 2025NIH  
+The function of TWIST1 acetylation in cell fate and tissue development  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R21CA267006 (XU, JIANMING)Jan 1, 2022 - Dec 31, 2024NIH  
+The primary role of low NCOA6 expression in the prostate cancer disparity
+among African American men  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01CA193455 (XU, JIANMING)Dec 1, 2015 - Nov 30, 2021NIH  
+NCOA6, A Novel Tumor Suppressor of Endometrial Cancer  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01CA119689 (XU, JIANMING)Jul 8, 2005 - Apr 30, 2012NIH  
+Role of AIB3 in Mammary Gland and Breast Cancer  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01CA112403 (XU, JIANMING)Dec 1, 2004 - Mar 31, 2019NIH  
+The Role of SRC-1 in Breast Cancer  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01DK058242 (XU, JIANMING)Sep 15, 2000 - May 31, 2015NIH  
+Roles of SRC-3 in Development and Disease  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32CA068676 (XU, JIANMING)Jan 2, 1996NIH  
+STAGE SPECIFIC EXPRESSION OF ONCOGENE AND BREAST CANCER  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Qin L, Wu YL, Toneff MJ, Li D, [Liao L](https://profiles.viictr.org/profile/268314), Gao X, Bane FT, Tien JC, Xu Y, Feng Z, Yang Z, Xu Y, Theissen SM, [Li Y](https://profiles.viictr.org/profile/267733), Young L, **Xu J**. NCOA1 Directly Targets M-CSF1 Expression to Promote Breast Cancer Metastasis. Cancer Res. 2014 Jul 01; 74(13):3477-88. PMID: [24769444](//www.ncbi.nlm.nih.gov/pubmed/24769444); PMCID: [PMC4083628](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4083628).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24769444/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  2. Xu Y, Xu Y, [Liao L](https://profiles.viictr.org/profile/268314), Zhou N, Theissen SM, Liao XH, Nguyen H, Ludwig T, Qin L, Martinez JD, [Jiang J](https://profiles.viictr.org/profile/49466804), **Xu J**. Inducible knockout of Twist1 in young and adult mice prolongs hair growth cycle and has mild effects on general health, supporting Twist1 as a preferential cancer target. Am J Pathol. 2013 Oct; 183(4):1281-1292. PMID: [23906809](//www.ncbi.nlm.nih.gov/pubmed/23906809); PMCID: [PMC3791869](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3791869).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23906809/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Animals
+
+  3. Tien JC, Liu Z, [Liao L](https://profiles.viictr.org/profile/268314), Wang F, Xu Y, Wu YL, Zhou N, [Ittmann M](https://profiles.viictr.org/profile/269566), **Xu J**. The steroid receptor coactivator-3 is required for the development of castration-resistant prostate cancer. Cancer Res. 2013 Jul 01; 73(13):3997-4008. PMID: [23650284](//www.ncbi.nlm.nih.gov/pubmed/23650284); PMCID: [PMC3732785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3732785).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23650284/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  4. York B, Tsimelzon A, Louet JF, [Chopra AR](https://profiles.viictr.org/profile/7612580), Reineke EL, Zhou S, Stevens RD, Wenner BR, Ilkayeva O, Bain JR, **Xu J** , [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Newgard CB, [O'Malley BW](https://profiles.viictr.org/profile/269511), Sagen JV. Research resource: tissue- and pathway-specific metabolomic profiles of the steroid receptor coactivator (SRC) family. Mol Endocrinol. 2013 Feb; 27(2):366-80. PMID: [23315938](//www.ncbi.nlm.nih.gov/pubmed/23315938); PMCID: [PMC3683811](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3683811).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23315938/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:Animals
+
+  5. Reineke EL, York B, Stashi E, Chen X, Tsimelzon A, **Xu J** , Newgard CB, [Taffet GE](https://profiles.viictr.org/profile/266821), Taegtmeyer H, [Entman ML](https://profiles.viictr.org/profile/267248), [O'Malley BW](https://profiles.viictr.org/profile/269511). SRC-2 coactivator deficiency decreases functional reserve in response to pressure overload of mouse heart. PLoS One. 2012; 7(12):e53395. PMID: [23300926](//www.ncbi.nlm.nih.gov/pubmed/23300926); PMCID: [PMC3534027](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3534027).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23300926/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  6. [Yang Y](https://profiles.viictr.org/profile/2619306), Xu P, Zou F, Yan X, [Liao L](https://profiles.viictr.org/profile/268314), **Xu J** , O'Malley BW, [Xu Y](https://profiles.viictr.org/profile/269314), Zhu L. Steroid receptor coactivator-1 mediates estrogenic actions to prevent body weight gain in female mice. Endocrinology. 2013 Jan; 154(1):150-8. PMID: [23211707](//www.ncbi.nlm.nih.gov/pubmed/23211707); PMCID: [PMC3529365](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3529365).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23211707/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  7. Kawagoe J, [Li Q](https://profiles.viictr.org/profile/270179), Mussi P, [Liao L](https://profiles.viictr.org/profile/268314), [Lydon JP](https://profiles.viictr.org/profile/269737), [DeMayo FJ](https://profiles.viictr.org/profile/267848), **Xu J**. Nuclear receptor coactivator-6 attenuates uterine estrogen sensitivity to permit embryo implantation. Dev Cell. 2012 Oct 16; 23(4):858-65. PMID: [23079602](//www.ncbi.nlm.nih.gov/pubmed/23079602); PMCID: [PMC3479668](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3479668).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23079602/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:Animals
+
+  8. Tien JC, **Xu J**. Steroid receptor coactivator-3 as a potential molecular target for cancer therapy. Expert Opin Ther Targets. 2012 Nov; 16(11):1085-96. PMID: [22924430](//www.ncbi.nlm.nih.gov/pubmed/22924430); PMCID: [PMC3640986](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3640986).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22924430/citedby/) Fields:
+
+The Therapeutics
+
+Translation:HumansAnimals
+
+  9. Chen LY, Zhang Y, Zhang Q, Li H, Luo Z, Fang H, Kim SH, Qin L, Yotnda P, **Xu J** , Tu BP, Bai Y, Songyang Z. Mitochondrial localization of telomeric protein TIN2 links telomere regulation to metabolic control. Mol Cell. 2012 Sep 28; 47(6):839-50. PMID: [22885005](//www.ncbi.nlm.nih.gov/pubmed/22885005); PMCID: [PMC3462252](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3462252).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22885005/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  10. York B, Reineke EL, [Nikolai BC](https://profiles.viictr.org/profile/1826673), Zhou S, Louet JF, [Chopra AR](https://profiles.viictr.org/profile/7612580), Chen X, Reed G, [Noebels J](https://profiles.viictr.org/profile/269703), [Adesina AM](https://profiles.viictr.org/profile/268657), Yu H, Wong LJ, Tsimelzon A, [Hilsenbeck S](https://profiles.viictr.org/profile/268374), Stevens RD, Wenner BR, Ilkayeva O, **Xu J** , Newgard CB, [O'Malley BW](https://profiles.viictr.org/profile/269511), Sagen JV. Ablation of steroid receptor coactivator-3 resembles the human CACT metabolic myopathy. Cell Metab. 2012 May 02; 15(5):752-63. PMID: [22560224](//www.ncbi.nlm.nih.gov/pubmed/22560224); PMCID: [PMC3349072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3349072).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22560224/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansAnimalsCells
+
+  11. Zhou J, Qin L, Tien JC, Gao L, Chen X, Wang F, Hsieh JT, **Xu J**. Nkx3.1 functions as para-transcription factor to regulate gene expression and cell proliferation in non-cell autonomous manner. J Biol Chem. 2012 May 18; 287(21):17248-17256. PMID: [22465996](//www.ncbi.nlm.nih.gov/pubmed/22465996); PMCID: [PMC3366845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3366845).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22465996/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  12. Al-Otaiby M, Tassi E, Schmidt MO, Chien CD, Baker T, Salas AG, **Xu J** , Furlong M, Schlegel R, Riegel AT, Wellstein A. Role of the nuclear receptor coactivator AIB1/SRC-3 in angiogenesis and wound healing. Am J Pathol. 2012 Apr; 180(4):1474-84. PMID: [22342158](//www.ncbi.nlm.nih.gov/pubmed/22342158); PMCID: [PMC3349901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3349901).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22342158/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansAnimalsCells
+
+  13. Hartmaier RJ, Richter AS, Gillihan RM, Sallit JZ, [McGuire SE](https://profiles.viictr.org/profile/12583840), Wang J, Lee AV, Osborne CK, O'Malley BW, [Brown PH](https://profiles.viictr.org/profile/12582793), **Xu J** , Skaar TC, Philips S, Rae JM, Azzouz F, Li L, Hayden J, Henry NL, Nguyen AT, Stearns V, Hayes DF, Flockhart DA, Oesterreich S. A SNP in steroid receptor coactivator-1 disrupts a GSK3? phosphorylation site and is associated with altered tamoxifen response in bone. Mol Endocrinol. 2012 Feb; 26(2):220-7. PMID: [22174377](//www.ncbi.nlm.nih.gov/pubmed/22174377); PMCID: [PMC3275159](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3275159).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22174377/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  14. McCartan D, Bolger JC, Byrne C, Hao Y, Qin L, McIlroy M, **Xu J** , Hill AD, Young LS, Fagan A, Gaora P?. Global characterization of the SRC-1 transcriptome identifies ADAM22 as an ER-independent mediator of endocrine-resistant breast cancer. Cancer Res. 2012 Jan 01; 72(1):220-9. PMID: [22072566](//www.ncbi.nlm.nih.gov/pubmed/22072566); PMCID: [PMC3681815](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3681815).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22072566/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  15. Qin Q, Xu Y, He T, Qin C, **Xu J**. Normal and disease-related biological functions of Twist1 and underlying molecular mechanisms. Cell Res. 2012 Jan; 22(1):90-106. PMID: [21876555](//www.ncbi.nlm.nih.gov/pubmed/21876555); PMCID: [PMC3351934](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3351934).
+
+Citations:
+[193](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21876555/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  16. Dearth RK, Kuiatse I, Wang YF, [Liao L](https://profiles.viictr.org/profile/268314), [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), [Brown PH](https://profiles.viictr.org/profile/12582793), **Xu J** , Lee AV. A moderate elevation of circulating levels of IGF-I does not alter ErbB2 induced mammary tumorigenesis. BMC Cancer. 2011 Aug 25; 11:377. PMID: [21867536](//www.ncbi.nlm.nih.gov/pubmed/21867536); PMCID: [PMC3189189](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3189189).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21867536/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  17. Park S, Zhao Y, Yoon S, **Xu J** , [Liao L](https://profiles.viictr.org/profile/268314), [Lydon J](https://profiles.viictr.org/profile/269737), DeMayo F, [O'Malley BW](https://profiles.viictr.org/profile/269511), Katzenellenbogen BS. Repressor of estrogen receptor activity (REA) is essential for mammary gland morphogenesis and functional activities: studies in conditional knockout mice. Endocrinology. 2011 Nov; 152(11):4336-49. PMID: [21862609](//www.ncbi.nlm.nih.gov/pubmed/21862609); PMCID: [PMC3199013](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3199013).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21862609/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  18. Chen T, Chen Q, Xu Y, Zhou Q, Zhu J, Zhang H, Wu Q, **Xu J** , Yu C. SRC-3 is required for CAR-regulated hepatocyte proliferation and drug metabolism. J Hepatol. 2012 Jan; 56(1):210-7. PMID: [21827731](//www.ncbi.nlm.nih.gov/pubmed/21827731); PMCID: [PMC3232307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3232307).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21827731/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:AnimalsCells
+
+  19. Li C, Ao J, Fu J, Lee DF, **Xu J** , [Lonard D](https://profiles.viictr.org/profile/269800), O'Malley BW. Tumor-suppressor role for the SPOP ubiquitin ligase in signal-dependent proteolysis of the oncogenic co-activator SRC-3/AIB1. Oncogene. 2011 Oct 20; 30(42):4350-64. PMID: [21577200](//www.ncbi.nlm.nih.gov/pubmed/21577200); PMCID: [PMC3158261](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3158261).
+
+Citations:
+[85](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21577200/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  20. Lambert-Blot M, Mitchell C, Bretes H, Collin de l'Hortet A, Chereau F, Sotiropoulos A, Kopchick JJ, [Liao L](https://profiles.viictr.org/profile/268314), **Xu J** , Guidotti JE, Zerrad-Saadi A, Baud V, Gilgenkrantz H. GH receptor plays a major role in liver regeneration through the control of EGFR and ERK1/2 activation. Endocrinology. 2011 Jul; 152(7):2731-41. PMID: [21540290](//www.ncbi.nlm.nih.gov/pubmed/21540290).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21540290/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  21. [Li Q](https://profiles.viictr.org/profile/270179), **Xu J**. Identification and characterization of the alternatively spliced nuclear receptor coactivator-6 isoforms. Int J Biol Sci. 2011 Apr 19; 7(5):505-16. PMID: [21552418](//www.ncbi.nlm.nih.gov/pubmed/21552418); PMCID: [PMC3088874](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3088874).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21552418/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  22. Hong J, Zhou J, Fu J, He T, Qin J, Wang L, [Liao L](https://profiles.viictr.org/profile/268314), **Xu J**. Phosphorylation of serine 68 of Twist1 by MAPKs stabilizes Twist1 protein and promotes breast cancer cell invasiveness. Cancer Res. 2011 Jun 01; 71(11):3980-90. PMID: [21502402](//www.ncbi.nlm.nih.gov/pubmed/21502402); PMCID: [PMC3107354](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3107354).
+
+Citations:
+[127](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21502402/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  23. Qin L, Chen X, Wu Y, Feng Z, He T, Wang L, [Liao L](https://profiles.viictr.org/profile/268314), **Xu J**. Steroid receptor coactivator-1 upregulates integrin a5 expression to promote breast cancer cell adhesion and migration. Cancer Res. 2011 Mar 01; 71(5):1742-51. PMID: [21343398](//www.ncbi.nlm.nih.gov/pubmed/21343398); PMCID: [PMC3076137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3076137).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21343398/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  24. Ma X, Xu L, Wang S, Cui B, Li X, **Xu J** , Ning G. Deletion of steroid receptor coactivator-3 gene ameliorates hepatic steatosis. J Hepatol. 2011 Aug; 55(2):445-52. PMID: [21184786](//www.ncbi.nlm.nih.gov/pubmed/21184786).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21184786/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimalsCells
+
+  25. Louet JF, [Chopra AR](https://profiles.viictr.org/profile/7612580), Sagen JV, An J, York B, Tannour-Louet M, [Saha PK](https://profiles.viictr.org/profile/265977), Stevens RD, Wenner BR, Ilkayeva OR, Bain JR, Zhou S, DeMayo F, **Xu J** , Newgard CB, [O'Malley BW](https://profiles.viictr.org/profile/269511). The coactivator SRC-1 is an essential coordinator of hepatic glucose production. Cell Metab. 2010 Dec 01; 12(6):606-18. PMID: [21109193](//www.ncbi.nlm.nih.gov/pubmed/21109193); PMCID: [PMC3024581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3024581).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21109193/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:AnimalsCells
+
+  26. Chen Q, Chen T, Xu Y, Zhu J, Jiang Y, Zhao Y, **Xu J** , Yu C. Steroid receptor coactivator 3 is required for clearing bacteria and repressing inflammatory response in Escherichia coli-induced septic peritonitis. J Immunol. 2010 Nov 01; 185(9):5444-52. PMID: [20881187](//www.ncbi.nlm.nih.gov/pubmed/20881187); PMCID: [PMC3640995](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3640995).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20881187/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  27. Fu J, Qin L, He T, Qin J, Hong J, Wong J, [Liao L](https://profiles.viictr.org/profile/268314), **Xu J**. The TWIST/Mi2/NuRD protein complex and its essential role in cancer metastasis. Cell Res. 2011 Feb; 21(2):275-89. PMID: [20714342](//www.ncbi.nlm.nih.gov/pubmed/20714342); PMCID: [PMC3193433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3193433).
+
+Citations:
+[140](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20714342/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  28. Viswakarma N, Jia Y, Bai L, Vluggens A, Borensztajn J, **Xu J** , Reddy JK. Coactivators in PPAR-Regulated Gene Expression. PPAR Res. 2010; 2010. PMID: [20814439](//www.ncbi.nlm.nih.gov/pubmed/20814439); PMCID: [PMC2929611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2929611).
+
+Citations:
+[72](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20814439/citedby/)
+
+  29. Chen X, Liu Z, **Xu J**. The cooperative function of nuclear receptor coactivator 1 (NCOA1) and NCOA3 in placental development and embryo survival. Mol Endocrinol. 2010 Oct; 24(10):1917-34. PMID: [20685850](//www.ncbi.nlm.nih.gov/pubmed/20685850); PMCID: [PMC2954639](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2954639).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20685850/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:Animals
+
+  30. Xiao Y, Xu J, Wang S, Mao C, Jin M, Ning G, **Xu J** , Zhang Y. Genetic ablation of steroid receptor coactivator-3 promotes PPAR-beta-mediated alternative activation of microglia in experimental autoimmune encephalomyelitis. Glia. 2010 Jun; 58(8):932-42. PMID: [20155818](//www.ncbi.nlm.nih.gov/pubmed/20155818); PMCID: [PMC2903613](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2903613).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20155818/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  31. York B, Yu C, Liu Z, [Nikolai BC](https://profiles.viictr.org/profile/1826673), Wu RC, [Finegold M](https://profiles.viictr.org/profile/269596), **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Sagen JV. Reprogramming the posttranslational code of SRC-3 confers a switch in mammalian systems biology. Proc Natl Acad Sci U S A. 2010 Jun 15; 107(24):11122-7. PMID: [20534466](//www.ncbi.nlm.nih.gov/pubmed/20534466); PMCID: [PMC2890746](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2890746).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20534466/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  32. Wang WL, [Li Q](https://profiles.viictr.org/profile/270179), **Xu J** , Cvekl A. Lens fiber cell differentiation and denucleation are disrupted through expression of the N-terminal nuclear receptor box of NCOA6 and result in p53-dependent and p53-independent apoptosis. Mol Biol Cell. 2010 Jul 15; 21(14):2453-68. PMID: [20484573](//www.ncbi.nlm.nih.gov/pubmed/20484573); PMCID: [PMC2903674](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2903674).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20484573/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  33. Xu L, Ma X, Li J, Li X, **Xu J** , Wang S, Ning G. SRC-3 deficient mice developed fat redistribution under high-fat diet. Endocrine. 2010 Aug; 38(1):60-6. PMID: [20960103](//www.ncbi.nlm.nih.gov/pubmed/20960103).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20960103/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  34. Liu Z, Zhou S, [Liao L](https://profiles.viictr.org/profile/268314), Chen X, Meistrich M, **Xu J**. Jmjd1a demethylase-regulated histone modification is essential for cAMP-response element modulator-regulated gene expression and spermatogenesis. J Biol Chem. 2010 Jan 22; 285(4):2758-70. PMID: [19910458](//www.ncbi.nlm.nih.gov/pubmed/19910458); PMCID: [PMC2807331](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2807331).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19910458/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  35. **Xu J** , Wu RC, [O'Malley BW](https://profiles.viictr.org/profile/269511). Normal and cancer-related functions of the p160 steroid receptor co-activator (SRC) family. Nat Rev Cancer. 2009 Sep; 9(9):615-30. PMID: [19701241](//www.ncbi.nlm.nih.gov/pubmed/19701241); PMCID: [PMC2908510](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2908510).
+
+Citations:
+[256](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19701241/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  36. Ma X, Xu L, Wang S, Chen H, **Xu J** , Li X, Ning G. Loss of steroid receptor co-activator-3 attenuates carbon tetrachloride-induced murine hepatic injury and fibrosis. Lab Invest. 2009 Aug; 89(8):903-14. PMID: [19488034](//www.ncbi.nlm.nih.gov/pubmed/19488034); PMCID: [PMC3620314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3620314).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19488034/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesPat Pathology
+
+Translation:HumansAnimalsCells
+
+  37. Lachize S, Apostolakis EM, van der Laan S, Tijssen AM, **Xu J** , de Kloet ER, Meijer OC. Steroid receptor coactivator-1 is necessary for regulation of corticotropin-releasing hormone by chronic stress and glucocorticoids. Proc Natl Acad Sci U S A. 2009 May 12; 106(19):8038-42. PMID: [19416907](//www.ncbi.nlm.nih.gov/pubmed/19416907); PMCID: [PMC2683087](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2683087).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19416907/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  38. Qin L, Liu Z, Chen H, **Xu J**. The steroid receptor coactivator-1 regulates twist expression and promotes breast cancer metastasis. Cancer Res. 2009 May 01; 69(9):3819-27. PMID: [19383905](//www.ncbi.nlm.nih.gov/pubmed/19383905); PMCID: [PMC2911143](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2911143).
+
+Citations:
+[88](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19383905/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  39. Xu J, [Liao L](https://profiles.viictr.org/profile/268314), Qin J, **Xu J** , Liu D, Songyang Z. Identification of Flightless-I as a substrate of the cytokine-independent survival kinase CISK. J Biol Chem. 2009 May 22; 284(21):14377-85. PMID: [19293151](//www.ncbi.nlm.nih.gov/pubmed/19293151); PMCID: [PMC2682886](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2682886).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19293151/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  40. Tien JC, Zhou S, **Xu J**. The role of SRC-1 in murine prostate cancinogenesis is nonessential due to a possible compensation of SRC-3/AIB1 overexpression. Int J Biol Sci. 2009; 5(3):256-64. PMID: [19305643](//www.ncbi.nlm.nih.gov/pubmed/19305643); PMCID: [PMC2659009](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2659009).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19305643/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  41. Wang S, Yuan Y, [Liao L](https://profiles.viictr.org/profile/268314), Kuang SQ, Tien JC, [O'Malley BW](https://profiles.viictr.org/profile/269511), **Xu J**. Disruption of the SRC-1 gene in mice suppresses breast cancer metastasis without affecting primary tumor formation. Proc Natl Acad Sci U S A. 2009 Jan 06; 106(1):151-6. PMID: [19109434](//www.ncbi.nlm.nih.gov/pubmed/19109434); PMCID: [PMC2629242](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2629242).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19109434/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  42. [Chopra AR](https://profiles.viictr.org/profile/7612580), Louet JF, [Saha P](https://profiles.viictr.org/profile/265977), An J, Demayo F, **Xu J** , York B, Karpen S, [Finegold M](https://profiles.viictr.org/profile/269596), [Moore D](https://profiles.viictr.org/profile/268340), [Chan L](https://profiles.viictr.org/profile/269461), Newgard CB, [O'Malley BW](https://profiles.viictr.org/profile/269511). Absence of the SRC-2 coactivator results in a glycogenopathy resembling Von Gierke's disease. Science. 2008 Nov 28; 322(5906):1395-9. PMID: [19039140](//www.ncbi.nlm.nih.gov/pubmed/19039140); PMCID: [PMC2668604](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2668604).
+
+Citations:
+[96](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19039140/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  43. Oh AS, Lahusen JT, Chien CD, Fereshteh MP, Zhang X, Dakshanamurthy S, **Xu J** , Kagan BL, Wellstein A, Riegel AT. Tyrosine phosphorylation of the nuclear receptor coactivator AIB1/SRC-3 is enhanced by Abl kinase and is required for its activity in cancer cells. Mol Cell Biol. 2008 Nov; 28(21):6580-93. PMID: [18765637](//www.ncbi.nlm.nih.gov/pubmed/18765637); PMCID: [PMC2573238](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2573238).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18765637/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  44. Liu Z, [Liao L](https://profiles.viictr.org/profile/268314), Zhou S, **Xu J**. Generation and validation of a mouse line with a floxed SRC-3/AIB1 allele for conditional knockout. Int J Biol Sci. 2008 Jul 23; 4(4):202-7. PMID: [18690289](//www.ncbi.nlm.nih.gov/pubmed/18690289); PMCID: [PMC2491728](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2491728).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18690289/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  45. Qin L, [Liao L](https://profiles.viictr.org/profile/268314), Redmond A, Young L, Yuan Y, Chen H, [O'Malley BW](https://profiles.viictr.org/profile/269511), **Xu J**. The AIB1 oncogene promotes breast cancer metastasis by activation of PEA3-mediated matrix metalloproteinase 2 (MMP2) and MMP9 expression. Mol Cell Biol. 2008 Oct; 28(19):5937-50. PMID: [18644862](//www.ncbi.nlm.nih.gov/pubmed/18644862); PMCID: [PMC2547002](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2547002).
+
+Citations:
+[110](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18644862/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  46. Fereshteh MP, Tilli MT, Kim SE, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Wellstein A, Furth PA, Riegel AT. The nuclear receptor coactivator amplified in breast cancer-1 is required for Neu (ErbB2/HER2) activation, signaling, and mammary tumorigenesis in mice. Cancer Res. 2008 May 15; 68(10):3697-706. PMID: [18483252](//www.ncbi.nlm.nih.gov/pubmed/18483252); PMCID: [PMC3641830](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3641830).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18483252/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  47. [Liao L](https://profiles.viictr.org/profile/268314), Chen X, Wang S, Parlow AF, **Xu J**. Steroid receptor coactivator 3 maintains circulating insulin-like growth factor I (IGF-I) by controlling IGF-binding protein 3 expression. Mol Cell Biol. 2008 Apr; 28(7):2460-9. PMID: [18212051](//www.ncbi.nlm.nih.gov/pubmed/18212051); PMCID: [PMC2268437](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2268437).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18212051/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimals
+
+  48. Sanyal A, **Xu J** , O'Malley BW, Spelsberg TC, Khosla S, M?dder UI. The skeletal response to estrogen is impaired in female but not in male steroid receptor coactivator (SRC)-1 knock out mice. Bone. 2008 Feb; 42(2):414-21. PMID: [18055287](//www.ncbi.nlm.nih.gov/pubmed/18055287); PMCID: [PMC2248556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2248556).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18055287/citedby/) Fields:
+
+Met MetabolismOrt Orthopedics
+
+Translation:Animals
+
+  49. Gatza CE, Dumble M, Kittrell F, Edwards DG, Dearth RK, Lee AV, **Xu J** , [Medina D](https://profiles.viictr.org/profile/269506), [Donehower LA](https://profiles.viictr.org/profile/268019). Altered mammary gland development in the p53+/m mouse, a model of accelerated aging. Dev Biol. 2008 Jan 01; 313(1):130-41. PMID: [17996864](//www.ncbi.nlm.nih.gov/pubmed/17996864); PMCID: [PMC2234269](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2234269).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17996864/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  50. [Li Q](https://profiles.viictr.org/profile/270179), Chu MJ, **Xu J**. Tissue- and nuclear receptor-specific function of the C-terminal LXXLL motif of coactivator NCoA6/AIB3 in mice. Mol Cell Biol. 2007 Dec; 27(23):8073-86. PMID: [17908797](//www.ncbi.nlm.nih.gov/pubmed/17908797); PMCID: [PMC2169164](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2169164).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17908797/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  51. Xia J, [Liao L](https://profiles.viictr.org/profile/268314), Sarkar J, Matsumoto K, Reddy JK, **Xu J** , Kemper B. Redundant enhancement of mouse constitutive androstane receptor transactivation by p160 coactivator family members. Arch Biochem Biophys. 2007 Dec 01; 468(1):49-57. PMID: [17950690](//www.ncbi.nlm.nih.gov/pubmed/17950690); PMCID: [PMC2151205](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2151205).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17950690/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  52. Yuan Y, Qin L, Liu D, Wu RC, Mussi P, Zhou S, Songyang Z, **Xu J**. Genetic screening reveals an essential role of p27kip1 in restriction of breast cancer progression. Cancer Res. 2007 Sep 01; 67(17):8032-42. PMID: [17804714](//www.ncbi.nlm.nih.gov/pubmed/17804714); PMCID: [PMC2412956](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2412956).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17804714/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  53. Chung AC, Zhou S, [Liao L](https://profiles.viictr.org/profile/268314), Tien JC, [Greenberg NM](https://profiles.viictr.org/profile/24844899), **Xu J**. Genetic ablation of the amplified-in-breast cancer 1 inhibits spontaneous prostate cancer progression in mice. Cancer Res. 2007 Jun 15; 67(12):5965-75. PMID: [17575167](//www.ncbi.nlm.nih.gov/pubmed/17575167); PMCID: [PMC2898573](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2898573).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17575167/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  54. Yuan Y, **Xu J**. Loss-of-function deletion of the steroid receptor coactivator-1 gene in mice reduces estrogen effect on the vascular injury response. Arterioscler Thromb Vasc Biol. 2007 Jul; 27(7):1521-7. PMID: [17446438](//www.ncbi.nlm.nih.gov/pubmed/17446438); PMCID: [PMC2435268](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2435268).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17446438/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Animals
+
+  55. Yu C, York B, Wang S, [Feng Q](https://profiles.viictr.org/profile/267850), **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511). An essential function of the SRC-3 coactivator in suppression of cytokine mRNA translation and inflammatory response. Mol Cell. 2007 Mar 09; 25(5):765-78. PMID: [17349961](//www.ncbi.nlm.nih.gov/pubmed/17349961); PMCID: [PMC1864954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1864954).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17349961/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  56. Mussi P, [Liao L](https://profiles.viictr.org/profile/268314), Park SE, Ciana P, Maggi A, Katzenellenbogen BS, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511). Haploinsufficiency of the corepressor of estrogen receptor activity (REA) enhances estrogen receptor function in the mammary gland. Proc Natl Acad Sci U S A. 2006 Nov 07; 103(45):16716-21. PMID: [17065319](//www.ncbi.nlm.nih.gov/pubmed/17065319); PMCID: [PMC1636521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1636521).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17065319/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  57. Mussi P, Yu C, [O'Malley BW](https://profiles.viictr.org/profile/269511), **Xu J**. Stimulation of steroid receptor coactivator-3 (SRC-3) gene overexpression by a positive regulatory loop of E2F1 and SRC-3. Mol Endocrinol. 2006 Dec; 20(12):3105-19. PMID: [16916939](//www.ncbi.nlm.nih.gov/pubmed/16916939).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16916939/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  58. Yang Z, Wolf IM, Chen H, Periyasamy S, Chen Z, Yong W, Shi S, Zhao W, **Xu J** , Srivastava A, Shou W, S?nchez ER. FK506-binding protein 52 is essential to uterine reproductive physiology controlled by the progesterone receptor A isoform. Mol Endocrinol. 2006 Nov; 20(11):2682-94. PMID: [16873445](//www.ncbi.nlm.nih.gov/pubmed/16873445); PMCID: [PMC2661205](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2661205).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16873445/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  59. Yeom SY, Kim GH, Kim CH, Jung HD, Kim SY, Park JY, Pak YK, Rhee DK, Kuang SQ, **Xu J** , Han DJ, Song DK, Lee JW, Lee KU, Kim SW. Regulation of insulin secretion and beta-cell mass by activating signal cointegrator 2. Mol Cell Biol. 2006 Jun; 26(12):4553-63. PMID: [16738321](//www.ncbi.nlm.nih.gov/pubmed/16738321); PMCID: [PMC1489122](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1489122).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16738321/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  60. [Liao L](https://profiles.viictr.org/profile/268314), Dearth RK, Zhou S, Britton OL, Lee AV, **Xu J**. Liver-specific overexpression of the insulin-like growth factor-I enhances somatic growth and partially prevents the effects of growth hormone deficiency. Endocrinology. 2006 Aug; 147(8):3877-88. PMID: [16709615](//www.ncbi.nlm.nih.gov/pubmed/16709615).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16709615/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  61. Winnay JN, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Hammer GD. Steroid receptor coactivator-1-deficient mice exhibit altered hypothalamic-pituitary-adrenal axis function. Endocrinology. 2006 Mar; 147(3):1322-32. PMID: [16339206](//www.ncbi.nlm.nih.gov/pubmed/16339206).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16339206/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  62. Han SJ, [DeMayo FJ](https://profiles.viictr.org/profile/267848), **Xu J** , [Tsai SY](https://profiles.viictr.org/profile/266552), Tsai MJ, [O'Malley BW](https://profiles.viictr.org/profile/269511). Steroid receptor coactivator (SRC)-1 and SRC-3 differentially modulate tissue-specific activation functions of the progesterone receptor. Mol Endocrinol. 2006 Jan; 20(1):45-55. PMID: [16141356](//www.ncbi.nlm.nih.gov/pubmed/16141356).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16141356/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  63. Ying H, Furuya F, Willingham MC, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Cheng SY. Dual functions of the steroid hormone receptor coactivator 3 in modulating resistance to thyroid hormone. Mol Cell Biol. 2005 Sep; 25(17):7687-95. PMID: [16107715](//www.ncbi.nlm.nih.gov/pubmed/16107715); PMCID: [PMC1190271](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1190271).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16107715/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  64. Kuang SQ, [Liao L](https://profiles.viictr.org/profile/268314), Wang S, [Medina D](https://profiles.viictr.org/profile/269506), [O'Malley BW](https://profiles.viictr.org/profile/269511), **Xu J**. Mice lacking the amplified in breast cancer 1/steroid receptor coactivator-3 are resistant to chemical carcinogen-induced mammary tumorigenesis. Cancer Res. 2005 Sep 01; 65(17):7993-8002. PMID: [16140972](//www.ncbi.nlm.nih.gov/pubmed/16140972).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16140972/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  65. Han SJ, Jeong J, [Demayo FJ](https://profiles.viictr.org/profile/267848), **Xu J** , [Tsai SY](https://profiles.viictr.org/profile/266552), Tsai MJ, [O'Malley BW](https://profiles.viictr.org/profile/269511). Dynamic cell type specificity of SRC-1 coactivator in modulating uterine progesterone receptor function in mice. Mol Cell Biol. 2005 Sep; 25(18):8150-65. PMID: [16135805](//www.ncbi.nlm.nih.gov/pubmed/16135805); PMCID: [PMC1234322](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1234322).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16135805/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  66. [Ye X](https://profiles.viictr.org/profile/12582543), Han SJ, [Tsai SY](https://profiles.viictr.org/profile/266552), [DeMayo FJ](https://profiles.viictr.org/profile/267848), **Xu J** , Tsai MJ, [O'Malley BW](https://profiles.viictr.org/profile/269511). Roles of steroid receptor coactivator (SRC)-1 and transcriptional intermediary factor (TIF) 2 in androgen receptor activity in mice. Proc Natl Acad Sci U S A. 2005 Jul 05; 102(27):9487-92. PMID: [15983373](//www.ncbi.nlm.nih.gov/pubmed/15983373); PMCID: [PMC1172261](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1172261).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15983373/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  67. **Xu J**. Preparation, culture, and immortalization of mouse embryonic fibroblasts. Curr Protoc Mol Biol. 2005 May; Chapter 28:Unit 28.1. PMID: [18265366](//www.ncbi.nlm.nih.gov/pubmed/18265366).
+
+Citations:
+[125](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18265366/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  68. Park SE, **Xu J** , Frolova A, [Liao L](https://profiles.viictr.org/profile/268314), [O'Malley BW](https://profiles.viictr.org/profile/269511), Katzenellenbogen BS. Genetic deletion of the repressor of estrogen receptor activity (REA) enhances the response to estrogen in target tissues in vivo. Mol Cell Biol. 2005 Mar; 25(5):1989-99. PMID: [15713652](//www.ncbi.nlm.nih.gov/pubmed/15713652); PMCID: [PMC549370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC549370).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15713652/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  69. Nishihara E, [O'Malley BW](https://profiles.viictr.org/profile/269511), **Xu J**. Nuclear receptor coregulators are new players in nervous system development and function. Mol Neurobiol. 2004 Dec; 30(3):307-25. PMID: [15655254](//www.ncbi.nlm.nih.gov/pubmed/15655254).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15655254/citedby/) Fields:
+
+Mol Molecular BiologyNeu Neurology
+
+Translation:HumansAnimals
+
+  70. Wu HY, Hamamori Y, **Xu J** , Chang SC, Saluna T, Chang MF, [O'Malley BW](https://profiles.viictr.org/profile/269511), Kedes L. Nuclear hormone receptor coregulator GRIP1 suppresses, whereas SRC1A and p/CIP coactivate, by domain-specific binding of MyoD. J Biol Chem. 2005 Feb 04; 280(5):3129-37. PMID: [15563453](//www.ncbi.nlm.nih.gov/pubmed/15563453).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15563453/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  71. Zhang H, Kuang SQ, [Liao L](https://profiles.viictr.org/profile/268314), Zhou S, **Xu J**. Haploid inactivation of the amplified-in-breast cancer 3 coactivator reduces the inhibitory effect of peroxisome proliferator-activated receptor gamma and retinoid X receptor on cell proliferation and accelerates polyoma middle-T antigen-induced mammary tumorigenesis in mice. Cancer Res. 2004 Oct 01; 64(19):7169-77. PMID: [15466215](//www.ncbi.nlm.nih.gov/pubmed/15466215).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15466215/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  72. IJpenberg A, Tan NS, Gelman L, Kersten S, Seydoux J, **Xu J** , Metzger D, Canaple L, Chambon P, Wahli W, Desvergne B. In vivo activation of PPAR target genes by RXR homodimers. EMBO J. 2004 May 19; 23(10):2083-91. PMID: [15103326](//www.ncbi.nlm.nih.gov/pubmed/15103326); PMCID: [PMC424365](//www.ncbi.nlm.nih.gov/pmc/articles/PMC424365).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15103326/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  73. Mark M, Yoshida-Komiya H, Gehin M, [Liao L](https://profiles.viictr.org/profile/268314), Tsai MJ, [O'Malley BW](https://profiles.viictr.org/profile/269511), Chambon P, **Xu J**. Partially redundant functions of SRC-1 and TIF2 in postnatal survival and male reproduction. Proc Natl Acad Sci U S A. 2004 Mar 30; 101(13):4453-8. PMID: [15070739](//www.ncbi.nlm.nih.gov/pubmed/15070739); PMCID: [PMC384768](//www.ncbi.nlm.nih.gov/pmc/articles/PMC384768).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15070739/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  74. Kuang SQ, [Liao L](https://profiles.viictr.org/profile/268314), Zhang H, Lee AV, [O'Malley BW](https://profiles.viictr.org/profile/269511), **Xu J**. AIB1/SRC-3 deficiency affects insulin-like growth factor I signaling pathway and suppresses v-Ha-ras-induced breast cancer initiation and progression in mice. Cancer Res. 2004 Mar 01; 64(5):1875-85. PMID: [14996752](//www.ncbi.nlm.nih.gov/pubmed/14996752).
+
+Citations:
+[89](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14996752/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  75. Goo YH, Na SY, Zhang H, **Xu J** , Hong S, Cheong J, Lee SK, Lee JW. Interactions between activating signal cointegrator-2 and the tumor suppressor retinoblastoma in androgen receptor transactivation. J Biol Chem. 2004 Feb 20; 279(8):7131-5. PMID: [14645241](//www.ncbi.nlm.nih.gov/pubmed/14645241).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14645241/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  76. Sanyal A, Kearns AE, Sibonga JD, Nishihara E, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Ritman EL, Riggs BL, Spelsberg TC, Khosla S, M?dder UI. Effects of loss of steroid receptor coactivator-1 on the skeletal response to estrogen in mice. Endocrinology. 2004 Feb; 145(2):913-21. PMID: [14563705](//www.ncbi.nlm.nih.gov/pubmed/14563705).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14563705/citedby/) Fields:
+
+End Endocrinology
+
+Translation:Animals
+
+  77. Kamiya Y, Zhang XY, Ying H, Kato Y, Willingham MC, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Cheng SY. Modulation by steroid receptor coactivator-1 of target-tissue responsiveness in resistance to thyroid hormone. Endocrinology. 2003 Sep; 144(9):4144-53. PMID: [12933689](//www.ncbi.nlm.nih.gov/pubmed/12933689).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12933689/citedby/) Fields:
+
+End Endocrinology
+
+Translation:Animals
+
+  78. Monks DA, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Jordan CL. Steroid receptor coactivator-1 is not required for androgen-mediated sexual differentiation of spinal motoneurons. Neuroendocrinology. 2003 Jul; 78(1):45-51. PMID: [12869799](//www.ncbi.nlm.nih.gov/pubmed/12869799).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12869799/citedby/) Fields:
+
+End EndocrinologyNeu Neurology
+
+Translation:AnimalsCells
+
+  79. **Xu J**. The role of SRC-3 in estrogen-dependent vasoprotection during vascular wall remodeling postinjury. Nucl Recept Signal. 2003; 1:e002. PMID: [16604175](//www.ncbi.nlm.nih.gov/pubmed/16604175); PMCID: [PMC1402224](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1402224).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+  80. **Xu J** , [Li Q](https://profiles.viictr.org/profile/270179). Review of the in vivo functions of the p160 steroid receptor coactivator family. Mol Endocrinol. 2003 Sep; 17(9):1681-92. PMID: [12805412](//www.ncbi.nlm.nih.gov/pubmed/12805412).
+
+Citations:
+[174](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12805412/citedby/)
+Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  81. Sadow PM, Chassande O, Koo EK, Gauthier K, Samarut J, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Weiss RE. Regulation of expression of thyroid hormone receptor isoforms and coactivators in liver and heart by thyroid hormone. Mol Cell Endocrinol. 2003 May 30; 203(1-2):65-75. PMID: [12782404](//www.ncbi.nlm.nih.gov/pubmed/12782404).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12782404/citedby/) Fields:
+
+Cel Cell BiologyEnd EndocrinologyMol Molecular Biology
+
+Translation:Animals
+
+  82. Zhang H, [Liao L](https://profiles.viictr.org/profile/268314), Kuang SQ, **Xu J**. Spatial distribution of the messenger ribonucleic acid and protein of the nuclear receptor coactivator, amplified in breast cancer-3, in mice. Endocrinology. 2003 Apr; 144(4):1435-43. PMID: [12639927](//www.ncbi.nlm.nih.gov/pubmed/12639927).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12639927/citedby/) Fields:
+
+End Endocrinology
+
+Translation:Animals
+
+  83. Sadow PM, Koo E, Chassande O, Gauthier K, Samarut J, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Seo H, Murata Y, Weiss RE. Thyroid hormone receptor-specific interactions with steroid receptor coactivator-1 in the pituitary. Mol Endocrinol. 2003 May; 17(5):882-94. PMID: [12576486](//www.ncbi.nlm.nih.gov/pubmed/12576486).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12576486/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  84. Nishihara E, Yoshida-Komiya H, Chan CS, [Liao L](https://profiles.viictr.org/profile/268314), [Davis RL](https://profiles.viictr.org/profile/268115), [O'Malley BW](https://profiles.viictr.org/profile/269511), **Xu J**. SRC-1 null mice exhibit moderate motor dysfunction and delayed development of cerebellar Purkinje cells. J Neurosci. 2003 Jan 01; 23(1):213-22. PMID: [12514218](//www.ncbi.nlm.nih.gov/pubmed/12514218); PMCID: [PMC6742154](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6742154).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12514218/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  85. [Liao L](https://profiles.viictr.org/profile/268314), Kuang SQ, Yuan Y, Gonzalez SM, [O'Malley BW](https://profiles.viictr.org/profile/269511), **Xu J**. Molecular structure and biological function of the cancer-amplified nuclear receptor coactivator SRC-3/AIB1. J Steroid Biochem Mol Biol. 2002 Dec; 83(1-5):3-14. PMID: [12650696](//www.ncbi.nlm.nih.gov/pubmed/12650696).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12650696/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  86. Kuang SQ, [Liao L](https://profiles.viictr.org/profile/268314), Zhang H, [Pereira FA](https://profiles.viictr.org/profile/269546), Yuan Y, [DeMayo FJ](https://profiles.viictr.org/profile/267848), Ko L, **Xu J**. Deletion of the cancer-amplified coactivator AIB3 results in defective placentation and embryonic lethality. J Biol Chem. 2002 Nov 22; 277(47):45356-60. PMID: [12368298](//www.ncbi.nlm.nih.gov/pubmed/12368298).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12368298/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  87. Sadow PM, Chassande O, Gauthier K, Samarut J, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Weiss RE. Specificity of thyroid hormone receptor subtype and steroid receptor coactivator-1 on thyroid hormone action. Am J Physiol Endocrinol Metab. 2003 Jan; 284(1):E36-46. PMID: [12388168](//www.ncbi.nlm.nih.gov/pubmed/12388168).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12388168/citedby/) Fields:
+
+End EndocrinologyMet MetabolismPhy Physiology
+
+Translation:AnimalsCells
+
+  88. [Liao L](https://profiles.viictr.org/profile/268314), Kuang SQ, Yuan YH, **Xu JM**. A rapid and cost-effective screening method for identification of targeted embryonic stem cells. Shi Yan Sheng Wu Xue Bao. 2002 Sep; 35(3):163-8. PMID: [15344375](//www.ncbi.nlm.nih.gov/pubmed/15344375).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  89. **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511). Molecular mechanisms and cellular biology of the steroid receptor coactivator (SRC) family in steroid receptor function. Rev Endocr Metab Disord. 2002 Sep; 3(3):185-92. PMID: [12215713](//www.ncbi.nlm.nih.gov/pubmed/12215713).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12215713/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:HumansAnimalsCells
+
+  90. Yuan Y, [Liao L](https://profiles.viictr.org/profile/268314), Tulis DA, **Xu J**. Steroid receptor coactivator-3 is required for inhibition of neointima formation by estrogen. Circulation. 2002 Jun 04; 105(22):2653-9. PMID: [12045172](//www.ncbi.nlm.nih.gov/pubmed/12045172).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12045172/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Animals
+
+  91. Wu RC, Qin J, Hashimoto Y, Wong J, **Xu J** , [Tsai SY](https://profiles.viictr.org/profile/266552), Tsai MJ, [O'Malley BW](https://profiles.viictr.org/profile/269511). Regulation of SRC-3 (pCIP/ACTR/AIB-1/RAC-3/TRAM-1) Coactivator activity by I kappa B kinase. Mol Cell Biol. 2002 May; 22(10):3549-61. PMID: [11971985](//www.ncbi.nlm.nih.gov/pubmed/11971985); PMCID: [PMC133790](//www.ncbi.nlm.nih.gov/pmc/articles/PMC133790).
+
+Citations:
+[106](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11971985/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  92. Takeuchi Y, Murata Y, Sadow P, Hayashi Y, Seo H, **Xu J** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Weiss RE, Refetoff S. Steroid receptor coactivator-1 deficiency causes variable alterations in the modulation of T(3)-regulated transcription of genes in vivo. Endocrinology. 2002 Apr; 143(4):1346-52. PMID: [11897691](//www.ncbi.nlm.nih.gov/pubmed/11897691).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11897691/citedby/) Fields:
+
+End Endocrinology
+
+Translation:Animals
+
+  93. Weiss RE, Gehin M, **Xu J** , Sadow PM, [O'Malley BW](https://profiles.viictr.org/profile/269511), Chambon P, Refetoff S. Thyroid function in mice with compound heterozygous and homozygous disruptions of SRC-1 and TIF-2 coactivators: evidence for haploinsufficiency. Endocrinology. 2002 Apr; 143(4):1554-7. PMID: [11897715](//www.ncbi.nlm.nih.gov/pubmed/11897715).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11897715/citedby/) Fields:
+
+End Endocrinology
+
+Translation:Animals
+
+  94. **Xu J** , Liao L, Ning G, Yoshida-Komiya H, Deng C, O'Malley BW. The steroid receptor coactivator SRC-3 (p/CIP/RAC3/AIB1/ACTR/TRAM-1) is required for normal growth, puberty, female reproductive function, and mammary gland development. Proc Natl Acad Sci U S A. 2000 Jun 06; 97(12):6379-84. PMID: [10823921](//www.ncbi.nlm.nih.gov/pubmed/10823921); PMCID: [PMC18611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC18611).
+
+Citations:
+[179](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10823921/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Animals
+
+  95. Puigserver P, Adelmant G, Wu Z, Fan M, **Xu J** , O'Malley B, Spiegelman BM. Activation of PPARgamma coactivator-1 through transcription factor docking. Science. 1999 Nov 12; 286(5443):1368-71. PMID: [10558993](//www.ncbi.nlm.nih.gov/pubmed/10558993).
+
+Citations:
+[249](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10558993/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  96. Ning G, Jurecic V, Baldini A, **Xu J**. Structure and chromosomal locations of mouse steroid receptor coactivator gene family. In Vitro Cell Dev Biol Anim. 1999 Sep; 35(8):481-6. PMID: [10501088](//www.ncbi.nlm.nih.gov/pubmed/10501088).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10501088/citedby/) Fields:
+
+Cel Cell BiologyZoo Zoology
+
+Translation:Animals
+
+  97. McKenna NJ, **Xu J** , Nawaz Z, [Tsai SY](https://profiles.viictr.org/profile/266552), [Tsai MJ](https://profiles.viictr.org/profile/267651), O'Malley BW. Nuclear receptor coactivators: multiple enzymes, multiple complexes, multiple functions. J Steroid Biochem Mol Biol. 1999 Apr-Jun; 69(1-6):3-12. PMID: [10418975](//www.ncbi.nlm.nih.gov/pubmed/10418975).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10418975/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimals
+
+  98. Weiss RE, **Xu J** , Ning G, Pohlenz J, O'Malley BW, Refetoff S. Mice deficient in the steroid receptor co-activator 1 (SRC-1) are resistant to thyroid hormone. EMBO J. 1999 Apr 01; 18(7):1900-4. PMID: [10202153](//www.ncbi.nlm.nih.gov/pubmed/10202153); PMCID: [PMC1171275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1171275).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10202153/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:Animals
+
+  99. **Xu J** , Qiu Y, DeMayo FJ, [Tsai SY](https://profiles.viictr.org/profile/266552), [Tsai MJ](https://profiles.viictr.org/profile/267651), O'Malley BW. Partial hormone resistance in mice with disruption of the steroid receptor coactivator-1 (SRC-1) gene. Science. 1998 Mar 20; 279(5358):1922-5. PMID: [9506940](//www.ncbi.nlm.nih.gov/pubmed/9506940).
+
+Citations:
+[174](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9506940/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  100. Wang Y, **Xu J** , Pierson T, O'Malley BW, [Tsai SY](https://profiles.viictr.org/profile/266552). Positive and negative regulation of gene expression in eukaryotic cells with an inducible transcriptional regulator. Gene Ther. 1997 May; 4(5):432-41. PMID: [9274720](//www.ncbi.nlm.nih.gov/pubmed/9274720).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9274720/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  101. **Xu J** , Nawaz Z, [Tsai SY](https://profiles.viictr.org/profile/266552), [Tsai MJ](https://profiles.viictr.org/profile/267651), O'Malley BW. The extreme C terminus of progesterone receptor contains a transcriptional repressor domain that functions through a putative corepressor. Proc Natl Acad Sci U S A. 1996 Oct 29; 93(22):12195-9. PMID: [8901556](//www.ncbi.nlm.nih.gov/pubmed/8901556); PMCID: [PMC37966](//www.ncbi.nlm.nih.gov/pmc/articles/PMC37966).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8901556/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  102. McKeehan K, McKeehan WI, **Xu J** , Liao L. Kinase-inactive splice variants of the activin type I receptor. In Vitro Cell Dev Biol Anim. 1996 Mar; 32(3):131-4. PMID: [8925134](//www.ncbi.nlm.nih.gov/pubmed/8925134).
+
+Citations:  Fields:
+
+Cel Cell BiologyZoo Zoology
+
+Translation:Cells
+
+  103. [Feng S](https://profiles.viictr.org/profile/12583933), **Xu J** , Wang F, Kan M, McKeehan WL. Nuclear localization of a complex of fibroblast growth factor(FGF)-1 and an NH2-terminal fragment of FGF receptor isoforms R4 and R1alpha in human liver cells. Biochim Biophys Acta. 1996 Jan 10; 1310(1):67-73. PMID: [9244177](//www.ncbi.nlm.nih.gov/pubmed/9244177).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9244177/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansCells
+
+  104. Wang F, Kan M, **Xu J** , Yan G, McKeehan WL. Ligand-specific structural domains in the fibroblast growth factor receptor. J Biol Chem. 1995 Apr 28; 270(17):10222-30. PMID: [7730326](//www.ncbi.nlm.nih.gov/pubmed/7730326).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7730326/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  105. Wang F, Kan M, Yan G, **Xu J** , McKeehan WL. Alternately spliced NH2-terminal immunoglobulin-like Loop I in the ectodomain of the fibroblast growth factor (FGF) receptor 1 lowers affinity for both heparin and FGF-1. J Biol Chem. 1995 Apr 28; 270(17):10231-5. PMID: [7730327](//www.ncbi.nlm.nih.gov/pubmed/7730327).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7730327/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  106. **Xu J** , McKeehan K, Matsuzaki K, McKeehan WL. Inhibin antagonizes inhibition of liver cell growth by activin by a dominant-negative mechanism. J Biol Chem. 1995 Mar 17; 270(11):6308-13. PMID: [7890768](//www.ncbi.nlm.nih.gov/pubmed/7890768).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7890768/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  107. Prudovsky I, Savion N, Zhan X, Friesel R, **Xu J** , Hou J, McKeehan WL, Maciag T. Intact and functional fibroblast growth factor (FGF) receptor-1 trafficks near the nucleus in response to FGF-1. J Biol Chem. 1994 Dec 16; 269(50):31720-4. PMID: [7527394](//www.ncbi.nlm.nih.gov/pubmed/7527394).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7527394/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  108. **Xu J** , Matsuzaki K, McKeehan K, Wang F, Kan M, McKeehan WL. Genomic structure and cloned cDNAs predict that four variants in the kinase domain of serine/threonine kinase receptors arise by alternative splicing and poly(A) addition. Proc Natl Acad Sci U S A. 1994 Aug 16; 91(17):7957-61. PMID: [8058741](//www.ncbi.nlm.nih.gov/pubmed/8058741); PMCID: [PMC44523](//www.ncbi.nlm.nih.gov/pmc/articles/PMC44523).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8058741/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  109. Shi E, Kan M, **Xu J** , Wang F, Hou J, McKeehan WL. Control of fibroblast growth factor receptor kinase signal transduction by heterodimerization of combinatorial splice variants. Mol Cell Biol. 1993 Jul; 13(7):3907-18. PMID: [8321198](//www.ncbi.nlm.nih.gov/pubmed/8321198); PMCID: [PMC359927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC359927).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8321198/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  110. Matsuzaki K, **Xu J** , Wang F, McKeehan WL, Krummen L, Kan M. A widely expressed transmembrane serine/threonine kinase that does not bind activin, inhibin, transforming growth factor beta, or bone morphogenic factor. J Biol Chem. 1993 Jun 15; 268(17):12719-23. PMID: [8389764](//www.ncbi.nlm.nih.gov/pubmed/8389764).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8389764/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  111. Kan M, Wang F, **Xu J** , Crabb JW, Hou J, McKeehan WL. An essential heparin-binding domain in the fibroblast growth factor receptor kinase. Science. 1993 Mar 26; 259(5103):1918-21. PMID: [8456318](//www.ncbi.nlm.nih.gov/pubmed/8456318).
+
+Citations:
+[84](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8456318/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  112. Hou J, Kan M, Wang F, **Xu JM** , Nakahara M, McBride G, McKeehan K, McKeehan WL. Substitution of putative half-cystine residues in heparin-binding fibroblast growth factor receptors. Loss of binding activity in both two and three loop isoforms. J Biol Chem. 1992 Sep 05; 267(25):17804-8. PMID: [1325450](//www.ncbi.nlm.nih.gov/pubmed/1325450).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1325450/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  113. **Xu J** , Nakahara M, Crabb JW, Shi E, Matuo Y, Fraser M, Kan M, Hou J, McKeehan WL. Expression and immunochemical analysis of rat and human fibroblast growth factor receptor (flg) isoforms. J Biol Chem. 1992 Sep 05; 267(25):17792-803. PMID: [1325449](//www.ncbi.nlm.nih.gov/pubmed/1325449).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1325449/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  114. Kan M, Yan GC, **Xu J** , Nakahara M, Hou J. Receptor phenotype underlies differential response of hepatocytes and nonparenchymal cells to heparin-binding fibroblast growth factor type 1 (aFGF) and type 2 (bFGF). In Vitro Cell Dev Biol. 1992 Jul-Aug; 28A(7-8):515-20. PMID: [1381709](//www.ncbi.nlm.nih.gov/pubmed/1381709).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1381709/citedby/) Fields:
+
+Ana AnatomyCel Cell Biology
+
+Translation:AnimalsCells
+
+  115. Shi E, Kan M, **Xu JM** , McKeehan WL. 16-kilodalton heparin binding (fibroblast) growth factor type one appears in a stable 40-kilodalton complex after receptor-dependent internalization. J Biol Chem. 1991 Mar 25; 266(9):5774-9. PMID: [2005115](//www.ncbi.nlm.nih.gov/pubmed/2005115).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2005115/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 109 publications over 20 distinct years, with a maximum of
+11 publications in 2010 and
+2011](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|11&cht=bvs&chd=t:18,27,27,9,9,36,9,0,82,91,55,73,45,73,64,64,100,100,73,27,9,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 2  
+1995| 3  
+1996| 3  
+1997| 1  
+1998| 1  
+1999| 4  
+2000| 1  
+2002| 9  
+2003| 10  
+2004| 6  
+2005| 8  
+2006| 5  
+2007| 8  
+2008| 7  
+2009| 7  
+2010| 11  
+2011| 11  
+2012| 8  
+2013| 3  
+2014| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+XU's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (623)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Histone Acetyltransferases](https://profiles.viictr.org/profile/249726)
+  * [Nuclear Receptor Coactivator 3](https://profiles.viictr.org/profile/246619)
+  * [Trans-Activators](https://profiles.viictr.org/profile/246926)
+  * [Nuclear Receptor Coactivator 1](https://profiles.viictr.org/profile/257537)
+  * [Transcription Factors](https://profiles.viictr.org/profile/253750)
+
+[Explore](https://profiles.viictr.org/profile/266985/198)
+
+_
+
+Co-Authors (34)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LIAO, LAN](https://profiles.viictr.org/profile/268314)
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [LI, QINGTIAN](https://profiles.viictr.org/profile/270179)
+  * [DEMAYO, FRANCESCO](https://profiles.viictr.org/profile/267848)
+  * [TSAI, SOPHIA](https://profiles.viictr.org/profile/266552)
+
+[Explore](https://profiles.viictr.org/profile/266985/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [DEMAYO, FRANCESCO](https://profiles.viictr.org/profile/267848)
+  * [MATZUK, MARTIN](https://profiles.viictr.org/profile/266520)
+  * [BEHRINGER, RICHARD R](https://profiles.viictr.org/profile/12582530)
+
+[Explore](https://profiles.viictr.org/profile/266985/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CONNEELY, ORLA](https://profiles.viictr.org/profile/267996)
+  * [HUANG, PENGXIANG](https://profiles.viictr.org/profile/32901593)
+  * [KOH, KIAN](https://profiles.viictr.org/profile/36832116)
+  * [LYDON, JOHN](https://profiles.viictr.org/profile/269737)
+  * [RICHARDS, JOANNE](https://profiles.viictr.org/profile/267831)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BROWN, POWEL](https://profiles.viictr.org/profile/269831)
+  * [DASGUPTA, SUBHAMOY](https://profiles.viictr.org/profile/3010259)
+  * [LONARD, DAVID](https://profiles.viictr.org/profile/269800)
+  * [PANIGRAHI, ANIL](https://profiles.viictr.org/profile/265628)
+  * [ROARTY, KEVIN](https://profiles.viictr.org/profile/3010207)
+
+_
+

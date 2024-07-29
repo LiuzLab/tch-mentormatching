@@ -1,0 +1,1000 @@
+## ULRICH STRYCH
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1102 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=A6ci6GbPbrjhVJbu6FvAKbnCIhWf&rnd=7119549a-19a1-41a0-9e92-4e8a66e45310)  
+ORCID ![ORCID
+Icon](https://profiles.viictr.org/Framework/Images/orcid_16x16\(1\).gif)|
+[0000-0001-9455-7683](http://sandbox.orcid.org/0000-0001-9455-7683)
+[![Additional
+info](https://profiles.viictr.org/Framework/Images/info.png)](https://profiles.viictr.org/about/default.aspx?tab=orcid)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=8065526)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=8065526&cachekey=ae4167ae-7267-4f8f-a6ec-435764d23490)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+keywords
+
+  * [Covid, vaccines](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Covid, vaccines&exactphrase=false)
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Bartsch SM, O'Shea KJ, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), Lee BY. Response to: "Quantifying the effect of vaccination on transmission in modelling studies". EClinicalMedicine. 2024 Jul; 73:102670. PMID: [38911838](//www.ncbi.nlm.nih.gov/pubmed/38911838); PMCID: [PMC11192783](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11192783).
+
+Citations:
+
+  2. [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), Islam NY, Lee J, [Pollet J](https://profiles.viictr.org/profile/16102688), [Poveda C](https://profiles.viictr.org/profile/37834418), **Strych U** , [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), Uzcategui NL, Versteeg L, [Gorelick D](https://profiles.viictr.org/profile/23478773). The zebrafish as a potential model for vaccine and adjuvant development. Expert Rev Vaccines. 2024 Jan-Dec; 23(1):535-545. PMID: [38664959](//www.ncbi.nlm.nih.gov/pubmed/38664959).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimals
+
+  3. Bartsch SM, O'Shea KJ, Weatherwax C, **Strych U** , Velmurugan K, John DC, [Bottazzi ME](https://profiles.viictr.org/profile/269365), Hussein M, Martinez MF, Chin KL, Ciciriello A, Heneghan J, Dibbs A, Scannell SA, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY. What is the economic benefit of annual COVID-19 vaccination from the adult individual perspective? J Infect Dis. 2024 Apr 06. PMID: [38581432](//www.ncbi.nlm.nih.gov/pubmed/38581432).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+  4. Mancino C, [Pollet J](https://profiles.viictr.org/profile/16102688), Zinger A, Jones KM, Villar MJ, Leao AC, Adhikari R, Versteeg L, Tyagi Kundu R, **Strych U** , Giordano F, [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), Taraballi F, [Poveda C](https://profiles.viictr.org/profile/37834418). Harnessing RNA Technology to Advance Therapeutic Vaccine Antigens against Chagas Disease. ACS Appl Mater Interfaces. 2024 Apr 03; 16(13):15832-15846. PMID: [38518375](//www.ncbi.nlm.nih.gov/pubmed/38518375); PMCID: [PMC10996878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10996878).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38518375/citedby/) Fields:
+
+Bio Biomedical EngineeringBio Biotechnology
+
+Translation:Animals
+
+  5. Bartsch SM, O'Shea KJ, John DC, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), Martinez MF, Ciciriello A, Chin KL, Weatherwax C, Velmurugan K, Heneghan J, Scannell SA, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY. The potential epidemiologic, clinical, and economic value of a universal coronavirus vaccine: a modelling study. EClinicalMedicine. 2024 Feb; 68:102369. PMID: [38545093](//www.ncbi.nlm.nih.gov/pubmed/38545093); PMCID: [PMC10965405](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10965405).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38545093/citedby/)
+
+  6. Chen YL, Lee J, Liu Z, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Chen WH](https://profiles.viictr.org/profile/23478750), Lin YP. Biophysical and biochemical characterization of a recombinant Lyme disease vaccine antigen, CspZ-YA. Int J Biol Macromol. 2024 Feb; 259(Pt 2):129295. PMID: [38211914](//www.ncbi.nlm.nih.gov/pubmed/38211914).
+
+Citations:  Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansCells
+
+  7. [Poveda C](https://profiles.viictr.org/profile/37834418), Chen YL, **Strych U**. Generation and Characterization of In Vitro Transcribed mRNA. Methods Mol Biol. 2024; 2786:147-165. PMID: [38814393](//www.ncbi.nlm.nih.gov/pubmed/38814393).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  8. [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), Adhikari R, Villar MJ, Lee J, Liu Z, Kundu R, Chen YL, Sharma S, Ghei K, Keegan B, Versteeg L, Gillespie PM, Ciciriello A, Islam NY, [Poveda C](https://profiles.viictr.org/profile/37834418), Uzcategui N, [Chen WH](https://profiles.viictr.org/profile/23478750), [Kimata JT](https://profiles.viictr.org/profile/268949), [Zhan B](https://profiles.viictr.org/profile/266656), **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Pollet J](https://profiles.viictr.org/profile/16102688). A Recombinant Protein XBB.1.5 RBD/Alum/CpG Vaccine Elicits High Neutralizing Antibody Titers against Omicron Subvariants of SARS-CoV-2. Vaccines (Basel). 2023 Oct 01; 11(10). PMID: [37896960](//www.ncbi.nlm.nih.gov/pubmed/37896960); PMCID: [PMC10610638](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10610638).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37896960/citedby/)
+
+  9. [Poveda C](https://profiles.viictr.org/profile/37834418), Mancino C, Taraballi F, Chen YL, Adhikari R, Villar MJ, Kundu R, Nguyen DM, Versteeg L, **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Pollet J](https://profiles.viictr.org/profile/16102688), Jones KM, Le?o AC. Heterologous mRNA-protein vaccination with Tc24 induces a robust cellular immune response against Trypanosoma cruzi, characterized by an increased level of polyfunctional CD8+ T-cells. Curr Res Immunol. 2023; 4:100066. PMID: [37534309](//www.ncbi.nlm.nih.gov/pubmed/37534309); PMCID: [PMC10393535](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10393535).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37534309/citedby/)
+
+  10. MatRahim NA, [Jones KM](https://profiles.viictr.org/profile/267207), Keegan BP, **Strych U** , [Zhan B](https://profiles.viictr.org/profile/266656), Lee HY, AbuBakar S. TonB-Dependent Receptor Protein Displayed on Spores of Bacillus subtilis Stimulates Protective Immune Responses against Acinetobacter baumannii. Vaccines (Basel). 2023 Jun 16; 11(6). PMID: [37376495](//www.ncbi.nlm.nih.gov/pubmed/37376495); PMCID: [PMC10302887](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10302887).
+
+Citations:
+
+  11. Nath SK, Pankajakshan P, Sharma T, Kumari P, Shinde S, Garg N, Mathur K, Arambam N, Harjani D, Raj M, Kwatra G, Venkatesh S, Choudhoury A, Bano S, Tayal P, Sharan M, Arora R, **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), Rawal K. A Data-Driven Approach to Construct a Molecular Map of Trypanosoma cruzi to Identify Drugs and Vaccine Targets. Vaccines (Basel). 2023 Jan 26; 11(2). PMID: [36851145](//www.ncbi.nlm.nih.gov/pubmed/36851145); PMCID: [PMC9963959](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9963959).
+
+Citations:
+
+  12. [Hotez PJ](https://profiles.viictr.org/profile/266166), Adhikari R, [Chen WH](https://profiles.viictr.org/profile/23478750), Chen YL, Gillespie P, Islam NY, Keegan B, Tyagi Kundu R, Lee J, Liu Z, [Kimata JT](https://profiles.viictr.org/profile/268949), [Oezguen N](https://profiles.viictr.org/profile/267606), [Pollet J](https://profiles.viictr.org/profile/16102688), [Poveda C](https://profiles.viictr.org/profile/37834418), Razavi K, [Ronca SE](https://profiles.viictr.org/profile/17678422), **Strych U** , [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), Versteeg L, Villar-Mondragon MJ, Wei J, [Zhan B](https://profiles.viictr.org/profile/266656), [Bottazzi ME](https://profiles.viictr.org/profile/269365). From concept to delivery: a yeast-expressed recombinant protein-based COVID-19 vaccine technology suitable for global access. Expert Rev Vaccines. 2023 Jan-Dec; 22(1):495-500. PMID: [37252854](//www.ncbi.nlm.nih.gov/pubmed/37252854).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37252854/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  13. Preeti P, Nath SK, Arambam N, Sharma T, Choudhury PR, Choudhury A, Khanna V, **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), Rawal K. Vaxi-DL: An Artificial Intelligence-Enabled Platform for Vaccine Development. Methods Mol Biol. 2023; 2673:305-316. PMID: [37258923](//www.ncbi.nlm.nih.gov/pubmed/37258923).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  14. Nandy S, Crum M, Wasden K, **Strych U** , Goyal A, Maranholkar V, Mo W, Vu B, Kourentzi K, Willson RC. Protein A-Nanoluciferase fusion protein for generalized, sensitive detection of immunoglobulin G. Anal Biochem. 2023 01 01; 660:114929. PMID: [36270332](//www.ncbi.nlm.nih.gov/pubmed/36270332); PMCID: [PMC9826736](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9826736).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  15. [Chen WH](https://profiles.viictr.org/profile/23478750), **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), Lin YP. Past, present, and future of Lyme disease vaccines: antigen engineering approaches and mechanistic insights. Expert Rev Vaccines. 2022 10; 21(10):1405-1417. PMID: [35836340](//www.ncbi.nlm.nih.gov/pubmed/35836340); PMCID: [PMC9529901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9529901).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+  16. Chen YL, Marcinkiewicz AL, Nowak TA, Tyagi Kundu R, Liu Z, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Chen WH](https://profiles.viictr.org/profile/23478750), Lin YP. CspZ FH-Binding Sites as Epitopes Promote Antibody-Mediated Lyme Borreliae Clearance. Infect Immun. 2022 07 21; 90(7):e0006222. PMID: [35861564](//www.ncbi.nlm.nih.gov/pubmed/35861564); PMCID: [PMC9302089](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9302089).
+
+Citations:  Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:AnimalsCells
+
+  17. [Pollet J](https://profiles.viictr.org/profile/16102688), **Strych U** , [Chen WH](https://profiles.viictr.org/profile/23478750), Versteeg L, Keegan B, [Zhan B](https://profiles.viictr.org/profile/266656), Wei J, Liu Z, Lee J, Kundu R, Adhikari R, [Poveda C](https://profiles.viictr.org/profile/37834418), Jose Villar M, Rani Thimmiraju S, Lopez B, Gillespie PM, [Ronca S](https://profiles.viictr.org/profile/17678422), [Kimata JT](https://profiles.viictr.org/profile/268949), Reers M, Paradkar V, [Hotez PJ](https://profiles.viictr.org/profile/266166), Elena Bottazzi M. Receptor-binding domain recombinant protein on alum-CpG induces broad protection against SARS-CoV-2 variants of concern. Vaccine. 2022 06 09; 40(26):3655-3663. PMID: [35568591](//www.ncbi.nlm.nih.gov/pubmed/35568591); PMCID: [PMC9080055](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9080055).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  18. Rawal K, Sinha R, Nath SK, Preeti P, Kumari P, Gupta S, Sharma T, **Strych U** , [Hotez P](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Vaxi-DL: A web-based deep learning server to identify potential vaccine candidates. Comput Biol Med. 2022 06; 145:105401. PMID: [35381451](//www.ncbi.nlm.nih.gov/pubmed/35381451).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35381451/citedby/) Fields:
+
+Bio BiologyMed Medical InformaticsMed Medicine (General)
+
+Translation:Animals
+
+  19. Pollet J, **Strych U** , [Chen WH](https://profiles.viictr.org/profile/23478750), Versteeg L, Keegan B, Zhan B, Wei J, Liu Z, Lee J, Kundu R, Adhikari R, [Poveda C](https://profiles.viictr.org/profile/37834418), Villar MJ, [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), Lopez B, Gillespie PM, Ronca S, [Kimata JT](https://profiles.viictr.org/profile/268949), Reers M, Paradkar V, [Hotez P](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Receptor-binding domain recombinant protein on alum-CpG induces broad protection against SARS-CoV-2 variants of concern. bioRxiv. 2022 Mar 22. PMID: [34268512](//www.ncbi.nlm.nih.gov/pubmed/34268512); PMCID: [PMC8282101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8282101).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34268512/citedby/)
+
+  20. Bartsch SM, O'Shea KJ, Chin KL, **Strych U** , Ferguson MC, [Bottazzi ME](https://profiles.viictr.org/profile/269365), Wedlock PT, Cox SN, Siegmund SS, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY. Maintaining face mask use before and after achieving different COVID-19 vaccination coverage levels: a modelling study. Lancet Public Health. 2022 04; 7(4):e356-e365. PMID: [35276093](//www.ncbi.nlm.nih.gov/pubmed/35276093); PMCID: [PMC8903840](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8903840).
+
+Citations:  Fields:
+
+Pub Public Health
+
+Translation:HumansCellsPHPublic Health
+
+  21. Wei J, Hegde VL, Yanamandra AV, O'Hara MP, Keegan B, Jones KM, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Zhan B](https://profiles.viictr.org/profile/266656), Sastry KJ, [Hotez PJ](https://profiles.viictr.org/profile/266166). Mucosal Vaccination With Recombinant Tm-WAP49 Protein Induces Protective Humoral and Cellular Immunity Against Experimental Trichuriasis in AKR Mice. Front Immunol. 2022; 13:800295. PMID: [35197976](//www.ncbi.nlm.nih.gov/pubmed/35197976); PMCID: [PMC8859434](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8859434).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCellsPHPublic Health
+
+  22. Nanishi E, Borriello F, O'Meara TR, McGrath ME, Saito Y, Haupt RE, Seo HS, van Haren SD, Cavazzoni CB, Brook B, Barman S, Chen J, Diray-Arce J, Doss-Gollin S, De Leon M, Prevost-Reilly A, Chew K, Menon M, Song K, Xu AZ, Caradonna TM, Feldman J, Hauser BM, Schmidt AG, Sherman AC, Baden LR, Ernst RK, Dillen C, Weston SM, Johnson RM, Hammond HL, Mayer R, Burke A, [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), **Strych U** , Chang A, Yu J, Sage PT, Barouch DH, Dhe-Paganon S, Zanoni I, Ozonoff A, Frieman MB, Levy O, Dowling DJ. An aluminum hydroxide:CpG adjuvant enhances protection elicited by a SARS-CoV-2 receptor binding domain vaccine in aged mice. Sci Transl Med. 2022 Jan 26; 14(629):eabj5305. PMID: [34783582](//www.ncbi.nlm.nih.gov/pubmed/34783582); PMCID: [PMC10176044](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10176044).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34783582/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  23. [Chen WH](https://profiles.viictr.org/profile/23478750), [Pollet J](https://profiles.viictr.org/profile/16102688), **Strych U** , Lee J, Liu Z, Kundu RT, Versteeg L, Villar MJ, Adhikari R, Wei J, [Poveda C](https://profiles.viictr.org/profile/37834418), Keegan B, Bailey AO, Chen YL, Gillespie PM, [Kimata JT](https://profiles.viictr.org/profile/268949), [Zhan B](https://profiles.viictr.org/profile/266656), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Yeast-expressed recombinant SARS-CoV-2 receptor binding domain RBD203-N1 as a COVID-19 protein vaccine candidate. Protein Expr Purif. 2022 02; 190:106003. PMID: [34688919](//www.ncbi.nlm.nih.gov/pubmed/34688919); PMCID: [PMC8529586](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8529586).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34688919/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  24. Bartsch SM, Wedlock PT, O'Shea KJ, Cox SN, **Strych U** , Nuzzo JB, Ferguson MC, [Bottazzi ME](https://profiles.viictr.org/profile/269365), Siegmund SS, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY. Lives and Costs Saved by Expanding and Expediting Coronavirus Disease 2019 Vaccination. J Infect Dis. 2021 09 17; 224(6):938-948. PMID: [33954775](//www.ncbi.nlm.nih.gov/pubmed/33954775); PMCID: [PMC8136017](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8136017).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33954775/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsPHPublic Health
+
+  25. Rawal K, Sinha R, Abbasi BA, Chaudhary A, Nath SK, Kumari P, Preeti P, Saraf D, Singh S, Mishra K, Gupta P, Mishra A, Sharma T, Gupta S, Singh P, Sood S, Subramani P, Dubey AK, **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Identification of vaccine targets in pathogens and design of a vaccine using computational approaches. Sci Rep. 2021 09 02; 11(1):17626. PMID: [34475453](//www.ncbi.nlm.nih.gov/pubmed/34475453); PMCID: [PMC8413327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8413327).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34475453/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  26. Pino M, Abid T, Pereira Ribeiro S, Edara VV, Floyd K, Smith JC, Latif MB, Pacheco-Sanchez G, Dutta D, Wang S, Gumber S, Kirejczyk S, Cohen J, Stammen RL, Jean SM, Wood JS, Connor-Stroud F, [Pollet J](https://profiles.viictr.org/profile/16102688), [Chen WH](https://profiles.viictr.org/profile/23478750), Wei J, [Zhan B](https://profiles.viictr.org/profile/266656), Lee J, Liu Z, **Strych U** , Shenvi N, Easley K, Weiskopf D, Sette A, Pollara J, Mielke D, Gao H, Eisel N, LaBranche CC, Shen X, Ferrari G, Tomaras GD, Montefiori DC, Sekaly RP, Vanderford TH, Tomai MA, Fox CB, Suthar MS, Kozlowski PA, [Hotez PJ](https://profiles.viictr.org/profile/266166), Paiardini M, [Bottazzi ME](https://profiles.viictr.org/profile/269365), Kasturi SP. A yeast expressed RBD-based SARS-CoV-2 vaccine formulated with 3M-052-alum adjuvant promotes protective efficacy in non-human primates. Sci Immunol. 2021 07 15; 6(61). PMID: [34266981](//www.ncbi.nlm.nih.gov/pubmed/34266981); PMCID: [PMC9119307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9119307).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34266981/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  27. Mat Rahim N, Lee H, **Strych U** , AbuBakar S. Facing the challenges of multidrug-resistant Acinetobacter baumannii: progress and prospects in the vaccine development. Hum Vaccin Immunother. 2021 10 03; 17(10):3784-3794. PMID: [34106809](//www.ncbi.nlm.nih.gov/pubmed/34106809); PMCID: [PMC8437540](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8437540).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34106809/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  28. Nanishi E, Borriello F, O'Meara TR, McGrath ME, Saito Y, Haupt RE, Seo HS, van Haren SD, Brook B, Chen J, Diray-Arce J, Doss-Gollin S, Leon M, Chew K, Menon M, Song K, Xu AZ, Caradonna TM, Feldman J, Hauser BM, Schmidt AG, Sherman AC, Baden LR, Ernst RK, Dillen C, Weston SM, Johnson RM, Hammond HL, Mayer R, Burke A, [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), **Strych U** , Chang A, Yu J, Barouch DH, Dhe-Paganon S, Zanoni I, Ozonoff A, Frieman MB, Levy O, Dowling DJ. Alum:CpG adjuvant enables SARS-CoV-2 RBD-induced protection in aged mice and synergistic activation of human elder type 1 immunity. bioRxiv. 2021 May 21. PMID: [34031655](//www.ncbi.nlm.nih.gov/pubmed/34031655); PMCID: [PMC8142652](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8142652).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34031655/citedby/)
+
+  29. Lee J, Liu Z, [Chen WH](https://profiles.viictr.org/profile/23478750), Wei J, Kundu R, Adhikari R, Rivera JA, Gillespie PM, **Strych U** , [Zhan B](https://profiles.viictr.org/profile/266656), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Process development and scale-up optimization of the SARS-CoV-2 receptor binding domain-based vaccine candidate, RBD219-N1C1. Appl Microbiol Biotechnol. 2021 May; 105(10):4153-4165. PMID: [33959781](//www.ncbi.nlm.nih.gov/pubmed/33959781); PMCID: [PMC8102132](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8102132).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33959781/citedby/) Fields:
+
+Bio BiotechnologyMic Microbiology
+
+Translation:HumansAnimalsCells
+
+  30. [Pollet J](https://profiles.viictr.org/profile/16102688), [Chen WH](https://profiles.viictr.org/profile/23478750), Versteeg L, Keegan B, [Zhan B](https://profiles.viictr.org/profile/266656), Wei J, Liu Z, Lee J, Kundu R, Adhikari R, [Poveda C](https://profiles.viictr.org/profile/37834418), Villar MJ, de Araujo Leao AC, Altieri Rivera J, Momin Z, Gillespie PM, [Kimata JT](https://profiles.viictr.org/profile/268949), **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). SARS-CoV-2 RBD219-N1C1: A yeast-expressed SARS-CoV-2 recombinant receptor-binding domain candidate vaccine stimulates virus neutralizing antibodies and T-cell immunity in mice. Hum Vaccin Immunother. 2021 08 03; 17(8):2356-2366. PMID: [33847226](//www.ncbi.nlm.nih.gov/pubmed/33847226); PMCID: [PMC8054496](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8054496).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33847226/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  31. [Chen WH](https://profiles.viictr.org/profile/23478750), Wei J, Kundu RT, Adhikari R, Liu Z, Lee J, Versteeg L, [Poveda C](https://profiles.viictr.org/profile/37834418), Keegan B, Villar MJ, de Araujo Leao AC, Rivera JA, Gillespie PM, [Pollet J](https://profiles.viictr.org/profile/16102688), **Strych U** , [Zhan B](https://profiles.viictr.org/profile/266656), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Genetic modification to design a stable yeast-expressed recombinant SARS-CoV-2 receptor binding domain as a COVID-19 vaccine candidate. Biochim Biophys Acta Gen Subj. 2021 06; 1865(6):129893. PMID: [33731300](//www.ncbi.nlm.nih.gov/pubmed/33731300); PMCID: [PMC7955913](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7955913).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33731300/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  32. [Pollet J](https://profiles.viictr.org/profile/16102688), [Chen WH](https://profiles.viictr.org/profile/23478750), Versteeg L, Keegan B, Zhan B, Wei J, Liu Z, Lee J, Kundu R, Adhikari R, [Poveda C](https://profiles.viictr.org/profile/37834418), Villar MJ, de Araujo Leao AC, Rivera JA, Momin Z, Gillespie PM, [Kimata JT](https://profiles.viictr.org/profile/268949), **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). SARS-CoV-2 RBD219-N1C1: A Yeast-Expressed SARS-CoV-2 Recombinant Receptor-Binding Domain Candidate Vaccine Stimulates Virus Neutralizing Antibodies and T-cell Immunity in Mice. bioRxiv. 2021 Feb 09. PMID: [33173864](//www.ncbi.nlm.nih.gov/pubmed/33173864); PMCID: [PMC7654852](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7654852).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33173864/citedby/)
+
+  33. Bartsch SM, O'Shea KJ, Wedlock PT, **Strych U** , Ferguson MC, [Bottazzi ME](https://profiles.viictr.org/profile/269365), Randall SL, Siegmund SS, Cox SN, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY. The Benefits of Vaccinating With the First Available COVID-19 Coronavirus Vaccine. Am J Prev Med. 2021 05; 60(5):605-613. PMID: [33632650](//www.ncbi.nlm.nih.gov/pubmed/33632650); PMCID: [PMC7817395](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7817395).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33632650/citedby/) Fields:
+
+Pub Public Health
+
+Translation:HumansPHPublic Health
+
+  34. [Pollet J](https://profiles.viictr.org/profile/16102688), [Chen WH](https://profiles.viictr.org/profile/23478750), **Strych U**. Recombinant protein vaccines, a proven approach against coronavirus pandemics. Adv Drug Deliv Rev. 2021 03; 170:71-82. PMID: [33421475](//www.ncbi.nlm.nih.gov/pubmed/33421475); PMCID: [PMC7788321](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7788321).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33421475/citedby/) Fields:
+
+Dru Drug TherapyPha Pharmacology
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  35. Callaghan T, Moghtaderi A, Lueck JA, [Hotez P](https://profiles.viictr.org/profile/266166), **Strych U** , Dor A, Fowler EF, Motta M. Correlates and disparities of intention to vaccinate against COVID-19. Soc Sci Med. 2021 03; 272:113638. PMID: [33414032](//www.ncbi.nlm.nih.gov/pubmed/33414032); PMCID: [PMC7834845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7834845).
+
+Citations:
+[108](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33414032/citedby/)
+Fields:
+
+Hea Health ServicesPsy PsychologySoc Social Sciences
+
+Translation:HumansPHPublic Health
+
+  36. [Chen WH](https://profiles.viictr.org/profile/23478750), Tao X, Agrawal AS, Algaissi A, Peng BH, [Pollet J](https://profiles.viictr.org/profile/16102688), **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), Lustigman S, Du L, Jiang S, Tseng CK. Yeast-expressed SARS-CoV recombinant receptor-binding domain (RBD219-N1) formulated with aluminum hydroxide induces protective immunity and reduces immune enhancement. Vaccine. 2020 11 03; 38(47):7533-7541. PMID: [33039209](//www.ncbi.nlm.nih.gov/pubmed/33039209); PMCID: [PMC7508514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7508514).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33039209/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  37. Liu Z, Kundu R, Biter AB, Nyon MP, [Chen WH](https://profiles.viictr.org/profile/23478750), [Zhan B](https://profiles.viictr.org/profile/266656), **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), Damena S. A scalable and reproducible manufacturing process for Phlebotomus papatasi salivary protein PpSP15, a vaccine candidate for leishmaniasis. Protein Expr Purif. 2021 01; 177:105750. PMID: [32920041](//www.ncbi.nlm.nih.gov/pubmed/32920041).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32920041/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  38. Bartsch SM, O'Shea KJ, Ferguson MC, [Bottazzi ME](https://profiles.viictr.org/profile/269365), Wedlock PT, **Strych U** , McKinnell JA, Siegmund SS, Cox SN, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY. Vaccine Efficacy Needed for a COVID-19 Coronavirus Vaccine to Prevent or Stop an Epidemic as the Sole Intervention. Am J Prev Med. 2020 10; 59(4):493-503. PMID: [32778354](//www.ncbi.nlm.nih.gov/pubmed/32778354); PMCID: [PMC7361120](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7361120).
+
+Citations:
+[110](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32778354/citedby/)
+Fields:
+
+Pub Public Health
+
+Translation:HumansCellsPHPublic Health
+
+  39. [Chen WH](https://profiles.viictr.org/profile/23478750), Tao X, Agrawal A, Algaissi A, Peng BH, Pollet J, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), Lustigman S, Du L, Jiang S, Tseng CK. Yeast-Expressed SARS-CoV Recombinant Receptor-Binding Domain (RBD219-N1) Formulated with Aluminum Hydroxide Induces Protective Immunity and Reduces Immune Enhancement. bioRxiv. 2020 Jul 05. PMID: [32511385](//www.ncbi.nlm.nih.gov/pubmed/32511385); PMCID: [PMC7263514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7263514).
+
+Citations:
+
+  40. [Hotez PJ](https://profiles.viictr.org/profile/266166), [Corry DB](https://profiles.viictr.org/profile/269165), **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365). COVID-19 vaccines: neutralizing antibodies and the alum advantage. Nat Rev Immunol. 2020 07; 20(7):399-400. PMID: [32499636](//www.ncbi.nlm.nih.gov/pubmed/32499636); PMCID: [PMC7271131](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7271131).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32499636/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimals
+
+  41. [Bottazzi ME](https://profiles.viictr.org/profile/269365), **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Corry DB](https://profiles.viictr.org/profile/269165). Coronavirus vaccine-associated lung immunopathology-what is the significance? Microbes Infect. 2020 10; 22(9):403-404. PMID: [32599077](//www.ncbi.nlm.nih.gov/pubmed/32599077); PMCID: [PMC7318931](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7318931).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32599077/citedby/) Fields:
+
+All Allergy and ImmunologyMic Microbiology
+
+Translation:HumansCellsPHPublic Health
+
+  42. Bartsch SM, O'Shea KJ, Ferguson MC, [Bottazzi ME](https://profiles.viictr.org/profile/269365), Cox SN, **Strych U** , McKinnell JA, Wedlock PT, Siegmund SS, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY. How Efficacious Must a COVID-19 Coronavirus Vaccine be to Prevent or Stop an Epidemic by Itself. medRxiv. 2020 May 30. PMID: [32511569](//www.ncbi.nlm.nih.gov/pubmed/32511569); PMCID: [PMC7274250](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7274250).
+
+Citations:
+
+  43. Bartsch SM, Stokes-Cawley OJ, [Buekens P](https://profiles.viictr.org/profile/2619310), Asti L, [Bottazzi ME](https://profiles.viictr.org/profile/269365), **Strych U** , Wedlock PT, Mitgang EA, Meymandi S, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY, Falcon-Lezama JA. The potential economic value of a therapeutic Chagas disease vaccine for pregnant women to prevent congenital transmission. Vaccine. 2020 04 03; 38(16):3261-3270. PMID: [32171575](//www.ncbi.nlm.nih.gov/pubmed/32171575); PMCID: [PMC9009251](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9009251).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32171575/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansPHPublic Health
+
+  44. [Chen WH](https://profiles.viictr.org/profile/23478750), **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). The SARS-CoV-2 Vaccine Pipeline: an Overview. Curr Trop Med Rep. 2020; 7(2):61-64. PMID: [32219057](//www.ncbi.nlm.nih.gov/pubmed/32219057); PMCID: [PMC7094941](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7094941).
+
+Citations:
+[215](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32219057/citedby/)
+
+  45. [Chen WH](https://profiles.viictr.org/profile/23478750), Nyon MP, Poongavanam MV, Liu Z, Biter AB, Kundu RT, **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Process Characterization and Biophysical Analysis for a Yeast-Expressed Phlebotomus papatasi Salivary Protein (PpSP15) as?a Leishmania Vaccine Candidate. J Pharm Sci. 2020 05; 109(5):1673-1680. PMID: [32070701](//www.ncbi.nlm.nih.gov/pubmed/32070701); PMCID: [PMC7125844](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7125844).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32070701/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:Animals
+
+  46. Versteeg L, Wei J, Liu Z, Keegan B, Fujiwara RT, [Jones KM](https://profiles.viictr.org/profile/267207), Asojo O, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Zhan B](https://profiles.viictr.org/profile/266656). Protective immunity elicited by the nematode-conserved As37 recombinant protein against Ascaris suum infection. PLoS Negl Trop Dis. 2020 02; 14(2):e0008057. PMID: [32053593](//www.ncbi.nlm.nih.gov/pubmed/32053593); PMCID: [PMC7017989](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7017989).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32053593/citedby/) Fields:
+
+Tro Tropical Medicine
+
+Translation:HumansAnimalsCells
+
+  47. Frederick J, Hennessy F, Horn U, van den Broek M, **Strych U** , Willson R, Hefer CA, Daran JG, Sewell T, Otten LG, Brady D, de la Torre Cort?s P. The complete genome sequence of the nitrile biocatalyst Rhodocccus rhodochrous ATCC BAA-870. BMC Genomics. 2020 Jan 02; 21(1):3. PMID: [31898479](//www.ncbi.nlm.nih.gov/pubmed/31898479); PMCID: [PMC6941271](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6941271).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31898479/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Cells
+
+  48. [Poveda C](https://profiles.viictr.org/profile/37834418), Biter AB, [Bottazzi ME](https://profiles.viictr.org/profile/269365), **Strych U**. Establishing Preferred Product Characterization for the Evaluation of RNA Vaccine Antigens. Vaccines (Basel). 2019 Sep 27; 7(4). PMID: [31569760](//www.ncbi.nlm.nih.gov/pubmed/31569760); PMCID: [PMC6963847](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6963847).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31569760/citedby/)
+
+  49. Biter AB, [Pollet J](https://profiles.viictr.org/profile/16102688), [Chen WH](https://profiles.viictr.org/profile/23478750), **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). A method to probe protein structure from UV absorbance spectra. Anal Biochem. 2019 12 15; 587:113450. PMID: [31550438](//www.ncbi.nlm.nih.gov/pubmed/31550438).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  50. Bartsch SM, [Bottazzi ME](https://profiles.viictr.org/profile/269365), Asti L, **Strych U** , Meymandi S, Randall S, [Hotez PJ](https://profiles.viictr.org/profile/266166), Lee BY, Falc?n-Lezama JA. Economic value of a therapeutic Chagas vaccine for indeterminate and Chagasic cardiomyopathy patients. Vaccine. 2019 06 19; 37(28):3704-3714. PMID: [31104883](//www.ncbi.nlm.nih.gov/pubmed/31104883).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31104883/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsPHPublic Health
+
+  51. [Gunter SM](https://profiles.viictr.org/profile/17440186), Versteeg L, [Jones KM](https://profiles.viictr.org/profile/267207), Keegan BP, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), Brown EL. Covalent vaccination with Trypanosoma cruzi Tc24 induces catalytic antibody production. Parasite Immunol. 2018 Nov; 40(11):e12585. PMID: [30132929](//www.ncbi.nlm.nih.gov/pubmed/30132929).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30132929/citedby/) Fields:
+
+All Allergy and ImmunologyPar Parasitology
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  52. Nyon MP, Du L, Tseng CK, Seid CA, [Pollet J](https://profiles.viictr.org/profile/16102688), Naceanceno KS, Agrawal A, Algaissi A, Peng BH, Tai W, Jiang S, [Bottazzi ME](https://profiles.viictr.org/profile/269365), **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166). Engineering a stable CHO cell line for the expression of a MERS-coronavirus vaccine antigen. Vaccine. 2018 03 27; 36(14):1853-1862. PMID: [29496347](//www.ncbi.nlm.nih.gov/pubmed/29496347); PMCID: [PMC5860679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5860679).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29496347/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  53. Biter AB, Weltje S, Hudspeth EM, Seid CA, McAtee CP, [Chen WH](https://profiles.viictr.org/profile/23478750), [Pollet JB](https://profiles.viictr.org/profile/16102688), **Strych U** , [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Characterization and Stability of Trypanosoma cruzi 24-C4 (Tc24-C4), a Candidate Antigen for a Therapeutic Vaccine Against Chagas Disease. J Pharm Sci. 2018 05; 107(5):1468-1473. PMID: [29274820](//www.ncbi.nlm.nih.gov/pubmed/29274820).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29274820/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  54. Wei J, Versteeg L, Liu Z, Keegan B, Fujiwara RT, Briggs N, [Jones KM](https://profiles.viictr.org/profile/267207), **Strych U** , Beaumier CM, [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Zhan B](https://profiles.viictr.org/profile/266656), Gazzinelli-Guimar?es AC. Yeast-expressed recombinant As16 protects mice against Ascaris suum infection through induction of a Th2-skewed immune response. PLoS Negl Trop Dis. 2017 Jul; 11(7):e0005769. PMID: [28708895](//www.ncbi.nlm.nih.gov/pubmed/28708895); PMCID: [PMC5529013](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5529013).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28708895/citedby/) Fields:
+
+Tro Tropical Medicine
+
+Translation:AnimalsCellsPHPublic Health
+
+  55. [Gunter SM](https://profiles.viictr.org/profile/17440186), [Jones KM](https://profiles.viictr.org/profile/267207), Seid CA, Essigmann HT, [Zhan B](https://profiles.viictr.org/profile/266656), **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), Brown EL. Mutations to Cysteine Residues in the Trypanosoma cruzi B-Cell Superantigen Tc24 Diminish Susceptibility to IgM-Mediated Hydrolysis. J Parasitol. 2017 10; 103(5):579-583. PMID: [28581897](//www.ncbi.nlm.nih.gov/pubmed/28581897).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28581897/citedby/) Fields:
+
+Par Parasitology
+
+Translation:AnimalsCellsPHPublic Health
+
+  56. [Chen WH](https://profiles.viictr.org/profile/23478750), Chag SM, Poongavanam MV, Biter AB, Ewere EA, Rezende W, Seid CA, Hudspeth EM, [Pollet J](https://profiles.viictr.org/profile/16102688), McAtee CP, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166). Optimization of the Production Process and Characterization of the Yeast-Expressed SARS-CoV Recombinant Receptor-Binding Domain (RBD219-N1), a SARS Vaccine Candidate. J Pharm Sci. 2017 08; 106(8):1961-1970. PMID: [28456726](//www.ncbi.nlm.nih.gov/pubmed/28456726); PMCID: [PMC5612335](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5612335).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28456726/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  57. [Pollet J](https://profiles.viictr.org/profile/16102688), Versteeg L, Rezende W, **Strych U** , Gusovsky F, [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). A simple fluorescence-based assay for quantification of the Toll-Like Receptor agonist E6020 in vaccine formulations. Vaccine. 2017 03 07; 35(10):1410-1416. PMID: [28190745](//www.ncbi.nlm.nih.gov/pubmed/28190745).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:Humans
+
+  58. Seid CA, [Jones KM](https://profiles.viictr.org/profile/267207), [Pollet J](https://profiles.viictr.org/profile/16102688), Keegan B, Hudspeth E, Hammond M, Wei J, McAtee CP, Versteeg L, Gutierrez A, Liu Z, [Zhan B](https://profiles.viictr.org/profile/266656), Respress JL, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166). Cysteine mutagenesis improves the production without abrogating antigenicity of a recombinant protein vaccine candidate for human chagas disease. Hum Vaccin Immunother. 2017 03 04; 13(3):621-633. PMID: [27737611](//www.ncbi.nlm.nih.gov/pubmed/27737611); PMCID: [PMC5360114](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5360114).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27737611/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  59. Wei J, Damania A, Gao X, Liu Z, [Mejia R](https://profiles.viictr.org/profile/267603), Mitreva M, **Strych U** , [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Zhan B](https://profiles.viictr.org/profile/266656). The hookworm Ancylostoma ceylanicum intestinal transcriptome provides a platform for selecting drug and vaccine candidates. Parasit Vectors. 2016 Sep 27; 9(1):518. PMID: [27677574](//www.ncbi.nlm.nih.gov/pubmed/27677574); PMCID: [PMC5039805](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5039805).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27677574/citedby/) Fields:
+
+Par ParasitologyTro Tropical Medicine
+
+  60. Lee HY, Nyon MP, **Strych U**. Vaccine Development Against Middle East Respiratory Syndrome. Curr Trop Med Rep. 2016; 3(3):80-86. PMID: [32226714](//www.ncbi.nlm.nih.gov/pubmed/32226714); PMCID: [PMC7099997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7099997).
+
+Citations:
+
+  61. [Hotez PJ](https://profiles.viictr.org/profile/266166), **Strych U** , Lustigman S, [Bottazzi ME](https://profiles.viictr.org/profile/269365). Human anthelminthic vaccines: Rationale and challenges. Vaccine. 2016 06 24; 34(30):3549-55. PMID: [27171753](//www.ncbi.nlm.nih.gov/pubmed/27171753).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27171753/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:Humans
+
+  62. Chen H, Kim J, Garvey G, Paterson A, Raja B, **Strych U** , Kourentzi K, Conrad JC, [Atmar RL](https://profiles.viictr.org/profile/268394), Willson RC, Hagstr?m AE, Ruiz-Ruiz F, Rito-Palomares M. Flotation Immunoassay: Masking the Signal from Free Reporters in Sandwich Immunoassays. Sci Rep. 2016 Apr 14; 6:24297. PMID: [27075635](//www.ncbi.nlm.nih.gov/pubmed/27075635); PMCID: [PMC4830940](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4830940).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27075635/citedby/) Fields:
+
+Sci Science
+
+  63. [Hotez PJ](https://profiles.viictr.org/profile/266166), Beaumier CM, Gillespie PM, **Strych U** , Hayward T, [Bottazzi ME](https://profiles.viictr.org/profile/269365). Advancing a vaccine to prevent hookworm disease and anemia. Vaccine. 2016 06 03; 34(26):3001-3005. PMID: [27040400](//www.ncbi.nlm.nih.gov/pubmed/27040400).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27040400/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimals
+
+  64. Merrifield M, [Hotez PJ](https://profiles.viictr.org/profile/266166), Beaumier CM, Gillespie P, **Strych U** , Hayward T, [Bottazzi ME](https://profiles.viictr.org/profile/269365). Advancing a vaccine to prevent human schistosomiasis. Vaccine. 2016 06 03; 34(26):2988-2991. PMID: [27036511](//www.ncbi.nlm.nih.gov/pubmed/27036511).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27036511/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimals
+
+  65. Beaumier CM, Gillespie PM, **Strych U** , Hayward T, [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Status of vaccine research and development of vaccines for Chagas disease. Vaccine. 2016 06 03; 34(26):2996-3000. PMID: [27026146](//www.ncbi.nlm.nih.gov/pubmed/27026146).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27026146/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:Humans
+
+  66. Gillespie PM, Beaumier CM, **Strych U** , Hayward T, [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Status of vaccine research and development of vaccines for leishmaniasis. Vaccine. 2016 06 03; 34(26):2992-2995. PMID: [26973063](//www.ncbi.nlm.nih.gov/pubmed/26973063).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26973063/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimals
+
+  67. Hudspeth EM, Wang Q, Seid CA, Hammond M, Wei J, Liu Z, [Zhan B](https://profiles.viictr.org/profile/266656), [Pollet J](https://profiles.viictr.org/profile/16102688), Heffernan MJ, McAtee CP, Engler DA, **Strych U** , Asojo OA, [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), Matsunami RK. Expression and purification of an engineered, yeast-expressed Leishmania donovani nucleoside hydrolase with immunogenic properties. Hum Vaccin Immunother. 2016 07 02; 12(7):1707-20. PMID: [26839079](//www.ncbi.nlm.nih.gov/pubmed/26839079); PMCID: [PMC4964838](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4964838).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26839079/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  68. Adhikari M, **Strych U** , Kim J, Goux H, Dhamane S, Poongavanam MV, Kourentzi K, Conrad JC, Willson RC, Hagstr?m AE. Aptamer-Phage Reporters for Ultrasensitive Lateral Flow Assays. Anal Chem. 2015 Dec 01; 87(23):11660-5. PMID: [26456715](//www.ncbi.nlm.nih.gov/pubmed/26456715); PMCID: [PMC4666763](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4666763).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26456715/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:Cells
+
+  69. [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), **Strych U**. New Vaccines for the World's Poorest People. Annu Rev Med. 2016; 67:405-17. PMID: [26356803](//www.ncbi.nlm.nih.gov/pubmed/26356803).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26356803/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  70. Garvey G, Paterson AS, Dhamane S, Adhikari M, [Estes MK](https://profiles.viictr.org/profile/266419), **Strych U** , Kourentzi K, [Atmar RL](https://profiles.viictr.org/profile/268394), Hagstr?m AE, Willson RC. Sensitive detection of norovirus using phage nanoparticle reporters in lateral-flow assay. PLoS One. 2015; 10(5):e0126571. PMID: [25978622](//www.ncbi.nlm.nih.gov/pubmed/25978622); PMCID: [PMC4433186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4433186).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25978622/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  71. [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365), **Strych U** , Chang LY, Lim YA, Goodenow MM, AbuBakar S. Neglected tropical diseases among the Association of Southeast Asian Nations (ASEAN): overview and update. PLoS Negl Trop Dis. 2015 Apr; 9(4):e0003575. PMID: [25880767](//www.ncbi.nlm.nih.gov/pubmed/25880767); PMCID: [PMC4400050](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4400050).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25880767/citedby/) Fields:
+
+Tro Tropical Medicine
+
+Translation:HumansAnimalsPHPublic Health
+
+  72. Kolhatkar AG, Dannongoda C, Kourentzi K, Jamison AC, Nekrashevich I, Kar A, Cacao E, **Strych U** , Rusakova I, Martirosyan KS, Litvinov D, Lee TR, Willson RC. Enzymatic synthesis of magnetic nanoparticles. Int J Mol Sci. 2015 Apr 03; 16(4):7535-50. PMID: [25854425](//www.ncbi.nlm.nih.gov/pubmed/25854425); PMCID: [PMC4425032](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4425032).
+
+Citations:  Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+  73. Adhikari M, Dhamane S, Kourentzi K, **Strych U** , Willson RC, Conrad JC, Kim J, Hagstr?m AE. Detection of viruses by counting single fluorescent genetically biotinylated reporter immunophage using a lateral flow assay. ACS Appl Mater Interfaces. 2015 Feb 04; 7(4):2891-8. PMID: [25581289](//www.ncbi.nlm.nih.gov/pubmed/25581289); PMCID: [PMC4334444](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4334444).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25581289/citedby/) Fields:
+
+Bio Biomedical EngineeringBio Biotechnology
+
+Translation:Cells
+
+  74. Li Y, Mortuza R, Milligan DL, Tran SL, **Strych U** , Cook GM, Krause KL. Investigation of the essentiality of glutamate racemase in Mycobacterium smegmatis. J Bacteriol. 2014 Dec; 196(24):4239-44. PMID: [25246478](//www.ncbi.nlm.nih.gov/pubmed/25246478); PMCID: [PMC4248854](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4248854).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25246478/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  75. Qi J, Zeng J, Zhao F, Lin SH, Raja B, **Strych U** , Willson RC, Shih WC. Label-free, in situ SERS monitoring of individual DNA hybridization in microfluidics. Nanoscale. 2014 Aug 07; 6(15):8521-6. PMID: [24953169](//www.ncbi.nlm.nih.gov/pubmed/24953169).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24953169/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:HumansCells
+
+  76. Zhao F, Zeng J, Parvez Arnob MM, Sun P, Qi J, Motwani P, Gheewala M, Li CH, Paterson A, **Strych U** , Raja B, Willson RC, Wolfe JC, Lee TR, Shih WC. Monolithic NPG nanoparticles with large surface area, tunable plasmonics, and high-density internal hot-spots. Nanoscale. 2014 Jul 21; 6(14):8199-207. PMID: [24926835](//www.ncbi.nlm.nih.gov/pubmed/24926835).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24926835/citedby/) Fields:
+
+Nan Nanotechnology
+
+  77. Litvinov J, Lopez Y, Adhikari M, Kourentzi K, **Strych U** , [Monzon FA](https://profiles.viictr.org/profile/267110), Foster W, Cagle PT, Willson RC, Hagstr?m AE. Ultrasensitive immuno-detection using viral nanoparticles with modular assembly using genetically-directed biotinylation. Biotechnol Lett. 2014 Sep; 36(9):1863-8. PMID: [24930095](//www.ncbi.nlm.nih.gov/pubmed/24930095); PMCID: [PMC4127420](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4127420).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24930095/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:HumansCells
+
+  78. Adhikari M, Dhamane S, Garvey G, [Chen WH](https://profiles.viictr.org/profile/23478750), Kourentzi K, **Strych U** , Willson RC, Hagstr?m AE. Functionalized viral nanoparticles as ultrasensitive reporters in lateral-flow assays. Analyst. 2013 Oct 07; 138(19):5584-7. PMID: [23905160](//www.ncbi.nlm.nih.gov/pubmed/23905160).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23905160/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansCells
+
+  79. Kanakaraj I, [Chen WH](https://profiles.viictr.org/profile/23478750), Poongavanam M, Dhamane S, Stagg LJ, Ladbury JE, Kourentzi K, **Strych U** , Willson RC. Biophysical characterization of VEGF-aHt DNA aptamer interactions. Int J Biol Macromol. 2013 Jun; 57:69-75. PMID: [23470436](//www.ncbi.nlm.nih.gov/pubmed/23470436).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23470436/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimals
+
+  80. [Pollet J](https://profiles.viictr.org/profile/16102688), **Strych U** , Willson RC. A peroxidase-active aptazyme as an isothermally amplifiable label in an aptazyme-linked oligonucleotide assay for low-picomolar IgE detection. Analyst. 2012 Dec 21; 137(24):5710-2. PMID: [23103946](//www.ncbi.nlm.nih.gov/pubmed/23103946).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23103946/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:Cells
+
+  81. Vu BV, Anthony KL, **Strych U** , Willson RC. Recovery of small DNA fragments from serum using compaction precipitation. PLoS One. 2012; 7(12):e51863. PMID: [23284792](//www.ncbi.nlm.nih.gov/pubmed/23284792); PMCID: [PMC3524094](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3524094).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23284792/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  82. [Gijavanekar C](https://profiles.viictr.org/profile/40654792), Drabek R, Soni M, Jackson GW, **Strych U** , Fox GE, Fofanov Y, Willson RC. Detection and typing of viruses using broadly sensitive cocktail-PCR and mass spectrometric cataloging: demonstration with dengue virus. J Mol Diagn. 2012 Jul; 14(4):402-7. PMID: [22579629](//www.ncbi.nlm.nih.gov/pubmed/22579629); PMCID: [PMC3391419](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3391419).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22579629/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  83. . Particulate labels. 2012.
+
+  84. [Gijavanekar C](https://profiles.viictr.org/profile/40654792), **Strych U** , Fofanov Y, Fox GE, Willson RC. Rare target enrichment for ultrasensitive PCR detection using cot-rehybridization and duplex-specific nuclease. Anal Biochem. 2012 Feb 01; 421(1):81-5. PMID: [22155054](//www.ncbi.nlm.nih.gov/pubmed/22155054).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22155054/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  85. Anthony KG, **Strych U** , Yeung KR, Shoen CS, Perez O, Krause KL, Cynamon MH, Aristoff PA, Koski RA. New classes of alanine racemase inhibitors identified by high-throughput screening show antimicrobial activity against Mycobacterium tuberculosis. PLoS One. 2011; 6(5):e20374. PMID: [21637807](//www.ncbi.nlm.nih.gov/pubmed/21637807); PMCID: [PMC3102704](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3102704).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21637807/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  86. Im H, Sharpe ML, **Strych U** , Davlieva M, Krause KL. The crystal structure of alanine racemase from Streptococcus pneumoniae, a target for structure-based drug design. BMC Microbiol. 2011 May 25; 11:116. PMID: [21612658](//www.ncbi.nlm.nih.gov/pubmed/21612658); PMCID: [PMC3146814](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3146814).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21612658/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  87. Liu Y, Stepanov VG, **Strych U** , Willson RC, Jackson GW, Fox GE. DNAzyme-mediated recovery of small recombinant RNAs from a 5S rRNA-derived chimera expressed in Escherichia coli. BMC Biotechnol. 2010 Dec 06; 10:85. PMID: [21134283](//www.ncbi.nlm.nih.gov/pubmed/21134283); PMCID: [PMC3019158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3019158).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21134283/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:Cells
+
+  88. . Functional nucleic acids and methods. 2010.
+
+  89. Manual of Industrial Microbiology and Biotechnology, Editors: Richard H Baltz, Julian Davies, Arnold L Demain. Purification and Characterization of Proteins (Ch.52). 2010.
+
+  90. . Biomimetic nucleic acids. 2009.
+
+  91. Davlieva M, **Strych U** , Hill RE, Krause KL, Cou?ago RM. Biochemical and structural characterization of alanine racemase from Bacillus anthracis (Ames). BMC Struct Biol. 2009 Aug 20; 9:53. PMID: [19695097](//www.ncbi.nlm.nih.gov/pubmed/19695097); PMCID: [PMC2743695](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2743695).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19695097/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:Cells
+
+  92. Zhang X, Potty AS, Jackson GW, Stepanov V, Tang A, Liu Y, Kourentzi K, **Strych U** , Fox GE, Willson RC. Engineered 5S ribosomal RNAs displaying aptamers recognizing vascular endothelial growth factor and malachite green. J Mol Recognit. 2009 Mar-Apr; 22(2):154-61. PMID: [19195013](//www.ncbi.nlm.nih.gov/pubmed/19195013).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19195013/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  93. Milligan DL, Tran SL, **Strych U** , Cook GM, Krause KL. The alanine racemase of Mycobacterium smegmatis is essential for growth in the absence of D-alanine. J Bacteriol. 2007 Nov; 189(22):8381-6. PMID: [17827284](//www.ncbi.nlm.nih.gov/pubmed/17827284); PMCID: [PMC2168708](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2168708).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17827284/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  94. **Strych U** , Davlieva M, Longtin JP, Murphy EL, Im H, Benedik MJ, Krause KL. Purification and preliminary crystallization of alanine racemase from Streptococcus pneumoniae. BMC Microbiol. 2007 May 17; 7:40. PMID: [17509154](//www.ncbi.nlm.nih.gov/pubmed/17509154); PMCID: [PMC1885262](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1885262).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17509154/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  95. . Compositions having antimycrobial activity including a hydroxamate or a hydroxamate and a hydroxylamine. 2005.
+
+  96. LeMagueres P, Im H, Ebalunode J, **Strych U** , Benedik MJ, Briggs JM, Kohn H, Krause KL. The 1.9 A crystal structure of alanine racemase from Mycobacterium tuberculosis contains a conserved entryway into the active site. Biochemistry. 2005 Feb 08; 44(5):1471-81. PMID: [15683232](//www.ncbi.nlm.nih.gov/pubmed/15683232).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15683232/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  97. LeMagueres P, Im H, Dvorak A, **Strych U** , Benedik M, Krause KL. Crystal structure at 1.45 A resolution of alanine racemase from a pathogenic bacterium, Pseudomonas aeruginosa, contains both internal and external aldimine forms. Biochemistry. 2003 Dec 23; 42(50):14752-61. PMID: [14674749](//www.ncbi.nlm.nih.gov/pubmed/14674749).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14674749/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  98. Kim MG, **Strych U** , Krause K, Benedik M, Kohn H. N(2)-substituted D,L-cycloserine derivatives: synthesis and evaluation as alanine racemase inhibitors. J Antibiot (Tokyo). 2003 Feb; 56(2):160-8. PMID: [12715876](//www.ncbi.nlm.nih.gov/pubmed/12715876).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12715876/citedby/) Fields:
+
+Ant Anti-Infective Agents
+
+Translation:Cells
+
+  99. . Evaluation of amino-substituted heterocyclic derivatives as alanine racemase inhibitors. Medicinal Chemistry Research. 2003; 3(12):130-138. [View Publication](http://www.scopus.com/record/display.url?eid=2-s2.0-0942301251&origin=inward&txGid=D093E8244FF7FA2D3585ACF1AD43833A.N5T5nM1aaTEF8rE6yKCR3A%3a2).
+
+  100. **Strych U** , Benedik MJ. Mutant analysis shows that alanine racemases from Pseudomonas aeruginosa and Escherichia coli are dimeric. J Bacteriol. 2002 Aug; 184(15):4321-5. PMID: [12107154](//www.ncbi.nlm.nih.gov/pubmed/12107154); PMCID: [PMC135199](//www.ncbi.nlm.nih.gov/pmc/articles/PMC135199).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12107154/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  101. **Strych U** , Penland RL, Jimenez M, Krause KL, Benedik MJ. Characterization of the alanine racemases from two mycobacteria. FEMS Microbiol Lett. 2001 Mar 15; 196(2):93-8. PMID: [11267762](//www.ncbi.nlm.nih.gov/pubmed/11267762).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11267762/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  102. **Strych U** , Huang HC, Krause KL, Benedik MJ. Characterization of the alanine racemases from Pseudomonas aeruginosa PAO1. Curr Microbiol. 2000 Oct; 41(4):290-4. PMID: [10977898](//www.ncbi.nlm.nih.gov/pubmed/10977898).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10977898/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  103. **Strych U** , Dai W, Benedik MJ. The NucE and NucD lysis proteins are not essential for secretion of the Serratia marcescens extracellular nuclease. Microbiology (Reading). 1999 May; 145 ( Pt 5):1209-1216. PMID: [10376837](//www.ncbi.nlm.nih.gov/pubmed/10376837).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10376837/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  104. Benedik MJ, **Strych U**. Serratia marcescens and its extracellular nuclease. FEMS Microbiol Lett. 1998 Aug 01; 165(1):1-13. PMID: [9711834](//www.ncbi.nlm.nih.gov/pubmed/9711834).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9711834/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  105. Wohlfarth S, Winkler UK, **Strych U**. Orotidine-5'-monophosphate decarboxylase from Pseudomonas aeruginosa PAO1: cloning, overexpression, and enzyme characterization. Curr Microbiol. 1994 Dec; 29(6):353-9. PMID: [7765522](//www.ncbi.nlm.nih.gov/pubmed/7765522).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7765522/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 105 publications over 25 distinct years, with a maximum of
+13 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|13&cht=bvs&chd=t:8,0,0,0,8,8,8,8,8,23,0,15,0,15,0,23,23,23,31,15,31,46,77,38,15,23,92,100,69,46,54&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 1  
+1998| 1  
+1999| 1  
+2000| 1  
+2001| 1  
+2002| 1  
+2003| 3  
+2005| 2  
+2007| 2  
+2009| 3  
+2010| 3  
+2011| 3  
+2012| 4  
+2013| 2  
+2014| 4  
+2015| 6  
+2016| 10  
+2017| 5  
+2018| 2  
+2019| 3  
+2020| 12  
+2021| 13  
+2022| 9  
+2023| 6  
+2024| 7  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+STRYCH's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (398)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Vaccines](https://profiles.viictr.org/profile/240614)
+  * [Alanine Racemase](https://profiles.viictr.org/profile/241398)
+  * [Spike Glycoprotein, Coronavirus](https://profiles.viictr.org/profile/27547189)
+  * [Viral Vaccines](https://profiles.viictr.org/profile/248319)
+  * [Chagas Disease](https://profiles.viictr.org/profile/247371)
+
+[Explore](https://profiles.viictr.org/profile/8065526/198)
+
+_
+
+Co-Authors (21)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [BOTTAZZI, MARIA](https://profiles.viictr.org/profile/269365)
+  * [HOTEZ, PETER](https://profiles.viictr.org/profile/266166)
+  * [POVEDA, CRISTINA](https://profiles.viictr.org/profile/37834418)
+  * [POLLET, JEROEN](https://profiles.viictr.org/profile/16102688)
+  * [CHEN, WEN-HSIANG](https://profiles.viictr.org/profile/23478750)
+
+[Explore](https://profiles.viictr.org/profile/8065526/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HOTEZ, PETER](https://profiles.viictr.org/profile/266166)
+  * [BOTTAZZI, MARIA](https://profiles.viictr.org/profile/269365)
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [HO, DAVID](https://profiles.viictr.org/profile/267305)
+  * [MUNOZ-RIVAS, FLOR](https://profiles.viictr.org/profile/267015)
+
+[Explore](https://profiles.viictr.org/profile/8065526/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ARRINGTON, AMY](https://profiles.viictr.org/profile/3009789)
+  * [BOTTAZZI, MARIA](https://profiles.viictr.org/profile/269365)
+  * [BUEKENS, PIERRE](https://profiles.viictr.org/profile/2619310)
+  * [WEATHERHEAD, JILL](https://profiles.viictr.org/profile/3010330)
+  * [ZHAN, BIN](https://profiles.viictr.org/profile/266656)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

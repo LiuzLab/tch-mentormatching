@@ -1,0 +1,1425 @@
+## GREGOR EICHELE
+
+| | Title| Adjunct Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Ma454m3CLI7VRIzgrn7GPw%3d%3d&rnd=7b7d4936-7992-4bb4-96e4-3a8e315b840d)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268289)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01HD028999 (EICHELE, GREGOR)Aug 15, 1992 - Jul 31, 1995NIH  
+MECHANISM OF SEGMENTATION IN THE VERTEBRATE HINDBRAIN  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01HD020209 (EICHELE, GREGOR)Sep 1, 1985 - Mar 31, 1999NIH  
+RETINOIDS IN VERTEBRATE DEVELOPMENT  
+Role: Principal Investigator  
+  
+* * *  
+  
+N01NS002332 (EICHELE, GREGOR)Jun 30, 1980 - Sep 29, 2001NIH/NINDS  
+HIGH THROUGHPUT ANALYSIS OF GENE EXPRESSIONS PATTERNS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Raghavan V, **Eichele G** , Larink O, Karin EL, S?ding J. RNA sequencing indicates widespread conservation of circadian clocks in marine zooplankton. NAR Genom Bioinform. 2023 Mar; 5(1):lqad007. PMID: [36814456](//www.ncbi.nlm.nih.gov/pubmed/36814456); PMCID: [PMC9939569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9939569).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36814456/citedby/)
+
+  2. Ditte Z, Silbern I, Ditte P, Urlaub H, **Eichele G**. Extracellular vesicles derived from the choroid plexus trigger the differentiation of neural stem cells. J Extracell Vesicles. 2022 Nov; 11(11):e12276. PMID: [36325603](//www.ncbi.nlm.nih.gov/pubmed/36325603); PMCID: [PMC9630752](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9630752).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36325603/citedby/) Fields:
+
+Bio Biomedical EngineeringCel Cell Biology
+
+Translation:Cells
+
+  3. Kranz A, Stewart AF, Michurina A, Sakib MS, Kerimoglu C, Kr?ger DM, Kaurani L, Islam MR, Joshi PD, Schr?der S, Centeno TP, Zhou J, Pradhan R, Cha J, Xu X, **Eichele G** , Zeisberg EM, Fischer A. Postnatal expression of the lysine methyltransferase SETD1B is essential for learning and the regulation of neuron-enriched genes. EMBO J. 2022 01 04; 41(1):e106459. PMID: [34806773](//www.ncbi.nlm.nih.gov/pubmed/34806773); PMCID: [PMC8724770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8724770).
+
+Citations:  Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  4. Tsai JW, Husse J, **Eichele G** , Franken P, Hubbard J, Kobayashi Frisk M, Ruppert E, Fuchs F, Robin-Choteau L, Calvel L, Bourgin P. Dissecting and modeling photic and melanopsin effects to predict sleep disturbances induced by irregular light exposure in mice. Proc Natl Acad Sci U S A. 2021 06 22; 118(25). PMID: [34155139](//www.ncbi.nlm.nih.gov/pubmed/34155139); PMCID: [PMC8237663](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8237663).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34155139/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  5. Martinez Hernandez A, Silbern I, Geffers I, Tatenhorst L, Becker S, Urlaub H, Zweckstetter M, Griesinger C, **Eichele G**. Low-Expressing Synucleinopathy Mouse Models Based on Oligomer-Forming Mutations and C-Terminal Truncation of a-Synuclein. Front Neurosci. 2021; 15:643391. PMID: [34220415](//www.ncbi.nlm.nih.gov/pubmed/34220415); PMCID: [PMC8248494](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8248494).
+
+Citations:
+
+  6. Ulmke PA, Sakib MS, Ditte P, Sokpor G, Kerimoglu C, Pham L, Xie Y, Mao X, Rosenbusch J, Teichmann U, Nguyen HP, Fischer A, **Eichele G** , Staiger JF, Tuoc T. Molecular Profiling Reveals Involvement of ESCO2 in Intermediate Progenitor Cell Maintenance in the Developing Mouse Cortex. Stem Cell Reports. 2021 04 13; 16(4):968-984. PMID: [33798452](//www.ncbi.nlm.nih.gov/pubmed/33798452); PMCID: [PMC8072132](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8072132).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33798452/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  7. Wang H, Pavlov SP, Williamson LH, Yamashima T, Yan J, Chongtham MC, Thaller C, Hsiao NH, Vachkov IH, Stoykova A, **Eichele G** , Tonchev AB. Transcriptome Response and Spatial Pattern of Gene Expression in the Primate Subventricular Zone Neurogenic Niche After Cerebral Ischemia. Front Cell Dev Biol. 2020; 8:584314. PMID: [33344448](//www.ncbi.nlm.nih.gov/pubmed/33344448); PMCID: [PMC7744782](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7744782).
+
+Citations:
+
+  8. Ajam T, De I, Petkau N, Whelan G, Pena V, **Eichele G**. Alternative catalytic residues in the active site of Esco acetyltransferases. Sci Rep. 2020 06 17; 10(1):9828. PMID: [32555289](//www.ncbi.nlm.nih.gov/pubmed/32555289); PMCID: [PMC7300003](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7300003).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  9. McNicoll F, K?hnel A, Biswas U, Hempel K, Whelan G, **Eichele G** , Jessberger R. Meiotic sex chromosome cohesion and autosomal synapsis are supported by Esco2. Life Sci Alliance. 2020 03; 3(3). PMID: [32051254](//www.ncbi.nlm.nih.gov/pubmed/32051254); PMCID: [PMC7025286](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7025286).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32051254/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  10. **Eichele G** , Bodenschatz E, Ditte Z, G?nther AK, Kapoor S, Wang Y, Westendorf C. Cilia-driven flows in the brain third ventricle. Philos Trans R Soc Lond B Biol Sci. 2020 02 17; 375(1792):20190154. PMID: [31884922](//www.ncbi.nlm.nih.gov/pubmed/31884922); PMCID: [PMC7017332](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7017332).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31884922/citedby/) Fields:
+
+Bio Biology
+
+Translation:Cells
+
+  11. Wang H, Yan J, Urban I, Kerimoglu C, Sakib MS, Benito E, Thaller C, Zhou X, Fischer A, **Eichele G**. TIP60/KAT5 is required for neuronal viability in hippocampal CA1. Sci Rep. 2019 11 07; 9(1):16173. PMID: [31700011](//www.ncbi.nlm.nih.gov/pubmed/31700011); PMCID: [PMC6838100](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6838100).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31700011/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  12. Petkau N, Budak H, Zhou X, Oster H, **Eichele G**. Acetylation of BMAL1 by TIP60 controls BRD4-P-TEFb recruitment to circadian promoters. Elife. 2019 07 11; 8. PMID: [31294688](//www.ncbi.nlm.nih.gov/pubmed/31294688); PMCID: [PMC6650244](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6650244).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31294688/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  13. Gillman AL, Lee J, Grigorian G, Arce FT, Wagner J, Fuhrmann M, Caruana M, Camilleri A, Vassallo N, Benz R, Giese A, Korte M, Lal R, Martinez Hernandez A, Urbanke H, Ryazanov S, Agbemenyah HY, Benito E, Jain G, Kaurani L, Leonov A, Rezaei-Ghaleh N, Wilken P, Zweckstetter M, Schneider A, Griesinger C, **Eichele G** , Fischer A. The diphenylpyrazole compound anle138b blocks A? channels and rescues disease phenotypes in a mouse model for amyloid pathology. EMBO Mol Med. 2018 01; 10(1):32-47. PMID: [29208638](//www.ncbi.nlm.nih.gov/pubmed/29208638); PMCID: [PMC5760857](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5760857).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29208638/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  14. Kiessling S, Ucar A, Chowdhury K, Oster H, **Eichele G**. Genetic background-dependent effects of murine micro RNAs on circadian clock function. PLoS One. 2017; 12(4):e0176547. PMID: [28448626](//www.ncbi.nlm.nih.gov/pubmed/28448626); PMCID: [PMC5407787](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5407787).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28448626/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  15. Schneider S, Grade S, Zhang Y, Kirchhoff F, Dimou L, Gruart A, Kr?ger S, **Eichele G** , Delgado Garc?a JM. Decrease in newly generated oligodendrocytes leads to motor dysfunctions and changed myelin structures that can be rescued by transplanted cells. Glia. 2016 12; 64(12):2201-2218. PMID: [27615452](//www.ncbi.nlm.nih.gov/pubmed/27615452).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27615452/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  16. Faubel R, Westendorf C, Bodenschatz E, **Eichele G**. Cilia-based flow network in the brain ventricles. Science. 2016 Jul 08; 353(6295):176-8. PMID: [27387952](//www.ncbi.nlm.nih.gov/pubmed/27387952).
+
+Citations:
+[82](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27387952/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  17. Husse J, **Eichele G** , Oster H. Synchronization of the mammalian circadian timing system: Light can control peripheral clocks independently of the SCN clock: alternate routes of entrainment optimize the alignment of the body's circadian clock network with external time. Bioessays. 2015 Oct; 37(10):1119-28. PMID: [26252253](//www.ncbi.nlm.nih.gov/pubmed/26252253); PMCID: [PMC5054915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5054915).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26252253/citedby/) Fields:
+
+Bio BiologyCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimals
+
+  18. Sisecioglu M, Budak H, Geffers L, Thaller C, **Eichele G** , ?ankaya M, ?iftci M, K?frevioglu ?I, ?zdemir H. A compendium of expression patterns of cholesterol biosynthetic enzymes in the mouse embryo. J Lipid Res. 2015 Aug; 56(8):1551-9. PMID: [26108225](//www.ncbi.nlm.nih.gov/pubmed/26108225); PMCID: [PMC4513996](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4513996).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  19. Hammerschmidt K, Whelan G, **Eichele G** , Fischer J. Mice lacking the cerebral cortex develop normal song: insights into the foundations of vocal learning. Sci Rep. 2015 Mar 06; 5:8808. PMID: [25744204](//www.ncbi.nlm.nih.gov/pubmed/25744204); PMCID: [PMC4351519](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4351519).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25744204/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  20. Carson J, Yaylaoglu M, Grabbe F, Brockmeyer M, Yavuz H, **Eichele G** , Shcherbatyy V, J?ckle K. A digital atlas of ion channel expression patterns in the two-week-old rat brain. Neuroinformatics. 2015 Jan; 13(1):111-25. PMID: [25284011](//www.ncbi.nlm.nih.gov/pubmed/25284011); PMCID: [PMC4303740](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4303740).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25284011/citedby/) Fields:
+
+Med Medical InformaticsNeu Neurology
+
+Translation:Animals
+
+  21. Husse J, Leliavski A, Tsang AH, Oster H, **Eichele G**. The light-dark cycle controls peripheral rhythmicity in mice with a genetically ablated suprachiasmatic nucleus clock. FASEB J. 2014 Nov; 28(11):4950-60. PMID: [25063847](//www.ncbi.nlm.nih.gov/pubmed/25063847).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25063847/citedby/) Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:Animals
+
+  22. Cui X, Yan J, Geffers L, **Eichele G**. A computational approach to estimate interorgan metabolic transport in a mammal. PLoS One. 2014; 9(6):e100963. PMID: [24971892](//www.ncbi.nlm.nih.gov/pubmed/24971892); PMCID: [PMC4074118](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4074118).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24971892/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  23. Kummer MP, Terwel D, Schwartz S, Schultze JL, Weinshenker D, Heneka MT, Urban I, Hammerschmidt T, Martinez A, **Eichele G** , Witten A, Figura S, Stoll M, Pape HC. Ear2 deletion causes early memory and learning deficits in APP/PS1 mice. J Neurosci. 2014 Jun 25; 34(26):8845-54. PMID: [24966384](//www.ncbi.nlm.nih.gov/pubmed/24966384); PMCID: [PMC4147626](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4147626).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24966384/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  24. Glerup S, Olsen D, Vaegter CB, Gustafsen C, Sjoegaard SS, Hermey G, Kjolby M, Molgaard S, Ulrichsen M, Boggild S, Skeldal S, Fjorback AN, Nyengaard JR, Jacobsen J, Bender D, Bjarkam CR, Madsen P, Willnow TE, Petersen CM, Nykjaer A, S?rensen ES, F?chtbauer EM, **Eichele G**. SorCS2 regulates dopaminergic wiring and is processed into an apoptotic two-chain receptor in peripheral glia. Neuron. 2014 Jun 04; 82(5):1074-87. PMID: [24908487](//www.ncbi.nlm.nih.gov/pubmed/24908487).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24908487/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  25. Hintze SC, **Eichele G** , Lehnert H, Oster H, Husse J. Circadian clock genes Per1 and Per2 regulate the response of metabolism-associated transcripts to sleep disruption. PLoS One. 2012; 7(12):e52983. PMID: [23285241](//www.ncbi.nlm.nih.gov/pubmed/23285241); PMCID: [PMC3532432](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3532432).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23285241/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimals
+
+  26. Zhang L, Abraham D, Lin ST, Oster H, **Eichele G** , Fu YH, Pt?cek LJ. PKC? participates in food entrainment by regulating BMAL1. Proc Natl Acad Sci U S A. 2012 Dec 11; 109(50):20679-84. PMID: [23185022](//www.ncbi.nlm.nih.gov/pubmed/23185022); PMCID: [PMC3528600](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3528600).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23185022/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  27. Tetzlaff B, Cui X, Yan J, **Eichele G** , Geffers L. METscout: a pathfinder exploring the landscape of metabolites, enzymes and transporters. Nucleic Acids Res. 2013 Jan; 41(Database issue):D1047-54. PMID: [23019219](//www.ncbi.nlm.nih.gov/pubmed/23019219); PMCID: [PMC3531068](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3531068).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23019219/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  28. Herrmann B, **Eichele G** , Geffers L. Web-based digital gene expression atlases for the mouse. Mamm Genome. 2012 Oct; 23(9-10):525-38. PMID: [22936000](//www.ncbi.nlm.nih.gov/pubmed/22936000).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22936000/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  29. Whelan G, Kreidl E, Peters JM, **Eichele G**. The non-redundant function of cohesin acetyltransferase Esco2: some answers and new questions. Nucleus. 2012 Jul 01; 3(4):330-4. PMID: [22614755](//www.ncbi.nlm.nih.gov/pubmed/22614755).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22614755/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimals
+
+  30. Whelan G, Kreidl E, Wutz G, Egner A, Peters JM, **Eichele G**. Cohesin acetyltransferase Esco2 is a cell viability factor and is required for cohesion in pericentric heterochromatin. EMBO J. 2012 Jan 04; 31(1):71-82. PMID: [22101327](//www.ncbi.nlm.nih.gov/pubmed/22101327); PMCID: [PMC3252581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3252581).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22101327/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  31. Antypa M, Faux C, **Eichele G** , Parnavelas JG, Andrews WD. Differential gene expression in migratory streams of cortical interneurons. Eur J Neurosci. 2011 Nov; 34(10):1584-94. PMID: [22103416](//www.ncbi.nlm.nih.gov/pubmed/22103416); PMCID: [PMC3401901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3401901).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22103416/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  32. Husse J, Zhou X, Shostak A, Oster H, **Eichele G**. Synaptotagmin10-Cre, a driver to disrupt clock genes in the SCN. J Biol Rhythms. 2011 Oct; 26(5):379-89. PMID: [21921292](//www.ncbi.nlm.nih.gov/pubmed/21921292).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21921292/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  33. Diez-Roux G, Banfi S, Sultan M, Geffers L, Anand S, Rozado D, Magen A, Canidio E, Pagani M, Peluso I, Lin-Marq N, Koch M, Bilio M, Cantiello I, Verde R, De Masi C, Bianchi SA, Cicchini J, Perroud E, Mehmeti S, Dagand E, Schrinner S, Schmidt K, Metz K, Zwingmann C, Brieske N, Springer C, Hernandez AM, Herzog S, Grabbe F, Sieverding C, Fischer B, Schrader K, Brockmeyer M, Dettmer S, Helbig C, Alunni V, Battaini MA, Mura C, Henrichsen CN, Garcia-Lopez R, Echevarria D, Puelles E, Garcia-Calero E, Kruse S, Uhr M, Kauck C, Feng G, Milyaev N, Ong CK, Kumar L, Lam M, Semple CA, Gyenesei A, Mundlos S, Radelof U, Lehrach H, Sarmientos P, Reymond A, Davidson DR, Antonarakis SE, Yaspo ML, Martinez S, Baldock RA, **Eichele G** , [Ballabio A](https://profiles.viictr.org/profile/266220), N?rnberger A, Doll? P. A high-resolution anatomical atlas of the transcriptome in the mouse embryo. PLoS Biol. 2011 Jan 18; 9(1):e1000582. PMID: [21267068](//www.ncbi.nlm.nih.gov/pubmed/21267068); PMCID: [PMC3022534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3022534).
+
+Citations:
+[329](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21267068/citedby/)
+Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  34. **Eichele G** , Diez-Roux G. High-throughput analysis of gene expression on tissue sections by in situ hybridization. Methods. 2011 Apr; 53(4):417-23. PMID: [21185383](//www.ncbi.nlm.nih.gov/pubmed/21185383).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21185383/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimals
+
+  35. **Eichele G** , Oster H, Kiessling S. Adrenal glucocorticoids have a key role in circadian resynchronization in a mouse model of jet lag. J Clin Invest. 2010 Jul; 120(7):2600-9. PMID: [20577050](//www.ncbi.nlm.nih.gov/pubmed/20577050); PMCID: [PMC2898589](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2898589).
+
+Citations:
+[105](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20577050/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:Animals
+
+  36. Enjin A, Rabe N, Nakanishi ST, Vallstedt A, Gezelius H, Memic F, Lind M, Hjalt T, Tourtellotte WG, Bruder C, **Eichele G** , Whelan PJ, Kullander K. Identification of novel spinal cholinergic genetic subtypes disclose Chodl and Pitx2 as markers for fast motor neurons and partition cells. J Comp Neurol. 2010 Jun 15; 518(12):2284-304. PMID: [20437528](//www.ncbi.nlm.nih.gov/pubmed/20437528).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20437528/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  37. Carson J, Ju T, Bello M, Thaller C, Warren J, Kakadiaris IA, Chiu W, **Eichele G**. Automated pipeline for atlas-based annotation of gene expression patterns: application to postnatal day 7 mouse brain. Methods. 2010 Feb; 50(2):85-95. PMID: [19698790](//www.ncbi.nlm.nih.gov/pubmed/19698790); PMCID: [PMC2818703](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2818703).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19698790/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimals
+
+  38. Schuchardt JP, Giese N, Stefan M, Hopf H, Pongratz I, **Eichele G** , Pettersson K, Nau H, Wahlstr?m D, R?egg J, H?kansson H. The endogenous retinoid metabolite S-4-oxo-9-cis-13,14-dihydro-retinoic acid activates retinoic acid receptor signalling both in vitro and in vivo. FEBS J. 2009 Jun; 276(11):3043-59. PMID: [19490107](//www.ncbi.nlm.nih.gov/pubmed/19490107).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19490107/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  39. Hermann-Kleiter N, Gruber T, Lutz-Nicoladoni C, Thuille N, Fresser F, Labi V, Schiefermeier N, Warnecke M, Huber L, Villunger A, **Eichele G** , Kaminski S, Baier G. The nuclear orphan receptor NR2F6 suppresses lymphocyte activation and T helper 17-dependent autoimmunity. Immunity. 2008 Aug 15; 29(2):205-16. PMID: [18701084](//www.ncbi.nlm.nih.gov/pubmed/18701084); PMCID: [PMC4941926](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4941926).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18701084/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  40. Oster H, Wichert SP, Reinecke L, Wehr MC, Reinecke J, **Eichele G** , Taneja R, Nave KA, Rossner MJ. Disturbed clockwork resetting in Sharp-1 and Sharp-2 single and double mutant mice. PLoS One. 2008 Jul 23; 3(7):e2762. PMID: [18648504](//www.ncbi.nlm.nih.gov/pubmed/18648504); PMCID: [PMC2447179](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2447179).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18648504/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  41. Andreas S, **Eichele G**. Sleep apnoea: time to consider clock genes. Eur Respir J. 2008 Jul; 32(1):1-2. PMID: [18591331](//www.ncbi.nlm.nih.gov/pubmed/18591331).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18591331/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansAnimals
+
+  42. Visel A, Carson J, Oldekamp J, Warnecke M, Jakubcakova V, Zhou X, [Shaw CA](https://profiles.viictr.org/profile/269433), Alvarez-Bolado G, **Eichele G**. Regulatory pathway analysis by high-throughput in situ hybridization. PLoS Genet. 2007 Oct; 3(10):1867-83. PMID: [17953485](//www.ncbi.nlm.nih.gov/pubmed/17953485); PMCID: [PMC2041993](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2041993).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17953485/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  43. Cankaya M, Hernandez AM, Ciftci M, Beydemir S, Ozdemir H, Budak H, Gulcin I, Comakli V, Emircupani T, Ekinci D, Kuzu M, Jiang Q, **Eichele G** , Kufrevioglu OI. An analysis of expression patterns of genes encoding proteins with catalytic activities. BMC Genomics. 2007 Jul 12; 8:232. PMID: [17626619](//www.ncbi.nlm.nih.gov/pubmed/17626619); PMCID: [PMC1976134](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1976134).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17626619/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  44. Jakubcakova V, Oster H, Tamanini F, Cadenas C, Leitges M, van der Horst GT, **Eichele G**. Light entrainment of the mammalian circadian clock by a PRKCA-dependent posttranslational mechanism. Neuron. 2007 Jun 07; 54(5):831-43. PMID: [17553429](//www.ncbi.nlm.nih.gov/pubmed/17553429).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17553429/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  45. Lein ES, Hawrylycz MJ, Ao N, Ayres M, Bensinger A, Bernard A, Boe AF, Boguski MS, Brockway KS, Byrnes EJ, Chen L, Chen L, Chen TM, Chin MC, Chong J, Crook BE, Czaplinska A, Dang CN, Datta S, Dee NR, Desaki AL, Desta T, Diep E, Dolbeare TA, Donelan MJ, Dong HW, Dougherty JG, Duncan BJ, Ebbert AJ, **Eichele G** , Estin LK, Faber C, Facer BA, Fields R, Fischer SR, Fliss TP, Frensley C, Gates SN, Glattfelder KJ, Halverson KR, Hart MR, Hohmann JG, Howell MP, Jeung DP, Johnson RA, Karr PT, Kawal R, Kidney JM, Knapik RH, Kuan CL, Lake JH, Laramee AR, Larsen KD, Lau C, Lemon TA, Liang AJ, Liu Y, Luong LT, Michaels J, Morgan JJ, Morgan RJ, Mortrud MT, Mosqueda NF, Ng LL, Ng R, Orta GJ, Overly CC, Pak TH, Parry SE, Pathak SD, Pearson OC, Puchalski RB, Riley ZL, Rockett HR, Rowland SA, Royall JJ, Ruiz MJ, Sarno NR, Schaffnit K, Shapovalova NV, Sivisay T, Slaughterbeck CR, Smith SC, Smith KA, Smith BI, Sodt AJ, Stewart NN, Stumpf KR, Sunkin SM, Sutram M, Tam A, Teemer CD, Thaller C, Thompson CL, Varnam LR, Visel A, Whitlock RM, Wohnoutka PE, Wolkey CK, Wong VY, Wood M, Yaylaoglu MB, Young RC, Youngstrom BL, Yuan XF, Zhang B, Zwingman TA, Jones AR. Genome-wide atlas of gene expression in the adult mouse brain. Nature. 2007 Jan 11; 445(7124):168-76. PMID: [17151600](//www.ncbi.nlm.nih.gov/pubmed/17151600).
+
+Citations:
+[2450](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17151600/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Animals
+
+  46. Chambon P, **Eichele G** , Evans RM, Lazar MA, Leid M, De Lera AR, Lotan R, Mangelsdorf DJ, Gronemeyer H, Germain P. International Union of Pharmacology. LX. Retinoic acid receptors. Pharmacol Rev. 2006 Dec; 58(4):712-25. PMID: [17132850](//www.ncbi.nlm.nih.gov/pubmed/17132850).
+
+Citations:
+[147](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17132850/citedby/)
+Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  47. Chambon P, **Eichele G** , Evans RM, Lazar MA, Leid M, De Lera AR, Lotan R, Mangelsdorf DJ, Gronemeyer H, Germain P. International Union of Pharmacology. LXIII. Retinoid X receptors. Pharmacol Rev. 2006 Dec; 58(4):760-72. PMID: [17132853](//www.ncbi.nlm.nih.gov/pubmed/17132853).
+
+Citations:
+[171](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17132853/citedby/)
+Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimals
+
+  48. Damerow S, Hut RA, **Eichele G** , Oster H. Transcriptional profiling in the adrenal gland reveals circadian regulation of hormone biosynthesis genes and nucleosome assembly genes. J Biol Rhythms. 2006 Oct; 21(5):350-61. PMID: [16998155](//www.ncbi.nlm.nih.gov/pubmed/16998155).
+
+Citations:
+[103](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16998155/citedby/)
+Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  49. Oster H, Damerow S, Kiessling S, Jakubcakova V, Abraham D, Tian J, Hoffmann MW, **Eichele G**. The circadian rhythm of glucocorticoids is regulated by a gating mechanism residing in the adrenal cortical clock. Cell Metab. 2006 Aug; 4(2):163-73. PMID: [16890544](//www.ncbi.nlm.nih.gov/pubmed/16890544).
+
+Citations:
+[189](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16890544/citedby/)
+Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:AnimalsCells
+
+  50. Reiner O, Peter B, Levy T, Kaplan A, Sapir T, Orr I, Barkai N, **Eichele G** , Bergmann S, Coquelle FM. The evolving doublecortin (DCX) superfamily. BMC Genomics. 2006 Jul 26; 7:188. PMID: [16869982](//www.ncbi.nlm.nih.gov/pubmed/16869982); PMCID: [PMC1550402](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1550402).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16869982/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  51. **Eichele G** , Alvarez-Bolado G. Analysing the developing brain transcriptome with the GenePaint platform. J Physiol. 2006 Sep 01; 575(Pt 2):347-52. PMID: [16825306](//www.ncbi.nlm.nih.gov/pubmed/16825306); PMCID: [PMC1819436](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1819436).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16825306/citedby/) Fields:
+
+Phy Physiology
+
+Translation:HumansAnimalsCells
+
+  52. Visel A, Alvarez-Bolado G, Thaller C, **Eichele G**. Comprehensive analysis of the expression patterns of the adenylate cyclase gene family in the developing and adult mouse brain. J Comp Neurol. 2006 Jun 10; 496(5):684-97. PMID: [16615126](//www.ncbi.nlm.nih.gov/pubmed/16615126).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16615126/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  53. Abraham D, Dallmann R, Steinlechner S, Albrecht U, **Eichele G** , Oster H. Restoration of circadian rhythmicity in circadian clock-deficient mice in constant light. J Biol Rhythms. 2006 Jun; 21(3):169-76. PMID: [16731656](//www.ncbi.nlm.nih.gov/pubmed/16731656).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16731656/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  54. Levy T, Bergmann S, Wolf SG, Bar-El D, Sapir T, Brody Y, Orr I, Barkai N, **Eichele G** , Reiner O, Coquelle FM. Common and divergent roles for members of the mouse DCX superfamily. Cell Cycle. 2006 May; 5(9):976-83. PMID: [16628014](//www.ncbi.nlm.nih.gov/pubmed/16628014).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16628014/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  55. Ju T, Warren J, Carson J, Bello M, Kakadiaris I, Chiu W, Thaller C, **Eichele G**. 3D volume reconstruction of a mouse brain from histological sections using warp filtering. J Neurosci Methods. 2006 Sep 30; 156(1-2):84-100. PMID: [16580732](//www.ncbi.nlm.nih.gov/pubmed/16580732).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16580732/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  56. Tsukada M, Prokscha A, **Eichele G**. Neurabin II mediates doublecortin-dephosphorylation on actin filaments. Biochem Biophys Res Commun. 2006 May 12; 343(3):839-47. PMID: [16564023](//www.ncbi.nlm.nih.gov/pubmed/16564023).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16564023/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  57. Yaylaoglu MB, Titmus A, Visel A, Alvarez-Bolado G, Thaller C, **Eichele G**. Comprehensive expression atlas of fibroblast growth factors and their receptors generated by a novel robotic in situ hybridization platform. Dev Dyn. 2005 Oct; 234(2):371-86. PMID: [16123981](//www.ncbi.nlm.nih.gov/pubmed/16123981).
+
+Citations:
+[85](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16123981/citedby/) Fields:
+
+Ana Anatomy
+
+Translation:AnimalsCells
+
+  58. Carson JP, Ju T, Lu HC, Thaller C, Xu M, Pallas SL, Crair MC, Warren J, Chiu W, **Eichele G**. A digital atlas to characterize the mouse brain transcriptome. PLoS Comput Biol. 2005 Sep; 1(4):e41. PMID: [16184189](//www.ncbi.nlm.nih.gov/pubmed/16184189); PMCID: [PMC1215388](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1215388).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16184189/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  59. Willnow T, Antignac C, Br?ndli A, Christensen E, Cox R, Davidson D, Davies J, Devuyst O, **Eichele G** , Hastie N, Verroust P, Schedl A, Meij I. The European renal genome project: an integrated approach towards understanding the genetics of kidney development and disease. Organogenesis. 2005 Apr; 2(2):42-7. PMID: [19521566](//www.ncbi.nlm.nih.gov/pubmed/19521566); PMCID: [PMC2634085](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2634085).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19521566/citedby/) Fields:
+
+Bio BiologyBio BiotechnologyHis Histology
+
+  60. Carson JP, **Eichele G** , Chiu W. A method for automated detection of gene expression required for the establishment of a digital transcriptome-wide gene expression atlas. J Microsc. 2005 Mar; 217(Pt 3):275-81. PMID: [15725131](//www.ncbi.nlm.nih.gov/pubmed/15725131).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15725131/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  61. Oster H, Revelli JP, Alvarez-Bolado G, **Eichele G** , Warnecke M. Abnormal development of the locus coeruleus in Ear2(Nr2f6)-deficient mice impairs the functionality of the forebrain clock and affects nociception. Genes Dev. 2005 Mar 01; 19(5):614-25. PMID: [15741322](//www.ncbi.nlm.nih.gov/pubmed/15741322); PMCID: [PMC551581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC551581).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15741322/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  62. Tsukada M, Prokscha A, Ungewickell E, **Eichele G**. Doublecortin association with actin filaments is regulated by neurabin II. J Biol Chem. 2005 Mar 25; 280(12):11361-8. PMID: [15632197](//www.ncbi.nlm.nih.gov/pubmed/15632197).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15632197/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  63. Bello M, Ju T, Warren J, Carson J, Chiu W, Thaller C, **Eichele G** , Kakadiaris IA. Hybrid segmentation framework for tissue images containing gene expression data. Med Image Comput Comput Assist Interv. 2005; 8(Pt 1):254-61. PMID: [16685853](//www.ncbi.nlm.nih.gov/pubmed/16685853).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16685853/citedby/) Fields:
+
+Dia Diagnostic ImagingMed Medical Informatics
+
+Translation:Animals
+
+  64. Oster H, **Eichele G** , Leitges M. Differential expression of atypical PKCs in the adult mouse brain. Brain Res Mol Brain Res. 2004 Aug 23; 127(1-2):79-88. PMID: [15306123](//www.ncbi.nlm.nih.gov/pubmed/15306123).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15306123/citedby/) Fields:
+
+Bra BrainMol Molecular Biology
+
+Translation:Animals
+
+  65. Carson JP, Ju T, Thaller C, Warren J, Bello M, Kakadiaris I, Chiu W, **Eichele G**. Automated characterization of gene expression patterns with an atlas of the mouse brain. Conf Proc IEEE Eng Med Biol Soc. 2004; 2004:2917-20. PMID: [17270888](//www.ncbi.nlm.nih.gov/pubmed/17270888).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17270888/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+  66. Visel A, Thaller C, **Eichele G**. GenePaint.org: an atlas of gene expression patterns in the mouse embryo. Nucleic Acids Res. 2004 Jan 01; 32(Database issue):D552-6. PMID: [14681479](//www.ncbi.nlm.nih.gov/pubmed/14681479); PMCID: [PMC308763](//www.ncbi.nlm.nih.gov/pmc/articles/PMC308763).
+
+Citations:
+[305](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14681479/citedby/)
+Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  67. Tsukada M, Prokscha A, Oldekamp J, **Eichele G**. Identification of neurabin II as a novel doublecortin interacting protein. Mech Dev. 2003 Sep; 120(9):1033-43. PMID: [14550532](//www.ncbi.nlm.nih.gov/pubmed/14550532).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14550532/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  68. Moeller C, Swindell EC, Kispert A, **Eichele G**. Carboxypeptidase Z (CPZ) modulates Wnt signaling and regulates the development of skeletal elements in the chicken. Development. 2003 Nov; 130(21):5103-11. PMID: [12944424](//www.ncbi.nlm.nih.gov/pubmed/12944424).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12944424/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  69. **Eichele G** , Albrecht U. The mammalian circadian clock. Curr Opin Genet Dev. 2003 Jun; 13(3):271-7. PMID: [12787789](//www.ncbi.nlm.nih.gov/pubmed/12787789).
+
+Citations:
+[84](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12787789/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimals
+
+  70. Yan W, Assadi AH, Wynshaw-Boris A, **Eichele G** , [Matzuk MM](https://profiles.viictr.org/profile/266520), [Clark GD](https://profiles.viictr.org/profile/268169). Previously uncharacterized roles of platelet-activating factor acetylhydrolase 1b complex in mouse spermatogenesis. Proc Natl Acad Sci U S A. 2003 Jun 10; 100(12):7189-94. PMID: [12775763](//www.ncbi.nlm.nih.gov/pubmed/12775763); PMCID: [PMC165851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC165851).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12775763/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  71. Ju T, Warren J, **Eichele G** , Thaller C, Chiu W, Carson J. A geometric database for gene expression data. Symp Geom Process. 2003; 2003:166-176. PMID: [20631855](//www.ncbi.nlm.nih.gov/pubmed/20631855); PMCID: [PMC2903551](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2903551).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20631855/citedby/)
+
+  72. Reymond A, Marigo V, Yaylaoglu MB, Leoni A, Ucla C, Scamuffa N, Caccioppoli C, Dermitzakis ET, Lyle R, Banfi S, **Eichele G** , Antonarakis SE, [Ballabio A](https://profiles.viictr.org/profile/266220). Human chromosome 21 gene expression atlas in the mouse. Nature. 2002 Dec 05; 420(6915):582-6. PMID: [12466854](//www.ncbi.nlm.nih.gov/pubmed/12466854).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12466854/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  73. Carson JP, Thaller C, **Eichele G**. A transcriptome atlas of the mouse brain at cellular resolution. Curr Opin Neurobiol. 2002 Oct; 12(5):562-5. PMID: [12367636](//www.ncbi.nlm.nih.gov/pubmed/12367636).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12367636/citedby/) Fields:
+
+Bio BiologyNeu Neurology
+
+Translation:AnimalsCells
+
+  74. Moeller C, Yaylaoglu MB, Alvarez-Bolado G, Thaller C, **Eichele G**. Murine Lix1, a novel marker for substantia nigra, cortical layer 5, and hindbrain structures. Brain Res Gene Expr Patterns. 2002 Oct; 1(3-4):199-203. PMID: [12638132](//www.ncbi.nlm.nih.gov/pubmed/12638132).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12638132/citedby/) Fields:
+
+Bra BrainMol Molecular Biology
+
+Translation:AnimalsCells
+
+  75. Oberg KC, Pira CU, Revelli JP, Ratz B, Aguilar-Cordova E, **Eichele G**. Efficient ectopic gene expression targeting chick mesoderm. Dev Dyn. 2002 Jul; 224(3):291-302. PMID: [12112459](//www.ncbi.nlm.nih.gov/pubmed/12112459).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12112459/citedby/) Fields:
+
+Ana Anatomy
+
+Translation:HumansAnimalsCells
+
+  76. Swindell EC, Moeller C, Thaller C, **Eichele G**. Cloning and expression analysis of chicken Lix1, a founding member of a novel gene family. Mech Dev. 2001 Dec; 109(2):405-8. PMID: [11731258](//www.ncbi.nlm.nih.gov/pubmed/11731258).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11731258/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  77. Sweeney KJ, Prokscha A, **Eichele G**. NudE-L, a novel Lis1-interacting protein, belongs to a family of vertebrate coiled-coil proteins. Mech Dev. 2001 Mar; 101(1-2):21-33. PMID: [11231056](//www.ncbi.nlm.nih.gov/pubmed/11231056).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11231056/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  78. Yamada M, Revelli JP, **Eichele G** , Barron M, Schwartz RJ. Expression of chick Tbx-2, Tbx-3, and Tbx-5 genes during early heart development: evidence for BMP2 induction of Tbx2. Dev Biol. 2000 Dec 01; 228(1):95-105. PMID: [11087629](//www.ncbi.nlm.nih.gov/pubmed/11087629).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11087629/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  79. Thaller C, Shalev M, Frolov A, **Eichele G** , [Thompson TC](https://profiles.viictr.org/profile/12582753), Williams RH, Dillioglugil O, [Kadmon D](https://profiles.viictr.org/profile/268024). Fenretinide therapy in prostate cancer: effects on tissue and serum retinoid concentration. J Clin Oncol. 2000 Nov 15; 18(22):3804-8. PMID: [11078493](//www.ncbi.nlm.nih.gov/pubmed/11078493).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11078493/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCTClinical Trials
+
+  80. Sweeney KJ, [Clark GD](https://profiles.viictr.org/profile/268169), Prokscha A, Dobyns WB, **Eichele G**. Lissencephaly associated mutations suggest a requirement for the PAFAH1B heterotrimeric complex in brain development. Mech Dev. 2000 Apr; 92(2):263-71. PMID: [10727864](//www.ncbi.nlm.nih.gov/pubmed/10727864).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10727864/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansCells
+
+  81. Swindell EC, Thaller C, Sockanathan S, Petkovich M, Jessell TM, **Eichele G**. Complementary domains of retinoic acid production and degradation in the early chick embryo. Dev Biol. 1999 Dec 01; 216(1):282-96. PMID: [10588879](//www.ncbi.nlm.nih.gov/pubmed/10588879).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10588879/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  82. Yamada M, Szendro PI, Prokscha A, Schwartz RJ, **Eichele G**. Evidence for a role of Smad6 in chick cardiac development. Dev Biol. 1999 Nov 01; 215(1):48-61. PMID: [10525349](//www.ncbi.nlm.nih.gov/pubmed/10525349).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10525349/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  83. Abu-Issa R, **Eichele G** , Youssoufian H. Expression of the Fanconi anemia group A gene (Fanca) during mouse embryogenesis. Blood. 1999 Jul 15; 94(2):818-24. PMID: [10397750](//www.ncbi.nlm.nih.gov/pubmed/10397750).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10397750/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  84. Zheng B, Larkin DW, Albrecht U, Sun ZS, Sage M, **Eichele G** , Lee CC, Bradley A. The mPer2 gene encodes a functional component of the mammalian circadian clock. Nature. 1999 Jul 08; 400(6740):169-73. PMID: [10408444](//www.ncbi.nlm.nih.gov/pubmed/10408444).
+
+Citations:
+[286](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10408444/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Animals
+
+  85. Swindell EC, **Eichele G**. Retinoid metabolizing enzymes in development. Biofactors. 1999; 10(2-3):85-9. PMID: [10609867](//www.ncbi.nlm.nih.gov/pubmed/10609867).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10609867/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  86. Jiang YH, Armstrong D, Albrecht U, Atkins CM, [Noebels JL](https://profiles.viictr.org/profile/269703), **Eichele G** , Sweatt JD, Beaudet AL. Mutation of the Angelman ubiquitin ligase in mice causes increased cytoplasmic p53 and deficits of contextual learning and long-term potentiation. Neuron. 1998 Oct; 21(4):799-811. PMID: [9808466](//www.ncbi.nlm.nih.gov/pubmed/9808466).
+
+Citations:
+[368](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9808466/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  87. Morris SM, Albrecht U, Reiner O, **Eichele G** , Yu-Lee LY. The lissencephaly gene product Lis1, a protein involved in neuronal migration, interacts with a nuclear movement protein, NudC. Curr Biol. 1998 May 07; 8(10):603-6. PMID: [9601647](//www.ncbi.nlm.nih.gov/pubmed/9601647).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9601647/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  88. Albrecht U, Sun ZS, **Eichele G** , Lee CC. A differential response of two putative mammalian circadian regulators, mper1 and mper2, to light. Cell. 1997 Dec 26; 91(7):1055-64. PMID: [9428527](//www.ncbi.nlm.nih.gov/pubmed/9428527).
+
+Citations:
+[247](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9428527/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  89. Sun ZS, Albrecht U, Zhuchenko O, Bailey J, **Eichele G** , Lee CC. RIGUI, a putative mammalian ortholog of the Drosophila period gene. Cell. 1997 Sep 19; 90(6):1003-11. PMID: [9323128](//www.ncbi.nlm.nih.gov/pubmed/9323128).
+
+Citations:
+[158](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9323128/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  90. **Eichele G**. Retinoids: from hindbrain patterning to Parkinson disease. Trends Genet. 1997 Sep; 13(9):343-5. PMID: [9287485](//www.ncbi.nlm.nih.gov/pubmed/9287485).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9287485/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  91. Albrecht U, Sutcliffe JS, Cattanach BM, Beechey CV, Armstrong D, **Eichele G** , Beaudet AL. Imprinted expression of the murine Angelman syndrome gene, Ube3a, in hippocampal and Purkinje neurons. Nat Genet. 1997 Sep; 17(1):75-8. PMID: [9288101](//www.ncbi.nlm.nih.gov/pubmed/9288101).
+
+Citations:
+[181](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9288101/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  92. Reecy JM, Yamada M, Cummings K, Sosic D, Chen CY, **Eichele G** , Olson EN, Schwartz RJ. Chicken Nkx-2.8: a novel homeobox gene expressed in early heart progenitor cells and pharyngeal pouch-2 and -3 endoderm. Dev Biol. 1997 Aug 15; 188(2):295-311. PMID: [9268576](//www.ncbi.nlm.nih.gov/pubmed/9268576).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9268576/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  93. Helms JA, Kim CH, Hu D, Minkoff R, Thaller C, **Eichele G**. Sonic hedgehog participates in craniofacial morphogenesis and is down-regulated by teratogenic doses of retinoic acid. Dev Biol. 1997 Jul 01; 187(1):25-35. PMID: [9224671](//www.ncbi.nlm.nih.gov/pubmed/9224671).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9224671/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  94. Lu HC, Revelli JP, Goering L, Thaller C, **Eichele G**. Retinoid signaling is required for the establishment of a ZPA and for the expression of Hoxb-8, a mediator of ZPA formation. Development. 1997 May; 124(9):1643-51. PMID: [9165113](//www.ncbi.nlm.nih.gov/pubmed/9165113).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9165113/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  95. Sharan SK, Morimatsu M, Albrecht U, Lim DS, Regel E, Dinh C, Sands A, **Eichele G** , Hasty P, Bradley A. Embryonic lethality and radiation hypersensitivity mediated by Rad51 in mice lacking Brca2. Nature. 1997 Apr 24; 386(6627):804-10. PMID: [9126738](//www.ncbi.nlm.nih.gov/pubmed/9126738).
+
+Citations:
+[277](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9126738/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  96. Lu HC, **Eichele G** , Thaller C. Ligand-bound RXR can mediate retinoid signal transduction during embryogenesis. Development. 1997 Jan; 124(1):195-203. PMID: [9006080](//www.ncbi.nlm.nih.gov/pubmed/9006080).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9006080/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  97. Albrecht U, Abu-Issa R, R?tz B, Hattori M, Aoki J, Arai H, Inoue K, **Eichele G**. Platelet-activating factor acetylhydrolase expression and activity suggest a link between neuronal migration and platelet-activating factor. Dev Biol. 1996 Dec 15; 180(2):579-93. PMID: [8954729](//www.ncbi.nlm.nih.gov/pubmed/8954729).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8954729/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  98. Ben-Arie N, McCall AE, Berkman S, **Eichele G** , Bellen HJ, Zoghbi HY. Evolutionary conservation of sequence and expression of the bHLH protein Atonal suggests a conserved role in neurogenesis. Hum Mol Genet. 1996 Sep; 5(9):1207-16. PMID: [8872459](//www.ncbi.nlm.nih.gov/pubmed/8872459).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8872459/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  99. Croissant JD, Kim JH, **Eichele G** , Goering L, Lough J, Prywes R, Schwartz RJ. Avian serum response factor expression restricted primarily to muscle cell lineages is required for alpha-actin gene transcription. Dev Biol. 1996 Jul 10; 177(1):250-64. PMID: [8660892](//www.ncbi.nlm.nih.gov/pubmed/8660892).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8660892/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  100. Thaller C, **Eichele G**. Retinoid signaling in vertebrate limb development. Ann N Y Acad Sci. 1996 Jun 08; 785:1-11. PMID: [8702114](//www.ncbi.nlm.nih.gov/pubmed/8702114).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8702114/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  101. Pasquali D, Thaller C, **Eichele G**. Abnormal level of retinoic acid in prostate cancer tissues. J Clin Endocrinol Metab. 1996 Jun; 81(6):2186-91. PMID: [8964849](//www.ncbi.nlm.nih.gov/pubmed/8964849).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8964849/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:HumansCells
+
+  102. Helms JA, Kim CH, **Eichele G** , Thaller C. Retinoic acid signaling is required during early chick limb development. Development. 1996 May; 122(5):1385-94. PMID: [8625827](//www.ncbi.nlm.nih.gov/pubmed/8625827).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8625827/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  103. Lutz B, Lu HC, **Eichele G** , Miller D, Kaufman TC. Rescue of Drosophila labial null mutant by the chicken ortholog Hoxb-1 demonstrates that the function of Hox genes is phylogenetically conserved. Genes Dev. 1996 Jan 15; 10(2):176-84. PMID: [8566751](//www.ncbi.nlm.nih.gov/pubmed/8566751).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8566751/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  104. Parker SB, **Eichele G** , Zhang P, Rawls A, Sands AT, Bradley A, Olson EN, Harper JW, Elledge SJ. p53-independent expression of p21Cip1 in muscle and other terminally differentiating cells. Science. 1995 Feb 17; 267(5200):1024-7. PMID: [7863329](//www.ncbi.nlm.nih.gov/pubmed/7863329).
+
+Citations:
+[253](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7863329/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  105. Helms J, Thaller C, **Eichele G**. Relationship between retinoic acid and sonic hedgehog, two polarizing signals in the chick wing bud. Development. 1994 Nov; 120(11):3267-74. PMID: [7720566](//www.ncbi.nlm.nih.gov/pubmed/7720566).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7720566/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  106. Lutz B, Kuratani S, Rugarli EI, Wawersik S, Wong C, Bieber FR, [Ballabio A](https://profiles.viictr.org/profile/266220), **Eichele G**. Expression of the Kallmann syndrome gene in human fetal brain and in the manipulated chick embryo. Hum Mol Genet. 1994 Oct; 3(10):1717-23. PMID: [7849694](//www.ncbi.nlm.nih.gov/pubmed/7849694).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7849694/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  107. Kuratani S, Martin JF, Wawersik S, Lilly B, **Eichele G** , Olson EN. The expression pattern of the chick homeobox gene gMHox suggests a role in patterning of the limbs and face and in compartmentalization of somites. Dev Biol. 1994 Feb; 161(2):357-69. PMID: [7906232](//www.ncbi.nlm.nih.gov/pubmed/7906232).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7906232/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  108. Lutz B, Kuratani S, Cooney AJ, Wawersik S, [Tsai SY](https://profiles.viictr.org/profile/266552), **Eichele G** , [Tsai MJ](https://profiles.viictr.org/profile/267651). Developmental regulation of the orphan receptor COUP-TF II gene in spinal motor neurons. Development. 1994 Jan; 120(1):25-36. PMID: [8119130](//www.ncbi.nlm.nih.gov/pubmed/8119130).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8119130/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  109. Tickle C, **Eichele G**. Vertebrate limb development. Annu Rev Cell Biol. 1994; 10:121-52. PMID: [7888174](//www.ncbi.nlm.nih.gov/pubmed/7888174).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7888174/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  110. Thaller C, Hofmann C, **Eichele G**. 9-cis-retinoic acid, a potent inducer of digit pattern duplications in the chick wing bud. Development. 1993 Jul; 118(3):957-65. PMID: [8076528](//www.ncbi.nlm.nih.gov/pubmed/8076528).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8076528/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  111. Lutz B, Rugarli EI, **Eichele G** , [Ballabio A](https://profiles.viictr.org/profile/266220). X-linked Kallmann syndrome. A neuronal targeting defect in the olfactory system? FEBS Lett. 1993 Jun 28; 325(1-2):128-34. PMID: [8513884](//www.ncbi.nlm.nih.gov/pubmed/8513884).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8513884/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  112. Rugarli EI, Lutz B, Kuratani SC, Wawersik S, Borsani G, [Ballabio A](https://profiles.viictr.org/profile/266220), **Eichele G**. Expression pattern of the Kallmann syndrome gene in the olfactory system suggests a role in neuronal targeting. Nat Genet. 1993 May; 4(1):19-26. PMID: [8513320](//www.ncbi.nlm.nih.gov/pubmed/8513320).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8513320/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  113. **Eichele G**. Retinoids in embryonic development. Ann N Y Acad Sci. 1993 Mar 15; 678:22-36. PMID: [8494265](//www.ncbi.nlm.nih.gov/pubmed/8494265).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8494265/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  114. Kuratani SC, **Eichele G**. Rhombomere transplantation repatterns the segmental organization of cranial nerves and reveals cell-autonomous expression of a homeodomain protein. Development. 1993 Jan; 117(1):105-17. PMID: [7900983](//www.ncbi.nlm.nih.gov/pubmed/7900983).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7900983/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  115. Hogan BL, Thaller C, **Eichele G**. Evidence that Hensen's node is a site of retinoic acid synthesis. Nature. 1992 Sep 17; 359(6392):237-41. PMID: [1528265](//www.ncbi.nlm.nih.gov/pubmed/1528265).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1528265/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  116. Sundin O, **Eichele G**. An early marker of axial pattern in the chick embryo and its respecification by retinoic acid. Development. 1992 Apr; 114(4):841-52. PMID: [1352239](//www.ncbi.nlm.nih.gov/pubmed/1352239).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1352239/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  117. Heyman RA, Mangelsdorf DJ, Dyck JA, Stein RB, **Eichele G** , Evans RM, Thaller C. 9-cis retinoic acid is a high affinity ligand for the retinoid X receptor. Cell. 1992 Jan 24; 68(2):397-406. PMID: [1310260](//www.ncbi.nlm.nih.gov/pubmed/1310260).
+
+Citations:
+[378](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1310260/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  118. Smith SM, **Eichele G**. Temporal and regional differences in the expression pattern of distinct retinoic acid receptor-beta transcripts in the chick embryo. Development. 1991 Jan; 111(1):245-52. PMID: [1849811](//www.ncbi.nlm.nih.gov/pubmed/1849811).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1849811/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  119. **Eichele G**. Pattern formation in vertebrate limbs. Curr Opin Cell Biol. 1990 Dec; 2(6):975-80. PMID: [2099811](//www.ncbi.nlm.nih.gov/pubmed/2099811).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2099811/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  120. Sundin OH, **Eichele G**. A homeo domain protein reveals the metameric nature of the developing chick hindbrain. Genes Dev. 1990 Aug; 4(8):1267-76. PMID: [1977659](//www.ncbi.nlm.nih.gov/pubmed/1977659).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1977659/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  121. Wagner M, Thaller C, Jessell T, **Eichele G**. Polarizing activity and retinoid synthesis in the floor plate of the neural tube. Nature. 1990 Jun 28; 345(6278):819-22. PMID: [2359459](//www.ncbi.nlm.nih.gov/pubmed/2359459).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2359459/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  122. Thaller C, **Eichele G**. Isolation of 3,4-didehydroretinoic acid, a novel morphogenetic signal in the chick wing bud. Nature. 1990 Jun 28; 345(6278):815-9. PMID: [2359458](//www.ncbi.nlm.nih.gov/pubmed/2359458).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2359458/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  123. Wedden S, Thaller C, **Eichele G**. Targeted slow-release of retinoids into chick embryos. Methods Enzymol. 1990; 190:201-9. PMID: [2087171](//www.ncbi.nlm.nih.gov/pubmed/2087171).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2087171/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  124. Sundin OH, Busse HG, Rogers MB, Gudas LJ, **Eichele G**. Region-specific expression in early chick and mouse embryos of Ghox-lab and Hox 1.6, vertebrate homeobox-containing genes related to Drosophila labial. Development. 1990 Jan; 108(1):47-58. PMID: [1693558](//www.ncbi.nlm.nih.gov/pubmed/1693558).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1693558/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  125. **Eichele G**. Retinoic acid induces a pattern of digits in anterior half wing buds that lack the zone of polarizing activity. Development. 1989 Dec; 107(4):863-7. PMID: [2632237](//www.ncbi.nlm.nih.gov/pubmed/2632237).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2632237/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  126. **Eichele G**. Retinoids and vertebrate limb pattern formation. Trends Genet. 1989 Aug; 5(8):246-51. PMID: [2686112](//www.ncbi.nlm.nih.gov/pubmed/2686112).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2686112/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  127. Smith SM, Pang K, Sundin O, Wedden SE, Thaller C, **Eichele G**. Molecular approaches to vertebrate limb morphogenesis. Development. 1989; 107 Suppl:121-31. PMID: [2576867](//www.ncbi.nlm.nih.gov/pubmed/2576867).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2576867/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  128. Thaller C, **Eichele G**. Characterization of retinoid metabolism in the developing chick limb bud. Development. 1988 Jul; 103(3):473-83. PMID: [3246218](//www.ncbi.nlm.nih.gov/pubmed/3246218).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3246218/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  129. **Eichele G** , Thaller C. Characterization of concentration gradients of a morphogenetically active retinoid in the chick limb bud. J Cell Biol. 1987 Oct; 105(4):1917-23. PMID: [3667700](//www.ncbi.nlm.nih.gov/pubmed/3667700); PMCID: [PMC2114645](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2114645).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3667700/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  130. Thaller C, **Eichele G**. Identification and spatial distribution of retinoids in the developing chick limb bud. Nature. 1987 Jun 18-24; 327(6123):625-8. PMID: [3600758](//www.ncbi.nlm.nih.gov/pubmed/3600758).
+
+Citations:
+[152](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3600758/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  131. **Eichele G** , Tickle C, Alberts BM. Studies on the mechanism of retinoid-induced pattern duplications in the early chick limb bud: temporal and spatial aspects. J Cell Biol. 1985 Nov; 101(5 Pt 1):1913-20. PMID: [4055899](//www.ncbi.nlm.nih.gov/pubmed/4055899); PMCID: [PMC2113976](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2113976).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4055899/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  132. Tickle C, Lee J, **Eichele G**. A quantitative analysis of the effect of all-trans-retinoic acid on the pattern of chick wing development. Dev Biol. 1985 May; 109(1):82-95. PMID: [3987968](//www.ncbi.nlm.nih.gov/pubmed/3987968).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3987968/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  133. Thaller C, **Eichele G** , Weaver LH, Wilson E, Karlsson R, Jansonius JN. Diffraction methods for biological macromolecules. Seed enlargement and repeated seeding. Methods Enzymol. 1985; 114:132-5. PMID: [4079759](//www.ncbi.nlm.nih.gov/pubmed/4079759).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4079759/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  134. Jansonius JN, **Eichele G** , Ford GC, Kirsch JF, Picot D, Thaller C, Vincent MG, Gehring H, Christen P. Three-dimensional structure of mitochondrial aspartate aminotransferase and some functional derivatives: implications for its mode of action. Biochem Soc Trans. 1984 Jun; 12(3):424-7. PMID: [6734906](//www.ncbi.nlm.nih.gov/pubmed/6734906).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6734906/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  135. Jansonius JN, **Eichele G** , Ford GC, Kirsch JF, Picot D, Thaller C, Vincent MG, Gehring H, Christen P. Crystallographic studies on the mechanism of action of mitochondrial aspartate aminotransferase. Prog Clin Biol Res. 1984; 144B:195-203. PMID: [6718401](//www.ncbi.nlm.nih.gov/pubmed/6718401).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6718401/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:AnimalsCells
+
+  136. Thaller C, Weaver LH, **Eichele G** , Wilson E, Karlsson R, Jansonius JN. Repeated seeding technique for growing large single crystals of proteins. J Mol Biol. 1981 Apr 15; 147(3):465-9. PMID: [7310866](//www.ncbi.nlm.nih.gov/pubmed/7310866).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7310866/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  137. Gehring H, Christen P, **Eichele G** , Glor M, Jansonius JN, Reimer AS, Smit JD, Thaller C. Isolation, crystallization and preliminary crystallographic data of aspartate aminotransferase from chicken heart mitochondria. J Mol Biol. 1977 Sep; 115(1):97-101. PMID: [926178](//www.ncbi.nlm.nih.gov/pubmed/926178).
+
+Citations: [5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/926178/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 109 publications over 29 distinct years, with a maximum of
+12 publications in
+2006](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|12&cht=bvs&chd=t:42,8,58,75,17,42,25,17,33,42,25,58,100,25,25,17,25,33,42,0,33,33,17,8,8,25,25,33,8,8,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 5  
+1995| 1  
+1996| 7  
+1997| 9  
+1998| 2  
+1999| 5  
+2000| 3  
+2001| 2  
+2002| 4  
+2003| 5  
+2004| 3  
+2005| 7  
+2006| 12  
+2007| 3  
+2008| 3  
+2009| 2  
+2010| 3  
+2011| 4  
+2012| 5  
+2014| 4  
+2015| 4  
+2016| 2  
+2017| 1  
+2018| 1  
+2019| 3  
+2020| 3  
+2021| 4  
+2022| 1  
+2023| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+EICHELE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (588)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Circadian Rhythm](https://profiles.viictr.org/profile/244991)
+  * [Acetyltransferases](https://profiles.viictr.org/profile/257222)
+  * [In Situ Hybridization](https://profiles.viictr.org/profile/255382)
+  * [Tretinoin](https://profiles.viictr.org/profile/247951)
+  * [Gene Expression Regulation, Developmental](https://profiles.viictr.org/profile/262216)
+
+[Explore](https://profiles.viictr.org/profile/268289/198)
+
+_
+
+Co-Authors (9)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [CLARK, GARY](https://profiles.viictr.org/profile/268169)
+  * [SHAW, CHAD](https://profiles.viictr.org/profile/269433)
+  * [KADMON, DOV](https://profiles.viictr.org/profile/268024)
+  * [TSAI, MING-JER](https://profiles.viictr.org/profile/267651)
+
+[Explore](https://profiles.viictr.org/profile/268289/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [BEHRINGER, RICHARD R](https://profiles.viictr.org/profile/12582530)
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [MATZUK, MARTIN](https://profiles.viictr.org/profile/266520)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+
+[Explore](https://profiles.viictr.org/profile/268289/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [JUNG, SUNG](https://profiles.viictr.org/profile/268570)
+  * [LUDTKE, STEVEN](https://profiles.viictr.org/profile/270167)
+  * [MALOVANNAYA, ANNA](https://profiles.viictr.org/profile/3010185)
+  * [SAZER, SHELLEY](https://profiles.viictr.org/profile/268145)
+  * [VAN NOSTRAND, ERIC](https://profiles.viictr.org/profile/30426460)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BUSCH, GERALD](https://profiles.viictr.org/profile/267821)
+  * [GILBERT, HIRAM](https://profiles.viictr.org/profile/267387)
+  * [KIM, CHOEL](https://profiles.viictr.org/profile/266336)
+  * [SERYSHEVA, IRINA](https://profiles.viictr.org/profile/266963)
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+
+_
+

@@ -1,0 +1,397 @@
+## MONICA PILLON
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=G6Q%2b6GbGbrv8SoPi7lvAKbnCIhWf&rnd=82b2f4e8-09f7-4491-9a76-aeb2ffeeb7ac)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=33131863)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Therapeutic Innovation Center  
+Division| Therapeutic Innovation Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Frazier MN, Dillard LB, Krahn JM, Perera L, Williams JG, Wilson IM, Stewart ZD, **Pillon MC** , Deterding LJ, Borgnia MJ, Stanley RE. Characterization of SARS2 Nsp15 nuclease activity reveals it's mad about U. Nucleic Acids Res. 2021 09 27; 49(17):10136-10149. PMID: [34403466](//www.ncbi.nlm.nih.gov/pubmed/34403466); PMCID: [PMC8385992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8385992).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34403466/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  2. **Pillon MC** , Frazier MN, Dillard LB, Williams JG, Kocaman S, Krahn JM, Perera L, Hayne CK, Gordon J, Stewart ZD, Sobhany M, Deterding LJ, Hsu AL, Dandey VP, Borgnia MJ, Stanley RE. Cryo-EM structures of the SARS-CoV-2 endoribonuclease Nsp15 reveal insight into nuclease specificity and dynamics. Nat Commun. 2021 01 27; 12(1):636. PMID: [33504779](//www.ncbi.nlm.nih.gov/pubmed/33504779); PMCID: [PMC7840905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7840905).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33504779/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  3. **Pillon MC** , Gordon J, Frazier MN, Stanley RE. HEPN RNases - an emerging class of functionally distinct RNA processing and degradation enzymes. Crit Rev Biochem Mol Biol. 2021 02; 56(1):88-108. PMID: [33349060](//www.ncbi.nlm.nih.gov/pubmed/33349060); PMCID: [PMC7856873](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7856873).
+
+Citations:  Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  4. Frazier MN, **Pillon MC** , Kocaman S, Gordon J, Stanley RE. Structural overview of macromolecular machines involved in ribosome biogenesis. Curr Opin Struct Biol. 2021 04; 67:51-60. PMID: [33099228](//www.ncbi.nlm.nih.gov/pubmed/33099228); PMCID: [PMC8058114](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8058114).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33099228/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:Cells
+
+  5. **Pillon MC** , Frazier MN, Dillard LB, Williams JG, Kocaman S, Krahn JM, Perera L, Hayne CK, Gordon J, Stewart ZD, Sobhany M, Deterding LJ, Hsu AL, Dandey VP, Borgnia MJ, Stanley RE. Cryo-EM Structures of the SARS-CoV-2 Endoribonuclease Nsp15. bioRxiv. 2020 Aug 11. PMID: [32803198](//www.ncbi.nlm.nih.gov/pubmed/32803198); PMCID: [PMC7427136](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7427136).
+
+Citations:
+
+  6. **Pillon MC** , Stanley RE. Nonradioactive Assay to Measure Polynucleotide Phosphorylation of Small Nucleotide Substrates. J Vis Exp. 2020 05 08; (159). PMID: [32449708](//www.ncbi.nlm.nih.gov/pubmed/32449708); PMCID: [PMC7389563](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7389563).
+
+Citations:  Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Cells
+
+  7. **Pillon MC** , Goslen KH, Gordon J, Wells ML, Williams JG, Stanley RE. It takes two (Las1 HEPN endoribonuclease domains) to cut RNA correctly. J Biol Chem. 2020 05 01; 295(18):5857-5870. PMID: [32220933](//www.ncbi.nlm.nih.gov/pubmed/32220933); PMCID: [PMC7196650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7196650).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32220933/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  8. **Pillon MC** , Hsu AL, Krahn JM, Williams JG, Goslen KH, Sobhany M, Borgnia MJ, Stanley RE. Cryo-EM reveals active site coordination within a multienzyme pre-rRNA processing complex. Nat Struct Mol Biol. 2019 09; 26(9):830-839. PMID: [31488907](//www.ncbi.nlm.nih.gov/pubmed/31488907); PMCID: [PMC6733591](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6733591).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31488907/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  9. **Pillon MC** , Lo YH, Stanley RE. IT'S 2 for the price of 1: Multifaceted ITS2 processing machines in RNA and DNA maintenance. DNA Repair (Amst). 2019 09; 81:102653. PMID: [31324529](//www.ncbi.nlm.nih.gov/pubmed/31324529); PMCID: [PMC6764878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6764878).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31324529/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:AnimalsCells
+
+  10. Gordon J, **Pillon MC** , Stanley RE. Nol9 Is a Spatial Regulator for the Human ITS2 Pre-rRNA Endonuclease-Kinase Complex. J Mol Biol. 2019 09 06; 431(19):3771-3786. PMID: [31288032](//www.ncbi.nlm.nih.gov/pubmed/31288032); PMCID: [PMC6733650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6733650).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31288032/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  11. Almawi AW, Randall JR, Liu L, Martin HK, Sacre L, Shen Y, **Pillon MC** , Simmons LA, Scotland MK, Sutton MD, Guarn? A. Binding of the regulatory domain of MutL to the sliding ?-clamp is species specific. Nucleic Acids Res. 2019 05 21; 47(9):4831-4842. PMID: [30916336](//www.ncbi.nlm.nih.gov/pubmed/30916336); PMCID: [PMC6511837](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6511837).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30916336/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  12. Mok MCY, Campalans A, **Pillon MC** , Radicella JP, Junop MS, Guarn? A. Identification of an XRCC1 DNA binding activity essential for retention at sites of DNA damage. Sci Rep. 2019 02 28; 9(1):3095. PMID: [30816207](//www.ncbi.nlm.nih.gov/pubmed/30816207); PMCID: [PMC6395731](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6395731).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30816207/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  13. Liu L, Ortiz Castro MC, **Pillon MC** , Rodr?guez Gonz?lez J, Guarn? A. The endonuclease domain of Bacillus subtilis MutL is functionally asymmetric. DNA Repair (Amst). 2019 01; 73:1-6. PMID: [30391220](//www.ncbi.nlm.nih.gov/pubmed/30391220).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30391220/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:Cells
+
+  14. **Pillon MC** , Sobhany M, Stanley RE. Characterization of the molecular crosstalk within the essential Grc3/Las1 pre-rRNA processing complex. RNA. 2018 05; 24(5):721-738. PMID: [29440475](//www.ncbi.nlm.nih.gov/pubmed/29440475); PMCID: [PMC5900568](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5900568).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29440475/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  15. Lo YH, **Pillon MC** , Stanley RE. Combining X-Ray Crystallography with Small Angle X-Ray Scattering to Model Unstructured Regions of Nsa1 from S. Cerevisiae. J Vis Exp. 2018 Jan 10; (131). PMID: [29364241](//www.ncbi.nlm.nih.gov/pubmed/29364241); PMCID: [PMC5820766](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5820766).
+
+Citations:  Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:AnimalsCells
+
+  16. **Pillon MC** , Stanley RE. Nuclease integrated kinase super assemblies (NiKs) and their role in RNA processing. Curr Genet. 2018 Feb; 64(1):183-190. PMID: [28929238](//www.ncbi.nlm.nih.gov/pubmed/28929238); PMCID: [PMC5820773](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5820773).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28929238/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  17. **Pillon MC** , Guarn? A. Complementary uses of small angle X-ray scattering and X-ray crystallography. Biochim Biophys Acta Proteins Proteom. 2017 Nov; 1865(11 Pt B):1623-1630. PMID: [28743534](//www.ncbi.nlm.nih.gov/pubmed/28743534).
+
+Citations:  Fields:
+
+Bio BiochemistryBio BiophysicsMol Molecular Biology
+
+Translation:Cells
+
+  18. **Pillon MC** , Sobhany M, Borgnia MJ, Williams JG, Stanley RE. Grc3 programs the essential endoribonuclease Las1 for specific RNA cleavage. Proc Natl Acad Sci U S A. 2017 07 11; 114(28):E5530-E5538. PMID: [28652339](//www.ncbi.nlm.nih.gov/pubmed/28652339); PMCID: [PMC5514736](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5514736).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28652339/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  19. Lo YH, Romes EM, **Pillon MC** , Sobhany M, Stanley RE. Structural Analysis Reveals Features of Ribosome Assembly Factor Nsa1/WDR74 Important for Localization and Interaction with Rix7/NVL2. Structure. 2017 05 02; 25(5):762-772.e4. PMID: [28416111](//www.ncbi.nlm.nih.gov/pubmed/28416111); PMCID: [PMC5415421](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5415421).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28416111/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  20. Wan LC, **Pillon MC** , Thevakumaran N, Sun Y, Chakrabartty A, Kurinov I, Durocher D, Sicheri F, Guarn? A. Structural and functional characterization of KEOPS dimerization by Pcc1 and its role in t6A biosynthesis. Nucleic Acids Res. 2016 08 19; 44(14):6971-80. PMID: [27302132](//www.ncbi.nlm.nih.gov/pubmed/27302132); PMCID: [PMC5001605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5001605).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27302132/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  21. Stogios PJ, Cox G, Spanogiannopoulos P, **Pillon MC** , Waglechner N, Skarina T, Koteva K, Savchenko A, Wright GD, Guarn? A. Rifampin phosphotransferase is an unusual antibiotic resistance kinase. Nat Commun. 2016 Apr 22; 7:11343. PMID: [27103605](//www.ncbi.nlm.nih.gov/pubmed/27103605); PMCID: [PMC4844700](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4844700).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27103605/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  22. **Pillon MC** , Babu VM, Randall JR, Cai J, Simmons LA, Sutton MD, Guarn? A. The sliding clamp tethers the endonuclease domain of MutL to DNA. Nucleic Acids Res. 2015 Dec 15; 43(22):10746-59. PMID: [26384423](//www.ncbi.nlm.nih.gov/pubmed/26384423); PMCID: [PMC4678855](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4678855).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26384423/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  23. Lenhart JS, **Pillon MC** , Biteen JS, Simmons LA, Guarn? A. Mismatch repair in Gram-positive bacteria. Res Microbiol. 2016 Jan; 167(1):4-12. PMID: [26343983](//www.ncbi.nlm.nih.gov/pubmed/26343983).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26343983/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:AnimalsCells
+
+  24. Tian L, **Pillon MC** , Kurinov I, Heck AJ, Greenberg RA, Zeqiraj E, Piggott CA, Duffy NM, Ceccarelli DF, Keszei AF, Lorenzen K, Orlicky S, Gish GD, Guarn? A, Sicheri F. Higher-Order Assembly of BRCC36-KIAA0157 Is Required for DUB Activity and Biological Function. Mol Cell. 2015 Sep 17; 59(6):970-83. PMID: [26344097](//www.ncbi.nlm.nih.gov/pubmed/26344097); PMCID: [PMC4579573](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4579573).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26344097/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  25. Dong B, Jha BK, **Pillon MC** , Gaughan C, Brinton MA, Perelygin AA, Kourinov I, Silverman RH, Huang H, Zeqiraj E, Duffy NM, Orlicky S, Thevakumaran N, Talukdar M, Ceccarelli DF, Wan LC, Juang YC, Mao DY, Guarn? A, Sicheri F. Dimeric structure of pseudokinase RNase L bound to 2-5A reveals a basis for interferon-induced antiviral activity. Mol Cell. 2014 Jan 23; 53(2):221-34. PMID: [24462203](//www.ncbi.nlm.nih.gov/pubmed/24462203); PMCID: [PMC3974923](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3974923).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24462203/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  26. Lenhart JS, **Pillon MC** , Simmons LA, Guarn? A. Trapping and visualizing intermediate steps in the mismatch repair pathway in vivo. Mol Microbiol. 2013 Nov; 90(4):680-98. PMID: [23998896](//www.ncbi.nlm.nih.gov/pubmed/23998896).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23998896/citedby/) Fields:
+
+Mic MicrobiologyMol Molecular Biology
+
+Translation:Cells
+
+  27. **Pillon MC** , Dubinsky M, Johnston RN, Liu SL, Guarn? A. Characterization of the defects in the ATP lid of E. coli MutL that cause transient hypermutability. DNA Repair (Amst). 2013 Oct; 12(10):864-9. PMID: [23916559](//www.ncbi.nlm.nih.gov/pubmed/23916559).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23916559/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:Cells
+
+  28. **Pillon MC** , Miller JH, Guarn? A. The endonuclease domain of MutL interacts with the ? sliding clamp. DNA Repair (Amst). 2011 Jan 02; 10(1):87-93. PMID: [21050827](//www.ncbi.nlm.nih.gov/pubmed/21050827); PMCID: [PMC3028594](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3028594).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21050827/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:Cells
+
+  29. **Pillon MC** , Lorenowicz JJ, Uckelmann M, Klocko AD, Mitchell RR, Chung YS, Modrich P, Walker GC, Simmons LA, Friedhoff P, Guarn? A. Structure of the endonuclease domain of MutL: unlicensed to cut. Mol Cell. 2010 Jul 09; 39(1):145-51. PMID: [20603082](//www.ncbi.nlm.nih.gov/pubmed/20603082); PMCID: [PMC2933357](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2933357).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20603082/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 29 publications over 10 distinct years, with a maximum of
+5 publications in 2019 and
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,40,20,60,40,80,60,100,100,40,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2010| 2  
+2013| 2  
+2014| 1  
+2015| 3  
+2016| 2  
+2017| 4  
+2018| 3  
+2019| 5  
+2020| 5  
+2021| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+PILLON's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (152)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Endoribonucleases](https://profiles.viictr.org/profile/257031)
+  * [RNA Processing, Post-Transcriptional](https://profiles.viictr.org/profile/241265)
+  * [Polynucleotide 5'-Hydroxyl-Kinase](https://profiles.viictr.org/profile/263923)
+  * [Adenosine Triphosphatases](https://profiles.viictr.org/profile/256298)
+  * [RNA, Ribosomal](https://profiles.viictr.org/profile/244189)
+
+[Explore](https://profiles.viictr.org/profile/33131863/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [BARTHOLOMEW, BLAINE](https://profiles.viictr.org/profile/12582859)
+  * [ROSENBERG, SUSAN](https://profiles.viictr.org/profile/268344)
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [IRA, GRZEGORZ](https://profiles.viictr.org/profile/269248)
+
+[Explore](https://profiles.viictr.org/profile/33131863/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [KIM, CHOEL](https://profiles.viictr.org/profile/266336)
+  * [LEE, SUKYEONG](https://profiles.viictr.org/profile/267678)
+  * [MEENA, JITENDRA](https://profiles.viictr.org/profile/15318052)
+  * [VENKEN, KOEN](https://profiles.viictr.org/profile/3010184)
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

@@ -1,0 +1,3032 @@
+## HARDEEP SINGH
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 2002 HOLCOMBE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Pqoi5WDCMJjVRIzgrn7GPw%3d%3d&rnd=868bd388-415d-4d6d-adcc-61f5c8204a93)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269397)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=269397&cachekey=f44d514e-5910-41bb-a4a0-6d9a3d469f44)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R18HS029347 (SINGH, HARDEEP)Sep 30, 2022 - Sep 29, 2026NIH  
+Diagnostic Safety Center for Advancing E-triggers and Rapid Feedback
+Implementation (DISCOVERI)  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01HS028595 (MURPHY, DANIEL R)Sep 1, 2022 - Jun 30, 2026NIH  
+Developing e-Triggers to Detect Telemedicine Related Diagnostic Safety Events  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01HS027363 (SINGH, HARDEEP)Sep 30, 2019 - Sep 29, 2022NIH  
+Application of a Machine Learning to Enhance e-Triggers to Detect and Learn
+from Diagnostic Safety Events  
+Role: Principal Investigator  
+  
+* * *  
+  
+I01HX002439 (SINGH, HARDEEP)Oct 1, 2018 - Sep 30, 2023NIH  
+Measuring and Improving the Safety of Test Result Follow-Up  
+Role: Principal Investigator  
+  
+* * *  
+  
+R18HS026622 (MAHAJAN, PRASHANT)Sep 30, 2018 - Jul 31, 2022NIH  
+Improving Diagnosis in Emergency and Acute Care: A Learning Laboratory (IDEA-
+LL)  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R21HS023602 (SINGH, HARDEEP)Sep 30, 2014 - Mar 31, 2017NIH  
+Improving Direct Notification of Abnormal Test Results via Patient Portals  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01HS022087 (SINGH, HARDEEP)Sep 1, 2013 - Jul 31, 2018NIH  
+Decision Making and Clinical Work of Test Result Follow-up in Health IT
+Settings  
+Role: Principal Investigator  
+  
+* * *  
+  
+I01HX000993 (SINGH, HARDEEP)Apr 1, 2013 - Mar 31, 2017NIH  
+Automated Point-of-Care Surveillance of Outpatient Delays in Cancer Diagnosis  
+Role: Principal Investigator  
+  
+* * *  
+  
+R13HS021774 (SINGH, HARDEEP)Sep 30, 2012 - Sep 29, 2015NIH  
+Diagnostic Error in Medicine Annual Conference  
+Role: Principal Investigator  
+  
+* * *  
+  
+R18HS017820 (SINGH, HARDEEP)Sep 30, 2008 - Jun 29, 2013NIH  
+Using Electronic Data to Improve Care of Patients with Known or Suspected
+Cancer  
+Role: Principal Investigator  
+  
+* * *  
+  
+K23CA125585 (SINGH, HARDEEP)Aug 1, 2007 - Jul 31, 2013NIH  
+Reducing Missed And Delayed Diagnoses In Cancer: Lessons From Aviation  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32MH009711 (SINGH, HARDEEP)Mar 29, 1989NIH  
+ADVERSE EFFECTS OF NEUROLEPTICS IN SCHIZOPHRENIA  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Ali KJ, Ehsan S, Tran A, Haugstetter M, **Singh H**. Diagnostic Excellence in the Context of Climate Change: A Review. Am J Med. 2024 Jun 24. PMID: [38925497](//www.ncbi.nlm.nih.gov/pubmed/38925497).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+  2. Sloane J, **Singh H** , Upadhyay DK, Korukonda S, Marinez A, [Giardina TD](https://profiles.viictr.org/profile/23478744). Partnership as a Pathway to Diagnostic Excellence: The Challenges and Successes of Implementing the Safer Dx Learning Lab. Jt Comm J Qual Patient Saf. 2024 May 31. PMID: [38944572](//www.ncbi.nlm.nih.gov/pubmed/38944572).
+
+Citations:  Fields:
+
+Hea Health Services
+
+  3. Kapadia P, [Zimolzak AJ](https://profiles.viictr.org/profile/28999218), Upadhyay DK, Korukonda S, Murugaesh Rekha R, Mushtaq U, Mir U, Murphy DR, Offner A, Abel GA, Lyratzopoulos G, Mounce LTA, **Singh H**. Development and Implementation of a Digital Quality Measure of Emergency Cancer Diagnosis. J Clin Oncol. 2024 Jul 20; 42(21):2506-2515. PMID: [38718321](//www.ncbi.nlm.nih.gov/pubmed/38718321).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+  4. [Bradford A](https://profiles.viictr.org/profile/17936048), [Meyer A](https://profiles.viictr.org/profile/8556649), Khan S, [Giardina TD](https://profiles.viictr.org/profile/23478744), **Singh H** , Meyer AND. Diagnostic error in mental health: a review. BMJ Qual Saf. 2024 Apr 15. PMID: [38575311](//www.ncbi.nlm.nih.gov/pubmed/38575311).
+
+Citations:  Fields:
+
+Hea Health ServicesHea Health Services Research
+
+  5. Murphy DR, [Kadiyala H](https://profiles.viictr.org/profile/267245), Wei L, **Singh H**. An electronic trigger to detect telemedicine-related diagnostic errors. J Telemed Telecare. 2024 Apr 01; 1357633X241236570. PMID: [38557263](//www.ncbi.nlm.nih.gov/pubmed/38557263).
+
+Citations:  Fields:
+
+Hea Health ServicesMed Medical Informatics
+
+  6. Thirnbeck CK, Espinoza ET, Beaman EA, Rozen AL, Dukes KC, **Singh H** , Herwaldt LA, Landrigan CP, Reisinger HS, Cifra CL. Interfacility Referral Communication for PICU Transfer. Pediatr Crit Care Med. 2024 Jun 01; 25(6):499-511. PMID: [38483193](//www.ncbi.nlm.nih.gov/pubmed/38483193); PMCID: [PMC11153023](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11153023).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  7. Mangus CW, James TG, Parker SJ, Duffy E, Chandanabhumma PP, Cassady CM, Bellolio F, Pasupathy KS, Manojlovich M, **Singh H** , Mahajan P. Frontline Providers' and Patients' Perspectives on Improving Diagnostic Safety in the Emergency Department: A Qualitative Study. Jt Comm J Qual Patient Saf. 2024 Jul; 50(7):480-491. PMID: [38643047](//www.ncbi.nlm.nih.gov/pubmed/38643047).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  8. Rajan SS, Sarvepalli S, Wei L, [Meyer AND](https://profiles.viictr.org/profile/8556649), Murphy DR, Choi DT, **Singh H**. Medical Home Implementation and Follow-Up of Cancer-Related Abnormal Test Results in the Veterans Health Administration. JAMA Netw Open. 2024 Mar 04; 7(3):e240087. PMID: [38483392](//www.ncbi.nlm.nih.gov/pubmed/38483392); PMCID: [PMC10940951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10940951).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  9. Smith MW, Hernandez LV, Lee P, Martinello RA, Singh H, Sherman JD, **Singh H**. Single-Use vs Reusable Duodenoscopes: How Infection Knowledge Gaps Are Driving Environmental Harm and What Can Be Done. Gastroenterology. 2024 Mar 03. PMID: [38442783](//www.ncbi.nlm.nih.gov/pubmed/38442783).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+  10. Koo MM, Mounce LTA, Rafiq M, Callister MEJ, **Singh H** , Abel GA, Lyratzopoulos G. Guideline concordance for timely chest imaging after new presentations of dyspnoea or haemoptysis in primary care: a retrospective cohort study. Thorax. 2024 Feb 15; 79(3):236-244. PMID: [37620048](//www.ncbi.nlm.nih.gov/pubmed/37620048).
+
+Citations:
+
+  11. Kwan JL, Calder LA, Bowman CL, MacIntyre A, Mimeault R, Honey L, Dunn C, Garber G, **Singh H**. Characteristics and contributing factors of diagnostic error in surgery: analysis of closed medico-legal cases and complaints in Canada. Can J Surg. 2024 Jan-Feb; 67(1):E58-E65. PMID: [38320779](//www.ncbi.nlm.nih.gov/pubmed/38320779); PMCID: [PMC10852193](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10852193).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  12. Singh S, Aggarwal AK, Gudisa R, Batra P, Rathi NK, Madan V, Thakur V, Sharma H, Kumar R, Khare S, Singhal L, Chaudhry R, Arora N, **Singh H** , Kaur J, Sharma A, Dakhale GN, Sharma V, Gautam V, Singh S, Aggarwal AK, Gudisa R, Batra P, Rathi NK, Madan V, Thakur V, Sharma H, Kumar R, Khare S, Singhal L, Chaudhry R, Arora N, Singh H, Kaur J, Sharma A, Dakhale GN, Sharma V, Gautam V. A Novel Potential Treatment for Diabetic Foot Ulcers and Non-Healing Ulcers - Case Series. Infect Disord Drug Targets. 2024; 24(4):29-39. PMID: [38018183](//www.ncbi.nlm.nih.gov/pubmed/38018183).
+
+Citations:  Fields:
+
+Ant Anti-Infective AgentsCom Communicable Diseases
+
+  13. Nankervis H, Whiting P, Hamilton W, **Singh H** , Dawson S, Sprackman J, Huntley A, Ferguson Montague A, Watson J. Blood test result communication in primary care: mixed-methods systematic review protocol. BJGP Open. 2023 Dec; 7(4). PMID: [37407088](//www.ncbi.nlm.nih.gov/pubmed/37407088); PMCID: [PMC11176682](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11176682).
+
+Citations:
+
+  14. [Khalaf N](https://profiles.viictr.org/profile/30445135), Ali B, Liu Y, [Kramer JR](https://profiles.viictr.org/profile/269156), [El-Serag H](https://profiles.viictr.org/profile/269175), [Kanwal F](https://profiles.viictr.org/profile/268580), **Singh H**. Emergency Presentations Predict Worse Outcomes Among Patients with Pancreatic Cancer. Dig Dis Sci. 2024 Feb; 69(2):603-614. PMID: [38103105](//www.ncbi.nlm.nih.gov/pubmed/38103105).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38103105/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  15. **Singh H** , Vernon W, Scannell T, Gerwig K. Crossing the Decarbonization Chasm: A Call to Action for Hospital and Health System Leaders to Reduce Their Greenhouse Gas Emissions. NAM Perspect. 2023; 2023. PMID: [38784639](//www.ncbi.nlm.nih.gov/pubmed/38784639); PMCID: [PMC11114593](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11114593).
+
+Citations:
+
+  16. Smith M, **Singh H** , Sherman JD. Infection Prevention, Planetary Health, and Single-Use Plastics. JAMA. 2023 11 28; 330(20):1947-1948. PMID: [37782511](//www.ncbi.nlm.nih.gov/pubmed/37782511).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37782511/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:PHPublic Health
+
+  17. [Khalaf N](https://profiles.viictr.org/profile/30445135), Xu A, Nguyen Wenker T, [Kramer JR](https://profiles.viictr.org/profile/269156), Liu Y, **Singh H** , [El-Serag HB](https://profiles.viictr.org/profile/269175), [Kanwal F](https://profiles.viictr.org/profile/268580). The Impact of Race on Pancreatic Cancer Treatment and Survival in the Nationwide Veterans Affairs Healthcare System. Pancreas. 2024 Jan 01; 53(1):e27-e33. PMID: [37967826](//www.ncbi.nlm.nih.gov/pubmed/37967826); PMCID: [PMC10883640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10883640).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  18. Kokorelias KM, Abdelhalim R, Saragosa M, Nelson MLA, **Singh HK** , Munce SEP. Understanding data collection strategies for the ethical inclusion of older adults with disabilities in transitional care research: A scoping review protocol. PLoS One. 2023; 18(10):e0293329. PMID: [37862347](//www.ncbi.nlm.nih.gov/pubmed/37862347); PMCID: [PMC10588871](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10588871).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  19. Kokorelias KM, **Singh HK** , Abdelhalim R, Saragosa M, Fat GL, Sheppard C. Exploring the roles and functions of champions within community-based interventions to support older adults with chronic conditions: A scoping review protocol. PLoS One. 2023; 18(10):e0291252. PMID: [37831680](//www.ncbi.nlm.nih.gov/pubmed/37831680); PMCID: [PMC10575514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10575514).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  20. Ali KJ, Goeschel CA, DeLia DM, Blackall LM, **Singh H**. The PRIDx framework to engage payers in reducing diagnostic errors in healthcare. Diagnosis (Berl). 2024 Feb 01; 11(1):17-24. PMID: [37795579](//www.ncbi.nlm.nih.gov/pubmed/37795579).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  21. [Sittig DF](https://profiles.viictr.org/profile/266234), Yackel EE, **Singh H**. Five Strategies for a Safer EHR Modernization Journey. J Gen Intern Med. 2023 10; 38(Suppl 4):940-942. PMID: [37798588](//www.ncbi.nlm.nih.gov/pubmed/37798588); PMCID: [PMC10593716](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10593716).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  22. [Chary A](https://profiles.viictr.org/profile/34973653), Hernandez N, Rivera AP, Ramont V, Obi T, Santangelo I, Ritchie C, **Singh H** , Hayden E, Naik AD, Liu S, Kennedy M. Perceptions of Acute Care Telemedicine Among Caregivers for Persons Living with Dementia: A Qualitative Study. J Appl Gerontol. 2024 01; 43(1):69-77. PMID: [37682526](//www.ncbi.nlm.nih.gov/pubmed/37682526); PMCID: [PMC10693729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10693729).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency SyndGer Geriatrics
+
+Translation:Humans
+
+  23. Murphy DR, [Zimolzak AJ](https://profiles.viictr.org/profile/28999218), Upadhyay DK, Wei L, Jolly P, Offner A, [Sittig DF](https://profiles.viictr.org/profile/266234), Korukonda S, Rekha RM, **Singh H**. Developing electronic clinical quality measures to assess the cancer diagnostic process. J Am Med Inform Assoc. 2023 08 18; 30(9):1526-1531. PMID: [37257883](//www.ncbi.nlm.nih.gov/pubmed/37257883); PMCID: [PMC10436145](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10436145).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  24. Zhou Y, **Singh H** , Hamilton W, Archer S, Tan S, Brimicombe J, Lyratzopoulos G, Walter FM. Improving the diagnostic process for patients with possible bladder and kidney cancer: a mixed-methods study to identify potential missed diagnostic opportunities. Br J Gen Pract. 2023 08; 73(733):e575-e585. PMID: [37253628](//www.ncbi.nlm.nih.gov/pubmed/37253628); PMCID: [PMC10242858](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10242858).
+
+Citations:
+
+  25. [Kulkarni PA](https://profiles.viictr.org/profile/17010797), **Singh H**. Artificial Intelligence in Clinical Diagnosis: Opportunities, Challenges, and Hype. JAMA. 2023 07 25; 330(4):317-318. PMID: [37410477](//www.ncbi.nlm.nih.gov/pubmed/37410477).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37410477/citedby/) Fields:
+
+Med Medicine (General)
+
+  26. [Khalaf N](https://profiles.viictr.org/profile/30445135), [Kramer J](https://profiles.viictr.org/profile/269156), [Liu Y](https://profiles.viictr.org/profile/20310272), Abrams D, **Singh H** , [El-Serag H](https://profiles.viictr.org/profile/269175), [Kanwal F](https://profiles.viictr.org/profile/268580). Diabetes Status and Pancreatic Cancer Survival in the Nationwide Veterans Affairs Healthcare System. Dig Dis Sci. 2023 09; 68(9):3634-3643. PMID: [37474717](//www.ncbi.nlm.nih.gov/pubmed/37474717).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  27. [Bradford A](https://profiles.viictr.org/profile/17936048), Goeschel C, Shofer M, **Singh H**. Five New Ways to Advance Diagnostic Safety in Your Clinical Practice. Am Fam Physician. 2023 Jul; 108(1):14-16. PMID: [37440729](//www.ncbi.nlm.nih.gov/pubmed/37440729).
+
+Citations:  Fields:
+
+Pri Primary Health Care
+
+  28. Cifra CL, Custer JW, Smith CM, Smith KA, Bagdure DN, Bloxham J, Goldhar E, Gorga SM, Hoppe EM, Miller CD, Pizzo M, Ramesh S, Riffe J, Robb K, Simone SL, Stoll HD, Tumulty JA, Wall SE, Wolfe KK, Wendt L, Ten Eyck P, Landrigan CP, Dawson JD, Reisinger HS, **Singh H** , Herwaldt LA. Prevalence and Characteristics of Diagnostic Error in Pediatric Critical Care: A Multicenter Study. Crit Care Med. 2023 11 01; 51(11):1492-1501. PMID: [37246919](//www.ncbi.nlm.nih.gov/pubmed/37246919); PMCID: [PMC10615661](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10615661).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  29. [Chary AN](https://profiles.viictr.org/profile/34973653), Brickhouse E, Torres B, Santangelo I, Carpenter CR, Liu SW, [Godwin KM](https://profiles.viictr.org/profile/17149166), Naik AD, **Singh H** , Kennedy M. Leveraging the Electronic Health Record to Implement Emergency Department Delirium Screening. Appl Clin Inform. 2023 05; 14(3):478-486. PMID: [37054983](//www.ncbi.nlm.nih.gov/pubmed/37054983); PMCID: [PMC10284630](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10284630).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  30. Marcin T, Hautz SC, **Singh H** , Zwaan L, Schwappach D, Krummrey G, Schauber SK, Nendaz M, Exadaktylos AK, M?ller M, Lambrigger C, Sauter TC, Lindner G, Bosbach S, Griesshammer I, Hautz WE. Effects of a computerised diagnostic decision support tool on diagnostic quality in emergency departments: study protocol of the DDx-BRO multicentre cluster randomised cross-over trial. BMJ Open. 2023 03 29; 13(3):e072649. PMID: [36990482](//www.ncbi.nlm.nih.gov/pubmed/36990482); PMCID: [PMC10069571](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10069571).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:HumansCTClinical Trials
+
+  31. Mahajan P, Grubenhoff JA, Cranford J, Bhatt M, Chamberlain JM, Chang T, Lyttle M, Oostenbrink R, Roland D, Rudy RM, Shaw KN, Zuniga RV, Belle A, Kuppermann N, **Singh H**. Types of diagnostic errors reported by paediatric emergency providers in a global paediatric emergency care research network. BMJ Open Qual. 2023 03; 12(1). PMID: [36990648](//www.ncbi.nlm.nih.gov/pubmed/36990648); PMCID: [PMC10069565](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10069565).
+
+Citations:  Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  32. Sherman JD, **Singh H**. Bringing Environmental Sustainability into the Quality Agenda: Time to Act on Reducing Health Care Pollution and Waste. Jt Comm J Qual Patient Saf. 2023 Jun-Jul; 49(6-7):336-339. PMID: [37024422](//www.ncbi.nlm.nih.gov/pubmed/37024422).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:HumansPHPublic Health
+
+  33. Zwaan L, Smith KM, [Giardina TD](https://profiles.viictr.org/profile/23478744), Hooftman J, **Singh H**. Patient generated research priorities to improve diagnostic safety: A systematic prioritization exercise. Patient Educ Couns. 2023 05; 110:107650. PMID: [36731167](//www.ncbi.nlm.nih.gov/pubmed/36731167).
+
+Citations:  Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  34. Sloane JF, Donkin C, Newell BR, **Singh H** , [Meyer AND](https://profiles.viictr.org/profile/8556649). Managing Interruptions to Improve Diagnostic Decision-Making: Strategies and Recommended Research Agenda. J Gen Intern Med. 2023 05; 38(6):1526-1531. PMID: [36697925](//www.ncbi.nlm.nih.gov/pubmed/36697925); PMCID: [PMC10160308](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10160308).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  35. [Bradford A](https://profiles.viictr.org/profile/17936048), **Singh H**. Building clinical pathways of the future that improve safety and reduce waste in healthcare. J Hosp Med. 2023 02; 18(2):200-201. PMID: [36633160](//www.ncbi.nlm.nih.gov/pubmed/36633160).
+
+Citations:  Fields:
+
+Hos Hospitals
+
+Translation:HumansPHPublic Health
+
+  36. Hardy V, Usher-Smith J, Archer S, Barnes R, Lancaster J, Johnson M, Thompson M, Emery J, **Singh H** , Walter FM. Agreement between patient's description of abdominal symptoms of possible upper gastrointestinal cancer and general practitioner consultation notes: a qualitative analysis of video-recorded UK primary care consultation data. BMJ Open. 2023 01 05; 13(1):e058766. PMID: [36604136](//www.ncbi.nlm.nih.gov/pubmed/36604136); PMCID: [PMC9827246](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9827246).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  37. [Giardina TD](https://profiles.viictr.org/profile/23478744), [Woodard LD](https://profiles.viictr.org/profile/266760), **Singh H**. Advancing Diagnostic Equity Through Clinician Engagement, Community Partnerships, and Connected Care. J Gen Intern Med. 2023 04; 38(5):1293-1295. PMID: [36604388](//www.ncbi.nlm.nih.gov/pubmed/36604388); PMCID: [PMC9815889](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9815889).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  38. O'Connor AW, Helfrich CD, Nelson KM, Sears JM, **Singh H** , Wong ES. Changes in electronic notification volume and primary care provider burnout. Am J Manag Care. 2023 01; 29(1):57-63. PMID: [36716155](//www.ncbi.nlm.nih.gov/pubmed/36716155).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  39. **Singh H** , Eckelman M, Berwick DM, Sherman JD. Mandatory Reporting of Emissions to Achieve Net-Zero Health Care. N Engl J Med. 2022 12 29; 387(26):2469-2476. PMID: [36516087](//www.ncbi.nlm.nih.gov/pubmed/36516087).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36516087/citedby/) Fields:
+
+Med Medicine (General)
+
+  40. Kokorelias KM, **Singh H** , Posa S, Hitzig SL. Understanding the Goals of Older Adults with Complex Care Needs, Their Family Caregivers and Their Care Providers Enrolled in a Patient Navigation Program. J Appl Gerontol. 2023 05; 42(5):862-870. PMID: [36503293](//www.ncbi.nlm.nih.gov/pubmed/36503293).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency SyndGer Geriatrics
+
+Translation:Humans
+
+  41. Sessford JD, Chan K, Kaiser A, **Singh H** , Munce S, Alavinia M, Musselman KE. Protocol for a single group, mixed methods study investigating the efficacy of photovoice to improve self-efficacy related to balance and falls for spinal cord injury. BMJ Open. 2022 12 08; 12(12):e065684. PMID: [36600385](//www.ncbi.nlm.nih.gov/pubmed/36600385); PMCID: [PMC9743364](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9743364).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+  42. [Sittig DF](https://profiles.viictr.org/profile/266234), Sherman JD, Eckelman MJ, Draper A, **Singh H**. i-CLIMATE: a "clinical climate informatics" action framework to reduce environmental pollution from healthcare. J Am Med Inform Assoc. 2022 11 14; 29(12):2153-2160. PMID: [35997550](//www.ncbi.nlm.nih.gov/pubmed/35997550); PMCID: [PMC9667163](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9667163).
+
+Citations:
+
+  43. **Singh H** , Nguyen T, Hahn-Goldberg S, Lewis-Fung S, Smith-Bayley S, Nelson MLA. A qualitative study exploring the experiences of individuals living with stroke and their caregivers with community-based poststroke services: A critical need for action. PLoS One. 2022; 17(10):e0275673. PMID: [36215245](//www.ncbi.nlm.nih.gov/pubmed/36215245); PMCID: [PMC9550061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9550061).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36215245/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  44. Savoy A, Patel H, Shahid U, Offner AD, **Singh H** , [Giardina TD](https://profiles.viictr.org/profile/23478744), [Meyer AND](https://profiles.viictr.org/profile/8556649). Electronic Co-design (ECO-design) Workshop for Increasing Clinician Participation in the Design of Health Services Interventions: Participatory Design Approach. JMIR Hum Factors. 2022 Sep 22; 9(3):e37313. PMID: [36136374](//www.ncbi.nlm.nih.gov/pubmed/36136374); PMCID: [PMC9539640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9539640).
+
+Citations:
+
+  45. [Bradford A](https://profiles.viictr.org/profile/17936048), Shofer M, **Singh H**. Measure Dx: Implementing pathways to discover and learn from diagnostic errors. Int J Qual Health Care. 2022 Sep 10; 34(3). PMID: [36047352](//www.ncbi.nlm.nih.gov/pubmed/36047352); PMCID: [PMC9463874](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9463874).
+
+Citations:
+
+  46. **Singh H** , Gray CS, Nelson MLA, Nie JX, Thombs R, Armas A, Fortin C, Molla Ghanbari H, Tang T. A qualitative study of hospital and community providers' experiences with digitalization to facilitate hospital-to-home transitions during the COVID-19 pandemic. PLoS One. 2022; 17(8):e0272224. PMID: [35980960](//www.ncbi.nlm.nih.gov/pubmed/35980960); PMCID: [PMC9387844](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9387844).
+
+Citations:
+
+  47. Wenker TN, Rubenstein JH, [Thrift AP](https://profiles.viictr.org/profile/9909036), **Singh H** , [El-Serag HB](https://profiles.viictr.org/profile/269175). Development and Validation of the Houston-BEST, a Barrett's Esophagus Risk Prediction Model Adaptable to Electronic Health Records. Clin Gastroenterol Hepatol. 2023 08; 21(9):2424-2426.e0. PMID: [35985640](//www.ncbi.nlm.nih.gov/pubmed/35985640); PMCID: [PMC9935746](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9935746).
+
+Citations:
+
+  48. **Singh H** , Mushtaq U, Marinez A, Shahid U, Huebner J, McGaffigan P, Upadhyay DK. Developing the Safer Dx Checklist of Ten Safety Recommendations for Health Care Organizations to Address Diagnostic Errors. Jt Comm J Qual Patient Saf. 2022 11; 48(11):581-590. PMID: [36109312](//www.ncbi.nlm.nih.gov/pubmed/36109312).
+
+Citations:
+
+  49. [Meyer AND](https://profiles.viictr.org/profile/8556649), **Singh H** , [Zimolzak AJ](https://profiles.viictr.org/profile/28999218), Wei L, Choi DT, Marinez AD, Murphy DR. Cancer Evaluations During the COVID-19 Pandemic: An Observational Study Using National Veterans Affairs Data. Am J Prev Med. 2022 12; 63(6):1026-1030. PMID: [36055880](//www.ncbi.nlm.nih.gov/pubmed/36055880); PMCID: [PMC9359503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9359503).
+
+Citations:
+
+  50. [Zimolzak AJ](https://profiles.viictr.org/profile/28999218), **Singh H** , [Murphy DR](https://profiles.viictr.org/profile/267187), Wei L, Memon SA, Upadhyay DK, Korukonda S, Zubkoff L, [Sittig DF](https://profiles.viictr.org/profile/266234). Translating electronic health record-based patient safety algorithms from research to clinical practice at multiple sites. BMJ Health Care Inform. 2022 Jul; 29(1). PMID: [35851287](//www.ncbi.nlm.nih.gov/pubmed/35851287); PMCID: [PMC9289019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9289019).
+
+Citations:  Fields:
+
+Med Medical InformaticsPub Public Health
+
+Translation:Humans
+
+  51. Fulton JI, **Singh H** , Pakkal O, Uleryk EM, Nelson M. Community-based culturally tailored education programmes for black adults with cardiovascular disease, diabetes, hypertension and stroke: a systematic review protocol of primary empirical studies. BMJ Open. 2022 06 10; 12(6):e059883. PMID: [35688600](//www.ncbi.nlm.nih.gov/pubmed/35688600); PMCID: [PMC9189819](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9189819).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  52. [Giardina TD](https://profiles.viictr.org/profile/23478744), Shahid U, Mushtaq U, Upadhyay DK, Marinez A, **Singh H**. Creating a Learning Health System for Improving Diagnostic Safety: Pragmatic Insights from US Health Care Organizations. J Gen Intern Med. 2022 11; 37(15):3965-3972. PMID: [35650467](//www.ncbi.nlm.nih.gov/pubmed/35650467); PMCID: [PMC9640494](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9640494).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+  53. Hagan S, Wheat C, Laundry R, Deeds S, **Singh H** , Nelson K, Reddy A. Development and Validation of an Electronic Trigger to Monitor Follow-up for Moderately Elevated, Outpatient Serum Potassium Levels. J Gen Intern Med. 2022 10; 37(13):3512-3514. PMID: [35581447](//www.ncbi.nlm.nih.gov/pubmed/35581447); PMCID: [PMC9550915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9550915).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+  54. Cifra CL, Tigges CR, Miller SL, Curl N, Monson CD, Dukes KC, Reisinger HS, Pennathur PR, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Reporting Outcomes of Pediatric Intensive Care Unit Patients to Referring Physicians via an Electronic Health Record-Based Feedback System. Appl Clin Inform. 2022 03; 13(2):495-503. PMID: [35545126](//www.ncbi.nlm.nih.gov/pubmed/35545126); PMCID: [PMC9095343](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9095343).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  55. [Giardina TD](https://profiles.viictr.org/profile/23478744), Choi DT, Upadhyay DK, Korukonda S, Scott TM, Spitzmueller C, Schuerch C, Torretti D, **Singh H**. Inviting patients to identify diagnostic concerns through structured evaluation of their online visit notes. J Am Med Inform Assoc. 2022 05 11; 29(6):1091-1100. PMID: [35348688](//www.ncbi.nlm.nih.gov/pubmed/35348688); PMCID: [PMC9093029](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9093029).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35348688/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  56. [Giardina TD](https://profiles.viictr.org/profile/23478744), Hunte H, Hill MA, Heimlich SL, **Singh H** , Smith KM. Defining Diagnostic Error: A Scoping Review to Assess the Impact of the National Academies' Report Improving Diagnosis in Health Care. J Patient Saf. 2022 12 01; 18(8):770-778. PMID: [35405723](//www.ncbi.nlm.nih.gov/pubmed/35405723); PMCID: [PMC9698189](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9698189).
+
+Citations:  Fields:
+
+Hea Health Services
+
+  57. [Bradford A](https://profiles.viictr.org/profile/17936048), Shahid U, Schiff GD, Graber ML, Marinez A, DiStabile P, Timashenka A, Jalal H, Brady PJ, **Singh H**. Development and Usability Testing of the Agency for Healthcare Research and Quality Common Formats to Capture Diagnostic Safety Events. J Patient Saf. 2022 09 01; 18(6):521-525. PMID: [35443253](//www.ncbi.nlm.nih.gov/pubmed/35443253); PMCID: [PMC9391254](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9391254).
+
+Citations:  Fields:
+
+Hea Health Services
+
+  58. [Sittig DF](https://profiles.viictr.org/profile/266234), Lakhani P, **Singh H**. Applying requisite imagination to safeguard electronic health record transitions. J Am Med Inform Assoc. 2022 04 13; 29(5):1014-1018. PMID: [35022741](//www.ncbi.nlm.nih.gov/pubmed/35022741); PMCID: [PMC9006683](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9006683).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35022741/citedby/) Fields:
+
+Med Medical Informatics
+
+  59. Ramesh S, Ayres B, Eyck PT, Dawson JD, Reisinger HS, **Singh H** , Herwaldt LA, Cifra CL. Impact of subspecialty consultations on diagnosis in the pediatric intensive care unit. Diagnosis (Berl). 2022 08 01; 9(3):379-384. PMID: [35393849](//www.ncbi.nlm.nih.gov/pubmed/35393849); PMCID: [PMC9427695](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9427695).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+  60. [Meyer AND](https://profiles.viictr.org/profile/8556649), Scott TMT, **Singh H**. Adherence to National Guidelines for Timeliness of Test Results Communication to Patients in the Veterans Affairs Health Care System. JAMA Netw Open. 2022 04 01; 5(4):e228568. PMID: [35452111](//www.ncbi.nlm.nih.gov/pubmed/35452111); PMCID: [PMC9034405](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9034405).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  61. [Makris KI](https://profiles.viictr.org/profile/6541041), Clark DL, Buffie AW, Steen EH, Ramsey DJ, **Singh H**. Missed Opportunities to Promptly Diagnose and Treat Adrenal Tumors. J Surg Res. 2022 08; 276:174-181. PMID: [35366423](//www.ncbi.nlm.nih.gov/pubmed/35366423).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  62. Partyka C, Miller M, Johnson T, Burns B, Fogg T, Sarrami P, **Singh H** , Dee K, Dinh M. Prehospital activation of a coordinated multidisciplinary hospital response in preparation for patients with severe hemorrhage: A statewide data linkage study of the New South Wales "Code Crimson" pathway. J Trauma Acute Care Surg. 2022 10 01; 93(4):521-529. PMID: [35261372](//www.ncbi.nlm.nih.gov/pubmed/35261372).
+
+Citations:
+
+  63. [Shafer GJ](https://profiles.viictr.org/profile/22016608), **Singh H** , Thomas EJ, [Thammasitboon S](https://profiles.viictr.org/profile/268052), Gautham KS. Frequency of diagnostic errors in the neonatal intensive care unit: a retrospective cohort study. J Perinatol. 2022 10; 42(10):1312-1318. PMID: [35246625](//www.ncbi.nlm.nih.gov/pubmed/35246625).
+
+Citations:  Fields:
+
+Per Perinatology
+
+  64. [Sittig DF](https://profiles.viictr.org/profile/266234), Sengstack P, **Singh H**. Guidelines for US Hospitals and Clinicians on Assessment of Electronic Health Record Safety Using SAFER Guides. JAMA. 2022 Feb 22; 327(8):719-720. PMID: [35129591](//www.ncbi.nlm.nih.gov/pubmed/35129591).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  65. **Singh H** , Connor DM, Dhaliwal G. Five strategies for clinicians to advance diagnostic excellence. BMJ. 2022 02 16; 376:e068044. PMID: [35172968](//www.ncbi.nlm.nih.gov/pubmed/35172968).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  66. Vivtcharenko VY, Ramesh S, Dukes KC, **Singh H** , Herwaldt LA, Reisinger HS, Cifra CL. Diagnosis Documentation of Critically Ill Children at Admission to a PICU. Pediatr Crit Care Med. 2022 02 01; 23(2):99-108. PMID: [34534163](//www.ncbi.nlm.nih.gov/pubmed/34534163); PMCID: [PMC8816809](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8816809).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  67. Fischer H, Hahn EE, Li BH, Munoz-Plaza CE, Luong TQ, Harrison TN, Slezak JM, Sim JJ, Mittman BS, Lee EA, **Singh H** , Kanter MH, Reynolds K, Danforth KN. Potentially Harmful Medication Dispenses After a Fall or Hip Fracture: A Mixed Methods Study of a Commonly Used Quality Measure. Jt Comm J Qual Patient Saf. 2022 04; 48(4):222-232. PMID: [35190249](//www.ncbi.nlm.nih.gov/pubmed/35190249).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  68. Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, **Singh H** , Reyes Nieva H. Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study. JAMA Netw Open. 2022 01 04; 5(1):e2144531. PMID: [35061037](//www.ncbi.nlm.nih.gov/pubmed/35061037); PMCID: [PMC8783262](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8783262).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  69. Harrison TN, Reynolds K, Hahn EE, Munoz-Plaza CE, Yi DK, Fischer H, Luong TQ, Sim JJ, Brettler J, Handler J, Mittman BS, **Singh H** , Kanter MH, Danforth KN. Laboratory monitoring to reduce adverse drug-related events: a mixed methods study. J Manag Care Spec Pharm. 2022 Jan; 28(1):16-25. PMID: [34949121](//www.ncbi.nlm.nih.gov/pubmed/34949121); PMCID: [PMC10398702](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10398702).
+
+Citations:  Fields:
+
+Pha Pharmacy
+
+Translation:Humans
+
+  70. Rajan SS, Baldwin JL, [Giardina TD](https://profiles.viictr.org/profile/23478744), **Singh H**. Technology-Based Closed-Loop Tracking for Improving Communication and Follow-up of Pathology Results. J Patient Saf. 2022 01 01; 18(1):e262-e266. PMID: [32804871](//www.ncbi.nlm.nih.gov/pubmed/32804871).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  71. Zhou Y, Walter FM, Mounce L, Abel GA, **Singh H** , Hamilton W, Stewart GD, Lyratzopoulos G. Identifying opportunities for timely diagnosis of bladder and renal cancer via abnormal blood tests: a longitudinal linked data study. Br J Gen Pract. 2022 01; 72(714):e19-e25. PMID: [34903517](//www.ncbi.nlm.nih.gov/pubmed/34903517); PMCID: [PMC8714503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8714503).
+
+Citations:
+
+  72. **Singh H** , Tahsin F, Nie JX, McKinstry B, Thavorn K, Upshur R, Wodchis WP, Gray CS, Harvey S. Exploring the perspectives of primary care providers on use of the electronic Patient Reported Outcomes tool to support goal-oriented care: a qualitative study. BMC Med Inform Decis Mak. 2021 12 29; 21(1):366. PMID: [34965860](//www.ncbi.nlm.nih.gov/pubmed/34965860); PMCID: [PMC8714873](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8714873).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34965860/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  73. Mahajan P, Mollen C, Alpern ER, Baird-Cox K, Boothman RC, Chamberlain JM, Cosby K, Epstein HM, Gegenheimer-Holmes J, Gerardi M, [Giardina TD](https://profiles.viictr.org/profile/23478744), Patel VL, Ruddy R, Saleem J, Shaw KN, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. An Operational Framework to Study Diagnostic Errors in Emergency Departments: Findings From A Consensus Panel. J Patient Saf. 2021 12 01; 17(8):570-575. PMID: [31790012](//www.ncbi.nlm.nih.gov/pubmed/31790012).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31790012/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  74. Shen L, Levie A, **Singh H** , Murray K, Desai S. Harnessing Event Report Data to Identify Diagnostic Error During the COVID-19 Pandemic. Jt Comm J Qual Patient Saf. 2022 02; 48(2):71-80. PMID: [34844874](//www.ncbi.nlm.nih.gov/pubmed/34844874); PMCID: [PMC8553646](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8553646).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:HumansCellsPHPublic Health
+
+  75. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Policies to Promote Shared Responsibility for Safer Electronic Health Records. JAMA. 2021 Oct 19; 326(15):1477-1478. PMID: [34505867](//www.ncbi.nlm.nih.gov/pubmed/34505867).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34505867/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  76. [Murphy DR](https://profiles.viictr.org/profile/267187), Savoy A, Satterly T, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Dashboards for visual display of patient safety data: a systematic review. BMJ Health Care Inform. 2021 Oct; 28(1). PMID: [34615664](//www.ncbi.nlm.nih.gov/pubmed/34615664); PMCID: [PMC8496385](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8496385).
+
+Citations:  Fields:
+
+Med Medical InformaticsPub Public Health
+
+Translation:Humans
+
+  77. Read AJ, Waljee AK, Sussman JB, **Singh H** , Chen GY, Vijan S, Saini SD. Testing Practices, Interpretation, and Diagnostic Evaluation of Iron Deficiency Anemia by US Primary Care Physicians. JAMA Netw Open. 2021 10 01; 4(10):e2127827. PMID: [34596670](//www.ncbi.nlm.nih.gov/pubmed/34596670); PMCID: [PMC8486982](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8486982).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  78. Daniel M, Park S, Seifert CM, Chandanabhumma PP, Fetters MD, Wilson E, **Singh H** , Pasupathy K, Mahajan P. Understanding diagnostic processes in emergency departments: a mixed methods case study protocol. BMJ Open. 2021 09 24; 11(9):e044194. PMID: [34561251](//www.ncbi.nlm.nih.gov/pubmed/34561251); PMCID: [PMC8475137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8475137).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  79. Vaghani V, Wei L, Mushtaq U, [Sittig DF](https://profiles.viictr.org/profile/266234), [Bradford A](https://profiles.viictr.org/profile/17936048), **Singh H**. Validation of an electronic trigger to measure missed diagnosis of stroke in emergency departments. J Am Med Inform Assoc. 2021 09 18; 28(10):2202-2211. PMID: [34279630](//www.ncbi.nlm.nih.gov/pubmed/34279630); PMCID: [PMC8449630](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8449630).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34279630/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  80. Fernandez Branson C, Williams M, Chan TM, Graber ML, Lane KP, Grieser S, Landis-Lewis Z, Cooke J, Upadhyay DK, Mondoux S, **Singh H** , Zwaan L, Friedman C, Olson APJ. Improving diagnostic performance through feedback: the Diagnosis Learning Cycle. BMJ Qual Saf. 2021 12; 30(12):1002-1009. PMID: [34417335](//www.ncbi.nlm.nih.gov/pubmed/34417335); PMCID: [PMC8606468](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8606468).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34417335/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  81. Cifra CL, Custer JW, **Singh H** , Fackler JC. Diagnostic Errors in Pediatric Critical Care: A Systematic Review. Pediatr Crit Care Med. 2021 08 01; 22(8):701-712. PMID: [33833203](//www.ncbi.nlm.nih.gov/pubmed/33833203); PMCID: [PMC8373621](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8373621).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33833203/citedby/) Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  82. [Meyer AND](https://profiles.viictr.org/profile/8556649), [Giardina TD](https://profiles.viictr.org/profile/23478744), [Khawaja L](https://profiles.viictr.org/profile/266273), **Singh H**. Patient and clinician experiences of uncertainty in the diagnostic process: Current understanding and future directions. Patient Educ Couns. 2021 11; 104(11):2606-2615. PMID: [34312032](//www.ncbi.nlm.nih.gov/pubmed/34312032).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34312032/citedby/) Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  83. Nelson M, Armas A, Thombs R, **Singh H** , Fulton J, Cunningham HV, Munce S, Hitzig S, Bettger JP. Synthesising evidence regarding hospital to home transitions supported by volunteers of third sector organisations: a scoping review protocol. BMJ Open. 2021 07 05; 11(7):e050479. PMID: [34226235](//www.ncbi.nlm.nih.gov/pubmed/34226235); PMCID: [PMC8258550](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8258550).
+
+Citations:
+
+  84. Enayati M, Sir M, Zhang X, Parker SJ, Duffy E, **Singh H** , Mahajan P, Pasupathy KS. Monitoring Diagnostic Safety Risks in Emergency Departments: Protocol for a Machine Learning Study. JMIR Res Protoc. 2021 Jun 14; 10(6):e24642. PMID: [34125077](//www.ncbi.nlm.nih.gov/pubmed/34125077); PMCID: [PMC8240801](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8240801).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34125077/citedby/)
+
+  85. Cheraghi-Sohi S, Holland F, **Singh H** , Danczak A, Esmail A, Morris RL, Small N, Williams R, de Wet C, Campbell SM, Reeves D. Incidence, origins and avoidable harm of missed opportunities in diagnosis: longitudinal patient record review in 21 English general practices. BMJ Qual Saf. 2021 12; 30(12):977-985. PMID: [34127547](//www.ncbi.nlm.nih.gov/pubmed/34127547); PMCID: [PMC8606447](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8606447).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34127547/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  86. Savoy A, Patel H, [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AND](https://profiles.viictr.org/profile/8556649), Herout J, **Singh H**. Electronic Health Records' Support for Primary Care Physicians' Situation Awareness: A Metanarrative Review. Hum Factors. 2023 Mar; 65(2):237-259. PMID: [34033500](//www.ncbi.nlm.nih.gov/pubmed/34033500); PMCID: [PMC9969495](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9969495).
+
+Citations:  Fields:
+
+Psy Psychology
+
+  87. Cifra CL, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Bridging the feedback gap: a sociotechnical approach to informing clinicians of patients' subsequent clinical course and outcomes. BMJ Qual Saf. 2021 07; 30(7):591-597. PMID: [33958442](//www.ncbi.nlm.nih.gov/pubmed/33958442); PMCID: [PMC8237185](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8237185).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33958442/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  88. [Zimolzak AJ](https://profiles.viictr.org/profile/28999218), Shahid U, [Giardina TD](https://profiles.viictr.org/profile/23478744), Memon SA, Mushtaq U, Zubkoff L, [Murphy DR](https://profiles.viictr.org/profile/267187), [Bradford A](https://profiles.viictr.org/profile/17936048), **Singh H**. Why Test Results Are Still Getting "Lost" to Follow-up: a Qualitative Study of Implementation Gaps. J Gen Intern Med. 2022 01; 37(1):137-144. PMID: [33907982](//www.ncbi.nlm.nih.gov/pubmed/33907982); PMCID: [PMC8739406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8739406).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33907982/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  89. Dymek C, Kim B, Melton GB, Payne TH, **Singh H** , Hsiao CJ. Building the evidence-base to reduce electronic health record-related clinician burden. J Am Med Inform Assoc. 2021 04 23; 28(5):1057-1061. PMID: [33340326](//www.ncbi.nlm.nih.gov/pubmed/33340326); PMCID: [PMC8068419](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8068419).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33340326/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  90. Pfoh ER, Engineer L, **Singh H** , Hall LL, Fried ED, Berger Z, Wu AW. Informing the Design of a New Pragmatic Registry to Stimulate Near Miss Reporting in Ambulatory Care. J Patient Saf. 2021 04 01; 17(3):e121-e127. PMID: [28248748](//www.ncbi.nlm.nih.gov/pubmed/28248748).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  91. Jones OT, Calanzani N, Saji S, Duffy SW, Emery J, Hamilton W, **Singh H** , de Wit NJ, Walter FM. Artificial Intelligence Techniques That May Be Applied to Primary Care Data to Facilitate Earlier Diagnosis of Cancer: Systematic Review. J Med Internet Res. 2021 03 03; 23(3):e23483. PMID: [33656443](//www.ncbi.nlm.nih.gov/pubmed/33656443); PMCID: [PMC7970165](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7970165).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33656443/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  92. **Singh H** , Armas A, Law S, Tang T, Steele Gray C, Cunningham HV, Thombs R, Ellen M, Sritharan J, Nie JX, Plett D, Jarach CM, Thavorn K, Nelson MLA. How digital health solutions align with the roles and functions that support hospital to home transitions for older adults: a rapid review study protocol. BMJ Open. 2021 02 25; 11(2):e045596. PMID: [33632755](//www.ncbi.nlm.nih.gov/pubmed/33632755); PMCID: [PMC7908914](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7908914).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  93. [Giardina TD](https://profiles.viictr.org/profile/23478744), Korukonda S, Shahid U, Vaghani V, Upadhyay DK, Burke GF, **Singh H**. Use of patient complaints to identify diagnosis-related safety concerns: a mixed-method evaluation. BMJ Qual Saf. 2021 12; 30(12):996-1001. PMID: [33597282](//www.ncbi.nlm.nih.gov/pubmed/33597282); PMCID: [PMC8552507](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8552507).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33597282/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  94. Zwaan L, El-Kareh R, [Meyer AND](https://profiles.viictr.org/profile/8556649), Hooftman J, **Singh H**. Advancing Diagnostic Safety Research: Results of a Systematic Research Priority Setting Exercise. J Gen Intern Med. 2021 10; 36(10):2943-2951. PMID: [33564945](//www.ncbi.nlm.nih.gov/pubmed/33564945); PMCID: [PMC8481519](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8481519).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33564945/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  95. Zhou Y, Walter FM, **Singh H** , Hamilton W, Abel GA, Lyratzopoulos G. Prolonged Diagnostic Intervals as Marker of Missed Diagnostic Opportunities in Bladder and Kidney Cancer Patients with Alarm Features: A Longitudinal Linked Data Study. Cancers (Basel). 2021 Jan 05; 13(1). PMID: [33466406](//www.ncbi.nlm.nih.gov/pubmed/33466406); PMCID: [PMC7796444](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7796444).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33466406/citedby/)
+
+  96. **Singh H** , Carayon P. A Roadmap to Advance Patient Safety in Ambulatory Care. JAMA. 2020 12 22; 324(24):2481-2482. PMID: [33351052](//www.ncbi.nlm.nih.gov/pubmed/33351052); PMCID: [PMC8016440](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8016440).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33351052/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  97. Mahajan P, Pai CW, Cosby KS, Mollen CJ, Shaw KN, Chamberlain JM, El-Kareh R, Ruddy RM, Alpern ER, Epstein HM, [Giardina TD](https://profiles.viictr.org/profile/23478744), Graber ML, [Medford-Davis LN](https://profiles.viictr.org/profile/9909027), Medlin RP, Upadhyay DK, Parker SJ, **Singh H**. Identifying trigger concepts to screen emergency department visits for diagnostic errors. Diagnosis (Berl). 2021 08 26; 8(3):340-346. PMID: [33180032](//www.ncbi.nlm.nih.gov/pubmed/33180032).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33180032/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  98. Rogith D, Satterly T, **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234), Russo E, Smith MW, Roosan D, Bhise V, [Murphy DR](https://profiles.viictr.org/profile/267187). Application of Human Factors Methods to Understand Missed Follow-up of Abnormal Test Results. Appl Clin Inform. 2020 10; 11(5):692-698. PMID: [33086395](//www.ncbi.nlm.nih.gov/pubmed/33086395); PMCID: [PMC7577780](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7577780).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33086395/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  99. Portuondo JI, Shah SR, Raval MV, Pan IE, Zhu H, Fallon SC, Harris AHS, **Singh H** , Massarweh NN. Complications and Failure to Rescue After Inpatient Pediatric Surgery. Ann Surg. 2022 10 01; 276(4):e239-e246. PMID: [33086325](//www.ncbi.nlm.nih.gov/pubmed/33086325).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33086325/citedby/) Fields:
+
+Gen General Surgery
+
+  100. Cifra CL, Dukes KC, Ayres BS, Calomino KA, Herwaldt LA, **Singh H** , Reisinger HS. Referral communication for pediatric intensive care unit admission and the diagnosis of critically ill children: A pilot ethnography. J Crit Care. 2021 06; 63:246-249. PMID: [32980235](//www.ncbi.nlm.nih.gov/pubmed/32980235); PMCID: [PMC7969466](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7969466).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32980235/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  101. [Meyer AND](https://profiles.viictr.org/profile/8556649), Upadhyay DK, Collins CA, Fitzpatrick MH, Kobylinski M, Bansal AB, Torretti D, **Singh H**. A Program to Provide Clinicians with Feedback on Their Diagnostic Performance in a Learning Health System. Jt Comm J Qual Patient Saf. 2021 02; 47(2):120-126. PMID: [32980255](//www.ncbi.nlm.nih.gov/pubmed/32980255).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32980255/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  102. Zwaan L, **Singh H**. Diagnostic error in hospitals: finding forests not just the big trees. BMJ Qual Saf. 2020 12; 29(12):961-964. PMID: [32753410](//www.ncbi.nlm.nih.gov/pubmed/32753410).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32753410/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  103. **Singh H** , Upadhyay DK, Torretti D. Developing Health Care Organizations That Pursue Learning and Exploration of Diagnostic Excellence: An Action Plan. Acad Med. 2020 08; 95(8):1172-1178. PMID: [31688035](//www.ncbi.nlm.nih.gov/pubmed/31688035); PMCID: [PMC7402609](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7402609).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31688035/citedby/) Fields:
+
+Edu Education
+
+Translation:Humans
+
+  104. **Singh H** , [Bradford A](https://profiles.viictr.org/profile/17936048), Goeschel C. Operational measurement of diagnostic safety: state of the science. Diagnosis (Berl). 2021 02 23; 8(1):51-65. PMID: [32706749](//www.ncbi.nlm.nih.gov/pubmed/32706749).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32706749/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  105. [Fletcher TL](https://profiles.viictr.org/profile/3009875), Helm A, Vaghani V, [Kunik ME](https://profiles.viictr.org/profile/266844), [Stanley MA](https://profiles.viictr.org/profile/269075), **Singh H**. Identifying psychiatric diagnostic errors with the Safer Dx Instrument. Int J Qual Health Care. 2020 Jul 20; 32(6):405-411. PMID: [32671387](//www.ncbi.nlm.nih.gov/pubmed/32671387).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32671387/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  106. [Alore EA](https://profiles.viictr.org/profile/38174597), Massarweh NN, Ramsey DJ, Chen L, [Chai CY](https://profiles.viictr.org/profile/16102668), **Singh H** , [Makris KI](https://profiles.viictr.org/profile/6541041). Variation in surgical management of primary hyperparathyroidism in the US Department of Veterans Affairs healthcare system: A 15-year observational study. Surgery. 2020 11; 168(5):838-844. PMID: [32665141](//www.ncbi.nlm.nih.gov/pubmed/32665141).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  107. Choi DT, [Davila JA](https://profiles.viictr.org/profile/268397), [Sansgiry S](https://profiles.viictr.org/profile/265828), David E, **Singh H** , [El-Serag HB](https://profiles.viictr.org/profile/269175), [Sada YH](https://profiles.viictr.org/profile/267158). Factors Associated With Delay of Diagnosis of Hepatocellular Carcinoma in Patients With Cirrhosis. Clin Gastroenterol Hepatol. 2021 08; 19(8):1679-1687. PMID: [32693047](//www.ncbi.nlm.nih.gov/pubmed/32693047); PMCID: [PMC7855025](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7855025).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32693047/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  108. **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234), Gandhi TK. Fighting a common enemy: a catalyst to close intractable safety gaps. BMJ Qual Saf. 2021 02; 30(2):141-145. PMID: [32675326](//www.ncbi.nlm.nih.gov/pubmed/32675326); PMCID: [PMC7841492](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7841492).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32675326/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  109. [Sittig DF](https://profiles.viictr.org/profile/266234), Ash JS, Wright A, Chase D, Gebhardt E, Russo EM, Tercek C, Mohan V, **Singh H**. How can we partner with electronic health record vendors on the complex journey to safer health care? J Healthc Risk Manag. 2020 Oct; 40(2):34-43. PMID: [32648286](//www.ncbi.nlm.nih.gov/pubmed/32648286).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32648286/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  110. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. COVID-19 and the Need for a National Health Information Technology Infrastructure. JAMA. 2020 06 16; 323(23):2373-2374. PMID: [32421178](//www.ncbi.nlm.nih.gov/pubmed/32421178).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32421178/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCellsPHPublic Health
+
+  111. **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234). A Sociotechnical Framework for Safety-Related Electronic Health Record Research Reporting: The SAFER Reporting Framework. Ann Intern Med. 2020 06 02; 172(11 Suppl):S92-S100. PMID: [32479184](//www.ncbi.nlm.nih.gov/pubmed/32479184).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32479184/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  112. Powell L, [Sittig DF](https://profiles.viictr.org/profile/266234), Chrouser K, **Singh H**. Assessment of Health Information Technology-Related Outpatient Diagnostic Delays in the US Veterans Affairs Health Care System: A Qualitative Study of Aggregated Root Cause Analysis Data. JAMA Netw Open. 2020 06 01; 3(6):e206752. PMID: [32584406](//www.ncbi.nlm.nih.gov/pubmed/32584406); PMCID: [PMC7317596](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7317596).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32584406/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  113. Gandhi TK, **Singh H**. Reducing the Risk of Diagnostic Error in the COVID-19 Era. J Hosp Med. 2020 06; 15(6):363-366. PMID: [32490798](//www.ncbi.nlm.nih.gov/pubmed/32490798); PMCID: [PMC7289509](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7289509).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32490798/citedby/) Fields:
+
+Hos Hospitals
+
+Translation:HumansCellsPHPublic Health
+
+  114. Cifra CL, Tigges CR, Miller SL, Herwaldt LA, **Singh H**. Updates to referring clinicians regarding critically ill children admitted to the pediatric intensive care unit: a state-wide survey. Diagnosis (Berl). 2020 05 26; 7(2):123-128. PMID: [31652117](//www.ncbi.nlm.nih.gov/pubmed/31652117); PMCID: [PMC7732519](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7732519).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31652117/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  115. Dadlez NM, Adelman J, Bundy DG, **Singh H** , Applebaum JR, Rinke ML. Contributing Factors for Pediatric Ambulatory Diagnostic Process Errors: Project RedDE. Pediatr Qual Saf. 2020 May-Jun; 5(3):e299. PMID: [32656467](//www.ncbi.nlm.nih.gov/pubmed/32656467); PMCID: [PMC7297397](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7297397).
+
+Citations:
+
+  116. Cifra CL, Ten Eyck P, Dawson JD, Reisinger HS, **Singh H** , Herwaldt LA. Factors Associated With Diagnostic Error on Admission to a PICU: A Pilot Study. Pediatr Crit Care Med. 2020 05; 21(5):e311-e315. PMID: [32097247](//www.ncbi.nlm.nih.gov/pubmed/32097247); PMCID: [PMC7224314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7224314).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32097247/citedby/) Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  117. Bergl PA, Taneja A, El-Kareh R, **Singh H** , Nanchal RS. The authors reply. Crit Care Med. 2020 05; 48(5):e434-e435. PMID: [32301787](//www.ncbi.nlm.nih.gov/pubmed/32301787).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  118. Zhou Y, Abel GA, Hamilton W, **Singh H** , Walter FM, Lyratzopoulos G. Imaging activity possibly signalling missed diagnostic opportunities in bladder and kidney cancer: A longitudinal data-linkage study using primary care electronic health records. Cancer Epidemiol. 2020 06; 66:101703. PMID: [32334389](//www.ncbi.nlm.nih.gov/pubmed/32334389); PMCID: [PMC7294227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7294227).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32334389/citedby/) Fields:
+
+Epi EpidemiologyNeo Neoplasms
+
+Translation:Humans
+
+  119. Mahajan P, Basu T, Pai CW, **Singh H** , Petersen N, Bellolio MF, Gadepalli SK, Kamdar NS. Factors Associated With Potentially Missed Diagnosis of Appendicitis in the Emergency Department. JAMA Netw Open. 2020 03 02; 3(3):e200612. PMID: [32150270](//www.ncbi.nlm.nih.gov/pubmed/32150270); PMCID: [PMC7063499](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7063499).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32150270/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  120. Grubenhoff JA, Ziniel SI, Cifra CL, Singhal G, McClead RE, **Singh H**. Pediatric Clinician Comfort Discussing Diagnostic Errors for Improving Patient Safety: A Survey. Pediatr Qual Saf. 2020 Mar-Apr; 5(2):e259. PMID: [32426626](//www.ncbi.nlm.nih.gov/pubmed/32426626); PMCID: [PMC7190246](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7190246).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32426626/citedby/)
+
+  121. **Singh H** , Scovil CY, Yoshida K, Oosman S, Kaiser A, Craven C, Jaglal S, Musselman KE. Factors that influence the risk of falling after spinal cord injury: a qualitative photo-elicitation study with individuals that use a wheelchair as their primary means of mobility. BMJ Open. 2020 02 25; 10(2):e034279. PMID: [32102820](//www.ncbi.nlm.nih.gov/pubmed/32102820); PMCID: [PMC7045099](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7045099).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32102820/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  122. [Giardina TD](https://profiles.viictr.org/profile/23478744), Royse KE, Khanna A, Haskell H, Hallisy J, Southwick F, **Singh H**. Health Care Provider Factors Associated with Patient-Reported Adverse Events and Harm. Jt Comm J Qual Patient Saf. 2020 05; 46(5):282-290. PMID: [32362355](//www.ncbi.nlm.nih.gov/pubmed/32362355); PMCID: [PMC7720932](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7720932).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32362355/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  123. [Meyer AND](https://profiles.viictr.org/profile/8556649), [Giardina TD](https://profiles.viictr.org/profile/23478744), Spitzmueller C, Shahid U, Scott TMT, **Singh H**. Patient Perspectives on the Usefulness of an Artificial Intelligence-Assisted Symptom Checker: Cross-Sectional Survey Study. J Med Internet Res. 2020 01 30; 22(1):e14679. PMID: [32012052](//www.ncbi.nlm.nih.gov/pubmed/32012052); PMCID: [PMC7055765](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7055765).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32012052/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  124. Sheehan SE, Safdar N, **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234), Bruno MA, Keller K, Kinnard S, Brunner MC. Detection and Remediation of Misidentification Errors in Radiology Examination Ordering. Appl Clin Inform. 2020 01; 11(1):79-87. PMID: [31995835](//www.ncbi.nlm.nih.gov/pubmed/31995835); PMCID: [PMC6989264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6989264).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  125. Kravet S, Bhatnagar M, Dwyer M, Kjaer K, Evanko J, **Singh H**. Prioritizing Patient Safety Efforts in Office Practice Settings. J Patient Saf. 2019 12; 15(4):e98-e101. PMID: [31764534](//www.ncbi.nlm.nih.gov/pubmed/31764534).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31764534/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  126. **Singh H** , Graber ML, Hofer TP. Measures to Improve Diagnostic Safety in Clinical Practice. J Patient Saf. 2019 12; 15(4):311-316. PMID: [27768655](//www.ncbi.nlm.nih.gov/pubmed/27768655); PMCID: [PMC5398940](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5398940).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27768655/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  127. [Meyer AND](https://profiles.viictr.org/profile/8556649), [Giardina TD](https://profiles.viictr.org/profile/23478744), Khanna A, Bhise V, Singhal GR, Street RL, **Singh H**. Pediatric clinician perspectives on communicating diagnostic uncertainty. Int J Qual Health Care. 2019 Nov 30; 31(9):G107-G112. PMID: [31322679](//www.ncbi.nlm.nih.gov/pubmed/31322679).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31322679/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  128. **Singh H** , Khanna A, Spitzmueller C, [Meyer AND](https://profiles.viictr.org/profile/8556649). Recommendations for using the Revised Safer Dx Instrument to help measure and improve diagnostic safety. Diagnosis (Berl). 2019 11 26; 6(4):315-323. PMID: [31287795](//www.ncbi.nlm.nih.gov/pubmed/31287795).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31287795/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  129. Bergl PA, Taneja A, El-Kareh R, **Singh H** , Nanchal RS. Frequency, Risk Factors, Causes, and Consequences of Diagnostic Errors in Critically Ill Medical Patients: A Retrospective Cohort Study. Crit Care Med. 2019 11; 47(11):e902-e910. PMID: [31524644](//www.ncbi.nlm.nih.gov/pubmed/31524644).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31524644/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  130. Chartan C, **Singh H** , Krishnamurthy P, [Sur M](https://profiles.viictr.org/profile/269323), Meyer A, Lutfi R, Stark J, [Thammasitboon S](https://profiles.viictr.org/profile/268052). Isolating red flags to enhance diagnosis (I-RED): An experimental vignette study. Int J Qual Health Care. 2019 Oct 31; 31(8):G97-G102. PMID: [31665303](//www.ncbi.nlm.nih.gov/pubmed/31665303).
+
+Citations:  Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  131. Mendonca SC, Abel GA, Gildea C, McPhail S, Peake MD, Rubin G, **Singh H** , Hamilton W, Walter FM, Roland MO, Lyratzopoulos G. Associations between general practice characteristics with use of urgent referrals for suspected cancer and endoscopies: a cross-sectional ecological study. Fam Pract. 2019 10 08; 36(5):573-580. PMID: [30541076](//www.ncbi.nlm.nih.gov/pubmed/30541076); PMCID: [PMC6781939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6781939).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30541076/citedby/) Fields:
+
+Pri Primary Health Care
+
+Translation:Humans
+
+  132. Zhou Y, van Melle M, **Singh H** , Hamilton W, Lyratzopoulos G, Walter FM. Quality of the diagnostic process in patients presenting with symptoms suggestive of bladder or kidney cancer: a systematic review. BMJ Open. 2019 10 03; 9(10):e029143. PMID: [31585970](//www.ncbi.nlm.nih.gov/pubmed/31585970); PMCID: [PMC6797416](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6797416).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31585970/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  133. [Murphy DR](https://profiles.viictr.org/profile/267187), [Giardina TD](https://profiles.viictr.org/profile/23478744), Satterly T, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. An Exploration of Barriers, Facilitators, and Suggestions for Improving Electronic Health Record Inbox-Related Usability: A Qualitative Analysis. JAMA Netw Open. 2019 10 02; 2(10):e1912638. PMID: [31584683](//www.ncbi.nlm.nih.gov/pubmed/31584683); PMCID: [PMC6784746](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6784746).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31584683/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  134. Olson APJ, Graber ML, **Singh H**. Letter to the Editor. J Gen Intern Med. 2019 10; 34(10):1960. PMID: [31236892](//www.ncbi.nlm.nih.gov/pubmed/31236892); PMCID: [PMC6816679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6816679).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+  135. Rinke ML, **Singh H** , Brady TM, Heo M, Kairys SW, Orringer K, Dadlez NM, Bundy DG. Cluster Randomized Trial Reducing Missed Elevated Blood Pressure in Pediatric Primary Care: Project RedDE. Pediatr Qual Saf. 2019 Sep-Oct; 4(5):e187. PMID: [31745503](//www.ncbi.nlm.nih.gov/pubmed/31745503); PMCID: [PMC6831043](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6831043).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31745503/citedby/)
+
+  136. Rinke ML, Bundy DG, Stein REK, O'Donnell HC, Heo M, Sangvai S, Lilienfeld H, **Singh H**. Increasing Recognition and Diagnosis of Adolescent Depression: Project RedDE: A Cluster Randomized Trial. Pediatr Qual Saf. 2019 Sep-Oct; 4(5):e217. PMID: [31745520](//www.ncbi.nlm.nih.gov/pubmed/31745520); PMCID: [PMC6805099](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6805099).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31745520/citedby/)
+
+  137. Rinke ML, Bundy DG, Lehmann CU, Heo M, Adelman JS, Norton A, **Singh H**. Project RedDE: Cluster Randomized Trial to Reduce Missed or Delayed Abnormal Laboratory Value Actions. Pediatr Qual Saf. 2019 Sep-Oct; 4(5):e218. PMID: [31745521](//www.ncbi.nlm.nih.gov/pubmed/31745521); PMCID: [PMC6805103](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6805103).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31745521/citedby/)
+
+  138. [Fletcher TL](https://profiles.viictr.org/profile/3009875), [Hundt NE](https://profiles.viictr.org/profile/268522), [Kunik ME](https://profiles.viictr.org/profile/266844), **Singh H** , [Stanley MA](https://profiles.viictr.org/profile/269075). Accuracy of Anxiety Disorder Not Otherwise Specified Diagnosis in Older Veterans. J Psychiatr Pract. 2019 09; 25(5):358-364. PMID: [31505520](//www.ncbi.nlm.nih.gov/pubmed/31505520).
+
+Citations:  Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  139. [Alore EA](https://profiles.viictr.org/profile/38174597), [Suliburk JW](https://profiles.viictr.org/profile/266101), Ramsey DJ, Massarweh NN, Balentine CJ, **Singh H** , [Awad SS](https://profiles.viictr.org/profile/266767), [Makris KI](https://profiles.viictr.org/profile/6541041). Diagnosis and Management of Primary Hyperparathyroidism Across the Veterans Affairs Health Care System. JAMA Intern Med. 2019 Sep 01; 179(9):1220-1227. PMID: [31305864](//www.ncbi.nlm.nih.gov/pubmed/31305864); PMCID: [PMC6632180](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6632180).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31305864/citedby/) Fields:
+
+Int Internal Medicine
+
+  140. Quinn M, Forman J, Harrod M, Winter S, Fowler KE, Krein SL, Gupta A, Saint S, **Singh H** , Chopra V. Electronic health records, communication, and data sharing: challenges and opportunities for improving the diagnostic process. Diagnosis (Berl). 2019 08 27; 6(3):241-248. PMID: [30485175](//www.ncbi.nlm.nih.gov/pubmed/30485175); PMCID: [PMC6691503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6691503).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30485175/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  141. [Shafer G](https://profiles.viictr.org/profile/22016608), **Singh H** , Suresh G. Diagnostic errors in the neonatal intensive care unit: State of the science and new directions. Semin Perinatol. 2019 12; 43(8):151175. PMID: [31488330](//www.ncbi.nlm.nih.gov/pubmed/31488330).
+
+Citations:  Fields:
+
+Per Perinatology
+
+Translation:Humans
+
+  142. Portuondo JI, Shah SR, **Singh H** , Massarweh NN. Failure to Rescue as a Surgical Quality Indicator: Current Concepts and Future Directions for Improving Surgical Outcomes. Anesthesiology. 2019 08; 131(2):426-437. PMID: [30860985](//www.ncbi.nlm.nih.gov/pubmed/30860985).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30860985/citedby/) Fields:
+
+Ane Anesthesiology
+
+Translation:Humans
+
+  143. Renzi C, Kaushal A, Emery J, Hamilton W, Neal RD, Rachet B, Rubin G, **Singh H** , Walter FM, de Wit NJ, Lyratzopoulos G. Comorbid chronic diseases and cancer diagnosis: disease-specific effects and underlying mechanisms. Nat Rev Clin Oncol. 2019 12; 16(12):746-761. PMID: [31350467](//www.ncbi.nlm.nih.gov/pubmed/31350467).
+
+Citations:
+
+  144. Ratwani RM, Reider J, **Singh H**. Improving Usability of Health Information Technology-Reply. JAMA. 2019 07 23; 322(4):365. PMID: [31334785](//www.ncbi.nlm.nih.gov/pubmed/31334785).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+  145. Amelung D, Whitaker KL, Lennard D, Ogden M, Sheringham J, Zhou Y, Walter FM, **Singh H** , Vincent C, Black G. Influence of doctor-patient conversations on behaviours of patients presenting to primary care with new or persistent symptoms: a video observation study. BMJ Qual Saf. 2020 03; 29(3):198-208. PMID: [31326946](//www.ncbi.nlm.nih.gov/pubmed/31326946); PMCID: [PMC7057803](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7057803).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31326946/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  146. Danforth KN, Hahn EE, Slezak JM, Chen LH, Li BH, Munoz-Plaza CE, Luong TQ, Harrison TN, Mittman BS, Sim JJ, **Singh H** , Kanter MH. Follow-up of Abnormal Estimated GFR Results Within a Large Integrated Health Care Delivery System: A Mixed-Methods Study. Am J Kidney Dis. 2019 11; 74(5):589-600. PMID: [31324445](//www.ncbi.nlm.nih.gov/pubmed/31324445).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31324445/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  147. [Murphy DR](https://profiles.viictr.org/profile/267187), Satterly T, [Giardina TD](https://profiles.viictr.org/profile/23478744), [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Practicing Clinicians' Recommendations to Reduce Burden from the Electronic Health Record Inbox: a Mixed-Methods Study. J Gen Intern Med. 2019 09; 34(9):1825-1832. PMID: [31292905](//www.ncbi.nlm.nih.gov/pubmed/31292905); PMCID: [PMC6712240](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6712240).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31292905/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  148. [Suliburk JW](https://profiles.viictr.org/profile/266101), Buck QM, Pirko CJ, Massarweh NN, [Barshes NR](https://profiles.viictr.org/profile/269878), **Singh H** , [Rosengart TK](https://profiles.viictr.org/profile/267602). Analysis of Human Performance Deficiencies Associated With Surgical Adverse Events. JAMA Netw Open. 2019 07 03; 2(7):e198067. PMID: [31365107](//www.ncbi.nlm.nih.gov/pubmed/31365107); PMCID: [PMC6669897](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6669897).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31365107/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  149. Centor RM, **Singh H**. Web Exclusive. Annals On Call - Reducing Diagnostic Error. Ann Intern Med. 2019 Jul 02; 171(1):OC1. PMID: [31261407](//www.ncbi.nlm.nih.gov/pubmed/31261407).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+  150. Radhakrishnan NS, **Singh H** , Southwick FS. Teaching novice clinicians how to reduce diagnostic waste and errors by applying the Toyota Production System. Diagnosis (Berl). 2019 06 26; 6(2):179-185. PMID: [30875320](//www.ncbi.nlm.nih.gov/pubmed/30875320).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30875320/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  151. Walter FM, Thompson MJ, Wellwood I, Abel GA, Hamilton W, Johnson M, Lyratzopoulos G, Messenger MP, Neal RD, Rubin G, **Singh H** , Spencer A, Sutton S, Vedsted P, Emery JD. Evaluating diagnostic strategies for early detection of cancer: the CanTest framework. BMC Cancer. 2019 Jun 14; 19(1):586. PMID: [31200676](//www.ncbi.nlm.nih.gov/pubmed/31200676); PMCID: [PMC6570853](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6570853).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31200676/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  152. [Murphy DR](https://profiles.viictr.org/profile/267187), Satterly T, Rogith D, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Barriers and facilitators impacting reliability of the electronic health record-facilitated total testing process. Int J Med Inform. 2019 07; 127:102-108. PMID: [31128821](//www.ncbi.nlm.nih.gov/pubmed/31128821).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31128821/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  153. Ash JS, **Singh H** , Wright A, Chase D, [Sittig DF](https://profiles.viictr.org/profile/266234). Essential activities for electronic health record safety: A qualitative study. Health Informatics J. 2020 12; 26(4):3140-3151. PMID: [30848694](//www.ncbi.nlm.nih.gov/pubmed/30848694).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30848694/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  154. [Meyer AND](https://profiles.viictr.org/profile/8556649), **Singh H**. The Path to Diagnostic Excellence Includes Feedback to Calibrate How Clinicians Think. JAMA. 2019 Feb 26; 321(8):737-738. PMID: [30735239](//www.ncbi.nlm.nih.gov/pubmed/30735239).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30735239/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  155. Ratwani RM, Reider J, **Singh H**. A Decade of Health Information Technology Usability Challenges and the Path Forward. JAMA. 2019 Feb 26; 321(8):743-744. PMID: [30715133](//www.ncbi.nlm.nih.gov/pubmed/30715133).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30715133/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  156. Bundy DG, **Singh H** , Stein RE, Brady TM, Lehmann CU, Heo M, O'Donnell HC, Rice-Conboy E, Rinke ML. The design and conduct of Project RedDE: A cluster-randomized trial to reduce diagnostic errors in pediatric primary care. Clin Trials. 2019 04; 16(2):154-164. PMID: [30720339](//www.ncbi.nlm.nih.gov/pubmed/30720339).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30720339/citedby/) Fields:
+
+Med Medicine (General)The Therapeutics
+
+Translation:HumansCTClinical Trials
+
+  157. [Puri K](https://profiles.viictr.org/profile/14348347), **Singh H** , [Denfield SW](https://profiles.viictr.org/profile/266895), Cabrera AG, [Dreyer WJ](https://profiles.viictr.org/profile/269672), [Tunuguntla HP](https://profiles.viictr.org/profile/3010161), [Price JF](https://profiles.viictr.org/profile/268360). Missed Diagnosis of New-Onset Systolic Heart Failure at First Presentation in Children with No Known Heart Disease. J Pediatr. 2019 05; 208:258-264.e3. PMID: [30679055](//www.ncbi.nlm.nih.gov/pubmed/30679055).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30679055/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  158. [Sittig DF](https://profiles.viictr.org/profile/266234), Wright A, Coiera E, Magrabi F, Ratwani R, [Bates DW](https://profiles.viictr.org/profile/265690), **Singh H**. Current challenges in health information technology-related patient safety. Health Informatics J. 2020 03; 26(1):181-189. PMID: [30537881](//www.ncbi.nlm.nih.gov/pubmed/30537881); PMCID: [PMC7510167](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7510167).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30537881/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  159. [Medford-Davis LN](https://profiles.viictr.org/profile/9909027), **Singh H** , Mahajan P. Diagnostic Decision-Making in the Emergency Department. Pediatr Clin North Am. 2018 12; 65(6):1097-1105. PMID: [30446050](//www.ncbi.nlm.nih.gov/pubmed/30446050).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30446050/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  160. Kwan JL, **Singh H**. General Internists in Pursuit of Diagnostic Excellence. J Gen Intern Med. 2018 12; 33(12):2026. PMID: [30225767](//www.ncbi.nlm.nih.gov/pubmed/30225767); PMCID: [PMC6258618](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6258618).
+
+Citations:
+
+  161. [Bates DW](https://profiles.viictr.org/profile/265690), **Singh H**. Two Decades Since To Err Is Human: An Assessment Of Progress And Emerging Priorities In Patient Safety. Health Aff (Millwood). 2018 11; 37(11):1736-1743. PMID: [30395508](//www.ncbi.nlm.nih.gov/pubmed/30395508).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30395508/citedby/) Fields:
+
+Hea Health Services ResearchPub Public Health
+
+Translation:Humans
+
+  162. Berenson R, **Singh H**. Payment Innovations To Improve Diagnostic Accuracy And Reduce Diagnostic Error. Health Aff (Millwood). 2018 11; 37(11):1828-1835. PMID: [30395510](//www.ncbi.nlm.nih.gov/pubmed/30395510).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30395510/citedby/) Fields:
+
+Hea Health Services ResearchPub Public Health
+
+Translation:Humans
+
+  163. [Giardina TD](https://profiles.viictr.org/profile/23478744), Haskell H, Menon S, Hallisy J, Southwick FS, Sarkar U, Royse KE, **Singh H**. Learning From Patients' Experiences Related To Diagnostic Errors Is Essential For Progress In Patient Safety. Health Aff (Millwood). 2018 11; 37(11):1821-1827. PMID: [30395513](//www.ncbi.nlm.nih.gov/pubmed/30395513); PMCID: [PMC8103734](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8103734).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30395513/citedby/) Fields:
+
+Hea Health Services ResearchPub Public Health
+
+Translation:Humans
+
+  164. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), [Sittig DF](https://profiles.viictr.org/profile/266234), [Meeks DW](https://profiles.viictr.org/profile/3009812), Thomas EJ, **Singh H**. Application of electronic trigger tools to identify targets for improving diagnostic safety. BMJ Qual Saf. 2019 02; 28(2):151-159. PMID: [30291180](//www.ncbi.nlm.nih.gov/pubmed/30291180); PMCID: [PMC6365920](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6365920).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30291180/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  165. Millenson ML, Baldwin JL, Zipperer L, **Singh H**. Beyond Dr. Google: the evidence on consumer-facing digital tools for diagnosis. Diagnosis (Berl). 2018 09 25; 5(3):95-105. PMID: [30032130](//www.ncbi.nlm.nih.gov/pubmed/30032130).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30032130/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  166. Gupta A, Harrod M, Quinn M, Manojlovich M, Fowler KE, **Singh H** , Saint S, Chopra V. Mind the overlap: how system problems contribute to cognitive failure and diagnostic errors. Diagnosis (Berl). 2018 09 25; 5(3):151-156. PMID: [30007056](//www.ncbi.nlm.nih.gov/pubmed/30007056); PMCID: [PMC6743477](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6743477).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30007056/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  167. Whitehead NS, Williams L, Meleth S, Kennedy S, Epner P, Singh H, Wooldridge K, Dalal AK, Walz SE, Lorey T, Graber ML, Whitehead NS, Williams L, Meleth S, Kennedy S, Epner P, **Singh H** , Wooldridge K, Dalal AK, Walz SE, Lorey T, Graber ML. Interventions to Improve Follow-Up of Laboratory Test Results Pending at Discharge: A Systematic Review. J Hosp Med. 2018 Sep; 13(9):631-636. PMID: [29489926](//www.ncbi.nlm.nih.gov/pubmed/29489926); PMCID: [PMC9491200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9491200).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29489926/citedby/) Fields:
+
+Hos Hospitals
+
+  168. Bergl PA, Nanchal RS, **Singh H**. Diagnostic Error in the Critically III: Defining the Problem and Exploring Next Steps to Advance Intensive Care Unit Safety. Ann Am Thorac Soc. 2018 08; 15(8):903-907. PMID: [29742359](//www.ncbi.nlm.nih.gov/pubmed/29742359).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29742359/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  169. [Meyer AND](https://profiles.viictr.org/profile/8556649), Thompson PJ, Khanna A, Desai S, Mathews BK, Yousef E, [Kusnoor AV](https://profiles.viictr.org/profile/268211), **Singh H**. Evaluating a mobile application for improving clinical laboratory test ordering and diagnosis. J Am Med Inform Assoc. 2018 07 01; 25(7):841-847. PMID: [29688391](//www.ncbi.nlm.nih.gov/pubmed/29688391); PMCID: [PMC6947660](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6947660).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29688391/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  170. [Sittig DF](https://profiles.viictr.org/profile/266234), Salimi M, Aiyagari R, Banas C, Clay B, Gibson KA, Goel A, Hines R, Longhurst CA, Mishra V, Sirajuddin AM, Satterly T, **Singh H**. Adherence to recommended electronic health record safety practices across eight health care organizations. J Am Med Inform Assoc. 2018 07 01; 25(7):913-918. PMID: [29701854](//www.ncbi.nlm.nih.gov/pubmed/29701854); PMCID: [PMC7647041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7647041).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29701854/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  171. Nystrom DT, **Singh H** , Baldwin J, [Sittig DF](https://profiles.viictr.org/profile/266234), [Giardina TD](https://profiles.viictr.org/profile/23478744). Methods for Patient-Centered Interface Design of Test Result Display in Online Portals. EGEMS (Wash DC). 2018 Jun 26; 6(1):15. PMID: [30094287](//www.ncbi.nlm.nih.gov/pubmed/30094287); PMCID: [PMC6078112](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6078112).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30094287/citedby/)
+
+  172. Hughes AM, Brown C, Russo E, [Giardina TD](https://profiles.viictr.org/profile/23478744), Mehta P, **Singh H** , Smith MW. Test results management and distributed cognition in electronic health record-enabled primary care. Health Informatics J. 2019 12; 25(4):1549-1562. PMID: [29905084](//www.ncbi.nlm.nih.gov/pubmed/29905084).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29905084/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  173. Chopra V, Harrod M, Winter S, Forman J, Quinn M, Krein S, Fowler KE, **Singh H** , Saint S. Focused Ethnography of Diagnosis in Academic Medical Centers. J Hosp Med. 2018 10 01; 13(10):668-672. PMID: [29694450](//www.ncbi.nlm.nih.gov/pubmed/29694450); PMCID: [PMC6697101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6697101).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29694450/citedby/) Fields:
+
+Hos Hospitals
+
+Translation:Humans
+
+  174. Bhise V, Rajan SS, [Sittig DF](https://profiles.viictr.org/profile/266234), Vaghani V, Morgan RO, Khanna A, **Singh H**. Electronic health record reviews to measure diagnostic uncertainty in primary care. J Eval Clin Pract. 2018 06; 24(3):545-551. PMID: [29675888](//www.ncbi.nlm.nih.gov/pubmed/29675888).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29675888/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  175. Barbieri AL, Fadare O, Fan L, **Singh H** , Parkash V. Challenges in Communication from Referring Clinicians to Pathologists in the Electronic Health Record Era. J Pathol Inform. 2018; 9:8. PMID: [29692945](//www.ncbi.nlm.nih.gov/pubmed/29692945); PMCID: [PMC5896165](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5896165).
+
+Citations:
+
+  176. Kwan JL, **Singh H**. General Internists in Pursuit of Diagnostic Excellence in Primary Care: a #ProudtobeGIM Thread That Unites Us All. J Gen Intern Med. 2018 04; 33(4):395-396. PMID: [29423627](//www.ncbi.nlm.nih.gov/pubmed/29423627); PMCID: [PMC5880789](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5880789).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29423627/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  177. [Giardina TD](https://profiles.viictr.org/profile/23478744), Baldwin J, Nystrom DT, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Patient perceptions of receiving test results via online portals: a mixed-methods study. J Am Med Inform Assoc. 2018 04 01; 25(4):440-446. PMID: [29240899](//www.ncbi.nlm.nih.gov/pubmed/29240899); PMCID: [PMC5885801](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5885801).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29240899/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  178. Shah T, Patel-Teague S, Kroupa L, [Meyer AND](https://profiles.viictr.org/profile/8556649), **Singh H**. Impact of a national QI programme on reducing electronic health record notifications to clinicians. BMJ Qual Saf. 2019 01; 28(1):10-14. PMID: [29507122](//www.ncbi.nlm.nih.gov/pubmed/29507122); PMCID: [PMC6365918](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6365918).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29507122/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  179. Bhise V, [Meyer AND](https://profiles.viictr.org/profile/8556649), Menon S, Singhal G, Street RL, [Giardina TD](https://profiles.viictr.org/profile/23478744), **Singh H**. Patient perspectives on how physicians communicate diagnostic uncertainty: An experimental vignette study. Int J Qual Health Care. 2018 Feb 01; 30(1):2-8. PMID: [29329438](//www.ncbi.nlm.nih.gov/pubmed/29329438).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29329438/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  180. Olson APJ, Graber ML, **Singh H**. Tracking Progress in Improving Diagnosis: A Framework for Defining Undesirable Diagnostic Events. J Gen Intern Med. 2018 07; 33(7):1187-1191. PMID: [29380218](//www.ncbi.nlm.nih.gov/pubmed/29380218); PMCID: [PMC6025685](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6025685).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29380218/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  181. Lyratzopoulos G, Mendonca SC, Gildea C, McPhail S, Peake MD, Rubin G, **Singh H** , Hamilton W, Walter FM, Roland M, Abel GA. Associations between diagnostic activity and measures of patient experience in primary care: a cross-sectional ecological study of English general practices. Br J Gen Pract. 2018 01; 68(666):e9-e17. PMID: [29255108](//www.ncbi.nlm.nih.gov/pubmed/29255108); PMCID: [PMC5737322](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5737322).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29255108/citedby/) Fields:
+
+Pri Primary Health Care
+
+Translation:Humans
+
+  182. Richards KA, Ruiz VL, [Murphy DR](https://profiles.viictr.org/profile/267187), Downs TM, Abel EJ, Jarrard DF, **Singh H**. Diagnostic evaluation of patients presenting with hematuria: An electronic health record-based study. Urol Oncol. 2018 03; 36(3):88.e19-88.e25. PMID: [29169843](//www.ncbi.nlm.nih.gov/pubmed/29169843).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29169843/citedby/) Fields:
+
+Neo NeoplasmsUro Urology
+
+Translation:Humans
+
+  183. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AND](https://profiles.viictr.org/profile/8556649), Vaghani V, Russo E, [Sittig DF](https://profiles.viictr.org/profile/266234), Wei L, Wu L, **Singh H**. Electronic Triggers to Identify Delays in Follow-Up of Mammography: Harnessing the Power of Big Data in Health?Care. J Am Coll Radiol. 2018 02; 15(2):287-295. PMID: [29102539](//www.ncbi.nlm.nih.gov/pubmed/29102539).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29102539/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  184. Rogith D, Iyengar MS, **Singh H**. Using Fault Trees to Advance Understanding of Diagnostic Errors. Jt Comm J Qual Patient Saf. 2017 11; 43(11):598-605. PMID: [29056180](//www.ncbi.nlm.nih.gov/pubmed/29056180).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29056180/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  185. Bhise V, Rajan SS, [Sittig DF](https://profiles.viictr.org/profile/266234), Morgan RO, Chaudhary P, **Singh H**. Defining and Measuring Diagnostic Uncertainty in Medicine: A Systematic Review. J Gen Intern Med. 2018 01; 33(1):103-115. PMID: [28936618](//www.ncbi.nlm.nih.gov/pubmed/28936618); PMCID: [PMC5756158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5756158).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28936618/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  186. Bhise V, [Sittig DF](https://profiles.viictr.org/profile/266234), Vaghani V, Wei L, Baldwin J, **Singh H**. An electronic trigger based on care escalation to identify preventable adverse events in hospitalised patients. BMJ Qual Saf. 2018 03; 27(3):241-246. PMID: [28935832](//www.ncbi.nlm.nih.gov/pubmed/28935832); PMCID: [PMC5867429](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5867429).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28935832/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  187. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Toward More Proactive Approaches to Safety in the Electronic Health Record Era. Jt Comm J Qual Patient Saf. 2017 10; 43(10):540-547. PMID: [28942779](//www.ncbi.nlm.nih.gov/pubmed/28942779); PMCID: [PMC8136246](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8136246).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28942779/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  188. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AND](https://profiles.viictr.org/profile/8556649), Vaghani V, Russo E, [Sittig DF](https://profiles.viictr.org/profile/266234), Wei L, Wu L, **Singh H**. Development and Validation of Trigger Algorithms to Identify Delays in Diagnostic Evaluation of Gastroenterological Cancer. Clin Gastroenterol Hepatol. 2018 Jan; 16(1):90-98. PMID: [28804030](//www.ncbi.nlm.nih.gov/pubmed/28804030).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28804030/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  189. Rinke ML, **Singh H** , Heo M, Adelman JS, O'Donnell HC, Choi SJ, Norton A, Stein REK, Brady TM, Lehmann CU, Kairys SW, Rice-Conboy E, Thiessen K, Bundy DG. Diagnostic Errors in Primary Care Pediatrics: Project RedDE. Acad Pediatr. 2018 03; 18(2):220-227. PMID: [28804050](//www.ncbi.nlm.nih.gov/pubmed/28804050); PMCID: [PMC5809238](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5809238).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28804050/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansPHPublic Health
+
+  190. [Sittig DF](https://profiles.viictr.org/profile/266234), Belmont E, **Singh H**. Improving the safety of health information technology requires shared responsibility: It is time we all step up. Healthc (Amst). 2018 Mar; 6(1):7-12. PMID: [28716376](//www.ncbi.nlm.nih.gov/pubmed/28716376).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28716376/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  191. Gregory ME, Russo E, **Singh H**. Electronic Health Record Alert-Related Workload as a Predictor of Burnout in Primary Care Providers. Appl Clin Inform. 2017 Jul 05; 8(3):686-697. PMID: [28678892](//www.ncbi.nlm.nih.gov/pubmed/28678892); PMCID: [PMC6220682](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6220682).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28678892/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  192. Kwan JL, **Singh H**. Assigning responsibility to close the loop on radiology test results. Diagnosis (Berl). 2017 Sep; 4(3):173-177. PMID: [29119073](//www.ncbi.nlm.nih.gov/pubmed/29119073); PMCID: [PMC5673267](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5673267).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29119073/citedby/) Fields:
+
+Med Medicine (General)
+
+  193. Bhise V, [Meyer AND](https://profiles.viictr.org/profile/8556649), **Singh H** , Wei L, Russo E, Al-Mutairi A, [Murphy DR](https://profiles.viictr.org/profile/267187). Errors in Diagnosis of Spinal Epidural Abscesses in the Era of Electronic Health Records. Am J Med. 2017 08; 130(8):975-981. PMID: [28366427](//www.ncbi.nlm.nih.gov/pubmed/28366427).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28366427/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  194. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), Vaghani V, Russo E, [Sittig DF](https://profiles.viictr.org/profile/266234), Richards KA, Wei L, Wu L, **Singh H**. Application of Electronic Algorithms to Improve Diagnostic Evaluation for Bladder Cancer. Appl Clin Inform. 2017 03 22; 8(1):279-290. PMID: [28326433](//www.ncbi.nlm.nih.gov/pubmed/28326433); PMCID: [PMC5373770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5373770).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28326433/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  195. McEvoy DS, [Sittig DF](https://profiles.viictr.org/profile/266234), Hickman TT, Aaron S, Ai A, Amato M, Bauer DW, Fraser GM, Harper J, Kennemer A, Krall MA, Lehmann CU, Malhotra S, [Murphy DR](https://profiles.viictr.org/profile/267187), O'Kelley B, Samal L, Schreiber R, **Singh H** , Thomas EJ, Vartian CV, Westmorland J, McCoy AB, Wright A. Variation in high-priority drug-drug interaction alerts across institutions and electronic health records. J Am Med Inform Assoc. 2017 03 01; 24(2):331-338. PMID: [27570216](//www.ncbi.nlm.nih.gov/pubmed/27570216); PMCID: [PMC5391726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5391726).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27570216/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  196. Menon S, **Singh H** , [Giardina TD](https://profiles.viictr.org/profile/23478744), Rayburn WL, Davis BP, Russo EM, [Sittig DF](https://profiles.viictr.org/profile/266234). Safety huddles to proactively identify and address electronic health record safety. J Am Med Inform Assoc. 2017 Mar 01; 24(2):261-267. PMID: [28031286](//www.ncbi.nlm.nih.gov/pubmed/28031286); PMCID: [PMC5391729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5391729).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28031286/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  197. Davalos MC, Samuels K, [Meyer AN](https://profiles.viictr.org/profile/8556649), [Thammasitboon S](https://profiles.viictr.org/profile/268052), [Sur M](https://profiles.viictr.org/profile/269323), [Roy K](https://profiles.viictr.org/profile/266082), Al-Mutairi A, **Singh H**. Finding Diagnostic Errors in Children Admitted to the PICU. Pediatr Crit Care Med. 2017 Mar; 18(3):265-271. PMID: [28125548](//www.ncbi.nlm.nih.gov/pubmed/28125548).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28125548/citedby/) Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  198. [Meyer AND](https://profiles.viictr.org/profile/8556649), [Murphy DR](https://profiles.viictr.org/profile/267187), Al-Mutairi A, [Sittig DF](https://profiles.viictr.org/profile/266234), Wei L, Russo E, **Singh H**. Electronic Detection of Delayed Test Result Follow-Up in Patients with Hypothyroidism. J Gen Intern Med. 2017 Jul; 32(7):753-759. PMID: [28138875](//www.ncbi.nlm.nih.gov/pubmed/28138875); PMCID: [PMC5481223](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5481223).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28138875/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  199. **Singh H** , Zwaan L. Web Exclusives. Annals for Hospitalists Inpatient Notes - Reducing Diagnostic Error-A New Horizon of Opportunities for Hospital Medicine. Ann Intern Med. 2016 Oct 18; 165(8):HO2-HO4. PMID: [27750328](//www.ncbi.nlm.nih.gov/pubmed/27750328).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27750328/citedby/) Fields:
+
+Int Internal Medicine
+
+  200. **Singh H**. Improving Diagnostic Safety in Primary Care by Unlocking Digital Data. Jt Comm J Qual Patient Saf. 2017 01; 43(1):29-31. PMID: [28334582](//www.ncbi.nlm.nih.gov/pubmed/28334582).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28334582/citedby/) Fields:
+
+Hea Health Services
+
+  201. Baldwin JL, **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234), [Giardina TD](https://profiles.viictr.org/profile/23478744). Patient portals and health apps: Pitfalls, promises, and what one might learn from the other. Healthc (Amst). 2017 Sep; 5(3):81-85. PMID: [27720139](//www.ncbi.nlm.nih.gov/pubmed/27720139); PMCID: [PMC8386919](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8386919).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27720139/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  202. [Meyer AND](https://profiles.viictr.org/profile/8556649), **Singh H**. Calibrating how doctors think and seek information to minimise errors in diagnosis. BMJ Qual Saf. 2017 06; 26(6):436-438. PMID: [27672123](//www.ncbi.nlm.nih.gov/pubmed/27672123).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27672123/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  203. **Singh H** , Schiff GD, Graber ML, Onakpoya I, Thompson MJ. The global burden of diagnostic errors in primary care. BMJ Qual Saf. 2017 Jun; 26(6):484-494. PMID: [27530239](//www.ncbi.nlm.nih.gov/pubmed/27530239); PMCID: [PMC5502242](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5502242).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27530239/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  204. [Murphy DR](https://profiles.viictr.org/profile/267187), [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Electronic Health Records Quantify Previously Existing Phenomenon-Physicians Spend Hours Coordinating Care-Reply. JAMA Intern Med. 2016 08 01; 176(8):1235-6. PMID: [27479680](//www.ncbi.nlm.nih.gov/pubmed/27479680).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  205. Russo E, [Sittig DF](https://profiles.viictr.org/profile/266234), [Murphy DR](https://profiles.viictr.org/profile/267187), **Singh H**. Challenges in patient safety improvement research in the era of electronic health records. Healthc (Amst). 2016 Dec; 4(4):285-290. PMID: [27473472](//www.ncbi.nlm.nih.gov/pubmed/27473472).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27473472/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  206. [Meyer AN](https://profiles.viictr.org/profile/8556649), [Murphy DR](https://profiles.viictr.org/profile/267187), **Singh H**. Communicating Findings of Delayed Diagnostic Evaluation to Primary Care Providers. J Am Board Fam Med. 2016 Jul-Aug; 29(4):469-73. PMID: [27390378](//www.ncbi.nlm.nih.gov/pubmed/27390378).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27390378/citedby/) Fields:
+
+Pri Primary Health Care
+
+Translation:Humans
+
+  207. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. A Socio-Technical Approach to Preventing, Mitigating, and Recovering from Ransomware Attacks. Appl Clin Inform. 2016; 7(2):624-32. PMID: [27437066](//www.ncbi.nlm.nih.gov/pubmed/27437066); PMCID: [PMC4941865](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4941865).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27437066/citedby/) Fields:
+
+Med Medical Informatics
+
+  208. Menon S, [Murphy DR](https://profiles.viictr.org/profile/267187), **Singh H** , [Meyer AN](https://profiles.viictr.org/profile/8556649), [Sittig DF](https://profiles.viictr.org/profile/266234). Workarounds and Test Results Follow-up in Electronic Health Record-Based Primary Care. Appl Clin Inform. 2016; 7(2):543-59. PMID: [27437060](//www.ncbi.nlm.nih.gov/pubmed/27437060); PMCID: [PMC4941859](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4941859).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27437060/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  209. Rinke ML, **Singh H** , Ruberman S, Adelman J, Choi SJ, O'Donnell H, Stein REK, Brady TM, Heo M, Lehmann CU, Kairys S, Rice-Conboy E, Theissen K, Bundy DG. Primary care pediatricians' interest in diagnostic error reduction. Diagnosis (Berl). 2016 Jun; 3(2):65-69. PMID: [28111611](//www.ncbi.nlm.nih.gov/pubmed/28111611); PMCID: [PMC5241907](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5241907).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28111611/citedby/) Fields:
+
+Med Medicine (General)
+
+  210. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), Bhise V, Russo E, [Sittig DF](https://profiles.viictr.org/profile/266234), Wei L, Wu L, **Singh H**. Computerized Triggers of Big Data to Detect?Delays in Follow-up of Chest Imaging?Results. Chest. 2016 09; 150(3):613-20. PMID: [27178786](//www.ncbi.nlm.nih.gov/pubmed/27178786).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27178786/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  211. Sheehan SE, Coburn JA, **Singh H** , Vanness DJ, [Sittig DF](https://profiles.viictr.org/profile/266234), Moberg DP, Safdar N, Lee KS, Brunner MC. Reducing Unnecessary Shoulder MRI Examinations Within a Capitated Health Care System: A Potential Role for Shoulder Ultrasound. J Am Coll Radiol. 2016 Jul; 13(7):780-7. PMID: [27162045](//www.ncbi.nlm.nih.gov/pubmed/27162045).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27162045/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  212. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), Russo E, [Sittig DF](https://profiles.viictr.org/profile/266234), Wei L, **Singh H**. The Burden of Inbox Notifications in Commercial Electronic Health Records. JAMA Intern Med. 2016 Apr; 176(4):559-60. PMID: [26974737](//www.ncbi.nlm.nih.gov/pubmed/26974737); PMCID: [PMC4860883](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4860883).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26974737/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  213. Dhavle AA, Yang Y, Rupp MT, **Singh H** , Ward-Charlerie S, Ruiz J. Analysis of Prescribers' Notes in Electronic Prescriptions in Ambulatory Practice. JAMA Intern Med. 2016 Apr; 176(4):463-70. PMID: [26954486](//www.ncbi.nlm.nih.gov/pubmed/26954486).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26954486/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  214. Bhise V, Modi V, Kalavar A, Espadas D, Hanser L, Gould M, [El-Serag HB](https://profiles.viictr.org/profile/269175), **Singh H**. Patient-Reported Attributions for Missed Colonoscopy Appointments in Two Large Healthcare Systems. Dig Dis Sci. 2016 07; 61(7):1853-61. PMID: [26971093](//www.ncbi.nlm.nih.gov/pubmed/26971093).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26971093/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  215. Barnett ML, Mehrotra A, Frolkis JP, Spinks M, Steiger C, Hehir B, Greenberg JO, **Singh H**. Implementation Science Workshop: Implementation of an Electronic Referral System in a Large Academic Medical Center. J Gen Intern Med. 2016 Mar; 31(3):343-52. PMID: [26556594](//www.ncbi.nlm.nih.gov/pubmed/26556594); PMCID: [PMC4762816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4762816).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26556594/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  216. Al-Mutairi A, [Meyer AN](https://profiles.viictr.org/profile/8556649), Thomas EJ, Etchegaray JM, [Roy KM](https://profiles.viictr.org/profile/266082), Davalos MC, [Sheikh S](https://profiles.viictr.org/profile/268554), **Singh H**. Accuracy of the Safer Dx Instrument to Identify Diagnostic Errors in Primary Care. J Gen Intern Med. 2016 06; 31(6):602-8. PMID: [26902245](//www.ncbi.nlm.nih.gov/pubmed/26902245); PMCID: [PMC4870415](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4870415).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26902245/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  217. [Giardina TD](https://profiles.viictr.org/profile/23478744), Sarkar U, Gourley G, Modi V, [Meyer AN](https://profiles.viictr.org/profile/8556649), **Singh H**. Online public reactions to frequency of diagnostic errors in US outpatient care. Diagnosis (Berl). 2016 03; 3(1):17-22. PMID: [27347474](//www.ncbi.nlm.nih.gov/pubmed/27347474); PMCID: [PMC4917213](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4917213).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+  218. [Meyer AN](https://profiles.viictr.org/profile/8556649), Longhurst CA, **Singh H**. Crowdsourcing Diagnosis for Patients With Undiagnosed Illnesses: An Evaluation of CrowdMed. J Med Internet Res. 2016 Jan 14; 18(1):e12. PMID: [26769236](//www.ncbi.nlm.nih.gov/pubmed/26769236); PMCID: [PMC4731679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4731679).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26769236/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  219. Kiszko K, Cantor J, Abrams C, Ruddock C, Moltzen K, Devia C, McFarline B, **Singh H** , Elbel B. Corner Store Purchases in a Low-Income Urban Community in NYC. J Community Health. 2015 Dec; 40(6):1084-90. PMID: [25910485](//www.ncbi.nlm.nih.gov/pubmed/25910485); PMCID: [PMC4620064](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4620064).
+
+Citations:
+
+  220. **Singh H** , Graber ML. Improving Diagnosis in Health Care--The Next Imperative for Patient Safety. N Engl J Med. 2015 Dec 24; 373(26):2493-5. PMID: [26559457](//www.ncbi.nlm.nih.gov/pubmed/26559457).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26559457/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  221. [Medford-Davis L](https://profiles.viictr.org/profile/9909027), Park E, Shlamovitz G, [Suliburk J](https://profiles.viictr.org/profile/266101), [Meyer AN](https://profiles.viictr.org/profile/8556649), **Singh H**. Diagnostic errors related to acute abdominal pain in the emergency department. Emerg Med J. 2016 Apr; 33(4):253-9. PMID: [26531859](//www.ncbi.nlm.nih.gov/pubmed/26531859).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26531859/citedby/) Fields:
+
+Eme Emergency Medicine
+
+Translation:Humans
+
+  222. Okafor N, Payne VL, Chathampally Y, Miller S, Doshi P, **Singh H**. Using voluntary reports from physicians to learn from diagnostic errors in emergency medicine. Emerg Med J. 2016 Apr; 33(4):245-52. PMID: [26531860](//www.ncbi.nlm.nih.gov/pubmed/26531860).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26531860/citedby/) Fields:
+
+Eme Emergency Medicine
+
+Translation:Humans
+
+  223. **Singh H** , Arora NK, Mazor KM, Street RL. A vision for using online portals for surveillance of patient-centered communication in cancer care. Patient Exp J. 2015 Fall-Winter; 2(2):125-131. PMID: [28345019](//www.ncbi.nlm.nih.gov/pubmed/28345019); PMCID: [PMC5363702](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5363702).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28345019/citedby/)
+
+  224. Malhotra S, Chakrabarti S, Shah R, Sharma M, Sharma K, **Singh H**. Diagnostic accuracy and feasibility of a net-based application for diagnosing common psychiatric disorders. Psychiatry Res. 2015 Dec 15; 230(2):369-76. PMID: [26493325](//www.ncbi.nlm.nih.gov/pubmed/26493325).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26493325/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  225. **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234). Measuring and improving patient safety through health information technology: The Health IT Safety Framework. BMJ Qual Saf. 2016 Apr; 25(4):226-32. PMID: [26369894](//www.ncbi.nlm.nih.gov/pubmed/26369894); PMCID: [PMC4819641](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4819641).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26369894/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  226. Cheraghi-Sohi S, **Singh H** , Reeves D, Stocks J, Rebecca M, Esmail A, Campbell S, de Wet C. Erratum to: Missed diagnostic opportunities and English general practice: a study to determine their incidence, confounding and contributing factors and potential impact on patients through retrospective review of electronic medical records. Implement Sci. 2015 Aug 29; 10:124. PMID: [26319233](//www.ncbi.nlm.nih.gov/pubmed/26319233); PMCID: [PMC4552975](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4552975).
+
+Citations:  Fields:
+
+Hea Health Services Research
+
+  227. [Murphy DR](https://profiles.viictr.org/profile/267187), Wu L, Thomas EJ, Forjuoh SN, [Meyer AN](https://profiles.viictr.org/profile/8556649), **Singh H**. Electronic Trigger-Based Intervention to Reduce Delays in Diagnostic Evaluation for Cancer: A Cluster Randomized Controlled Trial. J Clin Oncol. 2015 Nov 01; 33(31):3560-7. PMID: [26304875](//www.ncbi.nlm.nih.gov/pubmed/26304875); PMCID: [PMC4622097](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4622097).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26304875/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  228. Cheraghi-Sohi S, **Singh H** , Reeves D, Stocks J, Rebecca M, Esmail A, Campbell S, de Wet C. Missed diagnostic opportunities and English general practice: a study to determine their incidence, confounding and contributing factors and potential impact on patients through retrospective review of electronic medical records. Implement Sci. 2015 Jul 29; 10:105. PMID: [26220545](//www.ncbi.nlm.nih.gov/pubmed/26220545); PMCID: [PMC4518650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4518650).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26220545/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  229. [Murphy DR](https://profiles.viictr.org/profile/267187), Thomas EJ, [Meyer AN](https://profiles.viictr.org/profile/8556649), **Singh H**. Development and Validation of Electronic Health Record-based Triggers to Detect Delays in Follow-up of Abnormal Lung Imaging Findings. Radiology. 2015 Oct; 277(1):81-7. PMID: [25961634](//www.ncbi.nlm.nih.gov/pubmed/25961634); PMCID: [PMC4613876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4613876).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25961634/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  230. **Singh H** , Allen JI. Patient safety counterpoint: systems approaches and multidisciplinary strategies at the centerpiece of error prevention. Clin Gastroenterol Hepatol. 2015 May; 13(5):824-6. PMID: [25890670](//www.ncbi.nlm.nih.gov/pubmed/25890670).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25890670/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  231. [Meyer AN](https://profiles.viictr.org/profile/8556649), **Singh H** , Graber ML. Evaluation of outcomes from a national patient-initiated second-opinion program. Am J Med. 2015 Oct; 128(10):1138.e25-33. PMID: [25913850](//www.ncbi.nlm.nih.gov/pubmed/25913850).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25913850/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  232. [Sittig DF](https://profiles.viictr.org/profile/266234), [Murphy DR](https://profiles.viictr.org/profile/267187), Smith MW, Russo E, Wright A, **Singh H**. Graphical display of diagnostic test results in electronic health records: a comparison of 8 systems. J Am Med Inform Assoc. 2015 Jul; 22(4):900-4. PMID: [25792704](//www.ncbi.nlm.nih.gov/pubmed/25792704); PMCID: [PMC4482275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4482275).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25792704/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  233. **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234). Setting the record straight on measuring diagnostic errors. Reply to: 'Bad assumptions on primary care diagnostic errors' by Dr Richard Young. BMJ Qual Saf. 2015 May; 24(5):345-8. PMID: [25784768](//www.ncbi.nlm.nih.gov/pubmed/25784768).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25784768/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  234. Zwaan L, **Singh H**. The challenges in defining and measuring diagnostic error. Diagnosis (Berl). 2015 06; 2(2):97-103. PMID: [26955512](//www.ncbi.nlm.nih.gov/pubmed/26955512); PMCID: [PMC4779119](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4779119).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26955512/citedby/) Fields:
+
+Med Medicine (General)
+
+  235. Callen J, [Giardina TD](https://profiles.viictr.org/profile/23478744), **Singh H** , Li L, Paoloni R, Georgiou A, Runciman WB, Westbrook JI. Emergency physicians' views of direct notification of laboratory and radiology results to patients using the Internet: a multisite survey. J Med Internet Res. 2015 Mar 04; 17(3):e60. PMID: [25739322](//www.ncbi.nlm.nih.gov/pubmed/25739322); PMCID: [PMC4376154](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4376154).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25739322/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  236. [Giardina TD](https://profiles.viictr.org/profile/23478744), Callen J, Georgiou A, Westbrook JI, Greisinger A, Esquivel A, Forjuoh SN, Parrish DE, **Singh H**. Releasing test results directly to patients: A multisite survey of physician perspectives. Patient Educ Couns. 2015 Jun; 98(6):788-96. PMID: [25749024](//www.ncbi.nlm.nih.gov/pubmed/25749024).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25749024/citedby/) Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  237. Bhise V, **Singh H**. Measuring diagnostic safety of inpatients: time to set sail in uncharted waters. Diagnosis (Berl). 2015 02; 2(1):1-2. PMID: [26955511](//www.ncbi.nlm.nih.gov/pubmed/26955511); PMCID: [PMC4779118](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4779118).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26955511/citedby/) Fields:
+
+Med Medicine (General)
+
+  238. **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234). Advancing the science of measurement of diagnostic errors in healthcare: the Safer Dx framework. BMJ Qual Saf. 2015 Feb; 24(2):103-10. PMID: [25589094](//www.ncbi.nlm.nih.gov/pubmed/25589094); PMCID: [PMC4316850](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4316850).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25589094/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  239. Al-Mutairi A, [Meyer AN](https://profiles.viictr.org/profile/8556649), Chang P, **Singh H**. Lack of timely follow-up of abnormal imaging results and radiologists' recommendations. J Am Coll Radiol. 2015 Apr; 12(4):385-9. PMID: [25582812](//www.ncbi.nlm.nih.gov/pubmed/25582812).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25582812/citedby/) Fields:
+
+Rad Radiology
+
+  240. [Giardina TD](https://profiles.viictr.org/profile/23478744), Modi V, Parrish DE, **Singh H**. The patient portal and abnormal test results: An exploratory study of patient experiences. Patient Exp J. 2015; 2(1):148-154. PMID: [28345018](//www.ncbi.nlm.nih.gov/pubmed/28345018); PMCID: [PMC5363705](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5363705).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28345018/citedby/)
+
+  241. Moyer VA, Papile LA, Eichenwald E, Giardino AP, Khan MM, **Singh H**. An intervention to improve transitions from NICU to ambulatory care: quasi-experimental study. BMJ Qual Saf. 2014 Dec; 23(12):e3. PMID: [23832926](//www.ncbi.nlm.nih.gov/pubmed/23832926).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23832926/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:HumansCTClinical Trials
+
+  242. Menon S, Smith MW, [Sittig DF](https://profiles.viictr.org/profile/266234), Petersen NJ, [Hysong SJ](https://profiles.viictr.org/profile/270308), Espadas D, Modi V, **Singh H**. How context affects electronic health record-based test result follow-up: a mixed-methods evaluation. BMJ Open. 2014 Nov 11; 4(11):e005985. PMID: [25387758](//www.ncbi.nlm.nih.gov/pubmed/25387758); PMCID: [PMC4244393](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4244393).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25387758/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  243. [Hysong SJ](https://profiles.viictr.org/profile/270308), Spitzmuller C, Espadas D, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Electronic alerts and clinician turnover: the influence of user acceptance. Am J Manag Care. 2014 Nov; 20(11 Spec No. 17):SP520-30. PMID: [25811826](//www.ncbi.nlm.nih.gov/pubmed/25811826).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25811826/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  244. Upadhyay DK, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Ebola US Patient Zero: lessons on misdiagnosis and effective use of electronic health records. Diagnosis (Berl). 2014; 1(4):283-287. PMID: [26705511](//www.ncbi.nlm.nih.gov/pubmed/26705511); PMCID: [PMC4687403](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4687403).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26705511/citedby/) Fields:
+
+Med Medicine (General)
+
+  245. [Sittig DF](https://profiles.viictr.org/profile/266234), Classen DC, **Singh H**. Patient safety goals for the proposed Federal Health Information Technology Safety Center. J Am Med Inform Assoc. 2015 Mar; 22(2):472-8. PMID: [25332353](//www.ncbi.nlm.nih.gov/pubmed/25332353).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25332353/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:HumansPHPublic Health
+
+  246. Clark J, Obopilwe E, Rizzi A, Komatsu DE, **Singh H** , Mazzocca AD, Paci JM. Distal triceps knotless anatomic footprint repair is superior to transosseous cruciate repair: a biomechanical comparison. Arthroscopy. 2014 Oct; 30(10):1254-60. PMID: [25281349](//www.ncbi.nlm.nih.gov/pubmed/25281349).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25281349/citedby/) Fields:
+
+Ort Orthopedics
+
+Translation:Humans
+
+  247. [Meeks DW](https://profiles.viictr.org/profile/3009812), [Meyer AN](https://profiles.viictr.org/profile/8556649), Rose B, Walker YN, **Singh H**. Exploring new avenues to assess the sharp end of patient safety: an analysis of nationally aggregated peer review data. BMJ Qual Saf. 2014 Dec; 23(12):1023-30. PMID: [25260781](//www.ncbi.nlm.nih.gov/pubmed/25260781).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25260781/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  248. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Which electronic health record is better: A or B? Realities of comparing the effectiveness of electronic health records. J Comp Eff Res. 2014 Sep; 3(5):447-50. PMID: [25350794](//www.ncbi.nlm.nih.gov/pubmed/25350794).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25350794/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  249. Vartian CV, **Singh H** , Russo E, [Sittig DF](https://profiles.viictr.org/profile/266234). Development and field testing of a self-assessment guide for computer-based provider order entry. J Healthc Manag. 2014 Sep-Oct; 59(5):338-52. PMID: [25647953](//www.ncbi.nlm.nih.gov/pubmed/25647953).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25647953/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  250. Smith MW, Ash JS, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Resilient Practices in Maintaining Safety of Health Information Technologies. J Cogn Eng Decis Mak. 2014 Sep; 8(3):265-282. PMID: [25866492](//www.ncbi.nlm.nih.gov/pubmed/25866492); PMCID: [PMC4361460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4361460).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25866492/citedby/)
+
+  251. [Murphy DR](https://profiles.viictr.org/profile/267187), **Singh H** , Berlin L. Communication breakdowns and diagnostic errors: a radiology perspective. Diagnosis (Berl). 2014 12; 1(4):253-261. PMID: [27006890](//www.ncbi.nlm.nih.gov/pubmed/27006890); PMCID: [PMC4799783](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4799783).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27006890/citedby/) Fields:
+
+Med Medicine (General)
+
+  252. Berlin L, [Murphy DR](https://profiles.viictr.org/profile/267187), **Singh H**. Breakdowns in communication of radiological findings: an ethical and medico-legal conundrum. Diagnosis (Berl). 2014 12; 1(4):263-268. PMID: [27006891](//www.ncbi.nlm.nih.gov/pubmed/27006891); PMCID: [PMC4799785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4799785).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27006891/citedby/) Fields:
+
+Med Medicine (General)
+
+  253. [Sittig DF](https://profiles.viictr.org/profile/266234), Gonzalez D, **Singh H**. Contingency planning for electronic health record-based care continuity: a survey of recommended practices. Int J Med Inform. 2014 Nov; 83(11):797-804. PMID: [25200197](//www.ncbi.nlm.nih.gov/pubmed/25200197).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25200197/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:PHPublic Health
+
+  254. **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234). Were my diagnosis and treatment correct? No news is not necessarily good news. J Gen Intern Med. 2014 Aug; 29(8):1087-9. PMID: [24839058](//www.ncbi.nlm.nih.gov/pubmed/24839058); PMCID: [PMC4099464](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4099464).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24839058/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  255. [Meeks DW](https://profiles.viictr.org/profile/3009812), Smith MW, Taylor L, [Sittig DF](https://profiles.viictr.org/profile/266234), Scott JM, **Singh H**. An analysis of electronic health record-related patient safety concerns. J Am Med Inform Assoc. 2014 Nov-Dec; 21(6):1053-9. PMID: [24951796](//www.ncbi.nlm.nih.gov/pubmed/24951796); PMCID: [PMC4215044](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215044).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24951796/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  256. Graber ML, Sorensen AV, Biswas J, Modi V, Wackett A, Johnson S, Lenfestey N, [Meyer AN](https://profiles.viictr.org/profile/8556649), **Singh H**. Developing checklists to prevent diagnostic error in Emergency Room settings. Diagnosis (Berl). 2014 09; 1(3):223-231. PMID: [27006889](//www.ncbi.nlm.nih.gov/pubmed/27006889); PMCID: [PMC4799784](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4799784).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27006889/citedby/) Fields:
+
+Med Medicine (General)
+
+  257. [Sittig DF](https://profiles.viictr.org/profile/266234), Ash JS, **Singh H**. The SAFER guides: empowering organizations to improve the safety and effectiveness of electronic health records. Am J Manag Care. 2014 May; 20(5):418-23. PMID: [25181570](//www.ncbi.nlm.nih.gov/pubmed/25181570).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25181570/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  258. Payne VL, **Singh H** , [Meyer AN](https://profiles.viictr.org/profile/8556649), Levy L, Harrison D, Graber ML. Patient-initiated second opinions: systematic review of characteristics and impact on diagnosis, treatment, and satisfaction. Mayo Clin Proc. 2014 May; 89(5):687-96. PMID: [24797646](//www.ncbi.nlm.nih.gov/pubmed/24797646).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24797646/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  259. **Singh H** , [Meyer AN](https://profiles.viictr.org/profile/8556649), Thomas EJ. The frequency of diagnostic errors in outpatient care: estimations from three large observational studies involving US adult populations. BMJ Qual Saf. 2014 Sep; 23(9):727-31. PMID: [24742777](//www.ncbi.nlm.nih.gov/pubmed/24742777); PMCID: [PMC4145460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4145460).
+
+Citations:
+[121](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24742777/citedby/)
+Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  260. [Sittig DF](https://profiles.viictr.org/profile/266234), Ash JS, **Singh H**. ONC issues guides for SAFER EHRs. J AHIMA. 2014 Apr; 85(4):50-2. PMID: [24834557](//www.ncbi.nlm.nih.gov/pubmed/24834557).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24834557/citedby/) Fields:
+
+Hea Health ServicesMed Medical Informatics
+
+Translation:Humans
+
+  261. **Singh H** , [Meyer AN](https://profiles.viictr.org/profile/8556649). "Expert opinion" software for medical diagnosis and treatment-reply. JAMA Intern Med. 2014 Apr; 174(4):639. PMID: [24711184](//www.ncbi.nlm.nih.gov/pubmed/24711184).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  262. **Singh H**. Editorial: Helping health care organizations to define diagnostic errors as missed opportunities in diagnosis. Jt Comm J Qual Patient Saf. 2014 Mar; 40(3):99-101. PMID: [24730204](//www.ncbi.nlm.nih.gov/pubmed/24730204).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24730204/citedby/) Fields:
+
+Hea Health Services
+
+  263. Menon S, **Singh H** , [Meyer AN](https://profiles.viictr.org/profile/8556649), Belmont E, [Sittig DF](https://profiles.viictr.org/profile/266234). Electronic health record-related safety concerns: a cross-sectional survey. J Healthc Risk Manag. 2014; 34(1):14-26. PMID: [25070253](//www.ncbi.nlm.nih.gov/pubmed/25070253).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25070253/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  264. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H** , Longhurst CA. Rights and responsibilities of electronic health records (EHR) users caring for children. Arch Argent Pediatr. 2013 12; 111(6):468-71. PMID: [24196758](//www.ncbi.nlm.nih.gov/pubmed/24196758).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24196758/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  265. [Meyer AN](https://profiles.viictr.org/profile/8556649), Payne VL, [Meeks DW](https://profiles.viictr.org/profile/3009812), Rao R, **Singh H**. Physicians' diagnostic accuracy, confidence, and resource requests: a vignette study. JAMA Intern Med. 2013 Nov 25; 173(21):1952-8. PMID: [23979070](//www.ncbi.nlm.nih.gov/pubmed/23979070).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23979070/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  266. **Singh H** , Thomas EJ. Origins of diagnostic error--reply. JAMA Intern Med. 2013 Nov 11; 173(20):1926-7. PMID: [24217378](//www.ncbi.nlm.nih.gov/pubmed/24217378).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  267. Davis Giardina T, Menon S, Parrish DE, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Patient access to medical records and healthcare outcomes: a systematic review. J Am Med Inform Assoc. 2014 Jul-Aug; 21(4):737-41. PMID: [24154835](//www.ncbi.nlm.nih.gov/pubmed/24154835); PMCID: [PMC4078277](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4078277).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24154835/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  268. **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234). Toward electronic medical record alerts that consume less physician time--reply. JAMA Intern Med. 2013 Oct 14; 173(18):1756. PMID: [24126782](//www.ncbi.nlm.nih.gov/pubmed/24126782).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24126782/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  269. **Singh H**. Diagnostic errors: moving beyond 'no respect' and getting ready for prime time. BMJ Qual Saf. 2013 Oct; 22(10):789-92. PMID: [24048615](//www.ncbi.nlm.nih.gov/pubmed/24048615); PMCID: [PMC3786612](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3786612).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24048615/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  270. [Meeks DW](https://profiles.viictr.org/profile/3009812), Takian A, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H** , Barber N. Exploring the sociotechnical intersection of patient safety and electronic health record implementation. J Am Med Inform Assoc. 2014 Feb; 21(e1):e28-34. PMID: [24052536](//www.ncbi.nlm.nih.gov/pubmed/24052536); PMCID: [PMC3957388](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3957388).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24052536/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  271. Zwaan L, Schiff GD, **Singh H**. Advancing the research agenda for diagnostic error reduction. BMJ Qual Saf. 2013 Oct; 22 Suppl 2:ii52-ii57. PMID: [23942182](//www.ncbi.nlm.nih.gov/pubmed/23942182); PMCID: [PMC3786655](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3786655).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23942182/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  272. [Giardina TD](https://profiles.viictr.org/profile/23478744), King BJ, Ignaczak AP, Paull DE, Hoeksema L, Mills PD, Neily J, Hemphill RR, **Singh H**. Root cause analysis reports help identify common factors in delayed diagnosis and treatment of outpatients. Health Aff (Millwood). 2013 Aug; 32(8):1368-75. PMID: [23918480](//www.ncbi.nlm.nih.gov/pubmed/23918480); PMCID: [PMC3822525](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3822525).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23918480/citedby/) Fields:
+
+Hea Health Services ResearchPub Public Health
+
+Translation:Humans
+
+  273. [Murphy DR](https://profiles.viictr.org/profile/267187), Laxmisan A, Reis BA, Thomas EJ, Esquivel A, Forjuoh SN, Parikh R, Khan MM, **Singh H**. Electronic health record-based triggers to detect potential delays in cancer diagnosis. BMJ Qual Saf. 2014 Jan; 23(1):8-16. PMID: [23873756](//www.ncbi.nlm.nih.gov/pubmed/23873756).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23873756/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:HumansPHPublic Health
+
+  274. Smith MW, Davis Giardina T, [Murphy DR](https://profiles.viictr.org/profile/267187), Laxmisan A, **Singh H**. Resilient actions in the diagnostic process and system performance. BMJ Qual Saf. 2013 Dec; 22(12):1006-13. PMID: [23813210](//www.ncbi.nlm.nih.gov/pubmed/23813210); PMCID: [PMC3833904](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3833904).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23813210/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  275. **Singh H** , Spitzmueller C, Petersen NJ, Sawhney MK, [Sittig DF](https://profiles.viictr.org/profile/266234). Information overload and missed test results in electronic health record-based settings. JAMA Intern Med. 2013 Apr 22; 173(8):702-4. PMID: [23460235](//www.ncbi.nlm.nih.gov/pubmed/23460235); PMCID: [PMC3822526](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3822526).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23460235/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  276. **Singh H** , Ash JS, [Sittig DF](https://profiles.viictr.org/profile/266234). Safety Assurance Factors for Electronic Health Record Resilience (SAFER): study protocol. BMC Med Inform Decis Mak. 2013 Apr 12; 13:46. PMID: [23587208](//www.ncbi.nlm.nih.gov/pubmed/23587208); PMCID: [PMC3639028](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3639028).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23587208/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  277. **Singh H** , [Giardina TD](https://profiles.viictr.org/profile/23478744), [Meyer AN](https://profiles.viictr.org/profile/8556649), Forjuoh SN, Reis MD, Thomas EJ. Types and origins of diagnostic errors in primary care settings. JAMA Intern Med. 2013 Mar 25; 173(6):418-25. PMID: [23440149](//www.ncbi.nlm.nih.gov/pubmed/23440149); PMCID: [PMC3690001](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3690001).
+
+Citations:
+[132](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23440149/citedby/)
+Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  278. [Sittig DF](https://profiles.viictr.org/profile/266234), Kahol K, **Singh H**. Sociotechnical evaluation of the safety and effectiveness of point-of-care mobile computing devices: a case study conducted in India. Stud Health Technol Inform. 2013; 192:515-9. PMID: [23920608](//www.ncbi.nlm.nih.gov/pubmed/23920608).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23920608/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  279. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. A red-flag-based approach to risk management of EHR-related safety concerns. J Healthc Risk Manag. 2013; 33(2):21-6. PMID: [24078205](//www.ncbi.nlm.nih.gov/pubmed/24078205).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24078205/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  280. **Singh H** , Spitzmueller C, Petersen NJ, Sawhney MK, Smith MW, [Murphy DR](https://profiles.viictr.org/profile/267187), Espadas D, Laxmisan A, [Sittig DF](https://profiles.viictr.org/profile/266234). Primary care practitioners' views on test result management in EHR-enabled health systems: a national survey. J Am Med Inform Assoc. 2013 Jul-Aug; 20(4):727-35. PMID: [23268489](//www.ncbi.nlm.nih.gov/pubmed/23268489); PMCID: [PMC3721157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3721157).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23268489/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  281. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Electronic health records and national patient-safety goals. N Engl J Med. 2012 Nov 08; 367(19):1854-60. PMID: [23134389](//www.ncbi.nlm.nih.gov/pubmed/23134389); PMCID: [PMC3690003](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3690003).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23134389/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  282. **Singh H** , Khan R, [Giardina TD](https://profiles.viictr.org/profile/23478744), Paul LW, Daci K, Gould M, [El-Serag H](https://profiles.viictr.org/profile/269175). Postreferral colonoscopy delays in diagnosis of colorectal cancer: a mixed-methods analysis. Qual Manag Health Care. 2012 Oct-Dec; 21(4):252-61. PMID: [23011072](//www.ncbi.nlm.nih.gov/pubmed/23011072); PMCID: [PMC3702372](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3702372).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23011072/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  283. Laxmisan A, [Sittig DF](https://profiles.viictr.org/profile/266234), Pietz K, Espadas D, [Krishnan B](https://profiles.viictr.org/profile/268034), **Singh H**. Effectiveness of an electronic health record-based intervention to improve follow-up of abnormal pathology results: a retrospective record analysis. Med Care. 2012 Oct; 50(10):898-904. PMID: [22929995](//www.ncbi.nlm.nih.gov/pubmed/22929995); PMCID: [PMC3444625](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3444625).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22929995/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  284. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Improving test result follow-up through electronic health records requires more than just an alert. J Gen Intern Med. 2012 Oct; 27(10):1235-7. PMID: [22790618](//www.ncbi.nlm.nih.gov/pubmed/22790618); PMCID: [PMC3445682](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3445682).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22790618/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  285. [Sittig DF](https://profiles.viictr.org/profile/266234), [Murphy DR](https://profiles.viictr.org/profile/267187), **Singh H** , Esquivel A. Improving the effectiveness of electronic health record-based referral processes. BMC Med Inform Decis Mak. 2012 Sep 13; 12:107. PMID: [22973874](//www.ncbi.nlm.nih.gov/pubmed/22973874); PMCID: [PMC3492108](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3492108).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22973874/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  286. [Typpo KV](https://profiles.viictr.org/profile/40754050), [Tcharmtchi MH](https://profiles.viictr.org/profile/266978), Thomas EJ, Kelly PA, Castillo LD, **Singh H**. Impact of resident duty hour limits on safety in the intensive care unit: a national survey of pediatric and neonatal intensivists. Pediatr Crit Care Med. 2012 Sep; 13(5):578-82. PMID: [22614570](//www.ncbi.nlm.nih.gov/pubmed/22614570); PMCID: [PMC3427401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3427401).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22614570/citedby/) Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  287. Sarkar U, Bonacum D, Strull W, Spitzmueller C, Jin N, [Giardina TD](https://profiles.viictr.org/profile/23478744), [Meyer AN](https://profiles.viictr.org/profile/8556649), **Singh H** , L?pez A. Challenges of making a diagnosis in the outpatient setting: a multi-site survey of primary care physicians. BMJ Qual Saf. 2012 Aug; 21(8):641-8. PMID: [22626738](//www.ncbi.nlm.nih.gov/pubmed/22626738); PMCID: [PMC3680371](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3680371).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22626738/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  288. Graber ML, Kissam S, Payne VL, [Meyer AN](https://profiles.viictr.org/profile/8556649), Sorensen A, Lenfestey N, Tant E, Henriksen K, Labresh K, **Singh H**. Cognitive interventions to reduce diagnostic error: a narrative review. BMJ Qual Saf. 2012 Jul; 21(7):535-57. PMID: [22543420](//www.ncbi.nlm.nih.gov/pubmed/22543420).
+
+Citations:
+[89](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22543420/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  289. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Rights and responsibilities of users of electronic health records. CMAJ. 2012 Sep 18; 184(13):1479-83. PMID: [22331971](//www.ncbi.nlm.nih.gov/pubmed/22331971); PMCID: [PMC3447016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3447016).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22331971/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  290. [Murphy DR](https://profiles.viictr.org/profile/267187), Reis B, [Kadiyala H](https://profiles.viictr.org/profile/267245), [Hirani K](https://profiles.viictr.org/profile/265551), [Sittig DF](https://profiles.viictr.org/profile/266234), Khan MM, **Singh H**. Electronic health record-based messages to primary care providers: valuable information or just noise? Arch Intern Med. 2012 Feb 13; 172(3):283-5. PMID: [22332167](//www.ncbi.nlm.nih.gov/pubmed/22332167).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22332167/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  291. [Murphy DR](https://profiles.viictr.org/profile/267187), Reis B, [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Notifications received by primary care practitioners in electronic health records: a taxonomy and time analysis. Am J Med. 2012 Feb; 125(2):209.e1-7. PMID: [22269625](//www.ncbi.nlm.nih.gov/pubmed/22269625).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22269625/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  292. **Singh H** , Classen DC, [Sittig DF](https://profiles.viictr.org/profile/266234). Creating an oversight infrastructure for electronic health record-related patient safety hazards. J Patient Saf. 2011 Dec; 7(4):169-74. PMID: [22080284](//www.ncbi.nlm.nih.gov/pubmed/22080284); PMCID: [PMC3677059](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3677059).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22080284/citedby/) Fields:
+
+Hea Health Services
+
+Translation:HumansPHPublic Health
+
+  293. **Singh H** , Graber ML, Kissam SM, Sorensen AV, Lenfestey NF, Tant EM, Henriksen K, LaBresh KA. System-related interventions to reduce diagnostic errors: a narrative review. BMJ Qual Saf. 2012 Feb; 21(2):160-70. PMID: [22129930](//www.ncbi.nlm.nih.gov/pubmed/22129930); PMCID: [PMC3677060](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3677060).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22129930/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  294. Davis Giardina T, **Singh H**. Should patients get direct access to their laboratory test results? An answer with many questions. JAMA. 2011 Dec 14; 306(22):2502-3. PMID: [22122864](//www.ncbi.nlm.nih.gov/pubmed/22122864).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22122864/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  295. McCoy AB, Wright A, Laxmisan A, **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234). A prototype knowledge base and SMART app to facilitate organization of patient medications by clinical problems. AMIA Annu Symp Proc. 2011; 2011:888-94. PMID: [22195147](//www.ncbi.nlm.nih.gov/pubmed/22195147); PMCID: [PMC3243226](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3243226).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22195147/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  296. **Singh H** , [Giardina TD](https://profiles.viictr.org/profile/23478744), Forjuoh SN, Reis MD, Kosmach S, Khan MM, Thomas EJ. Electronic health record-based surveillance of diagnostic errors in primary care. BMJ Qual Saf. 2012 Feb; 21(2):93-100. PMID: [21997348](//www.ncbi.nlm.nih.gov/pubmed/21997348); PMCID: [PMC3680372](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3680372).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21997348/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  297. Tamuz M, [Giardina TD](https://profiles.viictr.org/profile/23478744), Thomas EJ, Menon S, **Singh H**. Rethinking resident supervision to improve safety: from hierarchical to interprofessional models. J Hosp Med. 2011 Oct; 6(8):445-52. PMID: [21990173](//www.ncbi.nlm.nih.gov/pubmed/21990173); PMCID: [PMC3201712](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3201712).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21990173/citedby/) Fields:
+
+Hos Hospitals
+
+Translation:Humans
+
+  298. **Singh H** , [Giardina TD](https://profiles.viictr.org/profile/23478744), [Petersen LA](https://profiles.viictr.org/profile/266681), Smith MW, Paul LW, Dismukes K, Bhagwath G, Thomas EJ. Exploring situational awareness in diagnostic errors in primary care. BMJ Qual Saf. 2012 Jan; 21(1):30-8. PMID: [21890757](//www.ncbi.nlm.nih.gov/pubmed/21890757); PMCID: [PMC3692739](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3692739).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21890757/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  299. [Hysong SJ](https://profiles.viictr.org/profile/270308), Esquivel A, [Sittig DF](https://profiles.viictr.org/profile/266234), Paul LA, Espadas D, Singh S, **Singh H**. Towards successful coordination of electronic health record based-referrals: a qualitative analysis. Implement Sci. 2011 Jul 27; 6:84. PMID: [21794109](//www.ncbi.nlm.nih.gov/pubmed/21794109); PMCID: [PMC3199858](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3199858).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21794109/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  300. **Singh H** , [Sittig DF](https://profiles.viictr.org/profile/266234). Defining health information technology-related errors: new developments since to err is human. Arch Intern Med. 2011 Jul 25; 171(14):1281-4. PMID: [21788544](//www.ncbi.nlm.nih.gov/pubmed/21788544); PMCID: [PMC3677061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3677061).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21788544/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  301. Cooper JP, Hwang K, **Singh H** , Wang D, Reynolds CP, Curley RW, Williams SC, Maurer BJ, Kang MH. Fenretinide metabolism in humans and mice: utilizing pharmacological modulation of its metabolic pathway to increase systemic exposure. Br J Pharmacol. 2011 Jul; 163(6):1263-75. PMID: [21391977](//www.ncbi.nlm.nih.gov/pubmed/21391977); PMCID: [PMC3144539](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3144539).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21391977/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  302. [Hysong SJ](https://profiles.viictr.org/profile/270308), Sawhney MK, Wilson L, [Sittig DF](https://profiles.viictr.org/profile/266234), Esquivel A, Singh S, **Singh H**. Understanding the management of electronic test result notifications in the outpatient setting. BMC Med Inform Decis Mak. 2011 Apr 12; 11:22. PMID: [21486478](//www.ncbi.nlm.nih.gov/pubmed/21486478); PMCID: [PMC3100236](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3100236).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21486478/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  303. [Sada YH](https://profiles.viictr.org/profile/267158), Street RL, **Singh H** , Shada RE, Naik AD. Primary care and communication in shared cancer care: a qualitative study. Am J Manag Care. 2011 Apr; 17(4):259-65. PMID: [21615196](//www.ncbi.nlm.nih.gov/pubmed/21615196); PMCID: [PMC3693186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3693186).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21615196/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  304. Feblowitz JC, Wright A, **Singh H** , Samal L, [Sittig DF](https://profiles.viictr.org/profile/266234). Summarization of clinical information: a conceptual model. J Biomed Inform. 2011 Aug; 44(4):688-99. PMID: [21440086](//www.ncbi.nlm.nih.gov/pubmed/21440086).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21440086/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  305. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Legal, ethical, and financial dilemmas in electronic health record adoption and use. Pediatrics. 2011 Apr; 127(4):e1042-7. PMID: [21422090](//www.ncbi.nlm.nih.gov/pubmed/21422090); PMCID: [PMC3065078](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3065078).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21422090/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  306. Naik AD, **Singh H**. Electronic health records to coordinate decision making for complex patients: what can we learn from wiki? Med Decis Making. 2010 Nov-Dec; 30(6):722-31. PMID: [21183759](//www.ncbi.nlm.nih.gov/pubmed/21183759).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21183759/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical Informatics
+
+Translation:Humans
+
+  307. Moyer VA, **Singh H** , Finkel KL, Giardino AP. Transitions from neonatal intensive care unit to ambulatory care: description and evaluation of the proactive risk assessment process. Qual Saf Health Care. 2010 Oct; 19 Suppl 3:i26-30. PMID: [20959314](//www.ncbi.nlm.nih.gov/pubmed/20959314).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20959314/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  308. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. A new sociotechnical model for studying health information technology in complex adaptive healthcare systems. Qual Saf Health Care. 2010 Oct; 19 Suppl 3:i68-74. PMID: [20959322](//www.ncbi.nlm.nih.gov/pubmed/20959322); PMCID: [PMC3120130](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3120130).
+
+Citations:
+[195](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20959322/citedby/)
+Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  309. **Singh H** , Esquivel A, [Sittig DF](https://profiles.viictr.org/profile/266234), [Murphy D](https://profiles.viictr.org/profile/267187), [Kadiyala H](https://profiles.viictr.org/profile/267245), Schiesser R, Espadas D, [Petersen LA](https://profiles.viictr.org/profile/266681). Follow-up actions on electronic referral communication in a multispecialty outpatient setting. J Gen Intern Med. 2011 Jan; 26(1):64-9. PMID: [20848235](//www.ncbi.nlm.nih.gov/pubmed/20848235); PMCID: [PMC3024094](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3024094).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20848235/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  310. **Singh H** , Graber M. Reducing diagnostic error through medical home-based primary care reform. JAMA. 2010 Jul 28; 304(4):463-4. PMID: [20664048](//www.ncbi.nlm.nih.gov/pubmed/20664048); PMCID: [PMC3120138](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3120138).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20664048/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  311. **Singh H** , [Petersen LA](https://profiles.viictr.org/profile/266681), Daci K, Collins C, Khan M, [El-Serag HB](https://profiles.viictr.org/profile/269175). Reducing referral delays in colorectal cancer diagnosis: is it about how you ask? Qual Saf Health Care. 2010 Oct; 19(5):e27. PMID: [20584706](//www.ncbi.nlm.nih.gov/pubmed/20584706); PMCID: [PMC2965264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2965264).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20584706/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  312. **Singh H** , Thomas EJ, Wilson L, Kelly PA, Pietz K, Elkeeb D, Singhal G. Errors of diagnosis in pediatric practice: a multisite survey. Pediatrics. 2010 Jul; 126(1):70-9. PMID: [20566604](//www.ncbi.nlm.nih.gov/pubmed/20566604); PMCID: [PMC2921702](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2921702).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20566604/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansPHPublic Health
+
+  313. **Singh H** , [Hirani K](https://profiles.viictr.org/profile/265551), [Kadiyala H](https://profiles.viictr.org/profile/267245), Rudomiotov O, Davis T, Khan MM, Wahls TL. Characteristics and predictors of missed opportunities in lung cancer diagnosis: an electronic health record-based study. J Clin Oncol. 2010 Jul 10; 28(20):3307-15. PMID: [20530272](//www.ncbi.nlm.nih.gov/pubmed/20530272); PMCID: [PMC2903328](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2903328).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20530272/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  314. **Singh H** , Wilson L, Reis B, Sawhney MK, Espadas D, [Sittig DF](https://profiles.viictr.org/profile/266234). Ten strategies to improve management of abnormal test result alerts in the electronic health record. J Patient Saf. 2010 Jun; 6(2):121-3. PMID: [20563228](//www.ncbi.nlm.nih.gov/pubmed/20563228); PMCID: [PMC2885732](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2885732).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20563228/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  315. **Singh H** , Vij MS. Eight recommendations for policies for communicating abnormal test results. Jt Comm J Qual Patient Saf. 2010 May; 36(5):226-32. PMID: [20480756](//www.ncbi.nlm.nih.gov/pubmed/20480756).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20480756/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  316. **Singh H** , Schiesser R, Anand G, [Richardson PA](https://profiles.viictr.org/profile/267243), [El-Serag HB](https://profiles.viictr.org/profile/269175). Underdiagnosis of Lynch syndrome involves more than family history criteria. Clin Gastroenterol Hepatol. 2010 Jun; 8(6):523-9. PMID: [20303416](//www.ncbi.nlm.nih.gov/pubmed/20303416); PMCID: [PMC2879470](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2879470).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20303416/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  317. **Singh H** , Thomas EJ, [Sittig DF](https://profiles.viictr.org/profile/266234), Wilson L, Espadas D, Khan MM, [Petersen LA](https://profiles.viictr.org/profile/266681). Notification of abnormal lab test results in an electronic medical record: do any safety concerns remain? Am J Med. 2010 Mar; 123(3):238-44. PMID: [20193832](//www.ncbi.nlm.nih.gov/pubmed/20193832); PMCID: [PMC2878665](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2878665).
+
+Citations:
+[74](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20193832/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  318. [Hysong SJ](https://profiles.viictr.org/profile/270308), Sawhney MK, Wilson L, [Sittig DF](https://profiles.viictr.org/profile/266234), Espadas D, Davis T, **Singh H**. Provider management strategies of abnormal test result alerts: a cognitive task analysis. J Am Med Inform Assoc. 2010 Jan-Feb; 17(1):71-7. PMID: [20064805](//www.ncbi.nlm.nih.gov/pubmed/20064805); PMCID: [PMC2995633](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2995633).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20064805/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  319. **Singh H** , Wilson L, [Petersen LA](https://profiles.viictr.org/profile/266681), Sawhney MK, Reis B, Espadas D, [Sittig DF](https://profiles.viictr.org/profile/266234). Improving follow-up of abnormal cancer screens using electronic health records: trust but verify test result communication. BMC Med Inform Decis Mak. 2009 Dec 09; 9:49. PMID: [20003236](//www.ncbi.nlm.nih.gov/pubmed/20003236); PMCID: [PMC2797509](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2797509).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20003236/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  320. [Bradford A](https://profiles.viictr.org/profile/17936048), [Kunik ME](https://profiles.viictr.org/profile/266844), Schulz P, Williams SP, **Singh H**. Missed and delayed diagnosis of dementia in primary care: prevalence and contributing factors. Alzheimer Dis Assoc Disord. 2009 Oct-Dec; 23(4):306-14. PMID: [19568149](//www.ncbi.nlm.nih.gov/pubmed/19568149); PMCID: [PMC2787842](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2787842).
+
+Citations:
+[223](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19568149/citedby/)
+Fields:
+
+Neu NeurologyPsy Psychiatry
+
+Translation:Humans
+
+  321. **Singh H** , Thomas EJ, Mani S, [Sittig D](https://profiles.viictr.org/profile/266234), Arora H, Espadas D, Khan MM, [Petersen LA](https://profiles.viictr.org/profile/266681). Timely follow-up of abnormal diagnostic imaging test results in an outpatient setting: are electronic medical records achieving their potential? Arch Intern Med. 2009 Sep 28; 169(17):1578-86. PMID: [19786677](//www.ncbi.nlm.nih.gov/pubmed/19786677); PMCID: [PMC2919821](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2919821).
+
+Citations:
+[92](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19786677/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  322. [Hysong SJ](https://profiles.viictr.org/profile/270308), Sawhney MK, Wilson L, [Sittig DF](https://profiles.viictr.org/profile/266234), Esquivel A, Watford M, Davis T, Espadas D, **Singh H**. Improving outpatient safety through effective electronic communication: a study protocol. Implement Sci. 2009 Sep 25; 4:62. PMID: [19781075](//www.ncbi.nlm.nih.gov/pubmed/19781075); PMCID: [PMC2761849](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2761849).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19781075/citedby/) Fields:
+
+Hea Health Services Research
+
+  323. [Sittig DF](https://profiles.viictr.org/profile/266234), **Singh H**. Eight rights of safe electronic health record use. JAMA. 2009 Sep 09; 302(10):1111-3. PMID: [19738098](//www.ncbi.nlm.nih.gov/pubmed/19738098).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19738098/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  324. **Singh H** , Weingart SN. Diagnostic errors in ambulatory care: dimensions and preventive strategies. Adv Health Sci Educ Theory Pract. 2009 Sep; 14 Suppl 1:57-61. PMID: [19669923](//www.ncbi.nlm.nih.gov/pubmed/19669923); PMCID: [PMC3643195](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3643195).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19669923/citedby/) Fields:
+
+Edu EducationPub Public Health
+
+Translation:Humans
+
+  325. [Sittig DF](https://profiles.viictr.org/profile/266234), Teich JM, Osheroff JA, **Singh H**. Improving clinical quality indicators through electronic health records: it takes more than just a reminder. Pediatrics. 2009 Jul; 124(1):375-7. PMID: [19564321](//www.ncbi.nlm.nih.gov/pubmed/19564321); PMCID: [PMC3095847](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3095847).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19564321/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansPHPublic Health
+
+  326. **Singh H** , Daci K, [Petersen LA](https://profiles.viictr.org/profile/266681), Collins C, Petersen NJ, Shethia A, [El-Serag HB](https://profiles.viictr.org/profile/269175). Missed opportunities to initiate endoscopic evaluation for colorectal cancer diagnosis. Am J Gastroenterol. 2009 Oct; 104(10):2543-54. PMID: [19550418](//www.ncbi.nlm.nih.gov/pubmed/19550418); PMCID: [PMC2758321](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2758321).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19550418/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  327. **Singh H** , Fox SA, Petersen NJ, Shethia A, Street RL. Older patients' enthusiasm to use electronic mail to communicate with their physicians: cross-sectional survey. J Med Internet Res. 2009 Jun 16; 11(2):e18. PMID: [19632972](//www.ncbi.nlm.nih.gov/pubmed/19632972); PMCID: [PMC2762805](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2762805).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19632972/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  328. **Singh H** , Mani S, Espadas D, Petersen N, Franklin V, [Petersen LA](https://profiles.viictr.org/profile/266681). Prescription errors and outcomes related to inconsistent information transmitted through computerized order entry: a prospective study. Arch Intern Med. 2009 May 25; 169(10):982-9. PMID: [19468092](//www.ncbi.nlm.nih.gov/pubmed/19468092); PMCID: [PMC2919338](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2919338).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19468092/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  329. **Singh H** , [Kadiyala H](https://profiles.viictr.org/profile/267245), Bhagwath G, Shethia A, [El-Serag H](https://profiles.viictr.org/profile/269175), [Walder A](https://profiles.viictr.org/profile/269214), Velez ME, [Petersen LA](https://profiles.viictr.org/profile/266681). Using a multifaceted approach to improve the follow-up of positive fecal occult blood test results. Am J Gastroenterol. 2009 Apr; 104(4):942-52. PMID: [19293786](//www.ncbi.nlm.nih.gov/pubmed/19293786); PMCID: [PMC2921791](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2921791).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19293786/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansPHPublic Health
+
+  330. **Singh H** , Dumas GJ, Silvestri AP, Young S, Martin CR, Bistrian BR, Driscoll DF. Physical compatibility of neonatal total parenteral nutrition admixtures containing organic calcium and inorganic phosphate salts in a simulated infusion at 37 degrees C. Pediatr Crit Care Med. 2009 Mar; 10(2):213-6. PMID: [19188866](//www.ncbi.nlm.nih.gov/pubmed/19188866).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19188866/citedby/) Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:HumansCells
+
+  331. **Singh H** , Naik AD, Rao R, [Petersen LA](https://profiles.viictr.org/profile/266681). Reducing diagnostic errors through effective communication: harnessing the power of information technology. J Gen Intern Med. 2008 Apr; 23(4):489-94. PMID: [18373151](//www.ncbi.nlm.nih.gov/pubmed/18373151); PMCID: [PMC2359508](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2359508).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18373151/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  332. **Singh H** , Sethi S, Raber M, [Petersen LA](https://profiles.viictr.org/profile/266681). Errors in cancer diagnosis: current understanding and future directions. J Clin Oncol. 2007 Nov 01; 25(31):5009-18. PMID: [17971601](//www.ncbi.nlm.nih.gov/pubmed/17971601).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17971601/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  333. **Singh H** , Thomas EJ, [Petersen LA](https://profiles.viictr.org/profile/266681), Studdert DM. Medical errors involving trainees: a study of closed malpractice claims from 5 insurers. Arch Intern Med. 2007 Oct 22; 167(19):2030-6. PMID: [17954795](//www.ncbi.nlm.nih.gov/pubmed/17954795).
+
+Citations:
+[102](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17954795/citedby/)
+Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  334. **Singh H** , Arora HS, Vij MS, Rao R, Khan MM, [Petersen LA](https://profiles.viictr.org/profile/266681). Communication outcomes of critical imaging results in a computerized notification system. J Am Med Inform Assoc. 2007 Jul-Aug; 14(4):459-66. PMID: [17460135](//www.ncbi.nlm.nih.gov/pubmed/17460135); PMCID: [PMC2244901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2244901).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17460135/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  335. Ashton CM, Khan MM, [Johnson ML](https://profiles.viictr.org/profile/268978), [Walder A](https://profiles.viictr.org/profile/269214), Stanberry E, Beyth RJ, Collins TC, Gordon HS, Haidet P, [Kimmel B](https://profiles.viictr.org/profile/31619506), Kolpakchi A, Lu LB, Naik AD, [Petersen LA](https://profiles.viictr.org/profile/266681), **Singh H** , Wray NP. A quasi-experimental test of an intervention to increase the use of thiazide-based treatment regimens for people with hypertension. Implement Sci. 2007 Feb 13; 2:5. PMID: [17298669](//www.ncbi.nlm.nih.gov/pubmed/17298669); PMCID: [PMC1803001](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1803001).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17298669/citedby/) Fields:
+
+Hea Health Services Research
+
+  336. **Singh H** , Thomas EJ, Khan MM, [Petersen LA](https://profiles.viictr.org/profile/266681). Identifying diagnostic errors in primary care using an electronic screening algorithm. Arch Intern Med. 2007 Feb 12; 167(3):302-8. PMID: [17296888](//www.ncbi.nlm.nih.gov/pubmed/17296888).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17296888/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  337. [Johnson ML](https://profiles.viictr.org/profile/268978), **Singh H**. Patterns of antihypertensive therapy among patients with diabetes. J Gen Intern Med. 2005 Sep; 20(9):842-6. PMID: [16117753](//www.ncbi.nlm.nih.gov/pubmed/16117753); PMCID: [PMC1490215](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1490215).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16117753/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  338. **Singh H** , Gordon HS, [Deswal A](https://profiles.viictr.org/profile/266282). Variation by race in factors contributing to heart failure hospitalizations. J Card Fail. 2005 Feb; 11(1):23-9. PMID: [15704060](//www.ncbi.nlm.nih.gov/pubmed/15704060).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15704060/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  339. **Singh H** , [Johnson ML](https://profiles.viictr.org/profile/268978). Prescribing patterns of diuretics in multi-drug antihypertensive regimens. J Clin Hypertens (Greenwich). 2005 Feb; 7(2):81-7; quiz 88-9. PMID: [15722652](//www.ncbi.nlm.nih.gov/pubmed/15722652); PMCID: [PMC8109453](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8109453).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15722652/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  340. **Singh H** , Kalavar J. Quality of care for hypertension and diabetes in federal- versus commercial-managed care organizations. Am J Med Qual. 2004 Jan-Feb; 19(1):19-24. PMID: [14977021](//www.ncbi.nlm.nih.gov/pubmed/14977021).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14977021/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 340 publications over 20 distinct years, with a maximum of
+33 publications in
+2019](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|33&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,3,9,0,15,3,36,39,42,36,48,70,67,61,55,70,100,88,76,97,79,36&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 1  
+2005| 3  
+2007| 5  
+2008| 1  
+2009| 12  
+2010| 13  
+2011| 14  
+2012| 12  
+2013| 16  
+2014| 23  
+2015| 22  
+2016| 20  
+2017| 18  
+2018| 23  
+2019| 33  
+2020| 29  
+2021| 25  
+2022| 32  
+2023| 26  
+2024| 12  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SINGH's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (606)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Electronic Health Records](https://profiles.viictr.org/profile/243092)
+  * [Diagnostic Errors](https://profiles.viictr.org/profile/265062)
+  * [Patient Safety](https://profiles.viictr.org/profile/27546678)
+  * [Primary Health Care](https://profiles.viictr.org/profile/242824)
+  * [Delayed Diagnosis](https://profiles.viictr.org/profile/258672)
+
+[Explore](https://profiles.viictr.org/profile/269397/198)
+
+_
+
+Co-Authors (59)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SITTIG, DEAN](https://profiles.viictr.org/profile/266234)
+  * [MEYER, ASHLEY N.D.](https://profiles.viictr.org/profile/8556649)
+  * [MURPHY, DANIEL](https://profiles.viictr.org/profile/267187)
+  * [GIARDINA, TRABER](https://profiles.viictr.org/profile/23478744)
+  * [BRADFORD, ANDREA](https://profiles.viictr.org/profile/17936048)
+
+[Explore](https://profiles.viictr.org/profile/269397/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BATES, DAVID](https://profiles.viictr.org/profile/265690)
+  * [SITTIG, DEAN](https://profiles.viictr.org/profile/266234)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [MURPHY, DANIEL](https://profiles.viictr.org/profile/267187)
+  * [MCCULLOUGH, LAURENCE](https://profiles.viictr.org/profile/269728)
+
+[Explore](https://profiles.viictr.org/profile/269397/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [HORSTMAN, MOLLY](https://profiles.viictr.org/profile/3009768)
+  * [KAMDAR, NIPA](https://profiles.viictr.org/profile/32802326)
+  * [LESTER, HOUSTON](https://profiles.viictr.org/profile/29494118)
+  * [SANSGIRY, SHUBHADA](https://profiles.viictr.org/profile/265828)
+  * [WHITE, DONNA](https://profiles.viictr.org/profile/268770)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [AMSPOKER, AMBER](https://profiles.viictr.org/profile/265946)
+  * [HORSTMAN, MOLLY](https://profiles.viictr.org/profile/3009768)
+  * [LIN, DORIS](https://profiles.viictr.org/profile/2619397)
+  * [MURPHY, DANIEL](https://profiles.viictr.org/profile/267187)
+  * [SUAREZ, MILENA](https://profiles.viictr.org/profile/265891)
+
+_
+

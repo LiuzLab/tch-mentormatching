@@ -1,0 +1,1207 @@
+## ANN LEEN
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1102 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=N6c15GvnIoj4CIrp9Q%3d%3d&rnd=6e9e0c5d-c242-4187-81ce-
+eab647449a4e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268626)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=268626&cachekey=bd0c7b10-e6f9-4dec-a704-90d5246ba5b5)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Leung WK, Torres Chavez AG, French-Kim M, [Shafer P](https://profiles.viictr.org/profile/24845191), Mamonkin M, Hill LC, Kuvalekar M, Velazquez Y, Watanabe A, Watanabe N, Hoyos V, Lulla PD, **Leen AM** , Leung WK, Torres Chavez AG, French-Kim M, Shafer P, [Mamonkin M](https://profiles.viictr.org/profile/1826306), Hill LC, Kuvalekar M, Velazquez Y, Watanabe A, [Watanabe N](https://profiles.viictr.org/profile/3009961), [Hoyos V](https://profiles.viictr.org/profile/23479202), [Lulla P](https://profiles.viictr.org/profile/3010220), Leen AM. Targeting IDH2R140Q and other neoantigens in acute myeloid leukemia. Blood. 2024 Apr 25; 143(17):1726-1737. PMID: [38241630](//www.ncbi.nlm.nih.gov/pubmed/38241630); PMCID: [PMC11103096](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11103096).
+
+Citations:  Fields:
+
+Hem Hematology
+
+  2. Dadwal SS, Bansal R, Schuster M, Yared JA, Myers GD, Matzko ME, Adnan S, McNeel D, Ma J, Gilmore SA, [Vasileiou S](https://profiles.viictr.org/profile/22016531), **Leen AM** , Hill JA, Young JA. Final Outcomes from a Phase 2 Trial of Posoleucel in Allogeneic Hematopoietic Cell Transplant Recipients. Blood Adv. 2024 Apr 09. PMID: [38593233](//www.ncbi.nlm.nih.gov/pubmed/38593233).
+
+Citations:  Fields:
+
+Hem Hematology
+
+  3. [Musher BL](https://profiles.viictr.org/profile/266798), Rowinsky EK, Smaglo BG, [Abidi W](https://profiles.viictr.org/profile/21983660), [Othman M](https://profiles.viictr.org/profile/8759795), Patel K, [Jawaid S](https://profiles.viictr.org/profile/30086495), Jing J, Brisco A, **Leen AM** , Wu M, Sandin LC, Wenthe J, Eriksson E, Ullenhag GJ, [Grilley B](https://profiles.viictr.org/profile/266987), Leja-Jarblad J, [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), [Brenner MK](https://profiles.viictr.org/profile/268200), Loskog ASI. LOAd703, an oncolytic virus-based immunostimulatory gene therapy, combined with chemotherapy for unresectable or metastatic pancreatic cancer (LOKON001): results from arm 1 of a non-randomised, single-centre, phase 1/2 study. Lancet Oncol. 2024 Apr; 25(4):488-500. PMID: [38547893](//www.ncbi.nlm.nih.gov/pubmed/38547893).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38547893/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  4. [Vasileiou S](https://profiles.viictr.org/profile/22016531), Kuvalekar M, Velazquez Y, Watanabe A, **Leen AM** , Gilmore SA. Phenotypic and functional characterization of posoleucel, a multivirus-specific T cell therapy for the treatment and prevention of viral infections in immunocompromised patients. Cytotherapy. 2024 Mar 19. PMID: [38597860](//www.ncbi.nlm.nih.gov/pubmed/38597860).
+
+Citations:  Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+  5. [Shafer P](https://profiles.viictr.org/profile/24845191), Leung WK, Woods M, Choi JM, Rodriguez-Plata CM, [Maknojia A](https://profiles.viictr.org/profile/31189463), Mosquera A, [Somes LK](https://profiles.viictr.org/profile/28999354), Joubert J, Manliguez A, Ranjan R, [Burt B](https://profiles.viictr.org/profile/8354542), Lee HS, Zhang B, [Fuqua S](https://profiles.viictr.org/profile/269832), [Rooney C](https://profiles.viictr.org/profile/268355), **Leen AM** , [Hoyos V](https://profiles.viictr.org/profile/23479202). Incongruity between T cell receptor recognition of breast cancer hotspot mutations ESR1 Y537S and D538G following exogenous peptide loading versus endogenous antigen processing. Cytotherapy. 2024 03; 26(3):266-275. PMID: [38231165](//www.ncbi.nlm.nih.gov/pubmed/38231165); PMCID: [PMC10922969](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10922969).
+
+Citations:  Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:Humans
+
+  6. Torres Chavez AG, [McKenna MK](https://profiles.viictr.org/profile/23496083), Balasubramanian K, Riffle L, Patel NL, Kalen JD, St Croix B, **Leen AM** , Bajgain P. A dual-luciferase bioluminescence system for the assessment of cellular therapies. Mol Ther Oncol. 2024 Mar 21; 32(1):200763. PMID: [38596291](//www.ncbi.nlm.nih.gov/pubmed/38596291); PMCID: [PMC10869576](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10869576).
+
+Citations:
+
+  7. [Koukoulias K](https://profiles.viictr.org/profile/38794681), Papayanni PG, Jones J, Kuvalekar M, Watanabe A, Velazquez Y, Gilmore S, Papadopoulou A, **Leen AM** , [Vasileiou S](https://profiles.viictr.org/profile/22016531). Assessment of the cytolytic potential of a multivirus-targeted T cell therapy using a vital dye-based, flow cytometric assay. Front Immunol. 2023; 14:1299512. PMID: [38187380](//www.ncbi.nlm.nih.gov/pubmed/38187380); PMCID: [PMC10766817](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10766817).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  8. Haidar G, Jacobs JL, Kramer KH, Naqvi A, Heaps A, Parikh U, McCormick KD, Sobolewski MD, Agha M, Bogdanovich T, Bushunow V, Farah R, Hensley M, Hsu YS, Johnson B, Klamar-Blain C, Kozar J, Lendermon E, Macatangay BJC, Marino CC, Raptis A, Salese E, Silveira FP, **Leen AM** , Marshall WL, Miller M, Patel B, Atillasoy E, Mellors JW. Therapy With Allogeneic Severe Acute Respiratory Syndrome Coronavirus-2-Specific T Cells for Persistent Coronavirus Disease 2019 in Immunocompromised Patients. Clin Infect Dis. 2023 09 11; 77(5):696-702. PMID: [37078720](//www.ncbi.nlm.nih.gov/pubmed/37078720); PMCID: [PMC10495124](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10495124).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  9. [Vasileiou S](https://profiles.viictr.org/profile/22016531), Hill L, Kuvalekar M, Workineh AG, Watanabe A, Velazquez Y, [Lulla S](https://profiles.viictr.org/profile/34811365), Mooney K, [Lapteva N](https://profiles.viictr.org/profile/269143), [Grilley BJ](https://profiles.viictr.org/profile/266987), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), Eagar TN, [Carrum G](https://profiles.viictr.org/profile/269657), Grimes KA, **Leen AM** , [Lulla P](https://profiles.viictr.org/profile/3010220). Allogeneic, off-the-shelf, SARS-CoV-2-specific T cells (ALVR109) for the treatment of COVID-19 in high-risk patients. Haematologica. 2023 Jul 01; 108(7):1840-1850. PMID: [36373249](//www.ncbi.nlm.nih.gov/pubmed/36373249); PMCID: [PMC10316279](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10316279).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36373249/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  10. [Vasileiou S](https://profiles.viictr.org/profile/22016531), Kuvalekar M, Velazquez Y, Watanabe A, [Narula M](https://profiles.viictr.org/profile/34768192), Workineh AG, French-Kim M, Chavez AT, Gilmore S, [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM**. Longitudinal analysis of the evolution of cellular immunity to SARS-CoV-2 induced by infection and vaccination. Haematologica. 2023 Jul 01; 108(7):1934-1939. PMID: [36373251](//www.ncbi.nlm.nih.gov/pubmed/36373251); PMCID: [PMC10316232](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10316232).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:HumansCellsPHPublic Health
+
+  11. Papayanni PG, [Koukoulias K](https://profiles.viictr.org/profile/38794681), Kuvalekar M, Watanabe A, Velazquez Y, [Ramos CA](https://profiles.viictr.org/profile/267038), **Leen AM** , [Vasileiou S](https://profiles.viictr.org/profile/22016531). T cell immune profiling of respiratory syncytial virus for the development of a targeted immunotherapy. Br J Haematol. 2023 08; 202(4):874-878. PMID: [37323051](//www.ncbi.nlm.nih.gov/pubmed/37323051).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37323051/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  12. [Martinez C](https://profiles.viictr.org/profile/265827), Aguayo-Hiraldo P, [Chaimowitz N](https://profiles.viictr.org/profile/23496079), Forbes L, Rider N, [Nicholas S](https://profiles.viictr.org/profile/270011), Seeborg F, [Chinen J](https://profiles.viictr.org/profile/15318057), [Chinn I](https://profiles.viictr.org/profile/8065501), Davis C, Roseblatt H, [Noroski L](https://profiles.viictr.org/profile/268172), [Omer B](https://profiles.viictr.org/profile/3009902), John T, [Yassine K](https://profiles.viictr.org/profile/3010521), Naik S, [Craddock J](https://profiles.viictr.org/profile/27841637), [Bhar S](https://profiles.viictr.org/profile/3009970), [Allen C](https://profiles.viictr.org/profile/270283), [Ahmed N](https://profiles.viictr.org/profile/268944), Sasa G, [Steffin D](https://profiles.viictr.org/profile/14348352), [Doherty E](https://profiles.viictr.org/profile/14348409), [George A](https://profiles.viictr.org/profile/28999450), [Salem B](https://profiles.viictr.org/profile/29494168), Friend B, [Hegde M](https://profiles.viictr.org/profile/270076), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen A** , Pe?a A, Wu M, Hanson IC, [Krance RA](https://profiles.viictr.org/profile/268199). Cord blood transplantation for nonmalignant disorders: early functional immunity and high survival. Blood Adv. 2023 05 09; 7(9):1823-1830. PMID: [36453638](//www.ncbi.nlm.nih.gov/pubmed/36453638); PMCID: [PMC10165184](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10165184).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36453638/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCTClinical Trials
+
+  13. Pfeiffer T, Tzannou I, Wu M, [Ramos C](https://profiles.viictr.org/profile/267038), Sasa G, [Martinez C](https://profiles.viictr.org/profile/265827), [Lulla P](https://profiles.viictr.org/profile/3010220), [Krance RA](https://profiles.viictr.org/profile/268199), [Scherer L](https://profiles.viictr.org/profile/22016570), [Ruderfer D](https://profiles.viictr.org/profile/29852364), Naik S, [Bocchini C](https://profiles.viictr.org/profile/267713), Fraser IP, Patel B, Ward D, Wang T, [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen AM** , [Omer B](https://profiles.viictr.org/profile/3009902). Posoleucel, an Allogeneic, Off-the-Shelf Multivirus-Specific T-Cell Therapy, for the Treatment of Refractory Viral Infections in the Post-HCT Setting. Clin Cancer Res. 2023 01 17; 29(2):324-330. PMID: [36628536](//www.ncbi.nlm.nih.gov/pubmed/36628536); PMCID: [PMC9843433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9843433).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36628536/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  14. Bajgain P, Torres Chavez AG, Balasubramanian K, Fleckenstein L, [Lulla P](https://profiles.viictr.org/profile/3010220), [Heslop HE](https://profiles.viictr.org/profile/269811), Vera J, **Leen AM**. Secreted Fas Decoys Enhance the Antitumor Activity of Engineered and Bystander T Cells in Fas Ligand-Expressing Solid Tumors. Cancer Immunol Res. 2022 11 02; 10(11):1370-1385. PMID: [36122411](//www.ncbi.nlm.nih.gov/pubmed/36122411); PMCID: [PMC9633434](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9633434).
+
+Citations:
+
+  15. [Hoyos V](https://profiles.viictr.org/profile/23479202), [Vasileiou S](https://profiles.viictr.org/profile/22016531), Kuvalekar M, Watanabe A, Tzannou I, Velazquez Y, French-Kim M, Leung W, [Lulla S](https://profiles.viictr.org/profile/34811365), Robertson C, Foreman C, Wang T, Bulsara S, [Lapteva N](https://profiles.viictr.org/profile/269143), [Grilley B](https://profiles.viictr.org/profile/266987), Ellis M, Osborne CK, Coscio A, [Nangia J](https://profiles.viictr.org/profile/266130), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Vera JF, [Lulla P](https://profiles.viictr.org/profile/3010220), [Rimawi M](https://profiles.viictr.org/profile/269416), **Leen AM**. Multi-antigen-targeted T-cell therapy to treat patients with relapsed/refractory breast cancer. Ther Adv Med Oncol. 2022; 14:17588359221107113. PMID: [35860837](//www.ncbi.nlm.nih.gov/pubmed/35860837); PMCID: [PMC9290161](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9290161).
+
+Citations:
+
+  16. Naik S, [Vasileiou S](https://profiles.viictr.org/profile/22016531), Tzannou I, Kuvalekar M, Watanabe A, Robertson C, [Lapteva N](https://profiles.viictr.org/profile/269143), Tao W, Wu M, [Grilley B](https://profiles.viictr.org/profile/266987), [Carrum G](https://profiles.viictr.org/profile/269657), [Kamble RT](https://profiles.viictr.org/profile/265557), Hill L, [Krance RA](https://profiles.viictr.org/profile/268199), [Martinez C](https://profiles.viictr.org/profile/265827), Tewari P, [Omer B](https://profiles.viictr.org/profile/3009902), [Gottschalk S](https://profiles.viictr.org/profile/270181), [Heslop HE](https://profiles.viictr.org/profile/269811), Brenner MK, [Rooney CM](https://profiles.viictr.org/profile/268355), Vera JF, **Leen AM** , [Lulla PD](https://profiles.viictr.org/profile/3010220). Donor-derived multiple leukemia antigen-specific T-cell therapy to prevent relapse after transplant?in patients with ALL. Blood. 2022 04 28; 139(17):2706-2711. PMID: [35134127](//www.ncbi.nlm.nih.gov/pubmed/35134127); PMCID: [PMC9053698](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9053698).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35134127/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  17. Nalawade SA, [Shafer P](https://profiles.viictr.org/profile/24845191), Bajgain P, [McKenna MK](https://profiles.viictr.org/profile/23496083), Ali A, Kelly L, Joubert J, [Gottschalk S](https://profiles.viictr.org/profile/270181), [Watanabe N](https://profiles.viictr.org/profile/3009961), **Leen A** , [Parihar R](https://profiles.viictr.org/profile/3009684), Vera Valdes JF, [Hoyos V](https://profiles.viictr.org/profile/23479202). Selectively targeting myeloid-derived suppressor cells through TRAIL receptor 2 to enhance the efficacy of CAR T cell therapy for treatment of breast cancer. J Immunother Cancer. 2021 11; 9(11). PMID: [34815355](//www.ncbi.nlm.nih.gov/pubmed/34815355); PMCID: [PMC8611441](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8611441).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34815355/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  18. [Lulla PD](https://profiles.viictr.org/profile/3010220), Naik S, [Vasileiou S](https://profiles.viictr.org/profile/22016531), Tzannou I, Watanabe A, Kuvalekar M, [Lulla S](https://profiles.viictr.org/profile/34811365), [Carrum G](https://profiles.viictr.org/profile/269657), [Ramos CA](https://profiles.viictr.org/profile/267038), [Kamble R](https://profiles.viictr.org/profile/265557), Hill L, Randhawa J, [Gottschalk S](https://profiles.viictr.org/profile/270181), [Krance R](https://profiles.viictr.org/profile/268199), Wang T, Wu M, Robertson C, [Gee AP](https://profiles.viictr.org/profile/268378), Chung B, [Grilley B](https://profiles.viictr.org/profile/266987), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), Vera JF, **Leen AM**. Clinical effects of administering leukemia-specific donor T cells to patients with AML/MDS after allogeneic transplant. Blood. 2021 05 13; 137(19):2585-2597. PMID: [33270816](//www.ncbi.nlm.nih.gov/pubmed/33270816); PMCID: [PMC8120140](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8120140).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33270816/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  19. [Vasileiou S](https://profiles.viictr.org/profile/22016531), [Lulla PD](https://profiles.viictr.org/profile/3010220), Tzannou I, Watanabe A, Kuvalekar M, Callejas WL, Bilgi M, Wang T, Wu MJ, [Kamble R](https://profiles.viictr.org/profile/265557), [Ramos CA](https://profiles.viictr.org/profile/267038), [Rouce RH](https://profiles.viictr.org/profile/3010108), Zeng Z, [Gee AP](https://profiles.viictr.org/profile/268378), [Grilley BJ](https://profiles.viictr.org/profile/266987), Vera JF, Bollard CM, [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM** , [Carrum G](https://profiles.viictr.org/profile/269657). T-Cell Therapy for Lymphoma Using Nonengineered Multiantigen-Targeted T Cells Is Safe and Produces Durable Clinical Effects. J Clin Oncol. 2021 05 01; 39(13):1415-1425. PMID: [33507803](//www.ncbi.nlm.nih.gov/pubmed/33507803); PMCID: [PMC8274795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8274795).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33507803/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  20. [Lulla PD](https://profiles.viictr.org/profile/3010220), Tzannou I, [Vasileiou S](https://profiles.viictr.org/profile/22016531), [Carrum G](https://profiles.viictr.org/profile/269657), [Ramos CA](https://profiles.viictr.org/profile/267038), [Kamble R](https://profiles.viictr.org/profile/265557), Wang T, Wu M, Bilgi M, [Gee AP](https://profiles.viictr.org/profile/268378), Mukhi S, Chung B, Wang L, Watanabe A, Kuvalekar M, [Jeong M](https://profiles.viictr.org/profile/3010235), Li Y, [Ketkar S](https://profiles.viictr.org/profile/28999445), French-Kim M, [Grilley B](https://profiles.viictr.org/profile/266987), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), Vera JF, **Leen AM**. The safety and clinical effects of administering a multiantigen-targeted T cell therapy to patients with multiple myeloma. Sci Transl Med. 2020 07 29; 12(554). PMID: [32727914](//www.ncbi.nlm.nih.gov/pubmed/32727914).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32727914/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  21. Ando J, Ngo MC, Ando M, **Leen A** , [Rooney CM](https://profiles.viictr.org/profile/268355). Identification of protective T-cell antigens for smallpox vaccines. Cytotherapy. 2020 11; 22(11):642-652. PMID: [32747299](//www.ncbi.nlm.nih.gov/pubmed/32747299); PMCID: [PMC7205715](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7205715).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32747299/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  22. Leung WK, Workineh A, Mukhi S, Tzannou I, Brenner D, [Watanabe N](https://profiles.viictr.org/profile/3009961), **Leen AM** , [Lulla P](https://profiles.viictr.org/profile/3010220). Evaluation of cyclin A1-specific T cells as a potential treatment for acute myeloid leukemia. Blood Adv. 2020 Jan 28; 4(2):387-397. PMID: [31985805](//www.ncbi.nlm.nih.gov/pubmed/31985805); PMCID: [PMC6988407](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6988407).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31985805/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  23. Naik S, [Vasileiou S](https://profiles.viictr.org/profile/22016531), Aguayo-Hiraldo P, Mukhi S, Sasa G, [Martinez C](https://profiles.viictr.org/profile/265827), [Krance RA](https://profiles.viictr.org/profile/268199), [Gottschalk S](https://profiles.viictr.org/profile/270181), **Leen A**. Toward Functional Immune Monitoring in Allogeneic Stem Cell Transplant Recipients. Biol Blood Marrow Transplant. 2020 05; 26(5):911-919. PMID: [31927102](//www.ncbi.nlm.nih.gov/pubmed/31927102).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31927102/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:HumansCells
+
+  24. Torres Chavez A, [McKenna MK](https://profiles.viictr.org/profile/23496083), Canestrari E, Dann CT, [Ramos CA](https://profiles.viictr.org/profile/267038), [Lulla P](https://profiles.viictr.org/profile/3010220), **Leen AM** , Vera JF, [Watanabe N](https://profiles.viictr.org/profile/3009961). Expanding CAR T cells in human platelet lysate renders T cells with in vivo longevity. J Immunother Cancer. 2019 11 28; 7(1):330. PMID: [31779709](//www.ncbi.nlm.nih.gov/pubmed/31779709); PMCID: [PMC6883585](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6883585).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31779709/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  25. Moehler M, Heo J, Lee HC, Tak WY, Chao Y, Paik SW, Yim HJ, Byun KS, Baron A, Ungerechts G, Jonker D, Ruo L, Cho M, Kaubisch A, Wege H, Merle P, Blanc JF, Lencioni R, Patt R, **Leen AM** , Foerster F, Homerin M, Stojkowitz N, Lusky M, Limacher JM, Hennequi M, Gaspar N, McFadden B, De Silva N, Shen D, Pelusio A, Kirn DH, Breitbach CJ, Burke JM, Ebert O, Habersetzer F, Rosmorduc O. Vaccinia-based oncolytic immunotherapy Pexastimogene Devacirepvec in patients with advanced hepatocellular carcinoma after sorafenib failure: a randomized multicenter Phase IIb trial (TRAVERSE). Oncoimmunology. 2019; 8(8):1615817. PMID: [31413923](//www.ncbi.nlm.nih.gov/pubmed/31413923); PMCID: [PMC6682346](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6682346).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31413923/citedby/) Fields:
+
+All Allergy and ImmunologyNeo Neoplasms
+
+  26. [Vasileiou S](https://profiles.viictr.org/profile/22016531), Turney AM, Kuvalekar M, Mukhi SS, Watanabe A, [Lulla P](https://profiles.viictr.org/profile/3010220), [Ramos CA](https://profiles.viictr.org/profile/267038), Naik S, Vera JF, Tzannou I, **Leen AM**. Rapid generation of multivirus-specific T lymphocytes for the prevention and treatment of respiratory viral infections. Haematologica. 2020 01; 105(1):235-243. PMID: [31004020](//www.ncbi.nlm.nih.gov/pubmed/31004020); PMCID: [PMC6939529](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6939529).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31004020/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  27. Kalra M, Gerdemann U, Luu JD, Ngo MC, **Leen AM** , Louis CU, [Rooney CM](https://profiles.viictr.org/profile/268355), [Gottschalk S](https://profiles.viictr.org/profile/270181). Epstein-Barr Virus (EBV)-derived BARF1 encodes CD4- and CD8-restricted epitopes as targets for T-cell immunotherapy. Cytotherapy. 2019 02; 21(2):212-223. PMID: [30396848](//www.ncbi.nlm.nih.gov/pubmed/30396848); PMCID: [PMC6435433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6435433).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30396848/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  28. Baugh KA, Tzannou I, **Leen AM**. Infusion of cytotoxic T lymphocytes for the treatment of viral infections in hematopoetic stem cell transplant patients. Curr Opin Infect Dis. 2018 08; 31(4):292-300. PMID: [29750672](//www.ncbi.nlm.nih.gov/pubmed/29750672); PMCID: [PMC7896200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7896200).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29750672/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  29. Arasaratnam RJ, Tzannou I, Gray T, Aguayo-Hiraldo PI, Kuvalekar M, Naik S, [Gaikwad A](https://profiles.viictr.org/profile/266018), Liu H, Miloh T, Vera JF, Himes RW, Munoz FM, **Leen AM**. Dynamics of virus-specific T cell immunity in pediatric liver transplant recipients. Am J Transplant. 2018 09; 18(9):2238-2249. PMID: [29900673](//www.ncbi.nlm.nih.gov/pubmed/29900673); PMCID: [PMC6117219](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6117219).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29900673/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:HumansCellsCTClinical Trials
+
+  30. Sukumaran S, [Watanabe N](https://profiles.viictr.org/profile/3009961), Bajgain P, Raja K, Mohammed S, [Fisher WE](https://profiles.viictr.org/profile/267699), [Brenner MK](https://profiles.viictr.org/profile/268200), **Leen AM** , Vera JF. Enhancing the Potency and Specificity of Engineered T Cells for Cancer Treatment. Cancer Discov. 2018 08; 8(8):972-987. PMID: [29880586](//www.ncbi.nlm.nih.gov/pubmed/29880586); PMCID: [PMC6428579](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6428579).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29880586/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  31. Bajgain P, Tawinwung S, D'Elia L, Sukumaran S, [Watanabe N](https://profiles.viictr.org/profile/3009961), [Hoyos V](https://profiles.viictr.org/profile/23479202), [Lulla P](https://profiles.viictr.org/profile/3010220), [Brenner MK](https://profiles.viictr.org/profile/268200), **Leen AM** , Vera JF. CAR T cell therapy for breast cancer: harnessing the tumor milieu to drive T cell activation. J Immunother Cancer. 2018 05 10; 6(1):34. PMID: [29747685](//www.ncbi.nlm.nih.gov/pubmed/29747685); PMCID: [PMC5944113](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5944113).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29747685/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:Humans
+
+  32. Castillo P, Wright KE, [Kontoyiannis DP](https://profiles.viictr.org/profile/12582577), Walsh T, Patel S, Chorvinsky E, Bose S, Hazrat Y, [Omer B](https://profiles.viictr.org/profile/3009902), Albert N, **Leen AM** , [Rooney CM](https://profiles.viictr.org/profile/268355), Bollard CM, Cruz CRY. A New Method for Reactivating and Expanding T Cells Specific for Rhizopus oryzae. Mol Ther Methods Clin Dev. 2018 Jun 15; 9:305-312. PMID: [30038934](//www.ncbi.nlm.nih.gov/pubmed/30038934); PMCID: [PMC6054701](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6054701).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30038934/citedby/)
+
+  33. Fuery A, **Leen AM** , Peng R, Wong MC, Liu H, [Ling PD](https://profiles.viictr.org/profile/268320). Asian Elephant T Cell Responses to Elephant Endotheliotropic Herpesvirus. J Virol. 2018 03 15; 92(6). PMID: [29263271](//www.ncbi.nlm.nih.gov/pubmed/29263271); PMCID: [PMC5827410](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5827410).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29263271/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  34. Tzannou I, [Nicholas SK](https://profiles.viictr.org/profile/270011), [Lulla P](https://profiles.viictr.org/profile/3010220), Aguayo-Hiraldo PI, Misra A, [Martinez CA](https://profiles.viictr.org/profile/265827), Machado AA, Orange JS, [Piedra PA](https://profiles.viictr.org/profile/268114), Vera JF, **Leen AM**. Immunologic Profiling of Human Metapneumovirus for the Development of Targeted Immunotherapy. J Infect Dis. 2017 09 15; 216(6):678-687. PMID: [28934427](//www.ncbi.nlm.nih.gov/pubmed/28934427); PMCID: [PMC5853664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5853664).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28934427/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  35. Tzannou I, Papadopoulou A, Naik S, Leung K, [Martinez CA](https://profiles.viictr.org/profile/265827), [Ramos CA](https://profiles.viictr.org/profile/267038), [Carrum G](https://profiles.viictr.org/profile/269657), Sasa G, [Lulla P](https://profiles.viictr.org/profile/3010220), Watanabe A, Kuvalekar M, [Gee AP](https://profiles.viictr.org/profile/268378), Wu MF, Liu H, [Grilley BJ](https://profiles.viictr.org/profile/266987), [Krance RA](https://profiles.viictr.org/profile/268199), [Gottschalk S](https://profiles.viictr.org/profile/270181), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen AM** , [Omer B](https://profiles.viictr.org/profile/3009902). Off-the-Shelf Virus-Specific T Cells to Treat BK Virus, Human Herpesvirus 6, Cytomegalovirus, Epstein-Barr Virus, and Adenovirus Infections After Allogeneic Hematopoietic Stem-Cell Transplantation. J Clin Oncol. 2017 Nov 01; 35(31):3547-3557. PMID: [28783452](//www.ncbi.nlm.nih.gov/pubmed/28783452); PMCID: [PMC5662844](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5662844).
+
+Citations:
+[135](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28783452/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  36. Aguayo-Hiraldo PI, Arasaratnam RJ, Tzannou I, Kuvalekar M, [Lulla P](https://profiles.viictr.org/profile/3010220), Naik S, [Martinez CA](https://profiles.viictr.org/profile/265827), [Piedra PA](https://profiles.viictr.org/profile/268114), Vera JF, **Leen AM**. Characterizing the Cellular Immune Response to Parainfluenza Virus 3. J Infect Dis. 2017 07 15; 216(2):153-161. PMID: [28472480](//www.ncbi.nlm.nih.gov/pubmed/28472480); PMCID: [PMC5853958](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5853958).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28472480/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  37. Tanaka M, Tashiro H, [Omer B](https://profiles.viictr.org/profile/3009902), Lapteva N, Ando J, Ngo M, Mehta B, Dotti G, Kinchington PR, **Leen AM** , Rossig C, [Rooney CM](https://profiles.viictr.org/profile/268355). Vaccination Targeting Native Receptors to Enhance the Function and Proliferation of Chimeric Antigen Receptor (CAR)-Modified T Cells. Clin Cancer Res. 2017 Jul 15; 23(14):3499-3509. PMID: [28183713](//www.ncbi.nlm.nih.gov/pubmed/28183713); PMCID: [PMC5511585](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5511585).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28183713/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCellsPHPublic HealthCTClinical Trials
+
+  38. Mohammed S, Sukumaran S, Bajgain P, [Watanabe N](https://profiles.viictr.org/profile/3009961), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), [Fisher WE](https://profiles.viictr.org/profile/267699), **Leen AM** , Vera JF. Improving Chimeric Antigen Receptor-Modified T Cell Function by Reversing the Immunosuppressive Tumor Microenvironment of Pancreatic Cancer. Mol Ther. 2017 01 04; 25(1):249-258. PMID: [28129119](//www.ncbi.nlm.nih.gov/pubmed/28129119); PMCID: [PMC5363304](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5363304).
+
+Citations:
+[112](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28129119/citedby/)
+Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  39. [Watanabe N](https://profiles.viictr.org/profile/3009961), Bajgain P, Sukumaran S, Ansari S, [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), **Leen AM** , Vera JF. Fine-tuning the CAR spacer improves T-cell potency. Oncoimmunology. 2016; 5(12):e1253656. PMID: [28180032](//www.ncbi.nlm.nih.gov/pubmed/28180032); PMCID: [PMC5214260](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5214260).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28180032/citedby/) Fields:
+
+All Allergy and ImmunologyNeo Neoplasms
+
+  40. Naik S, [Nicholas SK](https://profiles.viictr.org/profile/270011), [Martinez CA](https://profiles.viictr.org/profile/265827), **Leen AM** , Hanley PJ, Gottschalk SM, [Rooney CM](https://profiles.viictr.org/profile/268355), Hanson IC, [Krance RA](https://profiles.viictr.org/profile/268199), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Cruz CR, Amrolia P, Lucchini G, Bunin N, Heimall J, Klein OR, Gennery AR, Slatter MA, Vickers MA, Orange JS, [Heslop HE](https://profiles.viictr.org/profile/269811), Bollard CM, Keller MD. Adoptive immunotherapy for primary immunodeficiency disorders with virus-specific T lymphocytes. J Allergy Clin Immunol. 2016 05; 137(5):1498-1505.e1. PMID: [26920464](//www.ncbi.nlm.nih.gov/pubmed/26920464); PMCID: [PMC4860050](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4860050).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26920464/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  41. Arasaratnam RJ, **Leen AM**. Adoptive T cell therapy for the treatment of viral infections. Ann Transl Med. 2015 Oct; 3(18):278. PMID: [26605324](//www.ncbi.nlm.nih.gov/pubmed/26605324); PMCID: [PMC4630547](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4630547).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26605324/citedby/)
+
+  42. Tzannou I, **Leen AM**. Preventing stem cell transplantation-associated viral infections using T-cell therapy. Immunotherapy. 2015; 7(7):793-810. PMID: [26250410](//www.ncbi.nlm.nih.gov/pubmed/26250410); PMCID: [PMC4575639](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4575639).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26250410/citedby/) Fields:
+
+All Allergy and ImmunologyThe Therapeutics
+
+Translation:HumansCells
+
+  43. [Saliba RM](https://profiles.viictr.org/profile/12582573), Rezvani K, **Leen A** , [Jorgensen J](https://profiles.viictr.org/profile/12583424), Shah N, [Hosing C](https://profiles.viictr.org/profile/12583741), [Parmar S](https://profiles.viictr.org/profile/12583446), [Oran B](https://profiles.viictr.org/profile/12583460), [Olson A](https://profiles.viictr.org/profile/12583142), [Rondon G](https://profiles.viictr.org/profile/12583296), Chen J, Martinez C, Hamdi A, [Mehta RS](https://profiles.viictr.org/profile/20424309), [Chemaly RF](https://profiles.viictr.org/profile/12583400), Saunders IM, Bollard CM, [Shpall EJ](https://profiles.viictr.org/profile/12582631). General and Virus-Specific Immune Cell Reconstitution after Double Cord Blood Transplantation. Biol Blood Marrow Transplant. 2015 Jul; 21(7):1284-90. PMID: [25708219](//www.ncbi.nlm.nih.gov/pubmed/25708219); PMCID: [PMC4798431](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4798431).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25708219/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:HumansCells
+
+  44. Sun J, Huye LE, [Lapteva N](https://profiles.viictr.org/profile/269143), [Mamonkin M](https://profiles.viictr.org/profile/1826306), Hiregange M, Ballard B, Dakhova O, Raghavan D, Durett AG, Perna SK, [Omer B](https://profiles.viictr.org/profile/3009902), [Rollins LA](https://profiles.viictr.org/profile/28998998), **Leen AM** , Vera JF, Dotti G, [Gee AP](https://profiles.viictr.org/profile/268378), [Brenner MK](https://profiles.viictr.org/profile/268200), Myers DG, [Rooney CM](https://profiles.viictr.org/profile/268355). Early transduction produces highly functional chimeric antigen receptor-modified virus-specific T-cells with central memory markers: a Production Assistant for Cell Therapy (PACT) translational application. J Immunother Cancer. 2015; 3:5. PMID: [25734008](//www.ncbi.nlm.nih.gov/pubmed/25734008); PMCID: [PMC4346112](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4346112).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25734008/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+  45. Melenhorst JJ, Castillo P, Hanley PJ, Keller MD, [Krance RA](https://profiles.viictr.org/profile/268199), [Margolin J](https://profiles.viictr.org/profile/268091), **Leen AM** , [Heslop HE](https://profiles.viictr.org/profile/269811), Barrett AJ, [Rooney CM](https://profiles.viictr.org/profile/268355), Bollard CM. Graft versus leukemia response without graft-versus-host disease elicited by adoptively transferred multivirus-specific T-cells. Mol Ther. 2015 Jan; 23(1):179-83. PMID: [25266309](//www.ncbi.nlm.nih.gov/pubmed/25266309); PMCID: [PMC4426803](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4426803).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25266309/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  46. Oka K, Mullins CE, Kushwaha RS, **Leen AM** , Chan L. Gene therapy for rhesus monkeys heterozygous for LDL receptor deficiency by balloon catheter hepatic delivery of helper-dependent adenoviral vector. Gene Ther. 2015 Jan; 22(1):87-95. PMID: [25231173](//www.ncbi.nlm.nih.gov/pubmed/25231173); PMCID: [PMC4289097](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4289097).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25231173/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:AnimalsCells
+
+  47. Papadopoulou A, Gerdemann U, Katari UL, Tzannou I, [Liu H](https://profiles.viictr.org/profile/265543), [Martinez C](https://profiles.viictr.org/profile/265827), Leung K, [Carrum G](https://profiles.viictr.org/profile/269657), [Gee AP](https://profiles.viictr.org/profile/268378), Vera JF, [Krance RA](https://profiles.viictr.org/profile/268199), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen AM**. Activity of broad-spectrum T cells as treatment for AdV, EBV, CMV, BKV, and HHV6 infections after HSCT. Sci Transl Med. 2014 Jun 25; 6(242):242ra83. PMID: [24964991](//www.ncbi.nlm.nih.gov/pubmed/24964991); PMCID: [PMC4181611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4181611).
+
+Citations:
+[158](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24964991/citedby/)
+Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCellsCTClinical Trials
+
+  48. Bajgain P, Mucharla R, Wilson J, Welch D, Anurathapan U, Liang B, Lu X, Ripple K, Centanni JM, Hall C, Hsu D, Couture LA, Gupta S, [Gee AP](https://profiles.viictr.org/profile/268378), [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen AM** , [Rooney CM](https://profiles.viictr.org/profile/268355), Vera JF. Optimizing the production of suspension cells using the G-Rex "M" series. Mol Ther Methods Clin Dev. 2014; 1:14015. PMID: [26015959](//www.ncbi.nlm.nih.gov/pubmed/26015959); PMCID: [PMC4362380](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4362380).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26015959/citedby/)
+
+  49. Ando J, **Leen AM** , Ennamuri S, [Lapteva N](https://profiles.viictr.org/profile/269143), Vera JF, Min-Venditti A, Mims MP, [Heslop HE](https://profiles.viictr.org/profile/269811), Bollard CM, [Gottschalk S](https://profiles.viictr.org/profile/270181), [Rooney CM](https://profiles.viictr.org/profile/268355), Ngo MC. Complementation of antigen-presenting cells to generate T lymphocytes with broad target specificity. J Immunother. 2014 May; 37(4):193-203. PMID: [24714353](//www.ncbi.nlm.nih.gov/pubmed/24714353); PMCID: [PMC4133102](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4133102).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24714353/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  50. Zhou X, Di Stasi A, Tey SK, [Krance RA](https://profiles.viictr.org/profile/268199), [Martinez C](https://profiles.viictr.org/profile/265827), Leung KS, Durett AG, Wu MF, [Liu H](https://profiles.viictr.org/profile/265543), **Leen AM** , Savoldo B, Lin YF, [Grilley BJ](https://profiles.viictr.org/profile/266987), [Gee AP](https://profiles.viictr.org/profile/268378), Spencer DM, [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), Dotti G. Long-term outcome after haploidentical stem cell transplant and infusion of T cells expressing the inducible caspase 9 safety transgene. Blood. 2014 Jun 19; 123(25):3895-905. PMID: [24753538](//www.ncbi.nlm.nih.gov/pubmed/24753538); PMCID: [PMC4064331](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4064331).
+
+Citations:
+[86](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24753538/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  51. Papadopoulou A, [Krance RA](https://profiles.viictr.org/profile/268199), [Allen CE](https://profiles.viictr.org/profile/270283), Lee D, [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), **Leen AM** , [Heslop HE](https://profiles.viictr.org/profile/269811). Systemic inflammatory response syndrome after administration of unmodified T lymphocytes. Mol Ther. 2014 Jun; 22(6):1134-1138. PMID: [24651135](//www.ncbi.nlm.nih.gov/pubmed/24651135); PMCID: [PMC4048900](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4048900).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24651135/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  52. **Leen AM** , Sukumaran S, [Watanabe N](https://profiles.viictr.org/profile/3009961), Mohammed S, Keirnan J, Yanagisawa R, Anurathapan U, Rendon D, [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), Vera JF. Reversal of tumor immune inhibition using a chimeric cytokine receptor. Mol Ther. 2014 Jun; 22(6):1211-1220. PMID: [24732709](//www.ncbi.nlm.nih.gov/pubmed/24732709); PMCID: [PMC4048899](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4048899).
+
+Citations:
+[82](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24732709/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  53. **Leen AM** , [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200). Antiviral T-cell therapy. Immunol Rev. 2014 Mar; 258(1):12-29. PMID: [24517423](//www.ncbi.nlm.nih.gov/pubmed/24517423); PMCID: [PMC3927231](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3927231).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24517423/citedby/) Fields:
+
+All Allergy and ImmunologyTra Transplantation
+
+Translation:HumansAnimalsCells
+
+  54. Tzannou I, **Leen AM**. Accelerating immune reconstitution after hematopoietic stem cell transplantation. Clin Transl Immunology. 2014 Feb; 3(2):e11. PMID: [25505959](//www.ncbi.nlm.nih.gov/pubmed/25505959); PMCID: [PMC4232061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4232061).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25505959/citedby/)
+
+  55. [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM** , Vera JF, [Heslop HE](https://profiles.viictr.org/profile/269811). T lymphocytes targeting native receptors. Immunol Rev. 2014 Jan; 257(1):39-55. PMID: [24329788](//www.ncbi.nlm.nih.gov/pubmed/24329788); PMCID: [PMC3869095](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3869095).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24329788/citedby/) Fields:
+
+All Allergy and ImmunologyTra Transplantation
+
+Translation:HumansAnimalsCells
+
+  56. Anurathapan U, Chan RC, Hindi HF, Mucharla R, Bajgain P, Hayes BC, [Fisher WE](https://profiles.viictr.org/profile/267699), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), **Leen AM** , Vera JF. Kinetics of tumor destruction by chimeric antigen receptor-modified T cells. Mol Ther. 2014 Mar; 22(3):623-633. PMID: [24213558](//www.ncbi.nlm.nih.gov/pubmed/24213558); PMCID: [PMC3945803](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3945803).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24213558/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  57. Anurathapan U, **Leen AM** , [Brenner MK](https://profiles.viictr.org/profile/268200), Vera JF. Engineered T cells for cancer treatment. Cytotherapy. 2014 Jun; 16(6):713-33. PMID: [24239105](//www.ncbi.nlm.nih.gov/pubmed/24239105); PMCID: [PMC4013208](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4013208).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24239105/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  58. [Brenner MK](https://profiles.viictr.org/profile/268200), [Gottschalk S](https://profiles.viictr.org/profile/270181), **Leen AM** , Vera JF. Is cancer gene therapy an empty suit? Lancet Oncol. 2013 Oct; 14(11):e447-e456. PMID: [24079872](//www.ncbi.nlm.nih.gov/pubmed/24079872); PMCID: [PMC3916772](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3916772).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24079872/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  59. Weber G, Caruana I, [Rouce RH](https://profiles.viictr.org/profile/3010108), Barrett AJ, Gerdemann U, **Leen AM** , [Rabin KR](https://profiles.viictr.org/profile/265501), Bollard CM. Generation of tumor antigen-specific T cell lines from pediatric patients with acute lymphoblastic leukemia--implications for immunotherapy. Clin Cancer Res. 2013 Sep 15; 19(18):5079-91. PMID: [23838315](//www.ncbi.nlm.nih.gov/pubmed/23838315); PMCID: [PMC3778051](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3778051).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23838315/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  60. Gerdemann U, Katari UL, Papadopoulou A, Keirnan JM, [Craddock JA](https://profiles.viictr.org/profile/27841637), [Liu H](https://profiles.viictr.org/profile/265543), [Martinez CA](https://profiles.viictr.org/profile/265827), Kennedy-Nasser A, Leung KS, [Gottschalk SM](https://profiles.viictr.org/profile/270181), [Krance RA](https://profiles.viictr.org/profile/268199), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen AM**. Safety and clinical efficacy of rapidly-generated trivirus-directed T cells as treatment for adenovirus, EBV, and CMV infections after allogeneic hematopoietic stem cell transplant. Mol Ther. 2013 Nov; 21(11):2113-21. PMID: [23783429](//www.ncbi.nlm.nih.gov/pubmed/23783429); PMCID: [PMC3831033](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3831033).
+
+Citations:
+[97](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23783429/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCellsCTClinical Trials
+
+  61. **Leen AM** , Bollard CM, Mendizabal AM, [Shpall EJ](https://profiles.viictr.org/profile/12582631), Szabolcs P, Antin JH, Kapoor N, Pai SY, Rowley SD, [Kebriaei P](https://profiles.viictr.org/profile/12582909), Dey BR, [Grilley BJ](https://profiles.viictr.org/profile/266987), [Gee AP](https://profiles.viictr.org/profile/268378), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811). Multicenter study of banked third-party virus-specific T cells to treat severe viral infections after hematopoietic stem cell transplantation. Blood. 2013 Jun 27; 121(26):5113-23. PMID: [23610374](//www.ncbi.nlm.nih.gov/pubmed/23610374); PMCID: [PMC3695359](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3695359).
+
+Citations:
+[209](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23610374/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  62. Weber G, Gerdemann U, Caruana I, Savoldo B, Hensel NF, [Rabin KR](https://profiles.viictr.org/profile/265501), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Melenhorst JJ, **Leen AM** , Barrett AJ, Bollard CM. Generation of multi-leukemia antigen-specific T cells to enhance the graft-versus-leukemia effect after allogeneic stem cell transplant. Leukemia. 2013 Jul; 27(7):1538-47. PMID: [23528871](//www.ncbi.nlm.nih.gov/pubmed/23528871); PMCID: [PMC3867129](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3867129).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23528871/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:HumansCells
+
+  63. Sanchez C, Chan R, Bajgain P, Rambally S, Palapattu G, Mims M, [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM** , Brenner MK, Vera JF. Combining T-cell immunotherapy and anti-androgen therapy for prostate cancer. Prostate Cancer Prostatic Dis. 2013 Jun; 16(2):123-31, S1. PMID: [23295316](//www.ncbi.nlm.nih.gov/pubmed/23295316); PMCID: [PMC3883310](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3883310).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23295316/citedby/) Fields:
+
+Neo NeoplasmsUro Urology
+
+Translation:HumansCells
+
+  64. [Ramos CA](https://profiles.viictr.org/profile/267038), Narala N, Vyas GM, **Leen AM** , Gerdemann U, [Sturgis EM](https://profiles.viictr.org/profile/12582951), Anderson ML, Savoldo B, [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355). Human papillomavirus type 16 E6/E7-specific cytotoxic T lymphocytes for adoptive immunotherapy of HPV-associated malignancies. J Immunother. 2013 Jan; 36(1):66-76. PMID: [23211628](//www.ncbi.nlm.nih.gov/pubmed/23211628); PMCID: [PMC3521877](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3521877).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23211628/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  65. [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen AM**. T-cell therapy for viral infections. Hematology Am Soc Hematol Educ Program. 2013; 2013:342-7. PMID: [24319202](//www.ncbi.nlm.nih.gov/pubmed/24319202).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24319202/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  66. Gerdemann U, Keukens L, Keirnan JM, Katari UL, Nguyen CT, de Pagter AP, [Ramos CA](https://profiles.viictr.org/profile/267038), Kennedy-Nasser A, [Gottschalk SM](https://profiles.viictr.org/profile/270181), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM**. Immunotherapeutic strategies to prevent and treat human herpesvirus 6 reactivation after allogeneic stem cell transplantation. Blood. 2013 Jan 03; 121(1):207-18. PMID: [23152545](//www.ncbi.nlm.nih.gov/pubmed/23152545); PMCID: [PMC3709638](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3709638).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23152545/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  67. [Rooney C](https://profiles.viictr.org/profile/268355), **Leen A**. Moving Successful Virus-specific T-cell Therapy for Hematopoietic Stem Cell Recipients to Late Phase Clinical Trials. Mol Ther Nucleic Acids. 2012 Nov 13; 1:e55. PMID: [23629030](//www.ncbi.nlm.nih.gov/pubmed/23629030); PMCID: [PMC3511676](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3511676).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23629030/citedby/)
+
+  68. van Den Brink M, **Leen AM** , Baird K, Merchant M, Mackall C, Bollard CM. Enhancing immune reconstitution: from bench to bedside. Biol Blood Marrow Transplant. 2013 Jan; 19(1 Suppl):S79-83. PMID: [23041603](//www.ncbi.nlm.nih.gov/pubmed/23041603).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23041603/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:HumansAnimalsCells
+
+  69. Kaloyannidis P, **Leen AM** , Papadopoulou A. T-cell therapy: a powerful tool for the management of viral infections and relapse post hematopoietic stem cell transplantation. Expert Rev Hematol. 2012 Oct; 5(5):471-3. PMID: [23146049](//www.ncbi.nlm.nih.gov/pubmed/23146049).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23146049/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  70. Gerdemann U, Keirnan JM, Katari UL, Yanagisawa R, Christin AS, Huye LE, Perna SK, Ennamuri S, [Gottschalk S](https://profiles.viictr.org/profile/270181), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM**. Rapidly generated multivirus-specific cytotoxic T lymphocytes for the prophylaxis and treatment of viral infections. Mol Ther. 2012 Aug; 20(8):1622-32. PMID: [22801446](//www.ncbi.nlm.nih.gov/pubmed/22801446); PMCID: [PMC3412490](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3412490).
+
+Citations:
+[107](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22801446/citedby/)
+Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  71. Pesonen S, Diaconu I, Kangasniemi L, Ranki T, Kanerva A, Pesonen SK, Gerdemann U, **Leen AM** , Kairemo K, Oksanen M, Haavisto E, Holm SL, Karioja-Kallio A, Kauppinen S, Partanen KP, Laasonen L, Joensuu T, Alanko T, Cerullo V, Hemminki A. Oncolytic immunotherapy of advanced solid tumors with a CD40L-expressing replicating adenovirus: assessment of safety and immunologic responses in patients. Cancer Res. 2012 Apr 01; 72(7):1621-31. PMID: [22323527](//www.ncbi.nlm.nih.gov/pubmed/22323527).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22323527/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  72. Ghazi A, Ashoori A, Hanley PJ, Brawley VS, Shaffer DR, Kew Y, [Powell SZ](https://profiles.viictr.org/profile/269823), Grossman R, Grada Z, [Scheurer ME](https://profiles.viictr.org/profile/265805), [Hegde M](https://profiles.viictr.org/profile/270076), **Leen AM** , Bollard CM, [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Gottschalk S](https://profiles.viictr.org/profile/270181), [Ahmed N](https://profiles.viictr.org/profile/268944). Generation of polyclonal CMV-specific T cells for the adoptive immunotherapy of glioblastoma. J Immunother. 2012 Feb-Mar; 35(2):159-68. PMID: [22306904](//www.ncbi.nlm.nih.gov/pubmed/22306904); PMCID: [PMC3280423](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3280423).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22306904/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  73. Sili U, **Leen AM** , Vera JF, [Gee AP](https://profiles.viictr.org/profile/268378), Huls H, [Heslop HE](https://profiles.viictr.org/profile/269811), Bollard CM, [Rooney CM](https://profiles.viictr.org/profile/268355). Production of good manufacturing practice-grade cytotoxic T lymphocytes specific for Epstein-Barr virus, cytomegalovirus and adenovirus to prevent or treat viral infections post-allogeneic hematopoietic stem cell transplant. Cytotherapy. 2012 Jan; 14(1):7-11. PMID: [22172091](//www.ncbi.nlm.nih.gov/pubmed/22172091); PMCID: [PMC3705934](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3705934).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22172091/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  74. Gerdemann U, Katari U, Christin AS, Cruz CR, Tripic T, Rousseau A, [Gottschalk SM](https://profiles.viictr.org/profile/270181), Savoldo B, Vera JF, [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), Bollard CM, [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM**. Cytotoxic T lymphocytes simultaneously targeting multiple tumor-associated antigens to treat EBV negative lymphoma. Mol Ther. 2011 Dec; 19(12):2258-68. PMID: [21915103](//www.ncbi.nlm.nih.gov/pubmed/21915103); PMCID: [PMC3242656](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3242656).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21915103/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  75. Cruz CR, Gerdemann U, **Leen AM** , Shafer JA, Ku S, Tzou B, [Horton TM](https://profiles.viictr.org/profile/266755), Sheehan A, Copeland A, Younes A, [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), Bollard CM. Improving T-cell therapy for relapsed EBV-negative Hodgkin lymphoma by targeting upregulated MAGE-A4. Clin Cancer Res. 2011 Nov 15; 17(22):7058-66. PMID: [21908573](//www.ncbi.nlm.nih.gov/pubmed/21908573); PMCID: [PMC3218253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3218253).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21908573/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  76. Katari UL, Keirnan JM, Worth AC, Hodges SE, **Leen AM** , [Fisher WE](https://profiles.viictr.org/profile/267699), Vera JF. Engineered T cells for pancreatic cancer treatment. HPB (Oxford). 2011 Sep; 13(9):643-50. PMID: [21843265](//www.ncbi.nlm.nih.gov/pubmed/21843265); PMCID: [PMC3183449](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3183449).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21843265/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  77. Raval M, Gulbis A, Bollard C, **Leen A** , [Chemaly R](https://profiles.viictr.org/profile/12583400), [Shpall E](https://profiles.viictr.org/profile/12582631), [Lahoti A](https://profiles.viictr.org/profile/12583495), [Kebriaei P](https://profiles.viictr.org/profile/12582909). Evaluation and management of BK virus-associated nephropathy following allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2011 Nov; 17(11):1589-93. PMID: [21767514](//www.ncbi.nlm.nih.gov/pubmed/21767514); PMCID: [PMC4477525](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4477525).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21767514/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:HumansCells
+
+  78. Nakazawa Y, Huye LE, Salsman VS, **Leen AM** , [Ahmed N](https://profiles.viictr.org/profile/268944), [Rollins L](https://profiles.viictr.org/profile/28998998), Dotti G, [Gottschalk SM](https://profiles.viictr.org/profile/270181), Wilson MH, [Rooney CM](https://profiles.viictr.org/profile/268355). PiggyBac-mediated cancer immunotherapy using EBV-specific cytotoxic T-cells expressing HER2-specific chimeric antigen receptor. Mol Ther. 2011 Dec; 19(12):2133-43. PMID: [21772253](//www.ncbi.nlm.nih.gov/pubmed/21772253); PMCID: [PMC3242651](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3242651).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21772253/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  79. Gerdemann U, Vera JF, [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM**. Generation of multivirus-specific T cells to prevent/treat viral infections after allogeneic hematopoietic stem cell transplant. J Vis Exp. 2011 May 27; (51). PMID: [21654628](//www.ncbi.nlm.nih.gov/pubmed/21654628); PMCID: [PMC3197123](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3197123).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21654628/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansCells
+
+  80. Bollard CM, [Gottschalk S](https://profiles.viictr.org/profile/270181), Helen Huls M, **Leen AM** , [Gee AP](https://profiles.viictr.org/profile/268378), [Rooney CM](https://profiles.viictr.org/profile/268355). Good manufacturing practice-grade cytotoxic T lymphocytes specific for latent membrane proteins (LMP)-1 and LMP2 for patients with Epstein-Barr virus-associated lymphoma. Cytotherapy. 2011 May; 13(5):518-22. PMID: [21361747](//www.ncbi.nlm.nih.gov/pubmed/21361747); PMCID: [PMC3186062](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3186062).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21361747/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  81. Quintarelli C, Dotti G, Hasan ST, De Angelis B, [Hoyos V](https://profiles.viictr.org/profile/23479202), Errichiello S, Mims M, Luciano L, Shafer J, **Leen AM** , [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Pane F, [Brenner MK](https://profiles.viictr.org/profile/268200), Savoldo B. High-avidity cytotoxic T lymphocytes specific for a new PRAME-derived peptide can target leukemic and leukemic-precursor cells. Blood. 2011 Mar 24; 117(12):3353-62. PMID: [21278353](//www.ncbi.nlm.nih.gov/pubmed/21278353); PMCID: [PMC3069675](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3069675).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21278353/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  82. Luke JM, Vincent JM, Du SX, Gerdemann U, **Leen AM** , Whalen RG, Hodgson CP, Williams JA. Improved antibiotic-free plasmid vector design by incorporation of transient expression enhancers. Gene Ther. 2011 Apr; 18(4):334-43. PMID: [21107439](//www.ncbi.nlm.nih.gov/pubmed/21107439); PMCID: [PMC7091570](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7091570).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21107439/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  83. Cruz CR, Hanley PJ, [Liu H](https://profiles.viictr.org/profile/265543), Torrano V, Lin YF, Arce JA, [Gottschalk S](https://profiles.viictr.org/profile/270181), Savoldo B, Dotti G, Louis CU, **Leen AM** , [Gee AP](https://profiles.viictr.org/profile/268378), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), Bollard CM, [Heslop HE](https://profiles.viictr.org/profile/269811). Adverse events following infusion of T cells for adoptive immunotherapy: a 10-year experience. Cytotherapy. 2010 Oct; 12(6):743-9. PMID: [20429793](//www.ncbi.nlm.nih.gov/pubmed/20429793); PMCID: [PMC2914831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2914831).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20429793/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:Cells
+
+  84. Lindemans CA, **Leen AM** , Boelens JJ. How I treat adenovirus in hematopoietic stem cell transplant recipients. Blood. 2010 Dec 16; 116(25):5476-85. PMID: [20837781](//www.ncbi.nlm.nih.gov/pubmed/20837781); PMCID: [PMC3031399](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3031399).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20837781/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  85. Melenhorst JJ, **Leen AM** , Bollard CM, Price DA, [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), Barrett AJ, [Heslop HE](https://profiles.viictr.org/profile/269811), Quigley MF. Allogeneic virus-specific T cells with HLA alloreactivity do not produce GVHD in human subjects. Blood. 2010 Nov 25; 116(22):4700-2. PMID: [20709906](//www.ncbi.nlm.nih.gov/pubmed/20709906); PMCID: [PMC2996125](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2996125).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20709906/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  86. Ildefonso CJ, Kong L, **Leen A** , Chai SJ, Petrochelli V, [Chintagumpala M](https://profiles.viictr.org/profile/268049), Hurwitz MY, [Hurwitz RL](https://profiles.viictr.org/profile/266847), Ch?vez-Barrios P. Absence of systemic immune response to adenovectors after intraocular administration to children with retinoblastoma. Mol Ther. 2010 Oct; 18(10):1885-90. PMID: [20606647](//www.ncbi.nlm.nih.gov/pubmed/20606647); PMCID: [PMC2951557](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2951557).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20606647/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCellsCTClinical Trials
+
+  87. Shafer JA, Cruz CR, **Leen AM** , Ku S, Lu A, Rousseau A, [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Bollard CM, Foster AE. Antigen-specific cytotoxic T lymphocytes can target chemoresistant side-population tumor cells in Hodgkin lymphoma. Leuk Lymphoma. 2010 May; 51(5):870-80. PMID: [20367572](//www.ncbi.nlm.nih.gov/pubmed/20367572); PMCID: [PMC2991134](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2991134).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20367572/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:HumansCells
+
+  88. Vera JF, Brenner LJ, Gerdemann U, Ngo MC, Sili U, [Liu H](https://profiles.viictr.org/profile/265543), Wilson J, Dotti G, [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen AM** , [Rooney CM](https://profiles.viictr.org/profile/268355). Accelerated production of antigen-specific T cells for preclinical and clinical applications using gas-permeable rapid expansion cultureware (G-Rex). J Immunother. 2010 Apr; 33(3):305-15. PMID: [20445351](//www.ncbi.nlm.nih.gov/pubmed/20445351); PMCID: [PMC2946348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2946348).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20445351/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  89. **Leen AM**. T-cell therapy: the next generation. Expert Rev Hematol. 2010 Apr; 3(2):123-5. PMID: [21083454](//www.ncbi.nlm.nih.gov/pubmed/21083454).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  90. **Leen AM** , Tripic T, [Rooney CM](https://profiles.viictr.org/profile/268355). Challenges of T cell therapies for virus-associated diseases after hematopoietic stem cell transplantation. Expert Opin Biol Ther. 2010 Mar; 10(3):337-51. PMID: [20132056](//www.ncbi.nlm.nih.gov/pubmed/20132056); PMCID: [PMC2818535](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2818535).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20132056/citedby/) Fields:
+
+Bio BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  91. Micklethwaite KP, Savoldo B, Hanley PJ, **Leen AM** , Demmler-Harrison GJ, Cooper LJ, [Liu H](https://profiles.viictr.org/profile/265543), [Gee AP](https://profiles.viictr.org/profile/268378), [Shpall EJ](https://profiles.viictr.org/profile/12582631), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), Bollard CM, Dotti G. Derivation of human T lymphocytes from cord blood and peripheral blood with antiviral and antileukemic specificity from a single culture as protection against infection and relapse after stem cell transplantation. Blood. 2010 Apr 01; 115(13):2695-703. PMID: [20110422](//www.ncbi.nlm.nih.gov/pubmed/20110422); PMCID: [PMC2852368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2852368).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20110422/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  92. Yang H, Robinson SN, Lu J, [Decker WK](https://profiles.viictr.org/profile/267087), Xing D, Steiner D, Parmar S, Shah N, [Champlin RE](https://profiles.viictr.org/profile/12582508), Munsell M, **Leen A** , Bollard C, Simmons PJ, [Shpall EJ](https://profiles.viictr.org/profile/12582631). CD3(+) and/or CD14(+) depletion from cord blood mononuclear cells before ex vivo expansion culture improves total nucleated cell and CD34(+) cell yields. Bone Marrow Transplant. 2010 Jun; 45(6):1000-7. PMID: [19838220](//www.ncbi.nlm.nih.gov/pubmed/19838220); PMCID: [PMC3179274](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3179274).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19838220/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:Cells
+
+  93. Kaka AS, Shaffer DR, Hartmaier R, Hartmeier R, **Leen AM** , Lu A, Bear A, [Rooney CM](https://profiles.viictr.org/profile/268355), Foster AE. Genetic modification of T cells with IL-21 enhances antigen presentation and generation of central memory tumor-specific cytotoxic T-lymphocytes. J Immunother. 2009 Sep; 32(7):726-36. PMID: [19561536](//www.ncbi.nlm.nih.gov/pubmed/19561536); PMCID: [PMC2790367](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2790367).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19561536/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  94. **Leen AM** , Christin A, Myers GD, [Liu H](https://profiles.viictr.org/profile/265543), Cruz CR, Hanley PJ, Kennedy-Nasser AA, Leung KS, [Gee AP](https://profiles.viictr.org/profile/268378), [Krance RA](https://profiles.viictr.org/profile/268199), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Bollard CM. Cytotoxic T lymphocyte therapy with donor T cells prevents and treats adenovirus and Epstein-Barr virus infections after haploidentical and matched unrelated stem cell transplantation. Blood. 2009 Nov 05; 114(19):4283-92. PMID: [19700662](//www.ncbi.nlm.nih.gov/pubmed/19700662); PMCID: [PMC2774556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2774556).
+
+Citations:
+[143](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19700662/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  95. Gerdemann U, Christin AS, Vera JF, [Ramos CA](https://profiles.viictr.org/profile/267038), Fujita Y, [Liu H](https://profiles.viictr.org/profile/265543), Dilloo D, [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM**. Nucleofection of DCs to generate Multivirus-specific T cells for prevention or treatment of viral infections in the immunocompromised host. Mol Ther. 2009 Sep; 17(9):1616-25. PMID: [19584818](//www.ncbi.nlm.nih.gov/pubmed/19584818); PMCID: [PMC2835253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2835253).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19584818/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  96. Hanley PJ, Cruz CR, Savoldo B, **Leen AM** , Stanojevic M, Khalil M, [Decker W](https://profiles.viictr.org/profile/267087), [Molldrem JJ](https://profiles.viictr.org/profile/12583319), [Liu H](https://profiles.viictr.org/profile/265543), [Gee AP](https://profiles.viictr.org/profile/268378), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), Dotti G, [Brenner MK](https://profiles.viictr.org/profile/268200), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Bollard CM. Functionally active virus-specific T cells that target CMV, adenovirus, and EBV can be expanded from naive T-cell populations in cord blood and will target a range of viral epitopes. Blood. 2009 Aug 27; 114(9):1958-67. PMID: [19443656](//www.ncbi.nlm.nih.gov/pubmed/19443656); PMCID: [PMC2738578](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2738578).
+
+Citations:
+[98](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19443656/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  97. Vera JF, [Hoyos V](https://profiles.viictr.org/profile/23479202), Savoldo B, Quintarelli C, Giordano Attianese GM, **Leen AM** , [Liu H](https://profiles.viictr.org/profile/265543), Foster AE, [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), Dotti G. Genetic manipulation of tumor-specific cytotoxic T lymphocytes to restore responsiveness to IL-7. Mol Ther. 2009 May; 17(5):880-8. PMID: [19259067](//www.ncbi.nlm.nih.gov/pubmed/19259067); PMCID: [PMC2835146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2835146).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19259067/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  98. Fujita Y, **Leen AM** , Sun J, Nakazawa Y, Yvon E, [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355). Exploiting cytokine secretion to rapidly produce multivirus-specific T cells for adoptive immunotherapy. J Immunother. 2008 Sep; 31(7):665-74. PMID: [18600178](//www.ncbi.nlm.nih.gov/pubmed/18600178); PMCID: [PMC2643068](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2643068).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18600178/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  99. **Leen AM** , [Heslop HE](https://profiles.viictr.org/profile/269811). Cytotoxic T lymphocytes as immune-therapy in haematological practice. Br J Haematol. 2008 Oct; 143(2):169-79. PMID: [18691164](//www.ncbi.nlm.nih.gov/pubmed/18691164); PMCID: [PMC3153888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3153888).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18691164/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  100. Kaka AS, Foster AE, Weiss HL, [Rooney CM](https://profiles.viictr.org/profile/268355), **Leen AM**. Using dendritic cell maturation and IL-12 producing capacity as markers of function: a cautionary tale. J Immunother. 2008 May; 31(4):359-69. PMID: [18391760](//www.ncbi.nlm.nih.gov/pubmed/18391760); PMCID: [PMC2744357](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2744357).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18391760/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  101. Alton E, Ferrari S, Griesenbach U, Aiuti A, Blesch A, Brenner MK, Cattaneo F, Chiocca EA, Gao G, High KA, **Leen AM** , Lemoine NR, McNeish IA, Meneguzzi G, Peschanski M, Roncarolo MG, Strayer DS, Tuszynski MH, Waxman DJ, Wilson JM, Bachoud-L?vi AC. Progress and prospects: gene therapy clinical trials (part 2). Gene Ther. 2007 Nov; 14(22):1555-63. PMID: [17984995](//www.ncbi.nlm.nih.gov/pubmed/17984995).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17984995/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:Humans
+
+  102. **Leen AM** , Christin A, Khalil M, Weiss H, [Gee AP](https://profiles.viictr.org/profile/268378), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Bollard CM. Identification of hexon-specific CD4 and CD8 T-cell epitopes for vaccine and immunotherapy. J Virol. 2008 Jan; 82(1):546-54. PMID: [17942545](//www.ncbi.nlm.nih.gov/pubmed/17942545); PMCID: [PMC2224388](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2224388).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17942545/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  103. Bollard CM, [Gottschalk S](https://profiles.viictr.org/profile/270181), **Leen AM** , Weiss H, Straathof KC, [Carrum G](https://profiles.viictr.org/profile/269657), Khalil M, Wu MF, Huls MH, Chang CC, [Gresik MV](https://profiles.viictr.org/profile/269607), [Gee AP](https://profiles.viictr.org/profile/268378), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811). Complete responses of relapsed lymphoma following genetic modification of tumor-antigen presenting cells and T-lymphocyte transfer. Blood. 2007 Oct 15; 110(8):2838-45. PMID: [17609424](//www.ncbi.nlm.nih.gov/pubmed/17609424); PMCID: [PMC2018666](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2018666).
+
+Citations:
+[157](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17609424/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  104. Foster AE, **Leen AM** , Lee T, Okamura T, Lu A, Vera J, Atkinson R, Bollard CM, Dotti G, [Rooney CM](https://profiles.viictr.org/profile/268355). Autologous designer antigen-presenting cells by gene modification of T lymphocyte blasts with IL-7 and IL-12. J Immunother. 2007 Jul-Aug; 30(5):506-16. PMID: [17589291](//www.ncbi.nlm.nih.gov/pubmed/17589291).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17589291/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  105. Myers GD, Bollard CM, Wu MF, Weiss H, [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), **Leen AM**. Reconstitution of adenovirus-specific cell-mediated immunity in pediatric patients after hematopoietic stem cell transplantation. Bone Marrow Transplant. 2007 Jun; 39(11):677-86. PMID: [17417664](//www.ncbi.nlm.nih.gov/pubmed/17417664).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17417664/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:HumansCells
+
+  106. **Leen AM** , [Rooney CM](https://profiles.viictr.org/profile/268355), Foster AE. Improving T cell therapy for cancer. Annu Rev Immunol. 2007; 25:243-65. PMID: [17129181](//www.ncbi.nlm.nih.gov/pubmed/17129181).
+
+Citations:
+[107](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17129181/citedby/)
+Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  107. **Leen A** , Ratnayake M, Foster A, Heym K, [Ahmed N](https://profiles.viictr.org/profile/268944), [Rooney CM](https://profiles.viictr.org/profile/268355), [Gottschalk S](https://profiles.viictr.org/profile/270181). Contact-activated monocytes: efficient antigen presenting cells for the stimulation of antigen-specific T cells. J Immunother. 2007 Jan; 30(1):96-107. PMID: [17198088](//www.ncbi.nlm.nih.gov/pubmed/17198088).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17198088/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  108. **Leen AM** , Myers GD, Sili U, Huls MH, Weiss H, Leung KS, [Carrum G](https://profiles.viictr.org/profile/269657), [Krance RA](https://profiles.viictr.org/profile/268199), Chang CC, [Molldrem JJ](https://profiles.viictr.org/profile/12583319), [Gee AP](https://profiles.viictr.org/profile/268378), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Bollard CM. Monoculture-derived T lymphocytes specific for multiple viruses expand and produce clinically relevant effects in immunocompromised individuals. Nat Med. 2006 Oct; 12(10):1160-6. PMID: [16998485](//www.ncbi.nlm.nih.gov/pubmed/16998485).
+
+Citations:
+[254](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16998485/citedby/)
+Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansCells
+
+  109. **Leen AM** , Bollard CM, Myers GD, [Rooney CM](https://profiles.viictr.org/profile/268355). Adenoviral infections in hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2006 Mar; 12(3):243-51. PMID: [16503493](//www.ncbi.nlm.nih.gov/pubmed/16503493).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16503493/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:HumansCells
+
+  110. **Leen AM** , Myers GD, Bollard CM, Huls MH, Sili U, [Gee AP](https://profiles.viictr.org/profile/268378), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355). T-cell immunotherapy for adenoviral infections of stem-cell transplant recipients. Ann N Y Acad Sci. 2005 Dec; 1062:104-15. PMID: [16461793](//www.ncbi.nlm.nih.gov/pubmed/16461793).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16461793/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  111. Straathof KC, **Leen AM** , Buza EL, Taylor G, Huls MH, [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Bollard CM. Characterization of latent membrane protein 2 specificity in CTL lines from patients with EBV-positive nasopharyngeal carcinoma and lymphoma. J Immunol. 2005 Sep 15; 175(6):4137-47. PMID: [16148164](//www.ncbi.nlm.nih.gov/pubmed/16148164).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16148164/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  112. Long HM, Haigh TA, Gudgeon NH, **Leen AM** , Tsang CW, Brooks J, Landais E, Houssaint E, Lee SP, Rickinson AB, Taylor GS. CD4+ T-cell responses to Epstein-Barr virus (EBV) latent-cycle antigens and the recognition of EBV-transformed lymphoblastoid cell lines. J Virol. 2005 Apr; 79(8):4896-907. PMID: [15795275](//www.ncbi.nlm.nih.gov/pubmed/15795275); PMCID: [PMC1069546](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1069546).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15795275/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  113. **Leen AM** , [Rooney CM](https://profiles.viictr.org/profile/268355). Adenovirus as an emerging pathogen in immunocompromised patients. Br J Haematol. 2005 Jan; 128(2):135-44. PMID: [15638847](//www.ncbi.nlm.nih.gov/pubmed/15638847).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15638847/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  114. **Leen AM** , Sili U, Vanin EF, Jewell AM, Xie W, Vignali D, [Piedra PA](https://profiles.viictr.org/profile/268114), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355). Conserved CTL epitopes on the adenovirus hexon protein expand subgroup cross-reactive and subgroup-specific CD8+ T cells. Blood. 2004 Oct 15; 104(8):2432-40. PMID: [15265797](//www.ncbi.nlm.nih.gov/pubmed/15265797).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15265797/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  115. Bollard CM, Straathof KC, Huls MH, **Leen A** , Lacuesta K, Davis A, [Gottschalk S](https://profiles.viictr.org/profile/270181), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355). The generation and characterization of LMP2-specific CTLs for use as adoptive transfer from patients with relapsed EBV-positive Hodgkin disease. J Immunother. 2004 Jul-Aug; 27(4):317-27. PMID: [15235393](//www.ncbi.nlm.nih.gov/pubmed/15235393).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15235393/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  116. Bollard CM, Kuehnle I, **Leen A** , [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811). Adoptive immunotherapy for posttransplantation viral infections. Biol Blood Marrow Transplant. 2004 Mar; 10(3):143-55. PMID: [14993880](//www.ncbi.nlm.nih.gov/pubmed/14993880).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14993880/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:HumansCells
+
+  117. **Leen AM** , Sili U, Savoldo B, Jewell AM, [Piedra PA](https://profiles.viictr.org/profile/268114), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355). Fiber-modified adenoviruses generate subgroup cross-reactive, adenovirus-specific cytotoxic T lymphocytes for therapeutic applications. Blood. 2004 Feb 01; 103(3):1011-9. PMID: [14525768](//www.ncbi.nlm.nih.gov/pubmed/14525768).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14525768/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  118. Meij P, **Leen A** , Rickinson AB, Verkoeijen S, Vervoort MB, Bloemena E, Middeldorp JM. Identification and prevalence of CD8(+) T-cell responses directed against Epstein-Barr virus-encoded latent membrane protein 1 and latent membrane protein 2. Int J Cancer. 2002 May 01; 99(1):93-9. PMID: [11948498](//www.ncbi.nlm.nih.gov/pubmed/11948498).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11948498/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  119. **Leen A** , Meij P, Redchenko I, Middeldorp J, Bloemena E, Rickinson A, Blake N. Differential immunogenicity of Epstein-Barr virus latent-cycle proteins for human CD4(+) T-helper 1 responses. J Virol. 2001 Sep; 75(18):8649-59. PMID: [11507210](//www.ncbi.nlm.nih.gov/pubmed/11507210); PMCID: [PMC115110](//www.ncbi.nlm.nih.gov/pmc/articles/PMC115110).
+
+Citations:
+[80](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11507210/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 119 publications over 24 distinct years, with a maximum of
+11 publications in
+2014](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|11&cht=bvs&chd=t:0,0,0,0,0,0,0,9,9,9,27,36,18,64,27,55,91,73,73,91,100,36,18,45,64,27,36,27,27,64,55&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2001| 1  
+2002| 1  
+2003| 1  
+2004| 3  
+2005| 4  
+2006| 2  
+2007| 7  
+2008| 3  
+2009| 6  
+2010| 10  
+2011| 8  
+2012| 8  
+2013| 10  
+2014| 11  
+2015| 4  
+2016| 2  
+2017| 5  
+2018| 7  
+2019| 3  
+2020| 4  
+2021| 3  
+2022| 3  
+2023| 7  
+2024| 6  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LEEN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (376)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [T-Lymphocytes, Cytotoxic](https://profiles.viictr.org/profile/242982)
+  * [Virus Diseases](https://profiles.viictr.org/profile/239753)
+  * [T-Lymphocytes](https://profiles.viictr.org/profile/263702)
+  * [Hematopoietic Stem Cell Transplantation](https://profiles.viictr.org/profile/244961)
+  * [Adoptive Transfer](https://profiles.viictr.org/profile/241720)
+
+[Explore](https://profiles.viictr.org/profile/268626/198)
+
+_
+
+Co-Authors (91)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ROONEY, CLIONA](https://profiles.viictr.org/profile/268355)
+  * [HESLOP, HELEN](https://profiles.viictr.org/profile/269811)
+  * [VASILEIOU, SPYRIDOULA](https://profiles.viictr.org/profile/22016531)
+  * [LULLA, PREMAL](https://profiles.viictr.org/profile/3010220)
+  * [BRENNER, MALCOLM](https://profiles.viictr.org/profile/268200)
+
+[Explore](https://profiles.viictr.org/profile/268626/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ROONEY, CLIONA](https://profiles.viictr.org/profile/268355)
+  * [HESLOP, HELEN](https://profiles.viictr.org/profile/269811)
+  * [CHAMPLIN, RICHARD E](https://profiles.viictr.org/profile/12582508)
+  * [GOTTSCHALK, STEPHEN](https://profiles.viictr.org/profile/270181)
+  * [BRENNER, MALCOLM](https://profiles.viictr.org/profile/268200)
+
+[Explore](https://profiles.viictr.org/profile/268626/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DOHERTY, ERIN](https://profiles.viictr.org/profile/14348409)
+  * [GOTTSCHALK, STEPHEN](https://profiles.viictr.org/profile/270181)
+  * [HESLOP, HELEN](https://profiles.viictr.org/profile/269811)
+  * [MARTINEZ, CARIDAD](https://profiles.viictr.org/profile/265827)
+  * [STEFFIN, DAVID](https://profiles.viictr.org/profile/14348352)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [AHMED, NABIL](https://profiles.viictr.org/profile/268944)
+  * [GOTTSCHALK, STEPHEN](https://profiles.viictr.org/profile/270181)
+  * [OMER, BILAL](https://profiles.viictr.org/profile/3009902)
+  * [ROONEY, CLIONA](https://profiles.viictr.org/profile/268355)
+  * [YASSINE, KHALED](https://profiles.viictr.org/profile/3010521)
+
+_
+

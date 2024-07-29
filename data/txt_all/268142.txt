@@ -1,0 +1,1217 @@
+## PREETHI GUNARATNE
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| Department of McB  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Brk15HHPKcXSU4Hs8nrWJLGsJRKH2SAGBQ%3d%3d&rnd=6e7400f3-46c8-4799-846d-93278315fb41)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268142)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Joshi AS, Tomaz da Silva M, Roy A, Koike TE, Wu M, Castillo MB, **Gunaratne PH** , Liu Y, Iwawaki T, Kumar A. The IRE1a/XBP1 signaling axis drives myoblast fusion in adult skeletal muscle. EMBO Rep. 2024 Jul 09. PMID: [38982191](//www.ncbi.nlm.nih.gov/pubmed/38982191).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+  2. Miao L, Lu Y, Nusrat A, Zhao L, Castillo M, Xiao Y, Guo H, Liu Y, **Gunaratne P** , [Schwartz RJ](https://profiles.viictr.org/profile/267508), Burns AR, Kumar A, DiPersio CM, Wu M. ?1 integrins regulate cellular behavior and cardiomyocyte organization during ventricular wall formation. Cardiovasc Res. 2024 May 24. PMID: [38794925](//www.ncbi.nlm.nih.gov/pubmed/38794925).
+
+Citations:  Fields:
+
+Car CardiologyVas Vascular Diseases
+
+  3. Mesquita FCP, King M, da Costa Lopez PL, Thevasagayampillai S, **Gunaratne PH** , Hochman-Mendez C. Laminin Alpha 2 Enhances the Protective Effect of Exosomes on Human iPSC-Derived Cardiomyocytes in an In Vitro Ischemia-Reoxygenation Model. Int J Mol Sci. 2024 Mar 28; 25(7). PMID: [38612582](//www.ncbi.nlm.nih.gov/pubmed/38612582); PMCID: [PMC11011704](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11011704).
+
+Citations:  Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:HumansCells
+
+  4. Wang B, Reville PK, Yassouf MY, Jelloul FZ, Ly C, Desai PN, Wang Z, Borges P, Veletic I, Dasdemir E, [Burks JK](https://profiles.viictr.org/profile/12583108), Tang G, Guo S, Garza AI, Nasnas C, Vaughn NR, Baran N, Deng Q, Matthews J, **Gunaratne PH** , Antunes DA, [Ekmekcioglu S](https://profiles.viictr.org/profile/12582934), Sasaki K, Garcia MB, Cuglievan B, Hao D, [Daver N](https://profiles.viictr.org/profile/12583574), Green MR, [Konopleva M](https://profiles.viictr.org/profile/12583701), [Futreal A](https://profiles.viictr.org/profile/12583608), [Post SM](https://profiles.viictr.org/profile/12582687), Abbas HA. Comprehensive characterization of IFN? signaling in acute myeloid leukemia reveals prognostic and therapeutic strategies. Nat Commun. 2024 Feb 28; 15(1):1821. PMID: [38418901](//www.ncbi.nlm.nih.gov/pubmed/38418901); PMCID: [PMC10902356](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10902356).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38418901/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Humans
+
+  5. Napoli M, Deshpande AA, Chakravarti D, Rajapakshe K, **Gunaratne PH** , [Coarfa C](https://profiles.viictr.org/profile/265668), Flores ER. Genome-wide p63-Target Gene Analyses Reveal TAp63/NRF2-Dependent Oxidative Stress Responses. Cancer Res Commun. 2024 02 01; 4(2):264-278. PMID: [38165157](//www.ncbi.nlm.nih.gov/pubmed/38165157); PMCID: [PMC10832605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10832605).
+
+Citations:  Translation:Animals
+
+  6. Hoang J, Patil SL, Srinoi P, Liu T, Marquez MD, Khantamat O, Tuntiwechapikul W, **Gunaratne PH** , Lee TR. Transfection of Unmodified MicroRNA Using Monolayer-Coated Au Nanoparticles as Gene-Delivery Vehicles. ACS Appl Bio Mater. 2024 01 15; 7(1):230-237. PMID: [38133569](//www.ncbi.nlm.nih.gov/pubmed/38133569).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringBio Biotechnology
+
+Translation:Humans
+
+  7. Tomaz da Silva M, Joshi AS, Castillo MB, Koike TE, Roy A, **Gunaratne PH** , Kumar A. Fn14 promotes myoblast fusion during regenerative myogenesis. Life Sci Alliance. 2023 12; 6(12). PMID: [37813488](//www.ncbi.nlm.nih.gov/pubmed/37813488); PMCID: [PMC10561765](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10561765).
+
+Citations:  Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  8. Seo S, Patil SL, Ahn YO, Armetta J, Hegewisch-Solloa E, Castillo M, Guilz NC, Patel A, Corneo B, Borowiak M, **Gunaratne P** , Mace EM. iPSC-based modeling of helicase deficiency reveals impaired cell proliferation and increased apoptosis after NK cell lineage commitment. bioRxiv. 2023 Sep 25. PMID: [37808662](//www.ncbi.nlm.nih.gov/pubmed/37808662); PMCID: [PMC10557596](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10557596).
+
+Citations:
+
+  9. Mistretta B, Rankothgedera S, Castillo M, Rao M, Holloway K, [Bhardwaj A](https://profiles.viictr.org/profile/12582654), El Noafal M, [Albarracin C](https://profiles.viictr.org/profile/12583378), El-Zein R, Rezaei H, [Su X](https://profiles.viictr.org/profile/12583585), [Akbani R](https://profiles.viictr.org/profile/12583156), Shao XM, Czerniecki BJ, Karchin R, [Bedrosian I](https://profiles.viictr.org/profile/12583007), **Gunaratne PH**. Chimeric RNAs reveal putative neoantigen peptides for developing tumor vaccines for breast cancer. Front Immunol. 2023; 14:1188831. PMID: [37744342](//www.ncbi.nlm.nih.gov/pubmed/37744342); PMCID: [PMC10512078](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10512078).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimals
+
+  10. Miao L, Castillo M, Lu Y, Xiao Y, Liu Y, Burns AR, Kumar A, **Gunaratne P** , Michael DiPersio C, Wu M. ?1 integrins regulate cellular behaviors and cardiomyocyte organization during ventricular wall formation. bioRxiv. 2023 Aug 29. PMID: [37693495](//www.ncbi.nlm.nih.gov/pubmed/37693495); PMCID: [PMC10491119](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10491119).
+
+Citations:
+
+  11. Baruch EN, Nagarajan P, Gleber-Netto FO, Rao X, Xie T, Akhter S, Adewale A, Shajedul I, Mattson BJ, [Ferrarotto R](https://profiles.viictr.org/profile/12583155), Wong MK, [Davies MA](https://profiles.viictr.org/profile/12583712), Jindal S, Basu S, Harwood C, Leigh I, Ajami N, [Futreal A](https://profiles.viictr.org/profile/12583608), Castillo M, **Gunaratne P** , [Goepfert RP](https://profiles.viictr.org/profile/30445247), Khushalani N, Wang J, [Watowich S](https://profiles.viictr.org/profile/12583304), [Calin GA](https://profiles.viictr.org/profile/12583509), [Migden MR](https://profiles.viictr.org/profile/12583434), Vermeer P, D'Silva N, Yaniv D, [Burks JK](https://profiles.viictr.org/profile/12583108), Gomez J, [Dougherty PM](https://profiles.viictr.org/profile/12583743), Tsai KY, [Allison JP](https://profiles.viictr.org/profile/12582547), [Sharma P](https://profiles.viictr.org/profile/12582681), [Wargo J](https://profiles.viictr.org/profile/12582861), [Myers JN](https://profiles.viictr.org/profile/12582564), [Gross ND](https://profiles.viictr.org/profile/12582872), Amit M. Inflammation induced by tumor-associated nerves promotes resistance to anti-PD-1 therapy in cancer patients and is targetable by interleukin-6 blockade. Res Sq. 2023 Jul 18. PMID: [37503252](//www.ncbi.nlm.nih.gov/pubmed/37503252); PMCID: [PMC10371163](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10371163).
+
+Citations:
+
+  12. [Grimm SL](https://profiles.viictr.org/profile/35589914), Mendez EF, Stertz L, Meyer TD, Fries GR, Gandhi T, Kanchi R, Selvaraj S, Teixeira AL, [Kosten TR](https://profiles.viictr.org/profile/265715), **Gunaratne P** , [Coarfa C](https://profiles.viictr.org/profile/265668), Walss-Bass C. MicroRNA-mRNA networks are dysregulated in opioid use disorder postmortem brain: Further evidence for opioid-induced neurovascular alterations. Front Psychiatry. 2022; 13:1025346. PMID: [36713930](//www.ncbi.nlm.nih.gov/pubmed/36713930); PMCID: [PMC9878702](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9878702).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36713930/citedby/)
+
+  13. Prodan N, Ershad F, Reyes-Alcaraz A, Li L, Mistretta B, Gonzalez L, Rao Z, Yu C, **Gunaratne PH** , [Li N](https://profiles.viictr.org/profile/267442), [Schwartz RJ](https://profiles.viictr.org/profile/267508), [McConnell BK](https://profiles.viictr.org/profile/268985). Direct reprogramming of cardiomyocytes into cardiac Purkinje-like cells. iScience. 2022 Nov 18; 25(11):105402. PMID: [36388958](//www.ncbi.nlm.nih.gov/pubmed/36388958); PMCID: [PMC9646947](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9646947).
+
+Citations:
+
+  14. [Woodfield SE](https://profiles.viictr.org/profile/15317927), Mistretta BJ, Patel RH, Ibarra AM, [Fisher KE](https://profiles.viictr.org/profile/8451894), Sarabia SF, Gandhi I, Reuther J, [Starosolski Z](https://profiles.viictr.org/profile/270164), [Badachhape A](https://profiles.viictr.org/profile/28999111), Epps J, Zorman B, Shah AP, Larson SR, [Srivastava RK](https://profiles.viictr.org/profile/30426461), Shi Y, Espinoza AF, Govindu SR, Whitlock RS, Holloway K, [Roy A](https://profiles.viictr.org/profile/268647), [Sumazin P](https://profiles.viictr.org/profile/2560346), [Ghaghada KB](https://profiles.viictr.org/profile/268527), [Lopez-Terrada D](https://profiles.viictr.org/profile/266283), **Gunaratne PH** , [Vasudevan SA](https://profiles.viictr.org/profile/269879). HepT1-derived murine models of high-risk hepatoblastoma display vascular invasion, metastasis, and circulating tumor cells. Biol Open. 2022 09 15; 11(9). PMID: [35451474](//www.ncbi.nlm.nih.gov/pubmed/35451474); PMCID: [PMC9493725](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9493725).
+
+Citations:  Fields:
+
+Bio Biology
+
+  15. Thaiparambil J, Dong J, [Grimm SL](https://profiles.viictr.org/profile/35589914), Perera D, Ambati CSR, Putluri V, Robertson MJ, Patel TD, Mistretta B, **Gunaratne PH** , Kim MP, [Yustein JT](https://profiles.viictr.org/profile/265958), [Putluri N](https://profiles.viictr.org/profile/269361), [Coarfa C](https://profiles.viictr.org/profile/265668), El-Zein R. Integrative metabolomics and transcriptomics analysis reveals novel therapeutic vulnerabilities in lung cancer. Cancer Med. 2023 01; 12(1):584-596. PMID: [35676822](//www.ncbi.nlm.nih.gov/pubmed/35676822); PMCID: [PMC9844651](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9844651).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+  16. Islam T, Koboziev I, Albracht-Schulte K, Mistretta B, Scoggin S, Yosofvand M, Moussa H, Zabet-Moghaddam M, Ramalingam L, **Gunaratne PH** , Moustaid-Moussa N. Curcumin Reduces Adipose Tissue Inflammation and Alters Gut Microbiota in Diet-Induced Obese Male Mice. Mol Nutr Food Res. 2021 11; 65(22):e2100274. PMID: [34510720](//www.ncbi.nlm.nih.gov/pubmed/34510720).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34510720/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Animals
+
+  17. Li Y, Zhang Y, Hu Q, Egranov SD, Xing Z, Zhang Z, Liang K, Ye Y, Pan Y, Chatterjee SS, Mistretta B, Nguyen TK, Hawke DH, **Gunaratne PH** , [Hung MC](https://profiles.viictr.org/profile/12582486), Han L, Yang L, Lin C. Functional significance of gain-of-function H19 lncRNA in skeletal muscle differentiation and anti-obesity effects. Genome Med. 2021 08 28; 13(1):137. PMID: [34454586](//www.ncbi.nlm.nih.gov/pubmed/34454586); PMCID: [PMC8403366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8403366).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  18. Li Y, [Tan Z](https://profiles.viictr.org/profile/32901598), Zhang Y, Zhang Z, Hu Q, Liang K, Jun Y, Ye Y, Li YC, Li C, [Liao L](https://profiles.viictr.org/profile/268314), Xu J, Xing Z, Pan Y, Chatterjee SS, Nguyen TK, Hsiao H, Egranov SD, [Putluri N](https://profiles.viictr.org/profile/269361), [Coarfa C](https://profiles.viictr.org/profile/265668), Hawke DH, **Gunaratne PH** , Tsai KL, Han L, [Hung MC](https://profiles.viictr.org/profile/12582486), [Calin GA](https://profiles.viictr.org/profile/12583509), Namour F, Muntau AC, Blau N, [Sutton VR](https://profiles.viictr.org/profile/269795), Zhang S, Lin C, Yang L, Gu?ant JL, Schiff M, Feillet F. A noncoding RNA modulator potentiates phenylalanine metabolism in mice. Science. 2021 08 06; 373(6555):662-673. PMID: [34353949](//www.ncbi.nlm.nih.gov/pubmed/34353949); PMCID: [PMC9714245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9714245).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34353949/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  19. Ravirala D, Mistretta B, **Gunaratne PH** , Pei G, Zhao Z, Zhang X. Co-delivery of novel bispecific and trispecific engagers by an amplicon vector augments the therapeutic effect of an HSV-based oncolytic virotherapy. J Immunother Cancer. 2021 07; 9(7). PMID: [34230110](//www.ncbi.nlm.nih.gov/pubmed/34230110); PMCID: [PMC8261877](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8261877).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34230110/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  20. [Fannin S](https://profiles.viictr.org/profile/40252766), Rangel J, Bodurin AP, Yu T, Mistretta B, Mali S, **Gunaratne P** , Bark SJ, Ebalunode JO, Khan A, Widger WR, Sen M. Functional and structural characterization of Hyp730, a highly conserved and dormancy-specific hypothetical membrane protein. Microbiologyopen. 2021 01; 10(1):e1154. PMID: [33650800](//www.ncbi.nlm.nih.gov/pubmed/33650800); PMCID: [PMC7856521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7856521).
+
+Citations:  Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  21. Ju Z, [Bhardwaj A](https://profiles.viictr.org/profile/12582654), Embury MD, Singh H, **Gunaratne PH** , [Bedrosian I](https://profiles.viictr.org/profile/12583007), Wang J. Erratum: Ju, Z., et al. Integrative Analyses of Multilevel Omics Reveal Preneoplastic Breast to Possess a Molecular Landscape That Is Globally Shared with Invasive Basal-Like Breast Cancer (Running Title: Molecular Landscape of Basal-Like Breast Cancer Progression). Cancers 2020, 12, 722. Cancers (Basel). 2020 Oct 20; 12(10). PMID: [33092312](//www.ncbi.nlm.nih.gov/pubmed/33092312); PMCID: [PMC7589086](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7589086).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33092312/citedby/)
+
+  22. Napoli M, Li X, Ackerman HD, Deshpande AA, Barannikov I, Pisegna MA, [Bedrosian I](https://profiles.viictr.org/profile/12583007), Quinlan P, Thompson A, Rajapakshe K, [Coarfa C](https://profiles.viictr.org/profile/265668), **Gunaratne PH** , Marchion DC, Magliocco AM, Tsai KY, Flores ER, Mitsch J. Pan-cancer analysis reveals TAp63-regulated oncogenic lncRNAs that promote cancer progression through AKT activation. Nat Commun. 2020 10 14; 11(1):5156. PMID: [33056990](//www.ncbi.nlm.nih.gov/pubmed/33056990); PMCID: [PMC7561725](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7561725).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33056990/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  23. Menikdiwela KR, Ramalingam L, Abbas MM, Bensmail H, Scoggin S, Kalupahana NS, Palat A, **Gunaratne P** , Moustaid-Moussa N. Role of microRNA 690 in Mediating Angiotensin II Effects on Inflammation and Endoplasmic Reticulum Stress. Cells. 2020 05 26; 9(6). PMID: [32466437](//www.ncbi.nlm.nih.gov/pubmed/32466437); PMCID: [PMC7348980](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7348980).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32466437/citedby/) Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  24. Smith SL, Kennedy PR, Stacey KB, Worboys JD, Yarwood A, Seo S, Solloa EH, Mistretta B, Chatterjee SS, **Gunaratne P** , Allette K, Wang YC, Smith ML, Sebra R, Mace EM, Horowitz A, Thomson W, Martin P, Eyre S, Davis DM. Diversity of peripheral blood human NK cells identified by single-cell RNA sequencing. Blood Adv. 2020 04 14; 4(7):1388-1406. PMID: [32271902](//www.ncbi.nlm.nih.gov/pubmed/32271902); PMCID: [PMC7160259](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7160259).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32271902/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  25. Green DG, Whitener AE, Mohanty S, Mistretta B, **Gunaratne P** , Yeh AT, Lekven AC. Wnt signaling regulates neural plate patterning in distinct temporal phases with dynamic transcriptional outputs. Dev Biol. 2020 06 15; 462(2):152-164. PMID: [32243887](//www.ncbi.nlm.nih.gov/pubmed/32243887); PMCID: [PMC7268091](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7268091).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32243887/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  26. Ju Z, [Bhardwaj A](https://profiles.viictr.org/profile/12582654), Embury MD, Singh H, **Gunaratne PH** , [Bedrosian I](https://profiles.viictr.org/profile/12583007), Wang J. Integrative Analyses of Multilevel Omics Reveal Preneoplastic Breast to Possess a Molecular Landscape That is Globally Shared with Invasive Basal-Like Breast Cancer (Running Title: Molecular Landscape of Basal-Like Breast Cancer Progression). Cancers (Basel). 2020 Mar 19; 12(3). PMID: [32204397](//www.ncbi.nlm.nih.gov/pubmed/32204397); PMCID: [PMC7140033](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7140033).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32204397/citedby/)
+
+  27. Davis AJ, Tsinkevich M, Rodencal J, Abbas HA, Su XH, Gi YJ, Fang B, Rajapakshe K, [Coarfa C](https://profiles.viictr.org/profile/265668), **Gunaratne PH** , Koomen JM, Tsai KY, Flores ER. TAp63-Regulated miRNAs Suppress Cutaneous Squamous Cell Carcinoma through Inhibition of a Network of Cell-Cycle Genes. Cancer Res. 2020 06 15; 80(12):2484-2497. PMID: [32156775](//www.ncbi.nlm.nih.gov/pubmed/32156775); PMCID: [PMC7299759](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7299759).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32156775/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  28. Patil SL, Palat A, Pan Y, Rajapakshe K, Mirchandani R, Bondesson M, [Yustein JT](https://profiles.viictr.org/profile/265958), [Coarfa C](https://profiles.viictr.org/profile/265668), **Gunaratne PH**. MicroRNA-509-3p inhibits cellular migration, invasion, and proliferation, and sensitizes osteosarcoma to cisplatin. Sci Rep. 2019 12 13; 9(1):19089. PMID: [31836741](//www.ncbi.nlm.nih.gov/pubmed/31836741); PMCID: [PMC6911094](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6911094).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31836741/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  29. Havis S, Bodunrin A, Rangel J, Zimmerer R, Murphy J, Storey JD, Duong TD, Mistretta B, **Gunaratne P** , Widger WR, Bark SJ. A Universal Stress Protein That Controls Bacterial Stress Survival in Micrococcus luteus. J Bacteriol. 2019 12 15; 201(24). PMID: [31548273](//www.ncbi.nlm.nih.gov/pubmed/31548273); PMCID: [PMC6872200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6872200).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31548273/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  30. Yarchoan M, Agarwal P, Villanueva A, Rao S, Dawson L, Karasic T, Llovet J, Finn R, Groopman J, [El-Serag H](https://profiles.viictr.org/profile/269175), Monga S, Wang XW, Karin M, Schwartz R, Tanabe K, Roberts L, **Gunaratne P** , Tsung A, Brown K, Lawrence T, Salem R, Singal A, Kim A, Rabiee A, Resar L, Meyer J, Hoshida Y, He AR, Ghoshal K, Ryan P, Jaffee E, Guha C, Mishra L, Coleman N, Ahmed M. Correction: Recent Developments and Therapeutic Strategies against Hepatocellular Carcinoma. Cancer Res. 2019 Nov 15; 79(22):5897. PMID: [31772073](//www.ncbi.nlm.nih.gov/pubmed/31772073).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31772073/citedby/) Fields:
+
+Neo Neoplasms
+
+  31. Raghunathan S, Mistretta B, Iyer D, Shi L, **Gunaratne PH** , Ko G, [Schwartz RJ](https://profiles.viictr.org/profile/267508), [McConnell BK](https://profiles.viictr.org/profile/268985), Islas JF. Conversion of human cardiac progenitor cells into cardiac pacemaker-like cells. J Mol Cell Cardiol. 2020 01; 138:12-22. PMID: [31678351](//www.ncbi.nlm.nih.gov/pubmed/31678351); PMCID: [PMC7035977](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7035977).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31678351/citedby/) Fields:
+
+Car CardiologyCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  32. Yarchoan M, Agarwal P, Villanueva A, Rao S, Dawson LA, Llovet JM, Finn RS, Groopman JD, [El-Serag HB](https://profiles.viictr.org/profile/269175), Monga SP, Wang XW, Karin M, Schwartz RE, Tanabe KK, Roberts LR, **Gunaratne PH** , Tsung A, Brown KA, Lawrence TS, Salem R, Singal AG, Kim AK, Rabiee A, Resar L, Hoshida Y, He AR, Ghoshal K, Ryan PB, Jaffee EM, Guha C, Mishra L, Coleman CN, Ahmed MM. Recent Developments and Therapeutic Strategies against Hepatocellular Carcinoma. Cancer Res. 2019 09 01; 79(17):4326-4330. PMID: [31481419](//www.ncbi.nlm.nih.gov/pubmed/31481419); PMCID: [PMC8330805](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8330805).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31481419/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  33. Hu Q, Ye Y, Chan LC, Li Y, Liang K, Lin A, Egranov SD, Zhang Y, [Xia W](https://profiles.viictr.org/profile/12583293), Gong J, Pan Y, Chatterjee SS, [Yao J](https://profiles.viictr.org/profile/12582538), Evans KW, Nguyen TK, Park PK, Liu J, [Coarfa C](https://profiles.viictr.org/profile/265668), Donepudi SR, Putluri V, [Putluri N](https://profiles.viictr.org/profile/269361), [Sreekumar A](https://profiles.viictr.org/profile/266636), Ambati CR, Hawke DH, Marks JR, **Gunaratne PH** , [Caudle AS](https://profiles.viictr.org/profile/12583102), [Sahin AA](https://profiles.viictr.org/profile/12582927), Hortobagyi GN, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), Chen L, [Yu D](https://profiles.viictr.org/profile/12582518), [Hung MC](https://profiles.viictr.org/profile/12582486), [Curran MA](https://profiles.viictr.org/profile/12583984), Han L, Lin C, Yang L. Oncogenic lncRNA downregulates cancer cell antigen presentation and intrinsic tumor suppression. Nat Immunol. 2019 07; 20(7):835-851. PMID: [31160797](//www.ncbi.nlm.nih.gov/pubmed/31160797); PMCID: [PMC6619502](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6619502).
+
+Citations:
+[113](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31160797/citedby/)
+Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  34. Moreno-Villanueva M, Zhang Y, Feiveson A, Mistretta B, Pan Y, Chatterjee S, Wu W, Clanton R, Nelman-Gonzalez M, Krieger S, **Gunaratne P** , Crucian B, Wu H. Single-Cell RNA-Sequencing Identifies Activation of TP53 and STAT1 Pathways in Human T Lymphocyte Subpopulations in Response to Ex Vivo Radiation Exposure. Int J Mol Sci. 2019 May 10; 20(9). PMID: [31083348](//www.ncbi.nlm.nih.gov/pubmed/31083348); PMCID: [PMC6539494](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6539494).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31083348/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:HumansCellsPHPublic Health
+
+  35. **Gunaratne PH** , Pan Y, Rao AK, Lin C, Hernandez-Herrera A, Liang K, Rait AS, Venkatanarayan A, Benham AL, Rubab F, Kim SS, Rajapakshe K, Chan CK, [Mangala LS](https://profiles.viictr.org/profile/12583421), Lopez-Berestein G, [Sood AK](https://profiles.viictr.org/profile/12583786), Rowat AC, [Coarfa C](https://profiles.viictr.org/profile/265668), Pirollo KF, Flores ER, Chang EH. Activating p53 family member TAp63: A novel therapeutic strategy for targeting p53-altered tumors. Cancer. 2019 07 15; 125(14):2409-2422. PMID: [31012964](//www.ncbi.nlm.nih.gov/pubmed/31012964); PMCID: [PMC6617807](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6617807).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31012964/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  36. Chen C, Meng Q, Xia Y, Ding C, Wang L, Dai R, Cheng L, **Gunaratne P** , [Gibbs RA](https://profiles.viictr.org/profile/269695), Min S, [Coarfa C](https://profiles.viictr.org/profile/265668), Reid JG, Zhang C, Jiao C, Jiang Y, Giase G, Thomas A, Fitzgerald D, Brunetti T, Shieh A, Xia C, Wang Y, Wang Y, Badner JA, Gershon ES, White KP, Liu C. The transcription factor POU3F2 regulates a gene coexpression network in brain tissue from patients with psychiatric disorders. Sci Transl Med. 2018 12 19; 10(472). PMID: [30545964](//www.ncbi.nlm.nih.gov/pubmed/30545964); PMCID: [PMC6494100](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6494100).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30545964/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  37. Hoang J, Park CS, Lee HJ, Marquez MD, Zenasni O, **Gunaratne PH** , Lee TR. Quaternary Ammonium-Terminated Films Formed from Mixed Bidentate Adsorbates Provide a High-Capacity Platform for Oligonucleotide Delivery. ACS Appl Mater Interfaces. 2018 Nov 28; 10(47):40890-40900. PMID: [30335936](//www.ncbi.nlm.nih.gov/pubmed/30335936).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringBio Biotechnology
+
+Translation:Cells
+
+  38. Pahlavani M, Wijayatunga NN, Kalupahana NS, Ramalingam L, **Gunaratne PH** , [Coarfa C](https://profiles.viictr.org/profile/265668), Rajapakshe K, Kottapalli P, Moustaid-Moussa N. Transcriptomic and microRNA analyses of gene networks regulated by eicosapentaenoic acid in brown adipose tissue of diet-induced obese mice. Biochim Biophys Acta Mol Cell Biol Lipids. 2018 12; 1863(12):1523-1531. PMID: [30261280](//www.ncbi.nlm.nih.gov/pubmed/30261280); PMCID: [PMC6298436](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6298436).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30261280/citedby/) Fields:
+
+Bio BiochemistryBio BiophysicsCel Cell Biology
+
+Translation:Animals
+
+  39. Chen L, Youssef Y, Robinson C, Ernst GF, Carson MY, Young KA, Scoville SD, Zhang X, Harris R, Sekhri P, Mansour AG, Chan WK, Nalin AP, Mao HC, Hughes T, Mace EM, Pan Y, Rustagi N, Chatterjee SS, **Gunaratne PH** , Behbehani GK, Mundy-Bosse BL, Caligiuri MA, Freud AG. CD56 Expression Marks Human Group 2 Innate Lymphoid Cell Divergence from a Shared NK Cell and Group 3 Innate Lymphoid Cell Developmental Pathway. Immunity. 2018 09 18; 49(3):464-476.e4. PMID: [30193847](//www.ncbi.nlm.nih.gov/pubmed/30193847); PMCID: [PMC6148384](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6148384).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30193847/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  40. [Chiu HS](https://profiles.viictr.org/profile/29776927), Somvanshi S, Patel E, Chen TW, Singh VP, Zorman B, Patil SL, Pan Y, Chatterjee SS, Cancer Genome Atlas Research Network, [Sood AK](https://profiles.viictr.org/profile/12583786), **Gunaratne PH** , [Sumazin P](https://profiles.viictr.org/profile/2560346). Pan-Cancer Analysis of lncRNA Regulation Supports Their Targeting of Cancer Genes in Each Tumor Context. Cell Rep. 2018 04 03; 23(1):297-312.e12. PMID: [29617668](//www.ncbi.nlm.nih.gov/pubmed/29617668); PMCID: [PMC5906131](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5906131).
+
+Citations:
+[102](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29617668/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  41. Campbell JD, Yau C, Bowlby R, Liu Y, Brennan K, Fan H, Taylor AM, Wang C, Walter V, [Akbani R](https://profiles.viictr.org/profile/12583156), [Byers LA](https://profiles.viictr.org/profile/12582565), [Creighton CJ](https://profiles.viictr.org/profile/265729), [Coarfa C](https://profiles.viictr.org/profile/265668), Shih J, Cherniack AD, Gevaert O, Prunello M, Shen H, Anur P, Chen J, Cheng H, Hayes DN, Bullman S, Pedamallu CS, Ojesina AI, Sadeghi S, Mungall KL, Robertson AG, Benz C, Schultz A, Kanchi RS, Gay CM, Hegde A, Diao L, Wang J, Ma W, [Sumazin P](https://profiles.viictr.org/profile/2560346), [Chiu HS](https://profiles.viictr.org/profile/29776927), Chen TW, **Gunaratne P** , Donehower L, Rader JS, Zuna R, Al-Ahmadie H, [Lazar AJ](https://profiles.viictr.org/profile/12583453), Flores ER, Tsai KY, Zhou JH, Rustgi AK, Drill E, Shen R, Wong CK, Cancer Genome Atlas Research Network, Stuart JM, Laird PW, Hoadley KA, [Weinstein JN](https://profiles.viictr.org/profile/12583120), Peto M, [Pickering CR](https://profiles.viictr.org/profile/12583140), Chen Z, Van Waes C. Genomic, Pathway Network, and Immunologic Features Distinguishing Squamous Carcinomas. Cell Rep. 2018 04 03; 23(1):194-212.e6. PMID: [29617660](//www.ncbi.nlm.nih.gov/pubmed/29617660); PMCID: [PMC6002769](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6002769).
+
+Citations:
+[107](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29617660/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  42. Berger AC, [Korkut A](https://profiles.viictr.org/profile/20424327), Kanchi RS, Hegde AM, Lenoir W, Liu W, Liu Y, Fan H, Shen H, Ravikumar V, Rao A, Schultz A, Li X, [Sumazin P](https://profiles.viictr.org/profile/2560346), Mestdagh P, **Gunaratne PH** , Yau C, Bowlby R, Robertson AG, Wang C, Cherniack AD, Godwin AK, Kuderer NM, Rader JS, Zuna RE, [Sood AK](https://profiles.viictr.org/profile/12583786), [Lazar AJ](https://profiles.viictr.org/profile/12583453), Ojesina AI, Adebamowo C, Adebamowo SN, [Baggerly KA](https://profiles.viictr.org/profile/12582600), Chen TW, [Chiu HS](https://profiles.viictr.org/profile/29776927), Lefever S, Liu L, MacKenzie K, Orsulic S, Roszik J, Shelley CS, Song Q, Vellano CP, Wentzensen N, Cancer Genome Atlas Research Network, [Weinstein JN](https://profiles.viictr.org/profile/12583120), [Mills GB](https://profiles.viictr.org/profile/12582930), Levine DA, [Akbani R](https://profiles.viictr.org/profile/12583156), Williams C, Tiezzi DG. A Comprehensive Pan-Cancer Molecular Study of Gynecologic and Breast Cancers. Cancer Cell. 2018 04 09; 33(4):690-705.e9. PMID: [29622464](//www.ncbi.nlm.nih.gov/pubmed/29622464); PMCID: [PMC5959730](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5959730).
+
+Citations:
+[207](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29622464/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  43. Wijayatunga NN, Pahlavani M, Kalupahana NS, Kottapalli KR, **Gunaratne PH** , [Coarfa C](https://profiles.viictr.org/profile/265668), Ramalingam L, Moustaid-Moussa N. An integrative transcriptomic approach to identify depot differences in genes and microRNAs in adipose tissues from high fat fed mice. Oncotarget. 2018 Feb 06; 9(10):9246-9261. PMID: [29507687](//www.ncbi.nlm.nih.gov/pubmed/29507687); PMCID: [PMC5823660](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5823660).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29507687/citedby/) Fields:
+
+Neo Neoplasms
+
+  44. Abbas HA, Bui NHB, Rajapakshe K, Wong J, **Gunaratne P** , Tsai KY, [Coarfa C](https://profiles.viictr.org/profile/265668), Flores ER. Distinct TP63 Isoform-Driven Transcriptional Signatures Predict Tumor Progression and Clinical Outcomes. Cancer Res. 2018 01 15; 78(2):451-462. PMID: [29180475](//www.ncbi.nlm.nih.gov/pubmed/29180475); PMCID: [PMC5771893](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5771893).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29180475/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  45. Fujita J, Freire P, [Coarfa C](https://profiles.viictr.org/profile/265668), Benham AL, **Gunaratne P** , [Schneider MD](https://profiles.viictr.org/profile/268004), Dejosez M, Zwaka TP. Ronin Governs Early Heart Development by Controlling Core Gene Expression Programs. Cell Rep. 2017 Nov 07; 21(6):1562-1573. PMID: [29117561](//www.ncbi.nlm.nih.gov/pubmed/29117561); PMCID: [PMC5695914](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5695914).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29117561/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  46. Shakiba A, Patil SL, Zenasni O, Schmitt ME, **Gunaratne PH** , Lee TR. DNA Loading and Release Using Custom-Tailored Poly(l-lysine) Surfaces. ACS Appl Mater Interfaces. 2017 Jul 19; 9(28):23370-23378. PMID: [28636320](//www.ncbi.nlm.nih.gov/pubmed/28636320).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28636320/citedby/) Fields:
+
+Bio Biomedical EngineeringBio Biotechnology
+
+  47. [Bhardwaj A](https://profiles.viictr.org/profile/12582654), Singh H, Rajapakshe K, Tachibana K, Ganesan N, Pan Y, **Gunaratne PH** , [Coarfa C](https://profiles.viictr.org/profile/265668), [Bedrosian I](https://profiles.viictr.org/profile/12583007). Regulation of miRNA-29c and its downstream pathways in preneoplastic progression of triple-negative breast cancer. Oncotarget. 2017 Mar 21; 8(12):19645-19660. PMID: [28160548](//www.ncbi.nlm.nih.gov/pubmed/28160548); PMCID: [PMC5386711](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5386711).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28160548/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  48. Pan Y, Robertson G, Pedersen L, Lim E, Hernandez-Herrera A, Rowat AC, Patil SL, Chan CK, Wen Y, Zhang X, Basu-Roy U, Mansukhani A, Chu A, Sipahimalani P, Bowlby R, Brooks D, Thiessen N, [Coarfa C](https://profiles.viictr.org/profile/265668), Ma Y, Moore RA, Schein JE, Mungall AJ, Liu J, Pecot CV, [Sood AK](https://profiles.viictr.org/profile/12583786), Jones SJ, Marra MA, **Gunaratne PH**. Correction: miR-509-3p is clinically significant and strongly attenuates cellular migration and multi-cellular spheroids in ovarian cancer. Oncotarget. 2017 03 07; 8(10):17406. PMID: [28403581](//www.ncbi.nlm.nih.gov/pubmed/28403581); PMCID: [PMC5370050](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5370050).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28403581/citedby/) Fields:
+
+Neo Neoplasms
+
+  49. Chan CK, Pan Y, Nyberg K, Marra MA, Lim EL, Jones SJ, Maar D, Gibb EA, **Gunaratne PH** , Robertson AG, Rowat AC. Tumour-suppressor microRNAs regulate ovarian cancer cell physical properties and invasive behaviour. Open Biol. 2016 11; 6(11). PMID: [27906134](//www.ncbi.nlm.nih.gov/pubmed/27906134); PMCID: [PMC5133448](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5133448).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27906134/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  50. Basu-Roy U, Han E, Rattanakorn K, Gadi A, Verma N, Maurizi G, **Gunaratne PH** , [Coarfa C](https://profiles.viictr.org/profile/265668), Kennedy OD, Garabedian MJ, Basilico C, Mansukhani A. PPAR? agonists promote differentiation of cancer stem cells by restraining YAP transcriptional activity. Oncotarget. 2016 Sep 20; 7(38):60954-60970. PMID: [27528232](//www.ncbi.nlm.nih.gov/pubmed/27528232); PMCID: [PMC5308629](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5308629).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27528232/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  51. Chitsazzadeh V, [Coarfa C](https://profiles.viictr.org/profile/265668), Drummond JA, Nguyen T, Joseph A, Chilukuri S, Charpiot E, Adelmann CH, Ching G, Nguyen TN, Nicholas C, [Thomas VD](https://profiles.viictr.org/profile/12583897), [Migden M](https://profiles.viictr.org/profile/12583434), [MacFarlane D](https://profiles.viictr.org/profile/12583411), Thompson E, Shen J, Takata Y, McNiece K, Polansky MA, Abbas HA, Rajapakshe K, Gower A, Spira A, Covington KR, Xiao W, **Gunaratne P** , [Pickering C](https://profiles.viictr.org/profile/12583140), Frederick M, [Myers JN](https://profiles.viictr.org/profile/12582564), Shen L, Yao H, [Su X](https://profiles.viictr.org/profile/12583585), [Rapini RP](https://profiles.viictr.org/profile/12582642), [Wheeler DA](https://profiles.viictr.org/profile/266937), [Hawk ET](https://profiles.viictr.org/profile/12583521), Flores ER, Tsai KY. Cross-species identification of genomic drivers of squamous cell carcinoma development across preneoplastic intermediates. Nat Commun. 2016 08 30; 7:12601. PMID: [27574101](//www.ncbi.nlm.nih.gov/pubmed/27574101); PMCID: [PMC5013636](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5013636).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27574101/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimals
+
+  52. Liu Y, Chen L, Diaz AD, Benham A, Xu X, Wijaya CS, Fa'ak F, Luo W, Soibam B, Azares A, Yu W, Lyu Q, Stewart MD, **Gunaratne P** , Cooney A, [McConnell BK](https://profiles.viictr.org/profile/268985), [Schwartz RJ](https://profiles.viictr.org/profile/267508). Mesp1 Marked Cardiac Progenitor Cells Repair Infarcted Mouse Hearts. Sci Rep. 2016 08 19; 6:31457. PMID: [27538477](//www.ncbi.nlm.nih.gov/pubmed/27538477); PMCID: [PMC4990963](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4990963).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27538477/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  53. Shen X, Soibam B, Benham A, Xu X, Chopra M, Peng X, Yu W, Bao W, Liang R, Azares A, Liu P, **Gunaratne PH** , Mercola M, Cooney AJ, [Schwartz RJ](https://profiles.viictr.org/profile/267508), Liu Y. miR-322/-503 cluster is expressed in the earliest cardiac progenitor cells and drives cardiomyocyte specification. Proc Natl Acad Sci U S A. 2016 08 23; 113(34):9551-6. PMID: [27512039](//www.ncbi.nlm.nih.gov/pubmed/27512039); PMCID: [PMC5003281](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5003281).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27512039/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  54. Napoli M, Venkatanarayan A, Raulji P, Meyers BA, [Norton W](https://profiles.viictr.org/profile/12583195), [Mangala LS](https://profiles.viictr.org/profile/12583421), [Sood AK](https://profiles.viictr.org/profile/12583786), Rodriguez-Aguayo C, Lopez-Berestein G, Vin H, [Duvic M](https://profiles.viictr.org/profile/12582514), Tetzlaff MB, [Curry JL](https://profiles.viictr.org/profile/12583544), Rook AH, Abbas HA, [Coarfa C](https://profiles.viictr.org/profile/265668), **Gunaratne PH** , Tsai KY, Flores ER. ?Np63/DGCR8-Dependent MicroRNAs Mediate Therapeutic Efficacy of HDAC Inhibitors in Cancer. Cancer Cell. 2016 06 13; 29(6):874-888. PMID: [27300436](//www.ncbi.nlm.nih.gov/pubmed/27300436); PMCID: [PMC4908836](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4908836).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27300436/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  55. Pan Y, Robertson G, Pedersen L, Lim E, Hernandez-Herrera A, Rowat AC, Patil SL, Chan CK, Wen Y, Zhang X, Basu-Roy U, Mansukhani A, Chu A, Sipahimalani P, Bowlby R, Brooks D, Thiessen N, [Coarfa C](https://profiles.viictr.org/profile/265668), Ma Y, Moore RA, Schein JE, Mungall AJ, Liu J, Pecot CV, [Sood AK](https://profiles.viictr.org/profile/12583786), Jones SJ, Marra MA, **Gunaratne PH**. miR-509-3p is clinically significant and strongly attenuates cellular migration and multi-cellular spheroids in ovarian cancer. Oncotarget. 2016 May 03; 7(18):25930-48. PMID: [27036018](//www.ncbi.nlm.nih.gov/pubmed/27036018); PMCID: [PMC5041955](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5041955).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27036018/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  56. Agarwal S, Ghosh R, Chen Z, Lakoma A, **Gunaratne PH** , Kim ES, Shohet JM. Transmembrane adaptor protein PAG1 is a novel tumor suppressor in neuroblastoma. Oncotarget. 2016 Apr 26; 7(17):24018-26. PMID: [26993602](//www.ncbi.nlm.nih.gov/pubmed/26993602); PMCID: [PMC5029681](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5029681).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26993602/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  57. O'Brien R, Tran SL, Maritz MF, Liu B, Kong CF, Purgato S, Yang C, Murray J, Russell AJ, Flemming CL, von Jonquieres G, Pickett HA, London WB, Haber M, **Gunaratne PH** , Norris MD, Perini G, Fletcher JI, MacKenzie KL. MYC-Driven Neuroblastomas Are Addicted to a Telomerase-Independent Function of Dyskerin. Cancer Res. 2016 06 15; 76(12):3604-17. PMID: [27197171](//www.ncbi.nlm.nih.gov/pubmed/27197171).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27197171/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  58. Thomas AL, [Coarfa C](https://profiles.viictr.org/profile/265668), Qian J, Wilkerson JJ, Rajapakshe K, Krett NL, **Gunaratne PH** , Rosen ST. Identification of potential glucocorticoid receptor therapeutic targets in multiple myeloma. Nucl Recept Signal. 2015; 13:e006. PMID: [26715915](//www.ncbi.nlm.nih.gov/pubmed/26715915); PMCID: [PMC4693629](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4693629).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26715915/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  59. Liu C, Lou CH, Shah V, Ritter R, Talley J, Soibam B, Benham A, Zhu H, Perez E, Shieh YE, **Gunaratne PH** , Sater AK. Identification of microRNAs and microRNA targets in Xenopus gastrulae: The role of miR-26 in the regulation of Smad1. Dev Biol. 2016 Jan 01; 409(1):26-38. PMID: [26548531](//www.ncbi.nlm.nih.gov/pubmed/26548531).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26548531/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  60. Jonsson P, [Coarfa C](https://profiles.viictr.org/profile/265668), Mesmar F, Raz T, Rajapakshe K, Thompson JF, **Gunaratne PH** , Williams C. Single-Molecule Sequencing Reveals Estrogen-Regulated Clinically Relevant lncRNAs in Breast Cancer. Mol Endocrinol. 2015 Nov; 29(11):1634-45. PMID: [26426411](//www.ncbi.nlm.nih.gov/pubmed/26426411); PMCID: [PMC4627604](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4627604).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26426411/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  61. [Bhardwaj A](https://profiles.viictr.org/profile/12582654), Ganesan N, Tachibana K, Rajapakshe K, [Albarracin CT](https://profiles.viictr.org/profile/12583378), **Gunaratne PH** , [Coarfa C](https://profiles.viictr.org/profile/265668), [Bedrosian I](https://profiles.viictr.org/profile/12583007). Annexin A1 Preferentially Predicts Poor Prognosis of Basal-Like Breast Cancer Patients by Activating mTOR-S6 Signaling. PLoS One. 2015; 10(5):e0127678. PMID: [26000884](//www.ncbi.nlm.nih.gov/pubmed/26000884); PMCID: [PMC4441370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4441370).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26000884/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  62. Venkatanarayan A, Raulji P, [Norton W](https://profiles.viictr.org/profile/12583195), Chakravarti D, [Coarfa C](https://profiles.viictr.org/profile/265668), Su X, Sandur SK, Ramirez MS, Lee J, Kingsley CV, Sananikone EF, Rajapakshe K, [Naff K](https://profiles.viictr.org/profile/12583003), [Parker-Thornburg J](https://profiles.viictr.org/profile/12583399), [Bankson JA](https://profiles.viictr.org/profile/12583373), Tsai KY, **Gunaratne PH** , Flores ER. IAPP-driven metabolic reprogramming induces regression of p53-deficient tumours in vivo. Nature. 2015 Jan 29; 517(7536):626-30. PMID: [25409149](//www.ncbi.nlm.nih.gov/pubmed/25409149); PMCID: [PMC4312210](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4312210).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25409149/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  63. Menon DU, [Coarfa C](https://profiles.viictr.org/profile/265668), Xiao W, **Gunaratne PH** , Meller VH. siRNAs from an X-linked satellite repeat promote X-chromosome recognition in Drosophila melanogaster. Proc Natl Acad Sci U S A. 2014 Nov 18; 111(46):16460-5. PMID: [25368194](//www.ncbi.nlm.nih.gov/pubmed/25368194); PMCID: [PMC4246271](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4246271).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25368194/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  64. Yu Z, Kim J, He L, [Creighton CJ](https://profiles.viictr.org/profile/265729), **Gunaratne PH** , [Hawkins SM](https://profiles.viictr.org/profile/267635), [Matzuk MM](https://profiles.viictr.org/profile/266520). Functional analysis of miR-34c as a putative tumor suppressor in high-grade serous ovarian cancer. Biol Reprod. 2014 Nov; 91(5):113. PMID: [25273528](//www.ncbi.nlm.nih.gov/pubmed/25273528); PMCID: [PMC6366460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6366460).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25273528/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansAnimalsCells
+
+  65. Bliss-Moreau M, [Coarfa C](https://profiles.viictr.org/profile/265668), **Gunaratne PH** , Guitart J, Krett NL, Rosen ST. Identification of p38? as a therapeutic target for the treatment of S?zary syndrome. J Invest Dermatol. 2015 Feb; 135(2):599-608. PMID: [25148579](//www.ncbi.nlm.nih.gov/pubmed/25148579); PMCID: [PMC4289446](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4289446).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25148579/citedby/) Fields:
+
+Der Dermatology
+
+Translation:HumansCells
+
+  66. Davis CF, Ricketts CJ, Wang M, Yang L, Cherniack AD, Shen H, Buhay C, Kang H, Kim SC, Bhanot G, Gordenin DA, Chu A, **Gunaratne PH** , [Kaipparettu BA](https://profiles.viictr.org/profile/269257), [Donehower LA](https://profiles.viictr.org/profile/268019), Wallen EM, Smith AB, Tickoo SK, [Tamboli P](https://profiles.viictr.org/profile/12582962), Reuter V, Schmidt LS, Hsieh JJ, Choueiri TK, Hakimi AA, Meyerson M, Kucherlapati R, Park WY, Robertson AG, Laird PW, Henske EP, Kwiatkowski DJ, [Park PJ](https://profiles.viictr.org/profile/17439987), Morgan M, Shuch B, [Muzny D](https://profiles.viictr.org/profile/268028), [Wheeler DA](https://profiles.viictr.org/profile/266937), Linehan WM, [Gibbs RA](https://profiles.viictr.org/profile/269695), Rathmell WK, [Creighton CJ](https://profiles.viictr.org/profile/265729), Fahey CC, Hacker KE, Biehl M, Seth S, Bristow CA, The?Cancer Genome Atlas Research Network, Chin L. The somatic genomic landscape of chromophobe renal cell carcinoma. Cancer Cell. 2014 Sep 08; 26(3):319-330. PMID: [25155756](//www.ncbi.nlm.nih.gov/pubmed/25155756); PMCID: [PMC4160352](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4160352).
+
+Citations:
+[319](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25155756/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  67. Boele J, Persson H, Shin JW, Ishizu Y, Newie IS, [Hawkins SM](https://profiles.viictr.org/profile/267635), [Coarfa C](https://profiles.viictr.org/profile/265668), Ikeda K, Takayama K, Horie-Inoue K, Ando Y, Burroughs AM, Sasaki C, Suzuki C, Sakai M, Aoki S, Ogawa A, Hasegawa A, Lizio M, Kaida K, Teusink B, Carninci P, Suzuki H, Inoue S, **Gunaratne PH** , Rovira C, Hayashizaki Y, de Hoon MJ, S?kilde R. PAPD5-mediated 3' adenylation and subsequent degradation of miR-21 is disrupted in proliferative disease. Proc Natl Acad Sci U S A. 2014 Aug 05; 111(31):11467-72. PMID: [25049417](//www.ncbi.nlm.nih.gov/pubmed/25049417); PMCID: [PMC4128123](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4128123).
+
+Citations:
+[75](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25049417/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  68. Chakravarti D, [Su X](https://profiles.viictr.org/profile/12583374), Cho MS, Bui NH, [Coarfa C](https://profiles.viictr.org/profile/265668), Venkatanarayan A, Benham AL, Alana J, Xiao W, Leung ML, Vin H, Chan IL, Aquino A, Wang H, Cooney AJ, [Parker-Thornburg J](https://profiles.viictr.org/profile/12583399), Tsai KY, **Gunaratne PH** , Flores ER, Flores Gonz?lez RE, M?ller N. Induced multipotency in adult keratinocytes through down-regulation of ?Np63 or DGCR8. Proc Natl Acad Sci U S A. 2014 Feb 04; 111(5):E572-81. PMID: [24449888](//www.ncbi.nlm.nih.gov/pubmed/24449888); PMCID: [PMC3918754](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3918754).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24449888/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  69. [Jeong M](https://profiles.viictr.org/profile/3010235), Sun D, Luo M, Huang Y, Challen GA, Rodriguez B, Zhang X, Chavez L, Wang H, Hannah R, Kim SB, Yang L, Ko M, [Chen R](https://profiles.viictr.org/profile/266790), Lee JS, **Gunaratne P** , Godley LA, Darlington GJ, Rao A, Li W, [Goodell MA](https://profiles.viictr.org/profile/269806), G?ttgens B. Large conserved domains of low DNA methylation maintained by Dnmt3a. Nat Genet. 2014 Jan; 46(1):17-23. PMID: [24270360](//www.ncbi.nlm.nih.gov/pubmed/24270360); PMCID: [PMC3920905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3920905).
+
+Citations:
+[164](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24270360/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  70. Tennakoon JB, Wang H, [Coarfa C](https://profiles.viictr.org/profile/265668), Cooney AJ, **Gunaratne PH**. Chromatin changes in dicer-deficient mouse embryonic stem cells in response to retinoic acid induced differentiation. PLoS One. 2013; 8(9):e74556. PMID: [24040281](//www.ncbi.nlm.nih.gov/pubmed/24040281); PMCID: [PMC3767645](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3767645).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24040281/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  71. Seo E, Basu-Roy U, **Gunaratne PH** , [Coarfa C](https://profiles.viictr.org/profile/265668), Lim DS, Basilico C, Mansukhani A. SOX2 regulates YAP1 to maintain stemness and determine cell fate in the osteo-adipo lineage. Cell Rep. 2013 Jun 27; 3(6):2075-87. PMID: [23791527](//www.ncbi.nlm.nih.gov/pubmed/23791527); PMCID: [PMC5053763](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5053763).
+
+Citations:
+[93](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23791527/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  72. Cheng JC, McBrayer SK, [Coarfa C](https://profiles.viictr.org/profile/265668), Dalva-Aydemir S, **Gunaratne PH** , Carpten JD, Keats JK, Rosen ST, Shanmugam M. Expression and phosphorylation of the AS160_v2 splice variant supports GLUT4 activation and the Warburg effect in multiple myeloma. Cancer Metab. 2013 May 29; 1(1):14. PMID: [24280290](//www.ncbi.nlm.nih.gov/pubmed/24280290); PMCID: [PMC4178207](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4178207).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24280290/citedby/)
+
+  73. Hsu DM, Agarwal S, Benham A, [Coarfa C](https://profiles.viictr.org/profile/265668), Trahan DN, Chen Z, Stowers PN, [Courtney AN](https://profiles.viictr.org/profile/9596407), Lakoma A, [Barbieri E](https://profiles.viictr.org/profile/270157), [Metelitsa LS](https://profiles.viictr.org/profile/266187), **Gunaratne P** , Kim ES, Shohet JM. G-CSF receptor positive neuroblastoma subpopulations are enriched in chemotherapy-resistant or relapsed tumors and are highly tumorigenic. Cancer Res. 2013 Jul 01; 73(13):4134-46. PMID: [23687340](//www.ncbi.nlm.nih.gov/pubmed/23687340); PMCID: [PMC4298227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4298227).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23687340/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  74. Mach CM, Kim J, Soibam B, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Hawkins SM](https://profiles.viictr.org/profile/267635), Zighelboim I, Goodfellow P, **Gunaratne PH** , Odunsi K, Salem PA, Anderson ML. Novel MicroRNAs regulating proliferation and apoptosis in uterine papillary serous carcinomas. Cancer Lett. 2013 Jul 28; 335(2):314-22. PMID: [23454583](//www.ncbi.nlm.nih.gov/pubmed/23454583); PMCID: [PMC3669647](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3669647).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23454583/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  75. Munch EM, Harris RA, [Mohammad M](https://profiles.viictr.org/profile/269072), Benham AL, Pejerrey SM, Showalter L, Hu M, Shope CD, Maningat PD, **Gunaratne PH** , [Haymond M](https://profiles.viictr.org/profile/268333), Aagaard K. Transcriptome profiling of microRNA by Next-Gen deep sequencing reveals known and novel miRNA species in the lipid fraction of human breast milk. PLoS One. 2013; 8(2):e50564. PMID: [23418415](//www.ncbi.nlm.nih.gov/pubmed/23418415); PMCID: [PMC3572105](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3572105).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23418415/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  76. [Donehower LA](https://profiles.viictr.org/profile/268019), [Creighton CJ](https://profiles.viictr.org/profile/265729), Schultz N, Shinbrot E, Chang K, **Gunaratne PH** , [Muzny D](https://profiles.viictr.org/profile/268028), Sander C, [Hamilton SR](https://profiles.viictr.org/profile/12583714), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Wheeler D](https://profiles.viictr.org/profile/266937). MLH1-silenced and non-silenced subgroups of hypermutated colorectal carcinomas have distinct mutational landscapes. J Pathol. 2013 Jan; 229(1):99-110. PMID: [22899370](//www.ncbi.nlm.nih.gov/pubmed/22899370); PMCID: [PMC3926301](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3926301).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22899370/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  77. Hamilton MP, Rajapakshe K, [Hartig SM](https://profiles.viictr.org/profile/268501), Reva B, McLellan MD, Kandoth C, Ding L, Zack TI, **Gunaratne PH** , [Wheeler DA](https://profiles.viictr.org/profile/266937), [Coarfa C](https://profiles.viictr.org/profile/265668), [McGuire SE](https://profiles.viictr.org/profile/12583840). Identification of a pan-cancer oncogenic microRNA superfamily anchored by a central core seed motif. Nat Commun. 2013; 4:2730. PMID: [24220575](//www.ncbi.nlm.nih.gov/pubmed/24220575); PMCID: [PMC3868236](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3868236).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24220575/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  78. Landry P, Benham A, [Coarfa C](https://profiles.viictr.org/profile/265668), **Gunaratne PH** , Provost P, Pl? H. The repertoire and features of human platelet microRNAs. PLoS One. 2012; 7(12):e50746. PMID: [23226537](//www.ncbi.nlm.nih.gov/pubmed/23226537); PMCID: [PMC3514217](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3514217).
+
+Citations:
+[89](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23226537/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  79. Ghosh R, Singh LC, Shohet JM, **Gunaratne PH**. A gold nanoparticle platform for the delivery of functional microRNAs into cancer cells. Biomaterials. 2013 Jan; 34(3):807-16. PMID: [23111335](//www.ncbi.nlm.nih.gov/pubmed/23111335).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23111335/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansCells
+
+  80. [Hawkins SM](https://profiles.viictr.org/profile/267635), Andreu-Vieyra CV, Kim TH, Jeong JW, Hodgson MC, Chen R, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Lydon JP](https://profiles.viictr.org/profile/269737), **Gunaratne PH** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Matzuk MM](https://profiles.viictr.org/profile/266520). Dysregulation of uterine signaling pathways in progesterone receptor-Cre knockout of dicer. Mol Endocrinol. 2012 Sep; 26(9):1552-66. PMID: [22798293](//www.ncbi.nlm.nih.gov/pubmed/22798293); PMCID: [PMC3434527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3434527).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22798293/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  81. Wang Y, Brahmakshatriya V, Lupiani B, Reddy SM, Soibam B, Benham AL, **Gunaratne P** , Liu HC, Trakooljul N, Ing N, Okimoto R, Zhou H. Integrated analysis of microRNA expression and mRNA transcriptome in lungs of avian influenza virus infected broilers. BMC Genomics. 2012 Jun 22; 13:278. PMID: [22726614](//www.ncbi.nlm.nih.gov/pubmed/22726614); PMCID: [PMC3496578](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3496578).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22726614/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  82. [Creighton CJ](https://profiles.viictr.org/profile/265729), Hernandez-Herrera A, Jacobsen A, Levine DA, Mankoo P, Schultz N, Du Y, Zhang Y, Larsson E, Sheridan R, Xiao W, Spellman PT, Getz G, [Wheeler DA](https://profiles.viictr.org/profile/266937), Perou CM, [Gibbs RA](https://profiles.viictr.org/profile/269695), Sander C, Hayes DN, **Gunaratne PH** , Cancer Genome Atlas Research Network. Integrated analyses of microRNAs demonstrate their widespread influence on gene expression in high-grade serous ovarian carcinoma. PLoS One. 2012; 7(3):e34546. PMID: [22479643](//www.ncbi.nlm.nih.gov/pubmed/22479643); PMCID: [PMC3315571](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3315571).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22479643/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  83. **Gunaratne PH** , [Coarfa C](https://profiles.viictr.org/profile/265668), Soibam B, Tandon A. miRNA data analysis: next-gen sequencing. Methods Mol Biol. 2012; 822:273-88. PMID: [22144206](//www.ncbi.nlm.nih.gov/pubmed/22144206).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22144206/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimals
+
+  84. Luo Z, Xu X, Gu P, [Lonard D](https://profiles.viictr.org/profile/269800), **Gunaratne PH** , Cooney AJ, Azencott R. miRNA regulatory circuits in ES cells differentiation: a chemical kinetics modeling approach. PLoS One. 2011; 6(10):e23263. PMID: [22039400](//www.ncbi.nlm.nih.gov/pubmed/22039400); PMCID: [PMC3198445](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3198445).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22039400/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  85. Tessel MA, Benham AL, Krett NL, Rosen ST, **Gunaratne PH**. Role for microRNAs in regulating glucocorticoid response and resistance in multiple myeloma. Horm Cancer. 2011 Jun; 2(3):182-9. PMID: [21761344](//www.ncbi.nlm.nih.gov/pubmed/21761344); PMCID: [PMC3725966](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3725966).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21761344/citedby/) Fields:
+
+End EndocrinologyNeo Neoplasms
+
+Translation:HumansCells
+
+  86. **Gunaratne PH** , Lin YC, Benham AL, Drnevich J, [Coarfa C](https://profiles.viictr.org/profile/265668), Tennakoon JB, [Creighton CJ](https://profiles.viictr.org/profile/265729), Kim JH, [Milosavljevic A](https://profiles.viictr.org/profile/268148), Watson M, Griffiths-Jones S, Clayton DF. Song exposure regulates known and novel microRNAs in the zebra finch auditory forebrain. BMC Genomics. 2011 May 31; 12(1):277. PMID: [21627805](//www.ncbi.nlm.nih.gov/pubmed/21627805); PMCID: [PMC3118218](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3118218).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21627805/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  87. Shohet JM, Ghosh R, [Coarfa C](https://profiles.viictr.org/profile/265668), Ludwig A, Benham AL, Chen Z, Patterson DM, [Barbieri E](https://profiles.viictr.org/profile/270157), Mestdagh P, Sikorski DN, [Milosavljevic A](https://profiles.viictr.org/profile/268148), Kim ES, **Gunaratne PH**. A genome-wide search for promoters that respond to increased MYCN reveals both new oncogenic and tumor suppressor microRNAs associated with aggressive neuroblastoma. Cancer Res. 2011 Jun 01; 71(11):3841-51. PMID: [21498633](//www.ncbi.nlm.nih.gov/pubmed/21498633).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21498633/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  88. [Hawkins SM](https://profiles.viictr.org/profile/267635), [Creighton CJ](https://profiles.viictr.org/profile/265729), Han DY, Zariff A, Anderson ML, **Gunaratne PH** , [Matzuk MM](https://profiles.viictr.org/profile/266520). Functional microRNA involved in endometriosis. Mol Endocrinol. 2011 May; 25(5):821-32. PMID: [21436257](//www.ncbi.nlm.nih.gov/pubmed/21436257); PMCID: [PMC3082329](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3082329).
+
+Citations:
+[103](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21436257/citedby/)
+Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  89. Zhang L, Sullivan PS, [Goodman JC](https://profiles.viictr.org/profile/267518), **Gunaratne PH** , Marchetti D. MicroRNA-1258 suppresses breast cancer brain metastasis by targeting heparanase. Cancer Res. 2011 Feb 01; 71(3):645-54. PMID: [21266359](//www.ncbi.nlm.nih.gov/pubmed/21266359); PMCID: [PMC3078691](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3078691).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21266359/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  90. Buchold GM, [Coarfa C](https://profiles.viictr.org/profile/265668), Kim J, [Milosavljevic A](https://profiles.viictr.org/profile/268148), **Gunaratne PH** , [Matzuk MM](https://profiles.viictr.org/profile/266520). Analysis of microRNA expression in the prepubertal testis. PLoS One. 2010 Dec 29; 5(12):e15317. PMID: [21206922](//www.ncbi.nlm.nih.gov/pubmed/21206922); PMCID: [PMC3012074](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3012074).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21206922/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  91. Gunaratne GH, **Gunaratne PH** , Seemann L, T?r?k A. Using effective subnetworks to predict selected properties of gene networks. PLoS One. 2010 Oct 08; 5(10):e13080. PMID: [20949025](//www.ncbi.nlm.nih.gov/pubmed/20949025); PMCID: [PMC2951892](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2951892).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20949025/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  92. Polikepahad S, [Knight JM](https://profiles.viictr.org/profile/18856558), Naghavi AO, Oplt T, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Shaw C](https://profiles.viictr.org/profile/269433), Benham AL, Kim J, Soibam B, Harris RA, [Coarfa C](https://profiles.viictr.org/profile/265668), Zariff A, [Milosavljevic A](https://profiles.viictr.org/profile/268148), Batts LM, [Kheradmand F](https://profiles.viictr.org/profile/270223), **Gunaratne PH** , [Corry DB](https://profiles.viictr.org/profile/269165). Proinflammatory role for let-7 microRNAS in experimental asthma. J Biol Chem. 2010 Sep 24; 285(39):30139-49. PMID: [20630862](//www.ncbi.nlm.nih.gov/pubmed/20630862); PMCID: [PMC2943272](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2943272).
+
+Citations:
+[108](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20630862/citedby/)
+Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimals
+
+  93. Dejosez M, Levine SS, Frampton GM, Whyte WA, Stratton SA, [Barton MC](https://profiles.viictr.org/profile/12583364), **Gunaratne PH** , Young RA, Zwaka TP. Ronin/Hcf-1 binds to a hyperconserved enhancer element and regulates genes involved in the growth of embryonic stem cells. Genes Dev. 2010 Jul 15; 24(14):1479-84. PMID: [20581084](//www.ncbi.nlm.nih.gov/pubmed/20581084); PMCID: [PMC2904937](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2904937).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20581084/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  94. Warren WC, Clayton DF, Ellegren H, Arnold AP, Hillier LW, Searle S, White S, Vilella AJ, Fairley S, Heger A, Kong L, Ponting CP, Jarvis ED, Mello CV, Minx P, Lovell P, Velho TA, Ferris M, Balakrishnan CN, Sinha S, Blatti C, London SE, Li Y, Lin YC, George J, Sweedler J, Southey B, **Gunaratne P** , Watson M, Nam K, Smeds L, Nabholz B, Itoh Y, Whitney O, Pfenning AR, Howard J, Skinner BM, Griffin DK, Ye L, McLaren WM, Flicek P, Quesada V, Velasco G, Lopez-Otin C, Puente XS, Olender T, Lancet D, Smit AF, Hubley R, Konkel MK, Walker JA, Batzer MA, Gu W, Pollock DD, Chen L, Cheng Z, Eichler EE, Stapley J, Slate J, Ekblom R, Birkhead T, Burke T, Burt D, Scharff C, Adam I, Richard H, Sultan M, Soldatov A, Lehrach H, Edwards SV, Yang SP, Li X, Graves T, Fulton L, Nelson J, Chinwalla A, Hou S, Mardis ER, Wilson RK, K?nstner A, Backstr?m N, V?lker M. The genome of a songbird. Nature. 2010 Apr 01; 464(7289):757-62. PMID: [20360741](//www.ncbi.nlm.nih.gov/pubmed/20360741); PMCID: [PMC3187626](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3187626).
+
+Citations:
+[371](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20360741/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  95. [Creighton CJ](https://profiles.viictr.org/profile/265729), Benham AL, Zhu H, Khan MF, Reid JG, Nagaraja AK, Fountain MD, Dziadek O, Han D, Ma L, Kim J, [Hawkins SM](https://profiles.viictr.org/profile/267635), Anderson ML, [Matzuk MM](https://profiles.viictr.org/profile/266520), **Gunaratne PH**. Discovery of novel microRNAs in female reproductive tract using next generation sequencing. PLoS One. 2010 Mar 10; 5(3):e9637. PMID: [20224791](//www.ncbi.nlm.nih.gov/pubmed/20224791); PMCID: [PMC2835764](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2835764).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20224791/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  96. Zhu H, **Gunaratne PH** , Roman GW, Gunaratne GH. A theory for the arrangement of sensory organs in Drosophila. Chaos. 2010 Mar; 20(1):013132. PMID: [20370287](//www.ncbi.nlm.nih.gov/pubmed/20370287).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20370287/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  97. [Creighton CJ](https://profiles.viictr.org/profile/265729), Fountain MD, Yu Z, Nagaraja AK, Zhu H, Khan M, Olokpa E, Zariff A, **Gunaratne PH** , [Matzuk MM](https://profiles.viictr.org/profile/266520), Anderson ML. Molecular profiling uncovers a p53-associated role for microRNA-31 in inhibiting the proliferation of serous ovarian carcinomas and other cancers. Cancer Res. 2010 Mar 01; 70(5):1906-15. PMID: [20179198](//www.ncbi.nlm.nih.gov/pubmed/20179198); PMCID: [PMC2831102](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2831102).
+
+Citations:
+[127](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20179198/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  98. Greene SB, **Gunaratne PH** , Hammond SM, [Rosen JM](https://profiles.viictr.org/profile/267640). A putative role for microRNA-205 in mammary epithelial cell progenitors. J Cell Sci. 2010 Feb 15; 123(Pt 4):606-18. PMID: [20103531](//www.ncbi.nlm.nih.gov/pubmed/20103531); PMCID: [PMC2818197](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2818197).
+
+Citations:
+[75](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20103531/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  99. Nagaraja AK, [Creighton CJ](https://profiles.viictr.org/profile/265729), Yu Z, Zhu H, **Gunaratne PH** , Reid JG, Olokpa E, Itamochi H, [Ueno NT](https://profiles.viictr.org/profile/12582890), [Hawkins SM](https://profiles.viictr.org/profile/267635), Anderson ML, [Matzuk MM](https://profiles.viictr.org/profile/266520). A link between mir-100 and FRAP1/mTOR in clear cell ovarian cancer. Mol Endocrinol. 2010 Feb; 24(2):447-63. PMID: [20081105](//www.ncbi.nlm.nih.gov/pubmed/20081105); PMCID: [PMC2817607](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2817607).
+
+Citations:
+[102](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20081105/citedby/)
+Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  100. **Gunaratne PH** , [Creighton CJ](https://profiles.viictr.org/profile/265729), Watson M, Tennakoon JB. Large-scale integration of MicroRNA and gene expression data for identification of enriched microRNA-mRNA associations in biological systems. Methods Mol Biol. 2010; 667:297-315. PMID: [20827542](//www.ncbi.nlm.nih.gov/pubmed/20827542).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20827542/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  101. Wang Y, Brahmakshatriya V, Zhu H, Lupiani B, Reddy SM, Yoon BJ, **Gunaratne PH** , Kim JH, Chen R, Wang J, Zhou H. Identification of differentially expressed miRNAs in chicken lung and trachea with avian influenza virus infection by a deep sequencing approach. BMC Genomics. 2009 Nov 05; 10:512. PMID: [19891781](//www.ncbi.nlm.nih.gov/pubmed/19891781); PMCID: [PMC2777939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2777939).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19891781/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  102. Wang X, [Sutton VR](https://profiles.viictr.org/profile/269795), [Eble TN](https://profiles.viictr.org/profile/267869), Lewis RA, **Gunaratne P** , Patel A, [Van den Veyver IB](https://profiles.viictr.org/profile/266526). A genome-wide screen for copy number alterations in Aicardi syndrome. Am J Med Genet A. 2009 Oct; 149A(10):2113-21. PMID: [19760649](//www.ncbi.nlm.nih.gov/pubmed/19760649); PMCID: [PMC3640635](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3640635).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19760649/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  103. MGC Project Team, Temple G, Gerhard DS, Rasooly R, Feingold EA, Good PJ, Robinson C, Mandich A, Derge JG, Lewis J, Shoaf D, Collins FS, Jang W, Wagner L, Shenmen CM, Misquitta L, Schaefer CF, Buetow KH, Bonner TI, Yankie L, Ward M, Phan L, Astashyn A, Brown G, Farrell C, Hart J, Landrum M, Maidak BL, Murphy M, Murphy T, Rajput B, Riddick L, Webb D, Weber J, Wu W, Pruitt KD, Maglott D, Siepel A, Brejova B, Diekhans M, Harte R, Baertsch R, Kent J, Haussler D, Brent M, Langton L, Comstock CL, Stevens M, Wei C, van Baren MJ, Salehi-Ashtiani K, Murray RR, Ghamsari L, Mello E, Lin C, Pennacchio C, Schreiber K, Shapiro N, Marsh A, Pardes E, Moore T, Lebeau A, Muratet M, Simmons B, Kloske D, Sieja S, Hudson J, Sethupathy P, Brownstein M, Bhat N, Lazar J, Jacob H, Gruber CE, Smith MR, McPherson J, Garcia AM, **Gunaratne PH** , Wu J, [Muzny D](https://profiles.viictr.org/profile/268028), Gibbs RA, Young AC, Bouffard GG, Blakesley RW, Mullikin J, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Hirst M, Zeng T, Tse K, Moksa M, Deng M, Ma K, Mah D, Pang J, Taylor G, Chuah E, Deng A, Fichter K, Go A, Lee S, Wang J, Griffith M, Morin R, Moore RA, Mayo M, Munro S, Wagner S, Jones SJ, Holt RA, Marra MA, Lu S, Yang S, Hartigan J, Graf M, Wagner R, Letovksy S, Pulido JC, Robison K, Esposito D, Hartley J, Wall VE, Hopkins RF, Ohara O, Wiemann S. The completion of the Mammalian Gene Collection (MGC). Genome Res. 2009 Dec; 19(12):2324-33. PMID: [19767417](//www.ncbi.nlm.nih.gov/pubmed/19767417); PMCID: [PMC2792178](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2792178).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19767417/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimals
+
+  104. Ma L, Buchold GM, Greenbaum MP, [Roy A](https://profiles.viictr.org/profile/268647), Burns KH, Zhu H, Han DY, Harris RA, [Coarfa C](https://profiles.viictr.org/profile/265668), **Gunaratne PH** , Yan W, [Matzuk MM](https://profiles.viictr.org/profile/266520). GASZ is essential for male meiosis and suppression of retrotransposon expression in the male germline. PLoS Genet. 2009 Sep; 5(9):e1000635. PMID: [19730684](//www.ncbi.nlm.nih.gov/pubmed/19730684); PMCID: [PMC2727916](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2727916).
+
+Citations:
+[92](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19730684/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  105. **Gunaratne PH**. Embryonic stem cell microRNAs: defining factors in induced pluripotent (iPS) and cancer (CSC) stem cells? Curr Stem Cell Res Ther. 2009 Sep; 4(3):168-77. PMID: [19492978](//www.ncbi.nlm.nih.gov/pubmed/19492978).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19492978/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  106. [Creighton CJ](https://profiles.viictr.org/profile/265729), Reid JG, **Gunaratne PH**. Expression profiling of microRNAs by deep sequencing. Brief Bioinform. 2009 Sep; 10(5):490-7. PMID: [19332473](//www.ncbi.nlm.nih.gov/pubmed/19332473); PMCID: [PMC2733187](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2733187).
+
+Citations:
+[126](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19332473/citedby/)
+Fields:
+
+Com Computational Biology
+
+Translation:HumansAnimalsCells
+
+  107. [Adesina AM](https://profiles.viictr.org/profile/268657), [Lopez-Terrada D](https://profiles.viictr.org/profile/266283), [Wong KK](https://profiles.viictr.org/profile/12583480), **Gunaratne P** , Nguyen Y, Pulliam J, [Margolin J](https://profiles.viictr.org/profile/268091), [Finegold MJ](https://profiles.viictr.org/profile/269596). Gene expression profiling reveals signatures characterizing histologic subtypes of hepatoblastoma and global deregulation in cell growth and survival pathways. Hum Pathol. 2009 Jun; 40(6):843-53. PMID: [19200578](//www.ncbi.nlm.nih.gov/pubmed/19200578); PMCID: [PMC2957366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2957366).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19200578/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  108. **Gunaratne PH** , [Adesina AM](https://profiles.viictr.org/profile/268657), Pulliam J, Hoang DM, Nguyen Y, Mistretta TA, [Margolin J](https://profiles.viictr.org/profile/268091), [Finegold MJ](https://profiles.viictr.org/profile/269596), L?pez-Terrada D. Histologic subtypes of hepatoblastoma are characterized by differential canonical Wnt and Notch pathway activation in DLK+ precursors. Hum Pathol. 2009 Jun; 40(6):783-94. PMID: [19200579](//www.ncbi.nlm.nih.gov/pubmed/19200579).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19200579/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  109. [Creighton CJ](https://profiles.viictr.org/profile/265729), Nagaraja AK, [Hanash SM](https://profiles.viictr.org/profile/12583618), [Matzuk MM](https://profiles.viictr.org/profile/266520), **Gunaratne PH**. A bioinformatics tool for linking gene expression profiling results with public databases of microRNA target predictions. RNA. 2008 Nov; 14(11):2290-6. PMID: [18812437](//www.ncbi.nlm.nih.gov/pubmed/18812437); PMCID: [PMC2578856](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2578856).
+
+Citations:
+[85](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18812437/citedby/) Fields:
+
+Mol Molecular Biology
+
+  110. Nagaraja AK, Andreu-Vieyra C, Franco HL, Ma L, Chen R, Han DY, Zhu H, Agno JE, **Gunaratne PH** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Matzuk MM](https://profiles.viictr.org/profile/266520). Deletion of Dicer in somatic cells of the female reproductive tract causes sterility. Mol Endocrinol. 2008 Oct; 22(10):2336-52. PMID: [18687735](//www.ncbi.nlm.nih.gov/pubmed/18687735); PMCID: [PMC2582529](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2582529).
+
+Citations:
+[125](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18687735/citedby/)
+Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  111. Reid JG, Nagaraja AK, Lynn FC, Drabek RB, [Muzny DM](https://profiles.viictr.org/profile/268028), [Shaw CA](https://profiles.viictr.org/profile/269433), Weiss MK, Naghavi AO, Khan M, Zhu H, Tennakoon J, Gunaratne GH, [Corry DB](https://profiles.viictr.org/profile/269165), Miller J, McManus MT, German MS, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Matzuk MM](https://profiles.viictr.org/profile/266520), **Gunaratne PH**. Mouse let-7 miRNA populations exhibit RNA editing that is constrained in the 5'-seed/ cleavage/anchor regions and stabilize predicted mmu-let-7a:mRNA duplexes. Genome Res. 2008 Oct; 18(10):1571-81. PMID: [18614752](//www.ncbi.nlm.nih.gov/pubmed/18614752); PMCID: [PMC2556275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2556275).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18614752/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  112. Gu P, Reid JG, Gao X, [Shaw CA](https://profiles.viictr.org/profile/269433), [Creighton C](https://profiles.viictr.org/profile/265729), Tran PL, Zhou X, Drabek RB, Steffen DL, Hoang DM, Weiss MK, Naghavi AO, El-daye J, Khan MF, Legge GB, [Wheeler DA](https://profiles.viictr.org/profile/266937), [Gibbs RA](https://profiles.viictr.org/profile/269695), Miller JN, Cooney AJ, **Gunaratne PH**. Novel microRNA candidates and miRNA-mRNA pairs in embryonic stem (ES) cells. PLoS One. 2008 Jul 02; 3(7):e2548. PMID: [18648548](//www.ncbi.nlm.nih.gov/pubmed/18648548); PMCID: [PMC2481296](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2481296).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18648548/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  113. [Muzny DM](https://profiles.viictr.org/profile/268028), [Scherer SE](https://profiles.viictr.org/profile/266857), Kaul R, Wang J, Yu J, Sudbrak R, Buhay CJ, [Chen R](https://profiles.viictr.org/profile/266790), Cree A, [Ding Y](https://profiles.viictr.org/profile/38231751), Dugan-Rocha S, Gill R, **Gunaratne P** , Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, [Milosavljevic A](https://profiles.viictr.org/profile/268148), Miner GR, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Wei S, [Wheeler DA](https://profiles.viictr.org/profile/266937), Wright MW, [Worley KC](https://profiles.viictr.org/profile/266909), Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clendenning J, Clerc-Blankenburg KP, Chen R, Chen Z, Davis C, Delgado O, Dinh HH, Dong W, Draper H, Ernst S, Fu G, Gonzalez-Garay ML, Garcia DK, Gillett W, Gu J, Hao B, Haugen E, Havlak P, He X, Hennig S, Hu S, Huang W, Jackson LR, Jacob LS, Kelly SH, Kube M, Levy R, Li Z, Liu B, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Palmeiri A, Pasternak S, Perez LM, Phelps KA, Plopper FJ, Qiang B, Raymond C, Rodriguez R, Saenphimmachak C, Santibanez J, Shen H, Shen Y, Subramanian S, Tabor PE, Verduzco D, Waldron L, Wang J, Wang J, Wang Q, Williams GA, Wong GK, Yao Z, Zhang J, Zhang X, Zhao G, Zhou J, Zhou Y, Nelson D, Lehrach H, Reinhardt R, Naylor SL, Yang H, Olson M, Weinstock G, [Gibbs RA](https://profiles.viictr.org/profile/269695). The DNA sequence, annotation and analysis of human chromosome 3. Nature. 2006 Apr 27; 440(7088):1194-8. PMID: [16641997](//www.ncbi.nlm.nih.gov/pubmed/16641997).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16641997/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  114. [Scherer SE](https://profiles.viictr.org/profile/266857), [Muzny DM](https://profiles.viictr.org/profile/268028), Buhay CJ, [Chen R](https://profiles.viictr.org/profile/266790), Cree A, [Ding Y](https://profiles.viictr.org/profile/38231751), Dugan-Rocha S, Gill R, **Gunaratne P** , Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, [Milosavljevic A](https://profiles.viictr.org/profile/268148), Miner GR, Montgomery KT, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Lovering RC, [Wheeler DA](https://profiles.viictr.org/profile/266937), [Worley KC](https://profiles.viictr.org/profile/266909), [Yuan Y](https://profiles.viictr.org/profile/12582711), Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clerc-Blankenburg KP, Davis C, Delgado O, Dinh HH, Draper H, Gonzalez-Garay ML, Havlak P, Jackson LR, Jacob LS, Kelly SH, Li L, Li Z, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Pasternak S, Perez LM, Plopper FJ, Santibanez J, Shen H, Tabor PE, Verduzco D, Waldron L, Wang Q, Williams GA, Zhang J, Zhou J, Allen CC, Amin AG, Anyalebechi V, Bailey M, Barbaria JA, Bimage KE, Bryant NP, Burch PE, Burkett CE, Burrell KL, Calderon E, Cardenas V, Carter K, Casias K, Cavazos I, Cavazos SR, Ceasar H, Chacko J, Chan SN, Chavez D, Christopoulos C, Chu J, Cockrell R, Cox CD, Dang M, Dathorne SR, David R, Davis CM, Davy-Carroll L, Deshazo DR, Donlin JE, D'Souza L, Eaves KA, Emery-Cohen AJ, Escotto M, Flagg N, Forbes LD, Gabisi AM, Garza M, Hamilton C, Henderson N, Hernandez O, Hines S, Hogues ME, Huang M, Idlebird DG, Johnson R, Jolivet A, Jones S, Kagan R, King LM, Leal B, Lebow H, Lee S, LeVan JM, Lewis LC, London P, Lorensuhewa LM, Loulseged H, Lovett DA, Lucier A, Lucier RL, Ma J, Madu RC, Mapua P, Martindale AD, Martinez E, Massey E, Mawhiney S, Meador MG, Mendez S, Mercado C, Mercado IC, Merritt CE, Miner ZL, Minja E, Mitchell T, Mohabbat F, Mohabbat K, Montgomery B, Moore N, Morris S, Munidasa M, Ngo RN, Nguyen NB, Nickerson E, Nwaokelemeh OO, Nwokenkwo S, Obregon M, Oguh M, Oragunye N, Oviedo RJ, Parish BJ, Parker DN, Parrish J, Parks KL, Paul HA, Payton BA, Perez A, Perrin W, Pickens A, Primus EL, Pu LL, Puazo M, Quiles MM, Quiroz JB, Rabata D, Reeves K, Ruiz SJ, Shao H, Sisson I, Sonaike T, Sorelle RP, Sutton AE, Svatek AF, Svetz LA, Tamerisa KS, Taylor TR, Teague B, Thomas N, Thorn RD, Trejos ZY, Trevino BK, Ukegbu ON, Urban JB, Vasquez LI, Vera VA, Villasana DM, Wang L, Ward-Moore S, Warren JT, Wei X, White F, Williamson AL, Wleczyk R, Wooden HS, Wooden SH, [Yen J](https://profiles.viictr.org/profile/268270), Yoon L, Yoon V, Zorrilla SE, [Nelson D](https://profiles.viictr.org/profile/269694), Kucherlapati R, Weinstock G, [Gibbs RA](https://profiles.viictr.org/profile/269695), Baylor College of Medicine Human Genome Sequencing Center Sequence Production Team, Simons R. The finished DNA sequence of human chromosome 12. Nature. 2006 03 16; 440(7082):346-51. PMID: [16541075](//www.ncbi.nlm.nih.gov/pubmed/16541075).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16541075/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  115. Bowman TV, McCooey AJ, Merchant AA, [Ramos CA](https://profiles.viictr.org/profile/267038), Fonseca P, Poindexter A, Bradfute SB, Oliveira DM, Green R, Zheng Y, Jackson KA, Chambers SM, McKinney-Freeman SL, Norwood KG, Darlington G, **Gunaratne PH** , Steffen D, [Goodell MA](https://profiles.viictr.org/profile/269806). Differential mRNA processing in hematopoietic stem cells. Stem Cells. 2006 Mar; 24(3):662-70. PMID: [16373690](//www.ncbi.nlm.nih.gov/pubmed/16373690).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16373690/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  116. Al-Lamki Z, Wali YA, Wasifuddin SM, Zachariah M, Al-Mjeni R, Li C, Muralitharan S, Al-Kharusi K, **Gunaratne P** , Peterson L, Gibbs R, [Gingras MC](https://profiles.viictr.org/profile/266579), [Margolin JF](https://profiles.viictr.org/profile/268091). Identification of prognosis markers in pediatric high-risk acute lymphoblastic leukemia. Pediatr Hematol Oncol. 2005 Oct-Nov; 22(7):629-43. PMID: [16166056](//www.ncbi.nlm.nih.gov/pubmed/16166056).
+
+Citations:  Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:HumansCTClinical Trials
+
+  117. Ross MT, Grafham DV, Coffey AJ, [Scherer S](https://profiles.viictr.org/profile/266857), McLay K, [Muzny D](https://profiles.viictr.org/profile/268028), Platzer M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL, Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME, Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R, Carter NP, Hunt SE, [Chen R](https://profiles.viictr.org/profile/266790), Cree A, **Gunaratne P** , Havlak P, Hodgson A, Metzker ML, [Richards S](https://profiles.viictr.org/profile/266888), Scott G, Steffen D, Sodergren E, [Wheeler DA](https://profiles.viictr.org/profile/266937), [Worley KC](https://profiles.viictr.org/profile/266909), Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S, Ashwell RI, Babbage AK, Bagguley CL, [Ballabio A](https://profiles.viictr.org/profile/266220), Banerjee R, Barker GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O, Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P, Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z, Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S, Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS, Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O, Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H, Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T, Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R, Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S, Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK, Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM, Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J, Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN, Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S, Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG, Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD, Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K, Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M, Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L, Woodmansey RL, Wray PW, [Yen J](https://profiles.viictr.org/profile/268270), Zhang J, Zhou J, [Zoghbi H](https://profiles.viictr.org/profile/267945), Zorilla S, Buck D, Reinhardt R, Poustka A, Lehrach H, Meindl A, Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM, Vaudin M, Coulson A, [Nelson DL](https://profiles.viictr.org/profile/269694), Weinstock G, Sulston JE, Durbin R, Hubbard T, [Gibbs RA](https://profiles.viictr.org/profile/269695), Beck S, Rogers J, Bentley DR, Gl?ckner G, M?ller I, Rosenthal A. The DNA sequence of the human X chromosome. Nature. 2005 Mar 17; 434(7031):325-37. PMID: [15772651](//www.ncbi.nlm.nih.gov/pubmed/15772651); PMCID: [PMC2665286](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2665286).
+
+Citations:
+[433](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15772651/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  118. **Gunaratne PH**. Advances in genome biology and technology. Expert Rev Mol Diagn. 2004 Nov; 4(6):757-60. PMID: [15525218](//www.ncbi.nlm.nih.gov/pubmed/15525218).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  119. Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, **Gunaratne PH** , Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, [Muzny DM](https://profiles.viictr.org/profile/268028), McPherson J, [Gibbs RA](https://profiles.viictr.org/profile/269695), Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Morrin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J, MGC Project Team. The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct; 14(10B):2121-7. PMID: [15489334](//www.ncbi.nlm.nih.gov/pubmed/15489334); PMCID: [PMC528928](//www.ncbi.nlm.nih.gov/pmc/articles/PMC528928).
+
+Citations:
+[234](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15489334/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:HumansAnimals
+
+  120. Wu JQ, Garcia AM, Hulyk S, Sneed A, Kowis C, Yuan Y, Steffen D, McPherson JD, **Gunaratne PH** , [Gibbs RA](https://profiles.viictr.org/profile/269695). Large-scale RT-PCR recovery of full-length cDNA clones. Biotechniques. 2004 Apr; 36(4):690-6, 698-700. PMID: [15088387](//www.ncbi.nlm.nih.gov/pubmed/15088387).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15088387/citedby/) Fields:
+
+Bio Biotechnology
+
+  121. **Gunaratne PH** , Wu JQ, Garcia AM, Hulyk S, [Worley KC](https://profiles.viictr.org/profile/266909), [Margolin JF](https://profiles.viictr.org/profile/268091), [Gibbs RA](https://profiles.viictr.org/profile/269695). Concatenation cDNA sequencing for transcriptome analysis. C R Biol. 2003 Oct-Nov; 326(10-11):971-7. PMID: [14744103](//www.ncbi.nlm.nih.gov/pubmed/14744103).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14744103/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansCells
+
+  122. Strausberg RL, Feingold EA, Grouse LH, Derge JG, Klausner RD, Collins FS, Wagner L, Shenmen CM, Schuler GD, Altschul SF, Zeeberg B, Buetow KH, Schaefer CF, Bhat NK, Hopkins RF, Jordan H, Moore T, Max SI, Wang J, Hsieh F, Diatchenko L, Marusina K, Farmer AA, Rubin GM, Hong L, Stapleton M, Soares MB, Bonaldo MF, Casavant TL, Scheetz TE, Brownstein MJ, Usdin TB, Toshiyuki S, Carninci P, Prange C, Raha SS, Loquellano NA, Peters GJ, Abramson RD, Mullahy SJ, Bosak SA, McEwan PJ, McKernan KJ, Malek JA, **Gunaratne PH** , [Richards S](https://profiles.viictr.org/profile/266888), [Worley KC](https://profiles.viictr.org/profile/266909), Hale S, Garcia AM, Gay LJ, Hulyk SW, Villalon DK, [Muzny DM](https://profiles.viictr.org/profile/268028), Sodergren EJ, Lu X, [Gibbs RA](https://profiles.viictr.org/profile/269695), Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madan A, Young AC, Shevchenko Y, Bouffard GG, Blakesley RW, Touchman JW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Krzywinski MI, Skalska U, Smailus DE, Schnerch A, Schein JE, Jones SJ, Marra MA, Mammalian Gene Collection Program Team. Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences. Proc Natl Acad Sci U S A. 2002 Dec 24; 99(26):16899-903. PMID: [12477932](//www.ncbi.nlm.nih.gov/pubmed/12477932); PMCID: [PMC139241](//www.ncbi.nlm.nih.gov/pmc/articles/PMC139241).
+
+Citations:
+[612](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12477932/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 122 publications over 22 distinct years, with a maximum of
+11 publications in
+2010](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|11&cht=bvs&chd=t:0,0,0,0,0,0,0,0,9,9,27,27,18,0,36,73,100,55,55,82,64,36,82,45,73,73,64,45,27,64,45&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 1  
+2003| 1  
+2004| 3  
+2005| 3  
+2006| 2  
+2008| 4  
+2009| 8  
+2010| 11  
+2011| 6  
+2012| 6  
+2013| 9  
+2014| 7  
+2015| 4  
+2016| 9  
+2017| 5  
+2018| 8  
+2019| 8  
+2020| 7  
+2021| 5  
+2022| 3  
+2023| 7  
+2024| 5  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+GUNARATNE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (631)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [MicroRNAs](https://profiles.viictr.org/profile/260697)
+  * [Sequence Analysis, RNA](https://profiles.viictr.org/profile/239887)
+  * [Embryonic Stem Cells](https://profiles.viictr.org/profile/255920)
+  * [Gene Expression Profiling](https://profiles.viictr.org/profile/242491)
+  * [Cell Movement](https://profiles.viictr.org/profile/240323)
+
+[Explore](https://profiles.viictr.org/profile/268142/198)
+
+_
+
+Co-Authors (129)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [COARFA, CRISTIAN](https://profiles.viictr.org/profile/265668)
+  * [CREIGHTON, CHAD](https://profiles.viictr.org/profile/265729)
+  * [MATZUK, MARTIN](https://profiles.viictr.org/profile/266520)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [BEDROSIAN, ISABELLE](https://profiles.viictr.org/profile/12583007)
+
+[Explore](https://profiles.viictr.org/profile/268142/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [CREIGHTON, CHAD](https://profiles.viictr.org/profile/265729)
+
+[Explore](https://profiles.viictr.org/profile/268142/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRINKLEY, BILL R.](https://profiles.viictr.org/profile/267367)
+  * [EAGEN, KYLE](https://profiles.viictr.org/profile/35825276)
+  * [JOHNSON, DEBORAH](https://profiles.viictr.org/profile/5099685)
+  * [MEANS, ANTHONY](https://profiles.viictr.org/profile/269994)
+  * [SRIVASTAVA, ROHIT](https://profiles.viictr.org/profile/30426461)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BRINKLEY, BILL R.](https://profiles.viictr.org/profile/267367)
+  * [DACSO, CLIFFORD](https://profiles.viictr.org/profile/266413)
+  * [KIM, JEAN](https://profiles.viictr.org/profile/3494074)
+  * [SCHWARTZ, ROBERT](https://profiles.viictr.org/profile/267508)
+  * [TSAI, SOPHIA](https://profiles.viictr.org/profile/266552)
+
+_
+

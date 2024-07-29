@@ -1,0 +1,377 @@
+## DAVID HILMERS
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 1504 TAUB LOOP  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=MqM57WjCMpjVRIzgrn7GPw%3d%3d&rnd=02847fcf-e0ce-4eb4-ab6f-6efbc048f732)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266782)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=266782&cachekey=36826b62-35b3-45a3-a6be-f1c110768c43)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Center for Space Medicine  
+Division| Center for Space Medicine  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Division| Pediatrics-Academic General  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Kreykes AJ, Suresh R, [Levin D](https://profiles.viictr.org/profile/39011929), **Hilmers DC**. Selecting Medical Conditions Relevant to Exploration Spaceflight to Create the IMPACT 1.0 Medical Condition List. Aerosp Med Hum Perform. 2023 Jul 01; 94(7):550-557. PMID: [37349929](//www.ncbi.nlm.nih.gov/pubmed/37349929).
+
+Citations:  Fields:
+
+Aer Aerospace Medicine
+
+Translation:Humans
+
+  2. Russell BK, Burian BK, **Hilmers DC** , Beard BL, Martin K, Pletcher DL, Easter B, [Lehnhardt K](https://profiles.viictr.org/profile/23479010), [Levin D](https://profiles.viictr.org/profile/39011929). The value of a spaceflight clinical decision support system for earth-independent medical operations. NPJ Microgravity. 2023 Jun 21; 9(1):46. PMID: [37344482](//www.ncbi.nlm.nih.gov/pubmed/37344482); PMCID: [PMC10284846](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10284846).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37344482/citedby/)
+
+  3. [Levin DR](https://profiles.viictr.org/profile/39011929), Steller J, Anderson A, Lemery J, Easter B, **Hilmers DC** , [Lehnhardt KR](https://profiles.viictr.org/profile/23479010). Enabling Human Space Exploration Missions Through Progressively Earth Independent Medical Operations (EIMO). IEEE Open J Eng Med Biol. 2023; 4:162-167. PMID: [38274774](//www.ncbi.nlm.nih.gov/pubmed/38274774); PMCID: [PMC10810302](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10810302).
+
+Citations:
+
+  4. [Vogel TP](https://profiles.viictr.org/profile/18883198), Top KA, Karatzios C, **Hilmers DC** , Wood N, Chandler RE, Klein NP, Schlaudecker EP, [Muscal E](https://profiles.viictr.org/profile/270252), Munoz FM, Tapia LI, Moceri P, Giovannini-Chami L, Poli MC. Multisystem inflammatory syndrome in children and adults (MIS-C/A): Case definition & guidelines for data collection, analysis, and presentation of immunization safety data. Vaccine. 2021 05 21; 39(22):3037-3049. PMID: [33640145](//www.ncbi.nlm.nih.gov/pubmed/33640145); PMCID: [PMC7904456](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7904456).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33640145/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCellsPHPublic Health
+
+  5. Lee AU, Mair L, Kevin B, Gandi L, Tarumuri O, Lee C, Huntley S, **Hilmers DC**. Prevalence of chronic hepatitis B in Oro Province, Papua New Guinea. Western Pac Surveill Response J. 2020 Oct-Dec; 11(4):6-9. PMID: [34046236](//www.ncbi.nlm.nih.gov/pubmed/34046236); PMCID: [PMC8152820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8152820).
+
+Citations:  Fields:
+
+Epi EpidemiologyPub Public Health
+
+Translation:Humans
+
+  6. Lee AU, Jackson K, Tekoaua R, Lee C, Huntley MS, **Hilmers DC**. A programme to treat chronic hepatitis B in Kiribati: progress and challenges. Western Pac Surveill Response J. 2020 Jul-Sep; 11(3):21-25. PMID: [33936856](//www.ncbi.nlm.nih.gov/pubmed/33936856); PMCID: [PMC8053900](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8053900).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33936856/citedby/) Fields:
+
+Epi EpidemiologyPub Public Health
+
+Translation:Humans
+
+  7. Lee AU, Linton H, Kilsby M, **Hilmers DC**. A Program to Treat Hepatitis B in North Korea: A Model of Antiviral Therapy in a Resource-Poor Setting. Gut Liver. 2018 11 15; 12(6):615-622. PMID: [30157545](//www.ncbi.nlm.nih.gov/pubmed/30157545); PMCID: [PMC6254628](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6254628).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30157545/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  8. Angeles-Agdeppa I, Magsadia CR, Aaron GJ, Lloyd BB, **Hilmers DC** , Bhutta ZA. A Micronutrient Fortified Beverage Given at Different Dosing Frequencies Had Limited Impact on Anemia and Micronutrient Status in Filipino Schoolchildren. Nutrients. 2017 Sep 12; 9(9). PMID: [28895887](//www.ncbi.nlm.nih.gov/pubmed/28895887); PMCID: [PMC5622762](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5622762).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28895887/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Humans
+
+  9. Hilmers A, **Hilmers DC** , [Dave J](https://profiles.viictr.org/profile/266197). Neighborhood disparities in access to healthy foods and their effects on environmental justice. Am J Public Health. 2012 Sep; 102(9):1644-54. PMID: [22813465](//www.ncbi.nlm.nih.gov/pubmed/22813465); PMCID: [PMC3482049](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3482049).
+
+Citations:
+[141](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22813465/citedby/)
+Fields:
+
+Pub Public Health
+
+Translation:Humans
+
+  10. Park J, **Hilmers DC** , Mendoza JA, Stuff JE, [Liu Y](https://profiles.viictr.org/profile/20310272), [Nicklas TA](https://profiles.viictr.org/profile/265809). Prevalence of metabolic syndrome and obesity in adolescents aged 12 to 19 years: comparison between the United States and Korea. J Korean Med Sci. 2010 Jan; 25(1):75-82. PMID: [20052351](//www.ncbi.nlm.nih.gov/pubmed/20052351); PMCID: [PMC2800028](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2800028).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20052351/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  11. Hettiarachchi M, Liyanage C, **Hilmers D** , Griffin I, Abrams SA. Changing the zinc:iron ratio in a cereal-based nutritional supplement has no effect on percent absorption of iron and zinc in Sri Lankan children. Br J Nutr. 2010 Apr; 103(7):1015-22. PMID: [19889243](//www.ncbi.nlm.nih.gov/pubmed/19889243).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19889243/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  12. Abrams SA, **Hilmers DC**. Postnatal vitamin A supplementation in developing countries: an intervention whose time has come? Pediatrics. 2008 Jul; 122(1):180-1. PMID: [18596001](//www.ncbi.nlm.nih.gov/pubmed/18596001).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18596001/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  13. Doherty CP, Cox SE, Fulford AJ, Austin S, **Hilmers DC** , Abrams SA, Prentice AM. Iron incorporation and post-malaria anaemia. PLoS One. 2008 May 07; 3(5):e2133. PMID: [18461143](//www.ncbi.nlm.nih.gov/pubmed/18461143); PMCID: [PMC2330157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2330157).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18461143/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  14. Park J, Mendoza JA, O'Neil CE, **Hilmers DC** , [Liu Y](https://profiles.viictr.org/profile/20310272), [Nicklas TA](https://profiles.viictr.org/profile/265809). A comparison of the prevalence of the metabolic syndrome in the United States (US) and Korea in young adults aged 20 to 39 years. Asia Pac J Clin Nutr. 2008; 17(3):471-82. PMID: [18818169](//www.ncbi.nlm.nih.gov/pubmed/18818169).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18818169/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Humans
+
+  15. Hettiarachchi M, Liyanage C, Wickremasinghe R, **Hilmers DC** , Abrams SA. The efficacy of micronutrient supplementation in reducing the prevalence of anaemia and deficiencies of zinc and iron among adolescents in Sri Lanka. Eur J Clin Nutr. 2008 Jul; 62(7):856-65. PMID: [17522609](//www.ncbi.nlm.nih.gov/pubmed/17522609).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17522609/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Humans
+
+  16. Abrams SA, **Hilmers DC**. Improving rehydration solutions with human milk proteins: are the benefits worth the challenges? J Pediatr Gastroenterol Nutr. 2007 Mar; 44(3):298-9. PMID: [17325548](//www.ncbi.nlm.nih.gov/pubmed/17325548).
+
+Citations:  Fields:
+
+Gas GastroenterologyNut Nutritional SciencesPed Pediatrics
+
+Translation:Humans
+
+  17. Hettiarachchi M, Liyanage C, Wickremasinghe R, **Hilmers D** , Abrams S. Nutrient intake and growth of adolescents in southern Sri Lanka. Ceylon Med J. 2006 Sep; 51(3):89-92. PMID: [17315584](//www.ncbi.nlm.nih.gov/pubmed/17315584).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17315584/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  18. Hettiarachchi M, Liyanage C, Wickremasinghe R, **Hilmers DC** , Abrahams SA. Prevalence and severity of micronutrient deficiency: a cross-sectional study among adolescents in Sri Lanka. Asia Pac J Clin Nutr. 2006; 15(1):56-63. PMID: [16500879](//www.ncbi.nlm.nih.gov/pubmed/16500879).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16500879/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Humans
+
+  19. Hettiarachchi M, **Hilmers DC** , Liyanage C, Abrams SA. Na2EDTA enhances the absorption of iron and zinc from fortified rice flour in Sri Lankan children. J Nutr. 2004 Nov; 134(11):3031-6. PMID: [15514271](//www.ncbi.nlm.nih.gov/pubmed/15514271).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15514271/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  20. Avalos Mishaan AM, Zavaleta N, Griffin IJ, **Hilmers DC** , Hawthorne KM, Abrams SA. Bioavailability of iron and zinc from a multiple micronutrient-fortified beverage. J Pediatr. 2004 Jul; 145(1):26-31. PMID: [15238902](//www.ncbi.nlm.nih.gov/pubmed/15238902).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15238902/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansCTClinical Trials
+
+  21. Abrams SA, Mushi A, **Hilmers DC** , Griffin IJ, Davila P, Allen L. A multinutrient-fortified beverage enhances the nutritional status of children in Botswana. J Nutr. 2003 Jun; 133(6):1834-40. PMID: [12771326](//www.ncbi.nlm.nih.gov/pubmed/12771326).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12771326/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansCTClinical Trials
+
+  22. **Hilmers DC**. My friend the witch doctor. J Fam Pract. 2002 Jul; 51(7):612. PMID: [12164165](//www.ncbi.nlm.nih.gov/pubmed/12164165).
+
+Citations:  Fields:
+
+Pri Primary Health Care
+
+Translation:Humans
+
+  23. **Hilmers DC**. A piece of my mind: A view from there. JAMA. 2000 Jul 05; 284(1):98. PMID: [10872023](//www.ncbi.nlm.nih.gov/pubmed/10872023).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 23 publications over 14 distinct years, with a maximum of
+3 publications in 2008 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,33,0,33,33,67,0,67,67,100,67,0,0,33,0,0,0,0,33,33,0,67,33,0,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2000| 1  
+2002| 1  
+2003| 1  
+2004| 2  
+2006| 2  
+2007| 2  
+2008| 3  
+2009| 2  
+2012| 1  
+2017| 1  
+2018| 1  
+2020| 2  
+2021| 1  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HILMERS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (143)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Hepatitis B, Chronic](https://profiles.viictr.org/profile/263437)
+  * [Aerospace Medicine](https://profiles.viictr.org/profile/244649)
+  * [Space Flight](https://profiles.viictr.org/profile/252046)
+  * [Program Development](https://profiles.viictr.org/profile/255584)
+  * [Health Resources](https://profiles.viictr.org/profile/248725)
+
+[Explore](https://profiles.viictr.org/profile/266782/198)
+
+_
+
+Co-Authors (8)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LEVIN, DANA](https://profiles.viictr.org/profile/39011929)
+  * [LEHNHARDT, KRIS](https://profiles.viictr.org/profile/23479010)
+  * [VOGEL, TIPHANIE](https://profiles.viictr.org/profile/18883198)
+  * [NICKLAS, THERESA](https://profiles.viictr.org/profile/265809)
+  * [DAVE, JAYNA](https://profiles.viictr.org/profile/266197)
+
+[Explore](https://profiles.viictr.org/profile/266782/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KANWAL, FASIHA](https://profiles.viictr.org/profile/268580)
+  * [HWANG, JESSICA P](https://profiles.viictr.org/profile/12582612)
+  * [EL-SERAG, HASHEM](https://profiles.viictr.org/profile/269175)
+  * [MANARY, MARK](https://profiles.viictr.org/profile/269136)
+  * [HOTEZ, PETER](https://profiles.viictr.org/profile/266166)
+
+[Explore](https://profiles.viictr.org/profile/266782/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GAMMON, LAURA](https://profiles.viictr.org/profile/40860131)
+  * [NOVAKOVIC, MATTHEW](https://profiles.viictr.org/profile/18883204)
+  * [NUILA, RICARDO](https://profiles.viictr.org/profile/268362)
+  * [SARGSYAN, ZAVEN](https://profiles.viictr.org/profile/11548185)
+  * [SCHMIDT, ROSA](https://profiles.viictr.org/profile/269424)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [KALAVAR, JAGADEESH](https://profiles.viictr.org/profile/270221)
+  * [KHAWAJA, LUBNA](https://profiles.viictr.org/profile/266273)
+  * [KUSNOOR, ANITA](https://profiles.viictr.org/profile/268211)
+  * [LU, LEE](https://profiles.viictr.org/profile/269423)
+  * [MCCANTS, DAVID](https://profiles.viictr.org/profile/269882)
+
+_
+

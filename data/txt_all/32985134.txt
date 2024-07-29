@@ -1,0 +1,209 @@
+## FABRIZIO CANEPA ESCARO
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 1504 TAUB LOOP  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=EKoy82zdKYS7ZY7j5WvDD6ePJgOFtycBHVIpNVs%3d&rnd=90796e03-6ab9-40d1-bbb4-1d0a9311a46b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=32985134)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Valga Amado F, Marschall A, Canepa-Escaro F, Gallegos Bayas G, Rodeles Del Pozo M, de la Flor Merino JC, Linares Gr?valos T, Ruiz C?cero E, Albarrac?n Sierra C. COVID-19 in chronic hemodialysis patients: A?report of 9 cases in Madrid, Spain. Clin Nephrol. 2021 Jan; 95(1):45-53. PMID: [33155542](//www.ncbi.nlm.nih.gov/pubmed/33155542).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33155542/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:HumansCells
+
+  2. Stelzig KE, Canepa-Escaro F, Schiliro M, Berdnikovs S, Prakash YS, Chiarella SE. Estrogen regulates the expression of SARS-CoV-2 receptor ACE2 in differentiated airway epithelial cells. Am J Physiol Lung Cell Mol Physiol. 2020 06 01; 318(6):L1280-L1281. PMID: [32432918](//www.ncbi.nlm.nih.gov/pubmed/32432918); PMCID: [PMC7276982](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7276982).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32432918/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular BiologyPhy PhysiologyPul Pulmonary Medicine
+
+Translation:HumansCellsPHPublic Health
+
+  3. Canepa-Escaro F, Neyra JA. Is dyschloremia a marker of critical illness or euchloremia an interventional target to improve outcomes? Ann Transl Med. 2019 Dec; 7(Suppl 8):S264. PMID: [32015983](//www.ncbi.nlm.nih.gov/pubmed/32015983); PMCID: [PMC6976500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6976500).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32015983/citedby/)
+
+  4. Mirrakhimov AE, Barbaryan A, Ayach T, **Canepa Escaro F** , Talari G, Gray A. Is chest radiography routinely needed after thoracentesis? Cleve Clin J Med. 2019 Jun; 86(6):371-373. PMID: [31204976](//www.ncbi.nlm.nih.gov/pubmed/31204976).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  5. Yessayan L, Neyra JA, Canepa-Escaro F, Vasquez-Rios G, Heung M, Yee J, Acute Kidney Injury in Critical Illness Study Group. Effect of hyperchloremia on acute kidney injury in critically ill septic patients: a retrospective cohort study. BMC Nephrol. 2017 Dec 02; 18(1):346. PMID: [29197350](//www.ncbi.nlm.nih.gov/pubmed/29197350); PMCID: [PMC5712082](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5712082).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29197350/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  6. Neyra JA, Li X, Canepa-Escaro F, Adams-Huet B, Toto RD, Yee J, Hedayati SS, Acute Kidney Injury in Critical Illness Study Group. Cumulative Fluid Balance and Mortality in Septic Patients With or Without Acute Kidney Injury and Chronic Kidney Disease. Crit Care Med. 2016 Oct; 44(10):1891-900. PMID: [27352125](//www.ncbi.nlm.nih.gov/pubmed/27352125); PMCID: [PMC5505731](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5505731).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27352125/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  7. Neyra JA, Canepa-Escaro F, Yee J, Yessayan L. The authors reply. Crit Care Med. 2016 Jan; 44(1):e53-4. PMID: [26672946](//www.ncbi.nlm.nih.gov/pubmed/26672946); PMCID: [PMC4706367](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4706367).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  8. Neyra JA, Canepa-Escaro F, Li X, Manllo J, Adams-Huet B, Yee J, Yessayan L, Acute Kidney Injury in Critical Illness Study Group. Association of Hyperchloremia With Hospital Mortality in Critically Ill Septic Patients. Crit Care Med. 2015 Sep; 43(9):1938-44. PMID: [26154934](//www.ncbi.nlm.nih.gov/pubmed/26154934); PMCID: [PMC4537691](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4537691).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26154934/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  9. Hayek S, **Canepa Escaro F** , Sattar A, Gamalski S, Wells KE, Divine G, Ahmedani BK, Lanfear DE, Pladevall M, Williams LK. Effect of ezetimibe on major atherosclerotic disease events and all-cause mortality. Am J Cardiol. 2013 Feb 15; 111(4):532-9. PMID: [23219178](//www.ncbi.nlm.nih.gov/pubmed/23219178); PMCID: [PMC3563770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3563770).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23219178/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 9 publications over 7 distinct years, with a maximum of 2
+publications in 2016 and
+2019](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,50,100,50,0,100,50,50,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2012| 1  
+2015| 1  
+2016| 2  
+2017| 1  
+2019| 2  
+2020| 1  
+2021| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+CANEPA ESCARO's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (53)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Peptidyl-Dipeptidase A](https://profiles.viictr.org/profile/259712)
+  * [Estrogens](https://profiles.viictr.org/profile/262598)
+  * [Betacoronavirus](https://profiles.viictr.org/profile/27545318)
+  * [Coronavirus Infections](https://profiles.viictr.org/profile/259356)
+  * [Pneumonia, Viral](https://profiles.viictr.org/profile/257188)
+
+[Explore](https://profiles.viictr.org/profile/32985134/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [SZARPAK, LUKASZ](https://profiles.viictr.org/profile/37104232)
+  * [WINKELMAYER, WOLFGANG](https://profiles.viictr.org/profile/5714591)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [HOTEZ, PETER](https://profiles.viictr.org/profile/266166)
+  * [HUI, DAVID](https://profiles.viictr.org/profile/12583538)
+
+[Explore](https://profiles.viictr.org/profile/32985134/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ALI, HIBA](https://profiles.viictr.org/profile/36484653)
+  * [ANSAH, YAW](https://profiles.viictr.org/profile/47274600)
+  * [BROWN, ADAM](https://profiles.viictr.org/profile/40011315)
+  * [HORNER, CLAIRE](https://profiles.viictr.org/profile/23478865)
+  * [QUACH, DAVID](https://profiles.viictr.org/profile/3010661)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

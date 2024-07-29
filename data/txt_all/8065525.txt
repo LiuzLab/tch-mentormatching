@@ -1,0 +1,545 @@
+## ALLAN FERREON
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F6c84GuJBo7nVIri7lvAKbnCIhWf&rnd=5190bfd0-2f88-45a3-9a3a-14ddb94f31a4)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=8065525)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01NS105874 (FERREON, ALLAN CHRIS)Aug 15, 2019 - Jul 31, 2024NIH/NINDS  
+Phase Transition-Mediated Tau Function and Dysfunction  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R21NS109678 (FERREON, ALLAN CHRIS)Aug 15, 2019 - Jul 31, 2021NIH/NINDS  
+Pharmacologic inhibition of ribonucleoprotein droplet maturation  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21NS107792 (FERREON, ALLAN CHRIS)Apr 1, 2019 - Mar 31, 2021NIH/NINDS  
+Mechanism of Pathologic hnRNP Droplet Maturation  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32NS054468 (FERREON, ALLAN CHRIS)Aug 1, 2006 - Jul 31, 2009NIH/NINDS  
+Single-Molecule Study of Synuclein Folding/Fibrillation  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Tsoi PS](https://profiles.viictr.org/profile/14348259), [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. Initiation of hnRNPA1 Low-Complexity Domain Condensation Monitored by Dynamic Light Scattering. Int J Mol Sci. 2024 Jun 21; 25(13). PMID: [38999934](//www.ncbi.nlm.nih.gov/pubmed/38999934); PMCID: [PMC11241569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11241569).
+
+Citations:  Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:HumansCells
+
+  2. [Ferreon JC](https://profiles.viictr.org/profile/8065537), Ta HM, Yun H, Choi KJ, Quan MD, [Tsoi PS](https://profiles.viictr.org/profile/14348259), Kim C, Lee CW, **Ferreon ACM**. Stereospecific NANOG PEST Stabilization by Pin1. Biochemistry. 2024 May 07; 63(9):1067-1074. PMID: [38619104](//www.ncbi.nlm.nih.gov/pubmed/38619104).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  3. Quan MD, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. Micropolarized to the core. Nat Chem Biol. 2024 Apr; 20(4):399-400. PMID: [38326412](//www.ncbi.nlm.nih.gov/pubmed/38326412).
+
+Citations:  Fields:
+
+Bio BiologyChe Chemistry
+
+  4. [Tsoi PS](https://profiles.viictr.org/profile/14348259), Quan MD, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. Aggregation of Disordered Proteins Associated with Neurodegeneration. Int J Mol Sci. 2023 Feb 08; 24(4). PMID: [36834792](//www.ncbi.nlm.nih.gov/pubmed/36834792); PMCID: [PMC9966039](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9966039).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36834792/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:Humans
+
+  5. Quan MD, Liao SJ, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. Fluorescence Lifetime Imaging Microscopy of Biomolecular Condensates. Methods Mol Biol. 2023; 2563:135-148. PMID: [36227471](//www.ncbi.nlm.nih.gov/pubmed/36227471); PMCID: [PMC10321152](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10321152).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  6. Choi KJ, Quan MD, [Qi C](https://profiles.viictr.org/profile/38374051), Lee JH, [Tsoi PS](https://profiles.viictr.org/profile/14348259), Zahabiyon M, [Bajic A](https://profiles.viictr.org/profile/3010475), Hu L, Prasad BVV, Liao SJ, Li W, **Ferreon ACM** , [Ferreon JC](https://profiles.viictr.org/profile/8065537). NANOG prion-like assembly mediates DNA bridging to facilitate chromatin reorganization and activation of pluripotency. Nat Cell Biol. 2022 05; 24(5):737-747. PMID: [35484250](//www.ncbi.nlm.nih.gov/pubmed/35484250); PMCID: [PMC9106587](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9106587).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  7. [Sharma R](https://profiles.viictr.org/profile/24845282), Choi KJ, Quan MD, Sharma S, Sankaran B, Park H, LaGrone A, Kim JJ, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), **Ferreon ACM** , [Kim C](https://profiles.viictr.org/profile/266336), [Ferreon JC](https://profiles.viictr.org/profile/8065537). Liquid condensation of reprogramming factor KLF4 with DNA provides a mechanism for chromatin organization. Nat Commun. 2021 09 22; 12(1):5579. PMID: [34552088](//www.ncbi.nlm.nih.gov/pubmed/34552088); PMCID: [PMC8458463](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8458463).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34552088/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  8. [Tsoi PS](https://profiles.viictr.org/profile/14348259), Quan MD, Choi KJ, Dao KM, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. Electrostatic modulation of hnRNPA1 low-complexity domain liquid-liquid phase separation and aggregation. Protein Sci. 2021 07; 30(7):1408-1417. PMID: [33982369](//www.ncbi.nlm.nih.gov/pubmed/33982369); PMCID: [PMC8197420](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8197420).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33982369/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  9. Nguyen TM, Kabotyanski EB, Reineke LC, Shao J, Xiong F, Lee JH, Dubrulle J, Johnson H, Stossi F, [Tsoi PS](https://profiles.viictr.org/profile/14348259), Choi KJ, Ellis AG, Zhao N, Cao J, Adewunmi O, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM** , [Neilson JR](https://profiles.viictr.org/profile/266073), [Mancini MA](https://profiles.viictr.org/profile/268178), Chen X, Li W, [Rosen JM](https://profiles.viictr.org/profile/267640), Kim J, Ma L. The SINEB1 element in the long non-coding RNA Malat1 is necessary for TDP-43 proteostasis. Nucleic Acids Res. 2020 03 18; 48(5):2621-2642. PMID: [31863590](//www.ncbi.nlm.nih.gov/pubmed/31863590); PMCID: [PMC7049706](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7049706).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31863590/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  10. Mitra S, Kumar D, Hu L, Sankaran B, Moosa MM, [Rice AP](https://profiles.viictr.org/profile/269748), [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM** , Prasad BVV. Influenza A Virus Protein NS1 Exhibits Strain-Independent Conformational Plasticity. J Virol. 2019 11 01; 93(21). PMID: [31375595](//www.ncbi.nlm.nih.gov/pubmed/31375595); PMCID: [PMC6803261](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6803261).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31375595/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  11. Moosa MM, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. Single-Molecule FRET Detection of Early-Stage Conformations in a-Synuclein Aggregation. Methods Mol Biol. 2019; 1948:221-233. PMID: [30771181](//www.ncbi.nlm.nih.gov/pubmed/30771181).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30771181/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  12. Choi KJ, [Tsoi PS](https://profiles.viictr.org/profile/14348259), Moosa MM, Paulucci-Holthauzen A, Liao SJ, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. A Chemical Chaperone Decouples TDP-43 Disordered Domain Phase Separation from Fibrillation. Biochemistry. 2018 12 18; 57(50):6822-6826. PMID: [30520303](//www.ncbi.nlm.nih.gov/pubmed/30520303); PMCID: [PMC6555487](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6555487).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30520303/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  13. Moosa MM, [Tsoi PS](https://profiles.viictr.org/profile/14348259), Choi KJ, **Ferreon ACM** , [Ferreon JC](https://profiles.viictr.org/profile/8065537). Direct Single-Molecule Observation of Sequential DNA Bending Transitions by the Sox2 HMG Box. Int J Mol Sci. 2018 Dec 04; 19(12). PMID: [30518054](//www.ncbi.nlm.nih.gov/pubmed/30518054); PMCID: [PMC6321608](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6321608).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30518054/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:Cells
+
+  14. Hu L, Sankaran B, Laucirica DR, [Patil K](https://profiles.viictr.org/profile/47100899), Salmen W, **Ferreon ACM** , [Tsoi PS](https://profiles.viictr.org/profile/14348259), Lasanajak Y, Smith DF, [Ramani S](https://profiles.viictr.org/profile/3009566), [Atmar RL](https://profiles.viictr.org/profile/268394), [Estes MK](https://profiles.viictr.org/profile/266419), [Ferreon JC](https://profiles.viictr.org/profile/8065537), Prasad BVV. Glycan recognition in globally dominant human rotaviruses. Nat Commun. 2018 07 06; 9(1):2631. PMID: [29980685](//www.ncbi.nlm.nih.gov/pubmed/29980685); PMCID: [PMC6035239](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6035239).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29980685/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  15. Moosa MM, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. Ligand interactions and the protein order-disorder energetic continuum. Semin Cell Dev Biol. 2020 03; 99:78-85. PMID: [29753880](//www.ncbi.nlm.nih.gov/pubmed/29753880).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29753880/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansCells
+
+  16. Ren Z, Lee J, Moosa MM, Nian Y, Hu L, Xu Z, McCoy JG, **Ferreon ACM** , Im W, [Zhou M](https://profiles.viictr.org/profile/267360). Structure of an EIIC sugar transporter trapped in an inward-facing conformation. Proc Natl Acad Sci U S A. 2018 06 05; 115(23):5962-5967. PMID: [29784777](//www.ncbi.nlm.nih.gov/pubmed/29784777); PMCID: [PMC6003338](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6003338).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29784777/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  17. [Ferreon JC](https://profiles.viictr.org/profile/8065537), Jain A, Choi KJ, [Tsoi PS](https://profiles.viictr.org/profile/14348259), [MacKenzie KR](https://profiles.viictr.org/profile/15318040), Jung SY, **Ferreon AC**. Acetylation Disfavors Tau Phase Separation. Int J Mol Sci. 2018 May 04; 19(5). PMID: [29734651](//www.ncbi.nlm.nih.gov/pubmed/29734651); PMCID: [PMC5983838](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5983838).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29734651/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:HumansCells
+
+  18. Moosa MM, Goodman AZ, [Ferreon JC](https://profiles.viictr.org/profile/8065537), Lee CW, **Ferreon ACM** , Deniz AA. Denaturant-specific effects on the structural energetics of a protein-denatured ensemble. Eur Biophys J. 2018 Jan; 47(1):89-94. PMID: [29080139](//www.ncbi.nlm.nih.gov/pubmed/29080139); PMCID: [PMC6588398](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6588398).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29080139/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  19. Jiang X, Chen J, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang C, Song X, Carroll SL, Cai ZL, Tang M, Xue M, Cheng N, Schaaf CP, Li F, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), **Ferreon ACM** , Xia F, Wang MC, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), Wang J. Corrigendum: Quantitative real-time imaging of glutathione. Nat Commun. 2017 10 03; 8:16163. PMID: [28972204](//www.ncbi.nlm.nih.gov/pubmed/28972204); PMCID: [PMC5628253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5628253).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28972204/citedby/) Fields:
+
+Bio BiologySci Science
+
+  20. [Tsoi PS](https://profiles.viictr.org/profile/14348259), Choi KJ, Leonard PG, Sizovs A, Moosa MM, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon ACM**. The N-Terminal Domain of ALS-Linked TDP-43 Assembles without Misfolding. Angew Chem Int Ed Engl. 2017 10 02; 56(41):12590-12593. PMID: [28833982](//www.ncbi.nlm.nih.gov/pubmed/28833982).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28833982/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  21. Jiang X, Chen J, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang C, Song X, Carroll SL, [Cai ZL](https://profiles.viictr.org/profile/8684236), Tang M, [Xue M](https://profiles.viictr.org/profile/7520380), [Cheng N](https://profiles.viictr.org/profile/266565), Schaaf CP, [Li F](https://profiles.viictr.org/profile/4897356), [MacKenzie KR](https://profiles.viictr.org/profile/15318040), **Ferreon ACM** , [Xia F](https://profiles.viictr.org/profile/3009907), Wang MC, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), [Wang J](https://profiles.viictr.org/profile/266173). Quantitative real-time imaging of glutathione. Nat Commun. 2017 07 13; 8:16087. PMID: [28703127](//www.ncbi.nlm.nih.gov/pubmed/28703127); PMCID: [PMC5511354](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5511354).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28703127/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  22. Moosa MM, **Ferreon AC** , Deniz AA. Forced folding of a disordered protein accesses an alternative folding landscape. Chemphyschem. 2015 Jan 12; 16(1):90-4. PMID: [25345588](//www.ncbi.nlm.nih.gov/pubmed/25345588); PMCID: [PMC4286261](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4286261).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25345588/citedby/) Fields:
+
+Bio BiophysicsChe ChemistryPhy Physics
+
+Translation:Cells
+
+  23. **Ferreon AC** , [Ferreon JC](https://profiles.viictr.org/profile/8065537), Wright PE, Deniz AA. Modulation of allostery by protein intrinsic disorder. Nature. 2013 Jun 20; 498(7454):390-4. PMID: [23783631](//www.ncbi.nlm.nih.gov/pubmed/23783631); PMCID: [PMC3718496](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3718496).
+
+Citations:
+[144](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23783631/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  24. **Ferreon AC** , Moosa MM, Gambin Y, Deniz AA. Counteracting chemical chaperone effects on the single-molecule a-synuclein structural landscape. Proc Natl Acad Sci U S A. 2012 Oct 30; 109(44):17826-31. PMID: [22826265](//www.ncbi.nlm.nih.gov/pubmed/22826265); PMCID: [PMC3497778](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3497778).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22826265/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  25. **Ferreon AC** , Deniz AA. Osmolyte-, binding-, and temperature-induced transitions of intrinsically disordered proteins. Methods Mol Biol. 2012; 896:257-66. PMID: [22821530](//www.ncbi.nlm.nih.gov/pubmed/22821530).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22821530/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  26. **Ferreon AC** , Deniz AA. Protein folding at single-molecule resolution. Biochim Biophys Acta. 2011 Aug; 1814(8):1021-9. PMID: [21303706](//www.ncbi.nlm.nih.gov/pubmed/21303706); PMCID: [PMC3114273](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3114273).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21303706/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Cells
+
+  27. Gambin Y, VanDelinder V, **Ferreon AC** , Lemke EA, Groisman A, Deniz AA. Visualizing a one-way protein encounter complex by ultrafast single-molecule mixing. Nat Methods. 2011 Mar; 8(3):239-41. PMID: [21297620](//www.ncbi.nlm.nih.gov/pubmed/21297620); PMCID: [PMC3071799](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3071799).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21297620/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:HumansCells
+
+  28. Lee CW, [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon AC** , Arai M, Wright PE. Graded enhancement of p53 binding to CREB-binding protein (CBP) by multisite phosphorylation. Proc Natl Acad Sci U S A. 2010 Nov 09; 107(45):19290-5. PMID: [20962272](//www.ncbi.nlm.nih.gov/pubmed/20962272); PMCID: [PMC2984141](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2984141).
+
+Citations:
+[99](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20962272/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  29. **Ferreon AC** , Moran CR, [Ferreon JC](https://profiles.viictr.org/profile/8065537), Deniz AA. Alteration of the alpha-synuclein folding landscape by a mutation related to Parkinson's disease. Angew Chem Int Ed Engl. 2010 May 03; 49(20):3469-72. PMID: [20544898](//www.ncbi.nlm.nih.gov/pubmed/20544898); PMCID: [PMC2972640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2972640).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20544898/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Cells
+
+  30. **Ferreon AC** , Moran CR, Gambin Y, Deniz AA. Single-molecule fluorescence studies of intrinsically disordered proteins. Methods Enzymol. 2010; 472:179-204. PMID: [20580965](//www.ncbi.nlm.nih.gov/pubmed/20580965).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20580965/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  31. Vandelinder V, **Ferreon AC** , Gambin Y, Deniz AA, Groisman A. High-resolution temperature-concentration diagram of alpha-synuclein conformation obtained from a single F?rster resonance energy transfer image in a microfluidic device. Anal Chem. 2009 Aug 15; 81(16):6929-35. PMID: [19555081](//www.ncbi.nlm.nih.gov/pubmed/19555081); PMCID: [PMC2846235](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2846235).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19555081/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:HumansCells
+
+  32. Gambin Y, Schug A, Lemke EA, Lavinder JJ, **Ferreon AC** , Magliery TJ, Deniz AA, Onuchic JN. Direct single-molecule observation of a protein living in two opposed native structures. Proc Natl Acad Sci U S A. 2009 Jun 23; 106(25):10153-8. PMID: [19506258](//www.ncbi.nlm.nih.gov/pubmed/19506258); PMCID: [PMC2700882](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2700882).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19506258/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  33. **Ferreon AC** , Gambin Y, Lemke EA, Deniz AA. Interplay of alpha-synuclein binding and conformational switching probed by single-molecule fluorescence. Proc Natl Acad Sci U S A. 2009 Apr 07; 106(14):5645-50. PMID: [19293380](//www.ncbi.nlm.nih.gov/pubmed/19293380); PMCID: [PMC2667048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2667048).
+
+Citations:
+[191](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19293380/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Cells
+
+  34. **Ferreon AC** , Deniz AA. Alpha-synuclein multistate folding thermodynamics: implications for protein misfolding and aggregation. Biochemistry. 2007 Apr 17; 46(15):4499-509. PMID: [17378587](//www.ncbi.nlm.nih.gov/pubmed/17378587).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17378587/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  35. **Ferreon AC** , [Ferreon JC](https://profiles.viictr.org/profile/8065537), Bolen DW, R?sgen J. Protein phase diagrams II: nonideal behavior of biochemical reactions in the presence of osmolytes. Biophys J. 2007 Jan 01; 92(1):245-56. PMID: [17028144](//www.ncbi.nlm.nih.gov/pubmed/17028144); PMCID: [PMC1697851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1697851).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17028144/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  36. Auton M, **Ferreon AC** , Bolen DW. Metrics that differentiate the origins of osmolyte effects on protein stability: a test of the surface tension proposal. J Mol Biol. 2006 Sep 01; 361(5):983-92. PMID: [16889793](//www.ncbi.nlm.nih.gov/pubmed/16889793).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16889793/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  37. [Ferreon JC](https://profiles.viictr.org/profile/8065537), **Ferreon AC** , Li K, Lemon SM. Molecular determinants of TRIF proteolysis mediated by the hepatitis C virus NS3/4A protease. J Biol Chem. 2005 May 27; 280(21):20483-92. PMID: [15767257](//www.ncbi.nlm.nih.gov/pubmed/15767257).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15767257/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  38. Li K, Foy E, [Ferreon JC](https://profiles.viictr.org/profile/8065537), Nakamura M, **Ferreon AC** , Ikeda M, Ray SC, Gale M, Lemon SM. Immune evasion by hepatitis C virus NS3/4A protease-mediated cleavage of the Toll-like receptor 3 adaptor protein TRIF. Proc Natl Acad Sci U S A. 2005 Feb 22; 102(8):2992-7. PMID: [15710891](//www.ncbi.nlm.nih.gov/pubmed/15710891); PMCID: [PMC548795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC548795).
+
+Citations:
+[423](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15710891/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  39. **Ferreon AC** , Bolen DW. Thermodynamics of denaturant-induced unfolding of a protein that exhibits variable two-state denaturation. Biochemistry. 2004 Oct 26; 43(42):13357-69. PMID: [15491142](//www.ncbi.nlm.nih.gov/pubmed/15491142).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15491142/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  40. Yang M, **Ferreon AC** , Bolen DW. Structural thermodynamics of a random coil protein in guanidine hydrochloride. Proteins. 2000; Suppl 4:44-9. PMID: [11013399](//www.ncbi.nlm.nih.gov/pubmed/11013399).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11013399/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 40 publications over 19 distinct years, with a maximum of
+6 publications in
+2018](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,17,0,0,0,17,33,33,17,0,50,50,33,33,17,17,0,0,67,100,33,17,33,17,33,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2000| 1  
+2004| 1  
+2005| 2  
+2006| 2  
+2007| 1  
+2009| 3  
+2010| 3  
+2011| 2  
+2012| 2  
+2013| 1  
+2014| 1  
+2017| 4  
+2018| 6  
+2019| 2  
+2020| 1  
+2021| 2  
+2022| 1  
+2023| 2  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+FERREON's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (173)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Intrinsically Disordered Proteins](https://profiles.viictr.org/profile/27547176)
+  * [Protein Folding](https://profiles.viictr.org/profile/243986)
+  * [alpha-Synuclein](https://profiles.viictr.org/profile/260792)
+  * [Heterogeneous Nuclear Ribonucleoprotein A1](https://profiles.viictr.org/profile/27545698)
+  * [Fluorescence Resonance Energy Transfer](https://profiles.viictr.org/profile/254487)
+
+[Explore](https://profiles.viictr.org/profile/8065525/198)
+
+_
+
+Co-Authors (23)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [FERREON, JOSEPHINE](https://profiles.viictr.org/profile/8065537)
+  * [TSOI, Phoebe](https://profiles.viictr.org/profile/14348259)
+  * [MACKENZIE, KEVIN](https://profiles.viictr.org/profile/15318040)
+  * [Sharma, Rajesh](https://profiles.viictr.org/profile/24845282)
+  * [ZHOU, MING](https://profiles.viictr.org/profile/267360)
+
+[Explore](https://profiles.viictr.org/profile/8065525/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [DOODY, RACHELLE](https://profiles.viictr.org/profile/269523)
+  * [TSOI, Phoebe](https://profiles.viictr.org/profile/14348259)
+  * [FERREON, JOSEPHINE](https://profiles.viictr.org/profile/8065537)
+
+[Explore](https://profiles.viictr.org/profile/8065525/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DONOVIEL, DORIT](https://profiles.viictr.org/profile/267178)
+  * [EICHELE, GREGOR](https://profiles.viictr.org/profile/268289)
+  * [STRINGER, JANET](https://profiles.viictr.org/profile/268147)
+  * [ZAGAAR, MUNDER](https://profiles.viictr.org/profile/3010576)
+  * [ZHOU, ZHENG](https://profiles.viictr.org/profile/266299)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

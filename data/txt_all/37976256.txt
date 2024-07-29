@@ -1,0 +1,218 @@
+## MINH NGUYEN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=37976256)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Nguyen MB** , Venet M, Fan CS, Dragulescu A, [Rusin CG](https://profiles.viictr.org/profile/268524), Mertens LL, Mital S, Villemain O. Modeling the Relationship Between Diastolic Phenotype and Outcomes in Pediatric Hypertrophic Cardiomyopathy. J Am Soc Echocardiogr. 2024 May; 37(5):508-517.e3. PMID: [38097053](//www.ncbi.nlm.nih.gov/pubmed/38097053).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+  2. . A guide for assessment of myocardial stiffness in health and disease. Nature Cardiovascular Research. 2023; 1(1):8-22. [View Publication](http://doi: 10.1038/s44161-021-00007-3).
+
+  3. Fakhari N, Aguet J, **Nguyen M** , Mertens L, Barron D, Haller C, Sled JG, Villemain O, Baranger J. Longitudinal Assessment of Cerebral Blood Volume Variation in Human Neonates Using Ultrafast Power Doppler and Diverging Waves. IEEE Trans Med Imaging. 2023 08; 42(8):2223-2234. PMID: [37027649](//www.ncbi.nlm.nih.gov/pubmed/37027649).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  4. Rasouli R, Baranger J, Slorach C, Hui W, Venet M, **Nguyen MB** , Henry M, Gopaul J, Nathan PC, Mertens L, Villemain O. Local arterial stiffness measured by ultrafast ultrasound imaging in childhood cancer survivors treated with anthracyclines. Front Cardiovasc Med. 2023; 10:1150214. PMID: [37346288](//www.ncbi.nlm.nih.gov/pubmed/37346288); PMCID: [PMC10279856](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10279856).
+
+Citations:
+
+  5. . Ultrafast Power Doppler for Detecting Intraoperative Myocardial Perfusion in Infants With Critical Congenital Heart Disease. Journal of the American College of Cardiology: Advances. Letter. 2023; 2(3):100290. [View Publication](https://www.sciencedirect.com/science/article/pii/S2772963X23000455?via%3Dihub).
+
+  6. Aguet J, Fakhari N, **Nguyen M** , Mertens L, Szabo E, Ertl-Wagner B, Crawford L, Haller C, Barron D, Villemain O, Baranger J. Impact of cardiopulmonary bypass on cerebrovascular autoregulation assessed by ultrafast ultrasound imaging. J Physiol. 2023 03; 601(6):1077-1093. PMID: [36779673](//www.ncbi.nlm.nih.gov/pubmed/36779673).
+
+Citations:  Fields:
+
+Phy Physiology
+
+Translation:Humans
+
+  7. **Nguyen MB** , Villemain O, Friedberg MK, Lovstakken L, [Rusin CG](https://profiles.viictr.org/profile/268524), Mertens L. Artificial intelligence in the pediatric echocardiography laboratory: Automation, physiology, and outcomes. Front Radiol. 2022; 2:881777. PMID: [37492680](//www.ncbi.nlm.nih.gov/pubmed/37492680); PMCID: [PMC10365116](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10365116).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37492680/citedby/)
+
+  8. Mehta JP, Jang CQH, Fahim P, **Nguyen MK** , Zuckerman J, Mamita R, Kamgar M. Hypocomplementemic Urticarial Vasculitis Syndrome Masquerading as Systemic Lupus Erythematosus: A Case Report. Glomerular Dis. 2022; 2(4):189-193. PMID: [36817292](//www.ncbi.nlm.nih.gov/pubmed/36817292); PMCID: [PMC9936762](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9936762).
+
+Citations:
+
+  9. Rasouli R, Baranger J, Slorach C, **Nguyen M** , Segers P, Guerra V, Pernot M, Hui W, Mertens L, Villemain O. Local Arterial Stiffness Assessment: Comparison of Pulse Wave Velocity Assessed by Ultrafast Ultrasound Imaging versus the Bramwell-Hill Equation. J Am Soc Echocardiogr. 2022 11; 35(11):1185-1188. PMID: [35863547](//www.ncbi.nlm.nih.gov/pubmed/35863547).
+
+Citations:
+
+  10. Zhang N, **Nguyen MB** , Mertens L, Barron DJ, Villemain O, Baranger J. Improving coronary ultrafast Doppler angiography using fractional moving blood volume and motion-adaptive ensemble length. Phys Med Biol. 2022 06 16; 67(12). PMID: [35623349](//www.ncbi.nlm.nih.gov/pubmed/35623349).
+
+Citations:
+
+  11. **Nguyen MB** , Dragulescu A, Chaturvedi R, Fan CS, Villemain O, Friedberg MK, Mertens LL. Understanding Complex Interactions in Pediatric Diastolic Function Assessment. J Am Soc Echocardiogr. 2022 08; 35(8):868-877.e5. PMID: [35341955](//www.ncbi.nlm.nih.gov/pubmed/35341955).
+
+Citations:
+
+  12. **Nguyen MB** , Mital S, Mertens L, Jeewa A, Friedberg MK, Aguet J, Adler A, Lam CZ, Dragulescu A, Rakowski H, Villemain O. Pediatric Hypertrophic Cardiomyopathy: Exploring the Genotype-Phenotype Association. J Am Heart Assoc. 2022 03; 11(5):e024220. PMID: [35179047](//www.ncbi.nlm.nih.gov/pubmed/35179047); PMCID: [PMC9075072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9075072).
+
+Citations:
+
+  13. Le CK, **Nguyen MB** , [Vo AT](https://profiles.viictr.org/profile/38090295). ST-elevation in an adolescent with COVID-19: Myopericarditis or myocardial infarction? Am J Emerg Med. 2022 Feb; 52:271.e1-271.e3. PMID: [34509326](//www.ncbi.nlm.nih.gov/pubmed/34509326); PMCID: [PMC8393508](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8393508).
+
+Citations:
+
+  14. **Nguyen MB** , Hill AC, Bar-Cohen Y, Silka MJ. Characteristics of antegrade-only accessory pathways in children and adolescents. Cardiol Young. 2021 Aug; 31(8):1258-1262. PMID: [33487196](//www.ncbi.nlm.nih.gov/pubmed/33487196).
+
+Citations:
+
+  15. [Vo A](https://profiles.viictr.org/profile/38090295), **Nguyen MB** , Song JL, Cheng AL, Festekjian A. Methamphetamine-Induced Tachydysrhythmia in?an Adolescent in?Diabetic Ketoacidosis. J Emerg Med. 2019 Jun; 56(6):e111-e114. PMID: [30879847](//www.ncbi.nlm.nih.gov/pubmed/30879847).
+
+Citations:
+
+  16. **Nguyen MB** , Ceresnak SR, Janson CM, Fishberger SB, Love BA, Blaufox AD, Motonaga KS, Dubin AM, Nappo L, Pass RH. A multicenter review of ablation in the aortic cusps in young people. Pacing Clin Electrophysiol. 2017 Jul; 40(7):798-802. PMID: [28568013](//www.ncbi.nlm.nih.gov/pubmed/28568013).
+
+Citations:
+
+  17. **Nguyen MB** , Singer P, Kaskel F, Mahgerefteh J. Symmetric ambulatory arterial stiffness index in the young. J Am Soc Hypertens. 2016 06; 10(6):500-5. PMID: [27118486](//www.ncbi.nlm.nih.gov/pubmed/27118486).
+
+Citations:
+
+  18. . Inappropriate Implantable Cardioverter-Defibrillator (ICD) Shock in an Adolescent Secondary to Alternating Current in an Ungrounded Swimming Pool: An Important Potential Source of Electromagnetic Interference in Young People with ICDs. The Journal of Innovations in Cardiac Rhythm Management. 2014. [View Publication](https://www.innovationsincrm.com/cardiac-rhythm-management/2014/august/624-inappropriate-icd-shock).
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 18 publications over 7 distinct years, with a maximum of 6
+publications in 2022 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,17,17,0,17,0,33,100,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2014| 1  
+2016| 1  
+2017| 1  
+2019| 1  
+2021| 2  
+2022| 6  
+2023| 6  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+NGUYEN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (75)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Cardiomyopathy, Hypertrophic](https://profiles.viictr.org/profile/240763)
+  * [Diastole](https://profiles.viictr.org/profile/258507)
+  * [Catheter Ablation](https://profiles.viictr.org/profile/243471)
+  * [Tachycardia, Supraventricular](https://profiles.viictr.org/profile/263577)
+  * [Ventricular Dysfunction, Left](https://profiles.viictr.org/profile/264639)
+
+[Explore](https://profiles.viictr.org/profile/37976256/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [RUSIN, CRAIG](https://profiles.viictr.org/profile/268524)
+  * [VO, ANDREA](https://profiles.viictr.org/profile/38090295)
+
+[Explore](https://profiles.viictr.org/profile/37976256/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KLEIMAN, NEAL](https://profiles.viictr.org/profile/267822)
+  * [BIRNBAUM, YOCHAI](https://profiles.viictr.org/profile/265899)
+  * [MARIAN, ALI](https://profiles.viictr.org/profile/268124)
+  * [KIM, JEFFREY](https://profiles.viictr.org/profile/270078)
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+
+[Explore](https://profiles.viictr.org/profile/37976256/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRODA, CHRISTOPHER](https://profiles.viictr.org/profile/14348365)
+  * [CHOUDHRY, SWATI](https://profiles.viictr.org/profile/22016544)
+  * [GOODEN, ANGELA](https://profiles.viictr.org/profile/267356)
+  * [PENNY, DANIEL](https://profiles.viictr.org/profile/266148)
+  * [SANANDAJIFAR, HASTI](https://profiles.viictr.org/profile/28999467)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

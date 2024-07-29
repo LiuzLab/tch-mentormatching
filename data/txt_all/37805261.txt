@@ -1,0 +1,241 @@
+## HANNAH FANG
+
+| | Title| Clinical Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| School of Health Professions  
+Address| 1200 W Main St.  
+Tomball, TX 77375  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Hqo%2b72TPbq30SIjN4njPZLGIMg%3d%3d&rnd=5ac8a776-3fc6-4fdb-b209-6359df915031)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=37805261)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Shen J, Wu W, Wang K, Wu J, Liu B, Li C, Gong Z, Hong X, **Fang H** , Zhang X, Xu X. Chloroflexus aurantiacus acetyl-CoA carboxylase evolves fused biotin carboxylase and biotin carboxyl carrier protein to complete carboxylation activity. mBio. 2024 May 08; 15(5):e0341423. PMID: [38572988](//www.ncbi.nlm.nih.gov/pubmed/38572988); PMCID: [PMC11077971](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11077971).
+
+Citations:  Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  2. Wang B, **Fang H** , Han X, Li X, Sheng J, Wang M, Cui W, Zhong S, Zhang Z, Cui X. Effects of heated-treating temperature on the stability and electrochemical performance of alginate-based multi-crosslinked biomembranes. Int J Biol Macromol. 2024 Apr; 263(Pt 2):130350. PMID: [38403226](//www.ncbi.nlm.nih.gov/pubmed/38403226).
+
+Citations:  Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+  3. Nattestad M, Goodwin S, Ng K, Baslan T, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Rescheneder P, Garvin T, **Fang H** , Gurtowski J, Hutton E, Tseng E, Chin CS, Beck T, Sundaravadanam Y, Kramer M, Antoniou E, McPherson JD, Hicks J, McCombie WR, Schatz MC. Complex rearrangements and oncogene amplifications revealed by long-read DNA and RNA sequencing of a breast cancer cell line. Genome Res. 2018 08; 28(8):1126-1135. PMID: [29954844](//www.ncbi.nlm.nih.gov/pubmed/29954844); PMCID: [PMC6071638](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6071638).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29954844/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  4. [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Rescheneder P, Smolka M, **Fang H** , Nattestad M, von Haeseler A, Schatz MC. Accurate detection of complex structural variations using single-molecule sequencing. Nat Methods. 2018 06; 15(6):461-468. PMID: [29713083](//www.ncbi.nlm.nih.gov/pubmed/29713083); PMCID: [PMC5990442](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5990442).
+
+Citations:
+[375](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29713083/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:Humans
+
+  5. **Fang H** , Huang YF, Radhakrishnan A, Siepel A, Lyon GJ, Schatz MC. Scikit-ribo Enables Accurate Estimation and Robust Modeling of Translation Dynamics at Codon Resolution. Cell Syst. 2018 Feb 28; 6(2):180-191.e4. PMID: [29361467](//www.ncbi.nlm.nih.gov/pubmed/29361467); PMCID: [PMC5832574](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5832574).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29361467/citedby/) Fields:
+
+Cel Cell BiologyCom Computational BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  6. Vurture GW, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Nattestad M, Underwood CJ, **Fang H** , Gurtowski J, Schatz MC. GenomeScope: fast reference-free genome profiling from short reads. Bioinformatics. 2017 Jul 15; 33(14):2202-2204. PMID: [28369201](//www.ncbi.nlm.nih.gov/pubmed/28369201); PMCID: [PMC5870704](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5870704).
+
+Citations:
+[389](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28369201/citedby/)
+Fields:
+
+Com Computational Biology
+
+Translation:Animals
+
+  7. **Fang H** , Bergmann EA, Arora K, Vacic V, Zody MC, Iossifov I, O'Rawe JA, Wu Y, Jimenez Barron LT, Rosenbaum J, Ronemus M, Lee YH, Wang Z, Dikoglu E, Jobanputra V, Lyon GJ, Wigler M, Schatz MC, Narzisi G. Indel variant analysis of short-read sequencing data with Scalpel. Nat Protoc. 2016 Dec; 11(12):2529-2548. PMID: [27854363](//www.ncbi.nlm.nih.gov/pubmed/27854363); PMCID: [PMC5507611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5507611).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27854363/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesSci Science
+
+Translation:Humans
+
+  8. **Fang H** , Wu Y, Narzisi G, O'Rawe JA, Rosenbaum J, Ronemus M, Iossifov I, Schatz MC, Lyon GJ, Barr?n LT. Reducing INDEL calling errors in whole genome and exome sequencing data. Genome Med. 2014; 6(10):89. PMID: [25426171](//www.ncbi.nlm.nih.gov/pubmed/25426171); PMCID: [PMC4240813](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4240813).
+
+Citations:
+[81](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25426171/citedby/) Fields:
+
+Gen Genetics
+
+  9. Narzisi G, O'Rawe JA, Iossifov I, **Fang H** , Lee YH, Wang Z, Wu Y, Lyon GJ, Wigler M, Schatz MC. Accurate de novo and transmitted indel detection in exome-capture data using microassembly. Nat Methods. 2014 Oct; 11(10):1033-6. PMID: [25128977](//www.ncbi.nlm.nih.gov/pubmed/25128977); PMCID: [PMC4180789](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4180789).
+
+Citations:
+[104](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25128977/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:Humans
+
+  10. Potty AS, Kourentzi K, **Fang H** , Schuck P, Willson RC. Biophysical characterization of DNA and RNA aptamer interactions with hen egg lysozyme. Int J Biol Macromol. 2011 Apr 01; 48(3):392-7. PMID: [21167858](//www.ncbi.nlm.nih.gov/pubmed/21167858).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21167858/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:AnimalsCells
+
+  11. Potty AS, Kourentzi K, **Fang H** , Jackson GW, Zhang X, Legge GB, Willson RC. Biophysical characterization of DNA aptamer interactions with vascular endothelial growth factor. Biopolymers. 2009 Feb; 91(2):145-56. PMID: [19025993](//www.ncbi.nlm.nih.gov/pubmed/19025993).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19025993/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 7 distinct years, with a maximum of 3
+publications in
+2018](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,33,0,0,0,67,0,33,33,100,0,0,0,0,0,67&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2009| 1  
+2010| 1  
+2014| 2  
+2016| 1  
+2017| 1  
+2018| 3  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+FANG's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (72)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [INDEL Mutation](https://profiles.viictr.org/profile/261052)
+  * [Sequence Analysis](https://profiles.viictr.org/profile/264621)
+  * [DNA Mutational Analysis](https://profiles.viictr.org/profile/264593)
+  * [Computational Biology](https://profiles.viictr.org/profile/263266)
+  * [High-Throughput Nucleotide Sequencing](https://profiles.viictr.org/profile/27546256)
+
+[Explore](https://profiles.viictr.org/profile/37805261/198)
+
+_
+
+Co-Authors (1)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SEDLAZECK, FRITZ](https://profiles.viictr.org/profile/24845007)
+
+[Explore](https://profiles.viictr.org/profile/37805261/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [SEDLAZECK, FRITZ](https://profiles.viictr.org/profile/24845007)
+  * [LUTHRA, RAJYALAKSHMI](https://profiles.viictr.org/profile/12582922)
+  * [LICHTARGE, OLIVIER](https://profiles.viictr.org/profile/269815)
+
+[Explore](https://profiles.viictr.org/profile/37805261/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ANDERSON, MICHAEL](https://profiles.viictr.org/profile/30445200)
+  * [DIBELLO, THOMAS](https://profiles.viictr.org/profile/266482)
+  * [KROUSKOP, THOMAS](https://profiles.viictr.org/profile/267406)
+  * [POSZYWAK, KELLY](https://profiles.viictr.org/profile/30445155)
+  * [WATERS, VICKI](https://profiles.viictr.org/profile/266787)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8YlNXMdSlffdBoax7hzlUnB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

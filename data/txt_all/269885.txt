@@ -1,0 +1,304 @@
+## BAIPING WANG
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=NKo58WzJJ5zVRIzgrn7GPw%3d%3d&rnd=b9639468-d8a7-4b0a-afda-
+eaff8a998b26)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269885)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Huffington Center on Aging  
+Division| Huffington Ctr on Aging  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Wang B** , Martini-Stoica H, [Qi C](https://profiles.viictr.org/profile/38374051), [Lu TC](https://profiles.viictr.org/profile/35089796), Wang S, Xiong W, Qi Y, Xu Y, Sardiello M, Li H, [Zheng H](https://profiles.viictr.org/profile/269684). TFEB-vacuolar ATPase signaling regulates lysosomal function and microglial activation in tauopathy. Nat Neurosci. 2024 Jan; 27(1):48-62. PMID: [37985800](//www.ncbi.nlm.nih.gov/pubmed/37985800).
+
+Citations:  Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  2. **Wang B** , Martini-Stoica H, [Qi C](https://profiles.viictr.org/profile/38374051), [Lu TC](https://profiles.viictr.org/profile/35089796), Wang S, Xiong W, Qi Y, Xu Y, Sardiello M, Li H, [Zheng H](https://profiles.viictr.org/profile/269684). TFEB-vacuolar ATPase signaling regulates lysosomal function and microglial activation in tauopathy. bioRxiv. 2023 Feb 06. PMID: [36798205](//www.ncbi.nlm.nih.gov/pubmed/36798205); PMCID: [PMC9934527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9934527).
+
+Citations:
+
+  3. [Niu M](https://profiles.viictr.org/profile/24845219), Cao W, Wang Y, Zhu Q, [Luo J](https://profiles.viictr.org/profile/31194425), **Wang B** , [Zheng H](https://profiles.viictr.org/profile/269684), Weitz DA, [Zong C](https://profiles.viictr.org/profile/2619389). Droplet-based transcriptome profiling of individual synapses. Nat Biotechnol. 2023 09; 41(9):1332-1344. PMID: [36646931](//www.ncbi.nlm.nih.gov/pubmed/36646931).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36646931/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:HumansAnimalsCells
+
+  4. Roy ER, Chiu G, Li S, Propson NE, Kanchi R, **Wang B** , [Coarfa C](https://profiles.viictr.org/profile/265668), [Zheng H](https://profiles.viictr.org/profile/269684), Cao W. Concerted type I interferon signaling in microglia and neural cells promotes memory impairment associated with amyloid ? plaques. Immunity. 2022 05 10; 55(5):879-894.e6. PMID: [35443157](//www.ncbi.nlm.nih.gov/pubmed/35443157); PMCID: [PMC9109419](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9109419).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  5. Chen F, Swartzlander DB, Ghosh A, Fryer JD, **Wang B** , [Zheng H](https://profiles.viictr.org/profile/269684). Clusterin secreted from astrocyte promotes excitatory synaptic transmission and ameliorates Alzheimer's disease neuropathology. Mol Neurodegener. 2021 01 31; 16(1):5. PMID: [33517893](//www.ncbi.nlm.nih.gov/pubmed/33517893); PMCID: [PMC7849119](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7849119).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33517893/citedby/) Fields:
+
+Mol Molecular BiologyNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  6. **Wang B** , Li H, [Mutlu SA](https://profiles.viictr.org/profile/1826735), Bowser DA, Moore MJ, Wang MC, [Zheng H](https://profiles.viictr.org/profile/269684). The Amyloid Precursor Protein Is a Conserved Receptor for Slit to Mediate Axon Guidance. eNeuro. 2017 May-Jun; 4(3). PMID: [28785723](//www.ncbi.nlm.nih.gov/pubmed/28785723); PMCID: [PMC5534435](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5534435).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28785723/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  7. **Wang B** , Wang Z, Sun L, Yang L, Li H, Cole AL, Rodriguez-Rivera J, Lu HC, [Zheng H](https://profiles.viictr.org/profile/269684). The amyloid precursor protein controls adult hippocampal neurogenesis through GABAergic interneurons. J Neurosci. 2014 Oct 01; 34(40):13314-25. PMID: [25274811](//www.ncbi.nlm.nih.gov/pubmed/25274811); PMCID: [PMC4180470](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4180470).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25274811/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  8. Polito VA, Li H, Martini-Stoica H, **Wang B** , Yang L, Xu Y, Swartzlander DB, Palmieri M, di Ronza A, Lee VM, Sardiello M, [Ballabio A](https://profiles.viictr.org/profile/266220), [Zheng H](https://profiles.viictr.org/profile/269684). Selective clearance of aberrant tau proteins and rescue of neurotoxicity by transcription factor EB. EMBO Mol Med. 2014 Sep; 6(9):1142-60. PMID: [25069841](//www.ncbi.nlm.nih.gov/pubmed/25069841); PMCID: [PMC4197862](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4197862).
+
+Citations:
+[152](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25069841/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  9. **Wang B** , Harrison W, [Overbeek PA](https://profiles.viictr.org/profile/268020), [Zheng H](https://profiles.viictr.org/profile/269684). Transposon mutagenesis with coat color genotyping identifies an essential role for Skor2 in sonic hedgehog signaling and cerebellum development. Development. 2011 Oct; 138(20):4487-97. PMID: [21937600](//www.ncbi.nlm.nih.gov/pubmed/21937600); PMCID: [PMC3177318](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3177318).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21937600/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  10. Li H, **Wang B** , Wang Z, Guo Q, Tabuchi K, Hammer RE, [Zheng H](https://profiles.viictr.org/profile/269684), S?dhof TC. Soluble amyloid precursor protein (APP) regulates transthyretin and Klotho gene expression without rescuing the essential function of APP. Proc Natl Acad Sci U S A. 2010 Oct 05; 107(40):17362-7. PMID: [20855613](//www.ncbi.nlm.nih.gov/pubmed/20855613); PMCID: [PMC2951422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2951422).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20855613/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  11. Li H, Wang Z, **Wang B** , Guo Q, Dolios G, Tabuchi K, Hammer RE, Wang R, [Zheng H](https://profiles.viictr.org/profile/269684), S?dhof TC. Genetic dissection of the amyloid precursor protein in developmental function and amyloid pathogenesis. J Biol Chem. 2010 Oct 01; 285(40):30598-605. PMID: [20693289](//www.ncbi.nlm.nih.gov/pubmed/20693289); PMCID: [PMC2945554](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2945554).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20693289/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  12. Yang L, Wang Z, **Wang B** , Justice NJ, [Zheng H](https://profiles.viictr.org/profile/269684). Amyloid precursor protein regulates Cav1.2 L-type calcium channel levels and function to influence GABAergic short-term plasticity. J Neurosci. 2009 Dec 16; 29(50):15660-8. PMID: [20016080](//www.ncbi.nlm.nih.gov/pubmed/20016080); PMCID: [PMC2833283](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2833283).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20016080/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  13. Wang Z, **Wang B** , Yang L, Guo Q, Aithmitti N, Songyang Z, [Zheng H](https://profiles.viictr.org/profile/269684). Presynaptic and postsynaptic interaction of the amyloid precursor protein promotes peripheral and central synaptogenesis. J Neurosci. 2009 Sep 02; 29(35):10788-801. PMID: [19726636](//www.ncbi.nlm.nih.gov/pubmed/19726636); PMCID: [PMC2757256](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2757256).
+
+Citations:
+[109](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19726636/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  14. **Wang B** , Yang L, Wang Z, [Zheng H](https://profiles.viictr.org/profile/269684). Amyolid precursor protein mediates presynaptic localization and activity of the high-affinity choline transporter. Proc Natl Acad Sci U S A. 2007 Aug 28; 104(35):14140-5. PMID: [17709753](//www.ncbi.nlm.nih.gov/pubmed/17709753); PMCID: [PMC1955810](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1955810).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17709753/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  15. Wang R, **Wang B** , He W, [Zheng H](https://profiles.viictr.org/profile/269684). Wild-type presenilin 1 protects against Alzheimer disease mutation-induced amyloid pathology. J Biol Chem. 2006 Jun 02; 281(22):15330-6. PMID: [16574645](//www.ncbi.nlm.nih.gov/pubmed/16574645).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16574645/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 15 publications over 10 distinct years, with a maximum of
+3 publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,33,33,0,67,67,33,0,0,67,0,0,33,0,0,0,33,33,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 1  
+2007| 1  
+2009| 2  
+2010| 2  
+2011| 1  
+2014| 2  
+2017| 1  
+2021| 1  
+2022| 1  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+WANG's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (118)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Amyloid beta-Protein Precursor](https://profiles.viictr.org/profile/243727)
+  * [Tauopathies](https://profiles.viictr.org/profile/251366)
+  * [Vacuolar Proton-Translocating ATPases](https://profiles.viictr.org/profile/248522)
+  * [Axon Guidance](https://profiles.viictr.org/profile/27544908)
+  * [Alzheimer Disease](https://profiles.viictr.org/profile/250108)
+
+[Explore](https://profiles.viictr.org/profile/269885/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ZHENG, HUI](https://profiles.viictr.org/profile/269684)
+  * [LU, TZU-CHIAO](https://profiles.viictr.org/profile/35089796)
+  * [Qi, chuangye](https://profiles.viictr.org/profile/38374051)
+  * [ZONG, CHENGHANG](https://profiles.viictr.org/profile/2619389)
+  * [NIU, Muchun](https://profiles.viictr.org/profile/24845219)
+
+[Explore](https://profiles.viictr.org/profile/269885/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZHENG, HUI](https://profiles.viictr.org/profile/269684)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [JANKOWSKY, JOANNA](https://profiles.viictr.org/profile/265826)
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [DOODY, RACHELLE](https://profiles.viictr.org/profile/269523)
+
+[Explore](https://profiles.viictr.org/profile/269885/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ARENKIEL, BENJAMIN](https://profiles.viictr.org/profile/266249)
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [LALANI, SEEMA](https://profiles.viictr.org/profile/269910)
+  * [POTOCKI, LORRAINE](https://profiles.viictr.org/profile/268316)
+  * [SZAFRANSKI, PRZEMYSLAW](https://profiles.viictr.org/profile/270154)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [HERMAN, CHRISTOPHE](https://profiles.viictr.org/profile/269211)
+  * [IRA, GRZEGORZ](https://profiles.viictr.org/profile/269248)
+  * [JAFAR-NEJAD, HAMED](https://profiles.viictr.org/profile/269877)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [WARD, PATRICIA](https://profiles.viictr.org/profile/268009)
+
+_
+

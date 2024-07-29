@@ -1,0 +1,673 @@
+## HAMED JAFAR-NEJAD
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Pqo95GHNQIn2S8Ho5G4%3d&rnd=4398a0fc-686d-48bb-b823-15da884ff17f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269877)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=269877&cachekey=187c239a-479e-4063-99e2-5fb8645a1666)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Affiliation  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+groups
+
+  * [Dr. Shaulsky's Group](https://profiles.viictr.org/profile/28672289) (Member) 
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01DK132751 (JAFAR-NEJAD, HAMED)Sep 1, 2022 - Jul 31, 2025NIH  
+Targeting POGLUT1 to promote biliary development in Alagille syndrome  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01AR076770 (JAFAR-NEJAD, HAMED)Jul 8, 2020 - Jun 30, 2025NIH  
+REGULATION OF SKELETAL MUSCLE DEVELOPMENT AND MAINTENANCE BY PROTEIN
+O-GLUCOSYLTRANSFERASE 1 (POGLUT1)  
+Role: Principal Investigator  
+  
+* * *  
+  
+R35GM130317 (JAFAR-NEJAD, HAMED)Feb 1, 2019 - Jan 31, 2025NIH  
+Regulation of developmental signaling pathways by glycosylation and
+deglycosylation  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01DK109982 (JAFAR-NEJAD, HAMED)Jul 15, 2016 - Jun 30, 2021NIH  
+Negative regulation of Jagged1 by glycosylation: towards a mechanism-based
+therapy for Alagille syndrome  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM084135 (JAFAR-NEJAD, HAMED)Apr 1, 2008 - Dec 31, 2018NIH  
+Fine-Tuning the Notch Signaling Pathway via O-Glucosylation  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Pandey A](https://profiles.viictr.org/profile/15317909), Galeone A, Han SY, Story BA, Consonni G, Mueller WF, Steinmetz LM, Vaccari T, **Jafar-Nejad H**. Gut barrier defects, intestinal immune hyperactivation and enhanced lipid catabolism drive lethality in NGLY1-deficient Drosophila. Nat Commun. 2023 09 13; 14(1):5667. PMID: [37704604](//www.ncbi.nlm.nih.gov/pubmed/37704604); PMCID: [PMC10499810](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10499810).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37704604/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  2. Ortiz-Vitali JL, Wu J, Xu N, Shieh AW, Niknejad N, Takeuchi M, Paradas C, Lin C, **Jafar-Nejad H** , Haltiwanger RS, Wang SH, Darabi R. Disease modeling and gene correction of LGMDR21 iPSCs elucidates the role of POGLUT1 in skeletal muscle maintenance, regeneration, and the satellite cell niche. Mol Ther Nucleic Acids. 2023 Sep 12; 33:683-697. PMID: [37650119](//www.ncbi.nlm.nih.gov/pubmed/37650119); PMCID: [PMC10462830](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10462830).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37650119/citedby/)
+
+  3. Niknejad N, Fox D, Burwinkel JL, [Zarrin-Khameh N](https://profiles.viictr.org/profile/269793), [Cho S](https://profiles.viictr.org/profile/31168780), Soriano A, Cast AE, Lopez MF, Huppert KA, Rigo F, Huppert SS, Jafar-Nejad P, **Jafar-Nejad H**. ASO silencing of a glycosyltransferase, Poglut1 , improves the liver phenotypes in mouse models of Alagille syndrome. Hepatology. 2023 11 01; 78(5):1337-1351. PMID: [37021797](//www.ncbi.nlm.nih.gov/pubmed/37021797); PMCID: [PMC10558624](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10558624).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+  4. [Pandey A](https://profiles.viictr.org/profile/15317909), Galeone A, Han SY, Story BA, Consonni G, Mueller WF, Steinmetz LM, Vaccari T, **Jafar-Nejad H**. Gut barrier defects, increased intestinal innate immune response, and enhanced lipid catabolism drive lethality in N -glycanase 1 deficient Drosophila. bioRxiv. 2023 Apr 07. PMID: [37066398](//www.ncbi.nlm.nih.gov/pubmed/37066398); PMCID: [PMC10104161](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10104161).
+
+Citations:
+
+  5. [Pandey A](https://profiles.viictr.org/profile/15317909), Adams JM, [Han SY](https://profiles.viictr.org/profile/1826522), **Jafar-Nejad H**. NGLY1 Deficiency, a Congenital Disorder of Deglycosylation: From Disease Gene Function to Pathophysiology. Cells. 2022 03 29; 11(7). PMID: [35406718](//www.ncbi.nlm.nih.gov/pubmed/35406718); PMCID: [PMC8997433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8997433).
+
+Citations:  Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  6. [Pandey A](https://profiles.viictr.org/profile/15317909), **Jafar-Nejad H**. Tracing the NGLY1 footprints: insights from Drosophila. J Biochem. 2022 Feb 21; 171(2):153-160. PMID: [34270726](//www.ncbi.nlm.nih.gov/pubmed/34270726); PMCID: [PMC9005052](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9005052).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34270726/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimals
+
+  7. [Pandey A](https://profiles.viictr.org/profile/15317909), Niknejad N, **Jafar-Nejad H**. Multifaceted regulation of Notch signaling by glycosylation. Glycobiology. 2021 01 09; 31(1):8-28. PMID: [32472127](//www.ncbi.nlm.nih.gov/pubmed/32472127); PMCID: [PMC7799146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7799146).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32472127/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  8. [Han SY](https://profiles.viictr.org/profile/1826522), [Pandey A](https://profiles.viictr.org/profile/15317909), Moore T, Galeone A, Duraine L, Cowan TM, **Jafar-Nejad H**. A conserved role for AMP-activated protein kinase in NGLY1 deficiency. PLoS Genet. 2020 12; 16(12):e1009258. PMID: [33315951](//www.ncbi.nlm.nih.gov/pubmed/33315951); PMCID: [PMC7769621](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7769621).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33315951/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  9. Galeone A, Adams JM, Matsuda S, Presa MF, [Pandey A](https://profiles.viictr.org/profile/15317909), [Han SY](https://profiles.viictr.org/profile/1826522), Tachida Y, Hirayama H, Vaccari T, Suzuki T, Lutz CM, Affolter M, Zuberi A, **Jafar-Nejad H**. Regulation of BMP4/Dpp retrotranslocation and signaling by deglycosylation. Elife. 2020 07 28; 9. PMID: [32720893](//www.ncbi.nlm.nih.gov/pubmed/32720893); PMCID: [PMC7394544](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7394544).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32720893/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  10. Adams JM, Huppert KA, Castro EC, Lopez MF, Niknejad N, Subramanian S, [Zarrin-Khameh N](https://profiles.viictr.org/profile/269793), [Finegold MJ](https://profiles.viictr.org/profile/269596), Huppert SS, **Jafar-Nejad H**. Sox9 Is a Modifier of the Liver Disease Severity in a Mouse Model of Alagille Syndrome. Hepatology. 2020 04; 71(4):1331-1349. PMID: [31469182](//www.ncbi.nlm.nih.gov/pubmed/31469182); PMCID: [PMC7048647](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7048647).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31469182/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimalsCells
+
+  11. Johnson K, Pandey A, Ito A, Chamova T, Mongini T, Nafissi S, Claeys KG, Grewal RP, Takeuchi M, Hao H, Lopes Abath Neto O, Medne L, Brandsema J, Taneva A, Tournev I, Haltiwanger RS, Takeuchi H, **Jafar-Nejad H** , Straub V, Servi?n-Morilla E, Cabrera-Serrano M, Rivas E, Muelas N, B?nnemann C, T?pf A, Vilchez JJ, Paradas C. POGLUT1 biallelic mutations cause myopathy with reduced satellite cells, a-dystroglycan hypoglycosylation and a distinctive radiological pattern. Acta Neuropathol. 2020 03; 139(3):565-582. PMID: [31897643](//www.ncbi.nlm.nih.gov/pubmed/31897643); PMCID: [PMC7196238](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7196238).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31897643/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  12. [Pandey A](https://profiles.viictr.org/profile/15317909), Harvey BM, Lopez MF, Ito A, Haltiwanger RS, **Jafar-Nejad H**. Glycosylation of Specific Notch EGF Repeats by O-Fut1 and Fringe Regulates Notch Signaling in Drosophila. Cell Rep. 2019 11 12; 29(7):2054-2066.e6. PMID: [31722217](//www.ncbi.nlm.nih.gov/pubmed/31722217); PMCID: [PMC6866671](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6866671).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31722217/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  13. Adams JM, **Jafar-Nejad H**. The Roles of Notch Signaling in Liver Development and Disease. Biomolecules. 2019 10 14; 9(10). PMID: [31615106](//www.ncbi.nlm.nih.gov/pubmed/31615106); PMCID: [PMC6843177](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6843177).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31615106/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  14. Adams JM, **Jafar-Nejad H**. Determining Bile Duct Density in the Mouse Liver. J Vis Exp. 2019 04 30; (146). PMID: [31107443](//www.ncbi.nlm.nih.gov/pubmed/31107443); PMCID: [PMC6555135](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6555135).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31107443/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Animals
+
+  15. Niknejad N, **Jafar-Nejad H**. Unbiased glycomics: a powerful tool in rare disease diagnosis and research. Transl Res. 2019 04; 206:1-4. PMID: [30528322](//www.ncbi.nlm.nih.gov/pubmed/30528322).
+
+Citations:  Fields:
+
+Cli Clinical Laboratory TechniquesMed Medicine (General)
+
+Translation:Humans
+
+  16. [Pandey A](https://profiles.viictr.org/profile/15317909), [Li-Kroeger D](https://profiles.viictr.org/profile/3010457), Sethi MK, [Lee TV](https://profiles.viictr.org/profile/3010104), Buettner FF, Bakker H, **Jafar-Nejad H**. Sensitized genetic backgrounds reveal differential roles for EGF repeat xylosyltransferases in Drosophila Notch signaling. Glycobiology. 2018 11 01; 28(11):849-859. PMID: [30169771](//www.ncbi.nlm.nih.gov/pubmed/30169771); PMCID: [PMC6454539](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6454539).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30169771/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  17. Adams JM, **Jafar-Nejad H**. A New Model of Alagille Syndrome With Broad Phenotypic Representation. Gastroenterology. 2018 03; 154(4):803-806. PMID: [29425927](//www.ncbi.nlm.nih.gov/pubmed/29425927).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29425927/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Animals
+
+  18. [Pandey A](https://profiles.viictr.org/profile/15317909), **Jafar-Nejad H**. Cell Aggregation Assays to Evaluate the Binding of the Drosophila Notch with Trans-Ligands and its Inhibition by Cis-Ligands. J Vis Exp. 2018 01 02; (131). PMID: [29364239](//www.ncbi.nlm.nih.gov/pubmed/29364239); PMCID: [PMC5875548](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5875548).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29364239/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Animals
+
+  19. Wu J, Hunt SD, Matthias N, Lo J, **Jafar-Nejad H** , Darabi R, Servi?n-Morilla E, Paradas C. Generation of an induced pluripotent stem cell line (CSCRMi001-A) from a patient with a new type of limb-girdle muscular dystrophy (LGMD) due to a missense mutation in POGLUT1 (Rumi). Stem Cell Res. 2017 10; 24:102-105. PMID: [29034878](//www.ncbi.nlm.nih.gov/pubmed/29034878); PMCID: [PMC5679726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5679726).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29034878/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  20. Galeone A, [Han SY](https://profiles.viictr.org/profile/1826522), Huang C, Hosomi A, Suzuki T, **Jafar-Nejad H**. Tissue-specific regulation of BMP signaling by Drosophila N-glycanase 1. Elife. 2017 08 04; 6. PMID: [28826503](//www.ncbi.nlm.nih.gov/pubmed/28826503); PMCID: [PMC5599231](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5599231).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28826503/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  21. [Lee TV](https://profiles.viictr.org/profile/3010104), [Pandey A](https://profiles.viictr.org/profile/15317909), **Jafar-Nejad H**. Xylosylation of the Notch receptor preserves the balance between its activation by trans-Delta and inhibition by cis-ligands in Drosophila. PLoS Genet. 2017 04; 13(4):e1006723. PMID: [28394891](//www.ncbi.nlm.nih.gov/pubmed/28394891); PMCID: [PMC5402982](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5402982).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28394891/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  22. Takeuchi H, Lee TV, Morgado Y, Pita G, Hirano M, Haltiwanger RS, **Jafar-Nejad H** , Servi?n-Morilla E, Clarimon J, Mavillard F, Area-G?mez E, Rivas E, Nieto-Gonz?lez JL, Rivero MC, Cabrera-Serrano M, G?mez-S?nchez L, Mart?nez-L?pez JA, Estrada B, M?rquez C, Su?rez-Calvet X, Bigot A, Gallardo E, Fern?ndez-Chac?n R, Paradas C. A POGLUT1 mutation causes a muscular dystrophy with reduced Notch signaling and satellite cell loss. EMBO Mol Med. 2016 11; 8(11):1289-1309. PMID: [27807076](//www.ncbi.nlm.nih.gov/pubmed/27807076); PMCID: [PMC5090660](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5090660).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27807076/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  23. Harvey BM, Rana NA, Moss H, Leonardi J, **Jafar-Nejad H** , Haltiwanger RS. Mapping Sites of O-Glycosylation and Fringe Elongation on Drosophila Notch. J Biol Chem. 2016 07 29; 291(31):16348-60. PMID: [27268051](//www.ncbi.nlm.nih.gov/pubmed/27268051); PMCID: [PMC4965582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4965582).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27268051/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  24. Thakurdas SM, Lopez MF, Kakuda S, Fernandez-Valdivia R, [Zarrin-Khameh N](https://profiles.viictr.org/profile/269793), Haltiwanger RS, **Jafar-Nejad H**. Jagged1 heterozygosity in mice results in a congenital cholangiopathy which is reversed by concomitant deletion of one copy of Poglut1 (Rumi). Hepatology. 2016 Feb; 63(2):550-65. PMID: [26235536](//www.ncbi.nlm.nih.gov/pubmed/26235536); PMCID: [PMC4718747](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4718747).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26235536/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimals
+
+  25. Haltom AR, **Jafar-Nejad H**. The multiple roles of epidermal growth factor repeat O-glycans in animal development. Glycobiology. 2015 Oct; 25(10):1027-42. PMID: [26175457](//www.ncbi.nlm.nih.gov/pubmed/26175457); PMCID: [PMC4551148](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4551148).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26175457/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  26. He P, Grotzke JE, Ng BG, Gunel M, **Jafar-Nejad H** , Cresswell P, Enns GM, Freeze HH. A congenital disorder of deglycosylation: Biochemical characterization of N-glycanase 1 deficiency in patient fibroblasts. Glycobiology. 2015 Aug; 25(8):836-44. PMID: [25900930](//www.ncbi.nlm.nih.gov/pubmed/25900930); PMCID: [PMC4487302](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4487302).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25900930/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  27. Haltom AR, [Lee TV](https://profiles.viictr.org/profile/3010104), Harvey BM, Leonardi J, Chen YJ, Hong Y, Haltiwanger RS, **Jafar-Nejad H**. The protein O-glucosyltransferase Rumi modifies eyes shut to promote rhabdomere separation in Drosophila. PLoS Genet. 2014 Nov; 10(11):e1004795. PMID: [25412384](//www.ncbi.nlm.nih.gov/pubmed/25412384); PMCID: [PMC4238978](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4238978).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25412384/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  28. LeBon L, Lee TV, Sprinzak D, **Jafar-Nejad H** , Elowitz MB. Fringe proteins modulate Notch-ligand cis and trans interactions to specify signaling states. Elife. 2014 Sep 25; 3:e02950. PMID: [25255098](//www.ncbi.nlm.nih.gov/pubmed/25255098); PMCID: [PMC4174579](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4174579).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25255098/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  29. Leonardi J, **Jafar-Nejad H**. Structure-function analysis of Drosophila Notch using genomic rescue transgenes. Methods Mol Biol. 2014; 1187:29-46. PMID: [25053479](//www.ncbi.nlm.nih.gov/pubmed/25053479).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25053479/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  30. [Lee TV](https://profiles.viictr.org/profile/3010104), Sethi MK, Leonardi J, Rana NA, Buettner FF, Haltiwanger RS, Bakker H, **Jafar-Nejad H**. Negative regulation of notch signaling by xylose. PLoS Genet. 2013 Jun; 9(6):e1003547. PMID: [23754965](//www.ncbi.nlm.nih.gov/pubmed/23754965); PMCID: [PMC3675014](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3675014).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23754965/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  31. Takeuchi H, Caswell DS, Nita-Lazar A, Rana NA, Garner TP, Weldeghiorghis TK, Macnaughtan MA, **Jafar-Nejad H** , Haltiwanger RS, Fern?ndez-Valdivia RC. Rumi functions as both a protein O-glucosyltransferase and a protein O-xylosyltransferase. Proc Natl Acad Sci U S A. 2011 Oct 04; 108(40):16600-5. PMID: [21949356](//www.ncbi.nlm.nih.gov/pubmed/21949356); PMCID: [PMC3189016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3189016).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21949356/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  32. Leonardi J, Fernandez-Valdivia R, Li YD, Simcox AA, **Jafar-Nejad H**. Multiple O-glucosylation sites on Notch function as a buffer against temperature-dependent loss of signaling. Development. 2011 Aug; 138(16):3569-78. PMID: [21771811](//www.ncbi.nlm.nih.gov/pubmed/21771811); PMCID: [PMC3143569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3143569).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21771811/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  33. Fernandez-Valdivia R, Takeuchi H, Samarghandi A, Lopez M, Leonardi J, Haltiwanger RS, **Jafar-Nejad H**. Regulation of mammalian Notch signaling and embryonic development by the protein O-glucosyltransferase Rumi. Development. 2011 May; 138(10):1925-34. PMID: [21490058](//www.ncbi.nlm.nih.gov/pubmed/21490058); PMCID: [PMC3082299](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3082299).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21490058/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  34. **Jafar-Nejad H** , Leonardi J, Fernandez-Valdivia R. Role of glycans and glycosyltransferases in the regulation of Notch signaling. Glycobiology. 2010 Aug; 20(8):931-49. PMID: [20368670](//www.ncbi.nlm.nih.gov/pubmed/20368670); PMCID: [PMC2912550](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2912550).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20368670/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  35. Lee TV, Takeuchi H, **Jafar-Nejad H**. Regulation of notch signaling via O-glucosylation insights from Drosophila studies. Methods Enzymol. 2010; 480:375-98. PMID: [20816218](//www.ncbi.nlm.nih.gov/pubmed/20816218).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20816218/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  36. Simcox AA, Austin CL, Jacobsen TL, **Jafar-Nejad H**. Drosophila embryonic 'fibroblasts': extending mutant analysis in vitro. Fly (Austin). 2008 Nov-Dec; 2(6):306-9. PMID: [19077546](//www.ncbi.nlm.nih.gov/pubmed/19077546); PMCID: [PMC4228982](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4228982).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19077546/citedby/) Fields:
+
+Zoo Zoology
+
+Translation:AnimalsCells
+
+  37. Lim J, **Jafar-Nejad H** , Hsu YC, Choi KW. Novel function of the class I bHLH protein Daughterless in the negative regulation of proneural gene expression in the Drosophila eye. EMBO Rep. 2008 Nov; 9(11):1128-33. PMID: [18758436](//www.ncbi.nlm.nih.gov/pubmed/18758436); PMCID: [PMC2581853](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2581853).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18758436/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  38. Acar M, **Jafar-Nejad H** , Takeuchi H, Rajan A, Ibrani D, Rana NA, Pan H, Haltiwanger RS, [Bellen HJ](https://profiles.viictr.org/profile/268278). Rumi is a CAP10 domain glycosyltransferase that modifies Notch and is required for Notch signaling. Cell. 2008 Jan 25; 132(2):247-58. PMID: [18243100](//www.ncbi.nlm.nih.gov/pubmed/18243100); PMCID: [PMC2275919](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2275919).
+
+Citations:
+[142](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18243100/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  39. Rogaeva A, Ou XM, **Jafar-Nejad H** , Lemonde S, Albert PR. Differential repression by freud-1/CC2D1A at a polymorphic site in the dopamine-D2 receptor gene. J Biol Chem. 2007 Jul 20; 282(29):20897-905. PMID: [17535813](//www.ncbi.nlm.nih.gov/pubmed/17535813).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17535813/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  40. Acar M, **Jafar-Nejad H** , Giagtzoglou N, Yallampalli S, David G, He Y, Delidakis C, [Bellen HJ](https://profiles.viictr.org/profile/268278). Senseless physically interacts with proneural proteins and functions as a transcriptional co-activator. Development. 2006 May; 133(10):1979-89. PMID: [16624856](//www.ncbi.nlm.nih.gov/pubmed/16624856).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16624856/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  41. **Jafar-Nejad H** , Tien AC, Acar M, [Bellen HJ](https://profiles.viictr.org/profile/268278). Senseless and Daughterless confer neuronal identity to epithelial cells in the Drosophila wing margin. Development. 2006 May; 133(9):1683-92. PMID: [16554363](//www.ncbi.nlm.nih.gov/pubmed/16554363).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16554363/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  42. Hamaratoglu F, Willecke M, Kango-Singh M, Nolo R, Hyun E, Tao C, **Jafar-Nejad H** , Halder G. The tumour-suppressor genes NF2/Merlin and Expanded act through Hippo signalling to regulate cell proliferation and apoptosis. Nat Cell Biol. 2006 Jan; 8(1):27-36. PMID: [16341207](//www.ncbi.nlm.nih.gov/pubmed/16341207).
+
+Citations:
+[372](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16341207/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  43. **Jafar-Nejad H** , Andrews HK, Acar M, Bayat V, Wirtz-Peitz F, Mehta SQ, Knoblich JA, [Bellen HJ](https://profiles.viictr.org/profile/268278). Sec15, a component of the exocyst, promotes notch signaling during the asymmetric division of Drosophila sensory organ precursors. Dev Cell. 2005 Sep; 9(3):351-63. PMID: [16137928](//www.ncbi.nlm.nih.gov/pubmed/16137928).
+
+Citations:
+[99](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16137928/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  44. Tsuda H, **Jafar-Nejad H** , [Patel AJ](https://profiles.viictr.org/profile/7520391), Sun Y, Chen HK, Rose MF, [Venken KJ](https://profiles.viictr.org/profile/3010184), [Botas J](https://profiles.viictr.org/profile/269750), Orr HT, [Bellen HJ](https://profiles.viictr.org/profile/268278), [Zoghbi HY](https://profiles.viictr.org/profile/267945). The AXH domain of Ataxin-1 mediates neurodegeneration through its interaction with Gfi-1/Senseless proteins. Cell. 2005 Aug 26; 122(4):633-44. PMID: [16122429](//www.ncbi.nlm.nih.gov/pubmed/16122429).
+
+Citations:
+[97](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16122429/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  45. **Jafar-Nejad H** , [Bellen HJ](https://profiles.viictr.org/profile/268278). Gfi/Pag-3/senseless zinc finger proteins: a unifying theme? Mol Cell Biol. 2004 Oct; 24(20):8803-12. PMID: [15456856](//www.ncbi.nlm.nih.gov/pubmed/15456856); PMCID: [PMC517899](//www.ncbi.nlm.nih.gov/pmc/articles/PMC517899).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15456856/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  46. Quan XJ, Denayer T, Yan J, **Jafar-Nejad H** , Philippi A, [Lichtarge O](https://profiles.viictr.org/profile/269815), Vleminckx K, Hassan BA. Evolution of neural precursor selection: functional divergence of proneural proteins. Development. 2004 Apr; 131(8):1679-89. PMID: [15084454](//www.ncbi.nlm.nih.gov/pubmed/15084454).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15084454/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  47. **Jafar-Nejad H** , Acar M, Nolo R, Lacin H, Pan H, Parkhurst SM, [Bellen HJ](https://profiles.viictr.org/profile/268278). Senseless acts as a binary switch during sensory organ precursor selection. Genes Dev. 2003 Dec 01; 17(23):2966-78. PMID: [14665671](//www.ncbi.nlm.nih.gov/pubmed/14665671); PMCID: [PMC289154](//www.ncbi.nlm.nih.gov/pmc/articles/PMC289154).
+
+Citations:
+[70](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14665671/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  48. Zhai RG, Hiesinger PR, Koh TW, Verstreken P, Schulze KL, Cao Y, **Jafar-Nejad H** , Norga KK, Pan H, Bayat V, Greenbaum MP, [Bellen HJ](https://profiles.viictr.org/profile/268278). Mapping Drosophila mutations with molecularly defined P element insertions. Proc Natl Acad Sci U S A. 2003 Sep 16; 100(19):10860-5. PMID: [12960394](//www.ncbi.nlm.nih.gov/pubmed/12960394); PMCID: [PMC196893](//www.ncbi.nlm.nih.gov/pmc/articles/PMC196893).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12960394/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  49. Ou XM, Lemonde S, **Jafar-Nejad H** , Bown CD, Goto A, Rogaeva A, Albert PR. Freud-1: A neuronal calcium-regulated repressor of the 5-HT1A receptor gene. J Neurosci. 2003 Aug 13; 23(19):7415-25. PMID: [12917378](//www.ncbi.nlm.nih.gov/pubmed/12917378); PMCID: [PMC6740452](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6740452).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12917378/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  50. **Jafar-Nejad H** , Norga K, [Bellen H](https://profiles.viictr.org/profile/268278). Numb: "Adapting" notch for endocytosis. Dev Cell. 2002 Aug; 3(2):155-6. PMID: [12194846](//www.ncbi.nlm.nih.gov/pubmed/12194846).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12194846/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  51. Ou XM, **Jafar-Nejad H** , Storring JM, Meng JH, Lemonde S, Albert PR. Novel dual repressor elements for neuronal cell-specific transcription of the rat 5-HT1A receptor gene. J Biol Chem. 2000 Mar 17; 275(11):8161-8. PMID: [10713139](//www.ncbi.nlm.nih.gov/pubmed/10713139).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10713139/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 51 publications over 21 distinct years, with a maximum of
+4 publications in 2018 and 2020 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,25,0,25,75,50,75,50,25,75,0,50,75,0,25,75,75,50,75,100,75,100,25,50,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2000| 1  
+2002| 1  
+2003| 3  
+2004| 2  
+2005| 3  
+2006| 2  
+2007| 1  
+2008| 3  
+2010| 2  
+2011| 3  
+2013| 1  
+2014| 3  
+2015| 3  
+2016| 2  
+2017| 3  
+2018| 4  
+2019| 3  
+2020| 4  
+2021| 1  
+2022| 2  
+2023| 4  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+JAFAR-NEJAD's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (239)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Receptors, Notch](https://profiles.viictr.org/profile/259668)
+  * [Drosophila Proteins](https://profiles.viictr.org/profile/254034)
+  * [Drosophila](https://profiles.viictr.org/profile/264471)
+  * [Glucosyltransferases](https://profiles.viictr.org/profile/251127)
+  * [Peptide-N4-(N-acetyl-beta-glucosaminyl) Asparagine Amidase](https://profiles.viictr.org/profile/254579)
+
+[Explore](https://profiles.viictr.org/profile/269877/198)
+
+_
+
+Co-Authors (13)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [PANDEY, ASHUTOSH](https://profiles.viictr.org/profile/15317909)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [LEE, TOM](https://profiles.viictr.org/profile/3010104)
+  * [Han, Seung Yeop](https://profiles.viictr.org/profile/1826522)
+  * [ZARRIN-KHAMEH, NEDA](https://profiles.viictr.org/profile/269793)
+
+[Explore](https://profiles.viictr.org/profile/269877/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [DAVIS, RONALD](https://profiles.viictr.org/profile/268115)
+  * [YAMAMOTO, SHINYA](https://profiles.viictr.org/profile/3009536)
+  * [MARDON, GRAEME](https://profiles.viictr.org/profile/268168)
+  * [PANDEY, ASHUTOSH](https://profiles.viictr.org/profile/15317909)
+
+[Explore](https://profiles.viictr.org/profile/269877/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AL-RAMAHI, ISMAEL](https://profiles.viictr.org/profile/3009798)
+  * [BURRAGE, LINDSAY](https://profiles.viictr.org/profile/3010239)
+  * [MENG, LINYAN](https://profiles.viictr.org/profile/3010157)
+  * [SUTTON, VERNON](https://profiles.viictr.org/profile/269795)
+  * [WANG, BAIPING](https://profiles.viictr.org/profile/269885)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [HASTINGS, PHILIP](https://profiles.viictr.org/profile/268348)
+  * [KAIPPARETTU, BENNY](https://profiles.viictr.org/profile/269257)
+  * [KURASAWA, MARIKO](https://profiles.viictr.org/profile/266309)
+  * [NELSON, DAVID](https://profiles.viictr.org/profile/269694)
+  * [STANKIEWICZ, PAWEL](https://profiles.viictr.org/profile/269299)
+
+_
+

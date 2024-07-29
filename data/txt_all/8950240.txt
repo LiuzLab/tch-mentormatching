@@ -1,0 +1,1205 @@
+## ROBERT BRITTON
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BKQy5HfTbqnnT5v573XiKLeBaRSOgg%3d%3d&rnd=60e3df8c-a65e-49ef-9092-7fca27f47caf)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=8950240)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=8950240&cachekey=f2dfa7da-a43a-4cc0-b247-d78ad7dddea8)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Biography  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+awards and honors
+
+2007 - 2013| NSF CAREER Award  
+---|---  
+2010| College of Natural Science Teacher Scholar Award, Michigan State
+University  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+overview
+
+Areas of Interest  
+  
+The role of intestinal bacteria in health and disease  
+Recombineering in lactic acid bacteria  
+GTPase control of ribosome assembly  
+  
+Research Summary  
+  
+1\. The role of intestinal bacteria in health and disease.  
+  
+Recent work into the role of intestinal bacteria in a variety of disease
+states including inflammatory bowel disease, obesity, and diabetes has
+established a clear link between these bacteria and our health. The Britton
+laboratory is focused on two areas of research in this area: the role of
+probiotic bacteria in treating disease and the role of the intestinal
+microbiota in preventing pathogen invasion.  
+  
+Probiotic Lactobacillus reuteri  
+  
+Much of our work focuses on characterizing how different strains of
+Lactobacillus reuteri impact various aspects of the host response including
+inflammation, bone health, pathogen invasion and intestinal function. We use a
+variety of in vitro and animal models to explore how L. reuteri impacts
+health. Our overall goals are to identify novel probiotic strains that can be
+used to prevent or ameliorate disease and to develop a platform for the
+delivery of biotherapeutics.  
+  
+Microbiota and prevention of pathogen invasion.  
+  
+We are interested in understanding how the intestinal microbiota provides a
+barrier to incoming pathogens and how perturbations of the microbiota result
+in an established infection. We have focused most of our attention on the
+pathogen Clostridium difficile, which is the most common cause of antibiotic
+associated diarrhea and is quickly becoming the most common cause of
+nosocomial infections. We have developed mini-bioreactors and mice colonized
+with a human intestinal microbiota to address which members of the community
+are responsible for inhibiting C. difficile invasion. Our ultimate goal is to
+develop a probiotic cocktail derived from the human intestinal microbiota that
+will suppress C. difficile invasion.  
+  
+This project is funded by the NIH Enteric Research Investigative Network
+(ERIN). The Michigan State University ERIN is directed by Linda Mansfield with
+myself and Shannon Manning as project leaders.  
+  
+Collaborators: Much of the work we do is interdisciplinary and thus we engage
+in a number of collaborative projects. Our collaborators include Laura McCabe
+(Michigan State University), Nara Parameswaran (Michigan State University),
+Vincent Young (University of Michigan), James Versalovic (Baylor College of
+Medicine), Stefan Roos (Swedish University of Agricultural Sciences), Eamonn
+Connolly (Biogaia AB), Linda Mansfield (Michigan State University), Shannon
+Manning (Michigan State University), Kathryn Eaton (University of Michigan).  
+  
+  
+2\. Recombineering in lactic acid bacteria.  
+  
+Recombineering technology allows for the precise genetic manipulation of
+bacterial chromosomes. Using single-stranded DNA (ssDNA) recombineering
+technology point mutations, small deletions, and small insertions can be
+recovered without the need for selection. Previous to our recent work, non-
+selected ssDNA recombineering could only be performed in Escherichia coli. We
+have now established non-selected recombineering in two lactic acid bacteria
+strains, Lactobacillus reuteri and Lactococcus lactis. We also have shown that
+recombineering can function in other Gram-positive bacteria as well. We can
+achieve average recombineering efficiencies of ~15% in L. lactis, which will
+now enable directed evolution of multiple chromosomal sites to be achieved
+simultaneously. Finally, we have also developed an efficient method for
+inserting genes stably into the chromosome of L. reuteri, which will enable
+the use of this human-derived organism to be used in the intestinal delivery
+of biotherapeutics and vaccines.L. reuteri.  
+  
+Collaborators: James Ferrara (Mt. Sinai School of Medicine), Jeff Tabor (Rice
+University), Jan Peter van Pijkeren (University of Wisconsin-Madison).  
+  
+  
+3\. GTPase control of ribosome assembly. GTPases play an important role in the
+assembly of ribosomes in all three kingdoms of life. The molecular mechanisms
+by which they function are largely unknown. We are studying the ribosome
+assembly GTPase RbgA in Bacillus subtilis in an attempt to understand how
+these proteins act in the maturation of the large ribosomal subunit using a
+combination of biochemical, structural and genetic approaches. Interestingly,
+mutation or depletion of RbgA results in the accumulation of a ribosome
+assembly intermediate that is arrested at a very late stage of development.
+Work on eukaryotic homologs of RbgA suggests that these proteins are involved
+in a late assembly step of the large ribosomal subunit. The results from this
+bacterial work will have important implications for the formation of
+cytoplasmic, mitochondrial, and chloroplast ribosomes.  
+  
+Collaborators: Joaquin Ortega (McMaster University), James Williamson (Scripps
+Institute).  
+  
+Funding  
+  
+We are grateful to the following funding agencies for current and past support
+of our research: NIH, NSF, DARPA, Michigan State University Foundation, Gerber
+Foundation, Michigan State University Vice President for Research Office,
+Biogaia AB, Christian Hansen, Novozymes, Procter and Gamble, Michigan State
+University Department of Microbiology and Molecular Genetics.  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+keywords
+
+  * [Microbiome, microbiota, probiotics, ribosome, bacterial genetics, precision genome editing, recombineering, Clostridium difficile, biotherapeutics](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Microbiome, microbiota, probiotics, ribosome, bacterial genetics, precision genome editing, recombineering, Clostridium difficile, biotherapeutics&exactphrase=false)
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R21HD114927 (BRITTON, ROBERT A)Apr 1, 2024 - Mar 31, 2026NIH  
+Investigating the role of intestinal-derived oxytocin in social behavior and
+gut inflammation.  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+U24EY035067 (DE PAIVA, CINTIA S.)Jul 1, 2023 - Jun 30, 2026NIH  
+Multi-method investigation and characterization of the ocular microbiome  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01AI173318 (BEETON, CHRISTINE)Mar 20, 2023 - Feb 29, 2028NIH  
+Engineered probiotic for the treatment of autoimmune diseases  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+U19AI157981 (BRITTON, ROBERT A)Mar 1, 2021 - Feb 28, 2026NIH  
+Microbiome Discovery and Mechanisms to Combat Antibiotic Resistance at Mucosal
+Surfaces  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AI123278 (BRITTON, ROBERT A)Nov 17, 2017 - Oct 31, 2023NIH  
+Diet driven evolution of epidemic ribotypes of Clostridium difficile  
+Role: Principal Investigator  
+  
+* * *  
+  
+U01AI124290 (SAVIDGE, TOR)Aug 20, 2016 - Jul 31, 2021NIH  
+Decoding Antibiotic-induced Susceptibility to Clostridium difficile Infection  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R33AI121522 (BRITTON, ROBERT A)Dec 1, 2015 - Nov 30, 2020NIH  
+Defined microbial communities for the treatment of recurrent C. difficile
+infection  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21AI121522 (BRITTON, ROBERT A)Dec 1, 2015 - Nov 30, 2017NIH  
+Defined microbial communities for the treatment of recurrent C. difficile
+infection  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM110248 (BRITTON, ROBERT A)Mar 1, 2015 - Feb 29, 2020NIH  
+GTPase control of large ribosome subunit biogenesis  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AT007695 (MCCABE, LAURA R)Sep 1, 2013 - May 31, 2019NIH  
+Mechanistic basis of probiotic prevention of osteoporosis  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R21AT005472 (MCCABE, LAURA R)Jul 1, 2010 - Jun 30, 2012NIH  
+Probiotics and Bone Health - Role of Gender and Intestinal Health  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+F32GM019302 (BRITTON, ROBERT A)Jan 1, 1998NIH  
+CHROMOSOME PARTITIONING IN BACILLUS SUBTILUS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Lu X, Passalacqua LFM, Nodwell M, Kong KYS, Caballero-Garc?a G, Dolgosheina EV, Ferr?-D'Amar? AR, **Britton R** , Unrau PJ. Symmetry breaking of fluorophore binding to a G-quadruplex generates an RNA aptamer with picomolar KD. Nucleic Acids Res. 2024 Jul 01. PMID: [38945550](//www.ncbi.nlm.nih.gov/pubmed/38945550).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+  2. **Britton RA** , Verdu EF, Di Rienzi SC, Muñoz AR, Tarr PI, [Preidis GA](https://profiles.viictr.org/profile/6714426), Biotherapeutics Subcommittee of the AGA Center for Gut Microbiome Research and Education, Britton RA, Verdu EF, [Di Rienzi SC](https://profiles.viictr.org/profile/22016845), Reyes Mu?oz A, Tarr PI, Preidis GA. Taking Microbiome Science to the Next Level: Recommendations to Advance the Emerging Field of Microbiome-Based Therapeutics and Diagnostics. Gastroenterology. 2024 May 28. PMID: [38815708](//www.ncbi.nlm.nih.gov/pubmed/38815708).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+  3. Popova AM, Jain N, Dong X, Abdollah-Nia F, **Britton RA** , Williamson JR. Complete list of canonical post-transcriptional modifications in the Bacillus subtilis ribosome and their link to RbgA driven large subunit assembly. bioRxiv. 2024 May 11. PMID: [38765983](//www.ncbi.nlm.nih.gov/pubmed/38765983); PMCID: [PMC11100780](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11100780).
+
+Citations:
+
+  4. [Danhof HA](https://profiles.viictr.org/profile/17622867), Lee J, Thapa A, **Britton RA** , [Di Rienzi SC](https://profiles.viictr.org/profile/22016845). Microbial stimulation of oxytocin release from the intestinal epithelium via secretin signaling. Gut Microbes. 2023 12; 15(2):2256043. PMID: [37698879](//www.ncbi.nlm.nih.gov/pubmed/37698879); PMCID: [PMC10498800](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10498800).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37698879/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansAnimalsCells
+
+  5. [Mejia ME](https://profiles.viictr.org/profile/28999378), Mercado-Evans V, [Zulk JJ](https://profiles.viictr.org/profile/28999376), [Ottinger S](https://profiles.viictr.org/profile/31168774), Ruiz K, Ballard MB, [Fowler SW](https://profiles.viictr.org/profile/3009662), **Britton RA** , Patras KA. Vaginal microbial dynamics and pathogen colonization in a humanized microbiota mouse model. NPJ Biofilms Microbiomes. 2023 Nov 20; 9(1):87. PMID: [37985659](//www.ncbi.nlm.nih.gov/pubmed/37985659); PMCID: [PMC10661851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10661851).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37985659/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  6. [Danhof HA](https://profiles.viictr.org/profile/17622867), Lee J, Thapa A, **Britton RA** , [Di Rienzi SC](https://profiles.viictr.org/profile/22016845). Microbial stimulation of oxytocin release from the intestinal epithelium via secretin signaling. bioRxiv. 2023 Mar 09. PMID: [36945649](//www.ncbi.nlm.nih.gov/pubmed/36945649); PMCID: [PMC10028957](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10028957).
+
+Citations:
+
+  7. Jain N, **Britton RA** , Seffouh A, Trahan C, Wasi T, Basu K, Oeffinger M, Ortega J. RbgA ensures the correct timing in the maturation of the 50S subunits functional sites. Nucleic Acids Res. 2022 10 28; 50(19):10801-10816. PMID: [35141754](//www.ncbi.nlm.nih.gov/pubmed/35141754); PMCID: [PMC9638911](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9638911).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+  8. [Schaefer L](https://profiles.viictr.org/profile/38481400), Hernandez H, Coats RA, Yu Z, [Pflugfelder SC](https://profiles.viictr.org/profile/266106), **Britton RA** , [de Paiva CS](https://profiles.viictr.org/profile/268002). Author Correction: Gut-derived butyrate suppresses ocular surface inflammation. Sci Rep. 2022 Apr 21; 12(1):6581. PMID: [35449441](//www.ncbi.nlm.nih.gov/pubmed/35449441); PMCID: [PMC9023559](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9023559).
+
+Citations:  Fields:
+
+Sci Science
+
+  9. [Schaefer L](https://profiles.viictr.org/profile/38481400), Hernandez H, Coats RA, Yu Z, [Pflugfelder SC](https://profiles.viictr.org/profile/266106), **Britton RA** , [de Paiva CS](https://profiles.viictr.org/profile/268002). Gut-derived butyrate suppresses ocular surface inflammation. Sci Rep. 2022 03 16; 12(1):4512. PMID: [35296712](//www.ncbi.nlm.nih.gov/pubmed/35296712); PMCID: [PMC8927112](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8927112).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35296712/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  10. [Schaefer L](https://profiles.viictr.org/profile/38481400), Trujillo-Vargas CM, [Midani FS](https://profiles.viictr.org/profile/24845342), [Pflugfelder SC](https://profiles.viictr.org/profile/266106), **Britton RA** , [de Paiva CS](https://profiles.viictr.org/profile/268002). Gut Microbiota From Sj?gren syndrome Patients Causes Decreased T Regulatory Cells in the Lymphoid Organs and Desiccation-Induced Corneal Barrier Disruption in Mice. Front Med (Lausanne). 2022; 9:852918. PMID: [35355610](//www.ncbi.nlm.nih.gov/pubmed/35355610); PMCID: [PMC8959809](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8959809).
+
+Citations:
+
+  11. Masi AC, Fofanova TY, Lamb CA, Auchtung JM, **Britton RA** , [Estes MK](https://profiles.viictr.org/profile/266419), [Ramani S](https://profiles.viictr.org/profile/3009566), Cockell SJ, Coxhead J, Embleton ND, Berrington JE, [Petrosino JF](https://profiles.viictr.org/profile/267058), Stewart CJ. Distinct gene expression profiles between human preterm-derived and adult-derived intestinal organoids exposed to Enterococcus faecalis: a pilot study. Gut. 2021 Dec 17. PMID: [34921063](//www.ncbi.nlm.nih.gov/pubmed/34921063); PMCID: [PMC9231289](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9231289).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+  12. Criss ZK, Bhasin N, [Di Rienzi SC](https://profiles.viictr.org/profile/22016845), Rajan A, Deans-Fielder K, Swaminathan G, Kamyabi N, Zeng XL, Doddapaneni H, Menon VK, Chakravarti D, Estrella C, Yu X, [Patil K](https://profiles.viictr.org/profile/47100899), [Petrosino JF](https://profiles.viictr.org/profile/267058), Fleet JC, Verzi MP, Christakos S, Helmrath MA, [Arimura S](https://profiles.viictr.org/profile/28999324), [DePinho RA](https://profiles.viictr.org/profile/12583185), **Britton RA** , [Maresso AW](https://profiles.viictr.org/profile/269263), Grande-Allen KJ, [Blutt SE](https://profiles.viictr.org/profile/266310), [Crawford SE](https://profiles.viictr.org/profile/8950230), [Estes MK](https://profiles.viictr.org/profile/266419), [Ramani S](https://profiles.viictr.org/profile/3009566), [Shroyer NF](https://profiles.viictr.org/profile/5807714). Drivers of transcriptional variance in human intestinal epithelial organoids. Physiol Genomics. 2021 11 01; 53(11):486-508. PMID: [34612061](//www.ncbi.nlm.nih.gov/pubmed/34612061); PMCID: [PMC8616596](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8616596).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34612061/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  13. [de Paiva CS](https://profiles.viictr.org/profile/268002), Trujillo-Vargas CM, [Schaefer L](https://profiles.viictr.org/profile/38481400), Yu Z, **Britton RA** , [Pflugfelder SC](https://profiles.viictr.org/profile/266106). Differentially Expressed Gene Pathways in the Conjunctiva of Sj?gren Syndrome Keratoconjunctivitis Sicca. Front Immunol. 2021; 12:702755. PMID: [34349764](//www.ncbi.nlm.nih.gov/pubmed/34349764); PMCID: [PMC8326832](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8326832).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34349764/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  14. [Midani FS](https://profiles.viictr.org/profile/24845342), Collins J, **Britton RA**. AMiGA: Software for Automated Analysis of Microbial Growth Assays. mSystems. 2021 Aug 31; 6(4):e0050821. PMID: [34254821](//www.ncbi.nlm.nih.gov/pubmed/34254821); PMCID: [PMC8409736](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8409736).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34254821/citedby/)
+
+  15. Engevik MA, [Danhof HA](https://profiles.viictr.org/profile/17622867), Hall A, [Engevik KA](https://profiles.viictr.org/profile/28999455), Horvath TD, Haidacher SJ, Hoch KM, Endres BT, Bajaj M, [Garey KW](https://profiles.viictr.org/profile/268841), **Britton RA** , [Spinler JK](https://profiles.viictr.org/profile/265508), [Haag AM](https://profiles.viictr.org/profile/8183325), [Versalovic J](https://profiles.viictr.org/profile/269718). The metabolic profile of Bifidobacterium dentium reflects its status as a human gut commensal. BMC Microbiol. 2021 05 24; 21(1):154. PMID: [34030655](//www.ncbi.nlm.nih.gov/pubmed/34030655); PMCID: [PMC8145834](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8145834).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34030655/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  16. Engevik MA, [Danhof HA](https://profiles.viictr.org/profile/17622867), [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik AC, Chang-Graham AL, [Engevik KA](https://profiles.viictr.org/profile/28999455), Shi Z, Zhao Y, Brand CK, Krystofiak ES, Venable S, Liu X, [Hirschi KD](https://profiles.viictr.org/profile/267007), [Hyser JM](https://profiles.viictr.org/profile/269246), [Spinler JK](https://profiles.viictr.org/profile/265508), **Britton RA** , [Versalovic J](https://profiles.viictr.org/profile/269718). Fusobacterium nucleatum Secretes Outer Membrane Vesicles and Promotes Intestinal Inflammation. mBio. 2021 03 02; 12(2). PMID: [33653893](//www.ncbi.nlm.nih.gov/pubmed/33653893); PMCID: [PMC8092269](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8092269).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33653893/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  17. **Britton RA** , Hoffmann DE, Khoruts A. Probiotics and the Microbiome-How Can We Help Patients Make Sense of Probiotics? Gastroenterology. 2021 01; 160(2):614-623. PMID: [33307023](//www.ncbi.nlm.nih.gov/pubmed/33307023).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33307023/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  18. Engevik MA, [Danhof HA](https://profiles.viictr.org/profile/17622867), Auchtung J, Endres BT, [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik AC, Wu Q, Nicholson M, [Luna RA](https://profiles.viictr.org/profile/268217), [Garey KW](https://profiles.viictr.org/profile/268841), [Crawford SE](https://profiles.viictr.org/profile/8950230), [Estes MK](https://profiles.viictr.org/profile/266419), Lux R, Yacyshyn MB, Yacyshyn B, [Savidge T](https://profiles.viictr.org/profile/270090), **Britton RA** , [Versalovic J](https://profiles.viictr.org/profile/269718), Bass?res E. Fusobacteriumnucleatum Adheres to Clostridioides difficile via the RadD Adhesin to Enhance Biofilm Formation in Intestinal Mucus. Gastroenterology. 2021 03; 160(4):1301-1314.e8. PMID: [33227279](//www.ncbi.nlm.nih.gov/pubmed/33227279); PMCID: [PMC7956072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7956072).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33227279/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  19. Chang-Graham AL, Perry JL, Engevik MA, [Engevik KA](https://profiles.viictr.org/profile/28999455), [Scribano FJ](https://profiles.viictr.org/profile/28999427), Gebert JT, [Danhof HA](https://profiles.viictr.org/profile/17622867), [Nelson JC](https://profiles.viictr.org/profile/24845256), Kellen JS, Strtak AC, Sastri NP, [Estes MK](https://profiles.viictr.org/profile/266419), **Britton RA** , [Versalovic J](https://profiles.viictr.org/profile/269718), [Hyser JM](https://profiles.viictr.org/profile/269246). Rotavirus induces intercellular calcium waves through ADP signaling. Science. 2020 11 20; 370(6519). PMID: [33214249](//www.ncbi.nlm.nih.gov/pubmed/33214249); PMCID: [PMC7957961](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7957961).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33214249/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  20. Engevik MA, [Danhof HA](https://profiles.viictr.org/profile/17622867), Shrestha R, Chang-Graham AL, [Hyser JM](https://profiles.viictr.org/profile/269246), [Haag AM](https://profiles.viictr.org/profile/8183325), [Mohammad MA](https://profiles.viictr.org/profile/269072), **Britton RA** , [Versalovic J](https://profiles.viictr.org/profile/269718), Sorg JA, [Spinler JK](https://profiles.viictr.org/profile/265508). Reuterin disrupts Clostridioides difficile metabolism and pathogenicity through reactive oxygen species generation. Gut Microbes. 2020 11 09; 12(1):1788898. PMID: [32804011](//www.ncbi.nlm.nih.gov/pubmed/32804011); PMCID: [PMC7524292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7524292).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32804011/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansCells
+
+  21. Engevik MA, Luck B, Visuthranukul C, [Ihekweazu FD](https://profiles.viictr.org/profile/268730), Engevik AC, Shi Z, [Danhof HA](https://profiles.viictr.org/profile/17622867), Chang-Graham AL, Hall A, Endres BT, Haidacher SJ, Horvath TD, [Haag AM](https://profiles.viictr.org/profile/8183325), [Devaraj S](https://profiles.viictr.org/profile/266182), [Garey KW](https://profiles.viictr.org/profile/268841), **Britton RA** , [Hyser JM](https://profiles.viictr.org/profile/269246), [Shroyer NF](https://profiles.viictr.org/profile/5807714), [Versalovic J](https://profiles.viictr.org/profile/269718). Human-Derived Bifidobacterium dentium Modulates the Mammalian Serotonergic System and Gut-Brain Axis. Cell Mol Gastroenterol Hepatol. 2021; 11(1):221-248. PMID: [32795610](//www.ncbi.nlm.nih.gov/pubmed/32795610); PMCID: [PMC7683275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7683275).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32795610/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimalsCells
+
+  22. Auchtung JM, [Preisner EC](https://profiles.viictr.org/profile/24845288), Collins J, Lerma AI, **Britton RA**. Identification of Simplified Microbial Communities That Inhibit Clostridioides difficile Infection through Dilution/Extinction. mSphere. 2020 07 29; 5(4). PMID: [32727857](//www.ncbi.nlm.nih.gov/pubmed/32727857); PMCID: [PMC7392540](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7392540).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32727857/citedby/) Fields:
+
+Mic MicrobiologyPar Parasitology
+
+Translation:HumansAnimalsCells
+
+  23. [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik MA, Chang-Graham AL, [Danhof HA](https://profiles.viictr.org/profile/17622867), [Goodwin A](https://profiles.viictr.org/profile/17411485), [Engevik KA](https://profiles.viictr.org/profile/28999455), Shi Z, Hall A, Rienzi SCD, Venable S, **Britton RA** , [Hyser J](https://profiles.viictr.org/profile/269246), [Versalovic J](https://profiles.viictr.org/profile/269718). Enhancing responsiveness of human jejunal enteroids to host and microbial stimuli. J Physiol. 2020 08; 598(15):3085-3105. PMID: [32428244](//www.ncbi.nlm.nih.gov/pubmed/32428244); PMCID: [PMC7674265](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7674265).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32428244/citedby/) Fields:
+
+Phy Physiology
+
+Translation:HumansCells
+
+  24. Khoruts A, Hoffmann DE, **Britton RA**. Probiotics: Promise, Evidence, and Hope. Gastroenterology. 2020 08; 159(2):409-413. PMID: [32531290](//www.ncbi.nlm.nih.gov/pubmed/32531290).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32531290/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  25. Ortiz-Velez L, [Goodwin A](https://profiles.viictr.org/profile/17411485), [Schaefer L](https://profiles.viictr.org/profile/38481400), **Britton RA**. Challenges and Pitfalls in the Engineering of Human Interleukin 22 (hIL-22) Secreting Lactobacillus reuteri. Front Bioeng Biotechnol. 2020; 8:543. PMID: [32582668](//www.ncbi.nlm.nih.gov/pubmed/32582668); PMCID: [PMC7289926](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7289926).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32582668/citedby/)
+
+  26. Mahnic A, Auchtung JM, **Britton RA** , Rupnik M, Poklar Ulrih N. Microbiota in vitro modulated with polyphenols shows decreased colonization resistance against Clostridioides difficile but can neutralize cytotoxicity. Sci Rep. 2020 05 20; 10(1):8358. PMID: [32433519](//www.ncbi.nlm.nih.gov/pubmed/32433519); PMCID: [PMC7239955](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7239955).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32433519/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  27. [Di Rienzi SC](https://profiles.viictr.org/profile/22016845), **Britton RA**. Adaptation of the Gut Microbiota to Modern Dietary Sugars and Sweeteners. Adv Nutr. 2020 05 01; 11(3):616-629. PMID: [31696209](//www.ncbi.nlm.nih.gov/pubmed/31696209); PMCID: [PMC7231582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7231582).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31696209/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Humans
+
+  28. Call L, Molina T, [Stoll B](https://profiles.viictr.org/profile/268170), [Guthrie G](https://profiles.viictr.org/profile/4897351), [Chacko S](https://profiles.viictr.org/profile/269874), Plat J, Robinson J, Lin S, [Vonderohe C](https://profiles.viictr.org/profile/28999494), [Mohammad M](https://profiles.viictr.org/profile/269072), Kunichoff D, Cruz S, Lau P, [Premkumar M](https://profiles.viictr.org/profile/265771), Nielsen J, Fang Z, [Olutoye O](https://profiles.viictr.org/profile/266840), Thymann T, **Britton R** , Sangild P, [Burrin D](https://profiles.viictr.org/profile/268116). Parenteral lipids shape gut bile acid pools and microbiota profiles in the prevention of cholestasis in preterm pigs. J Lipid Res. 2020 07; 61(7):1038-1051. PMID: [32350078](//www.ncbi.nlm.nih.gov/pubmed/32350078); PMCID: [PMC7328048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7328048).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32350078/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  29. Engevik MA, [Danhof HA](https://profiles.viictr.org/profile/17622867), Chang-Graham AL, [Spinler JK](https://profiles.viictr.org/profile/265508), [Engevik KA](https://profiles.viictr.org/profile/28999455), Herrmann B, Endres BT, [Garey KW](https://profiles.viictr.org/profile/268841), [Hyser JM](https://profiles.viictr.org/profile/269246), **Britton RA** , [Versalovic J](https://profiles.viictr.org/profile/269718). Human intestinal enteroids as a model of Clostridioides difficile-induced enteritis. Am J Physiol Gastrointest Liver Physiol. 2020 05 01; 318(5):G870-G888. PMID: [32223302](//www.ncbi.nlm.nih.gov/pubmed/32223302); PMCID: [PMC7272722](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7272722).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32223302/citedby/) Fields:
+
+Gas GastroenterologyPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  30. Tomaro-Duchesneau C, LeValley SL, Roeth D, [Sun L](https://profiles.viictr.org/profile/3010209), [Horrigan FT](https://profiles.viictr.org/profile/265890), Kalkum M, [Hyser JM](https://profiles.viictr.org/profile/269246), **Britton RA**. Discovery of a bacterial peptide as a modulator of GLP-1 and metabolic disease. Sci Rep. 2020 03 18; 10(1):4922. PMID: [32188864](//www.ncbi.nlm.nih.gov/pubmed/32188864); PMCID: [PMC7080827](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7080827).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32188864/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  31. Rios-Arce ND, Schepper JD, Dagenais A, [Schaefer L](https://profiles.viictr.org/profile/38481400), Daly-Seiler CS, Gardinier JD, **Britton RA** , McCabe LR, Parameswaran N. Post-antibiotic gut dysbiosis-induced trabecular bone loss is dependent on lymphocytes. Bone. 2020 05; 134:115269. PMID: [32061677](//www.ncbi.nlm.nih.gov/pubmed/32061677); PMCID: [PMC7138712](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7138712).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32061677/citedby/) Fields:
+
+Met MetabolismOrt Orthopedics
+
+Translation:AnimalsCells
+
+  32. LeValley SL, Tomaro-Duchesneau C, **Britton RA**. Degradation of the Incretin Hormone Glucagon-Like Peptide-1 (GLP-1) by Enterococcus faecalis Metalloprotease GelE. mSphere. 2020 02 12; 5(1). PMID: [32051237](//www.ncbi.nlm.nih.gov/pubmed/32051237); PMCID: [PMC7021470](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7021470).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32051237/citedby/) Fields:
+
+Mic MicrobiologyPar Parasitology
+
+Translation:HumansCells
+
+  33. Schepper JD, Collins F, Rios-Arce ND, Kang HJ, [Schaefer L](https://profiles.viictr.org/profile/38481400), Gardinier JD, Raghuvanshi R, Quinn RA, **Britton R** , Parameswaran N, McCabe LR. Involvement of the Gut Microbiota and Barrier Function in Glucocorticoid-Induced Osteoporosis. J Bone Miner Res. 2020 04; 35(4):801-820. PMID: [31886921](//www.ncbi.nlm.nih.gov/pubmed/31886921).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31886921/citedby/) Fields:
+
+Met MetabolismOrt Orthopedics
+
+Translation:AnimalsCells
+
+  34. Seffouh A, Jain N, Jahagirdar D, Basu K, Razi A, Ni X, **Britton RA** , Ortega J, Guarn? A. Structural consequences of the interaction of RbgA with a 50S ribosomal subunit assembly intermediate. Nucleic Acids Res. 2019 11 04; 47(19):10414-10425. PMID: [31665744](//www.ncbi.nlm.nih.gov/pubmed/31665744); PMCID: [PMC6821245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6821245).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31665744/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  35. Quach D, Parameswaran N, McCabe L, **Britton RA**. Characterizing how probiotic Lactobacillus reuteri 6475 and lactobacillic acid mediate suppression of osteoclast differentiation. Bone Rep. 2019 Dec; 11:100227. PMID: [31763377](//www.ncbi.nlm.nih.gov/pubmed/31763377); PMCID: [PMC6864341](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6864341).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31763377/citedby/)
+
+  36. Trujillo-Vargas CM, [Schaefer L](https://profiles.viictr.org/profile/38481400), Alam J, [Pflugfelder SC](https://profiles.viictr.org/profile/266106), **Britton RA** , [de Paiva CS](https://profiles.viictr.org/profile/268002). The gut-eye-lacrimal gland-microbiome axis in Sj?gren Syndrome. Ocul Surf. 2020 04; 18(2):335-344. PMID: [31644955](//www.ncbi.nlm.nih.gov/pubmed/31644955); PMCID: [PMC7124975](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7124975).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31644955/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  37. Robinson CD, Bohannan BJ, **Britton RA**. Scales of persistence: transmission and the microbiome. Curr Opin Microbiol. 2019 08; 50:42-49. PMID: [31629296](//www.ncbi.nlm.nih.gov/pubmed/31629296); PMCID: [PMC6899178](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6899178).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31629296/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  38. Collins FL, Rios-Arce ND, Schepper JD, Jones AD, [Schaefer L](https://profiles.viictr.org/profile/38481400), **Britton RA** , McCabe LR, Parameswaran N. Beneficial effects of Lactobacillus reuteri 6475 on bone density in male mice is dependent on lymphocytes. Sci Rep. 2019 10 11; 9(1):14708. PMID: [31605025](//www.ncbi.nlm.nih.gov/pubmed/31605025); PMCID: [PMC6789011](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6789011).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31605025/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  39. Wang C, [Schaefer L](https://profiles.viictr.org/profile/38481400), Bian F, Yu Z, [Pflugfelder SC](https://profiles.viictr.org/profile/266106), **Britton RA** , [de Paiva CS](https://profiles.viictr.org/profile/268002). Dysbiosis Modulates Ocular Surface Inflammatory Response to Liposaccharide. Invest Ophthalmol Vis Sci. 2019 10 01; 60(13):4224-4233. PMID: [31618426](//www.ncbi.nlm.nih.gov/pubmed/31618426); PMCID: [PMC6795342](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6795342).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31618426/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  40. Razi A, Hao Y, Jahagirdar D, Thurlow B, Basu K, Gomez-Blanco J, Vargas J, Woodson SA, Ortega J, Davis JH, Jain N, **Britton RA** , Guarn? A, Williamson JR. Role of Era in assembly and homeostasis of the ribosomal small subunit. Nucleic Acids Res. 2019 09 05; 47(15):8301-8317. PMID: [31265110](//www.ncbi.nlm.nih.gov/pubmed/31265110); PMCID: [PMC6736133](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6736133).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31265110/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  41. Chang-Graham AL, [Danhof HA](https://profiles.viictr.org/profile/17622867), Engevik MA, Tomaro-Duchesneau C, Karandikar UC, [Estes MK](https://profiles.viictr.org/profile/266419), [Versalovic J](https://profiles.viictr.org/profile/269718), **Britton RA** , [Hyser JM](https://profiles.viictr.org/profile/269246). Human Intestinal Enteroids With Inducible Neurogenin-3 Expression as a Novel Model of Gut Hormone Secretion. Cell Mol Gastroenterol Hepatol. 2019; 8(2):209-229. PMID: [31029854](//www.ncbi.nlm.nih.gov/pubmed/31029854); PMCID: [PMC6664234](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6664234).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31029854/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  42. Danielson ND, Collins J, Stothard AI, Dong QQ, Kalera K, Woodruff PJ, DeBosch BJ, **Britton RA** , Swarts BM. Degradation-resistant trehalose analogues block utilization of trehalose by hypervirulent Clostridioides difficile. Chem Commun (Camb). 2019 Apr 23; 55(34):5009-5012. PMID: [30968891](//www.ncbi.nlm.nih.gov/pubmed/30968891); PMCID: [PMC6499371](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6499371).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30968891/citedby/) Fields:
+
+Che Chemistry
+
+Translation:AnimalsCells
+
+  43. Schepper JD, Collins FL, Rios-Arce ND, Raehtz S, [Schaefer L](https://profiles.viictr.org/profile/38481400), Gardinier JD, **Britton RA** , Parameswaran N, McCabe LR. Probiotic Lactobacillus reuteri Prevents Postantibiotic Bone Loss by Reducing Intestinal Dysbiosis and Preventing Barrier Disruption. J Bone Miner Res. 2019 04; 34(4):681-698. PMID: [30690795](//www.ncbi.nlm.nih.gov/pubmed/30690795); PMCID: [PMC6557403](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6557403).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30690795/citedby/) Fields:
+
+Met MetabolismOrt Orthopedics
+
+Translation:AnimalsCells
+
+  44. Sgritta M, Dooling SW, [Buffington SA](https://profiles.viictr.org/profile/3010292), Momin EN, Francis MB, **Britton RA** , [Costa-Mattioli M](https://profiles.viictr.org/profile/265824). Mechanisms Underlying Microbial-Mediated Changes in Social Behavior in Mouse Models of Autism Spectrum Disorder. Neuron. 2019 01 16; 101(2):246-259.e6. PMID: [30522820](//www.ncbi.nlm.nih.gov/pubmed/30522820); PMCID: [PMC6645363](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6645363).
+
+Citations:
+[158](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30522820/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  45. Ortiz-Velez L, Ortiz-Villalobos J, Schulman A, Oh JH, van Pijkeren JP, **Britton RA**. Genome alterations associated with improved transformation efficiency in Lactobacillus reuteri. Microb Cell Fact. 2018 Sep 03; 17(1):138. PMID: [30176942](//www.ncbi.nlm.nih.gov/pubmed/30176942); PMCID: [PMC6122466](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6122466).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30176942/citedby/) Fields:
+
+Bio BiotechnologyMic Microbiology
+
+Translation:Cells
+
+  46. Collins J, [Danhof H](https://profiles.viictr.org/profile/17622867), **Britton RA**. The role of trehalose in the global spread of epidemic Clostridium difficile. Gut Microbes. 2019; 10(2):204-209. PMID: [30118389](//www.ncbi.nlm.nih.gov/pubmed/30118389); PMCID: [PMC6546318](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6546318).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30118389/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansCells
+
+  47. Wang C, Zaheer M, Bian F, Quach D, Swennes AG, **Britton RA** , [Pflugfelder SC](https://profiles.viictr.org/profile/266106), [de Paiva CS](https://profiles.viictr.org/profile/268002). Sj?gren-Like Lacrimal Keratoconjunctivitis in Germ-Free Mice. Int J Mol Sci. 2018 Feb 13; 19(2). PMID: [29438346](//www.ncbi.nlm.nih.gov/pubmed/29438346); PMCID: [PMC5855787](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5855787).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29438346/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:AnimalsCells
+
+  48. Quach D, Collins F, Parameswaran N, McCabe L, **Britton RA**. Microbiota Reconstitution Does Not Cause Bone Loss in Germ-Free Mice. mSphere. 2018 Jan-Feb; 3(1). PMID: [29299532](//www.ncbi.nlm.nih.gov/pubmed/29299532); PMCID: [PMC5750390](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5750390).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29299532/citedby/) Fields:
+
+Mic MicrobiologyPar Parasitology
+
+  49. [Spinler JK](https://profiles.viictr.org/profile/265508), Auchtung J, Brown A, Boonma P, [Oezguen N](https://profiles.viictr.org/profile/267606), [Luna RA](https://profiles.viictr.org/profile/268217), Runge J, [Versalovic J](https://profiles.viictr.org/profile/269718), Peniche A, Dann SM, **Britton RA** , [Haag A](https://profiles.viictr.org/profile/8183325), [Savidge TC](https://profiles.viictr.org/profile/270090), Ross CL. Next-Generation Probiotics Targeting Clostridium difficile through Precursor-Directed Antimicrobial Biosynthesis. Infect Immun. 2017 10; 85(10). PMID: [28760934](//www.ncbi.nlm.nih.gov/pubmed/28760934); PMCID: [PMC5607411](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5607411).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28760934/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansCells
+
+  50. Ortiz-Velez L, **Britton R**. Genetic Tools for the Enhancement of Probiotic Properties. Microbiol Spectr. 2017 09; 5(5). PMID: [28936946](//www.ncbi.nlm.nih.gov/pubmed/28936946).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28936946/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  51. Roth C, Chan S, Offen WA, Hemsworth GR, Willems LI, King DT, Varghese V, **Britton R** , Vocadlo DJ, Davies GJ. Structural and functional insight into human O-GlcNAcase. Nat Chem Biol. 2017 06; 13(6):610-612. PMID: [28346405](//www.ncbi.nlm.nih.gov/pubmed/28346405); PMCID: [PMC5438047](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5438047).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28346405/citedby/) Fields:
+
+Bio BiologyChe Chemistry
+
+Translation:HumansCells
+
+  52. Razi A, **Britton RA** , Ortega J. The impact of recent improvements in cryo-electron microscopy technology on the understanding of bacterial ribosome assembly. Nucleic Acids Res. 2017 02 17; 45(3):1027-1040. PMID: [28180306](//www.ncbi.nlm.nih.gov/pubmed/28180306); PMCID: [PMC5388408](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5388408).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28180306/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  53. Quach D, **Britton RA**. Gut Microbiota and Bone Health. Adv Exp Med Biol. 2017; 1033:47-58. PMID: [29101651](//www.ncbi.nlm.nih.gov/pubmed/29101651).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29101651/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  54. Velly H, **Britton RA** , [Preidis GA](https://profiles.viictr.org/profile/6714426). Mechanisms of cross-talk between the diet, the intestinal microbiome, and the undernourished host. Gut Microbes. 2017 03 04; 8(2):98-112. PMID: [27918230](//www.ncbi.nlm.nih.gov/pubmed/27918230); PMCID: [PMC5390823](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5390823).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27918230/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansAnimals
+
+  55. Ni X, Davis JH, Jain N, Razi A, Benlekbir S, McArthur AG, Rubinstein JL, **Britton RA** , Williamson JR, Ortega J. YphC and YsxC GTPases assist the maturation of the central protuberance, GTPase associated region and functional core of the 50S ribosomal subunit. Nucleic Acids Res. 2016 09 30; 44(17):8442-55. PMID: [27484475](//www.ncbi.nlm.nih.gov/pubmed/27484475); PMCID: [PMC5041480](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5041480).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27484475/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  56. Collins FL, Irwin R, Bierhalter H, Schepper J, **Britton RA** , Parameswaran N, McCabe LR. Lactobacillus reuteri 6475 Increases Bone Density in Intact Females Only under an Inflammatory Setting. PLoS One. 2016; 11(4):e0153180. PMID: [27058036](//www.ncbi.nlm.nih.gov/pubmed/27058036); PMCID: [PMC4825993](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4825993).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27058036/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  57. Auchtung JM, Robinson CD, Farrell K, **Britton RA**. MiniBioReactor Arrays (MBRAs) as a Tool for Studying C. difficile Physiology in the Presence of a Complex Community. Methods Mol Biol. 2016; 1476:235-58. PMID: [27507346](//www.ncbi.nlm.nih.gov/pubmed/27507346).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27507346/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  58. McCabe L, **Britton RA** , Parameswaran N. Prebiotic and Probiotic Regulation of Bone Health: Role of the Intestine and its Microbiome. Curr Osteoporos Rep. 2015 Dec; 13(6):363-71. PMID: [26419466](//www.ncbi.nlm.nih.gov/pubmed/26419466); PMCID: [PMC4623939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4623939).
+
+Citations:
+[72](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26419466/citedby/) Fields:
+
+Met MetabolismOrt Orthopedics
+
+Translation:HumansAnimals
+
+  59. Auchtung JM, Robinson CD, **Britton RA**. Cultivation of stable, reproducible microbial communities from different fecal donors using minibioreactor arrays (MBRAs). Microbiome. 2015 Sep 30; 3:42. PMID: [26419531](//www.ncbi.nlm.nih.gov/pubmed/26419531); PMCID: [PMC4588258](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4588258).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26419531/citedby/) Fields:
+
+Gen GeneticsMic Microbiology
+
+Translation:HumansAnimals
+
+  60. Singh P, Teal TK, Marsh TL, Tiedje JM, Mosci R, Jernigan K, Zell A, Newton DW, Salimnia H, Lephart P, Sundin D, Khalife W, **Britton RA** , Rudrik JT, Manning SD. Intestinal microbial communities associated with acute enteric infections and disease recovery. Microbiome. 2015 Sep 22; 3:45. PMID: [26395244](//www.ncbi.nlm.nih.gov/pubmed/26395244); PMCID: [PMC4579588](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4579588).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26395244/citedby/) Fields:
+
+Gen GeneticsMic Microbiology
+
+Translation:HumansCellsPHPublic Health
+
+  61. Collins J, Auchtung JM, [Schaefer L](https://profiles.viictr.org/profile/38481400), Eaton KA, **Britton RA**. Humanized microbiota mice as a model of recurrent Clostridium difficile disease. Microbiome. 2015 Aug 20; 3:35. PMID: [26289776](//www.ncbi.nlm.nih.gov/pubmed/26289776); PMCID: [PMC4546040](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4546040).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26289776/citedby/) Fields:
+
+Gen GeneticsMic Microbiology
+
+Translation:HumansAnimalsCells
+
+  62. Zhang J, Motyl KJ, Irwin R, MacDougald OA, **Britton RA** , McCabe LR. Loss of Bone and Wnt10b Expression in Male Type 1 Diabetic Mice Is Blocked by the Probiotic Lactobacillus reuteri. Endocrinology. 2015 Sep; 156(9):3169-82. PMID: [26135835](//www.ncbi.nlm.nih.gov/pubmed/26135835); PMCID: [PMC4541610](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4541610).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26135835/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  63. **Britton RA** , Irwin R, Quach D, [Schaefer L](https://profiles.viictr.org/profile/38481400), Zhang J, Lee T, Parameswaran N, McCabe LR. Probiotic L. reuteri treatment prevents bone loss in a menopausal ovariectomized mouse model. J Cell Physiol. 2014 Nov; 229(11):1822-30. PMID: [24677054](//www.ncbi.nlm.nih.gov/pubmed/24677054); PMCID: [PMC4129456](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4129456).
+
+Citations:
+[144](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24677054/citedby/)
+Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  64. Gulati M, Jain N, Davis JH, Williamson JR, **Britton RA**. Functional interaction between ribosomal protein L6 and RbgA during ribosome assembly. PLoS Genet. 2014 Oct; 10(10):e1004694. PMID: [25330043](//www.ncbi.nlm.nih.gov/pubmed/25330043); PMCID: [PMC4199504](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4199504).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25330043/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Cells
+
+  65. van Pijkeren JP, **Britton RA**. Precision genome engineering in lactic acid bacteria. Microb Cell Fact. 2014 Aug 29; 13 Suppl 1:S10. PMID: [25185700](//www.ncbi.nlm.nih.gov/pubmed/25185700); PMCID: [PMC4155826](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4155826).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25185700/citedby/) Fields:
+
+Bio BiotechnologyMic Microbiology
+
+Translation:Cells
+
+  66. Dishisha T, Pereyra LP, Pyo SH, **Britton RA** , Hatti-Kaul R. Flux analysis of the Lactobacillus reuteri propanediol-utilization pathway for production of 3-hydroxypropionaldehyde, 3-hydroxypropionic acid and 1,3-propanediol from glycerol. Microb Cell Fact. 2014 May 27; 13:76. PMID: [24886501](//www.ncbi.nlm.nih.gov/pubmed/24886501); PMCID: [PMC4045878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4045878).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24886501/citedby/) Fields:
+
+Bio BiotechnologyMic Microbiology
+
+Translation:Cells
+
+  67. Robinson CD, Auchtung JM, Collins J, **Britton RA**. Epidemic Clostridium difficile strains demonstrate increased competitive fitness compared to nonepidemic isolates. Infect Immun. 2014 Jul; 82(7):2815-25. PMID: [24733099](//www.ncbi.nlm.nih.gov/pubmed/24733099); PMCID: [PMC4097623](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4097623).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24733099/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  68. **Britton RA** , Young VB. Role of the intestinal microbiota in resistance to colonization by Clostridium difficile. Gastroenterology. 2014 May; 146(6):1547-53. PMID: [24503131](//www.ncbi.nlm.nih.gov/pubmed/24503131); PMCID: [PMC3995857](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3995857).
+
+Citations:
+[168](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24503131/citedby/)
+Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimalsCells
+
+  69. Roos S, Jonsson H, van Pijkeren JP, **Britton RA** , Jensen H, Rud I, Grimmer S, Axelsson L. Role of Lactobacillus reuteri cell and mucus-binding protein A (CmbA) in adhesion to intestinal epithelial cells and mucus in vitro. Microbiology (Reading). 2014 Apr; 160(Pt 4):671-681. PMID: [24473252](//www.ncbi.nlm.nih.gov/pubmed/24473252); PMCID: [PMC7336543](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7336543).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24473252/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  70. Jomaa A, Jain N, Davis JH, Williamson JR, **Britton RA** , Ortega J. Functional domains of the 50S subunit mature late in the assembly process. Nucleic Acids Res. 2014 Mar; 42(5):3419-35. PMID: [24335279](//www.ncbi.nlm.nih.gov/pubmed/24335279); PMCID: [PMC3950693](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3950693).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24335279/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  71. McCabe LR, Irwin R, [Schaefer L](https://profiles.viictr.org/profile/38481400), **Britton RA**. Probiotic use decreases intestinal inflammation and increases bone density in healthy male but not female mice. J Cell Physiol. 2013 Aug; 228(8):1793-8. PMID: [23389860](//www.ncbi.nlm.nih.gov/pubmed/23389860); PMCID: [PMC4091780](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4091780).
+
+Citations:
+[87](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23389860/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  72. Sharma D, Malik A, Lee E, **Britton RA** , Parameswaran N. Gene dosage-dependent negative regulatory role of ?-arrestin-2 in polymicrobial infection-induced inflammation. Infect Immun. 2013 Aug; 81(8):3035-44. PMID: [23753627](//www.ncbi.nlm.nih.gov/pubmed/23753627); PMCID: [PMC3719563](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3719563).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23753627/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:AnimalsCells
+
+  73. Gulati M, Jain N, Anand B, Prakash B, **Britton RA**. Mutational analysis of the ribosome assembly GTPase RbgA provides insight into ribosome interaction and ribosome-stimulated GTPase activation. Nucleic Acids Res. 2013 Mar 01; 41(5):3217-27. PMID: [23325847](//www.ncbi.nlm.nih.gov/pubmed/23325847); PMCID: [PMC3597669](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3597669).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23325847/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  74. Stockdale SR, Mahony J, Courtin P, Chapot-Chartier MP, van Pijkeren JP, **Britton RA** , Neve H, Heller KJ, Aideh B, Vogensen FK, van Sinderen D. The lactococcal phages Tuc2009 and TP901-1 incorporate two alternate forms of their tail fiber into their virions for infection specialization. J Biol Chem. 2013 Feb 22; 288(8):5581-90. PMID: [23300085](//www.ncbi.nlm.nih.gov/pubmed/23300085); PMCID: [PMC3581408](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3581408).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23300085/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  75. Van Pijkeren JP, Neoh KM, Sirias D, Findley AS, **Britton RA**. Exploring optimization parameters to increase ssDNA recombineering in Lactococcus lactis and Lactobacillus reuteri. Bioengineered. 2012 Jul-Aug; 3(4):209-17. PMID: [22750793](//www.ncbi.nlm.nih.gov/pubmed/22750793); PMCID: [PMC3476877](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3476877).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22750793/citedby/) Fields:
+
+Bio Biomedical EngineeringBio BiotechnologyMic Microbiology
+
+Translation:Cells
+
+  76. De Weirdt R, Roos S, Vollenweider S, Lacroix C, van Pijkeren JP, **Britton RA** , Sarker S, Van de Wiele T, Nickerson CA, Crabb? A. Glycerol supplementation enhances L. reuteri's protective effect against S. Typhimurium colonization in a 3-D model of colonic epithelium. PLoS One. 2012; 7(5):e37116. PMID: [22693569](//www.ncbi.nlm.nih.gov/pubmed/22693569); PMCID: [PMC3365044](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3365044).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22693569/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  77. **Britton RA** , Young VB. Interaction between the intestinal microbiota and host in Clostridium difficile colonization resistance. Trends Microbiol. 2012 Jul; 20(7):313-9. PMID: [22595318](//www.ncbi.nlm.nih.gov/pubmed/22595318); PMCID: [PMC3408078](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3408078).
+
+Citations:
+[112](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22595318/citedby/)
+Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  78. Thomas CM, Hong T, van Pijkeren JP, Hemarajata P, Trinh DV, Hu W, **Britton RA** , Kalkum M, [Versalovic J](https://profiles.viictr.org/profile/269718). Histamine derived from probiotic Lactobacillus reuteri suppresses TNF via modulation of PKA and ERK signaling. PLoS One. 2012; 7(2):e31951. PMID: [22384111](//www.ncbi.nlm.nih.gov/pubmed/22384111); PMCID: [PMC3285189](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3285189).
+
+Citations:
+[168](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22384111/citedby/)
+Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  79. van Pijkeren JP, **Britton RA**. High efficiency recombineering in lactic acid bacteria. Nucleic Acids Res. 2012 May; 40(10):e76. PMID: [22328729](//www.ncbi.nlm.nih.gov/pubmed/22328729); PMCID: [PMC3378904](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3378904).
+
+Citations:
+[87](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22328729/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  80. Achila D, Gulati M, Jain N, **Britton RA**. Biochemical characterization of ribosome assembly GTPase RbgA in Bacillus subtilis. J Biol Chem. 2012 Mar 09; 287(11):8417-23. PMID: [22267738](//www.ncbi.nlm.nih.gov/pubmed/22267738); PMCID: [PMC3318688](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3318688).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22267738/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  81. Jones SE, Whitehead K, Saulnier D, Thomas CM, [Versalovic J](https://profiles.viictr.org/profile/269718), **Britton RA**. Cyclopropane fatty acid synthase mutants of probiotic human-derived Lactobacillus reuteri are defective in TNF inhibition. Gut Microbes. 2011 Mar-Apr; 2(2):69-79. PMID: [21637024](//www.ncbi.nlm.nih.gov/pubmed/21637024); PMCID: [PMC3225771](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3225771).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21637024/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansCells
+
+  82. Eaton KA, Honkala A, Auchtung TA, **Britton RA**. Probiotic Lactobacillus reuteri ameliorates disease due to enterohemorrhagic Escherichia coli in germfree mice. Infect Immun. 2011 Jan; 79(1):185-91. PMID: [20974822](//www.ncbi.nlm.nih.gov/pubmed/20974822); PMCID: [PMC3019869](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3019869).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20974822/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:AnimalsCells
+
+  83. Walter J, **Britton RA** , Roos S. Host-microbial symbiosis in the vertebrate gastrointestinal tract and the Lactobacillus reuteri paradigm. Proc Natl Acad Sci U S A. 2011 Mar 15; 108 Suppl 1:4645-52. PMID: [20615995](//www.ncbi.nlm.nih.gov/pubmed/20615995); PMCID: [PMC3063604](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3063604).
+
+Citations:
+[116](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20615995/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  84. [Schaefer L](https://profiles.viictr.org/profile/38481400), Auchtung TA, Hermans KE, Whitehead D, Borhan B, **Britton RA**. The antimicrobial compound reuterin (3-hydroxypropionaldehyde) induces oxidative stress via interaction with thiol groups. Microbiology (Reading). 2010 Jun; 156(Pt 6):1589-1599. PMID: [20150236](//www.ncbi.nlm.nih.gov/pubmed/20150236); PMCID: [PMC7336520](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7336520).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20150236/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  85. Young VB, **Britton RA** , Schmidt TM. The human microbiome and infectious diseases: beyond koch. Interdiscip Perspect Infect Dis. 2008; 2008:296873. PMID: [19343181](//www.ncbi.nlm.nih.gov/pubmed/19343181); PMCID: [PMC2662322](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2662322).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19343181/citedby/)
+
+  86. **Britton RA** , [Versalovic J](https://profiles.viictr.org/profile/269718). Probiotics and gastrointestinal infections. Interdiscip Perspect Infect Dis. 2008; 2008:290769. PMID: [19277100](//www.ncbi.nlm.nih.gov/pubmed/19277100); PMCID: [PMC2648624](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2648624).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19277100/citedby/)
+
+  87. **Britton RA**. Role of GTPases in bacterial ribosome assembly. Annu Rev Microbiol. 2009; 63:155-76. PMID: [19575570](//www.ncbi.nlm.nih.gov/pubmed/19575570).
+
+Citations:
+[80](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19575570/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  88. **Britton RA** , Roos S, Jonsson H, Hertel C, H?fner E. Global transcriptional response of Lactobacillus reuteri to the sourdough environment. Syst Appl Microbiol. 2008 Oct; 31(5):323-38. PMID: [18762399](//www.ncbi.nlm.nih.gov/pubmed/18762399).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18762399/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  89. Cadieux P, Wind A, Sommer P, [Schaefer L](https://profiles.viictr.org/profile/38481400), Crowley K, **Britton RA** , Reid G. Evaluation of reuterin production in urogenital probiotic Lactobacillus reuteri RC-14. Appl Environ Microbiol. 2008 Aug; 74(15):4645-9. PMID: [18539802](//www.ncbi.nlm.nih.gov/pubmed/18539802); PMCID: [PMC2519358](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2519358).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18539802/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  90. Whitehead K, [Versalovic J](https://profiles.viictr.org/profile/269718), Roos S, **Britton RA**. Genomic and genetic characterization of the bile stress response of probiotic Lactobacillus reuteri ATCC 55730. Appl Environ Microbiol. 2008 Mar; 74(6):1812-9. PMID: [18245259](//www.ncbi.nlm.nih.gov/pubmed/18245259); PMCID: [PMC2268311](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2268311).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18245259/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  91. Foucher AE, Louwagie M, **Britton RA** , Jault JM, Wicker-Planquart C. Interactions of an essential Bacillus subtilis GTPase, YsxC, with ribosomes. J Bacteriol. 2008 Jan; 190(2):681-90. PMID: [17981968](//www.ncbi.nlm.nih.gov/pubmed/17981968); PMCID: [PMC2223697](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2223697).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17981968/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  92. Wall T, **Britton RA** , Jonsson H, [Versalovic J](https://profiles.viictr.org/profile/269718), Roos S, B?th K. The early response to acid shock in Lactobacillus reuteri involves the ClpL chaperone and a putative cell wall-altering esterase. Appl Environ Microbiol. 2007 Jun; 73(12):3924-35. PMID: [17449683](//www.ncbi.nlm.nih.gov/pubmed/17449683); PMCID: [PMC1932720](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1932720).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17449683/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Cells
+
+  93. Uicker WC, [Schaefer L](https://profiles.viictr.org/profile/38481400), Koenigsknecht M, **Britton RA**. The essential GTPase YqeH is required for proper ribosome assembly in Bacillus subtilis. J Bacteriol. 2007 Apr; 189(7):2926-9. PMID: [17237168](//www.ncbi.nlm.nih.gov/pubmed/17237168); PMCID: [PMC1855813](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1855813).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17237168/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  94. **Britton RA** , Wen T, [Schaefer L](https://profiles.viictr.org/profile/38481400), Pellegrini O, Uicker WC, Mathy N, Tobin C, Daou R, Szyk J, Condon C. Maturation of the 5' end of Bacillus subtilis 16S rRNA by the essential ribonuclease YkqC/RNase J1. Mol Microbiol. 2007 Jan; 63(1):127-38. PMID: [17229210](//www.ncbi.nlm.nih.gov/pubmed/17229210).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17229210/citedby/) Fields:
+
+Mic MicrobiologyMol Molecular Biology
+
+Translation:Cells
+
+  95. [Schaefer L](https://profiles.viictr.org/profile/38481400), Uicker WC, Wicker-Planquart C, Foucher AE, Jault JM, **Britton RA**. Multiple GTPases participate in the assembly of the large ribosomal subunit in Bacillus subtilis. J Bacteriol. 2006 Dec; 188(23):8252-8. PMID: [16997968](//www.ncbi.nlm.nih.gov/pubmed/16997968); PMCID: [PMC1698177](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1698177).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16997968/citedby/) Fields:
+
+Bac Bacteriology
+
+Translation:Cells
+
+  96. Uicker WC, [Schaefer L](https://profiles.viictr.org/profile/38481400), **Britton RA**. The essential GTPase RbgA (YlqF) is required for 50S ribosome assembly in Bacillus subtilis. Mol Microbiol. 2006 Jan; 59(2):528-40. PMID: [16390447](//www.ncbi.nlm.nih.gov/pubmed/16390447).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16390447/citedby/) Fields:
+
+Mic MicrobiologyMol Molecular Biology
+
+Translation:Cells
+
+  97. Jiang X, Zhao B, **Britton R** , Lim LY, Leong D, Sanghera JS, Zhou BB, Piers E, Andersen RJ, Roberge M. Inhibition of Chk1 by the G2 DNA damage checkpoint inhibitor isogranulatimide. Mol Cancer Ther. 2004 Oct; 3(10):1221-7. PMID: [15486189](//www.ncbi.nlm.nih.gov/pubmed/15486189).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15486189/citedby/) Fields:
+
+Ant Antineoplastic Agents
+
+Translation:HumansCells
+
+  98. **Britton RA**. DNA microarrays and bacterial gene expression. Methods Enzymol. 2003; 370:264-78. PMID: [14712651](//www.ncbi.nlm.nih.gov/pubmed/14712651).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14712651/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 98 publications over 21 distinct years, with a maximum of
+17 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|17&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,6,6,0,12,24,18,18,18,6,35,29,41,29,24,29,29,59,100,35,24,18,18&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2003| 1  
+2004| 1  
+2006| 2  
+2007| 4  
+2008| 3  
+2009| 3  
+2010| 3  
+2011| 1  
+2012| 6  
+2013| 5  
+2014| 7  
+2015| 5  
+2016| 4  
+2017| 5  
+2018| 5  
+2019| 10  
+2020| 17  
+2021| 6  
+2022| 4  
+2023| 3  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BRITTON's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (417)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Probiotics](https://profiles.viictr.org/profile/259459)
+  * [Gastrointestinal Microbiome](https://profiles.viictr.org/profile/27544473)
+  * [Bacterial Proteins](https://profiles.viictr.org/profile/249317)
+  * [Bacillus subtilis](https://profiles.viictr.org/profile/257909)
+  * [Genetic Engineering](https://profiles.viictr.org/profile/241349)
+
+[Explore](https://profiles.viictr.org/profile/8950240/198)
+
+_
+
+Co-Authors (50)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SCHAEFER, LAURA](https://profiles.viictr.org/profile/38481400)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [DI RIENZI, SARA](https://profiles.viictr.org/profile/22016845)
+  * [DE PAIVA, CINTIA](https://profiles.viictr.org/profile/268002)
+  * [PREIDIS, GEOFFREY](https://profiles.viictr.org/profile/6714426)
+
+[Explore](https://profiles.viictr.org/profile/8950240/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [GAREY, KEVIN](https://profiles.viictr.org/profile/268841)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [PETROSINO, JOSEPH](https://profiles.viictr.org/profile/267058)
+  * [SAVIDGE, TOR](https://profiles.viictr.org/profile/270090)
+  * [YAMAOKA, YOSHIO](https://profiles.viictr.org/profile/268194)
+
+[Explore](https://profiles.viictr.org/profile/8950240/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [EL SAHLY, HANA](https://profiles.viictr.org/profile/266773)
+  * [ETTAYEBI, KHALIL](https://profiles.viictr.org/profile/37834414)
+  * [HOLLINGER, F. BLAINE](https://profiles.viictr.org/profile/267399)
+  * [KIMATA, JASON](https://profiles.viictr.org/profile/268949)
+  * [SLAGLE, BETTY](https://profiles.viictr.org/profile/269521)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

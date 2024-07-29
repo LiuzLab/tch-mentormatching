@@ -1,0 +1,1292 @@
+## DAVID HO
+
+| | Title| Clinical Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Urology  
+Address| 6560 Fannin Ste# 1001  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Mqom6GHPL6v3RYKj5X%2fX&rnd=8748fb85-63cd-4cd3-b146-48817144bc85)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267305)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Han Y, Duan X, Yang L, Nilsson-Payant BE, Wang P, Duan F, Tang X, Yaron TM, Zhang T, Uhl S, Bram Y, Richardson C, Zhu J, Zhao Z, Redmond D, Houghton S, Nguyen DT, Xu D, Wang X, Jessurun J, Borczuk A, Huang Y, Johnson JL, Liu Y, Xiang J, Wang H, Cantley LC, tenOever BR, **Ho DD** , Pan FC, Evans T, Chen HJ, Schwartz RE, Chen S. Author Correction: Identification of SARS-CoV-2 inhibitors using lung and colonic organoids. Nature. 2024 Jun; 630(8016):E7. PMID: [38811742](//www.ncbi.nlm.nih.gov/pubmed/38811742).
+
+Citations:  Fields:
+
+Sci Science
+
+  2. Wang Q, Guo Y, Schwanz LT, Mellis IA, Sun Y, Qu Y, Urtecho G, Valdez R, Stoneman E, Gordon A, Wang HH, **Ho DD** , Liu L. SARS-CoV-2 omicron BA.2.87.1 exhibits higher susceptibility to serum neutralization than EG.5.1 and JN.1. Emerg Microbes Infect. 2024 Dec; 13(1):2359004. PMID: [38779718](//www.ncbi.nlm.nih.gov/pubmed/38779718); PMCID: [PMC11146261](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11146261).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38779718/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  3. Jia M, Zhao H, Morano NC, Lu H, Lui YM, Du H, Becker JE, Yuen KY, **Ho DD** , Kwong PD, Shapiro L, To KK, Wu X. Human neutralizing antibodies target a conserved lateral patch on H7N9 hemagglutinin head. Nat Commun. 2024 May 27; 15(1):4505. PMID: [38802413](//www.ncbi.nlm.nih.gov/pubmed/38802413); PMCID: [PMC11130183](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11130183).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  4. Piepenbrink MS, Khalil AM, Chang A, Mostafa A, Basu M, Sarkar S, Panjwani S, Ha YH, Ma Y, Ye C, Wang Q, Green TJ, Kizziah JL, Erdmann NB, Goepfert PA, Liu L, **Ho DD** , Martinez-Sobrido L, Walter MR, Kobie JJ. Potent neutralization by a receptor binding domain monoclonal antibody with broad specificity for SARS-CoV-2 JN.1 and other variants. bioRxiv. 2024 Apr 29. PMID: [38746414](//www.ncbi.nlm.nih.gov/pubmed/38746414); PMCID: [PMC11092460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11092460).
+
+Citations:
+
+  5. Iketani S, **Ho DD**. SARS-CoV-2 resistance to monoclonal antibodies and small-molecule drugs. Cell Chem Biol. 2024 Apr 18; 31(4):632-657. PMID: [38640902](//www.ncbi.nlm.nih.gov/pubmed/38640902); PMCID: [PMC11084874](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11084874).
+
+Citations:  Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:HumansCellsPHPublic Health
+
+  6. Bekdash R, Yoshida K, Nair MS, Qiu L, Ahdout J, Tsai HY, Uryu K, Soni RK, Huang Y, **Ho DD** , Yazawa M. Developing inhibitory peptides against SARS-CoV-2 envelope protein. PLoS Biol. 2024 Mar; 22(3):e3002522. PMID: [38483887](//www.ncbi.nlm.nih.gov/pubmed/38483887); PMCID: [PMC10939250](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10939250).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  7. Tai CG, Haviland MJ, Kissler SM, Lucia RM, Merson M, Maragakis LL, **Ho DD** , Anderson DJ, DiFiori J, Grubaugh ND, Grad YH, Mack CD. Low antibody levels associated with significantly increased rate of SARS-CoV-2 infection in a highly vaccinated population from the US National Basketball Association. J Med Virol. 2024 Mar; 96(3):e29505. PMID: [38465748](//www.ncbi.nlm.nih.gov/pubmed/38465748).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38465748/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  8. Wang Q, Guo Y, Bowen A, Mellis IA, Valdez R, Gherasim C, Gordon A, Liu L, **Ho DD**. XBB.1.5 monovalent mRNA vaccine booster elicits robust neutralizing antibodies against XBB subvariants and JN.1. Cell Host Microbe. 2024 Mar 13; 32(3):315-321.e3. PMID: [38377995](//www.ncbi.nlm.nih.gov/pubmed/38377995); PMCID: [PMC10948033](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10948033).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38377995/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:Humans
+
+  9. Yang L, Kim TW, Han Y, Nair MS, Harschnitz O, Zhu J, Wang P, Koo SY, Lacko LA, Chandar V, Bram Y, Zhang T, Zhang W, He F, Pan C, Wu J, Huang Y, Evans T, van der Valk P, Titulaer MJ, Spoor JKH, Furler O'Brien RL, Bugiani M, D J Van de Berg W, Schwartz RE, **Ho DD** , Studer L, Chen S. SARS-CoV-2 infection causes dopaminergic neuron senescence. Cell Stem Cell. 2024 02 01; 31(2):196-211.e6. PMID: [38237586](//www.ncbi.nlm.nih.gov/pubmed/38237586); PMCID: [PMC10843182](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10843182).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38237586/citedby/) Fields:
+
+Cel Cell Biology
+
+  10. Gorman J, Cheung CS, Duan Z, Ou L, Wang M, Chen X, Cheng C, Biju A, Sun Y, Wang P, Yang Y, Zhang B, Boyington JC, Bylund T, Charaf S, Chen SJ, Du H, Henry AR, Liu T, Sarfo EK, Schramm CA, Shen CH, Stephens T, Teng IT, Todd JP, Tsybovsky Y, Verardi R, Wang D, Wang S, Wang Z, Zheng CY, Zhou T, Douek DC, Mascola JR, **Ho DD** , Ho M, Kwong PD. Cleavage-intermediate Lassa virus trimer elicits neutralizing responses, identifies neutralizing nanobodies, and reveals an apex-situated site-of-vulnerability. Nat Commun. 2024 Jan 04; 15(1):285. PMID: [38177144](//www.ncbi.nlm.nih.gov/pubmed/38177144); PMCID: [PMC10767048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10767048).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  11. Nair MS, Luck MI, Huang Y, Sabo Y, **Ho DD**. Persistence of an infectious form of SARS-CoV-2 post protease inhibitor treatment of permissive cells in vitro. bioRxiv. 2023 Dec 21. PMID: [38187654](//www.ncbi.nlm.nih.gov/pubmed/38187654); PMCID: [PMC10769372](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10769372).
+
+Citations:
+
+  12. Zhou B, Zhou R, Chan JF, Zeng J, Zhang Q, Yuan S, Liu L, Robinot R, Shan S, Liu N, Ge J, Kwong HY, Zhou D, Xu H, Chan CC, Poon VK, Chu H, Yue M, Kwan KY, Chan CY, Chan CC, Chik KK, Du Z, Au KK, Huang H, Man HO, Cao J, Li C, Wang Z, Zhou J, Song Y, Yeung ML, To KK, **Ho DD** , Chakrabarti LA, Wang X, Zhang L, Yuen KY, Chen Z. SARS-CoV-2 hijacks neutralizing dimeric IgA for nasal infection and injury in Syrian hamsters1. Emerg Microbes Infect. 2023 Dec; 12(2):2245921. PMID: [37542391](//www.ncbi.nlm.nih.gov/pubmed/37542391); PMCID: [PMC10444022](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10444022).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37542391/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansAnimalsCells
+
+  13. Luo M, Zhou B, Tang B, Chen B, Zhou R, Liu H, Au KK, Man HO, Yuen KY, Dang S, Chen Z, Reddem ER, Liu L, Katsamba PS, To KK, Shapiro L, **Ho DD**. Structural insights into broadly neutralizing antibodies elicited by hybrid immunity against SARS-CoV-2. Emerg Microbes Infect. 2023 Dec; 12(1):2146538. PMID: [36354024](//www.ncbi.nlm.nih.gov/pubmed/36354024); PMCID: [PMC9817130](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9817130).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36354024/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  14. Wang Q, Yeh AY, Guo Y, Mohri H, Yu J, **Ho DD** , Liu L. Impaired potency of neutralizing antibodies against cell-cell fusion mediated by SARS-CoV-2. Emerg Microbes Infect. 2023 Dec; 12(1):2210237. PMID: [37132357](//www.ncbi.nlm.nih.gov/pubmed/37132357); PMCID: [PMC10215017](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10215017).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  15. Jia M, Zhao H, Morano NC, Lu H, Lui YM, Du H, Becker JE, Yuen KY, **Ho DD** , Kwong PD, Shapiro L, To KK, Wu X. Allosteric Neutralization by Human H7N9 Antibodies. Res Sq. 2023 Nov 07. PMID: [37986867](//www.ncbi.nlm.nih.gov/pubmed/37986867); PMCID: [PMC10659534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10659534).
+
+Citations:
+
+  16. Mack CD, Merson MH, Sims L, Maragakis LL, Davis R, Tai CG, Meisel P, Grad YH, **Ho DD** , Anderson DJ, LeMay C, DiFiori J. The "Bubble": What Can Be Learned from the National Basketball Association (NBA)'s 2019-20 Season Restart in Orlando during the COVID-19 Pandemic. J Appl Lab Med. 2023 11 02; 8(6):1017-1027. PMID: [37902472](//www.ncbi.nlm.nih.gov/pubmed/37902472).
+
+Citations:  Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:HumansCellsPHPublic Health
+
+  17. Wang Q, Bowen A, Ho J, Zhang RM, Valdez R, Stoneman E, Gordon A, Liu L, **Ho DD**. SARS-CoV-2 neutralising antibodies after a second BA.5 bivalent booster. Lancet. 2023 11 18; 402(10415):1827-1828. PMID: [37922920](//www.ncbi.nlm.nih.gov/pubmed/37922920).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37922920/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  18. Wang Q, Guo Y, Tam AR, Valdez R, Gordon A, Liu L, **Ho DD**. Deep immunological imprinting due to the ancestral spike in the current bivalent COVID-19 vaccine. Cell Rep Med. 2023 11 21; 4(11):101258. PMID: [37909042](//www.ncbi.nlm.nih.gov/pubmed/37909042); PMCID: [PMC10694617](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10694617).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37909042/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  19. Wang Q, Guo Y, Liu L, Schwanz LT, Li Z, Nair MS, Ho J, Zhang RM, Iketani S, Yu J, Huang Y, Qu Y, Valdez R, Lauring AS, Huang Y, Wang HH, Liu L, **Ho DD** , Gordon A. Antigenicity and receptor affinity of SARS-CoV-2 BA.2.86 spike. Nature. 2023 Dec; 624(7992):639-644. PMID: [37871613](//www.ncbi.nlm.nih.gov/pubmed/37871613).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37871613/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  20. Wang Q, Li Z, Guo Y, Mellis IA, Iketani S, Liu M, Yu J, Valdez R, Lauring AS, Sheng Z, Gordon A, Liu L, **Ho DD**. Evolving antibody evasion and receptor affinity of the Omicron BA.2.75 sublineage of SARS-CoV-2. iScience. 2023 Nov 17; 26(11):108254. PMID: [38026207](//www.ncbi.nlm.nih.gov/pubmed/38026207); PMCID: [PMC10654603](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10654603).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38026207/citedby/)
+
+  21. Kissler SM, Hay JA, Fauver JR, Mack C, Tai CG, Anderson DJ, **Ho DD** , Grubaugh ND, Grad YH. Viral kinetics of sequential SARS-CoV-2 infections. Nat Commun. 2023 10 05; 14(1):6206. PMID: [37798265](//www.ncbi.nlm.nih.gov/pubmed/37798265); PMCID: [PMC10556125](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10556125).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37798265/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  22. Liu L, Casner RG, Guo Y, Wang Q, Iketani S, Chan JF, Yu J, Dadonaite B, Nair MS, Mohri H, Reddem ER, Yuan S, Poon VK, Chan CC, Yuen KY, Sheng Z, Huang Y, Bloom JD, Shapiro L, **Ho DD**. Antibodies targeting a quaternary site on SARS-CoV-2 spike glycoprotein prevent viral receptor engagement by conformational locking. Immunity. 2023 Oct 10; 56(10):2442-2455.e8. PMID: [37776849](//www.ncbi.nlm.nih.gov/pubmed/37776849); PMCID: [PMC10588992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10588992).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37776849/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  23. Duan Y, Zhou H, Liu X, Iketani S, Lin M, Zhang X, Bian Q, Wang H, Sun H, Hong SJ, Culbertson B, Mohri H, Luck MI, Zhu Y, Liu X, Lu Y, Yang X, Yang K, Sabo Y, Chavez A, Goff SP, Rao Z, **Ho DD** , Yang H. Molecular mechanisms of SARS-CoV-2 resistance to nirmatrelvir. Nature. 2023 Oct; 622(7982):376-382. PMID: [37696289](//www.ncbi.nlm.nih.gov/pubmed/37696289).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37696289/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  24. Wang Q, Guo Y, Zhang RM, Ho J, Mohri H, Valdez R, Manthei DM, Gordon A, Liu L, **Ho DD**. Antibody neutralisation of emerging SARS-CoV-2 subvariants: EG.5.1 and XBC.1.6. Lancet Infect Dis. 2023 10; 23(10):e397-e398. PMID: [37708906](//www.ncbi.nlm.nih.gov/pubmed/37708906).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37708906/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  25. Tsuji M, Nair MS, Masuda K, Castagna C, Chong Z, Darling TL, Seehra K, Hwang Y, Ribeiro ?L, Ferreira GM, Corredor L, Coelho-Dos-Reis JGA, Tsuji Y, Mori M, Boon ACM, Diamond MS, Huang Y, **Ho DD**. An immunostimulatory glycolipid that blocks SARS-CoV-2, RSV, and influenza infections in vivo. Nat Commun. 2023 07 05; 14(1):3959. PMID: [37402814](//www.ncbi.nlm.nih.gov/pubmed/37402814); PMCID: [PMC10319732](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10319732).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37402814/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  26. Burn Aschner C, Muthuraman K, Kucharska I, Cui H, Prieto K, Nair MS, Wang M, Huang Y, Christie-Holmes N, Poon B, Lam J, Sultana A, Kozak R, Mubareka S, Rubinstein JL, Rujas E, Treanor B, **Ho DD** , Jetha A, Julien JP. A multi-specific, multi-affinity antibody platform neutralizes sarbecoviruses and confers protection against SARS-CoV-2 in vivo. Sci Transl Med. 2023 05 24; 15(697):eadf4549. PMID: [37224226](//www.ncbi.nlm.nih.gov/pubmed/37224226).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37224226/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  27. Sheng Z, Bimela JS, Wang M, Li Z, Guo Y, **Ho DD**. An optimized thermodynamics integration protocol for identifying beneficial mutations in antibody design. Front Immunol. 2023; 14:1190416. PMID: [37275896](//www.ncbi.nlm.nih.gov/pubmed/37275896); PMCID: [PMC10235760](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10235760).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  28. Liu L, Casner RG, Guo Y, Wang Q, Iketani S, Chan JF, Yu J, Dadonaite B, Nair MS, Mohri H, Reddem ER, Yuan S, Poon VK, Chan CC, Yuen KY, Sheng Z, Huang Y, Bloom JD, Shapiro L, **Ho DD**. Antibodies that neutralize all current SARS-CoV-2 variants of concern by conformational locking. bioRxiv. 2023 Apr 10. PMID: [37090592](//www.ncbi.nlm.nih.gov/pubmed/37090592); PMCID: [PMC10120718](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10120718).
+
+Citations:
+
+  29. Wang Q, Bowen A, Tam AR, Valdez R, Stoneman E, Mellis IA, Gordon A, Liu L, **Ho DD**. SARS-CoV-2 neutralising antibodies after bivalent versus monovalent booster. Lancet Infect Dis. 2023 05; 23(5):527-528. PMID: [37003292](//www.ncbi.nlm.nih.gov/pubmed/37003292); PMCID: [PMC10058662](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10058662).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37003292/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  30. Nair MS, Ribeiro RM, Wang M, Bowen AD, Liu L, Guo Y, Chang JY, Wang P, Sheng Z, Sobieszczyk ME, Perelson AS, Huang Y, **Ho DD**. Changes in serum-neutralizing antibody potency and breadth post-SARS-CoV-2 mRNA vaccine boost. iScience. 2023 Apr 21; 26(4):106345. PMID: [36925721](//www.ncbi.nlm.nih.gov/pubmed/36925721); PMCID: [PMC9987605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9987605).
+
+Citations:
+
+  31. Dadonaite B, Crawford KHD, Radford CE, Farrell AG, Yu TC, Hannon WW, Zhou P, Andrabi R, Burton DR, Liu L, **Ho DD** , Chu HY, Neher RA, Bloom JD. A pseudovirus system enables deep mutational scanning of the full SARS-CoV-2 spike. Cell. 2023 03 16; 186(6):1263-1278.e20. PMID: [36868218](//www.ncbi.nlm.nih.gov/pubmed/36868218); PMCID: [PMC9922669](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9922669).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36868218/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  32. Wang Q, Bowen A, Valdez R, Gherasim C, Gordon A, Liu L, **Ho DD**. Antibody Response to Omicron BA.4-BA.5 Bivalent Booster. N Engl J Med. 2023 02 09; 388(6):567-569. PMID: [36630643](//www.ncbi.nlm.nih.gov/pubmed/36630643); PMCID: [PMC9847504](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9847504).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36630643/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  33. Wang Q, Iketani S, Li Z, Liu L, Guo Y, Huang Y, Bowen AD, Liu M, Wang M, Yu J, Valdez R, Lauring AS, Sheng Z, Wang HH, Gordon A, Liu L, **Ho DD**. Alarming antibody evasion properties of rising SARS-CoV-2 BQ and XBB subvariants. Cell. 2023 Jan 19; 186(2):279-286.e8. PMID: [36580913](//www.ncbi.nlm.nih.gov/pubmed/36580913); PMCID: [PMC9747694](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9747694).
+
+Citations:
+[139](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36580913/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  34. Wang P, Casner RG, Nair MS, Yu J, Guo Y, Wang M, Chan JF, Cerutti G, Iketani S, Liu L, Sheng Z, Chen Z, Yuen KY, Kwong PD, Huang Y, Shapiro L, **Ho DD**. A monoclonal antibody that neutralizes SARS-CoV-2 variants, SARS-CoV, and other sarbecoviruses. Emerg Microbes Infect. 2022 Dec; 11(1):147-157. PMID: [34836485](//www.ncbi.nlm.nih.gov/pubmed/34836485); PMCID: [PMC8725896](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8725896).
+
+Citations:
+
+  35. Hay JA, Kissler SM, Fauver JR, Mack C, Tai CG, Samant RM, Connolly S, Anderson DJ, Khullar G, MacKay M, Patel M, Kelly S, Manhertz A, Eiter I, Salgado D, Baker T, Howard B, Dudley JT, Mason CE, Nair M, Huang Y, DiFiori J, **Ho DD** , Grubaugh ND, Grad YH. Quantifying the impact of immune history and variant on SARS-CoV-2 viral kinetics and infection rebound: A retrospective cohort study. Elife. 2022 11 16; 11. PMID: [36383192](//www.ncbi.nlm.nih.gov/pubmed/36383192); PMCID: [PMC9711520](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9711520).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36383192/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansCells
+
+  36. Iketani S, Mohri H, Culbertson B, Hong SJ, Duan Y, Luck MI, Annavajhala MK, Guo Y, Sheng Z, Uhlemann AC, Goff SP, Sabo Y, Yang H, Chavez A, **Ho DD**. Multiple pathways for SARS-CoV-2 resistance to nirmatrelvir. Nature. 2023 01; 613(7944):558-564. PMID: [36351451](//www.ncbi.nlm.nih.gov/pubmed/36351451); PMCID: [PMC9849135](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9849135).
+
+Citations:
+[70](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36351451/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  37. Wang Q, Li Z, Ho J, Guo Y, Yeh AY, Mohri H, Liu M, Wang M, Yu J, Shah JG, Chang JY, Herbas F, Yin MT, Sobieszczyk ME, Sheng Z, Liu L, **Ho DD**. Resistance of SARS-CoV-2 omicron subvariant BA.4.6 to antibody neutralisation. Lancet Infect Dis. 2022 12; 22(12):1666-1668. PMID: [36328002](//www.ncbi.nlm.nih.gov/pubmed/36328002); PMCID: [PMC9621396](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9621396).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36328002/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  38. Dadonaite B, Crawford KHD, Radford CE, Farrell AG, Yu TC, Hannon WW, Zhou P, Andrabi R, Burton DR, Liu L, **Ho DD** , Neher RA, Bloom JD. A pseudovirus system enables deep mutational scanning of the full SARS-CoV-2 spike. bioRxiv. 2022 Oct 13. PMID: [36263061](//www.ncbi.nlm.nih.gov/pubmed/36263061); PMCID: [PMC9580381](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9580381).
+
+Citations:
+
+  39. Charness ME, Gupta K, Stack G, Strymish J, Adams E, Lindy DC, Mohri H, **Ho DD**. Rebound of SARS-CoV-2 Infection after Nirmatrelvir-Ritonavir Treatment. N Engl J Med. 2022 09 15; 387(11):1045-1047. PMID: [36069968](//www.ncbi.nlm.nih.gov/pubmed/36069968); PMCID: [PMC9511633](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9511633).
+
+Citations:
+
+  40. Wang Q, Iketani S, Li Z, Guo Y, Yeh AY, Liu M, Yu J, Sheng Z, Huang Y, Liu L, **Ho DD**. Antigenic characterization of the SARS-CoV-2 Omicron subvariant BA.2.75. Cell Host Microbe. 2022 11 09; 30(11):1512-1517.e4. PMID: [36108630](//www.ncbi.nlm.nih.gov/pubmed/36108630); PMCID: [PMC9444898](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9444898).
+
+Citations:
+
+  41. de Souza MO, Madan B, Teng IT, Huang A, Liu L, Fahad AS, Lopez Acevedo SN, Pan X, Sastry M, Gutierrez-Gonzalez M, Yin MT, Zhou T, **Ho DD** , Kwong PD, DeKosky BJ. Mapping monoclonal anti-SARS-CoV-2 antibody repertoires against diverse coronavirus antigens. Front Immunol. 2022; 13:977064. PMID: [36119018](//www.ncbi.nlm.nih.gov/pubmed/36119018); PMCID: [PMC9478573](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9478573).
+
+Citations:
+
+  42. Mathema B, Chen L, Wang P, Cunningham MH, Mediavilla JR, Chow KF, Luo Y, Zhao Y, Composto K, Zuckerman J, Zody MC, Wilson N, Lee A, Oschwald DM, Liu L, Iketani S, Germer S, Fennessey S, Wang M, Kramer Y, Toole P, Maniatis T, **Ho DD** , Perlin DS, Kreiswirth BN. Genomic Epidemiology and Serology Associated with a SARS-CoV-2 R.1 Variant Outbreak in New Jersey. mBio. 2022 10 26; 13(5):e0214122. PMID: [35997285](//www.ncbi.nlm.nih.gov/pubmed/35997285); PMCID: [PMC9600516](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9600516).
+
+Citations:
+
+  43. Iketani S, Mohri H, Culbertson B, Hong SJ, Duan Y, Luck MI, Annavajhala MK, Guo Y, Sheng Z, Uhlemann AC, Goff SP, Sabo Y, Yang H, Chavez A, **Ho DD**. Multiple pathways for SARS-CoV-2 resistance to nirmatrelvir. bioRxiv. 2022 Aug 18. PMID: [36032976](//www.ncbi.nlm.nih.gov/pubmed/36032976); PMCID: [PMC9413711](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9413711).
+
+Citations:
+
+  44. Iketani S, Hong SJ, Sheng J, Bahari F, Culbertson B, Atanaki FF, Aditham AK, Kratz AF, Luck MI, Tian R, Goff SP, Montazeri H, Sabo Y, **Ho DD** , Chavez A. Functional map of SARS-CoV-2 3CL protease reveals tolerant and immutable sites. Cell Host Microbe. 2022 10 12; 30(10):1354-1362.e6. PMID: [36029764](//www.ncbi.nlm.nih.gov/pubmed/36029764); PMCID: [PMC9365866](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9365866).
+
+Citations:
+
+  45. Iketani S, Hong SJ, Sheng J, Bahari F, Culbertson B, Atanaki FF, Aditham AK, Kratz AF, Luck MI, Tian R, Goff SP, Montazeri H, Sabo Y, **Ho DD** , Chavez A. The Functional Landscape of SARS-CoV-2 3CL Protease. bioRxiv. 2022 Jul 12. PMID: [35860222](//www.ncbi.nlm.nih.gov/pubmed/35860222); PMCID: [PMC9298129](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9298129).
+
+Citations:
+
+  46. Wang Q, Guo Y, Iketani S, Nair MS, Li Z, Mohri H, Wang M, Yu J, Bowen AD, Chang JY, Shah JG, Nguyen N, Chen Z, Meyers K, Yin MT, Sobieszczyk ME, Sheng Z, Huang Y, Liu L, **Ho DD**. Antibody evasion by SARS-CoV-2 Omicron subvariants BA.2.12.1, BA.4 and BA.5. Nature. 2022 08; 608(7923):603-608. PMID: [35790190](//www.ncbi.nlm.nih.gov/pubmed/35790190); PMCID: [PMC9385487](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9385487).
+
+Citations:
+
+  47. Liu L, Iketani S, Guo Y, Reddem ER, Casner RG, Nair MS, Yu J, Chan JF, Wang M, Cerutti G, Li Z, Morano NC, Castagna CD, Corredor L, Chu H, Yuan S, Poon VK, Chan CC, Chen Z, Luo Y, Cunningham M, Chavez A, Yin MT, Perlin DS, Tsuji M, Yuen KY, Kwong PD, Sheng Z, Huang Y, Shapiro L, **Ho DD**. An antibody class with a common CDRH3 motif broadly neutralizes sarbecoviruses. Sci Transl Med. 2022 05 25; 14(646):eabn6859. PMID: [35438546](//www.ncbi.nlm.nih.gov/pubmed/35438546); PMCID: [PMC9017343](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9017343).
+
+Citations:
+
+  48. Wang Q, Anang S, Iketani S, Guo Y, Liu L, Katsamba PS, Shapiro L, **Ho DD** , Sodroski JG. Functional properties of the spike glycoprotein of the emerging SARS-CoV-2 variant B.1.1.529. Cell Rep. 2022 06 14; 39(11):110924. PMID: [35658975](//www.ncbi.nlm.nih.gov/pubmed/35658975); PMCID: [PMC9119962](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9119962).
+
+Citations:
+
+  49. Liu L, Meyers K, Purpura LJ, Nguyen N, Mohri H, Chang JY, Annavajhala MK, Lopez L, Lee SW, Shah J, Lane B, Cantos A, Tukuru SA, Guo Y, Ford K, Chiu YT, Sheng Z, Choesang T, Castor D, Wang M, Pili C, Van Hoy MN, Wallach A, Horton J, Chen Z, Rosenthal S, McLaren S, Jiang B, Wang F, Lu HH, Uhlemann AC, **Ho DD** , Yin MT. Development and performance of a point-of-care rapid antigen test for detection of SARS-COV-2 variants. J Clin Virol Plus. 2022 Aug; 2(3):100080. PMID: [35528048](//www.ncbi.nlm.nih.gov/pubmed/35528048); PMCID: [PMC9067019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9067019).
+
+Citations:
+
+  50. Liu H, Iketani S, Zask A, Khanizeman N, Bednarova E, Forouhar F, Fowler B, Hong SJ, Mohri H, Nair MS, Huang Y, Tay NES, Lee S, Karan C, Resnick SJ, Quinn C, Li W, Shion H, Xia X, Daniels JD, Bartolo-Cruz M, Farina M, Rajbhandari P, Jurtschenko C, Lauber MA, McDonald T, Stokes ME, Hurst BL, Rovis T, Chavez A, **Ho DD** , Stockwell BR. Development of optimized drug-like small molecule inhibitors of the SARS-CoV-2 3CL protease for treatment of COVID-19. Nat Commun. 2022 04 07; 13(1):1891. PMID: [35393402](//www.ncbi.nlm.nih.gov/pubmed/35393402); PMCID: [PMC8989888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8989888).
+
+Citations:
+
+  51. DeGrace MM, Ghedin E, Frieman MB, Krammer F, Grifoni A, Alisoltani A, Alter G, Amara RR, Baric RS, Barouch DH, Bloom JD, Bloyet LM, Bonenfant G, Boon ACM, Boritz EA, Bratt DL, Bricker TL, Brown L, Buchser WJ, Carre?o JM, Cohen-Lavi L, Darling TL, Davis-Gardner ME, Dearlove BL, Di H, Dittmann M, Doria-Rose NA, Douek DC, Drosten C, Edara VV, Ellebedy A, Fabrizio TP, Ferrari G, Fischer WM, Florence WC, Fouchier RAM, Franks J, Garc?a-Sastre A, Godzik A, Gonzalez-Reiche AS, Gordon A, Haagmans BL, Halfmann PJ, **Ho DD** , Holbrook MR, Huang Y, James SL, Jaroszewski L, Jeevan T, Johnson RM, Jones TC, Joshi A, Kawaoka Y, Kercher L, Koopmans MPG, Korber B, Koren E, Koup RA, LeGresley EB, Lemieux JE, Liebeskind MJ, Liu Z, Livingston B, Logue JP, Luo Y, McDermott AB, McElrath MJ, Meliopoulos VA, Menachery VD, Montefiori DC, M?hlemann B, Munster VJ, Munt JE, Nair MS, Netzl A, Niewiadomska AM, O'Dell S, Pekosz A, Perlman S, Pontelli MC, Rockx B, Rolland M, Rothlauf PW, Sacharen S, Scheuermann RH, Schmidt SD, Schotsaert M, Schultz-Cherry S, Seder RA, Sedova M, Sette A, Shabman RS, Shen X, Shi PY, Shukla M, Simon V, Stumpf S, Sullivan NJ, Thackray LB, Theiler J, Thomas PG, Trifkovic S, T?reli S, Turner SA, Vakaki MA, van Bakel H, VanBlargan LA, Vincent LR, Wallace ZS, Wang L, Wang M, Wang P, Wang W, Weaver SC, Webby RJ, Weiss CD, Wentworth DE, Weston SM, Whelan SPJ, Whitener BM, Wilks SH, Xie X, Ying B, Yoon H, Zhou B, Hertz T, Smith DJ, Diamond MS, Post DJ, Suthar MS. Defining the risk of SARS-CoV-2 variants on immune protection. Nature. 2022 05; 605(7911):640-652. PMID: [35361968](//www.ncbi.nlm.nih.gov/pubmed/35361968); PMCID: [PMC9345323](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9345323).
+
+Citations:
+
+  52. Han Y, Zhu J, Yang L, Nilsson-Payant BE, Hurtado R, Lacko LA, Sun X, Gade AR, Higgins CA, Sisso WJ, Dong X, Wang M, Chen Z, **Ho DD** , Pitt GS, Schwartz RE, tenOever BR, Evans T, Chen S. SARS-CoV-2 Infection Induces Ferroptosis of Sinoatrial Node Pacemaker Cells. Circ Res. 2022 04; 130(7):963-977. PMID: [35255712](//www.ncbi.nlm.nih.gov/pubmed/35255712); PMCID: [PMC8963443](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8963443).
+
+Citations:
+
+  53. Iketani S, Liu L, Guo Y, Liu L, Chan JF, Huang Y, Wang M, Luo Y, Yu J, Chu H, Chik KK, Yuen TT, Yin MT, Sobieszczyk ME, Huang Y, Yuen KY, Wang HH, Sheng Z, **Ho DD**. Antibody evasion properties of SARS-CoV-2 Omicron sublineages. Nature. 2022 04; 604(7906):553-556. PMID: [35240676](//www.ncbi.nlm.nih.gov/pubmed/35240676); PMCID: [PMC9021018](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9021018).
+
+Citations:
+
+  54. Duan X, Wang H, **Ho DD** , Schwartz RE, Evans T, Chen S. Comments on 'An airway organoid-based screen identifies a role for the HIF1a?glycolysis axis in SARS-CoV-2 infection'. J Mol Cell Biol. 2022 02 24; 14(1). PMID: [34850919](//www.ncbi.nlm.nih.gov/pubmed/34850919); PMCID: [PMC8690227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8690227).
+
+Citations:
+
+  55. Joyce MG, King HAD, Elakhal-Naouar I, Ahmed A, Peachman KK, Macedo Cincotta C, Subra C, Chen RE, Thomas PV, Chen WH, Sankhala RS, Hajduczki A, Martinez EJ, Peterson CE, Chang WC, Choe M, Smith C, Lee PJ, Headley JA, Taddese MG, Elyard HA, Cook A, Anderson A, McGuckin Wuertz K, Dong M, Swafford I, Case JB, Currier JR, Lal KG, Molnar S, Nair MS, Dussupt V, Daye SP, Zeng X, Barkei EK, Staples HM, Alfson K, Carrion R, Krebs SJ, Paquin-Proulx D, Karasavva N, Polonis VR, Jagodzinski LL, Amare MF, Vasan S, Scott PT, Huang Y, **Ho DD** , de Val N, Diamond MS, Lewis MG, Rao M, Matyas GR, Gromowski GD, Peel SA, Michael NL, Bolton DL, Modjarrad K. A SARS-CoV-2 ferritin nanoparticle vaccine elicits protective immune responses in nonhuman primates. Sci Transl Med. 2022 Feb 16; 14(632):eabi5735. PMID: [34914540](//www.ncbi.nlm.nih.gov/pubmed/34914540).
+
+Citations:
+
+  56. Cerutti G, Guo Y, Liu L, Liu L, Zhang Z, Luo Y, Huang Y, Wang HH, **Ho DD** , Sheng Z, Shapiro L. Cryo-EM structure of the SARS-CoV-2 Omicron spike. Cell Rep. 2022 03 01; 38(9):110428. PMID: [35172173](//www.ncbi.nlm.nih.gov/pubmed/35172173); PMCID: [PMC8818377](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8818377).
+
+Citations:
+
+  57. Liu L, Iketani S, Guo Y, Chan JF, Wang M, Liu L, Luo Y, Chu H, Huang Y, Nair MS, Yu J, Chik KK, Yuen TT, Yoon C, To KK, Chen H, Yin MT, Sobieszczyk ME, Huang Y, Wang HH, Sheng Z, Yuen KY, **Ho DD**. Striking antibody evasion manifested by the Omicron variant of SARS-CoV-2. Nature. 2022 02; 602(7898):676-681. PMID: [35016198](//www.ncbi.nlm.nih.gov/pubmed/35016198).
+
+Citations:
+
+  58. Ke R, Zitzmann C, **Ho DD** , Ribeiro RM, Perelson AS. In vivo kinetics of SARS-CoV-2 infection and its relationship with a person's infectiousness. Proc Natl Acad Sci U S A. 2021 12 07; 118(49). PMID: [34857628](//www.ncbi.nlm.nih.gov/pubmed/34857628); PMCID: [PMC8670484](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8670484).
+
+Citations:
+
+  59. Kissler SM, Fauver JR, Mack C, Tai CG, Breban MI, Watkins AE, Samant RM, Anderson DJ, Metti J, Khullar G, Baits R, MacKay M, Salgado D, Baker T, Dudley JT, Mason CE, **Ho DD** , Grubaugh ND, Grad YH. Viral Dynamics of SARS-CoV-2 Variants in Vaccinated and Unvaccinated Persons. N Engl J Med. 2021 12 23; 385(26):2489-2491. PMID: [34941024](//www.ncbi.nlm.nih.gov/pubmed/34941024); PMCID: [PMC8693673](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8693673).
+
+Citations:
+
+  60. Iketani S, Liu L, Nair MS, Chandrashekar A, Mohri H, Wang M, Barouch DH, Huang Y, **Ho DD**. Ad26.COV2.S boosts antibody and T-cell responses following BNT162b2 vaccination. Emerg Microbes Infect. 2021 12; 10(1):2220-2222. PMID: [34779713](//www.ncbi.nlm.nih.gov/pubmed/34779713); PMCID: [PMC8635656](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8635656).
+
+Citations:
+
+  61. Wang Q, Nair MS, Anang S, Zhang S, Nguyen H, Huang Y, Liu L, **Ho DD** , Sodroski JG. Functional differences among the spike glycoproteins of multiple emerging severe acute respiratory syndrome coronavirus 2 variants of concern. iScience. 2021 Nov 19; 24(11):103393. PMID: [34746689](//www.ncbi.nlm.nih.gov/pubmed/34746689); PMCID: [PMC8559451](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8559451).
+
+Citations:
+
+  62. Cerutti G, Guo Y, Wang P, Nair MS, Wang M, Huang Y, Yu J, Liu L, Katsamba PS, Bahna F, Reddem ER, Kwong PD, **Ho DD** , Sheng Z, Shapiro L. Neutralizing antibody 5-7 defines a distinct site of vulnerability in SARS-CoV-2 spike N-terminal domain. Cell Rep. 2021 11 02; 37(5):109928. PMID: [34706271](//www.ncbi.nlm.nih.gov/pubmed/34706271); PMCID: [PMC8519878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8519878).
+
+Citations:
+
+  63. Duan X, Tang X, Nair MS, Zhang T, Qiu Y, Zhang W, Wang P, Huang Y, Xiang J, Wang H, Schwartz RE, **Ho DD** , Evans T, Chen S. An airway organoid-based screen identifies a role for the HIF1a-glycolysis axis in SARS-CoV-2 infection. Cell Rep. 2021 11 09; 37(6):109920. PMID: [34731648](//www.ncbi.nlm.nih.gov/pubmed/34731648); PMCID: [PMC8516798](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8516798).
+
+Citations:
+
+  64. Wang P, Casner RG, Nair MS, Yu J, Guo Y, Wang M, Chan JF, Cerutti G, Iketani S, Liu L, Sheng Z, Chen Z, Yuen KY, Kwong PD, Huang Y, Shapiro L, **Ho DD**. A monoclonal antibody that neutralizes SARS-CoV-2 variants, SARS-CoV, and other sarbecoviruses. bioRxiv. 2021 Oct 14. PMID: [34671769](//www.ncbi.nlm.nih.gov/pubmed/34671769); PMCID: [PMC8528075](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8528075).
+
+Citations:
+
+  65. Yang L, Nilsson-Payant BE, Han Y, Jaffr? F, Zhu J, Wang P, Zhang T, Redmond D, Houghton S, M?ller R, Hoagland D, Carrau L, Horiuchi S, Goff M, Lim JK, Bram Y, Richardson C, Chandar V, Borczuk A, Huang Y, Xiang J, **Ho DD** , Schwartz RE, tenOever BR, Evans T, Chen S. Cardiomyocytes recruit monocytes upon SARS-CoV-2 infection by secreting CCL2. Stem Cell Reports. 2021 Oct 12; 16(10):2565. PMID: [34644531](//www.ncbi.nlm.nih.gov/pubmed/34644531); PMCID: [PMC8506979](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8506979).
+
+Citations:
+
+  66. Madan B, Reddem ER, Wang P, Casner RG, Nair MS, Huang Y, Fahad AS, de Souza MO, Banach BB, L?pez Acevedo SN, Pan X, Nimrania R, Teng IT, Bahna F, Zhou T, Zhang B, Yin MT, **Ho DD** , Kwong PD, Shapiro L, DeKosky BJ. Antibody screening at reduced pH enables preferential selection of potently neutralizing antibodies targeting SARS-CoV-2. AIChE J. 2021 Dec; 67(12):e17440. PMID: [34898670](//www.ncbi.nlm.nih.gov/pubmed/34898670); PMCID: [PMC8646896](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8646896).
+
+Citations:
+
+  67. Banach BB, Cerutti G, Fahad AS, Shen CH, Oliveira De Souza M, Katsamba PS, Tsybovsky Y, Wang P, Nair MS, Huang Y, Francino-Urd?niz IM, Steiner PJ, Guti?rrez-Gonz?lez M, Liu L, L?pez Acevedo SN, Nazzari AF, Wolfe JR, Luo Y, Olia AS, Teng IT, Yu J, Zhou T, Reddem ER, Bimela J, Pan X, Madan B, Laflin AD, Nimrania R, Yuen KY, Whitehead TA, **Ho DD** , Kwong PD, Shapiro L, DeKosky BJ. Paired heavy- and light-chain signatures contribute to potent SARS-CoV-2 neutralization in public antibody responses. Cell Rep. 2021 10 05; 37(1):109771. PMID: [34587480](//www.ncbi.nlm.nih.gov/pubmed/34587480); PMCID: [PMC8479507](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8479507).
+
+Citations:
+
+  68. Hastie KM, Li H, Bedinger D, Schendel SL, Dennison SM, Li K, Rayaprolu V, Yu X, Mann C, Zandonatti M, Diaz Avalos R, Zyla D, Buck T, Hui S, Shaffer K, Hariharan C, Yin J, Olmedillas E, Enriquez A, Parekh D, Abraha M, Feeney E, Horn GQ, CoVIC-DB team1, Aldon Y, Ali H, Aracic S, Cobb RR, Federman RS, Fernandez JM, Glanville J, Green R, Grigoryan G, Lujan Hernandez AG, **Ho DD** , Huang KA, Ingraham J, Jiang W, Kellam P, Kim C, Kim M, Kim HM, Kong C, Krebs SJ, Lan F, Lang G, Lee S, Leung CL, Liu J, Lu Y, MacCamy A, McGuire AT, Palser AL, Rabbitts TH, Rikhtegaran Tehrani Z, Sajadi MM, Sanders RW, Sato AK, Schweizer L, Seo J, Shen B, Snitselaar JL, Stamatatos L, Tan Y, Tomic MT, van Gils MJ, Youssef S, Yu J, Yuan TZ, Zhang Q, Peters B, Tomaras GD, Germann T, Saphire EO. Defining variant-resistant epitopes targeted by SARS-CoV-2 antibodies: A global consortium study. Science. 2021 Oct 22; 374(6566):472-478. PMID: [34554826](//www.ncbi.nlm.nih.gov/pubmed/34554826); PMCID: [PMC9302186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9302186).
+
+Citations:
+
+  69. King HAD, Joyce MG, Lakhal-Naouar I, Ahmed A, Cincotta CM, Subra C, Peachman KK, Hack HR, Chen RE, Thomas PV, Chen WH, Sankhala RS, Hajduczki A, Martinez EJ, Peterson CE, Chang WC, Choe M, Smith C, Headley JA, Elyard HA, Cook A, Anderson A, Wuertz KM, Dong M, Swafford I, Case JB, Currier JR, Lal KG, Amare MF, Dussupt V, Molnar S, Daye SP, Zeng X, Barkei EK, Alfson K, Staples HM, Carrion R, Krebs SJ, Paquin-Proulx D, Karasavvas N, Polonis VR, Jagodzinski LL, Vasan S, Scott PT, Huang Y, Nair MS, **Ho DD** , de Val N, Diamond MS, Lewis MG, Rao M, Matyas GR, Gromowski GD, Peel SA, Michael NL, Modjarrad K, Bolton DL. Efficacy and breadth of adjuvanted SARS-CoV-2 receptor-binding domain nanoparticle vaccine in macaques. Proc Natl Acad Sci U S A. 2021 09 21; 118(38). PMID: [34470866](//www.ncbi.nlm.nih.gov/pubmed/34470866); PMCID: [PMC8463842](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8463842).
+
+Citations:
+
+  70. Purpura LJ, Chang M, Annavajhala MK, Mohri H, Liu L, Shah J, Cantos A, Medrano N, Laracy J, Scully B, Miko BA, Habal M, Pereira MR, Tsuji M, **Ho DD** , Uhlemann AC, Yin MT. Prolonged severe acute respiratory syndrome coronavirus 2 persistence, attenuated immunologic response, and viral evolution in a solid organ transplant patient. Am J Transplant. 2022 02; 22(2):649-653. PMID: [34510730](//www.ncbi.nlm.nih.gov/pubmed/34510730); PMCID: [PMC8813887](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8813887).
+
+Citations:
+
+  71. Annavajhala MK, Mohri H, Wang P, Nair M, Zucker JE, Sheng Z, Gomez-Simmonds A, Kelley AL, Tagliavia M, Huang Y, Bedford T, **Ho DD** , Uhlemann AC. Emergence and expansion of SARS-CoV-2 B.1.526 after identification in New York. Nature. 2021 09; 597(7878):703-708. PMID: [34428777](//www.ncbi.nlm.nih.gov/pubmed/34428777); PMCID: [PMC8481122](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8481122).
+
+Citations:
+
+  72. Annavajhala MK, Mohri H, Wang P, Nair M, Zucker JE, Sheng Z, Gomez-Simmonds A, Kelley AL, Tagliavia M, Huang Y, Bedford T, **Ho DD** , Uhlemann AC. Emergence and Expansion of the SARS-CoV-2 Variant B.1.526 Identified in New York. medRxiv. 2021 Aug 04. PMID: [33655278](//www.ncbi.nlm.nih.gov/pubmed/33655278); PMCID: [PMC7924303](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7924303).
+
+Citations:
+
+  73. Yang L, Nilsson-Payant BE, Han Y, Jaffr? F, Zhu J, Wang P, Zhang T, Redmond D, Houghton S, M?ller R, Hoagland D, Carrau L, Horiuchi S, Goff M, Lim JK, Bram Y, Richardson C, Chandar V, Borczuk A, Huang Y, Xiang J, **Ho DD** , Schwartz RE, tenOever BR, Evans T, Chen S. Cardiomyocytes recruit monocytes upon SARS-CoV-2 infection by secreting CCL2. Stem Cell Reports. 2021 09 14; 16(9):2274-2288. PMID: [34403650](//www.ncbi.nlm.nih.gov/pubmed/34403650); PMCID: [PMC8289700](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8289700).
+
+Citations:
+
+  74. Kissler SM, Fauver JR, Mack C, Olesen SW, Tai C, Shiue KY, Kalinich CC, Jednak S, Ott IM, Vogels CBF, Wohlgemuth J, Weisberger J, DiFiori J, Anderson DJ, Mancell J, **Ho DD** , Grubaugh ND, Grad YH. Viral dynamics of acute SARS-CoV-2 infection and applications to diagnostic and public health strategies. PLoS Biol. 2021 07; 19(7):e3001333. PMID: [34252080](//www.ncbi.nlm.nih.gov/pubmed/34252080); PMCID: [PMC8297933](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8297933).
+
+Citations:
+
+  75. Mack CD, DiFiori J, Tai CG, Shiue KY, Grad YH, Anderson DJ, **Ho DD** , Sims L, LeMay C, Mancell J, Maragakis LL. SARS-CoV-2 Transmission Risk Among National Basketball Association Players, Staff, and Vendors Exposed to Individuals With Positive Test Results After COVID-19 Recovery During the 2020 Regular and Postseason. JAMA Intern Med. 2021 07 01; 181(7):960-966. PMID: [33885715](//www.ncbi.nlm.nih.gov/pubmed/33885715); PMCID: [PMC8063131](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8063131).
+
+Citations:
+
+  76. Ke R, Zitzmann C, **Ho DD** , Ribeiro RM, Perelson AS. In vivo kinetics of SARS-CoV-2 infection and its relationship with a person's infectiousness. medRxiv. 2021 Jun 30. PMID: [34230935](//www.ncbi.nlm.nih.gov/pubmed/34230935); PMCID: [PMC8259912](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8259912).
+
+Citations:
+
+  77. Cerutti G, Guo Y, Wang P, Nair MS, Huang Y, Yu J, Liu L, Katsamba PS, Bahna F, Reddem ER, Kwong PD, **Ho DD** , Sheng Z, Shapiro L. Neutralizing antibody 5-7 defines a distinct site of vulnerability in SARS-CoV-2 spike N-terminal domain. bioRxiv. 2021 Jun 29. PMID: [34230927](//www.ncbi.nlm.nih.gov/pubmed/34230927); PMCID: [PMC8259903](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8259903).
+
+Citations:
+
+  78. Resnick SJ, Iketani S, Hong SJ, Zask A, Liu H, Kim S, Melore S, Lin FY, Nair MS, Huang Y, Lee S, Tay NES, Rovis T, Yang HW, Xing L, Stockwell BR, **Ho DD** , Chavez A. Inhibitors of Coronavirus 3CL Proteases Protect Cells from Protease-Mediated Cytotoxicity. J Virol. 2021 06 24; 95(14):e0237420. PMID: [33910954](//www.ncbi.nlm.nih.gov/pubmed/33910954); PMCID: [PMC8223961](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8223961).
+
+Citations:
+
+  79. Cerutti G, Rapp M, Guo Y, Bahna F, Bimela J, Reddem ER, Yu J, Wang P, Liu L, Huang Y, **Ho DD** , Kwong PD, Sheng Z, Shapiro L. Structural basis for accommodation of emerging B.1.351 and B.1.1.7 variants by two potent SARS-CoV-2 neutralizing antibodies. Structure. 2021 07 01; 29(7):655-663.e4. PMID: [34111408](//www.ncbi.nlm.nih.gov/pubmed/34111408); PMCID: [PMC8188728](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8188728).
+
+Citations:
+
+  80. Xu J, Xu K, Jung S, Conte A, Lieberman J, Muecksch F, Lorenzi JCC, Park S, Schmidt F, Wang Z, Huang Y, Luo Y, Nair MS, Wang P, Schulz JE, Tessarollo L, Bylund T, Chuang GY, Olia AS, Stephens T, Teng IT, Tsybovsky Y, Zhou T, Munster V, **Ho DD** , Hatziioannou T, Bieniasz PD, Nussenzweig MC, Kwong PD, Casellas R. Nanobodies from camelid mice and llamas neutralize SARS-CoV-2 variants. Nature. 2021 07; 595(7866):278-282. PMID: [34098567](//www.ncbi.nlm.nih.gov/pubmed/34098567); PMCID: [PMC8260353](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8260353).
+
+Citations:
+
+  81. Han Y, Yang L, Kim TW, Nair MS, Harschnitz O, Wang P, Zhu J, Koo SY, Tang X, Lacko LA, Chandar V, Bram Y, Zhang T, Zhang W, He F, Caicedo J, Huang Y, Evans T, van der Valk P, Titulaer MJ, Spoor JKH, Furler RL, Canoll P, Goldman JE, Przedborski S, Schwartz RE, **Ho DD** , Studer L, Chen S. SARS-CoV-2 Infection Causes Dopaminergic Neuron Senescence. Res Sq. 2021 May 21. PMID: [34031650](//www.ncbi.nlm.nih.gov/pubmed/34031650); PMCID: [PMC8142658](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8142658).
+
+Citations:
+
+  82. Bartolom? A, Liang J, Wang P, **Ho DD** , Pajvani UB. Angiotensin converting enzyme 2 is a novel target of the ?-secretase complex. Sci Rep. 2021 05 07; 11(1):9803. PMID: [33963249](//www.ncbi.nlm.nih.gov/pubmed/33963249); PMCID: [PMC8105332](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8105332).
+
+Citations:
+
+  83. Iketani S, Forouhar F, Liu H, Hong SJ, Lin FY, Nair MS, Zask A, Huang Y, Xing L, Stockwell BR, Chavez A, **Ho DD**. Author Correction: Lead compounds for the development of SARS-CoV-2 3CL protease inhibitors. Nat Commun. 2021 May 05; 12(1):2708. PMID: [33953192](//www.ncbi.nlm.nih.gov/pubmed/33953192); PMCID: [PMC8098641](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8098641).
+
+Citations:
+
+  84. Wang P, Casner RG, Nair MS, Wang M, Yu J, Cerutti G, Liu L, Kwong PD, Huang Y, Shapiro L, **Ho DD**. Increased resistance of SARS-CoV-2 variant P.1 to antibody neutralization. Cell Host Microbe. 2021 05 12; 29(5):747-751.e4. PMID: [33887205](//www.ncbi.nlm.nih.gov/pubmed/33887205); PMCID: [PMC8053237](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8053237).
+
+Citations:
+
+  85. Yang L, Han Y, Jaffr? F, Nilsson-Payant BE, Bram Y, Wang P, Zhu J, Zhang T, Redmond D, Houghton S, Uhl S, Borczuk A, Huang Y, Richardson C, Chandar V, Acklin JA, Lim JK, Chen Z, Xiang J, **Ho DD** , tenOever BR, Schwartz RE, Evans T, Chen S. An Immuno-Cardiac Model for Macrophage-Mediated Inflammation in COVID-19 Hearts. Circ Res. 2021 06 25; 129(1):33-46. PMID: [33853355](//www.ncbi.nlm.nih.gov/pubmed/33853355); PMCID: [PMC8225586](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8225586).
+
+Citations:
+
+  86. King HAD, Gordon Joyce M, Naouar IE, Ahmed A, Cincotta CM, Subra C, Peachman KK, Hack HH, Chen RE, Thomas PV, Chen WH, Sankhala RS, Hajduczki A, Martinez EJ, Peterson CE, Chang WC, Choe M, Smith C, Headley JA, Elyard HA, Cook A, Anderson A, Wuertz KM, Dong M, Swafford I, Case JB, Currier JR, Lal KG, Amare MF, Dussupt V, Molnar S, Daye SP, Zeng X, Barkei EK, Alfson K, Staples HM, Carrion R, Krebs SJ, Paquin-Proulx D, Karasavvas N, Polonis VR, Jagodzinski LL, Vasan S, Scott PT, Huang Y, Nair MS, **Ho DD** , de Val N, Diamond MS, Lewis MG, Rao M, Matyas GR, Gromowski GD, Peel SA, Michael NL, Modjarrad K, Bolton DL. Efficacy and breadth of adjuvanted SARS-CoV-2 receptor-binding domain nanoparticle vaccine in macaques. bioRxiv. 2021 Apr 10. PMID: [33851155](//www.ncbi.nlm.nih.gov/pubmed/33851155); PMCID: [PMC8043445](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8043445).
+
+Citations:
+
+  87. Wang P, Casner RG, Nair MS, Wang M, Yu J, Cerutti G, Liu L, Kwong PD, Huang Y, Shapiro L, **Ho DD**. Increased Resistance of SARS-CoV-2 Variant P.1 to Antibody Neutralization. bioRxiv. 2021 Apr 09. PMID: [33688656](//www.ncbi.nlm.nih.gov/pubmed/33688656); PMCID: [PMC7941628](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7941628).
+
+Citations:
+
+  88. Iketani S, Forouhar F, Liu H, Hong SJ, Lin FY, Nair MS, Zask A, Huang Y, Xing L, Stockwell BR, Chavez A, **Ho DD**. Lead compounds for the development of SARS-CoV-2 3CL protease inhibitors. Nat Commun. 2021 04 01; 12(1):2016. PMID: [33795671](//www.ncbi.nlm.nih.gov/pubmed/33795671); PMCID: [PMC8016852](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8016852).
+
+Citations:
+
+  89. Joyce MG, King HAD, Naouar IE, Ahmed A, Peachman KK, Cincotta CM, Subra C, Chen RE, Thomas PV, Chen WH, Sankhala RS, Hajduczki A, Martinez EJ, Peterson CE, Chang WC, Choe M, Smith C, Lee PJ, Headley JA, Taddese MG, Elyard HA, Cook A, Anderson A, McGuckin-Wuertz K, Dong M, Swafford I, Case JB, Currier JR, Lal KG, O'Connell RJ, Molnar S, Nair MS, Dussupt V, Daye SP, Zeng X, Barkei EK, Staples HM, Alfson K, Carrion R, Krebs SJ, Paquin-Proulx D, Karasavva N, Polonis VR, Jagodzinski LL, Amare MF, Vasan S, Scott PT, Huang Y, **Ho DD** , de Val N, Diamond MS, Lewis MG, Rao M, Matyas GR, Gromowski GD, Peel SA, Michael NL, Bolton DL, Modjarrad K. Efficacy of a Broadly Neutralizing SARS-CoV-2 Ferritin Nanoparticle Vaccine in Nonhuman Primates. bioRxiv. 2021 Mar 25. PMID: [33791694](//www.ncbi.nlm.nih.gov/pubmed/33791694); PMCID: [PMC8010721](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8010721).
+
+Citations:
+
+  90. Rapp M, Guo Y, Reddem ER, Yu J, Liu L, Wang P, Cerutti G, Katsamba P, Bimela JS, Bahna FA, Mannepalli SM, Zhang B, Kwong PD, Huang Y, **Ho DD** , Shapiro L, Sheng Z. Modular basis for potent SARS-CoV-2 neutralization by a prevalent VH1-2-derived antibody class. Cell Rep. 2021 04 06; 35(1):108950. PMID: [33794145](//www.ncbi.nlm.nih.gov/pubmed/33794145); PMCID: [PMC7972811](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7972811).
+
+Citations:
+
+  91. Cerutti G, Guo Y, Zhou T, Gorman J, Lee M, Rapp M, Reddem ER, Yu J, Bahna F, Bimela J, Huang Y, Katsamba PS, Liu L, Nair MS, Rawi R, Olia AS, Wang P, Zhang B, Chuang GY, **Ho DD** , Sheng Z, Kwong PD, Shapiro L. Potent SARS-CoV-2 neutralizing antibodies directed against spike N-terminal domain target a single supersite. Cell Host Microbe. 2021 05 12; 29(5):819-833.e7. PMID: [33789084](//www.ncbi.nlm.nih.gov/pubmed/33789084); PMCID: [PMC7953435](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7953435).
+
+Citations:
+
+  92. Wang P, Nair MS, Liu L, Iketani S, Luo Y, Guo Y, Wang M, Yu J, Zhang B, Kwong PD, Graham BS, Mascola JR, Chang JY, Yin MT, Sobieszczyk M, Kyratsous CA, Shapiro L, Sheng Z, Huang Y, **Ho DD**. Antibody resistance of SARS-CoV-2 variants B.1.351 and B.1.1.7. Nature. 2021 05; 593(7857):130-135. PMID: [33684923](//www.ncbi.nlm.nih.gov/pubmed/33684923).
+
+Citations:
+
+  93. Zhou D, Chan JF, Zhou B, Zhou R, Li S, Shan S, Liu L, Zhang AJ, Chen SJ, Chan CC, Xu H, Poon VK, Yuan S, Li C, Chik KK, Chan CC, Cao J, Chan CY, Kwan KY, Du Z, Lau TT, Zhang Q, Zhou J, To KK, Zhang L, **Ho DD** , Yuen KY, Chen Z. Robust SARS-CoV-2 infection in nasal turbinates after treatment with systemic neutralizing antibodies. Cell Host Microbe. 2021 04 14; 29(4):551-563.e5. PMID: [33657424](//www.ncbi.nlm.nih.gov/pubmed/33657424); PMCID: [PMC7904446](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7904446).
+
+Citations:
+
+  94. Cerutti G, Rapp M, Guo Y, Bahna F, Bimela J, Reddem ER, Yu J, Wang P, Liu L, Huang Y, **Ho DD** , Kwong PD, Sheng Z, Shapiro L. Structural Basis for Accommodation of Emerging B.1.351 and B.1.1.7 Variants by Two Potent SARS-CoV-2 Neutralizing Antibodies. bioRxiv. 2021 Feb 22. PMID: [33655245](//www.ncbi.nlm.nih.gov/pubmed/33655245); PMCID: [PMC7924265](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7924265).
+
+Citations:
+
+  95. Wang P, Nair MS, Liu L, Iketani S, Luo Y, Guo Y, Wang M, Yu J, Zhang B, Kwong PD, Graham BS, Mascola JR, Chang JY, Yin MT, Sobieszczyk M, Kyratsous CA, Shapiro L, Sheng Z, Huang Y, **Ho DD**. Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7. bioRxiv. 2021 Feb 12. PMID: [33532778](//www.ncbi.nlm.nih.gov/pubmed/33532778); PMCID: [PMC7852271](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7852271).
+
+Citations:
+
+  96. Wang P, Liu L, Iketani S, Luo Y, Guo Y, Wang M, Yu J, Zhang B, Kwong PD, Graham BS, Mascola JR, Chang JY, Yin MT, Sobieszczyk M, Kyratsous CA, Shapiro L, Sheng Z, Nair MS, Huang Y, **Ho DD**. Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization. Res Sq. 2021 Jan 29. PMID: [33532763](//www.ncbi.nlm.nih.gov/pubmed/33532763); PMCID: [PMC7852232](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7852232).
+
+Citations:
+
+  97. Zhang S, Nguyen HT, Ding H, Wang J, Zou S, Liu L, Guha D, Gabuzda D, **Ho DD** , Kappes JC, Sodroski J. Dual Pathways of Human Immunodeficiency Virus Type 1 Envelope Glycoprotein Trafficking Modulate the Selective Exclusion of Uncleaved Oligomers from Virions. J Virol. 2021 01 13; 95(3). PMID: [33148792](//www.ncbi.nlm.nih.gov/pubmed/33148792); PMCID: [PMC7925103](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7925103).
+
+Citations:
+
+  98. Banach BB, Cerutti G, Fahad AS, Shen CH, de Souza MO, Katsamba PS, Tsybovsky Y, Wang P, Nair MS, Huang Y, Urd?niz IMF, Steiner PJ, Guti?rrez-Gonz?lez M, Liu L, L?pez Acevedo SN, Nazzari A, Wolfe JR, Luo Y, Olia AS, Teng IT, Yu J, Zhou T, Reddem ER, Bimela J, Pan X, Madan B, Laflin AD, Nimrania R, Yuen KT, Whitehead TA, **Ho DD** , Kwong PD, Shapiro L, DeKosky BJ. Paired heavy and light chain signatures contribute to potent SARS-CoV-2 neutralization in public antibody responses. bioRxiv. 2021 Jan 03. PMID: [33442681](//www.ncbi.nlm.nih.gov/pubmed/33442681); PMCID: [PMC7805438](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7805438).
+
+Citations:
+
+  99. Mogus AT, Liu L, Jia M, Ajayi DT, Xu K, Kong R, Huang J, Yu J, Kwong PD, Mascola JR, **Ho DD** , Tsuji M, Chackerian B. Virus-Like Particle Based Vaccines Elicit Neutralizing Antibodies against the HIV-1 Fusion Peptide. Vaccines (Basel). 2020 Dec 15; 8(4). PMID: [33333740](//www.ncbi.nlm.nih.gov/pubmed/33333740); PMCID: [PMC7765226](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7765226).
+
+Citations:
+
+  100. Andrews CD, Huang Y, **Ho DD** , Liberatore RA. In vivo expressed biologics for infectious disease prophylaxis: rapid delivery of DNA-based antiviral antibodies. Emerg Microbes Infect. 2020 Dec; 9(1):1523-1533. PMID: [32579067](//www.ncbi.nlm.nih.gov/pubmed/32579067); PMCID: [PMC7473320](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7473320).
+
+Citations:
+
+  101. Wang P, Liu L, Nair MS, Yin MT, Luo Y, Wang Q, Yuan T, Mori K, Solis AG, Yamashita M, Garg A, Purpura LJ, Laracy JC, Yu J, Joshua-Tor L, Sodroski J, Huang Y, **Ho DD**. SARS-CoV-2 neutralizing antibody responses are more robust in patients with severe disease. Emerg Microbes Infect. 2020 Dec; 9(1):2091-2093. PMID: [32930052](//www.ncbi.nlm.nih.gov/pubmed/32930052); PMCID: [PMC7534308](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7534308).
+
+Citations:
+
+  102. Zhou T, Tsybovsky Y, Gorman J, Rapp M, Cerutti G, Chuang GY, Katsamba PS, Sampson JM, Sch?n A, Bimela J, Boyington JC, Nazzari A, Olia AS, Shi W, Sastry M, Stephens T, Stuckey J, Teng IT, Wang P, Wang S, Zhang B, Friesner RA, **Ho DD** , Mascola JR, Shapiro L, Kwong PD. Cryo-EM Structures of SARS-CoV-2 Spike without and with ACE2 Reveal a pH-Dependent Switch to Mediate Endosomal Positioning of Receptor-Binding Domains. Cell Host Microbe. 2020 12 09; 28(6):867-879.e5. PMID: [33271067](//www.ncbi.nlm.nih.gov/pubmed/33271067); PMCID: [PMC7670890](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7670890).
+
+Citations:
+
+  103. Lu M, Uchil PD, Li W, Zheng D, Terry DS, Gorman J, Shi W, Zhang B, Zhou T, Ding S, Gasser R, Pr?vost J, Beaudoin-Bussi?res G, Anand SP, Laumaea A, Grover JR, Liu L, **Ho DD** , Mascola JR, Finzi A, Kwong PD, Blanchard SC, Mothes W. Real-Time Conformational Dynamics of SARS-CoV-2 Spikes on Virus Particles. Cell Host Microbe. 2020 12 09; 28(6):880-891.e8. PMID: [33242391](//www.ncbi.nlm.nih.gov/pubmed/33242391); PMCID: [PMC7664471](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7664471).
+
+Citations:
+
+  104. Han Y, Duan X, Yang L, Nilsson-Payant BE, Wang P, Duan F, Tang X, Yaron TM, Zhang T, Uhl S, Bram Y, Richardson C, Zhu J, Zhao Z, Redmond D, Houghton S, Nguyen DT, Xu D, Wang X, Jessurun J, Borczuk A, Huang Y, Johnson JL, Liu Y, Xiang J, Wang H, Cantley LC, tenOever BR, **Ho DD** , Pan FC, Evans T, [Chen HJ](https://profiles.viictr.org/profile/268833), Schwartz RE, Chen S. Identification of SARS-CoV-2 inhibitors using lung and colonic organoids. Nature. 2021 01; 589(7841):270-275. PMID: [33116299](//www.ncbi.nlm.nih.gov/pubmed/33116299); PMCID: [PMC8034380](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8034380).
+
+Citations:
+
+  105. Zhou T, Teng IT, Olia AS, Cerutti G, Gorman J, Nazzari A, Shi W, Tsybovsky Y, Wang L, Wang S, Zhang B, Zhang Y, Katsamba PS, Petrova Y, Banach BB, Fahad AS, Liu L, Lopez Acevedo SN, Madan B, Oliveira de Souza M, Pan X, Wang P, Wolfe JR, Yin M, **Ho DD** , Phung E, DiPiazza A, Chang LA, Abiona OM, Corbett KS, DeKosky BJ, Graham BS, Mascola JR, Misasi J, Ruckwardt T, Sullivan NJ, Shapiro L, Kwong PD. Structure-Based Design with Tag-Based Purification and In-Process Biotinylation Enable Streamlined Development of SARS-CoV-2 Spike Molecular Probes. Cell Rep. 2020 10 27; 33(4):108322. PMID: [33091382](//www.ncbi.nlm.nih.gov/pubmed/33091382); PMCID: [PMC7550166](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7550166).
+
+Citations:
+
+  106. Duan F, Guo L, Yang L, Han Y, Thakur A, Nilsson-Payant BE, Wang P, Zhang Z, Ma CY, Zhou X, Han T, Zhang T, Wang X, Xu D, Duan X, Xiang J, Tse HF, Liao C, Luo W, Huang FP, Chen YW, Evans T, Schwartz RE, tenOever B, **Ho DD** , Chen S, Lian Q, Chen HJ, Duan F, Guo L, Yang L, Han Y, Thakur A, Nilsson-Payant BE, Wang P, Zhang Z, Yan Ma C, Zhou X, Han T, Zhang T, Wang X, Xu D, Duan X, Xiang J, Tse HF, Liao C, Luo W, Huang FP, Chen YW, Evans T, Schwartz RE, tenOever B, Ho DD, Chen S, Na J, Lian Q, Chen HJ. Modeling COVID-19 with Human Pluripotent Stem Cell-Derived Cells Reveals Synergistic Effects of Anti-inflammatory Macrophages with ACE2 Inhibition Against SARS-CoV-2. Res Sq. 2020 Sep 15. PMID: [32839764](//www.ncbi.nlm.nih.gov/pubmed/32839764); PMCID: [PMC7444287](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7444287).
+
+Citations:
+
+  107. Lu M, Uchil PD, Li W, Zheng D, Terry DS, Gorman J, Shi W, Zhang B, Zhou T, Ding S, Gasser R, Prevost J, Beaudoin-Bussieres G, Anand SP, Laumaea A, Grover JR, Lihong L, **Ho DD** , Mascola J, Finzi A, Kwong PD, Blanchard SC, Mothes W. Real-time conformational dynamics of SARS-CoV-2 spikes on virus particles. bioRxiv. 2020 Sep 13. PMID: [32935100](//www.ncbi.nlm.nih.gov/pubmed/32935100); PMCID: [PMC7491513](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7491513).
+
+Citations:
+
+  108. Bartolom? A, Liang J, Wang P, **Ho DD** , Pajvani UB. Angiotensin converting enzyme 2 is a novel target of the ?-secretase complex. bioRxiv. 2020 Sep 01. PMID: [32908985](//www.ncbi.nlm.nih.gov/pubmed/32908985); PMCID: [PMC7480046](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7480046).
+
+Citations:
+
+  109. Guttman M, Padte NN, Huang Y, Yu J, Rocklin GJ, Weitzner BD, Scian M, **Ho DD** , Lee KK. The influence of proline isomerization on potency and stability of anti-HIV antibody 10E8. Sci Rep. 2020 08 31; 10(1):14313. PMID: [32868832](//www.ncbi.nlm.nih.gov/pubmed/32868832); PMCID: [PMC7458915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7458915).
+
+Citations:
+
+  110. Resnick SJ, Iketani S, Hong SJ, Zask A, Liu H, Kim S, Melore S, Nair MS, Huang Y, Tay NES, Rovis T, Yang HW, Stockwell BR, **Ho DD** , Chavez A. A simplified cell-based assay to identify coronavirus 3CL protease inhibitors. bioRxiv. 2020 Aug 29. PMID: [32869020](//www.ncbi.nlm.nih.gov/pubmed/32869020); PMCID: [PMC7457602](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7457602).
+
+Citations:
+
+  111. Iketani S, Forouhar F, Liu H, Hong SJ, Lin FY, Nair MS, Zask A, Huang Y, Xing L, Stockwell BR, Chavez A, **Ho DD**. Lead compounds for the development of SARS-CoV-2 3CL protease inhibitors. bioRxiv. 2020 Aug 04. PMID: [32793898](//www.ncbi.nlm.nih.gov/pubmed/32793898); PMCID: [PMC7418712](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7418712).
+
+Citations:
+
+  112. Zhou T, Tsybovsky Y, Olia AS, Gorman J, Rapp MA, Cerutti G, Chuang GY, Katsamba PS, Nazzari A, Sampson JM, Schon A, Wang PD, Bimela J, Shi W, Teng IT, Zhang B, Boyington JC, Sastry M, Stephens T, Stuckey J, Wang S, Friesner RA, **Ho DD** , Mascola JR, Shapiro L, Kwong PD. Cryo-EM Structures Delineate a pH-Dependent Switch that Mediates Endosomal Positioning of SARS-CoV-2 Spike Receptor-Binding Domains. bioRxiv. 2020 Jul 31. PMID: [32637958](//www.ncbi.nlm.nih.gov/pubmed/32637958); PMCID: [PMC7337388](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7337388).
+
+Citations:
+
+  113. Liu L, Wang P, Nair MS, Yu J, Rapp M, Wang Q, Luo Y, Chan JF, Sahi V, Figueroa A, Guo XV, Cerutti G, Bimela J, Gorman J, Zhou T, Chen Z, Yuen KY, Kwong PD, Sodroski JG, Yin MT, Sheng Z, Huang Y, Shapiro L, **Ho DD**. Potent neutralizing antibodies against multiple epitopes on SARS-CoV-2 spike. Nature. 2020 08; 584(7821):450-456. PMID: [32698192](//www.ncbi.nlm.nih.gov/pubmed/32698192).
+
+Citations:
+
+  114. Zhou T, Teng IT, Olia AS, Cerutti G, Gorman J, Nazzari A, Shi W, Tsybovsky Y, Wang L, Wang S, Zhang B, Zhang Y, Katsamba PS, Petrova Y, Banach BB, Fahad AS, Liu L, Acevedo SNL, Madan B, de Souza MO, Pan X, Wang P, Wolfe JR, Yin M, **Ho DD** , Phung E, DiPiazza A, Chang L, Abiona O, Corbett KS, DeKosky BJ, Graham BS, Mascola JR, Misasi J, Ruckwardt T, Sullivan NJ, Shapiro L, Kwong PD. Structure-Based Design with Tag-Based Purification and In-Process Biotinylation Enable Streamlined Development of SARS-CoV-2 Spike Molecular Probes. SSRN. 2020 Jul 21; 3639618. PMID: [32742241](//www.ncbi.nlm.nih.gov/pubmed/32742241); PMCID: [PMC7385481](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7385481).
+
+Citations:
+
+  115. Liu L, Wang P, Nair MS, Yu J, Rapp M, Wang Q, Luo Y, Chan JF, Sahi V, Figueroa A, Guo XV, Cerutti G, Bimela J, Gorman J, Zhou T, Chen Z, Yuen KY, Kwong PD, Sodroski JG, Yin MT, Sheng Z, Huang Y, Shapiro L, **Ho DD**. Potent Neutralizing Antibodies Directed to Multiple Epitopes on SARS-CoV-2 Spike. bioRxiv. 2020 Jul 16. PMID: [32587975](//www.ncbi.nlm.nih.gov/pubmed/32587975); PMCID: [PMC7310634](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7310634).
+
+Citations:
+
+  116. Wang P, Gajjar MR, Yu J, Padte NN, Gettie A, Blanchard JL, Russell-Lodrigue K, Liao LE, Perelson AS, Huang Y, **Ho DD**. Quantifying the contribution of Fc-mediated effector functions to the antiviral activity of anti-HIV-1 IgG1 antibodies in vivo. Proc Natl Acad Sci U S A. 2020 07 28; 117(30):18002-18009. PMID: [32665438](//www.ncbi.nlm.nih.gov/pubmed/32665438); PMCID: [PMC7395461](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7395461).
+
+Citations:
+
+  117. Gupta A, Madhavan MV, Sehgal K, Nair N, Mahajan S, Sehrawat TS, Bikdeli B, Ahluwalia N, Ausiello JC, Wan EY, Freedberg DE, Kirtane AJ, Parikh SA, Maurer MS, Nordvig AS, Accili D, Bathon JM, Mohan S, Bauer KA, Leon MB, Krumholz HM, Uriel N, Mehra MR, Elkind MSV, Stone GW, Schwartz A, **Ho DD** , Bilezikian JP, Landry DW. Extrapulmonary manifestations of COVID-19. Nat Med. 2020 07; 26(7):1017-1032. PMID: [32651579](//www.ncbi.nlm.nih.gov/pubmed/32651579).
+
+Citations:
+
+  118. Zhou T, Teng IT, Olia AS, Cerutti G, Gorman J, Nazzari A, Shi W, Tsybovsky Y, Wang L, Wang S, Zhang B, Zhang Y, Katsamba PS, Petrova Y, Banach BB, Fahad AS, Liu L, Lopez Acevedo SN, Madan B, de Souza MO, Pan X, Wang P, Wolfe JR, Yin M, **Ho DD** , Phung E, DiPiazza A, Chang L, Abiona O, Corbett KS, DeKosky BJ, Graham BS, Mascola JR, Misasi J, Ruckwardt T, Sullivan NJ, Shapiro L, Kwong PD. Structure-Based Design with Tag-Based Purification and In-Process Biotinylation Enable Streamlined Development of SARS-CoV-2 Spike Molecular Probes. bioRxiv. 2020 Jun 23. PMID: [32596696](//www.ncbi.nlm.nih.gov/pubmed/32596696); PMCID: [PMC7315997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7315997).
+
+Citations:
+
+  119. Yang L, Han Y, Nilsson-Payant BE, Gupta V, Wang P, Duan X, Tang X, Zhu J, Zhao Z, Jaffr? F, Zhang T, Kim TW, Harschnitz O, Redmond D, Houghton S, Liu C, Naji A, Ciceri G, Guttikonda S, Bram Y, Nguyen DT, Cioffi M, Chandar V, Hoagland DA, Huang Y, Xiang J, Wang H, Lyden D, Borczuk A, Chen HJ, Studer L, Pan FC, **Ho DD** , tenOever BR, Evans T, Schwartz RE, Chen S. A Human Pluripotent Stem Cell-based Platform to Study SARS-CoV-2 Tropism and Model Virus Infection in Human Cells and Organoids. Cell Stem Cell. 2020 07 02; 27(1):125-136.e7. PMID: [32579880](//www.ncbi.nlm.nih.gov/pubmed/32579880); PMCID: [PMC7303620](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7303620).
+
+Citations:
+
+  120. Han Y, Yang L, Duan X, Duan F, Nilsson-Payant BE, Yaron TM, Wang P, Tang X, Zhang T, Zhao Z, Bram Y, Redmond D, Houghton S, Nguyen D, Xu D, Wang X, Uhl S, Huang Y, Johnson JL, Xiang J, Wang H, Pan FC, Cantley LC, tenOever BR, **Ho DD** , Evans T, Schwartz RE, Chen HJ, Chen S. Identification of Candidate COVID-19 Therapeutics using hPSC-derived Lung Organoids. bioRxiv. 2020 May 05. PMID: [32511403](//www.ncbi.nlm.nih.gov/pubmed/32511403); PMCID: [PMC7263550](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7263550).
+
+Citations:
+
+  121. Jia M, Liberatore RA, Guo Y, Chan KW, Pan R, Lu H, Waltari E, Mittler E, Chandran K, Finzi A, Kaufmann DE, Seaman MS, **Ho DD** , Shapiro L, Sheng Z, Kong XP, Bieniasz PD, Wu X. VSV-Displayed HIV-1 Envelope Identifies Broadly Neutralizing Antibodies Class-Switched to IgG and IgA. Cell Host Microbe. 2020 06 10; 27(6):963-975.e5. PMID: [32315598](//www.ncbi.nlm.nih.gov/pubmed/32315598); PMCID: [PMC7294236](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7294236).
+
+Citations:
+
+  122. Rathore A, Iketani S, Wang P, Jia M, Sahi V, **Ho DD**. CRISPR-based gene knockout screens reveal deubiquitinases involved in HIV-1 latency in two Jurkat cell models. Sci Rep. 2020 03 24; 10(1):5350. PMID: [32210344](//www.ncbi.nlm.nih.gov/pubmed/32210344); PMCID: [PMC7093534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7093534).
+
+Citations:
+
+  123. Liberatore RA, **Ho DD**. The Miami Monkey: A Sunny Alternative to the Berlin Patient. Immunity. 2019 03 19; 50(3):537-539. PMID: [30893580](//www.ncbi.nlm.nih.gov/pubmed/30893580).
+
+Citations:
+
+  124. Padte NN, Yu J, Huang Y, **Ho DD**. Engineering multi-specific antibodies against HIV-1. Retrovirology. 2018 08 29; 15(1):60. PMID: [30157871](//www.ncbi.nlm.nih.gov/pubmed/30157871); PMCID: [PMC6114543](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6114543).
+
+Citations:
+
+  125. Wagh K, Seaman MS, Zingg M, Fitzsimons T, Barouch DH, Burton DR, Connors M, **Ho DD** , Mascola JR, Nussenzweig MC, Ravetch J, Gautam R, Martin MA, Montefiori DC, Korber B. Potential of conventional & bispecific broadly neutralizing antibodies for prevention of HIV-1 subtype A, C & D infections. PLoS Pathog. 2018 03; 14(3):e1006860. PMID: [29505593](//www.ncbi.nlm.nih.gov/pubmed/29505593); PMCID: [PMC5854441](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5854441).
+
+Citations:
+
+  126. Mukhopadhyay M, Galperin M, Patgaonkar M, Vasan S, **Ho DD** , Nou?l A, Claireaux M, Benati D, Lambotte O, Huang Y, Chakrabarti LA. DNA Vaccination by Electroporation Amplifies Broadly Cross-Restricted Public TCR Clonotypes Shared with HIV Controllers. J Immunol. 2017 11 15; 199(10):3437-3452. PMID: [28993513](//www.ncbi.nlm.nih.gov/pubmed/28993513); PMCID: [PMC5675813](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5675813).
+
+Citations:
+
+  127. Andrews CD, Luo Y, Sun M, Yu J, Goff AJ, Glass PJ, Padte NN, Huang Y, **Ho DD**. In?Vivo Production of Monoclonal Antibodies by Gene Transfer via Electroporation Protects against Lethal Influenza and Ebola Infections. Mol Ther Methods Clin Dev. 2017 Dec 15; 7:74-82. PMID: [29034261](//www.ncbi.nlm.nih.gov/pubmed/29034261); PMCID: [PMC5633264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5633264).
+
+Citations:
+
+  128. Andrews CD, Bernard LS, Poon AY, Mohri H, Gettie N, Spreen WR, Gettie A, Russell-Lodrigue K, Blanchard J, Hong Z, **Ho DD** , Markowitz M. Cabotegravir long acting injection protects macaques against intravenous challenge with SIVmac251. AIDS. 2017 02 20; 31(4):461-467. PMID: [27902508](//www.ncbi.nlm.nih.gov/pubmed/27902508); PMCID: [PMC5263045](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5263045).
+
+Citations:
+
+  129. Song R, Pace C, Seaman MS, Fang Q, Sun M, Andrews CD, Wu A, Padte NN, **Ho DD**. Distinct HIV-1 Neutralization Potency Profiles of Ibalizumab-Based Bispecific Antibodies. J Acquir Immune Defic Syndr. 2016 Dec 01; 73(4):365-373. PMID: [27792681](//www.ncbi.nlm.nih.gov/pubmed/27792681); PMCID: [PMC5123706](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5123706).
+
+Citations:
+
+  130. Huang Y, Yu J, Lanzi A, Yao X, Andrews CD, Tsai L, Gajjar MR, Sun M, Seaman MS, Padte NN, **Ho DD**. Engineered Bispecific Antibodies with Exquisite HIV-1-Neutralizing Activity. Cell. 2016 Jun 16; 165(7):1621-1631. PMID: [27315479](//www.ncbi.nlm.nih.gov/pubmed/27315479); PMCID: [PMC4972332](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4972332).
+
+Citations:
+
+  131. Kwon YD, Georgiev IS, Ofek G, Zhang B, Asokan M, Bailer RT, Bao A, Caruso W, Chen X, Choe M, Druz A, Ko SY, Louder MK, McKee K, O'Dell S, Pegu A, Rudicell RS, Shi W, Wang K, Yang Y, Alger M, Bender MF, Carlton K, Cooper JW, Blinn J, Eudailey J, Lloyd K, Parks R, Alam SM, Haynes BF, Padte NN, Yu J, **Ho DD** , Huang J, Connors M, Schwartz RM, Mascola JR, Kwong PD. Optimization of the Solubility of HIV-1-Neutralizing Antibody 10E8 through Somatic Variation and Structure-Based Design. J Virol. 2016 07 01; 90(13):5899-5914. PMID: [27053554](//www.ncbi.nlm.nih.gov/pubmed/27053554); PMCID: [PMC4907239](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4907239).
+
+Citations:
+
+  132. Morgand M, Bouvin-Pley M, Plantier JC, Moreau A, Alessandri E, Simon F, Pace CS, Pancera M, **Ho DD** , Poignard P, Bjorkman PJ, Mouquet H, Nussenzweig MC, Kwong PD, Baty D, Chames P, Braibant M, Barin F. V1/V2 Neutralizing Epitope is Conserved in Divergent Non-M Groups of HIV-1. J Acquir Immune Defic Syndr. 2016 Mar 01; 71(3):237-45. PMID: [26413851](//www.ncbi.nlm.nih.gov/pubmed/26413851); PMCID: [PMC4770367](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4770367).
+
+Citations:
+
+  133. Ghose C, Eugenis I, Sun X, Edwards AN, McBride SM, Pride DT, Kelly CP, **Ho DD**. Immunogenicity and protective efficacy of recombinant Clostridium difficile flagellar protein FliC. Emerg Microbes Infect. 2016 Feb 03; 5:e8. PMID: [26839147](//www.ncbi.nlm.nih.gov/pubmed/26839147); PMCID: [PMC4777929](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4777929).
+
+Citations:
+
+  134. Ghose C, Eugenis I, Edwards AN, Sun X, McBride SM, **Ho DD**. Immunogenicity and protective efficacy of Clostridium difficile spore proteins. Anaerobe. 2016 Feb; 37:85-95. PMID: [26688279](//www.ncbi.nlm.nih.gov/pubmed/26688279); PMCID: [PMC4770901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4770901).
+
+Citations:
+
+  135. Li X, Kawamura A, Andrews CD, Miller JL, Wu D, Tsao T, Zhang M, Oren D, Padte NN, Porcelli SA, Wong CH, Kappe SH, **Ho DD** , Tsuji M. Colocalization of a CD1d-Binding Glycolipid with a Radiation-Attenuated Sporozoite Vaccine in Lymph Node-Resident Dendritic Cells for a Robust Adjuvant Effect. J Immunol. 2015 Sep 15; 195(6):2710-21. PMID: [26254338](//www.ncbi.nlm.nih.gov/pubmed/26254338); PMCID: [PMC4561196](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4561196).
+
+Citations:
+
+  136. Barbian HJ, Decker JM, Bibollet-Ruche F, Galimidi RP, West AP, Learn GH, Parrish NF, Iyer SS, Li Y, Pace CS, Song R, Huang Y, Denny TN, Mouquet H, Acharya P, Zhang B, Kwong PD, Mascola JR, Verrips CT, Strokappe NM, Rutten L, McCoy LE, Weiss RA, Brown CS, Jackson R, Silvestri G, Connors M, Burton DR, Shaw GM, Nussenzweig MC, Bjorkman PJ, **Ho DD** , Farzan M, Hahn BH, Martin L. Neutralization properties of simian immunodeficiency viruses infecting chimpanzees and gorillas. mBio. 2015 Apr 21; 6(2). PMID: [25900654](//www.ncbi.nlm.nih.gov/pubmed/25900654); PMCID: [PMC4453581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4453581).
+
+Citations:
+
+  137. Andrews CD, Yueh YL, Spreen WR, St Bernard L, Boente-Carrera M, Rodriguez K, Gettie A, Russell-Lodrigue K, Blanchard J, Ford S, Mohri H, Cheng-Mayer C, Hong Z, **Ho DD** , Markowitz M. A long-acting integrase inhibitor protects female macaques from repeated high-dose intravaginal SHIV challenge. Sci Transl Med. 2015 Jan 14; 7(270):270ra4. PMID: [25589630](//www.ncbi.nlm.nih.gov/pubmed/25589630); PMCID: [PMC4449736](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4449736).
+
+Citations:
+
+  138. Venkataswamy MM, Ng TW, Kharkwal SS, Johnson AJ, Kunnath-Velayudhan S, Liu Z, Bittman R, Jervis PJ, Cox LR, Besra GS, Wen X, Yuan W, Tsuji M, Li X, **Ho DD** , Chan J, Lee S, Frothingham R, Haynes BF, Panas MW, Gillard GO, Sixsmith JD, Korioth-Schmitz B, Schmitz JE, Larsen MH, Jacobs WR, Porcelli SA, Carre?o LJ. Improving Mycobacterium bovis bacillus Calmette-Gu?rin as a vaccine delivery vector for viral antigens by incorporation of glycolipid activators of NKT cells. PLoS One. 2014; 9(9):e108383. PMID: [25255287](//www.ncbi.nlm.nih.gov/pubmed/25255287); PMCID: [PMC4177913](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4177913).
+
+Citations:
+
+  139. Pace CS, Yao X, Yu F, Padte NN, Huang Y, Seaman MS, Li Q, **Ho DD** , Sun M. Rational design and characterization of the novel, broad and potent bispecific HIV-1 neutralizing antibody iMabm36. J Acquir Immune Defic Syndr. 2014 Aug 15; 66(5):473-83. PMID: [24853313](//www.ncbi.nlm.nih.gov/pubmed/24853313); PMCID: [PMC4163016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4163016).
+
+Citations:
+
+  140. Andrews CD, Spreen WR, Mohri H, Moss L, Ford S, Gettie A, Russell-Lodrigue K, Bohm RP, Cheng-Mayer C, Hong Z, Markowitz M, **Ho DD**. Long-acting integrase inhibitor protects macaques from intrarectal simian/human immunodeficiency virus. Science. 2014 Mar 07; 343(6175):1151-4. PMID: [24594934](//www.ncbi.nlm.nih.gov/pubmed/24594934); PMCID: [PMC4308974](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4308974).
+
+Citations:
+
+  141. Xiao H, Liu L, Zhu Q, Tan Z, Yu W, Tang X, Zhan D, Du Y, Wang H, Liu D, Li Z, Yuen KY, **Ho DD** , Gao GF, Chen Z. A replicating modified vaccinia tiantan strain expressing an avian-derived influenza H5N1 hemagglutinin induce broadly neutralizing antibodies and cross-clade protective immunity in mice. PLoS One. 2013; 8(12):e83274. PMID: [24358269](//www.ncbi.nlm.nih.gov/pubmed/24358269); PMCID: [PMC3866202](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3866202).
+
+Citations:
+
+  142. Padte NN, Boente-Carrera M, Andrews CD, McManus J, Grasperge BF, Gettie A, Coelho-dos-Reis JG, Li X, Wu D, Bruder JT, Sedegah M, Patterson N, Richie TL, Wong CH, **Ho DD** , Vasan S, Tsuji M. A glycolipid adjuvant, 7DW8-5, enhances CD8+ T cell responses induced by an adenovirus-vectored malaria vaccine in non-human primates. PLoS One. 2013; 8(10):e78407. PMID: [24205224](//www.ncbi.nlm.nih.gov/pubmed/24205224); PMCID: [PMC3808339](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3808339).
+
+Citations:
+
+  143. Song R, Oren DA, Franco D, Seaman MS, **Ho DD**. Strategic addition of an N-linked glycan to a monoclonal antibody improves its HIV-1-neutralizing activity. Nat Biotechnol. 2013 Nov; 31(11):1047-52. PMID: [24097413](//www.ncbi.nlm.nih.gov/pubmed/24097413); PMCID: [PMC3825789](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3825789).
+
+Citations:
+
+  144. Pace CS, Song R, Ochsenbauer C, Andrews CD, Franco D, Yu J, Oren DA, Seaman MS, **Ho DD**. Bispecific antibodies directed to CD4 domain 2 and HIV envelope exhibit exceptional breadth and picomolar potency against HIV-1. Proc Natl Acad Sci U S A. 2013 Aug 13; 110(33):13540-5. PMID: [23878231](//www.ncbi.nlm.nih.gov/pubmed/23878231); PMCID: [PMC3746901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3746901).
+
+Citations:
+
+  145. Ghose C, Verhagen JM, Chen X, Yu J, Huang Y, Chenesseau O, **Ho DD** , Kelly CP. Toll-like receptor 5-dependent immunogenicity and protective efficacy of a recombinant fusion protein vaccine containing the nontoxic domains of Clostridium difficile toxins A and B and Salmonella enterica serovar typhimurium flagellin in a mouse model of Clostridium difficile disease. Infect Immun. 2013 Jun; 81(6):2190-6. PMID: [23545305](//www.ncbi.nlm.nih.gov/pubmed/23545305); PMCID: [PMC3676027](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3676027).
+
+Citations:
+
+  146. Pace CS, Fordyce MW, Franco D, Kao CY, Seaman MS, **Ho DD**. Anti-CD4 monoclonal antibody ibalizumab exhibits breadth and potency against HIV-1, with natural resistance mediated by the loss of a V5 glycan in envelope. J Acquir Immune Defic Syndr. 2013 Jan 01; 62(1):1-9. PMID: [23023102](//www.ncbi.nlm.nih.gov/pubmed/23023102).
+
+Citations:
+
+  147. Zaharatos GJ, Yu J, Pace C, Song Y, Vasan S, **Ho DD** , Huang Y. HIV-1 and influenza antigens synthetically linked to IgG2a Fc elicit superior humoral responses compared to unmodified antigens in mice. Vaccine. 2011 Dec 09; 30(1):42-50. PMID: [22064264](//www.ncbi.nlm.nih.gov/pubmed/22064264).
+
+Citations:
+
+  148. Scheid JF, Mouquet H, Ueberheide B, Diskin R, Klein F, Oliveira TY, Pietzsch J, Fenyo D, Abadir A, Velinzon K, Hurley A, Myung S, Boulad F, Poignard P, Burton DR, Pereyra F, **Ho DD** , Walker BD, Seaman MS, Bjorkman PJ, Chait BT, Nussenzweig MC. Sequence and structural convergence of broad and potent HIV antibodies that mimic CD4 binding. Science. 2011 Sep 16; 333(6049):1633-7. PMID: [21764753](//www.ncbi.nlm.nih.gov/pubmed/21764753); PMCID: [PMC3351836](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3351836).
+
+Citations:
+
+  149. Vasan S, Hurley A, Schlesinger SJ, Hannaman D, Gardiner DF, Dugin DP, Boente-Carrera M, Vittorino R, Caskey M, Andersen J, Huang Y, Cox JH, Tarragona-Fiol T, Gill DK, Cheeseman H, Clark L, Dally L, Smith C, Schmidt C, Park HH, Kopycinski JT, Gilmour J, Fast P, Bernard R, **Ho DD**. In vivo electroporation enhances the immunogenicity of an HIV-1 DNA vaccine candidate in healthy volunteers. PLoS One. 2011; 6(5):e19252. PMID: [21603651](//www.ncbi.nlm.nih.gov/pubmed/21603651); PMCID: [PMC3095594](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3095594).
+
+Citations:
+
+  150. Franco D, Liu W, Gardiner DF, Hahn BH, **Ho DD**. CD40L-containing virus-like particle as a candidate HIV-1 vaccine targeting dendritic cells. J Acquir Immune Defic Syndr. 2011 Apr 15; 56(5):393-400. PMID: [21239998](//www.ncbi.nlm.nih.gov/pubmed/21239998).
+
+Citations:
+
+  151. Chen MW, Liao HY, Huang Y, Jan JT, Huang CC, Ren CT, Wu CY, Cheng TJ, **Ho DD** , Wong CH. Broadly neutralizing DNA vaccine with specific mutation alters the antigenicity and sugar-binding activities of influenza hemagglutinin. Proc Natl Acad Sci U S A. 2011 Mar 01; 108(9):3510-5. PMID: [21321237](//www.ncbi.nlm.nih.gov/pubmed/21321237); PMCID: [PMC3048126](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3048126).
+
+Citations:
+
+  152. Liao CF, Wang SF, Lin YT, **Ho DD** , Chen YM. Identification of the DC-SIGN-interactive domains on the envelope glycoprotein of HIV-1 CRF07_BC. AIDS Res Hum Retroviruses. 2011 Aug; 27(8):831-9. PMID: [21142800](//www.ncbi.nlm.nih.gov/pubmed/21142800).
+
+Citations:
+
+  153. Freeman MM, Seaman MS, Rits-Volloch S, Hong X, Kao CY, **Ho DD** , Chen B. Crystal structure of HIV-1 primary receptor CD4 in complex with a potent antiviral antibody. Structure. 2010 Dec 08; 18(12):1632-41. PMID: [21134642](//www.ncbi.nlm.nih.gov/pubmed/21134642); PMCID: [PMC3005625](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3005625).
+
+Citations:
+
+  154. Mouquet H, Scheid JF, Zoller MJ, Krogsgaard M, Ott RG, Shukair S, Artyomov MN, Pietzsch J, Connors M, Pereyra F, Walker BD, **Ho DD** , Wilson PC, Seaman MS, Eisen HN, Chakraborty AK, Hope TJ, Ravetch JV, Wardemann H, Nussenzweig MC. Polyreactivity increases the apparent affinity of anti-HIV antibodies by heteroligation. Nature. 2010 Sep 30; 467(7315):591-5. PMID: [20882016](//www.ncbi.nlm.nih.gov/pubmed/20882016); PMCID: [PMC3699875](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3699875).
+
+Citations:
+
+  155. Li X, Fujio M, Imamura M, Wu D, Vasan S, Wong CH, **Ho DD** , Tsuji M. Design of a potent CD1d-binding NKT cell ligand as a vaccine adjuvant. Proc Natl Acad Sci U S A. 2010 Jul 20; 107(29):13010-5. PMID: [20616071](//www.ncbi.nlm.nih.gov/pubmed/20616071); PMCID: [PMC2919905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2919905).
+
+Citations:
+
+  156. Franco D, Li W, Qing F, Stoyanov CT, Moran T, Rice CM, **Ho DD**. Evaluation of yellow fever virus 17D strain as a new vector for HIV-1 vaccine development. Vaccine. 2010 Aug 09; 28(35):5676-85. PMID: [20600494](//www.ncbi.nlm.nih.gov/pubmed/20600494).
+
+Citations:
+
+  157. Song R, Franco D, Kao CY, Yu F, Huang Y, **Ho DD**. Epitope mapping of ibalizumab, a humanized anti-CD4 monoclonal antibody with anti-HIV-1 activity in infected patients. J Virol. 2010 Jul; 84(14):6935-42. PMID: [20463063](//www.ncbi.nlm.nih.gov/pubmed/20463063); PMCID: [PMC2898252](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2898252).
+
+Citations:
+
+  158. Zhou Z, Meyers K, Li X, Chen Q, Qian H, Lao Y, Geng E, Fan Y, Yang S, Chiu M, **Ho DD**. Prevention of mother-to-child transmission of HIV-1 using highly active antiretroviral therapy in rural Yunnan, China. J Acquir Immune Defic Syndr. 2010 Feb; 53 Suppl 1:S15-22. PMID: [20104104](//www.ncbi.nlm.nih.gov/pubmed/20104104).
+
+Citations:
+
+  159. Vasan S, Schlesinger SJ, Huang Y, Hurley A, Lombardo A, Chen Z, Than S, Adesanya P, Bunce C, Boaz M, Boyle R, Sayeed E, Clark L, Dugin D, Schmidt C, Song Y, Seamons L, Dally L, Ho M, Smith C, Markowitz M, Cox J, Gill DK, Gilmour J, Keefer MC, Fast P, **Ho DD**. Phase 1 safety and immunogenicity evaluation of ADVAX, a multigenic, DNA-based clade C/B' HIV-1 candidate vaccine. PLoS One. 2010 Jan 25; 5(1):e8617. PMID: [20111582](//www.ncbi.nlm.nih.gov/pubmed/20111582); PMCID: [PMC2799527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2799527).
+
+Citations:
+
+  160. Vasan S, Schlesinger SJ, Chen Z, Hurley A, Lombardo A, Than S, Adesanya P, Bunce C, Boaz M, Boyle R, Sayeed E, Clark L, Dugin D, Boente-Carrera M, Schmidt C, Fang Q, Huang Y, Zaharatos GJ, Gardiner DF, Caskey M, Seamons L, Ho M, Dally L, Smith C, Cox J, Gill D, Gilmour J, Keefer MC, Fast P, **Ho DD**. Phase 1 safety and immunogenicity evaluation of ADMVA, a multigenic, modified vaccinia Ankara-HIV-1 B'/C candidate vaccine. PLoS One. 2010 Jan 25; 5(1):e8816. PMID: [20111599](//www.ncbi.nlm.nih.gov/pubmed/20111599); PMCID: [PMC2810329](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2810329).
+
+Citations:
+
+  161. Liang K, Gui X, Zhang YZ, Zhuang K, Meyers K, **Ho DD**. A case series of 104 women infected with HIV-1 via blood transfusion postnatally: high rate of HIV-1 transmission to infants through breast-feeding. J Infect Dis. 2009 Sep 01; 200(5):682-6. PMID: [19627245](//www.ncbi.nlm.nih.gov/pubmed/19627245).
+
+Citations:
+
+  162. Gardiner DF, Rosenberg T, Zaharatos J, Franco D, **Ho DD**. A DNA vaccine targeting the receptor-binding domain of Clostridium difficile toxin A. Vaccine. 2009 Jun 02; 27(27):3598-604. PMID: [19464540](//www.ncbi.nlm.nih.gov/pubmed/19464540); PMCID: [PMC2709243](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2709243).
+
+Citations:
+
+  163. Gunnell D, Hawton K, **Ho D** , Evans J, O'Connor S, Potokar J, Donovan J, Kapur N. Hospital admissions for self harm after discharge from psychiatric inpatient care: cohort study. BMJ. 2008 Nov 18; 337:a2278. PMID: [19018041](//www.ncbi.nlm.nih.gov/pubmed/19018041); PMCID: [PMC2590882](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2590882).
+
+Citations:
+
+  164. Lu L, Jia M, Ma Y, Yang L, Chen Z, **Ho DD** , Jiang Y, Zhang L. The changing face of HIV in China. Nature. 2008 Oct 02; 455(7213):609-11. PMID: [18833270](//www.ncbi.nlm.nih.gov/pubmed/18833270).
+
+Citations:
+
+  165. Huang Y, Krasnitz M, Rabadan R, Witten DM, Song Y, Levine AJ, **Ho DD** , Robins H. A recoding method to improve the humoral immune response to an HIV DNA vaccine. PLoS One. 2008 Sep 15; 3(9):e3214. PMID: [18791646](//www.ncbi.nlm.nih.gov/pubmed/18791646); PMCID: [PMC2529374](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2529374).
+
+Citations:
+
+  166. Chen MW, Cheng TJ, Huang Y, Jan JT, Ma SH, Yu AL, Wong CH, **Ho DD**. A consensus-hemagglutinin-based DNA vaccine that protects mice against divergent H5N1 influenza viruses. Proc Natl Acad Sci U S A. 2008 Sep 09; 105(36):13538-43. PMID: [18765801](//www.ncbi.nlm.nih.gov/pubmed/18765801); PMCID: [PMC2533225](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2533225).
+
+Citations:
+
+  167. **Ho DD** , Bieniasz PD. HIV-1 at 25. Cell. 2008 May 16; 133(4):561-5. PMID: [18485860](//www.ncbi.nlm.nih.gov/pubmed/18485860).
+
+Citations:
+
+  168. Huang Y, Chen Z, Zhang W, Gurner D, Song Y, Gardiner DF, **Ho DD**. Design, construction, and characterization of a dual-promoter multigenic DNA vaccine directed against an HIV-1 subtype C/B' recombinant. J Acquir Immune Defic Syndr. 2008 Apr 01; 47(4):403-11. PMID: [18209683](//www.ncbi.nlm.nih.gov/pubmed/18209683).
+
+Citations:
+
+  169. Chen Z, Huang Y, Zhao X, Ba L, Zhang W, **Ho DD**. Design, construction, and characterization of a multigenic modified vaccinia Ankara candidate vaccine against human immunodeficiency virus type 1 subtype C/B'. J Acquir Immune Defic Syndr. 2008 Apr 01; 47(4):412-21. PMID: [18209682](//www.ncbi.nlm.nih.gov/pubmed/18209682).
+
+Citations:
+
+  170. Huang Y, Chen A, Li X, Chen Z, Zhang W, Song Y, Gurner D, Gardiner D, Basu S, **Ho DD** , Tsuji M. Enhancement of HIV DNA vaccine immunogenicity by the NKT cell ligand, alpha-galactosylceramide. Vaccine. 2008 Mar 28; 26(15):1807-16. PMID: [18329757](//www.ncbi.nlm.nih.gov/pubmed/18329757).
+
+Citations:
+
+  171. Chen HY, Di Mascio M, Perelson AS, **Ho DD** , Zhang L. Determination of virus burst size in vivo using a single-cycle SIV in rhesus macaques. Proc Natl Acad Sci U S A. 2007 Nov 27; 104(48):19079-84. PMID: [18025463](//www.ncbi.nlm.nih.gov/pubmed/18025463); PMCID: [PMC2141911](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2141911).
+
+Citations:
+
+  172. Ba L, Yi CE, Zhang L, **Ho DD** , Chen Z. Heterologous MVA-S prime Ad5-S boost regimen induces high and persistent levels of neutralizing antibody response against SARS coronavirus. Appl Microbiol Biotechnol. 2007 Oct; 76(5):1131-6. PMID: [17581748](//www.ncbi.nlm.nih.gov/pubmed/17581748); PMCID: [PMC7079952](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7079952).
+
+Citations:
+
+  173. Janowicz DM, Tenner-Racz K, Racz P, Humphreys TL, Schnizlein-Bick C, Fortney KR, Zwickl B, Katz BP, Campbell JJ, **Ho DD** , Spinola SM. Experimental infection with Haemophilus ducreyi in persons who are infected with HIV does not cause local or augment systemic viral replication. J Infect Dis. 2007 May 15; 195(10):1443-51. PMID: [17436224](//www.ncbi.nlm.nih.gov/pubmed/17436224); PMCID: [PMC2571042](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2571042).
+
+Citations:
+
+  174. Liu L, Fang Q, Deng F, Wang H, Yi CE, Ba L, Yu W, Lin RD, Li T, Hu Z, **Ho DD** , Zhang L, Chen Z. Natural mutations in the receptor binding domain of spike glycoprotein determine the reactivity of cross-neutralization between palm civet coronavirus and severe acute respiratory syndrome coronavirus. J Virol. 2007 May; 81(9):4694-700. PMID: [17314167](//www.ncbi.nlm.nih.gov/pubmed/17314167); PMCID: [PMC1900161](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1900161).
+
+Citations:
+
+  175. Zhang Y, Lu L, Ba L, Liu L, Yang L, Jia M, Wang H, Fang Q, Shi Y, Yan W, Chang G, Zhang L, **Ho DD** , Chen Z. Dominance of HIV-1 subtype CRF01_AE in sexually acquired cases leads to a new epidemic in Yunnan province of China. PLoS Med. 2006 Nov; 3(11):e443. PMID: [17105339](//www.ncbi.nlm.nih.gov/pubmed/17105339); PMCID: [PMC1635743](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1635743).
+
+Citations:
+
+  176. Simon V, **Ho DD** , Abdool Karim Q. HIV/AIDS epidemiology, pathogenesis, prevention, and treatment. Lancet. 2006 Aug 05; 368(9534):489-504. PMID: [16890836](//www.ncbi.nlm.nih.gov/pubmed/16890836); PMCID: [PMC2913538](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2913538).
+
+Citations:
+
+  177. Fujio M, Wu D, Garcia-Navarro R, **Ho DD** , Tsuji M, Wong CH. Structure-based discovery of glycolipids for CD1d-mediated NKT cell activation: tuning the adjuvant versus immunosuppression activity. J Am Chem Soc. 2006 Jul 19; 128(28):9022-3. PMID: [16834361](//www.ncbi.nlm.nih.gov/pubmed/16834361).
+
+Citations:
+
+  178. Woo PC, Lau SK, Tsoi HW, Chen ZW, Wong BH, Zhang L, Chan JK, Wong LP, He W, Ma C, Chan KH, **Ho DD** , Yuen KY. SARS coronavirus spike polypeptide DNA vaccine priming with recombinant spike polypeptide from Escherichia coli as booster induces high titer of neutralizing antibody against SARS coronavirus. Vaccine. 2005 Oct 10; 23(42):4959-68. PMID: [15993989](//www.ncbi.nlm.nih.gov/pubmed/15993989); PMCID: [PMC7115571](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7115571).
+
+Citations:
+
+  179. Yi CE, Ba L, Zhang L, **Ho DD** , Chen Z. Single amino acid substitutions in the severe acute respiratory syndrome coronavirus spike glycoprotein determine viral entry and immunogenicity of a major neutralizing domain. J Virol. 2005 Sep; 79(18):11638-46. PMID: [16140741](//www.ncbi.nlm.nih.gov/pubmed/16140741); PMCID: [PMC1212612](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1212612).
+
+Citations:
+
+  180. Gardiner DF, Huang Y, Basu S, Leung L, Song Y, Chen Z, **Ho DD**. Multiple-site DNA vaccination enhances immune responses in mice. Vaccine. 2006 Jan 16; 24(3):287-92. PMID: [16137804](//www.ncbi.nlm.nih.gov/pubmed/16137804).
+
+Citations:
+
+  181. Simon V, Zennou V, Murray D, Huang Y, **Ho DD** , Bieniasz PD. Natural variation in Vif: differential impact on APOBEC3G/3F and a potential role in HIV-1 diversification. PLoS Pathog. 2005 Sep; 1(1):e6. PMID: [16201018](//www.ncbi.nlm.nih.gov/pubmed/16201018); PMCID: [PMC1238741](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1238741).
+
+Citations:
+
+  182. Di Mascio M, Percus JK, Percus OE, Markowitz M, **Ho DD** , Perelson AS. Duration of an intermittent episode of viremia. Bull Math Biol. 2005 Jul; 67(4):885-900. PMID: [15893558](//www.ncbi.nlm.nih.gov/pubmed/15893558).
+
+Citations:
+
+  183. Crowe SM, **Ho DD** , Marriott D, Brew B, Gorry PR, Sullivan JS, Learmont J, Mills J. In vivo replication kinetics of a nef-deleted strain of HIV-1. AIDS. 2005 May 20; 19(8):842-3. PMID: [15867504](//www.ncbi.nlm.nih.gov/pubmed/15867504).
+
+Citations:
+
+  184. Xing GW, Wu D, Poles MA, Horowitz A, Tsuji M, **Ho DD** , Wong CH. Synthesis and human NKT cell stimulating properties of 3-O-sulfo-alpha/beta-galactosylceramides. Bioorg Med Chem. 2005 Apr 15; 13(8):2907-16. PMID: [15781400](//www.ncbi.nlm.nih.gov/pubmed/15781400).
+
+Citations:
+
+  185. Kinjo Y, Wu D, Kim G, Xing GW, Poles MA, **Ho DD** , Tsuji M, Kawahara K, Wong CH, Kronenberg M. Recognition of bacterial glycosphingolipids by natural killer T cells. Nature. 2005 Mar 24; 434(7032):520-5. PMID: [15791257](//www.ncbi.nlm.nih.gov/pubmed/15791257).
+
+Citations:
+
+  186. Markowitz M, Mohri H, Mehandru S, Shet A, Berry L, Kalyanaraman R, Kim A, Chung C, Jean-Pierre P, Horowitz A, La Mar M, Wrin T, Parkin N, Poles M, Petropoulos C, Mullen M, Boden D, **Ho DD**. Infection with multidrug resistant, dual-tropic HIV-1 and rapid progression to AIDS: a case report. Lancet. 2005 Mar 19-25; 365(9464):1031-8. PMID: [15781098](//www.ncbi.nlm.nih.gov/pubmed/15781098).
+
+Citations:
+
+  187. Chen Z, Zhang L, Qin C, Ba L, Yi CE, Zhang F, Wei Q, He T, Yu W, Yu J, Gao H, Tu X, Gettie A, Farzan M, Yuen KY, **Ho DD**. Recombinant modified vaccinia virus Ankara expressing the spike glycoprotein of severe acute respiratory syndrome coronavirus induces protective neutralizing antibodies primarily targeting the receptor binding region. J Virol. 2005 Mar; 79(5):2678-88. PMID: [15708987](//www.ncbi.nlm.nih.gov/pubmed/15708987); PMCID: [PMC548443](//www.ncbi.nlm.nih.gov/pmc/articles/PMC548443).
+
+Citations:
+
+  188. Sewer A, Lagos-Quintana M, Sheridan R, Sander C, van Dyk LF, Ho CK, Shuman S, Chien M, Russo JJ, Ju J, Randall G, Lindenbach BD, Rice CM, Simon V, **Ho DD** , Zavolan M, Tuschl T, Pfeffer S, Gr?sser FA. Identification of microRNAs of the herpesvirus family. Nat Methods. 2005 Apr; 2(4):269-76. PMID: [15782219](//www.ncbi.nlm.nih.gov/pubmed/15782219).
+
+Citations:
+
+  189. Wu D, Xing GW, Poles MA, Horowitz A, Kinjo Y, Sullivan B, Bodmer-Narkevitch V, Plettenburg O, Kronenberg M, Tsuji M, **Ho DD** , Wong CH. Bacterial glycolipids and analogs as antigens for CD1d-restricted NKT cells. Proc Natl Acad Sci U S A. 2005 Feb 01; 102(5):1351-6. PMID: [15665086](//www.ncbi.nlm.nih.gov/pubmed/15665086); PMCID: [PMC547854](//www.ncbi.nlm.nih.gov/pmc/articles/PMC547854).
+
+Citations:
+
+  190. **Ho DD**. A shot in the arm for AIDS vaccine research. PLoS Med. 2005 Feb; 2(2):e36. PMID: [15740412](//www.ncbi.nlm.nih.gov/pubmed/15740412); PMCID: [PMC544555](//www.ncbi.nlm.nih.gov/pmc/articles/PMC544555).
+
+Citations:
+
+  191. Arron ST, Ribeiro RM, Gettie A, Bohm R, Blanchard J, Yu J, Perelson AS, **Ho DD** , Zhang L. Impact of thymectomy on the peripheral T cell pool in rhesus macaques before and after infection with simian immunodeficiency virus. Eur J Immunol. 2005 Jan; 35(1):46-55. PMID: [15593297](//www.ncbi.nlm.nih.gov/pubmed/15593297).
+
+Citations:
+
+  192. Zhang L, Chen Z, Cao Y, Yu J, Li G, Yu W, Yin N, Mei S, Li L, Balfe P, He T, Ba L, Zhang F, Lin HH, Yuen MF, Lai CL, **Ho DD**. Molecular characterization of human immunodeficiency virus type 1 and hepatitis C virus in paid blood donors and injection drug users in china. J Virol. 2004 Dec; 78(24):13591-9. PMID: [15564470](//www.ncbi.nlm.nih.gov/pubmed/15564470); PMCID: [PMC533913](//www.ncbi.nlm.nih.gov/pmc/articles/PMC533913).
+
+Citations:
+
+  193. Di Mascio M, Markowitz M, Louie M, Hurley A, Hogan C, Simon V, Follmann D, **Ho DD** , Perelson AS. Dynamics of intermittent viremia during highly active antiretroviral therapy in patients who initiate therapy during chronic versus acute and early human immunodeficiency virus type 1 infection. J Virol. 2004 Oct; 78(19):10566-73. PMID: [15367623](//www.ncbi.nlm.nih.gov/pubmed/15367623); PMCID: [PMC516378](//www.ncbi.nlm.nih.gov/pmc/articles/PMC516378).
+
+Citations:
+
+  194. Kao RY, Tsui WH, Lee TS, Tanner JA, Watt RM, Huang JD, Hu L, Chen G, Chen Z, Zhang L, He T, Chan KH, Tse H, To AP, Ng LW, Wong BC, Tsoi HW, Yang D, **Ho DD** , Yuen KY. Identification of novel small-molecule inhibitors of severe acute respiratory syndrome-associated coronavirus by chemical genetics. Chem Biol. 2004 Sep; 11(9):1293-9. PMID: [15380189](//www.ncbi.nlm.nih.gov/pubmed/15380189); PMCID: [PMC7128553](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7128553).
+
+Citations:
+
+  195. Kaluza GL, Gershlick AH, Park SJ, De Scheerder I, Chevalier B, Camenzind E, Goy JJ, Missault L, Reifart N, Vrints C, Urban P, Shim WH, **Ho DS** , Fearnot NE, Voorhees WD, [Raizner AE](https://profiles.viictr.org/profile/266535). Comparison of neointimal formation in polymer-free paclitaxel stents versus stainless stents (from the ASPECT and ELUTES randomized clinical trials). Am J Cardiol. 2004 Jul 15; 94(2):199-201. PMID: [15246901](//www.ncbi.nlm.nih.gov/pubmed/15246901).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15246901/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  196. Dixit NM, Markowitz M, **Ho DD** , Perelson AS. Estimates of intracellular delay and average drug efficacy from viral load data of HIV-infected individuals under antiretroviral therapy. Antivir Ther. 2004 Apr; 9(2):237-46. PMID: [15134186](//www.ncbi.nlm.nih.gov/pubmed/15134186).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15134186/citedby/) Fields:
+
+Ant Anti-Infective AgentsVir Virology
+
+Translation:HumansCells
+
+  197. Di Mascio M, Ribeiro RM, Markowitz M, **Ho DD** , Perelson AS. Modeling the long-term control of viremia in HIV-1 infected patients treated with antiretroviral therapy. Math Biosci. 2004 Mar-Apr; 188:47-62. PMID: [14766093](//www.ncbi.nlm.nih.gov/pubmed/14766093).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14766093/citedby/) Fields:
+
+Sta Statistics as Topic
+
+Translation:HumansCells
+
+  198. Zhang L, Lopez P, He T, Yu W, **Ho DD**. Retraction of an interpretation. Science. 2004 Jan 23; 303(5657):467. PMID: [14739439](//www.ncbi.nlm.nih.gov/pubmed/14739439).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14739439/citedby/) Fields:
+
+Sci Science
+
+  199. Ramratnam B, Ribeiro R, He T, Chung C, Simon V, Vanderhoeven J, Hurley A, Zhang L, Perelson AS, **Ho DD** , Markowitz M. Intensification of antiretroviral therapy accelerates the decay of the HIV-1 latent reservoir and decreases, but does not eliminate, ongoing virus replication. J Acquir Immune Defic Syndr. 2004 Jan 01; 35(1):33-7. PMID: [14707789](//www.ncbi.nlm.nih.gov/pubmed/14707789).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14707789/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCellsCTClinical Trials
+
+  200. Simon V, **Ho DD**. HIV-1 dynamics in vivo: implications for therapy. Nat Rev Microbiol. 2003 Dec; 1(3):181-90. PMID: [15035022](//www.ncbi.nlm.nih.gov/pubmed/15035022).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15035022/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  201. Di Mascio M, Markowitz M, Louie M, Hogan C, Hurley A, Chung C, **Ho DD** , Perelson AS. Viral blip dynamics during highly active antiretroviral therapy. J Virol. 2003 Nov; 77(22):12165-72. PMID: [14581553](//www.ncbi.nlm.nih.gov/pubmed/14581553); PMCID: [PMC253757](//www.ncbi.nlm.nih.gov/pmc/articles/PMC253757).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14581553/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  202. Chang TL, Chang CH, Simpson DA, Xu Q, Martin PK, Lagenaur LA, Schoolnik GK, **Ho DD** , Hillier SL, Holodniy M, Lewicki JA, Lee PP. Inhibition of HIV infectivity by a natural human isolate of Lactobacillus jensenii engineered to express functional two-domain CD4. Proc Natl Acad Sci U S A. 2003 Sep 30; 100(20):11672-7. PMID: [12972635](//www.ncbi.nlm.nih.gov/pubmed/12972635); PMCID: [PMC208816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC208816).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12972635/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  203. De Boer RJ, Mohri H, **Ho DD** , Perelson AS. Estimating average cellular turnover from 5-bromo-2'-deoxyuridine (BrdU) measurements. Proc Biol Sci. 2003 Apr 22; 270(1517):849-58. PMID: [12737664](//www.ncbi.nlm.nih.gov/pubmed/12737664); PMCID: [PMC1691317](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1691317).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12737664/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  204. Markowitz M, Louie M, Hurley A, Sun E, Di Mascio M, Perelson AS, **Ho DD**. A novel antiviral intervention results in more accurate assessment of human immunodeficiency virus type 1 replication dynamics and T-cell decay in vivo. J Virol. 2003 Apr; 77(8):5037-8. PMID: [12663814](//www.ncbi.nlm.nih.gov/pubmed/12663814); PMCID: [PMC152136](//www.ncbi.nlm.nih.gov/pmc/articles/PMC152136).
+
+Citations:
+[186](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12663814/citedby/)
+Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  205. Louie M, Hogan C, Di Mascio M, Hurley A, Simon V, Rooney J, Ruiz N, Brun S, Sun E, Perelson AS, **Ho DD** , Markowitz M. Determining the relative efficacy of highly active antiretroviral therapy. J Infect Dis. 2003 Mar 15; 187(6):896-900. PMID: [12660935](//www.ncbi.nlm.nih.gov/pubmed/12660935).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12660935/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsCTClinical Trials
+
+  206. Percus JK, Percus OE, Markowitz M, **Ho DD** , Di Mascio M, Perelson AS. The distribution of viral blips observed in HIV-1 infected patients treated with combination antiretroviral therapy. Bull Math Biol. 2003 Mar; 65(2):263-77. PMID: [12675332](//www.ncbi.nlm.nih.gov/pubmed/12675332).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12675332/citedby/) Fields:
+
+Bio BiologySta Statistics as Topic
+
+Translation:HumansCells
+
+  207. De Boer RJ, Mohri H, **Ho DD** , Perelson AS. Turnover rates of B cells, T cells, and NK cells in simian immunodeficiency virus-infected and uninfected rhesus macaques. J Immunol. 2003 Mar 01; 170(5):2479-87. PMID: [12594273](//www.ncbi.nlm.nih.gov/pubmed/12594273).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12594273/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  208. Jin X, Gao X, Ramanathan M, Deschenes GR, Nelson GW, O'Brien SJ, Goedert JJ, **Ho DD** , O'Brien TR, Carrington M. Human immunodeficiency virus type 1 (HIV-1)-specific CD8+-T-cell responses for groups of HIV-1-infected individuals with different HLA-B*35 genotypes. J Virol. 2002 Dec; 76(24):12603-10. PMID: [12438586](//www.ncbi.nlm.nih.gov/pubmed/12438586); PMCID: [PMC136673](//www.ncbi.nlm.nih.gov/pmc/articles/PMC136673).
+
+Citations:
+
+  209. Ribeiro RM, Mohri H, **Ho DD** , Perelson AS. In vivo dynamics of T cell activation, proliferation, and death in HIV-1 infection: why are CD4+ but not CD8+ T cells depleted? Proc Natl Acad Sci U S A. 2002 Nov 26; 99(24):15572-7. PMID: [12434018](//www.ncbi.nlm.nih.gov/pubmed/12434018); PMCID: [PMC137758](//www.ncbi.nlm.nih.gov/pmc/articles/PMC137758).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12434018/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  210. Zhang L, Yu W, He T, Yu J, Caffrey RE, Dalmasso EA, Fu S, Pham T, Mei J, Ho JJ, Zhang W, Lopez P, **Ho DD**. Contribution of human alpha-defensin 1, 2, and 3 to the anti-HIV-1 activity of CD8 antiviral factor. Science. 2002 Nov 01; 298(5595):995-1000. PMID: [12351674](//www.ncbi.nlm.nih.gov/pubmed/12351674).
+
+Citations:
+
+  211. Lewin SR, Heller G, Zhang L, Rodrigues E, Skulsky E, van den Brink MR, Small TN, Kernan NA, O'Reilly RJ, **Ho DD** , Young JW. Direct evidence for new T-cell generation by patients after either T-cell-depleted or unmodified allogeneic hematopoietic stem cell transplantations. Blood. 2002 Sep 15; 100(6):2235-42. PMID: [12200390](//www.ncbi.nlm.nih.gov/pubmed/12200390).
+
+Citations:
+
+  212. Zhang L, Rowe L, He T, Chung C, Yu J, Yu W, Talal A, Markowitz M, **Ho DD**. Compartmentalization of surface envelope glycoprotein of human immunodeficiency virus type 1 during acute and chronic infection. J Virol. 2002 Sep; 76(18):9465-73. PMID: [12186928](//www.ncbi.nlm.nih.gov/pubmed/12186928); PMCID: [PMC136436](//www.ncbi.nlm.nih.gov/pmc/articles/PMC136436).
+
+Citations:
+
+  213. Markowitz M, Jin X, Hurley A, Simon V, Ramratnam B, Louie M, Deschenes GR, Ramanathan M, Barsoum S, Vanderhoeven J, He T, Chung C, Murray J, Perelson AS, Zhang L, **Ho DD**. Discontinuation of antiretroviral therapy commenced early during the course of human immunodeficiency virus type 1 infection, with or without adjunctive vaccination. J Infect Dis. 2002 Sep 01; 186(5):634-43. PMID: [12195350](//www.ncbi.nlm.nih.gov/pubmed/12195350).
+
+Citations:
+
+  214. **Ho DD** , Huang Y. The HIV-1 vaccine race. Cell. 2002 Jul 26; 110(2):135-8. PMID: [12150921](//www.ncbi.nlm.nih.gov/pubmed/12150921).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12150921/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  215. Chen Z, Zhao X, Huang Y, Gettie A, Ba L, Blanchard J, **Ho DD**. CD4+ lymphocytopenia in acute infection of Asian macaques by a vaginally transmissible subtype-C, CCR5-tropic Simian/Human Immunodeficiency Virus (SHIV). J Acquir Immune Defic Syndr. 2002 Jun 01; 30(2):133-45. PMID: [12045675](//www.ncbi.nlm.nih.gov/pubmed/12045675).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12045675/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansAnimalsCells
+
+  216. **Ho DD**. HIV and lymphocyte dynamics. Vaccine. 2002 May 06; 20(15):1933. PMID: [11983248](//www.ncbi.nlm.nih.gov/pubmed/11983248).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11983248/citedby/) Fields:
+
+All Allergy and Immunology
+
+  217. Zhang L, Dailey PJ, Gettie A, Blanchard J, **Ho DD**. The liver is a major organ for clearing simian immunodeficiency virus in rhesus monkeys. J Virol. 2002 May; 76(10):5271-3. PMID: [11967341](//www.ncbi.nlm.nih.gov/pubmed/11967341); PMCID: [PMC136155](//www.ncbi.nlm.nih.gov/pmc/articles/PMC136155).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11967341/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  218. Ribeiro RM, Mohri H, **Ho DD** , Perelson AS. Modeling deuterated glucose labeling of T-lymphocytes. Bull Math Biol. 2002 Mar; 64(2):385-405. PMID: [11926122](//www.ncbi.nlm.nih.gov/pubmed/11926122).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11926122/citedby/) Fields:
+
+Bio BiologySta Statistics as Topic
+
+Translation:HumansCells
+
+  219. Jin X, Ramanathan M, Barsoum S, Deschenes GR, Ba L, Binley J, Schiller D, Bauer DE, Chen DC, Hurley A, Gebuhrer L, El Habib R, Caudrelier P, Klein M, Zhang L, **Ho DD** , Markowitz M. Safety and immunogenicity of ALVAC vCP1452 and recombinant gp160 in newly human immunodeficiency virus type 1-infected patients treated with prolonged highly active antiretroviral therapy. J Virol. 2002 Mar; 76(5):2206-16. PMID: [11836398](//www.ncbi.nlm.nih.gov/pubmed/11836398); PMCID: [PMC135946](//www.ncbi.nlm.nih.gov/pmc/articles/PMC135946).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11836398/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCellsPHPublic HealthCTClinical Trials
+
+  220. Koup RA, **Ho DD** , Poli G, Fauci AS, Koup RA, Ho DD, Poli G, Fauci AS. Isolation and quantitation of HIV in peripheral blood. Curr Protoc Immunol. 2001 May; Chapter 12:12.2.1-12.2.11. PMID: [18432710](//www.ncbi.nlm.nih.gov/pubmed/18432710).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 220 publications over 23 distinct years, with a maximum of
+42 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|42&cht=bvs&chd=t:0,0,0,0,0,0,0,2,29,19,19,33,7,10,19,5,19,14,0,14,7,10,12,7,5,2,57,100,57,52,24&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2001| 1  
+2002| 12  
+2003| 8  
+2004| 8  
+2005| 14  
+2006| 3  
+2007| 4  
+2008| 8  
+2009| 2  
+2010| 8  
+2011| 6  
+2013| 6  
+2014| 3  
+2015| 4  
+2016| 5  
+2017| 3  
+2018| 2  
+2019| 1  
+2020| 24  
+2021| 42  
+2022| 24  
+2023| 22  
+2024| 10  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HO's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (596)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Antibodies, Neutralizing](https://profiles.viictr.org/profile/248023)
+  * [HIV-1](https://profiles.viictr.org/profile/247997)
+  * [Antibodies, Viral](https://profiles.viictr.org/profile/253398)
+  * [Spike Glycoprotein, Coronavirus](https://profiles.viictr.org/profile/27547189)
+  * [HIV Antibodies](https://profiles.viictr.org/profile/255889)
+
+[Explore](https://profiles.viictr.org/profile/267305/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [RAIZNER, ALBERT](https://profiles.viictr.org/profile/266535)
+  * [CHEN, HUA](https://profiles.viictr.org/profile/268833)
+
+[Explore](https://profiles.viictr.org/profile/267305/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [HOTEZ, PETER](https://profiles.viictr.org/profile/266166)
+  * [SZARPAK, LUKASZ](https://profiles.viictr.org/profile/37104232)
+  * [GAGLANI, MANJUSHA](https://profiles.viictr.org/profile/45302198)
+  * [PIEDRA, PEDRO](https://profiles.viictr.org/profile/268114)
+
+[Explore](https://profiles.viictr.org/profile/267305/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BANI HANI, AHMAD](https://profiles.viictr.org/profile/41109792)
+  * [CHERIYAN, SALIM](https://profiles.viictr.org/profile/31893995)
+  * [JONES, JEFFREY](https://profiles.viictr.org/profile/267973)
+  * [SRIKISHEN, NEEL](https://profiles.viictr.org/profile/35282539)
+  * [SUKUMAR, SHYAMSUNDER](https://profiles.viictr.org/profile/29494187)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9QYVsPLp/MLkzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CHON, CHRIS](https://profiles.viictr.org/profile/270267)
+  * [GOLDFARB, RICHARD](https://profiles.viictr.org/profile/267391)
+  * [LAPIN, STEPHEN](https://profiles.viictr.org/profile/267949)
+  * [LATINI, DAVID](https://profiles.viictr.org/profile/265641)
+  * [LEWITTON, MICHAEL](https://profiles.viictr.org/profile/267023)
+
+_
+

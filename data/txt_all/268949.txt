@@ -1,0 +1,956 @@
+## JASON KIMATA
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268949)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=268949&cachekey=f4868db5-45d1-4dbf-994b-26f4128048ce)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+P30AI161943 (GIORDANO, THOMAS P)Apr 23, 2021 - Mar 31, 2026NIH  
+Texas Developmental Center for AIDS Research  
+Role: Director, Basic Science Core  
+---  
+  
+* * *  
+  
+R33AI116167 (KIMATA, JASON T.)Aug 1, 2016 - Jul 31, 2021NIH  
+Bifunctional Chimeric Antigen Receptors for clearing HIV  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21AI116167 (KIMATA, JASON T.)Aug 1, 2016 - Jul 31, 2018NIH  
+Bifunctional Chimeric Antigen Receptors for clearing HIV  
+Role: Principal Investigator  
+  
+* * *  
+  
+R56AI108467 (KIMATA, JASON T)Jul 2, 2014 - Jun 30, 2016NIH  
+Replication and pathogenesis of pigtail-tropic HIV-1  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AI106574 (KIMATA, JASON T)Aug 15, 2013 - Jul 31, 2017NIH  
+Inhibition of HIV by GPI-anchored Antibody Derivatives  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21AI099007 (KIMATA, JASON T)Feb 15, 2012 - Jan 31, 2015NIH  
+HIV-1 Resistance to Type I Interferon in Macaques  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21AI083095 (KIMATA, JASON T)Apr 1, 2009 - Nov 30, 2012NIH  
+Toward an HIV-1 macaque model  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21AI049803 (KIMATA, JASON T)Apr 15, 2001 - Mar 31, 2004NIH  
+Strategies to Prevent SIV Binding to Macaque DC-SIGN  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AI047725 (KIMATA, JASON T)Apr 15, 2000 - Mar 31, 2012NIH  
+Replicative fitness of SIV variants  
+Role: Principal Investigator  
+  
+* * *  
+  
+R56AI047725 (KIMATA, JASON T)Apr 15, 2000 - Mar 31, 2006NIH  
+Replicative fitness of SIV variants  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32AI009337 (KIMATA, JASON T)Jan 31, 1997NIH  
+CYTOPATHOGENIC DETERMINANTS OF SIV VARIANTS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Wilk AJ, Marceau JO, Kazer SW, Fleming I, Miao VN, Galvez-Reyes J, **Kimata JT** , Shalek AK, Holmes S, Overbaugh J, Blish CA. Pro-inflammatory feedback loops define immune responses to pathogenic Lentivirus infection. Genome Med. 2024 02 05; 16(1):24. PMID: [38317183](//www.ncbi.nlm.nih.gov/pubmed/38317183); PMCID: [PMC10840164](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10840164).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  2. Aulicino PC, Sharma S, Truong K, Kukunoor V, Ghei K, Arazi-Caillaud S, Taicz M, Bologna R, Mangano A, **Kimata JT**. Variable antiviral activity of islatravir against M184I/V mutant HIV-1 selected during antiretroviral therapy. J Antimicrob Chemother. 2024 Feb 01; 79(2):370-374. PMID: [38153245](//www.ncbi.nlm.nih.gov/pubmed/38153245).
+
+Citations:  Fields:
+
+Ant Anti-Infective Agents
+
+Translation:HumansCells
+
+  3. [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), **Kimata JT** , [Pollet J](https://profiles.viictr.org/profile/16102688). Pseudoviruses, a safer toolbox for vaccine development against enveloped viruses. Expert Rev Vaccines. 2024 Jan-Dec; 23(1):174-185. PMID: [38164690](//www.ncbi.nlm.nih.gov/pubmed/38164690).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  4. Pons-Faudoa FP, Di Trani N, Capuani S, Facchi I, Wood AM, Nehete B, DeLise A, Sharma S, [Shelton KA](https://profiles.viictr.org/profile/17440134), Bushman LR, Chua CYX, [Ittmann MM](https://profiles.viictr.org/profile/269566), **Kimata JT** , Anderson PL, [Nehete PN](https://profiles.viictr.org/profile/12583686), Arduino RC, Grattoni A. Antiviral potency of long-acting islatravir subdermal implant in SHIV-infected macaques. J Control Release. 2024 02; 366:18-27. PMID: [38142963](//www.ncbi.nlm.nih.gov/pubmed/38142963); PMCID: [PMC10922355](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10922355).
+
+Citations:  Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimals
+
+  5. [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), Adhikari R, Villar MJ, Lee J, Liu Z, Kundu R, Chen YL, Sharma S, Ghei K, Keegan B, Versteeg L, Gillespie PM, Ciciriello A, Islam NY, [Poveda C](https://profiles.viictr.org/profile/37834418), Uzcategui N, [Chen WH](https://profiles.viictr.org/profile/23478750), **Kimata JT** , [Zhan B](https://profiles.viictr.org/profile/266656), [Strych U](https://profiles.viictr.org/profile/8065526), [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Pollet J](https://profiles.viictr.org/profile/16102688). A Recombinant Protein XBB.1.5 RBD/Alum/CpG Vaccine Elicits High Neutralizing Antibody Titers against Omicron Subvariants of SARS-CoV-2. Vaccines (Basel). 2023 Oct 01; 11(10). PMID: [37896960](//www.ncbi.nlm.nih.gov/pubmed/37896960); PMCID: [PMC10610638](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10610638).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37896960/citedby/)
+
+  6. Wang W, Truong K, Ye C, Sharma S, He H, Liu L, Wen M, Misra A, Zhou P, **Kimata JT**. Engineered CD4 T cells expressing a membrane anchored viral inhibitor restrict HIV-1 through cis and trans mechanisms. Front Immunol. 2023; 14:1167965. PMID: [37781368](//www.ncbi.nlm.nih.gov/pubmed/37781368); PMCID: [PMC10538569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10538569).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  7. Dodkins R, Delaney JR, Frias-De-Diego A, Crisci E, Huq N, Jordan I, **Kimata JT** , Findley T, Goldberg IG, Overton T, Scholle F. A rapid, high-throughput, viral infectivity assay using automated brightfield microscopy with machine learning. SLAS Technol. 2023 Oct; 28(5):324-333. PMID: [37451651](//www.ncbi.nlm.nih.gov/pubmed/37451651).
+
+Citations:  Fields:
+
+Cli Clinical Laboratory Techniques
+
+  8. Pons-Faudoa FP, Di Trani N, Capuani S, Campa-Carranza JN, Nehete B, Sharma S, [Shelton KA](https://profiles.viictr.org/profile/17440134), Bushman LR, Abdelmawla F, Williams M, Roon L, Nerguizian D, Chua CYX, [Ittmann MM](https://profiles.viictr.org/profile/269566), Nichols JE, **Kimata JT** , Anderson PL, [Nehete PN](https://profiles.viictr.org/profile/12583686), Arduino RC, Grattoni A. Long-acting refillable nanofluidic implant confers protection against SHIV infection in nonhuman primates. Sci Transl Med. 2023 06 28; 15(702):eadg2887. PMID: [37379369](//www.ncbi.nlm.nih.gov/pubmed/37379369).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37379369/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  9. [Hotez PJ](https://profiles.viictr.org/profile/266166), Adhikari R, [Chen WH](https://profiles.viictr.org/profile/23478750), Chen YL, Gillespie P, Islam NY, Keegan B, Tyagi Kundu R, Lee J, Liu Z, **Kimata JT** , [Oezguen N](https://profiles.viictr.org/profile/267606), [Pollet J](https://profiles.viictr.org/profile/16102688), [Poveda C](https://profiles.viictr.org/profile/37834418), Razavi K, [Ronca SE](https://profiles.viictr.org/profile/17678422), [Strych U](https://profiles.viictr.org/profile/8065526), [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), Versteeg L, Villar-Mondragon MJ, Wei J, [Zhan B](https://profiles.viictr.org/profile/266656), [Bottazzi ME](https://profiles.viictr.org/profile/269365). From concept to delivery: a yeast-expressed recombinant protein-based COVID-19 vaccine technology suitable for global access. Expert Rev Vaccines. 2023 Jan-Dec; 22(1):495-500. PMID: [37252854](//www.ncbi.nlm.nih.gov/pubmed/37252854).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37252854/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  10. Momin Z, Monzon A, **Kimata JT** , Aulicino PC, Rozenszajn M, Arazi-Caillaud S, Bologna R, Mangano A. HIV-1 subtype F integrase polymorphisms external to the catalytic core domain contribute to severe loss of replication capacity in context of the integrase inhibitor resistance mutation Q148H. J Antimicrob Chemother. 2022 09 30; 77(10):2793-2802. PMID: [35897124](//www.ncbi.nlm.nih.gov/pubmed/35897124); PMCID: [PMC9989736](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9989736).
+
+Citations:  Fields:
+
+Ant Anti-Infective Agents
+
+  11. [Pollet J](https://profiles.viictr.org/profile/16102688), [Strych U](https://profiles.viictr.org/profile/8065526), [Chen WH](https://profiles.viictr.org/profile/23478750), Versteeg L, Keegan B, [Zhan B](https://profiles.viictr.org/profile/266656), Wei J, Liu Z, Lee J, Kundu R, Adhikari R, [Poveda C](https://profiles.viictr.org/profile/37834418), Jose Villar M, Rani Thimmiraju S, Lopez B, Gillespie PM, [Ronca S](https://profiles.viictr.org/profile/17678422), **Kimata JT** , Reers M, Paradkar V, [Hotez PJ](https://profiles.viictr.org/profile/266166), Elena Bottazzi M. Receptor-binding domain recombinant protein on alum-CpG induces broad protection against SARS-CoV-2 variants of concern. Vaccine. 2022 06 09; 40(26):3655-3663. PMID: [35568591](//www.ncbi.nlm.nih.gov/pubmed/35568591); PMCID: [PMC9080055](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9080055).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  12. [Chen M](https://profiles.viictr.org/profile/268386), Li M, Budai MM, [Rice AP](https://profiles.viictr.org/profile/269748), **Kimata JT** , Mohan M, Wang J. Clearance of HIV-1 or SIV reservoirs by promotion of apoptosis and inhibition of autophagy: Targeting intracellular molecules in cure-directed strategies. J Leukoc Biol. 2022 11; 112(5):1245-1259. PMID: [35362118](//www.ncbi.nlm.nih.gov/pubmed/35362118); PMCID: [PMC9522917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9522917).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35362118/citedby/) Fields:
+
+All Allergy and Immunology
+
+  13. Pollet J, [Strych U](https://profiles.viictr.org/profile/8065526), [Chen WH](https://profiles.viictr.org/profile/23478750), Versteeg L, Keegan B, Zhan B, Wei J, Liu Z, Lee J, Kundu R, Adhikari R, [Poveda C](https://profiles.viictr.org/profile/37834418), Villar MJ, [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), Lopez B, Gillespie PM, Ronca S, **Kimata JT** , Reers M, Paradkar V, [Hotez P](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Receptor-binding domain recombinant protein on alum-CpG induces broad protection against SARS-CoV-2 variants of concern. bioRxiv. 2022 Mar 22. PMID: [34268512](//www.ncbi.nlm.nih.gov/pubmed/34268512); PMCID: [PMC8282101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8282101).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34268512/citedby/)
+
+  14. Thippeshappa R, Polacino P, Chandrasekar SS, Truong K, Misra A, Hu SL, Kaushal D, **Kimata JT** , Aulicino PC. In vivo Serial Passaging of Human-Simian Immunodeficiency Virus Clones Identifies Characteristics for Persistent Viral Replication. Front Microbiol. 2021; 12:779460. PMID: [34867922](//www.ncbi.nlm.nih.gov/pubmed/34867922); PMCID: [PMC8636705](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8636705).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34867922/citedby/)
+
+  15. [Chen WH](https://profiles.viictr.org/profile/23478750), [Pollet J](https://profiles.viictr.org/profile/16102688), [Strych U](https://profiles.viictr.org/profile/8065526), Lee J, Liu Z, Kundu RT, Versteeg L, Villar MJ, Adhikari R, Wei J, [Poveda C](https://profiles.viictr.org/profile/37834418), Keegan B, Bailey AO, Chen YL, Gillespie PM, **Kimata JT** , [Zhan B](https://profiles.viictr.org/profile/266656), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). Yeast-expressed recombinant SARS-CoV-2 receptor binding domain RBD203-N1 as a COVID-19 protein vaccine candidate. Protein Expr Purif. 2022 02; 190:106003. PMID: [34688919](//www.ncbi.nlm.nih.gov/pubmed/34688919); PMCID: [PMC8529586](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8529586).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34688919/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  16. Ye X, Angelo LS, [Nicholson EG](https://profiles.viictr.org/profile/6714288), Iwuchukwu OP, Cabral de Rezende W, Rajan A, Aideyan LO, McBride TJ, Bond N, Santarcangelo P, Rayford YJ, Ferlic-Stark L, Fragoso S, Momin Z, Liu H, Truong K, Lopez B, [Conner ME](https://profiles.viictr.org/profile/268086), [Rice AP](https://profiles.viictr.org/profile/269748), **Kimata JT** , [Avadhanula V](https://profiles.viictr.org/profile/28999033), [Piedra PA](https://profiles.viictr.org/profile/268114). Serum IgG anti-SARS-CoV-2 Binding Antibody Level Is Strongly Associated With IgA and Functional Antibody Levels in Adults Infected With SARS-CoV-2. Front Immunol. 2021; 12:693462. PMID: [34691016](//www.ncbi.nlm.nih.gov/pubmed/34691016); PMCID: [PMC8531527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8531527).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34691016/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  17. [Rice AP](https://profiles.viictr.org/profile/269748), **Kimata JT**. SARS-CoV-2 likely targets cellular PDZ proteins: a common tactic of pathogenic viruses. Future Virol. 2021 May. PMID: [34035830](//www.ncbi.nlm.nih.gov/pubmed/34035830); PMCID: [PMC8132619](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8132619).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34035830/citedby/)
+
+  18. [Pollet J](https://profiles.viictr.org/profile/16102688), [Chen WH](https://profiles.viictr.org/profile/23478750), Versteeg L, Keegan B, [Zhan B](https://profiles.viictr.org/profile/266656), Wei J, Liu Z, Lee J, Kundu R, Adhikari R, [Poveda C](https://profiles.viictr.org/profile/37834418), Villar MJ, de Araujo Leao AC, Altieri Rivera J, Momin Z, Gillespie PM, **Kimata JT** , [Strych U](https://profiles.viictr.org/profile/8065526), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). SARS-CoV-2 RBD219-N1C1: A yeast-expressed SARS-CoV-2 recombinant receptor-binding domain candidate vaccine stimulates virus neutralizing antibodies and T-cell immunity in mice. Hum Vaccin Immunother. 2021 08 03; 17(8):2356-2366. PMID: [33847226](//www.ncbi.nlm.nih.gov/pubmed/33847226); PMCID: [PMC8054496](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8054496).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33847226/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  19. [Pollet J](https://profiles.viictr.org/profile/16102688), [Chen WH](https://profiles.viictr.org/profile/23478750), Versteeg L, Keegan B, Zhan B, Wei J, Liu Z, Lee J, Kundu R, Adhikari R, [Poveda C](https://profiles.viictr.org/profile/37834418), Villar MJ, de Araujo Leao AC, Rivera JA, Momin Z, Gillespie PM, **Kimata JT** , [Strych U](https://profiles.viictr.org/profile/8065526), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Bottazzi ME](https://profiles.viictr.org/profile/269365). SARS-CoV-2 RBD219-N1C1: A Yeast-Expressed SARS-CoV-2 Recombinant Receptor-Binding Domain Candidate Vaccine Stimulates Virus Neutralizing Antibodies and T-cell Immunity in Mice. bioRxiv. 2021 Feb 09. PMID: [33173864](//www.ncbi.nlm.nih.gov/pubmed/33173864); PMCID: [PMC7654852](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7654852).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33173864/citedby/)
+
+  20. Spencer Clinton JL, Tran LL, Vogt MB, [Rowley DR](https://profiles.viictr.org/profile/269631), **Kimata JT** , [Rico-Hesse R](https://profiles.viictr.org/profile/267498). IP-10 and CXCR3 signaling inhibit Zika virus replication in human prostate cells. PLoS One. 2020; 15(12):e0244587. PMID: [33378361](//www.ncbi.nlm.nih.gov/pubmed/33378361); PMCID: [PMC7773246](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7773246).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  21. Pons-Faudoa FP, Sizovs A, [Shelton KA](https://profiles.viictr.org/profile/17440134), Momin Z, Niles JA, Bushman LR, Xu J, Chua CYX, Nichols JE, Demaria S, [Ittmann MM](https://profiles.viictr.org/profile/269566), Hawkins T, Rooney JF, Marzinke MA, **Kimata JT** , Anderson PL, [Nehete PN](https://profiles.viictr.org/profile/12583686), Arduino RC, Ferrari M, Sastry KJ, Grattoni A. Preventive efficacy of a tenofovir alafenamide fumarate nanofluidic implant in SHIV-challenged nonhuman primates. Adv Ther (Weinh). 2021 Mar; 4(3). PMID: [33997267](//www.ncbi.nlm.nih.gov/pubmed/33997267); PMCID: [PMC8114879](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8114879).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33997267/citedby/)
+
+  22. Li M, Liu W, Bauch T, [Graviss EA](https://profiles.viictr.org/profile/267536), Arduino RC, **Kimata JT** , Chen M, Wang J. Author Correction: Clearance of HIV infection by selective elimination of host cells capable of producing HIV. Nat Commun. 2020 Dec 02; 11(1):6281. PMID: [33268775](//www.ncbi.nlm.nih.gov/pubmed/33268775); PMCID: [PMC7710738](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7710738).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+  23. Pons-Faudoa FP, Trani ND, Sizovs A, [Shelton KA](https://profiles.viictr.org/profile/17440134), Momin Z, Bushman LR, Xu J, [Lewis DE](https://profiles.viictr.org/profile/267982), Demaria S, Hawkins T, Rooney JF, Marzinke MA, **Kimata JT** , Anderson PL, [Nehete PN](https://profiles.viictr.org/profile/12583686), Arduino RC, Sastry KJ, Grattoni A. Viral load Reduction in SHIV-Positive Nonhuman Primates via Long-Acting Subcutaneous Tenofovir Alafenamide Fumarate Release from a Nanofluidic Implant. Pharmaceutics. 2020 Oct 17; 12(10). PMID: [33080776](//www.ncbi.nlm.nih.gov/pubmed/33080776); PMCID: [PMC7590004](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7590004).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33080776/citedby/)
+
+  24. [Hosoki K](https://profiles.viictr.org/profile/28999214), **Kimata JT** , Chakraborty A, [Sur S](https://profiles.viictr.org/profile/28999143). Reply. J Allergy Clin Immunol. 2020 12; 146(6):1455-1456. PMID: [33077246](//www.ncbi.nlm.nih.gov/pubmed/33077246); PMCID: [PMC7522701](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7522701).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  25. Li M, Liu W, Bauch T, [Graviss EA](https://profiles.viictr.org/profile/267536), Arduino RC, **Kimata JT** , [Chen M](https://profiles.viictr.org/profile/268386), Wang J. Clearance of HIV infection by selective elimination of host cells capable of producing HIV. Nat Commun. 2020 08 13; 11(1):4051. PMID: [32792548](//www.ncbi.nlm.nih.gov/pubmed/32792548); PMCID: [PMC7426846](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7426846).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32792548/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  26. Thippeshappa R, **Kimata JT** , Kaushal D. Toward a Macaque Model of HIV-1 Infection: Roadblocks, Progress, and Future Strategies. Front Microbiol. 2020; 11:882. PMID: [32477302](//www.ncbi.nlm.nih.gov/pubmed/32477302); PMCID: [PMC7237640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7237640).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32477302/citedby/)
+
+  27. Utay NS, Vigil KJ, Somasunderam A, Smulevitz B, Chiadika S, Wolf DS, **Kimata JT** , Arduino RC, Aulicino PC. Timing of Antiretroviral Therapy Initiation Determines Rectal Natural Killer Cell Populations. AIDS Res Hum Retroviruses. 2020 04; 36(4):314-323. PMID: [31838858](//www.ncbi.nlm.nih.gov/pubmed/31838858); PMCID: [PMC7185341](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7185341).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31838858/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCells
+
+  28. Liu H, Hu PW, Budhiraja S, Misra A, Couturier J, [Lloyd RE](https://profiles.viictr.org/profile/269833), [Lewis DE](https://profiles.viictr.org/profile/267982), **Kimata JT** , [Rice AP](https://profiles.viictr.org/profile/269748). PACS1 is an HIV-1 cofactor that functions in Rev-mediated nuclear export of viral RNA. Virology. 2020 01 15; 540:88-96. PMID: [31759187](//www.ncbi.nlm.nih.gov/pubmed/31759187); PMCID: [PMC7335006](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7335006).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31759187/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  29. Coggins SA, Holler JM, **Kimata JT** , Kim DH, Schinazi RF, Kim B. Efficient pre-catalytic conformational change of reverse transcriptases from SAMHD1 non-counteracting primate lentiviruses during dNTP incorporation. Virology. 2019 11; 537:36-44. PMID: [31442614](//www.ncbi.nlm.nih.gov/pubmed/31442614); PMCID: [PMC6901729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6901729).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31442614/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  30. Zou J, Li W, Misra A, Yue F, Song K, Chen Q, Guo G, Yi J, **Kimata JT** , Liu L. Correction: The viral restriction factor Tetherin prevents leucine-rich pentatricopeptide repeat-containing protein (LRPPRC) from association with Beclin 1 and B-cell CLL/lymphoma 2 (Bcl-2) and enhances autophagy and mitophagy. J Biol Chem. 2019 Mar 29; 294(13):5211. PMID: [30926759](//www.ncbi.nlm.nih.gov/pubmed/30926759); PMCID: [PMC6442061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6442061).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30926759/citedby/) Fields:
+
+Bio Biochemistry
+
+  31. Misra A, Gleeson E, Wang W, Ye C, Zhou P, **Kimata JT**. Glycosyl-Phosphatidylinositol-Anchored Anti-HIV Env Single-Chain Variable Fragments Interfere with HIV-1 Env Processing and Viral Infectivity. J Virol. 2018 04 01; 92(7). PMID: [29321330](//www.ncbi.nlm.nih.gov/pubmed/29321330); PMCID: [PMC5972903](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5972903).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29321330/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  32. Auclair S, Liu F, Niu Q, Hou W, Churchyard G, Morgan C, Frahm N, Nitayaphan S, Pitisuthithum P, Rerks-Ngarm S, **Kimata JT** , Soong L, Franchini G, Robb M, Kim J, Michael N, Hu H. Distinct susceptibility of HIV vaccine vector-induced CD4 T cells to HIV infection. PLoS Pathog. 2018 02; 14(2):e1006888. PMID: [29474461](//www.ncbi.nlm.nih.gov/pubmed/29474461); PMCID: [PMC5841825](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5841825).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29474461/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  33. Spencer JL, Lahon A, Tran LL, Arya RP, [Kneubehl AR](https://profiles.viictr.org/profile/14348391), Vogt MB, Xavier D, [Rowley DR](https://profiles.viictr.org/profile/269631), **Kimata JT** , [Rico-Hesse RR](https://profiles.viictr.org/profile/267498). Replication of Zika Virus in Human Prostate Cells: A Potential Source of Sexually Transmitted Virus. J Infect Dis. 2018 01 30; 217(4):538-547. PMID: [28968863](//www.ncbi.nlm.nih.gov/pubmed/28968863); PMCID: [PMC5853941](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5853941).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28968863/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  34. Wu B, Ouyang Z, Lyon CJ, Zhang W, Clift T, Bone CR, Li B, Zhao Z, **Kimata JT** , Yu XG, Hu Y. Plasma Levels of Complement Factor I and C4b Peptides Are Associated with HIV Suppression. ACS Infect Dis. 2017 12 08; 3(12):880-885. PMID: [28862830](//www.ncbi.nlm.nih.gov/pubmed/28862830); PMCID: [PMC5727467](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5727467).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28862830/citedby/) Fields:
+
+Ant Anti-Infective AgentsDru Drug TherapyMic Microbiology
+
+Translation:Humans
+
+  35. He H, Xue J, Wang W, Liu L, Ye C, Cong Z, **Kimata JT** , Qin C, Zhou P. Efficient Transduction of Human and Rhesus Macaque Primary T Cells by a Modified Human Immunodeficiency Virus Type 1-Based Lentiviral Vector. Hum Gene Ther. 2017 03; 28(3):271-285. PMID: [28042947](//www.ncbi.nlm.nih.gov/pubmed/28042947); PMCID: [PMC5749049](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5749049).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28042947/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  36. Liu L, Wang W, Matz J, Ye C, Bracq L, Delon J, **Kimata JT** , Chen Z, Benichou S, Zhou P. The Glycosylphosphatidylinositol-Anchored Variable Region of Llama Heavy Chain-Only Antibody JM4 Efficiently Blocks both Cell-Free and T Cell-T Cell Transmission of Human Immunodeficiency Virus Type 1. J Virol. 2016 Dec 01; 90(23):10642-10659. PMID: [27654286](//www.ncbi.nlm.nih.gov/pubmed/27654286); PMCID: [PMC5110191](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5110191).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27654286/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  37. **Kimata JT** , [Rice AP](https://profiles.viictr.org/profile/269748), Wang J. Challenges and strategies for the eradication of the HIV reservoir. Curr Opin Immunol. 2016 10; 42:65-70. PMID: [27288651](//www.ncbi.nlm.nih.gov/pubmed/27288651); PMCID: [PMC5086301](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5086301).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27288651/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  38. Liu L, Wen M, Zhu Q, **Kimata JT** , Zhou P. Glycosyl Phosphatidylinositol-Anchored C34 Peptide Derived From Human Immunodeficiency Virus Type 1 Gp41 Is a Potent Entry Inhibitor. J Neuroimmune Pharmacol. 2016 09; 11(3):601-10. PMID: [27155865](//www.ncbi.nlm.nih.gov/pubmed/27155865); PMCID: [PMC5577817](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5577817).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27155865/citedby/) Fields:
+
+All Allergy and ImmunologyNeu NeurologyPha Pharmacology
+
+Translation:HumansCells
+
+  39. [Rice AP](https://profiles.viictr.org/profile/269748), **Kimata JT**. Subversion of Cell Cycle Regulatory Mechanisms by HIV. Cell Host Microbe. 2015 Jun 10; 17(6):736-40. PMID: [26067601](//www.ncbi.nlm.nih.gov/pubmed/26067601); PMCID: [PMC4476643](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4476643).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26067601/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  40. Zou J, Li W, Misra A, Yue F, Song K, Chen Q, Guo G, Yi J, **Kimata JT** , Liu L. The viral restriction factor tetherin prevents leucine-rich pentatricopeptide repeat-containing protein (LRPPRC) from association with beclin 1 and B-cell CLL/lymphoma 2 (Bcl-2) and enhances autophagy and mitophagy. J Biol Chem. 2015 Mar 13; 290(11):7269-79. PMID: [25631043](//www.ncbi.nlm.nih.gov/pubmed/25631043); PMCID: [PMC4358145](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4358145).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25631043/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  41. Wang W, Ye C, Liu J, Zhang D, **Kimata JT** , Zhou P. CCR5 gene disruption via lentiviral vectors expressing Cas9 and single guided RNA renders cells resistant to HIV-1 infection. PLoS One. 2014; 9(12):e115987. PMID: [25541967](//www.ncbi.nlm.nih.gov/pubmed/25541967); PMCID: [PMC4277423](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4277423).
+
+Citations:
+[98](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25541967/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  42. **Kimata JT**. Stepping toward a macaque model of HIV-1 induced AIDS. Viruses. 2014 Sep 25; 6(9):3643-51. PMID: [25256394](//www.ncbi.nlm.nih.gov/pubmed/25256394); PMCID: [PMC4189042](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4189042).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25256394/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  43. Couturier J, Hutchison AT, Medina MA, Gingaras C, Urvil P, Yu X, Nguyen C, Mahale P, Lin L, Kozinetz CA, Schmitz JE, **Kimata JT** , [Savidge TC](https://profiles.viictr.org/profile/270090), [Lewis DE](https://profiles.viictr.org/profile/267982). HIV replication in conjunction with granzyme B production by CCR5+ memory CD4 T cells: Implications for bystander cell and tissue pathologies. Virology. 2014 Aug; 462-463:175-88. PMID: [24999042](//www.ncbi.nlm.nih.gov/pubmed/24999042); PMCID: [PMC4158656](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4158656).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24999042/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  44. Misra A, Thippeshappa R, **Kimata JT**. Macaques as model hosts for studies of HIV-1 infection. Front Microbiol. 2013; 4:176. PMID: [23825473](//www.ncbi.nlm.nih.gov/pubmed/23825473); PMCID: [PMC3695370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3695370).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23825473/citedby/)
+
+  45. Thippeshappa R, Ruan H, Wang W, Zhou P, **Kimata JT**. A variant macaque-tropic human immunodeficiency virus type 1 is resistant to alpha interferon-induced restriction in pig-tailed macaque CD4+ T cells. J Virol. 2013 Jun; 87(12):6678-92. PMID: [23552412](//www.ncbi.nlm.nih.gov/pubmed/23552412); PMCID: [PMC3676116](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3676116).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23552412/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  46. Liu L, Wang W, Yang L, Ren H, **Kimata JT** , Zhou P. Trimeric glycosylphosphatidylinositol-anchored HCDR3 of broadly neutralizing antibody PG16 is a potent HIV-1 entry inhibitor. J Virol. 2013 Feb; 87(3):1899-905. PMID: [23152526](//www.ncbi.nlm.nih.gov/pubmed/23152526); PMCID: [PMC3554188](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3554188).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23152526/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  47. Thippeshappa R, Ruan H, **Kimata JT**. Breaking Barriers to an AIDS Model with Macaque-Tropic HIV-1 Derivatives. Biology (Basel). 2012 May 12; 1(2):134-64. PMID: [23336082](//www.ncbi.nlm.nih.gov/pubmed/23336082); PMCID: [PMC3546514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3546514).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23336082/citedby/)
+
+  48. Belshan M, **Kimata JT** , Brown C, Cheng X, McCulley A, Larsen A, Thippeshappa R, Hodara V, Giavedoni L, Hirsch V, Ratner L. Vpx is critical for SIVmne infection of pigtail macaques. Retrovirology. 2012 Apr 24; 9:32. PMID: [22531456](//www.ncbi.nlm.nih.gov/pubmed/22531456); PMCID: [PMC3353869](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3353869).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22531456/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  49. Gingaras C, Danielson BP, Vigil KJ, Vey E, Arduino RC, **Kimata JT**. Absence of XMRV in peripheral blood mononuclear cells of ARV-treatment na?ve HIV-1 infected and HIV-1/HCV coinfected individuals and blood donors. PLoS One. 2012; 7(2):e31398. PMID: [22348082](//www.ncbi.nlm.nih.gov/pubmed/22348082); PMCID: [PMC3278456](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3278456).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22348082/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  50. Liu L, Wen M, Wang W, Wang S, Yang L, Liu Y, Qian M, Zhang L, Shao Y, **Kimata JT** , Zhou P. Potent and broad anti-HIV-1 activity exhibited by a glycosyl-phosphatidylinositol-anchored peptide derived from the CDR H3 of broadly neutralizing antibody PG16. J Virol. 2011 Sep; 85(17):8467-76. PMID: [21715497](//www.ncbi.nlm.nih.gov/pubmed/21715497); PMCID: [PMC3165811](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3165811).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21715497/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  51. Thippeshappa R, Polacino P, Yu Kimata MT, Siwak EB, Anderson D, Wang W, Sherwood L, Arora R, Wen M, Zhou P, Hu SL, **Kimata JT**. Vif substitution enables persistent infection of pig-tailed macaques by human immunodeficiency virus type 1. J Virol. 2011 Apr; 85(8):3767-79. PMID: [21289128](//www.ncbi.nlm.nih.gov/pubmed/21289128); PMCID: [PMC3126129](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3126129).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21289128/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  52. Biesinger T, White R, Yu Kimata MT, Wilson BK, Allan JS, **Kimata JT**. Relative replication capacity of phenotypic SIV variants during primary infections differs with route of inoculation. Retrovirology. 2010 Oct 13; 7:88. PMID: [20942954](//www.ncbi.nlm.nih.gov/pubmed/20942954); PMCID: [PMC2964591](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2964591).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20942954/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  53. Danielson BP, Ayala GE, **Kimata JT**. Detection of xenotropic murine leukemia virus-related virus in normal and tumor tissue of patients from the southern United States with prostate cancer is dependent on specific polymerase chain reaction conditions. J Infect Dis. 2010 Nov 15; 202(10):1470-7. PMID: [20936978](//www.ncbi.nlm.nih.gov/pubmed/20936978); PMCID: [PMC3058280](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3058280).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20936978/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  54. Wen M, Arora R, Wang H, Liu L, **Kimata JT** , Zhou P. GPI-anchored single chain Fv--an effective way to capture transiently-exposed neutralization epitopes on HIV-1 envelope spike. Retrovirology. 2010 Oct 06; 7:79. PMID: [20923574](//www.ncbi.nlm.nih.gov/pubmed/20923574); PMCID: [PMC2959034](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2959034).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20923574/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  55. Arora R, Bull L, Siwak EB, Thippeshappa R, Arduino RC, **Kimata JT**. Dendritic cell-mediated HIV-1 infection of T cells demonstrates a direct relationship to plasma viral RNA levels. J Acquir Immune Defic Syndr. 2010 Jun; 54(2):115-21. PMID: [20386455](//www.ncbi.nlm.nih.gov/pubmed/20386455); PMCID: [PMC3086406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3086406).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20386455/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCells
+
+  56. Graham SM, Holte S, **Kimata JT** , Wener MH, Overbaugh J. A decrease in albumin in early SIV infection is related to viral pathogenicity. AIDS Res Hum Retroviruses. 2009 Apr; 25(4):433-40. PMID: [19320603](//www.ncbi.nlm.nih.gov/pubmed/19320603); PMCID: [PMC2768648](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2768648).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19320603/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:AnimalsCells
+
+  57. Eastman D, Piantadosi A, Wu X, Forthal DN, Landucci G, **Kimata JT** , Overbaugh J. Heavily glycosylated, highly fit SIVMne variants continue to diversify and undergo selection after transmission to a new host and they elicit early antibody dependent cellular responses but delayed neutralizing antibody responses. Virol J. 2008 Aug 04; 5:90. PMID: [18680596](//www.ncbi.nlm.nih.gov/pubmed/18680596); PMCID: [PMC2518139](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2518139).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18680596/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  58. Biesinger T, **Kimata JT**. HIV-1 Transmission, Replication Fitness and Disease Progression. Virology (Auckl). 2008 Jul 14; 2008(1):49-63. PMID: [20354593](//www.ncbi.nlm.nih.gov/pubmed/20354593); PMCID: [PMC2846839](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2846839).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20354593/citedby/)
+
+  59. Biesinger T, Yu Kimata MT, **Kimata JT**. Changes in simian immunodeficiency virus reverse transcriptase alleles that appear during infection of macaques enhance infectivity and replication in CD4+ T cells. Virology. 2008 Jan 05; 370(1):184-93. PMID: [17904609](//www.ncbi.nlm.nih.gov/pubmed/17904609); PMCID: [PMC2196132](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2196132).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17904609/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  60. Ambrose Z, Palmer S, Boltz VF, Kearney M, Larsen K, Polacino P, Flanary L, Oswald K, Piatak M, Smedley J, Shao W, Bischofberger N, Maldarelli F, **Kimata JT** , Mellors JW, Hu SL, Coffin JM, Lifson JD, KewalRamani VN. Suppression of viremia and evolution of human immunodeficiency virus type 1 drug resistance in a macaque model for antiretroviral therapy. J Virol. 2007 Nov; 81(22):12145-55. PMID: [17855539](//www.ncbi.nlm.nih.gov/pubmed/17855539); PMCID: [PMC2169021](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2169021).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17855539/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  61. Polacino P, Cleveland B, Zhu Y, **Kimata JT** , Overbaugh J, Anderson D, Hu SL. Immunogenicity and protective efficacy of Gag/Pol/Env vaccines derived from temporal isolates of SIVmne against cognate virus challenge. J Med Primatol. 2007 Aug; 36(4-5):254-65. PMID: [17669214](//www.ncbi.nlm.nih.gov/pubmed/17669214).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17669214/citedby/) Fields:
+
+Zoo Zoology
+
+Translation:AnimalsCells
+
+  62. Biggins JE, Biesinger T, Yu Kimata MT, Arora R, **Kimata JT**. ICAM-3 influences human immunodeficiency virus type 1 replication in CD4(+) T cells independent of DC-SIGN-mediated transmission. Virology. 2007 Aug 01; 364(2):383-94. PMID: [17434553](//www.ncbi.nlm.nih.gov/pubmed/17434553); PMCID: [PMC1973158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1973158).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17434553/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  63. Lee SJ, Arora R, Bull LM, Arduino RC, Garza L, Allan J, **Kimata JT** , Zhou P. A nonneutralizing anti-HIV Type 1 antibody turns into a broad neutralizing antibody when expressed on the surface of HIV type 1-susceptible cells. II. Inhibition of HIV type 1 captured and transferred by DC-SIGN. AIDS Res Hum Retroviruses. 2006 Sep; 22(9):874-83. PMID: [16989613](//www.ncbi.nlm.nih.gov/pubmed/16989613).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16989613/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCells
+
+  64. Liu H, Dow EC, Arora R, **Kimata JT** , Bull LM, Arduino RC, [Rice AP](https://profiles.viictr.org/profile/269748). Integration of human immunodeficiency virus type 1 in untreated infection occurs preferentially within genes. J Virol. 2006 Aug; 80(15):7765-8. PMID: [16840357](//www.ncbi.nlm.nih.gov/pubmed/16840357); PMCID: [PMC1563729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1563729).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16840357/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  65. **Kimata JT**. HIV-1 fitness and disease progression: insights from the SIV-macaque model. Curr HIV Res. 2006 Jan; 4(1):65-77. PMID: [16454712](//www.ncbi.nlm.nih.gov/pubmed/16454712).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16454712/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansAnimalsCells
+
+  66. . Cellular co-factors and HIV-1 infection in vivo. Future Virology. 2006; 1(3):337-347. [View Publication](http://www.futuremedicine.com/doi/abs/10.2217/17460794.1.3.337).
+
+  67. **Kimata JT** , Wilson JM, Patel PG. The increased replicative capacity of a late-stage simian immunodeficiency virus mne variant is evident in macrophage- or dendritic cell-T-cell cocultures. Virology. 2004 Oct 01; 327(2):307-17. PMID: [15351218](//www.ncbi.nlm.nih.gov/pubmed/15351218).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15351218/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  68. Biggins JE, Yu Kimata MT, **Kimata JT**. Domains of macaque DC-SIGN essential for capture and transfer of simian immunodeficiency virus. Virology. 2004 Jun 20; 324(1):194-203. PMID: [15183066](//www.ncbi.nlm.nih.gov/pubmed/15183066).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15183066/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  69. Yu Kimata MT, Cella M, Biggins JE, Rorex C, White R, Hicks S, Wilson JM, Patel PG, Allan JS, Colonna M, **Kimata JT**. Capture and transfer of simian immunodeficiency virus by macaque dendritic cells is enhanced by DC-SIGN. J Virol. 2002 Dec; 76(23):11827-36. PMID: [12414925](//www.ncbi.nlm.nih.gov/pubmed/12414925); PMCID: [PMC136877](//www.ncbi.nlm.nih.gov/pmc/articles/PMC136877).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12414925/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  70. Patel PG, Yu Kimata MT, Biggins JE, Wilson JM, **Kimata JT**. Highly pathogenic simian immunodeficiency virus mne variants that emerge during the course of infection evolve enhanced infectivity and the ability to downregulate CD4 but not class I major histocompatibility complex antigens. J Virol. 2002 Jul; 76(13):6425-34. PMID: [12050354](//www.ncbi.nlm.nih.gov/pubmed/12050354); PMCID: [PMC136284](//www.ncbi.nlm.nih.gov/pmc/articles/PMC136284).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12050354/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  71. Baribaud F, Sparwasser T, Kimata MT, Choi YK, Haggarty BS, Ahmad N, Macfarlan T, Edwards TG, Leslie GJ, Arnason J, [Reinhart TA](https://profiles.viictr.org/profile/37834430), **Kimata JT** , Littman DR, Hoxie JA, Doms RW, P?hlmann S. Functional and antigenic characterization of human, rhesus macaque, pigtailed macaque, and murine DC-SIGN. J Virol. 2001 Nov; 75(21):10281-9. PMID: [11581396](//www.ncbi.nlm.nih.gov/pubmed/11581396); PMCID: [PMC114602](//www.ncbi.nlm.nih.gov/pmc/articles/PMC114602).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11581396/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  72. Diamond TL, **Kimata J** , Kim B. Identification of a simian immunodeficiency virus reverse transcriptase variant with enhanced replicational fidelity in the late stage of viral infection. J Biol Chem. 2001 Jun 29; 276(26):23624-31. PMID: [11325971](//www.ncbi.nlm.nih.gov/pubmed/11325971).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11325971/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  73. **Kimata JT** , Kuller L, Anderson DB, Dailey P, Overbaugh J. Emerging cytopathic and antigenic simian immunodeficiency virus variants influence AIDS progression. Nat Med. 1999 May; 5(5):535-41. PMID: [10229230](//www.ncbi.nlm.nih.gov/pubmed/10229230).
+
+Citations:
+[83](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10229230/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  74. **Kimata JT** , Gosink JJ, KewalRamani VN, Rudensey LM, Littman DR, Overbaugh J. Coreceptor specificity of temporal variants of simian immunodeficiency virus Mne. J Virol. 1999 Feb; 73(2):1655-60. PMID: [9882375](//www.ncbi.nlm.nih.gov/pubmed/9882375); PMCID: [PMC103994](//www.ncbi.nlm.nih.gov/pmc/articles/PMC103994).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9882375/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  75. **Kimata JT** , Mozaffarian A, Overbaugh J. A lymph node-derived cytopathic simian immunodeficiency virus Mne variant replicates in nonstimulated peripheral blood mononuclear cells. J Virol. 1998 Jan; 72(1):245-56. PMID: [9420221](//www.ncbi.nlm.nih.gov/pubmed/9420221); PMCID: [PMC109370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC109370).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9420221/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  76. Rudensey LM, **Kimata JT** , Long EM, Chackerian B, Overbaugh J. Changes in the extracellular envelope glycoprotein of variants that evolve during the course of simian immunodeficiency virus SIVMne infection affect neutralizing antibody recognition, syncytium formation, and macrophage tropism but not replication, cytopathicity, or CCR-5 coreceptor recognition. J Virol. 1998 Jan; 72(1):209-17. PMID: [9420217](//www.ncbi.nlm.nih.gov/pubmed/9420217); PMCID: [PMC109366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC109366).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9420217/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  77. **Kimata JT** , Overbaugh J. The cytopathicity of a simian immunodeficiency virus Mne variant is determined by mutations in Gag and Env. J Virol. 1997 Oct; 71(10):7629-39. PMID: [9311845](//www.ncbi.nlm.nih.gov/pubmed/9311845); PMCID: [PMC192112](//www.ncbi.nlm.nih.gov/pmc/articles/PMC192112).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9311845/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  78. Rudensey LM, **Kimata JT** , Benveniste RE, Overbaugh J. Progression to AIDS in macaques is associated with changes in the replication, tropism, and cytopathic properties of the simian immunodeficiency virus variant population. Virology. 1995 Mar 10; 207(2):528-42. PMID: [7886956](//www.ncbi.nlm.nih.gov/pubmed/7886956).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7886956/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  79. Grossman WJ, **Kimata JT** , Wong FH, Zutter M, Ley TJ, Ratner L. Development of leukemia in mice transgenic for the tax gene of human T-cell leukemia virus type I. Proc Natl Acad Sci U S A. 1995 Feb 14; 92(4):1057-61. PMID: [7862633](//www.ncbi.nlm.nih.gov/pubmed/7862633); PMCID: [PMC42636](//www.ncbi.nlm.nih.gov/pmc/articles/PMC42636).
+
+Citations:
+[153](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7862633/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  80. **Kimata JT** , Wong FH, Wang JJ, Ratner L. Construction and characterization of infectious human T-cell leukemia virus type 1 molecular clones. Virology. 1994 Nov 01; 204(2):656-64. PMID: [7941334](//www.ncbi.nlm.nih.gov/pubmed/7941334).
+
+Citations:
+[83](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7941334/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  81. **Kimata JT** , Wong FH, Ratner L. CD3-dependent lymphocyte activation by human T cell leukaemia virus type I-producing T cells. J Gen Virol. 1994 Sep; 75 ( Pt 9):2433-7. PMID: [7915756](//www.ncbi.nlm.nih.gov/pubmed/7915756).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7915756/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  82. **Kimata JT** , Palker TJ, Ratner L. The mitogenic activity of human T-cell leukemia virus type I is T-cell associated and requires the CD2/LFA-3 activation pathway. J Virol. 1993 Jun; 67(6):3134-41. PMID: [7684460](//www.ncbi.nlm.nih.gov/pubmed/7684460); PMCID: [PMC237651](//www.ncbi.nlm.nih.gov/pmc/articles/PMC237651).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7684460/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  83. **Kimata JT** , Ratner L. Temporal regulation of viral and cellular gene expression during human T-lymphotropic virus type I-mediated lymphocyte immortalization. J Virol. 1991 Aug; 65(8):4398-407. PMID: [2072456](//www.ncbi.nlm.nih.gov/pubmed/2072456); PMCID: [PMC248879](//www.ncbi.nlm.nih.gov/pmc/articles/PMC248879).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2072456/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  84. Bryant ML, Heuckeroth RO, **Kimata JT** , Ratner L, Gordon JI. Replication of human immunodeficiency virus 1 and Moloney murine leukemia virus is inhibited by different heteroatom-containing analogs of myristic acid. Proc Natl Acad Sci U S A. 1989 Nov; 86(22):8655-9. PMID: [2813417](//www.ncbi.nlm.nih.gov/pubmed/2813417); PMCID: [PMC298346](//www.ncbi.nlm.nih.gov/pmc/articles/PMC298346).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2813417/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  85. **Kimata JT** , Kaneshiro SA, Kwock DW, Nakamura S, Kaneshiro MM, Nakamura JM. A seroepidemiologic survey of human T-cell lymphotropic virus type I in two Hawaiian hematologic-oncologic practices. West J Med. 1989 Mar; 150(3):300-2. PMID: [2735036](//www.ncbi.nlm.nih.gov/pubmed/2735036); PMCID: [PMC1026451](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1026451).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2735036/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  86. Nakamura J, Kawahara K, Kwock D, **Kimata J** , Kaneshiro S, Nakamura S, Yanagihara E. HTLV-1 seroconversion in a 56-year-old Japanese woman undergoing chemotherapy for acute nonlymphocytic leukemia. Hawaii Med J. 1988 Jun; 47(6):269-70, 273. PMID: [2900228](//www.ncbi.nlm.nih.gov/pubmed/2900228).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2900228/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 81 publications over 27 distinct years, with a maximum of
+8 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|8&cht=bvs&chd=t:25,25,0,13,25,25,0,25,25,0,25,0,50,50,25,13,50,25,50,25,38,25,50,13,38,38,100,75,50,75,38&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 2  
+1995| 2  
+1997| 1  
+1998| 2  
+1999| 2  
+2001| 2  
+2002| 2  
+2004| 2  
+2006| 4  
+2007| 4  
+2008| 2  
+2009| 1  
+2010| 4  
+2011| 2  
+2012| 4  
+2013| 2  
+2014| 3  
+2015| 2  
+2016| 4  
+2017| 1  
+2018| 3  
+2019| 3  
+2020| 8  
+2021| 6  
+2022| 4  
+2023| 6  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+KIMATA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (328)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [HIV-1](https://profiles.viictr.org/profile/247997)
+  * [Simian Immunodeficiency Virus](https://profiles.viictr.org/profile/264950)
+  * [CD4-Positive T-Lymphocytes](https://profiles.viictr.org/profile/254563)
+  * [HIV Infections](https://profiles.viictr.org/profile/262151)
+  * [Virus Replication](https://profiles.viictr.org/profile/251569)
+
+[Explore](https://profiles.viictr.org/profile/268949/198)
+
+_
+
+Co-Authors (31)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [RICE, ANDREW](https://profiles.viictr.org/profile/269748)
+  * [POLLET, JEROEN](https://profiles.viictr.org/profile/16102688)
+  * [BOTTAZZI, MARIA](https://profiles.viictr.org/profile/269365)
+  * [Thimmiraju, Syamala](https://profiles.viictr.org/profile/35015443)
+  * [HOTEZ, PETER](https://profiles.viictr.org/profile/266166)
+
+[Explore](https://profiles.viictr.org/profile/268949/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HO, DAVID](https://profiles.viictr.org/profile/267305)
+  * [RICE, ANDREW](https://profiles.viictr.org/profile/269748)
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [GIORDANO, THOMAS](https://profiles.viictr.org/profile/269417)
+  * [KLOTMAN, PAUL](https://profiles.viictr.org/profile/266613)
+
+[Explore](https://profiles.viictr.org/profile/268949/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AVADHANULA, VASANTHI](https://profiles.viictr.org/profile/28999033)
+  * [BLUTT, SARAH](https://profiles.viictr.org/profile/266310)
+  * [JAVORNIK CREGEEN, SARA JOAN](https://profiles.viictr.org/profile/31330339)
+  * [KOTKAR, SHALAKA](https://profiles.viictr.org/profile/31729276)
+  * [SCHWIEBERT, REBECCA](https://profiles.viictr.org/profile/30445142)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CLARK, JUSTIN](https://profiles.viictr.org/profile/1826913)
+  * [COUCH, ROBERT](https://profiles.viictr.org/profile/267241)
+  * [MCNEES, ADRIENNE](https://profiles.viictr.org/profile/3009524)
+  * [RICO-HESSE, REBECCA](https://profiles.viictr.org/profile/267498)
+  * [ZECHIEDRICH, LYNN](https://profiles.viictr.org/profile/267006)
+
+_
+

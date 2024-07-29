@@ -1,0 +1,356 @@
+## AMY COURTNEY
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1102 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F6Ypr0bINZnhSIr0wHnBJ%2fqJIwQ%3d&rnd=9d1ff762-0bb3-4257-85e2-314e46c1d47d)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=9596407)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Steffin D](https://profiles.viictr.org/profile/14348352), Ghatwai N, Montalbano A, Rathi P, **Courtney AN** , [Arnett AB](https://profiles.viictr.org/profile/34774547), Fleurence J, Sweidan R, Wang T, Zhang H, [Masand P](https://profiles.viictr.org/profile/269955), Maris JM, Martinez D, Pogoriler J, Varadarajan N, Thakkar SG, Lyon D, Lapteva N, [Mei Z](https://profiles.viictr.org/profile/267093), Patel K, [Lopez-Terrada D](https://profiles.viictr.org/profile/266283), [Ramos C](https://profiles.viictr.org/profile/267038), [Lulla P](https://profiles.viictr.org/profile/3010220), [Armaghany T](https://profiles.viictr.org/profile/28999477), [Grilley BJ](https://profiles.viictr.org/profile/266987), Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), [Sumazin P](https://profiles.viictr.org/profile/2560346), [Heczey A](https://profiles.viictr.org/profile/268789). Interleukin-15-armored GPC3-CAR T cells for patients with solid cancers. Res Sq. 2024 Apr 03. PMID: [38645165](//www.ncbi.nlm.nih.gov/pubmed/38645165); PMCID: [PMC11030543](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11030543).
+
+Citations:
+
+  2. [Heczey A](https://profiles.viictr.org/profile/268789), Xu X, **Courtney AN** , [Tian G](https://profiles.viictr.org/profile/1826488), Barragan GA, Guo L, Amador CM, Ghatwai N, Rathi P, Wood MS, Li Y, Zhang C, Demberg T, Di Pierro EJ, [Sher AC](https://profiles.viictr.org/profile/14348256), Zhang H, Mehta B, Thakkar SG, [Grilley B](https://profiles.viictr.org/profile/266987), Wang T, Weiss BD, Montalbano A, Subramaniam M, Xu C, Sachar C, Wells DK, Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187). Author Correction: Anti-GD2 CAR-NKT cells in relapsed or refractory neuroblastoma: updated phase 1 trial interim results. Nat Med. 2024 Apr; 30(4):1210. PMID: [38195754](//www.ncbi.nlm.nih.gov/pubmed/38195754).
+
+Citations:  Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+  3. [Heczey A](https://profiles.viictr.org/profile/268789), [Xu X](https://profiles.viictr.org/profile/12328491), **Courtney AN** , [Tian G](https://profiles.viictr.org/profile/1826488), Barragan GA, Guo L, Amador CM, Ghatwai N, Rathi P, Wood MS, Li Y, Zhang C, Demberg T, Di Pierro EJ, [Sher AC](https://profiles.viictr.org/profile/14348256), Zhang H, Mehta B, Thakkar SG, [Grilley B](https://profiles.viictr.org/profile/266987), Wang T, Weiss BD, Montalbano A, Subramaniam M, Xu C, Sachar C, Wells DK, Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187). Anti-GD2 CAR-NKT cells in relapsed or refractory neuroblastoma: updated phase 1 trial interim results. Nat Med. 2023 Jun; 29(6):1379-1388. PMID: [37188782](//www.ncbi.nlm.nih.gov/pubmed/37188782).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37188782/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  4. Tomolonis JA, [Xu X](https://profiles.viictr.org/profile/12328491), [Dholakia KH](https://profiles.viictr.org/profile/31168801), Zhang C, Guo L, **Courtney AN** , Wang S, Balzeau J, Barrag?n GA, [Tian G](https://profiles.viictr.org/profile/1826488), Di Pierro EJ, [Metelitsa LS](https://profiles.viictr.org/profile/266187). Interaction between tumor cell TNFR2 and monocyte membrane-bound TNF-a triggers tumorigenic inflammation in neuroblastoma. J Immunother Cancer. 2023 03; 11(3). PMID: [36882225](//www.ncbi.nlm.nih.gov/pubmed/36882225); PMCID: [PMC10008329](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10008329).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36882225/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  5. **Courtney AN** , [Tian G](https://profiles.viictr.org/profile/1826488), [Metelitsa LS](https://profiles.viictr.org/profile/266187). Natural killer T cells and other innate-like T?lymphocytes as emerging platforms for allogeneic cancer cell therapy. Blood. 2023 02 23; 141(8):869-876. PMID: [36347021](//www.ncbi.nlm.nih.gov/pubmed/36347021); PMCID: [PMC10023720](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10023720).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36347021/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  6. Ngai H, Barragan GA, [Tian G](https://profiles.viictr.org/profile/1826488), Balzeau JC, Zhang C, **Courtney AN** , Guo L, [Xu X](https://profiles.viictr.org/profile/12328491), Wood MS, Drabek JM, Demberg T, [Sands CM](https://profiles.viictr.org/profile/37750009), Chauvin-Fleurence CN, Di Pierro EJ, [Rosen JM](https://profiles.viictr.org/profile/267640), [Metelitsa LS](https://profiles.viictr.org/profile/266187). LEF1 Drives a Central Memory Program and Supports Antitumor Activity of Natural Killer T Cells. Cancer Immunol Res. 2023 02 03; 11(2):171-183. PMID: [36484736](//www.ncbi.nlm.nih.gov/pubmed/36484736); PMCID: [PMC9898189](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9898189).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36484736/citedby/) Fields:
+
+All Allergy and ImmunologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  7. [Starosolski Z](https://profiles.viictr.org/profile/270164), **Courtney AN** , Srivastava M, Guo L, Stupin I, [Metelitsa LS](https://profiles.viictr.org/profile/266187), [Annapragada A](https://profiles.viictr.org/profile/269845), [Ghaghada KB](https://profiles.viictr.org/profile/268527). A Nanoradiomics Approach for Differentiation of Tumors Based on Tumor-Associated Macrophage Burden. Contrast Media Mol Imaging. 2021; 2021:6641384. PMID: [34220380](//www.ncbi.nlm.nih.gov/pubmed/34220380); PMCID: [PMC8216795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8216795).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34220380/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansAnimalsCells
+
+  8. [Heczey A](https://profiles.viictr.org/profile/268789), **Courtney AN** , Montalbano A, Robinson S, Liu K, Li M, Ghatwai N, Dakhova O, Liu B, Raveh-Sadka T, Chauvin-Fleurence CN, [Xu X](https://profiles.viictr.org/profile/12328491), Ngai H, Di Pierro EJ, Savoldo B, Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187). Anti-GD2 CAR-NKT cells in patients with relapsed or refractory neuroblastoma: an interim analysis. Nat Med. 2020 11; 26(11):1686-1690. PMID: [33046868](//www.ncbi.nlm.nih.gov/pubmed/33046868).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33046868/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansCellsCTClinical Trials
+
+  9. Batra SA, Rathi P, Guo L, **Courtney AN** , Fleurence J, Balzeau J, Shaik RS, Nguyen TP, Wu MF, Bulsara S, [Mamonkin M](https://profiles.viictr.org/profile/1826306), [Metelitsa LS](https://profiles.viictr.org/profile/266187), [Heczey A](https://profiles.viictr.org/profile/268789). Glypican-3-Specific CAR T Cells Coexpressing IL15 and IL21 Have Superior Expansion and Antitumor Activity against Hepatocellular Carcinoma. Cancer Immunol Res. 2020 03; 8(3):309-320. PMID: [31953246](//www.ncbi.nlm.nih.gov/pubmed/31953246); PMCID: [PMC10765595](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10765595).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31953246/citedby/) Fields:
+
+All Allergy and ImmunologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  10. [Xu X](https://profiles.viictr.org/profile/12328491), Huang W, [Heczey A](https://profiles.viictr.org/profile/268789), Liu D, Guo L, Wood M, Jin J, **Courtney AN** , Liu B, Di Pierro EJ, Hicks J, Barragan GA, Ngai H, Chen Y, Savoldo B, Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187). NKT Cells Coexpressing a GD2-Specific Chimeric Antigen Receptor and IL15 Show Enhanced In Vivo Persistence and Antitumor Activity against Neuroblastoma. Clin Cancer Res. 2019 12 01; 25(23):7126-7138. PMID: [31484667](//www.ncbi.nlm.nih.gov/pubmed/31484667); PMCID: [PMC6891170](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6891170).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31484667/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  11. Ngai H, [Tian G](https://profiles.viictr.org/profile/1826488), **Courtney AN** , Ravari SB, Guo L, Liu B, Jin J, Shen ET, Di Pierro EJ, [Metelitsa LS](https://profiles.viictr.org/profile/266187). IL-21 Selectively Protects CD62L+ NKT Cells and Enhances Their Effector Functions for Adoptive Immunotherapy. J Immunol. 2018 10 01; 201(7):2141-2153. PMID: [30111631](//www.ncbi.nlm.nih.gov/pubmed/30111631); PMCID: [PMC6143411](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6143411).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30111631/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  12. [Tian G](https://profiles.viictr.org/profile/1826488), **Courtney AN** , Jena B, [Heczey A](https://profiles.viictr.org/profile/268789), Liu D, Marinova E, Guo L, [Xu X](https://profiles.viictr.org/profile/12328491), [Torikai H](https://profiles.viictr.org/profile/17439996), Mo Q, Dotti G, Cooper LJ, [Metelitsa LS](https://profiles.viictr.org/profile/266187). CD62L+ NKT cells have prolonged persistence and antitumor activity in vivo. J Clin Invest. 2016 06 01; 126(6):2341-55. PMID: [27183388](//www.ncbi.nlm.nih.gov/pubmed/27183388); PMCID: [PMC4887157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4887157).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27183388/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  13. [Xu X](https://profiles.viictr.org/profile/12328491), Guo L, Gao X, **Courtney AN** , Kurbanov S, Liu D, [Tian G](https://profiles.viictr.org/profile/1826488), Manuel ER, Diamond DJ, [Metelitsa LS](https://profiles.viictr.org/profile/266187), Hegazy WA, Hensel M. Effective cancer vaccine platform based on attenuated salmonella and a type III secretion system. Cancer Res. 2014 Nov 01; 74(21):6260-70. PMID: [25213323](//www.ncbi.nlm.nih.gov/pubmed/25213323); PMCID: [PMC4216746](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4216746).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25213323/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  14. [Heczey A](https://profiles.viictr.org/profile/268789), Liu D, [Tian G](https://profiles.viictr.org/profile/1826488), **Courtney AN** , Wei J, Marinova E, Gao X, Guo L, Yvon E, Hicks J, [Liu H](https://profiles.viictr.org/profile/265543), Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187). Invariant NKT cells with chimeric antigen receptor provide a novel platform for safe and effective cancer immunotherapy. Blood. 2014 Oct 30; 124(18):2824-33. PMID: [25049283](//www.ncbi.nlm.nih.gov/pubmed/25049283); PMCID: [PMC4215313](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215313).
+
+Citations:
+[113](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25049283/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  15. Hsu DM, Agarwal S, Benham A, [Coarfa C](https://profiles.viictr.org/profile/265668), Trahan DN, Chen Z, Stowers PN, **Courtney AN** , Lakoma A, [Barbieri E](https://profiles.viictr.org/profile/270157), [Metelitsa LS](https://profiles.viictr.org/profile/266187), [Gunaratne P](https://profiles.viictr.org/profile/268142), Kim ES, Shohet JM. G-CSF receptor positive neuroblastoma subpopulations are enriched in chemotherapy-resistant or relapsed tumors and are highly tumorigenic. Cancer Res. 2013 Jul 01; 73(13):4134-46. PMID: [23687340](//www.ncbi.nlm.nih.gov/pubmed/23687340); PMCID: [PMC4298227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4298227).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23687340/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  16. Liu Z, **Courtney AN** , [Metelitsa LS](https://profiles.viictr.org/profile/266187), Bittman R. C-Glycosphingolipids with an exo-methylene substituent: stereocontrolled synthesis and immunostimulation of mouse and human natural killer T lymphocytes. Chembiochem. 2012 Aug 13; 13(12):1733-7. PMID: [22782839](//www.ncbi.nlm.nih.gov/pubmed/22782839); PMCID: [PMC3438909](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3438909).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22782839/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  17. Song L, Wei J, **Courtney AN** , Gao X, Marinova E, Guo L, [Heczey A](https://profiles.viictr.org/profile/268789), Asgharzadeh S, Kim E, Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187), Liu D. IL-15 protects NKT cells from inhibition by tumor-associated macrophages and enhances antimetastatic activity. J Clin Invest. 2012 Jun; 122(6):2221-33. PMID: [22565311](//www.ncbi.nlm.nih.gov/pubmed/22565311); PMCID: [PMC3366399](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3366399).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22565311/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  18. **Courtney AN** , Thapa P, Singh S, Wishahy AM, Zhou D, [Sastry J](https://profiles.viictr.org/profile/12582507). Intranasal but not intravenous delivery of the adjuvant a-galactosylceramide permits repeated stimulation of natural killer T cells in the lung. Eur J Immunol. 2011 Nov; 41(11):3312-22. PMID: [21818755](//www.ncbi.nlm.nih.gov/pubmed/21818755); PMCID: [PMC3568446](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3568446).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21818755/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCellsPHPublic Health
+
+  19. He H, **Courtney AN** , Wieder E, [Sastry KJ](https://profiles.viictr.org/profile/12582507). Multicolor flow cytometry analyses of cellular immune response in rhesus macaques. J Vis Exp. 2010 Apr 22; (38). PMID: [20414189](//www.ncbi.nlm.nih.gov/pubmed/20414189); PMCID: [PMC3164082](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3164082).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20414189/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:AnimalsCells
+
+  20. Fontenot D, He H, Hanabuchi S, [Nehete PN](https://profiles.viictr.org/profile/12583686), Zhang M, Chang M, Nehete B, Wang YH, Wang YH, Ma ZM, Lee HC, Ziegler SF, **Courtney AN** , Miller CJ, [Sun SC](https://profiles.viictr.org/profile/12583869), Liu YJ, [Sastry KJ](https://profiles.viictr.org/profile/12582507). TSLP production by epithelial cells exposed to immunodeficiency virus triggers DC-mediated mucosal infection of CD4+ T cells. Proc Natl Acad Sci U S A. 2009 Sep 29; 106(39):16776-81. PMID: [19805372](//www.ncbi.nlm.nih.gov/pubmed/19805372); PMCID: [PMC2757857](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2757857).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19805372/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  21. Thapa P, Zhang G, Xia C, Gelbard A, [Overwijk WW](https://profiles.viictr.org/profile/12582682), Liu C, [Hwu P](https://profiles.viictr.org/profile/12583802), Chang DZ, **Courtney A** , [Sastry JK](https://profiles.viictr.org/profile/12582507), Wang PG, [Li C](https://profiles.viictr.org/profile/12583241), Zhou D. Nanoparticle formulated alpha-galactosylceramide activates NKT cells without inducing anergy. Vaccine. 2009 May 26; 27(25-26):3484-8. PMID: [19200815](//www.ncbi.nlm.nih.gov/pubmed/19200815); PMCID: [PMC5772602](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5772602).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19200815/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  22. **Courtney AN** , [Nehete PN](https://profiles.viictr.org/profile/12583686), Nehete BP, Thapa P, Zhou D, [Sastry KJ](https://profiles.viictr.org/profile/12582507). Alpha-galactosylceramide is an effective mucosal adjuvant for repeated intranasal or oral delivery of HIV peptide antigens. Vaccine. 2009 May 26; 27(25-26):3335-41. PMID: [19200849](//www.ncbi.nlm.nih.gov/pubmed/19200849); PMCID: [PMC5798449](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5798449).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19200849/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCellsPHPublic Health
+
+  23. Manuri PR, Nehete B, [Nehete PN](https://profiles.viictr.org/profile/12583686), Reisenauer R, Wardell S, **Courtney AN** , Gambhira R, Lomada D, Chopra AK, [Sastry KJ](https://profiles.viictr.org/profile/12582507). Intranasal immunization with synthetic peptides corresponding to the E6 and E7 oncoproteins of human papillomavirus type 16 induces systemic and mucosal cellular immune responses and tumor protection. Vaccine. 2007 Apr 30; 25(17):3302-10. PMID: [17291642](//www.ncbi.nlm.nih.gov/pubmed/17291642); PMCID: [PMC2043498](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2043498).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17291642/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 23 publications over 14 distinct years, with a maximum of
+4 publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,75,25,25,50,25,50,0,25,0,25,25,50,25,0,100,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2009| 3  
+2010| 1  
+2011| 1  
+2012| 2  
+2013| 1  
+2014| 2  
+2016| 1  
+2018| 1  
+2019| 1  
+2020| 2  
+2021| 1  
+2023| 4  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+COURTNEY's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (148)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Natural Killer T-Cells](https://profiles.viictr.org/profile/264477)
+  * [Neuroblastoma](https://profiles.viictr.org/profile/264265)
+  * [Galactosylceramides](https://profiles.viictr.org/profile/263142)
+  * [Adjuvants, Immunologic](https://profiles.viictr.org/profile/262863)
+  * [Lymphocyte Activation](https://profiles.viictr.org/profile/249474)
+
+[Explore](https://profiles.viictr.org/profile/9596407/198)
+
+_
+
+Co-Authors (35)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [METELITSA, LEONID](https://profiles.viictr.org/profile/266187)
+  * [HECZEY, ANDRAS](https://profiles.viictr.org/profile/268789)
+  * [SASTRY, JAGANNADHA K](https://profiles.viictr.org/profile/12582507)
+  * [TIAN, GENGWEN](https://profiles.viictr.org/profile/1826488)
+  * [XU, XIN](https://profiles.viictr.org/profile/12328491)
+
+[Explore](https://profiles.viictr.org/profile/9596407/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [METELITSA, LEONID](https://profiles.viictr.org/profile/266187)
+  * [GOTTSCHALK, STEPHEN](https://profiles.viictr.org/profile/270181)
+  * [NEELAPU, SATTVA S](https://profiles.viictr.org/profile/12583042)
+  * [HECZEY, ANDRAS](https://profiles.viictr.org/profile/268789)
+  * [ROONEY, CLIONA](https://profiles.viictr.org/profile/268355)
+
+[Explore](https://profiles.viictr.org/profile/9596407/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [HECZEY, ANDRAS](https://profiles.viictr.org/profile/268789)
+  * [METELITSA, LEONID](https://profiles.viictr.org/profile/266187)
+  * [RIOS, XAVIER](https://profiles.viictr.org/profile/24844972)
+  * [TIAN, GENGWEN](https://profiles.viictr.org/profile/1826488)
+  * [XU, XIN](https://profiles.viictr.org/profile/12328491)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

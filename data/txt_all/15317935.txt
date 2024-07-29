@@ -1,0 +1,279 @@
+## FARZAD SOLEIMANI
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Emergency Medicine  
+Address| 1504 TAUB LOOP  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=EKoi%2b2TDbrj6Sork7XrMI5SOJBzEkiEX&rnd=389aa23b-bc85-47ed-8101-4b949dab1669)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=15317935)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Sui J, Lin Z, Azizpour S, Chen F, Gaur S, Keene K, **Soleimani F** , Bhowmick T, [Rafique Z](https://profiles.viictr.org/profile/266134), Javanmard M. Clinical evaluation of a fully electronic microfluidic white blood cell analyzer. PLoS One. 2024; 19(1):e0296344. PMID: [38236796](//www.ncbi.nlm.nih.gov/pubmed/38236796); PMCID: [PMC10796056](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10796056).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  2. Farhadi L, **Soleimani F** , Fakhari S, Jalili A. The Disruption of Mage-11 Gene via CRISPR/Cas9 Method Induced Apoptosis in the in vitro Model of Prostate Cancer. Gulf J Oncolog. 2023 Jan; 1(41):7-16. PMID: [36804154](//www.ncbi.nlm.nih.gov/pubmed/36804154).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  3. Abdollahi-Mansoorkhani HR, **Soleimani F** , Mahmoudi F. A Multi-Criteria Approach for Comparison of Ginger Extract and Conventional Irrigants in Root Canal Treatment. Cureus. 2022 Sep; 14(9):e29327. PMID: [36277522](//www.ncbi.nlm.nih.gov/pubmed/36277522); PMCID: [PMC9580409](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9580409).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36277522/citedby/)
+
+  4. Rahimmi A, Fathi F, Nikkhoo B, **Soleimani F** , Khademerfan M. Over-expression of survivin could prevent the oxidative stress and toxicity of rotenone in SH-SY5Y cells. Iran J Basic Med Sci. 2022 Jul; 25(7):842-849. PMID: [36033958](//www.ncbi.nlm.nih.gov/pubmed/36033958); PMCID: [PMC9392565](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9392565).
+
+Citations:
+
+  5. Choupani F, Assadollahi V, Vahabzadeh Z, Daneshi E, Abouzaripour M, **Soleimani F** , Bahrami S, Fathi F. Feeding role of mouse embryonic fibroblast cells is influenced by genetic background, cell passage and day of isolation. Zygote. 2022 Aug; 30(4):550-560. PMID: [35485762](//www.ncbi.nlm.nih.gov/pubmed/35485762).
+
+Citations:  Fields:
+
+Emb Embryology
+
+  6. **Soleimani F** , Babaei E, H Feizi MA, Fathi F. CRISPR-Cas9-mediated knockout of the Prkdc in mouse embryonic stem cells leads to the modulation of the expression of pluripotency genes. J Cell Physiol. 2020 04; 235(4):3994-4000. PMID: [31603250](//www.ncbi.nlm.nih.gov/pubmed/31603250).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31603250/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  7. Hamd-Ghadareh S, Hamah-Ameen BA, Salimi A, Fathi F, **Soleimani F**. Ratiometric enhanced fluorometric determination and imaging of intracellular microRNA-155 by using carbon dots, gold nanoparticles and rhodamine B for signal amplification. Mikrochim Acta. 2019 06 25; 186(7):469. PMID: [31240482](//www.ncbi.nlm.nih.gov/pubmed/31240482).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31240482/citedby/) Fields:
+
+Bio BiotechnologyChe ChemistryNan Nanotechnology
+
+Translation:HumansCells
+
+  8. Alizadeh N, Salimi A, Hallaj R, Fathi F, **Soleimani F**. CuO/WO3 nanoparticles decorated graphene oxide nanosheets with enhanced peroxidase-like activity for electrochemical cancer cell detection and targeted therapeutics. Mater Sci Eng C Mater Biol Appl. 2019 Jun; 99:1374-1383. PMID: [30889671](//www.ncbi.nlm.nih.gov/pubmed/30889671).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30889671/citedby/) Fields:
+
+Bio Biomedical EngineeringTec Technology
+
+Translation:HumansCells
+
+  9. Nasseri S, Nikkho B, Parsa S, Ebadifar A, **Soleimani F** , Rahimi K, Vahabzadeh Z, Khadem-Erfan MB, Rostamzadeh J, Baban B, Banafshi O, Assadollahi V, Mirzaie S, Fathi F. Generation of Fam83h knockout mice by CRISPR/Cas9-mediated gene engineering. J Cell Biochem. 2019 Jul; 120(7):11033-11043. PMID: [30714208](//www.ncbi.nlm.nih.gov/pubmed/30714208).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30714208/citedby/) Fields:
+
+Bio BiochemistryCel Cell Biology
+
+  10. Alizadeh N, Salimi A, Hallaj R, Fathi F, **Soleimani F**. Ni-hemin metal-organic framework with highly efficient peroxidase catalytic activity: toward colorimetric cancer cell detection and targeted therapeutics. J Nanobiotechnology. 2018 Nov 20; 16(1):93. PMID: [30458781](//www.ncbi.nlm.nih.gov/pubmed/30458781); PMCID: [PMC6245618](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6245618).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30458781/citedby/) Fields:
+
+Bio BiotechnologyNan Nanotechnology
+
+Translation:HumansCells
+
+  11. Assadollahi V, Mohammadi E, Fathi F, Hassanzadeh K, Erfan MBK, **Soleimani F** , Banafshi O, Yosefi F, Allahvaisi O. Effects of cigarette smoke condensate on proliferation and pluripotency gene expression in mouse embryonic stem cells. J Cell Biochem. 2019 03; 120(3):4071-4080. PMID: [30269371](//www.ncbi.nlm.nih.gov/pubmed/30269371).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30269371/citedby/) Fields:
+
+Bio BiochemistryCel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  12. **Soleimani F** , Assadollahi V, Fathi F, Abdi M, Khadem Erfan MB, Banafshi O. Increasing maternal age of blastocyst affects on efficient derivation and behavior of mouse embryonic stem cells. J Cell Biochem. 2019 03; 120(3):3716-3726. PMID: [30206984](//www.ncbi.nlm.nih.gov/pubmed/30206984).
+
+Citations:  Fields:
+
+Bio BiochemistryCel Cell Biology
+
+Translation:AnimalsCells
+
+  13. Mohammadi S, Salimi A, Hamd-Ghadareh S, Fathi F, **Soleimani F**. A FRET immunosensor for sensitive detection of CA 15-3 tumor marker in human serum sample and breast cancer cells using antibody functionalized luminescent carbon-dots and AuNPs-dendrimer aptamer as donor-acceptor pair. Anal Biochem. 2018 09 15; 557:18-26. PMID: [29908158](//www.ncbi.nlm.nih.gov/pubmed/29908158).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29908158/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  14. **Soleimani F** , Hajjari M, Mohammad Soltani B, Behmanesh M. Up-Regulation of FOXC2 and FOXQ1 Is Associated with The Progression of Gastric-Type Adenocarcinoma. Cell J. 2017; 19(Suppl 1):66-71. PMID: [28580309](//www.ncbi.nlm.nih.gov/pubmed/28580309); PMCID: [PMC5448320](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5448320).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28580309/citedby/)
+
+  15. **Soleimani F** , Zenios S. Disrupting incrementalism in health care innovation. Ann Surg. 2011 Aug; 254(2):203-8. PMID: [21685793](//www.ncbi.nlm.nih.gov/pubmed/21685793).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21685793/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  16. **Soleimani F** , Kharabi DG. Physician entrepreneur: lessons learned in raising capital for biomedical innovation. Curr Opin Anaesthesiol. 2010 Apr; 23(2):209-17. PMID: [20173634](//www.ncbi.nlm.nih.gov/pubmed/20173634).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20173634/citedby/) Fields:
+
+Ane Anesthesiology
+
+Translation:Humans
+
+  17. **Soleimani F**. Learning from mistakes in New Zealand hospitals: what else do we need besides "no-fault"? N Z Med J. 2006 Aug 04; 119(1239):U2099. PMID: [16912717](//www.ncbi.nlm.nih.gov/pubmed/16912717).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16912717/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 17 publications over 9 distinct years, with a maximum of 4
+publications in 2018 and
+2019](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,25,25,0,0,0,0,0,25,100,100,0,0,75,25,25&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 1  
+2010| 1  
+2011| 1  
+2017| 1  
+2018| 4  
+2019| 4  
+2022| 3  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SOLEIMANI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (109)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Mouse Embryonic Stem Cells](https://profiles.viictr.org/profile/27544187)
+  * [Fluorescence Resonance Energy Transfer](https://profiles.viictr.org/profile/254487)
+  * [Pluripotent Stem Cells](https://profiles.viictr.org/profile/259456)
+  * [Entrepreneurship](https://profiles.viictr.org/profile/256035)
+  * [Metal Nanoparticles](https://profiles.viictr.org/profile/247141)
+
+[Explore](https://profiles.viictr.org/profile/15317935/198)
+
+_
+
+Co-Authors (1)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [RAFIQUE, ZUBAID](https://profiles.viictr.org/profile/266134)
+
+[Explore](https://profiles.viictr.org/profile/15317935/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+
+[Explore](https://profiles.viictr.org/profile/15317935/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [FARTHING, HEATHER](https://profiles.viictr.org/profile/49624913)
+  * [JONES, THOMAS](https://profiles.viictr.org/profile/43481811)
+  * [MEDFORD-DAVIS, LAURA](https://profiles.viictr.org/profile/9909027)
+  * [RAFIQUE, ZUBAID](https://profiles.viictr.org/profile/266134)
+  * [TICHTER, ALEKSANDR](https://profiles.viictr.org/profile/29494164)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8Joc2+V+Zo3gBU2gFgjQnkB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

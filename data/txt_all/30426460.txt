@@ -1,0 +1,616 @@
+## ERIC VAN NOSTRAND
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=E7k54ivxIYXbSZz58nrMLpSOJBzEkiEX&rnd=6b0d277c-9521-4d8c-b48e-8a894de4505b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=30426460)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Therapeutic Innovation Center  
+Division| Therapeutic Innovation Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R35HG011909 (VAN NOSTRAND, ERIC LYMAN)Sep 10, 2021 - Jun 30, 2026NIH  
+Large-scale characterization of the function of RNA regulatory elements  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R00HG009530 (VAN NOSTRAND, ERIC LYMAN)May 6, 2020 - Feb 28, 2023NIH  
+Robust, high-throughput identification of RNA processing regulators and
+regulatory networks genome-wide  
+Role: Principal Investigator  
+  
+* * *  
+  
+K99HG009530 (VAN NOSTRAND, ERIC LYMAN)May 1, 2017 - Apr 30, 2020NIH  
+Robust, high-throughput identification of RNA processing regulators and
+regulatory networks genome-wide  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Zheng R, Dunlap M, [Bobkov GOM](https://profiles.viictr.org/profile/28999317), Gonzalez-Figueroa C, Patel KJ, Lyu J, Harvey SE, Chan TW, Quinones-Valdez G, Choudhury M, [Le Roux CA](https://profiles.viictr.org/profile/47100861), Bartels MD, Vuong A, Flynn RA, Chang HY, **Van Nostrand EL** , Xiao X, Cheng C. hnRNPM protects against the dsRNA-mediated interferon response by repressing LINE-associated cryptic splicing. Mol Cell. 2024 Jun 06; 84(11):2087-2103.e8. PMID: [38815579](//www.ncbi.nlm.nih.gov/pubmed/38815579); PMCID: [PMC11204102](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11204102).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  2. LaPlante EL, St?rchler A, [Fullem R](https://profiles.viictr.org/profile/28999406), Chen D, Starner AC, [Esquivel E](https://profiles.viictr.org/profile/31168803), Alsop E, Jackson AR, Ghiran I, Pereira G, Rozowsky J, Chang J, Gerstein MB, Alexander RP, [Roth ME](https://profiles.viictr.org/profile/269921), Franklin JL, Coffey RJ, Raffai RL, Mansuy IM, Stavrakis S, deMello AJ, Laurent LC, Wang YT, Tsai CF, Liu T, Jones J, Van Keuren-Jensen K, **Van Nostrand E** , Mateescu B, [Milosavljevic A](https://profiles.viictr.org/profile/268148). exRNA-eCLIP intersection analysis reveals a map of extracellular RNA binding proteins and associated RNAs across major human biofluids and carriers. Cell Genom. 2023 May 10; 3(5):100303. PMID: [37228754](//www.ncbi.nlm.nih.gov/pubmed/37228754); PMCID: [PMC10203258](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10203258).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37228754/citedby/)
+
+  3. Xu A, Liu M, Huang MF, Zhang Y, Hu R, Gingold JA, Liu Y, Zhu D, Chien CS, Wang WC, [Liao Z](https://profiles.viictr.org/profile/34768175), Yuan F, Hsu CW, Tu J, Yu Y, Rosen T, Xiong F, Jia P, Yang YP, Bazer DA, Chen YW, Li W, [Huff CD](https://profiles.viictr.org/profile/12583975), Zhu JJ, Aguilo F, Chiou SH, Boles NC, Lai CC, [Hung MC](https://profiles.viictr.org/profile/12582486), Zhao Z, **Van Nostrand EL** , Zhao R, Lee DF. Rewired m6A epitranscriptomic networks link mutant p53 to neoplastic transformation. Nat Commun. 2023 03 27; 14(1):1694. PMID: [36973285](//www.ncbi.nlm.nih.gov/pubmed/36973285); PMCID: [PMC10042811](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10042811).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:Humans
+
+  4. Arif W, Mathur B, Saikali MF, Chembazhi UV, Toohill K, Song YJ, Hao Q, Karimi S, Blue SM, Yee BA, **Van Nostrand EL** , Bangru S, Guzman G, Yeo GW, Prasanth KV, Anakk S, Cummins CL, Kalsotra A. Splicing factor SRSF1 deficiency in the liver triggers NASH-like pathology and cell death. Nat Commun. 2023 02 09; 14(1):551. PMID: [36759613](//www.ncbi.nlm.nih.gov/pubmed/36759613); PMCID: [PMC9911759](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9911759).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  5. Benoit Bouvrette LP, Wang X, Boulais J, Kong J, Syed EU, Blue SM, Zhan L, Olson S, Stanton R, Wei X, Yee B, **Van Nostrand EL** , Fu XD, Burge CB, Graveley BR, Yeo GW, L?cuyer E. RBP Image Database: A resource for the systematic characterization of the subcellular distribution properties of human RNA binding proteins. Nucleic Acids Res. 2023 01 06; 51(D1):D1549-D1557. PMID: [36321651](//www.ncbi.nlm.nih.gov/pubmed/36321651); PMCID: [PMC9825414](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9825414).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  6. ENCODE Project Consortium, Moore JE, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli T, Davis CA, Dobin A, Kaul R, Halow J, **Van Nostrand EL** , Freese P, Gorkin DU, Shen Y, He Y, Mackiewicz M, Pauli-Behn F, Williams BA, Mortazavi A, Keller CA, Zhang XO, Elhajjajy SI, Huey J, Dickel DE, Snetkova V, Wei X, Rivera-Mulia JC, Rozowsky J, Zhang J, Chhetri SB, Zhang J, Victorsen A, White KP, Visel A, Yeo GW, Burge CB, Gilbert DM, Dekker J, Rinn J, Mendenhall EM, Ecker JR, Kellis M, Klein RJ, Noble WS, Kundaje A, Farnham PJ, Cherry JM, Myers RM, Ren B, Graveley BR, Gerstein MB, Pennacchio LA, Snyder MP, Bernstein BE, Wold B, Hardison RC, Gingeras TR, Stamatoyannopoulos JA, Weng Z, Wang X, L?cuyer E, Guig? R. Author Correction: Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature. 2022 May; 605(7909):E3. PMID: [35474001](//www.ncbi.nlm.nih.gov/pubmed/35474001); PMCID: [PMC9095460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9095460).
+
+Citations:  Fields:
+
+Sci Science
+
+  7. Blue SM, Yee BA, Pratt GA, Mueller JR, Park SS, Shishkin AA, Starner AC, **Van Nostrand EL** , Yeo GW. Transcriptome-wide identification of RNA-binding protein binding sites using seCLIP-seq. Nat Protoc. 2022 05; 17(5):1223-1265. PMID: [35322209](//www.ncbi.nlm.nih.gov/pubmed/35322209); PMCID: [PMC11134598](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11134598).
+
+Citations:  Fields:
+
+Cli Clinical Laboratory TechniquesSci Science
+
+Translation:Cells
+
+  8. Xiang JS, Mueller JR, Luo EC, Yee BA, Schafer D, Schmok JC, Tan FE, Rothamel K, McVicar RN, Kwong EM, Croker BA, Jones KL, Her HL, Chen CY, Vu AQ, Jin W, Park SS, Le P, Brannan KW, Kofman ER, Li Y, Tankka AT, Dong KD, Song Y, Clark AE, Carlin AF, **Van Nostrand EL** , Leibel SL, Yeo GW. Discovery and functional interrogation of SARS-CoV-2 protein-RNA interactions. Res Sq. 2022 Mar 17. PMID: [35313591](//www.ncbi.nlm.nih.gov/pubmed/35313591); PMCID: [PMC8936114](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8936114).
+
+Citations:
+
+  9. Krivdova G, Voisin V, Schoof EM, Marhon SA, Murison A, McLeod JL, Gabra MM, Zeng AGX, Aigner S, Yee BA, Shishkin AA, **Van Nostrand EL** , Hermans KG, Trotman-Grant AC, Mbong N, Kennedy JA, Gan OI, Wagenblast E, De Carvalho DD, Salmena L, Minden MD, Bader GD, Yeo GW, Dick JE, Lechman ER. Identification of the global miR-130a targetome reveals a role for TBL1XR1 in hematopoietic stem cell self-renewal and t(8;21) AML. Cell Rep. 2022 03 08; 38(10):110481. PMID: [35263585](//www.ncbi.nlm.nih.gov/pubmed/35263585); PMCID: [PMC11185845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11185845).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  10. Xiang JS, Mueller JR, Luo EC, Yee BA, Schafer D, Schmok JC, Tan FE, Rothamel K, McVicar RN, Kwong EM, Jones KL, Her HL, Chen CY, Vu AQ, Jin W, Park SS, Le P, Brannan KW, Kofman ER, Li Y, Tankka AT, Dong KD, Song Y, Carlin AF, **Van Nostrand EL** , Leibel SL, Yeo GW. Discovery and functional interrogation of SARS-CoV-2 protein-RNA interactions. bioRxiv. 2022 Feb 23. PMID: [35233578](//www.ncbi.nlm.nih.gov/pubmed/35233578); PMCID: [PMC8887137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8887137).
+
+Citations:
+
+  11. Alexander RP, Kitchen RR, Tosar JP, Roth M, Mestdagh P, Max KEA, Rozowsky J, Kaczor-Urbanowicz KE, Chang J, Balaj L, Losic B, **Van Nostrand EL** , LaPlante E, Mateescu B, White BS, Yu R, Milosavljevic A, Stolovitzky G, Spengler RM. Open Problems in Extracellular RNA Data Analysis: Insights From an ERCC Online Workshop. Front Genet. 2021; 12:778416. PMID: [35047007](//www.ncbi.nlm.nih.gov/pubmed/35047007); PMCID: [PMC8762274](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8762274).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35047007/citedby/)
+
+  12. Herzner AM, Khan Z, **Van Nostrand EL** , Chan S, Cuellar T, Chen R, Pechuan-Jorge X, Komuves L, Solon M, Modrusan Z, Haley B, Yeo GW, Behrens TW, Albert ML. ADAR and hnRNPC deficiency synergize in activating endogenous dsRNA-induced type I IFN responses. J Exp Med. 2021 09 06; 218(9). PMID: [34297039](//www.ncbi.nlm.nih.gov/pubmed/34297039); PMCID: [PMC8313407](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8313407).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34297039/citedby/) Fields:
+
+All Allergy and ImmunologyMed Medicine (General)
+
+Translation:HumansCells
+
+  13. **Van Nostrand EL** , Freese P, Pratt GA, Wei X, Xiao R, Blue SM, Chen JY, Dominguez D, Olson S, Sundararaman B, Zhan L, Bazile C, Duff MO, Garcia KE, Gelboin-Burkhart C, Hochman M, Lambert NJ, Li H, McGurk MP, Nguyen TB, Palden T, Rabano I, Sathe S, Stanton R, Su A, Wang R, Yee BA, Zhou B, Louie AL, Aigner S, Fu XD, Burge CB, Graveley BR, Yeo GW, Wang X, Cody NAL, Bouvrette LPB, Bergalet J, L?cuyer E. Author Correction: A large-scale binding and functional map of human RNA-binding proteins. Nature. 2021 Jan; 589(7842):E5. PMID: [33402748](//www.ncbi.nlm.nih.gov/pubmed/33402748); PMCID: [PMC7962576](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7962576).
+
+Citations:  Fields:
+
+Sci Science
+
+  14. Bieging-Rolett KT, Kaiser AM, Morgens DW, Boutelle AM, Seoane JA, **Van Nostrand EL** , Zhu C, Houlihan SL, Mello SS, Yee BA, McClendon J, Pierce SE, Winters IP, Wang M, Connolly AJ, Lowe SW, Curtis C, Yeo GW, Winslow MM, Bassik MC, Attardi LD. Zmat3 Is a Key Splicing Regulator in the p53 Tumor Suppression Program. Mol Cell. 2020 11 05; 80(3):452-469.e9. PMID: [33157015](//www.ncbi.nlm.nih.gov/pubmed/33157015); PMCID: [PMC7654708](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7654708).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33157015/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  15. [Van Nostrand JL](https://profiles.viictr.org/profile/32901595), Hellberg K, Luo EC, **Van Nostrand EL** , Dayn A, Yu J, Shokhirev MN, Dayn Y, Yeo GW, Shaw RJ. AMPK regulation of Raptor and TSC2 mediate metformin effects on transcriptional control of anabolism and inflammation. Genes Dev. 2020 10 01; 34(19-20):1330-1344. PMID: [32912901](//www.ncbi.nlm.nih.gov/pubmed/32912901); PMCID: [PMC7528705](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7528705).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32912901/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  16. **Van Nostrand EL** , Freese P, Pratt GA, Wei X, Xiao R, Blue SM, Chen JY, Dominguez D, Olson S, Sundararaman B, Zhan L, Bazile C, Duff MO, Garcia KE, Gelboin-Burkhart C, Hochman M, Lambert NJ, Li H, McGurk MP, Nguyen TB, Palden T, Rabano I, Sathe S, Stanton R, Su A, Wang R, Yee BA, Zhou B, Louie AL, Aigner S, Fu XD, Burge CB, Graveley BR, Yeo GW, Wang X, Cody NAL, Bouvrette LPB, Bergalet J, L?cuyer E. A large-scale binding and functional map of human RNA-binding proteins. Nature. 2020 07; 583(7818):711-719. PMID: [32728246](//www.ncbi.nlm.nih.gov/pubmed/32728246); PMCID: [PMC7410833](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7410833).
+
+Citations:
+[161](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32728246/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  17. ENCODE Project Consortium, Moore JE, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli T, Davis CA, Dobin A, Kaul R, Halow J, **Van Nostrand EL** , Freese P, Gorkin DU, Shen Y, He Y, Mackiewicz M, Pauli-Behn F, Williams BA, Mortazavi A, Keller CA, Zhang XO, Elhajjajy SI, Huey J, Dickel DE, Snetkova V, Wei X, Rivera-Mulia JC, Rozowsky J, Zhang J, Chhetri SB, Zhang J, Victorsen A, White KP, Visel A, Yeo GW, Burge CB, Gilbert DM, Dekker J, Rinn J, Mendenhall EM, Ecker JR, Kellis M, Klein RJ, Noble WS, Kundaje A, Farnham PJ, Cherry JM, Myers RM, Ren B, Graveley BR, Gerstein MB, Pennacchio LA, Snyder MP, Bernstein BE, Wold B, Hardison RC, Gingeras TR, Stamatoyannopoulos JA, Weng Z, Wang X, L?cuyer E, Guig? R. Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature. 2020 07; 583(7818):699-710. PMID: [32728249](//www.ncbi.nlm.nih.gov/pubmed/32728249); PMCID: [PMC7410828](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7410828).
+
+Citations:
+[275](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32728249/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  18. Wheeler EC, Vu AQ, Einstein JM, DiSalvo M, Ahmed N, **Van Nostrand EL** , Shishkin AA, Jin W, Allbritton NL, Yeo GW. Pooled CRISPR screens with imaging on microraft arrays reveals stress granule-regulatory factors. Nat Methods. 2020 Jun; 17(6):636-642. PMID: [32393832](//www.ncbi.nlm.nih.gov/pubmed/32393832); PMCID: [PMC7357298](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7357298).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32393832/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:HumansCells
+
+  19. Bajaj J, Hamilton M, Shima Y, Chambers K, Spinler K, **Van Nostrand EL** , Yee BA, Blue SM, Chen M, Rizzeri D, Chuah C, Oehler VG, Broome HE, Sasik R, Scott-Browne J, Rao A, Yeo GW, Reya T. An in vivo genome-wide CRISPR screen identifies the RNA-binding protein Staufen2 as a key regulator of myeloid leukemia. Nat Cancer. 2020 04; 1(4):410-422. PMID: [34109316](//www.ncbi.nlm.nih.gov/pubmed/34109316); PMCID: [PMC8186448](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8186448).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34109316/citedby/)
+Translation:AnimalsCells
+
+  20. **Van Nostrand EL** , Pratt GA, Yee BA, Wheeler EC, Blue SM, Mueller J, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu XD, Graveley BR, Yeo GW. Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins. Genome Biol. 2020 04 06; 21(1):90. PMID: [32252787](//www.ncbi.nlm.nih.gov/pubmed/32252787); PMCID: [PMC7137325](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7137325).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32252787/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  21. Kaiser RWJ, Ignarski M, **Van Nostrand EL** , Frese CK, Jain M, Cukoski S, Heinen H, Schaechter M, Seufert L, Bunte K, Frommolt P, Keller P, Helm M, Bohl K, Schermer B, Benzing T, Dieterich C, Yeo GW, Fabretti F, H?hne M, H?pker K, M?ller RU. A protein-RNA interaction atlas of the ribosome biogenesis factor AATF. Sci Rep. 2019 07 30; 9(1):11071. PMID: [31363146](//www.ncbi.nlm.nih.gov/pubmed/31363146); PMCID: [PMC6667500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6667500).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31363146/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  22. Yang EW, Bahn JH, Hsiao EY, Tan BX, Sun Y, Fu T, Zhou B, **Van Nostrand EL** , Pratt GA, Freese P, Wei X, Quinones-Valdez G, Urban AE, Graveley BR, Burge CB, Yeo GW, Xiao X. Allele-specific binding of RNA-binding proteins reveals functional genetic variants in the RNA. Nat Commun. 2019 03 22; 10(1):1338. PMID: [30902979](//www.ncbi.nlm.nih.gov/pubmed/30902979); PMCID: [PMC6430814](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6430814).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30902979/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  23. Quinones-Valdez G, Tran SS, Jun HI, Bahn JH, Yang EW, Zhan L, Wei X, **Van Nostrand EL** , Pratt GA, Yeo GW, Graveley BR, Xiao X, Br?mmer A. Regulation of RNA editing by RNA-binding proteins in human cells. Commun Biol. 2019; 2:19. PMID: [30652130](//www.ncbi.nlm.nih.gov/pubmed/30652130); PMCID: [PMC6331435](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6331435).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30652130/citedby/)
+Translation:HumansCells
+
+  24. Tran SS, Jun HI, Bahn JH, Azghadi A, Ramaswami G, **Van Nostrand EL** , Nguyen TB, Hsiao YE, Lee C, Pratt GA, Hagerman RJ, Yeo GW, Geschwind DH, Xiao X, Mart?nez-Cerde?o V. Widespread RNA editing dysregulation in brains from autistic individuals. Nat Neurosci. 2019 01; 22(1):25-36. PMID: [30559470](//www.ncbi.nlm.nih.gov/pubmed/30559470); PMCID: [PMC6375307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6375307).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30559470/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansCells
+
+  25. Yee BA, Pratt GA, Graveley BR, **Van Nostrand EL** , Yeo GW. RBP-Maps enables robust generation of splicing regulatory maps. RNA. 2019 02; 25(2):193-204. PMID: [30413564](//www.ncbi.nlm.nih.gov/pubmed/30413564); PMCID: [PMC6348990](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6348990).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30413564/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  26. Dominguez D, Freese P, Alexis MS, Su A, Hochman M, Palden T, Bazile C, Lambert NJ, **Van Nostrand EL** , Pratt GA, Yeo GW, Graveley BR, Burge CB. Sequence, Structure, and Context Preferences of Human RNA Binding Proteins. Mol Cell. 2018 06 07; 70(5):854-867.e9. PMID: [29883606](//www.ncbi.nlm.nih.gov/pubmed/29883606); PMCID: [PMC6062212](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6062212).
+
+Citations:
+[157](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29883606/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  27. **Van Nostrand EL** , Yeo GW, Scott DD, Trahan C, Zindy PJ, Aguilar LC, Delubac MY, Adivarahan S, Wei KE, Zenklusen D, Oeffinger M. Nol12 is a multifunctional RNA binding protein at the nexus of RNA and DNA metabolism. Nucleic Acids Res. 2017 Dec 01; 45(21):12509-12528. PMID: [29069457](//www.ncbi.nlm.nih.gov/pubmed/29069457); PMCID: [PMC5716212](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5716212).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29069457/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  28. **Van Nostrand EL**. Isolation versus Enrichment: dCLIP Enables Stringent Profiling of RNA-Binding Sites. Cell Syst. 2017 10 25; 5(4):312-314. PMID: [29073369](//www.ncbi.nlm.nih.gov/pubmed/29073369).
+
+Citations:  Fields:
+
+Cel Cell BiologyCom Computational BiologyMol Molecular Biology
+
+Translation:Cells
+
+  29. Wheeler EC, **Van Nostrand EL** , Yeo GW. Advances and challenges in the detection of transcriptome-wide protein-RNA interactions. Wiley Interdiscip Rev RNA. 2018 01; 9(1). PMID: [28853213](//www.ncbi.nlm.nih.gov/pubmed/28853213); PMCID: [PMC5739989](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5739989).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28853213/citedby/) Fields:
+
+Mol Molecular Biology
+
+  30. **Van Nostrand EL** , Shishkin AA, Pratt GA, Nguyen TB, Yeo GW. Variation in single-nucleotide sensitivity of eCLIP derived from reverse transcription conditions. Methods. 2017 08 15; 126:29-37. PMID: [28790018](//www.ncbi.nlm.nih.gov/pubmed/28790018); PMCID: [PMC5582984](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5582984).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28790018/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  31. Carter H, Marty R, Hofree M, Gross AM, Jensen J, Fisch KM, Wu X, DeBoever C, **Van Nostrand EL** , Song Y, Wheeler E, Kreisberg JF, Lippman SM, Yeo GW, Gutkind JS, Ideker T. Interaction Landscape of Inherited Polymorphisms with Somatic Events in Cancer. Cancer Discov. 2017 04; 7(4):410-423. PMID: [28188128](//www.ncbi.nlm.nih.gov/pubmed/28188128); PMCID: [PMC5460679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5460679).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28188128/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  32. Lardelli RM, Schaffer AE, Eggens VR, Zaki MS, Grainger S, Sathe S, **Van Nostrand EL** , Schlachetzki Z, Rosti B, Akizu N, Scott E, Silhavy JL, Heckman LD, Rosti RO, Dikoglu E, Gregor A, Guemez-Gamboa A, Musaev D, Mande R, Widjaja A, Shaw TL, Markmiller S, Marin-Valencia I, Davies JH, de Meirleir L, Kayserili H, Altunoglu U, Freckmann ML, Warwick L, Chitayat D, Blaser S, Bilguvar K, Per H, Fagerberg C, Christesen HT, Kibaek M, Aldinger KA, Manchester D, Matsumoto N, Muramatsu K, Saitsu H, Shiina M, Ogata K, Foulds N, Dobyns WB, Chi NC, Traver D, Spaccini L, Bova SM, Gabriel SB, Gunel M, Valente EM, Bennett EJ, Yeo GW, Baas F, Lykke-Andersen J, Gleeson JG, ?aglayan AO, Nassogne MC. Biallelic mutations in the 3' exonuclease TOE1 cause pontocerebellar hypoplasia and uncover a role in snRNA processing. Nat Genet. 2017 Mar; 49(3):457-464. PMID: [28092684](//www.ncbi.nlm.nih.gov/pubmed/28092684); PMCID: [PMC5325768](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5325768).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28092684/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  33. **Van Nostrand EL** , Nguyen TB, Gelboin-Burkhart C, Wang R, Blue SM, Pratt GA, Louie AL, Yeo GW. Robust, Cost-Effective Profiling of RNA Binding Protein Targets with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP). Methods Mol Biol. 2017; 1648:177-200. PMID: [28766298](//www.ncbi.nlm.nih.gov/pubmed/28766298); PMCID: [PMC5991800](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5991800).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28766298/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimals
+
+  34. **Van Nostrand EL** , Nguyen TB, Gelboin-Burkhart C, Wang R, Blue SM, Pratt GA, Louie AL, Yeo GW. Erratum to: Robust, Cost-Effective Profiling of RNA Binding Protein Targets with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP). Methods Mol Biol. 2017; 1648:E1. PMID: [29230720](//www.ncbi.nlm.nih.gov/pubmed/29230720).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29230720/citedby/) Fields:
+
+Mol Molecular Biology
+
+  35. **Van Nostrand EL** , Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, Yeo GW. CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously tagged RNA binding proteins. Methods. 2017 04 15; 118-119:50-59. PMID: [28003131](//www.ncbi.nlm.nih.gov/pubmed/28003131); PMCID: [PMC5411315](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5411315).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28003131/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  36. [Martinez FJ](https://profiles.viictr.org/profile/12583796), Pratt GA, **Van Nostrand EL** , Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang HC, Nussbacher JK, Broski SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett CF, Ares M, Burge CB, Taylor JP, Rigo F, Yeo GW. Protein-RNA Networks Regulated by Normal and ALS-Associated Mutant HNRNPA2B1 in the Nervous System. Neuron. 2016 Nov 23; 92(4):780-795. PMID: [27773581](//www.ncbi.nlm.nih.gov/pubmed/27773581); PMCID: [PMC5123850](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5123850).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27773581/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  37. Brannan KW, Jin W, Huelga SC, Banks CA, Gilmore JM, Florens L, Washburn MP, **Van Nostrand EL** , Pratt GA, Schwinn MK, Daniels DL, Yeo GW. SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes. Mol Cell. 2016 10 20; 64(2):282-293. PMID: [27720645](//www.ncbi.nlm.nih.gov/pubmed/27720645); PMCID: [PMC5074894](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5074894).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27720645/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  38. Mann FG, **Van Nostrand EL** , Friedland AE, Liu X, Kim SK. Deactivation of the GATA Transcription Factor ELT-2 Is a Major Driver of Normal Aging in C. elegans. PLoS Genet. 2016 Apr; 12(4):e1005956. PMID: [27070429](//www.ncbi.nlm.nih.gov/pubmed/27070429); PMCID: [PMC4829211](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4829211).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27070429/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  39. Conway AE, **Van Nostrand EL** , Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, Yeo GW. Enhanced CLIP Uncovers IMP Protein-RNA Targets in Human Pluripotent Stem Cells Important for Cell Adhesion and Survival. Cell Rep. 2016 Apr 19; 15(3):666-679. PMID: [27068461](//www.ncbi.nlm.nih.gov/pubmed/27068461); PMCID: [PMC4839292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4839292).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27068461/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  40. **Van Nostrand EL** , Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang MY, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, Yeo GW. Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP). Nat Methods. 2016 06; 13(6):508-14. PMID: [27018577](//www.ncbi.nlm.nih.gov/pubmed/27018577); PMCID: [PMC4887338](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4887338).
+
+Citations:
+[429](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27018577/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:HumansCells
+
+  41. Sundararaman B, Zhan L, Blue SM, Stanton R, Elkins K, Olson S, Wei X, **Van Nostrand EL** , Pratt GA, Huelga SC, Smalec BM, Hong EL, Davidson JM, Graveley BR, Yeo GW, Wang X, L?cuyer E. Resources for the Comprehensive Discovery of Functional RNA Elements. Mol Cell. 2016 Mar 17; 61(6):903-13. PMID: [26990993](//www.ncbi.nlm.nih.gov/pubmed/26990993); PMCID: [PMC4839293](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4839293).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26990993/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  42. **Van Nostrand EL** , Huelga SC, Yeo GW. Experimental and Computational Considerations in the Study of RNA-Binding Protein-RNA Interactions. Adv Exp Med Biol. 2016; 907:1-28. PMID: [27256380](//www.ncbi.nlm.nih.gov/pubmed/27256380); PMCID: [PMC5522005](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5522005).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27256380/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  43. O'Brown ZK, **Van Nostrand EL** , Higgins JP, Kim SK. The Inflammatory Transcription Factors NF?B, STAT1 and STAT3 Drive Age-Associated Transcriptional Changes in the Human Kidney. PLoS Genet. 2015 Dec; 11(12):e1005734. PMID: [26678048](//www.ncbi.nlm.nih.gov/pubmed/26678048); PMCID: [PMC4682820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4682820).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26678048/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  44. Zeitz MJ, Lerner PP, Ay F, **Van Nostrand E** , Heidmann JD, Noble WS, Hoffman AR. Implications of COMT long-range interactions on the phenotypic variability of 22q11.2 deletion syndrome. Nucleus. 2013 Nov-Dec; 4(6):487-93. PMID: [24448439](//www.ncbi.nlm.nih.gov/pubmed/24448439); PMCID: [PMC3925693](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3925693).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24448439/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  45. **Van Nostrand EL** , Kim SK. Integrative analysis of C. elegans modENCODE ChIP-seq data sets to infer gene regulatory interactions. Genome Res. 2013 Jun; 23(6):941-53. PMID: [23531767](//www.ncbi.nlm.nih.gov/pubmed/23531767); PMCID: [PMC3668362](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3668362).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23531767/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  46. **Van Nostrand EL** , Wu B, Nguyen A, Kim SK, S?nchez-Blanco A. Roles of the developmental regulator unc-62/Homothorax in limiting longevity in Caenorhabditis elegans. PLoS Genet. 2013; 9(2):e1003325. PMID: [23468654](//www.ncbi.nlm.nih.gov/pubmed/23468654); PMCID: [PMC3585033](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3585033).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23468654/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  47. **Van Nostrand EL** , Kim SK. Seeing elegance in gene regulatory networks of the worm. Curr Opin Genet Dev. 2011 Dec; 21(6):776-86. PMID: [21963133](//www.ncbi.nlm.nih.gov/pubmed/21963133); PMCID: [PMC3224770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3224770).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21963133/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  48. Gerstein MB, Lu ZJ, **Van Nostrand EL** , [Cheng C](https://profiles.viictr.org/profile/28652472), Arshinoff BI, Liu T, Yip KY, Robilotto R, Rechtsteiner A, Ikegami K, Alves P, Chateigner A, Perry M, Morris M, Auerbach RK, Feng X, Leng J, Vielle A, Niu W, Rhrissorrakrai K, Agarwal A, Alexander RP, Barber G, Brdlik CM, Brennan J, Brouillet JJ, Carr A, Cheung MS, Clawson H, Contrino S, Dannenberg LO, Dernburg AF, Desai A, Dick L, Du J, Egelhofer T, Ercan S, Euskirchen G, Ewing B, Feingold EA, Gassmann R, Good PJ, Green P, Gullier F, Gutwein M, Guyer MS, Habegger L, Han T, Henikoff JG, Henz SR, Hinrichs A, Holster H, Hyman T, Iniguez AL, Janette J, Jensen M, Kato M, Kent WJ, Kephart E, Khivansara V, Khurana E, Kim JK, Kolasinska-Zwierz P, Lai EC, Latorre I, Leahey A, Lewis S, Lloyd P, Lochovsky L, Lowdon RF, Lubling Y, Lyne R, MacCoss M, Mackowiak SD, Mangone M, McKay S, Mecenas D, Merrihew G, Miller DM, Muroyama A, Murray JI, Ooi SL, Pham H, Phippen T, Preston EA, Rajewsky N, Rosenbaum H, Rozowsky J, Rutherford K, Ruzanov P, Sarov M, Sasidharan R, Sboner A, Scheid P, Segal E, Shin H, Shou C, Slack FJ, Slightam C, Smith R, Spencer WC, Stinson EO, Taing S, Takasaki T, Vafeados D, Voronina K, Wang G, Washington NL, Whittle CM, Wu B, Yan KK, Zeller G, Zha Z, Zhong M, Zhou X, modENCODE Consortium, Ahringer J, Strome S, Gunsalus KC, Micklem G, Liu XS, Reinke V, Kim SK, Hillier LW, Henikoff S, Piano F, Snyder M, Stein L, Lieb JD, Waterston RH, Dos? AC, R?tsch G. Integrative analysis of the Caenorhabditis elegans genome by the modENCODE project. Science. 2010 Dec 24; 330(6012):1775-87. PMID: [21177976](//www.ncbi.nlm.nih.gov/pubmed/21177976); PMCID: [PMC3142569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3142569).
+
+Citations:
+[561](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21177976/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  49. Yeo GW, **Van Nostrand EL** , Nostrand EL, Liang TY. Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements. PLoS Genet. 2007 May 25; 3(5):e85. PMID: [17530930](//www.ncbi.nlm.nih.gov/pubmed/17530930); PMCID: [PMC1877881](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1877881).
+
+Citations:
+[86](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17530930/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  50. Wang Z, Xiao X, **Van Nostrand E** , Burge CB. General and specific functions of exonic splicing silencers in splicing control. Mol Cell. 2006 Jul 07; 23(1):61-70. PMID: [16797197](//www.ncbi.nlm.nih.gov/pubmed/16797197); PMCID: [PMC1839040](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1839040).
+
+Citations:
+[97](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16797197/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  51. Yeo GW, **Van Nostrand E** , Holste D, Poggio T, Burge CB. Identification and analysis of alternative splicing events conserved in human and mouse. Proc Natl Acad Sci U S A. 2005 Feb 22; 102(8):2850-5. PMID: [15708978](//www.ncbi.nlm.nih.gov/pubmed/15708978); PMCID: [PMC548664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC548664).
+
+Citations:
+[159](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15708978/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 51 publications over 16 distinct years, with a maximum of
+8 publications in 2016 and
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|8&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,13,13,13,0,0,13,13,0,38,0,13,100,100,38,38,88,25,75,50,13&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2005| 1  
+2006| 1  
+2007| 1  
+2010| 1  
+2011| 1  
+2013| 3  
+2015| 1  
+2016| 8  
+2017| 8  
+2018| 3  
+2019| 3  
+2020| 7  
+2021| 2  
+2022| 6  
+2023| 4  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+VAN NOSTRAND's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (260)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [RNA-Binding Proteins](https://profiles.viictr.org/profile/262122)
+  * [Immunoprecipitation](https://profiles.viictr.org/profile/257805)
+  * [RNA](https://profiles.viictr.org/profile/243081)
+  * [Caenorhabditis elegans](https://profiles.viictr.org/profile/251854)
+  * [Binding Sites](https://profiles.viictr.org/profile/250581)
+
+[Explore](https://profiles.viictr.org/profile/30426460/198)
+
+_
+
+Co-Authors (12)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [MILOSAVLJEVIC, ALEKSANDAR](https://profiles.viictr.org/profile/268148)
+  * [VAN NOSTRAND, JEANINE](https://profiles.viictr.org/profile/32901595)
+  * [MARTINEZ, FERNANDO](https://profiles.viictr.org/profile/12583796)
+  * [BOBKOV, GEORG](https://profiles.viictr.org/profile/28999317)
+  * [Le Roux, Charlotte](https://profiles.viictr.org/profile/47100861)
+
+[Explore](https://profiles.viictr.org/profile/30426460/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [COOPER, THOMAS](https://profiles.viictr.org/profile/269742)
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [WILUSZ, JEREMY](https://profiles.viictr.org/profile/35949597)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+
+[Explore](https://profiles.viictr.org/profile/30426460/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BALDWIN, PHILIP](https://profiles.viictr.org/profile/268193)
+  * [KIM, CHOEL](https://profiles.viictr.org/profile/266336)
+  * [REDDY, R](https://profiles.viictr.org/profile/267427)
+  * [SERYSHEVA, IRINA](https://profiles.viictr.org/profile/266963)
+  * [TSAI, FRANCIS](https://profiles.viictr.org/profile/267524)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

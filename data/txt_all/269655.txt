@@ -1,0 +1,636 @@
+## RICHARD WENDT III
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JK4nwWfELcXwQpo%3d&rnd=b6be4cee-9796-4906-ba1e-16a5bc6e93cc)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269655)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01CA040571 (WENDT, RICHARD)May 1, 1986 - Apr 30, 1990NIH/NCI  
+FLOW AND MOTION IMAGING BY MAGNETIC RESONANCE  
+Role: Principal Investigator  
+---  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Kim D, Wang N, Ravikumar V, Raghuram DR, Li J, Patel A, Wendt RE, Rao G, Rao A. Prediction of 1p/19q Codeletion in Diffuse Glioma Patients Using Pre-operative Multiparametric Magnetic Resonance Imaging. Front Comput Neurosci. 2019; 13:52. PMID: [31417387](//www.ncbi.nlm.nih.gov/pubmed/31417387); PMCID: [PMC6682685](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6682685).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31417387/citedby/)
+
+  2. Wendt RE, Ai HA, Meier JG, Lopez BP, Fahrenholtz SJ, [Mawlawi OR](https://profiles.viictr.org/profile/12582618). A measurement of the attenuation of radiation from F-18 by a PET/MR scanner. J Appl Clin Med Phys. 2018 Nov; 19(6):336-340. PMID: [30338918](//www.ncbi.nlm.nih.gov/pubmed/30338918); PMCID: [PMC6236846](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6236846).
+
+Citations:  Fields:
+
+Bio BiophysicsPhy Physics
+
+Translation:Humans
+
+  3. Ai HA, Meier JG, Wendt RE. HU deviation in lung and bone tissues: Characterization and a corrective strategy. Med Phys. 2018 May; 45(5):2108-2118. PMID: [29574856](//www.ncbi.nlm.nih.gov/pubmed/29574856).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29574856/citedby/) Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  4. Ingram WS, Yang J, Wendt R, Beadle BM, Rao A, Wang XA, [Court LE](https://profiles.viictr.org/profile/12582626). The influence of non-rigid anatomy and patient positioning on endoscopy-CT image registration in the head and neck. Med Phys. 2017 Aug; 44(8):4159-4168. PMID: [28513864](//www.ncbi.nlm.nih.gov/pubmed/28513864).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28513864/citedby/) Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  5. Ingram WS, Yang J, Beadle BM, Wendt R, Rao A, Wang XA, [Court LE](https://profiles.viictr.org/profile/12582626). The feasibility of endoscopy-CT image registration in the head and neck without prospective endoscope tracking. PLoS One. 2017; 12(5):e0177886. PMID: [28542331](//www.ncbi.nlm.nih.gov/pubmed/28542331); PMCID: [PMC5436843](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5436843).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28542331/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  6. [Araujo JC](https://profiles.viictr.org/profile/12582649), Erwin WD, Wendt RE, Swanston NM, Fox P, [Macapinlac HA](https://profiles.viictr.org/profile/12582999), [Rohren EM](https://profiles.viictr.org/profile/15317848), Etchebehere EC, Milton DR. Skeletal Tumor Burden on Baseline 18F-Fluoride PET/CT Predicts Bone Marrow Failure After 223Ra Therapy. Clin Nucl Med. 2016 Apr; 41(4):268-73. PMID: [26828141](//www.ncbi.nlm.nih.gov/pubmed/26828141).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26828141/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Humans
+
+  7. Zhou JJ, Gonzalez A, Lenox MW, Fossum TW, Frank RK, Simon J, Stearns S, Ruoff CM, Wendt RE, Akabani G. Dosimetry of a (90)Y-hydroxide liquid brachytherapy treatment approach to canine osteosarcoma using PET/CT. Appl Radiat Isot. 2015 Mar; 97:193-200. PMID: [25638490](//www.ncbi.nlm.nih.gov/pubmed/25638490).
+
+Citations:  Fields:
+
+Env Environmental HealthNuc Nuclear Medicine
+
+  8. Wendt R. SU-E-I-85: Evaluation of a Solid-State Dosimeter Module for Measuring Nuclear Medicine Radionuclides. Med Phys. 2012 Jun; 39(6Part5):3644. PMID: [28517662](//www.ncbi.nlm.nih.gov/pubmed/28517662).
+
+Citations:  Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+  9. Nishii R, Tong W, Wendt R, Soghomonyan S, Mukhopadhyay U, Balatoni J, [Mawlawi O](https://profiles.viictr.org/profile/12582618), Bidaut L, [Tinkey P](https://profiles.viictr.org/profile/12583674), Borne A, [Alauddin M](https://profiles.viictr.org/profile/12583043), [Gonzalez-Lepera C](https://profiles.viictr.org/profile/12583807), Yang B, Gelovani JG. Pharmacokinetics, metabolism, biodistribution, radiation dosimetry, and toxicology of (18)F-fluoroacetate ((18)F-FACE) in non-human primates. Mol Imaging Biol. 2012 Apr; 14(2):213-24. PMID: [21437735](//www.ncbi.nlm.nih.gov/pubmed/21437735); PMCID: [PMC3902791](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3902791).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21437735/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular Biology
+
+Translation:HumansAnimals
+
+  10. Frank RK, Crump DK, Erwin WD, [Ueno NT](https://profiles.viictr.org/profile/12582890), Wendt RE, Sim?n J. A preclinical investigation of the saturation and dosimetry of 153Sm-DOTMP as a bone-seeking radiopharmaceutical. Nucl Med Biol. 2012 Aug; 39(6):770-6. PMID: [22459336](//www.ncbi.nlm.nih.gov/pubmed/22459336); PMCID: [PMC3389123](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3389123).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22459336/citedby/) Fields:
+
+Bio BiologyNuc Nuclear Medicine
+
+Translation:HumansAnimals
+
+  11. Tian M, Ogawa K, Wendt R, Mukhopadhyay U, Balatoni J, Fukumitsu N, Uthamanthil R, Borne A, Brammer D, Jackson J, [Mawlawi O](https://profiles.viictr.org/profile/12582618), Yang B, [Alauddin MM](https://profiles.viictr.org/profile/12583043), Gelovani JG. Whole-body biodistribution kinetics, metabolism, and radiation dosimetry estimates of 18F-PEG6-IPQA in nonhuman primates. J Nucl Med. 2011 Jun; 52(6):934-41. PMID: [21571803](//www.ncbi.nlm.nih.gov/pubmed/21571803); PMCID: [PMC4013275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4013275).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21571803/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Animals
+
+  12. Erwin WD, Stevens DM, Bidaut LM, Mar MV, [Macapinlac HA](https://profiles.viictr.org/profile/12582999), Wendt RE, Dickinson RL. Hybrid Modality Fusion of Planar Scintigrams and CT Topograms to Localize Sentinel Lymph Nodes in Breast Lymphoscintigraphy: Technical Description and Phantom Studies. Int J Mol Imaging. 2011; 2011:298102. PMID: [21490727](//www.ncbi.nlm.nih.gov/pubmed/21490727); PMCID: [PMC3065894](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3065894).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21490727/citedby/)
+
+  13. Grant RL, Crowder ML, [Ibbott GS](https://profiles.viictr.org/profile/12582611), Simon J, Frank RK, Rogers J, Loy HM, Adamovics J, Newton J, Oldham M, Stearns S, Wendt RE. Three-Dimensional Dosimetry of a Beta-Emitting Radionuclide Using PRESAGE Dosimeters. J Phys Conf Ser. 2010 Dec 07; 250(1). PMID: [21218189](//www.ncbi.nlm.nih.gov/pubmed/21218189); PMCID: [PMC3016851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3016851).
+
+Citations:
+
+  14. Erwin WD, Wendt RE, Stachowiak A, Mar M, Stevens D, [Madewell JE](https://profiles.viictr.org/profile/12583366), Yeung HW, [Macapinlac HA](https://profiles.viictr.org/profile/12582999), N??ez R. Acquisition parameters for oncologic imaging with a new SPECT/multislice CT scanner. Mol Imaging Biol. 2010 Apr; 12(2):110-38. PMID: [20049543](//www.ncbi.nlm.nih.gov/pubmed/20049543).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20049543/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular Biology
+
+Translation:Humans
+
+  15. [Ueno NT](https://profiles.viictr.org/profile/12582890), de Souza JA, [Booser D](https://profiles.viictr.org/profile/12582893), Nakayama K, [Madewell J](https://profiles.viictr.org/profile/12583366), Wendt RE, Hortobagyi GN, Podoloff D, [Champlin RE](https://profiles.viictr.org/profile/12582508). Pilot study of targeted skeletal radiation therapy for bone-only metastatic breast cancer. Clin Breast Cancer. 2009 Aug; 9(3):173-7. PMID: [19661041](//www.ncbi.nlm.nih.gov/pubmed/19661041).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19661041/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  16. [Kappadath SC](https://profiles.viictr.org/profile/12583763), Erwin WD, Wendt RE. A novel method to evaluate gamma camera rotational uniformity and sensitivity variation. Med Phys. 2009 Jun; 36(6):1947-55. PMID: [19610283](//www.ncbi.nlm.nih.gov/pubmed/19610283); PMCID: [PMC3966082](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3966082).
+
+Citations:  Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+  17. Mar MV, Dickinson RL, Erwin WD, Wendt RE. Optimal (57)Co flood source activity and acquisition time for lymphoscintigraphy localization images. J Nucl Med Technol. 2008 Jun; 36(2):82-7. PMID: [18483139](//www.ncbi.nlm.nih.gov/pubmed/18483139).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18483139/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Humans
+
+  18. Christoforidou AV, [Saliba RM](https://profiles.viictr.org/profile/12582573), Williams P, [Qazilbash M](https://profiles.viictr.org/profile/12583787), Roden L, Aleman A, [Weber D](https://profiles.viictr.org/profile/12582903), Mendoza F, Podoloff D, Wendt R, Breitz H, Alexanian R, [Champlin R](https://profiles.viictr.org/profile/12582508), Giralt S. Results of a retrospective single institution analysis of targeted skeletal radiotherapy with (166)Holmium-DOTMP as conditioning regimen for autologous stem cell transplant for patients with multiple myeloma. Impact on transplant outcomes. Biol Blood Marrow Transplant. 2007 May; 13(5):543-9. PMID: [17448913](//www.ncbi.nlm.nih.gov/pubmed/17448913).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17448913/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:Humans
+
+  19. [Kappadath SC](https://profiles.viictr.org/profile/12583763), Erwin WD, Wendt RE. Observed inter-camera variability of clinically relevant performance characteristics for Siemens Symbia gamma cameras. J Appl Clin Med Phys. 2006 Nov 28; 7(4):74-80. PMID: [17533358](//www.ncbi.nlm.nih.gov/pubmed/17533358); PMCID: [PMC5722386](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5722386).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17533358/citedby/) Fields:
+
+Bio BiophysicsPhy Physics
+
+  20. Breitz HB, Wendt RE, Stabin MS, Shen S, Erwin WD, Rajendran JG, Eary JF, Durack L, Delpassand E, Martin W, Meredith RF. 166Ho-DOTMP radiation-absorbed dose estimation for skeletal targeted radiotherapy. J Nucl Med. 2006 Mar; 47(3):534-42. PMID: [16513624](//www.ncbi.nlm.nih.gov/pubmed/16513624).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16513624/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:HumansPHPublic HealthCTClinical Trials
+
+  21. Madsen MT, Anderson JA, Halama JR, Kleck J, Simpkin DJ, Votaw JR, Wendt RE, Williams LE, Yester MV. AAPM Task Group 108: PET and PET/CT shielding requirements. Med Phys. 2006 01; 33(1):4-15. PMID: [16485403](//www.ncbi.nlm.nih.gov/pubmed/16485403).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16485403/citedby/) Fields:
+
+Bio BiophysicsPhy PhysicsRad RadiologyRad Radiotherapy
+
+Translation:PHPublic Health
+
+  22. [Bandi V](https://profiles.viictr.org/profile/266259), Velamuri S, Sirgi C, Wendt J, Wendt R, [Guntupalli K](https://profiles.viictr.org/profile/266913). Deposition pattern of heliox-driven bronchodilator aerosol in the airways of stable asthmatics. J Asthma. 2005 Sep; 42(7):583-6. PMID: [16169793](//www.ncbi.nlm.nih.gov/pubmed/16169793).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16169793/citedby/) Fields:
+
+All Allergy and ImmunologyPul Pulmonary Medicine
+
+Translation:Humans
+
+  23. Keleher A, Wendt R, Delpassand E, Stachowiak AM, [Kuerer HM](https://profiles.viictr.org/profile/12582567). The safety of lymphatic mapping in pregnant breast cancer patients using Tc-99m sulfur colloid. Breast J. 2004 Nov-Dec; 10(6):492-5. PMID: [15569204](//www.ncbi.nlm.nih.gov/pubmed/15569204).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15569204/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  24. Wen X, Cao X, Pasuelo MJ, Wendt R, [Li C](https://profiles.viictr.org/profile/12583241). Polymeric radiotracers in nuclear imaging. Curr Drug Deliv. 2004 Oct; 1(4):377-84. PMID: [16305399](//www.ncbi.nlm.nih.gov/pubmed/16305399).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16305399/citedby/) Fields:
+
+Dru Drug TherapyPha Pharmacology
+
+Translation:HumansAnimals
+
+  25. Schechter NR, Wendt RE, Yang DJ, Azhdarinia A, Erwin WD, Stachowiak AM, Broemeling LD, Kim EE, Cox JD, Podoloff DA, Ang KK. Radiation dosimetry of 99mTc-labeled C225 in patients with squamous cell carcinoma of the head and neck. J Nucl Med. 2004 Oct; 45(10):1683-7. PMID: [15471833](//www.ncbi.nlm.nih.gov/pubmed/15471833).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15471833/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:HumansPHPublic HealthCTClinical Trials
+
+  26. Giralt S, Bensinger W, Goodman M, Podoloff D, Eary J, Wendt R, Alexanian R, [Weber D](https://profiles.viictr.org/profile/12582903), Maloney D, Holmberg L, Rajandran J, Breitz H, Ghalie R, [Champlin R](https://profiles.viictr.org/profile/12582508). 166Ho-DOTMP plus melphalan followed by peripheral blood stem cell transplantation in patients with multiple myeloma: results of two phase 1/2 trials. Blood. 2003 Oct 01; 102(7):2684-91. PMID: [12730103](//www.ncbi.nlm.nih.gov/pubmed/12730103).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12730103/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCTClinical Trials
+
+  27. Siegel BA, Dehdashti F, Mutch DG, Podoloff DA, Wendt R, Sutton GP, Burt RW, Ellis PR, Mathias CJ, Green MA, Gershenson DM. Evaluation of 111In-DTPA-folate as a receptor-targeted diagnostic agent for ovarian cancer: initial clinical results. J Nucl Med. 2003 May; 44(5):700-7. PMID: [12732670](//www.ncbi.nlm.nih.gov/pubmed/12732670).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12732670/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Humans
+
+  28. Breitz H, Wendt R, Stabin M, Bouchet L, Wessels B. Dosimetry of high dose skeletal targeted radiotherapy (STR) with 166Ho-DOTMP. Cancer Biother Radiopharm. 2003 Apr; 18(2):225-30. PMID: [12804048](//www.ncbi.nlm.nih.gov/pubmed/12804048).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12804048/citedby/) Fields:
+
+Neo NeoplasmsPha PharmacologyRad RadiotherapyThe Therapeutics
+
+Translation:HumansCTClinical Trials
+
+  29. Schechter NR, Yang DJ, Azhdarinia A, Kohanim S, Wendt R, Oh CS, Hu M, Yu DF, Bryant J, Ang KK, Forster KM, Kim EE, Podoloff DA. Assessment of epidermal growth factor receptor with 99mTc-ethylenedicysteine-C225 monoclonal antibody. Anticancer Drugs. 2003 Jan; 14(1):49-56. PMID: [12544258](//www.ncbi.nlm.nih.gov/pubmed/12544258).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12544258/citedby/) Fields:
+
+Ant Antineoplastic Agents
+
+Translation:HumansAnimalsCells
+
+  30. Wendt RE, McCullough SP. MIRDOSE 3.1 gives erroneous results under windows NT. J Nucl Med. 1998 May; 39(5):927. PMID: [9591603](//www.ncbi.nlm.nih.gov/pubmed/9591603).
+
+Citations:  Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Humans
+
+  31. Lin C, Wendt RE, Evans HJ, Rowe RM, Hedrick TD, LeBlanc AD. Eddy current correction in volume-localized MR spectroscopy. J Magn Reson Imaging. 1994 Nov-Dec; 4(6):823-7. PMID: [7865943](//www.ncbi.nlm.nih.gov/pubmed/7865943).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Cells
+
+  32. Geva T, [Vick GW](https://profiles.viictr.org/profile/266830), Wendt RE, Rokey R. Role of spin echo and cine magnetic resonance imaging in presurgical planning of heterotaxy syndrome. Comparison with echocardiography and catheterization. Circulation. 1994 Jul; 90(1):348-56. PMID: [8026017](//www.ncbi.nlm.nih.gov/pubmed/8026017).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8026017/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  33. Wendt RE. Automatic adjustment of contrast and brightness of magnetic resonance images. J Digit Imaging. 1994 May; 7(2):95-7. PMID: [8075191](//www.ncbi.nlm.nih.gov/pubmed/8075191).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8075191/citedby/) Fields:
+
+Dia Diagnostic ImagingMed Medical InformaticsRad Radiology
+
+Translation:Humans
+
+  34. [Vick GW](https://profiles.viictr.org/profile/266830), Wendt RE, Rokey R. Comparison of gradient echo with spin echo magnetic resonance imaging and echocardiography in the evaluation of major aortopulmonary collateral arteries. Am Heart J. 1994 May; 127(5):1341-7. PMID: [8172063](//www.ncbi.nlm.nih.gov/pubmed/8172063).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8172063/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  35. LeBlanc AD, Evans HJ, Schneider VS, Wendt RE, Hedrick TD. Changes in intervertebral disc cross-sectional area with bed rest and space flight. Spine (Phila Pa 1976). 1994 Apr 01; 19(7):812-7. PMID: [8202800](//www.ncbi.nlm.nih.gov/pubmed/8202800).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8202800/citedby/) Fields:
+
+Ort Orthopedics
+
+Translation:Humans
+
+  36. Smart FW, Young JB, Weilbaecher D, Kleiman NS, Wendt RE, Johnston DL. Magnetic resonance imaging for assessment of tissue rejection after heterotopic heart transplantation. J Heart Lung Transplant. 1993 May-Jun; 12(3):403-10. PMID: [8329410](//www.ncbi.nlm.nih.gov/pubmed/8329410).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8329410/citedby/) Fields:
+
+Car CardiologyPul Pulmonary MedicineTra Transplantation
+
+Translation:Humans
+
+  37. Johnston DL, Gupta VK, Wendt RE, Mahmarian JJ, Verani MS. Detection of viable myocardium in segments with fixed defects on thallium-201 scintigraphy: usefulness of magnetic resonance imaging early after acute myocardial infarction. Magn Reson Imaging. 1993; 11(7):949-56. PMID: [8231680](//www.ncbi.nlm.nih.gov/pubmed/8231680).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8231680/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  38. Wendt RE, Wong WF. Nuclear magnetic resonance velocity spectra of pulsatile flow in a rigid tube. Magn Reson Med. 1992 Oct; 27(2):214-25. PMID: [1461109](//www.ncbi.nlm.nih.gov/pubmed/1461109).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  39. Wendt RE, Rokey R, Wong WF, Marks A. Magnetic resonance velocity measurements in small arteries. Comparison with Doppler ultrasonic measurements in the aortas of normal rabbits. Invest Radiol. 1992 Jul; 27(7):499-503. PMID: [1644547](//www.ncbi.nlm.nih.gov/pubmed/1644547).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1644547/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  40. Johnston DL, Wendt RE, Mulvagh SL, Rubin H. Characterization of acute myocardial infarction by magnetic resonance imaging. Am J Cardiol. 1992 May 15; 69(16):1291-5. PMID: [1585862](//www.ncbi.nlm.nih.gov/pubmed/1585862).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1585862/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  41. Wong WF, Rokey R, Wendt RE, [Vick GW](https://profiles.viictr.org/profile/266830). An electrocardiograph-respiration gating device for MR studies. J Magn Reson Imaging. 1992 Mar-Apr; 2(2):233-5. PMID: [1562777](//www.ncbi.nlm.nih.gov/pubmed/1562777).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  42. Wendt RE, Rokey R, Marks A. A means of microsphere reference sampling that is compatible with nuclear magnetic resonance instruments. Magn Reson Med. 1991 Sep; 21(1):127-31. PMID: [1943669](//www.ncbi.nlm.nih.gov/pubmed/1943669).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  43. Simonetti OP, Wendt RE, Duerk JL. Significance of the point of expansion in interpretation of gradient moments and motion sensitivity. J Magn Reson Imaging. 1991 Sep-Oct; 1(5):569-77. PMID: [1790382](//www.ncbi.nlm.nih.gov/pubmed/1790382).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1790382/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  44. Wendt RE. Interactive design of motion-compensated gradient waveforms with a personal computer spreadsheet program. J Magn Reson Imaging. 1991 Jan-Feb; 1(1):87-92. PMID: [1802136](//www.ncbi.nlm.nih.gov/pubmed/1802136).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1802136/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  45. Wendt RE, Nitz WR, Murphy PH. Nuclear magnetic resonance velocity spectra of steady flow. Magn Reson Med. 1990 Jul; 15(1):90-101. PMID: [2374504](//www.ncbi.nlm.nih.gov/pubmed/2374504).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  46. Wendt RE, Nitz W, [Morrisett JD](https://profiles.viictr.org/profile/266458), Hedrick TD. A technique for flow-enhanced magnetic resonance angiography of the lower extremities. Magn Reson Imaging. 1990; 8(6):723-8. PMID: [2266798](//www.ncbi.nlm.nih.gov/pubmed/2266798).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  47. Wedeen VJ, Wendt RE, Jerosch-Herold M. Motional phase artifacts in Fourier transform MRI. Magn Reson Med. 1989 Jul; 11(1):114-20. PMID: [2747511](//www.ncbi.nlm.nih.gov/pubmed/2747511).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2747511/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  48. Wendt RE, Nitz W, [Murphy PH](https://profiles.viictr.org/profile/267419), Bryan RN. Characterization of fluid flow using low-spatial-resolution velocity spectra from NMR images. Magn Reson Med. 1989 Apr; 10(1):71-88. PMID: [2755335](//www.ncbi.nlm.nih.gov/pubmed/2755335).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2755335/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  49. Wendt RE, Wilcott MR, Nitz W, [Murphy PH](https://profiles.viictr.org/profile/267419), Bryan RN. MR imaging of susceptibility-induced magnetic field inhomogeneities. Radiology. 1988 Sep; 168(3):837-41. PMID: [3406413](//www.ncbi.nlm.nih.gov/pubmed/3406413).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3406413/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  50. Rokey R, Wendt RE, Johnston DL. Monitoring of acutely ill patients during nuclear magnetic resonance imaging: use of a time-varying filter electrocardiographic gating device to reduce gradient artifacts. Magn Reson Med. 1988 Feb; 6(2):240-5. PMID: [3367781](//www.ncbi.nlm.nih.gov/pubmed/3367781).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3367781/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansCells
+
+  51. Wendt RE, Rokey R, [Vick GW](https://profiles.viictr.org/profile/266830), Johnston DL. Electrocardiographic gating and monitoring in NMR imaging. Magn Reson Imaging. 1988; 6(1):89-95. PMID: [3352484](//www.ncbi.nlm.nih.gov/pubmed/3352484).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3352484/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  52. Wendt RE, Murphy PH, Rokey R. NMR "gating" really means "synchronization". J Nucl Med. 1987 Apr; 28(4):545-6. PMID: [3572540](//www.ncbi.nlm.nih.gov/pubmed/3572540).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3572540/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Humans
+
+  53. Rokey R, Verani MS, Bolli R, Kuo LC, Ford JJ, Wendt RE, Schneiders NJ, Bryan RN, Roberts R. Myocardial infarct size quantification by MR imaging early after coronary artery occlusion in dogs. Radiology. 1986 Mar; 158(3):771-4. PMID: [3945752](//www.ncbi.nlm.nih.gov/pubmed/3945752).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3945752/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  54. Wendt RE, [Murphy PH](https://profiles.viictr.org/profile/267419), Ford JJ, Bryan RN, Burdine JA. Phase alterations of spin echoes by motion along magnetic field gradients. Magn Reson Med. 1985 Dec; 2(6):527-33. PMID: [3880094](//www.ncbi.nlm.nih.gov/pubmed/3880094).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+  55. Wendt RE, Murphy PH, Clark JW, Burdine JA. Interpretation of multigated Fourier functional images. J Nucl Med. 1982 Aug; 23(8):715-24. PMID: [7108615](//www.ncbi.nlm.nih.gov/pubmed/7108615).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7108615/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 35 publications over 17 distinct years, with a maximum of
+5 publications in
+1994](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:100,0,0,0,20,0,0,0,0,80,60,20,60,20,20,40,60,20,60,0,20,0,20,40,40,20,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 5  
+1998| 1  
+2003| 4  
+2004| 3  
+2005| 1  
+2006| 3  
+2007| 1  
+2008| 1  
+2009| 2  
+2010| 3  
+2011| 1  
+2012| 3  
+2014| 1  
+2016| 1  
+2017| 2  
+2018| 2  
+2019| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+WENDT III's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (232)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Fluorine Radioisotopes](https://profiles.viictr.org/profile/259437)
+  * [Radiation Protection](https://profiles.viictr.org/profile/250382)
+  * [Radionuclide Imaging](https://profiles.viictr.org/profile/241120)
+  * [Bone and Bones](https://profiles.viictr.org/profile/251466)
+  * [Gamma Cameras](https://profiles.viictr.org/profile/247533)
+
+[Explore](https://profiles.viictr.org/profile/269655/198)
+
+_
+
+Co-Authors (26)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [WENDT III, RICHARD](https://profiles.viictr.org/profile/12583311)
+  * [MAWLAWI, OSAMA](https://profiles.viictr.org/profile/12582618)
+  * [KAPPADATH, S CHEENU](https://profiles.viictr.org/profile/12583763)
+  * [COURT, LAURENCE EDWARD](https://profiles.viictr.org/profile/12582626)
+  * [LI, CHUN](https://profiles.viictr.org/profile/12583241)
+
+[Explore](https://profiles.viictr.org/profile/269655/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [MAWLAWI, OSAMA](https://profiles.viictr.org/profile/12582618)
+  * [COURT, LAURENCE EDWARD](https://profiles.viictr.org/profile/12582626)
+  * [MACAPINLAC, HOMER A](https://profiles.viictr.org/profile/12582999)
+  * [PAN, TINSU](https://profiles.viictr.org/profile/12582663)
+
+[Explore](https://profiles.viictr.org/profile/269655/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [DIAZ-MARCHAN, PEDRO](https://profiles.viictr.org/profile/269380)
+  * [MOELLER, KAREN](https://profiles.viictr.org/profile/51898388)
+  * [MORON, FANNY](https://profiles.viictr.org/profile/270219)
+  * [SEPULVEDA, KARLA](https://profiles.viictr.org/profile/266060)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqNFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BHUIYAN, NASIR](https://profiles.viictr.org/profile/268931)
+  * [KUKREJA, KAMLESH](https://profiles.viictr.org/profile/3494043)
+  * [LENGE DE ROSEN, VERONICA](https://profiles.viictr.org/profile/269109)
+  * [SADA, DAVID](https://profiles.viictr.org/profile/3708899)
+  * [SEPULVEDA, KARLA](https://profiles.viictr.org/profile/266060)
+
+_
+

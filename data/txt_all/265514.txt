@@ -1,0 +1,586 @@
+## KIMBERLEY TOLIAS
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=IqQ86GTUQIn2S8Ho5G4%3d&rnd=3694135d-cc47-48e1-8596-4f2b76b91a80)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=265514)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Division| Biochemistry & Mol Pharmacology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Yao C, Fang X, Ru Q, Li W, Li J, Mehsein Z, **Tolias KF** , Li L. Tiam1-mediated maladaptive plasticity underlying morphine tolerance and hyperalgesia. Brain. 2024 Jul 05; 147(7):2507-2521. PMID: [38577773](//www.ncbi.nlm.nih.gov/pubmed/38577773); PMCID: [PMC11224607](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11224607).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38577773/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  2. [Anderson ED](https://profiles.viictr.org/profile/31454200), Cronkite CA, **Tolias KF** , [Ludtke SJ](https://profiles.viictr.org/profile/270167). Correlative Cryo-FIB and Cryo-ET of Dendritic Spines and Synaptic Connections. Microsc Microanal. 2023 Jul 22; 29(29 Suppl 1):1086. PMID: [37613301](//www.ncbi.nlm.nih.gov/pubmed/37613301); PMCID: [PMC11094623](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11094623).
+
+Citations:  Fields:
+
+Che Chemistry Techniques
+
+  3. Li L, Ru Q, Lu Y, [Fang X](https://profiles.viictr.org/profile/37104231), Chen G, Saifullah AB, Yao C, **Tolias KF**. Tiam1 coordinates synaptic structural and functional plasticity underpinning the pathophysiology of neuropathic pain. Neuron. 2023 07 05; 111(13):2038-2050.e6. PMID: [37146610](//www.ncbi.nlm.nih.gov/pubmed/37146610); PMCID: [PMC10330505](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10330505).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37146610/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  4. Sharma J, Mulherkar S, Chen UI, Xiong Y, Bajaj L, Cho BK, Goo YA, Leung HE, **Tolias KF** , Sardiello M. Calpain activity is negatively regulated by a KCTD7-Cullin-3 complex via non-degradative ubiquitination. Cell Discov. 2023 Mar 24; 9(1):32. PMID: [36964131](//www.ncbi.nlm.nih.gov/pubmed/36964131); PMCID: [PMC10038992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10038992).
+
+Citations:
+
+  5. Ru Q, Lu Y, Saifullah AB, Blanco FA, Yao C, [Cata JP](https://profiles.viictr.org/profile/12583020), Li DP, **Tolias KF** , Li L. TIAM1-mediated synaptic plasticity underlies comorbid depression-like and ketamine antidepressant-like actions in chronic pain. J Clin Invest. 2022 12 15; 132(24). PMID: [36519542](//www.ncbi.nlm.nih.gov/pubmed/36519542); PMCID: [PMC9753999](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9753999).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36519542/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Animals
+
+  6. Choudhury D, Autry AE, **Tolias KF** , [Krishnan V](https://profiles.viictr.org/profile/22275666). Ketamine: Neuroprotective or Neurotoxic? Front Neurosci. 2021; 15:672526. PMID: [34566558](//www.ncbi.nlm.nih.gov/pubmed/34566558); PMCID: [PMC8461018](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8461018).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34566558/citedby/)
+
+  7. [Duman JG](https://profiles.viictr.org/profile/268900), Blanco FA, Cronkite CA, Ru Q, Erikson KC, Mulherkar S, Saifullah AB, Firozi K, **Tolias KF**. Rac-maninoff and Rho-vel: The symphony of Rho-GTPase signaling at excitatory synapses. Small GTPases. 2022 01; 13(1):14-47. PMID: [33955328](//www.ncbi.nlm.nih.gov/pubmed/33955328); PMCID: [PMC9707551](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9707551).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33955328/citedby/) Fields:
+
+Bio BiochemistryCel Cell Biology
+
+  8. Cheng J, Scala F, Blanco FA, Niu S, Firozi K, Keehan L, Mulherkar S, Froudarakis E, Li L, [Duman JG](https://profiles.viictr.org/profile/268900), [Jiang X](https://profiles.viictr.org/profile/268555), **Tolias KF**. The Rac-GEF Tiam1 Promotes Dendrite and Synapse Stabilization of Dentate Granule Cells and Restricts Hippocampal-Dependent Memory Functions. J Neurosci. 2021 02 10; 41(6):1191-1206. PMID: [33328293](//www.ncbi.nlm.nih.gov/pubmed/33328293); PMCID: [PMC7888217](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7888217).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33328293/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  9. Cadwell CR, Scala F, Fahey PG, Mulherkar S, [Sinz FH](https://profiles.viictr.org/profile/11761036), Papadopoulos S, Tan ZH, Johnsson P, Hartmanis L, Li S, Cotton RJ, **Tolias KF** , Sandberg R, [Jiang X](https://profiles.viictr.org/profile/268555), [Tolias AS](https://profiles.viictr.org/profile/265515), Kobak D, Berens P. Cell type composition and circuit organization of clonally related excitatory neurons in the juvenile mouse neocortex. Elife. 2020 03 05; 9. PMID: [32134385](//www.ncbi.nlm.nih.gov/pubmed/32134385); PMCID: [PMC7162653](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7162653).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32134385/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  10. Mulherkar S, **Tolias KF**. RhoA-ROCK Signaling as a Therapeutic Target in Traumatic Brain Injury. Cells. 2020 01 18; 9(1). PMID: [31963704](//www.ncbi.nlm.nih.gov/pubmed/31963704); PMCID: [PMC7016605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7016605).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31963704/citedby/) Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  11. [Duman JG](https://profiles.viictr.org/profile/268900), Mulherkar S, Tu YK, Erikson KC, Tzeng CP, Mavratsas VC, Ho TS, **Tolias KF**. The adhesion-GPCR BAI1 shapes dendritic arbors via Bcr-mediated RhoA activation causing late growth arrest. Elife. 2019 08 28; 8. PMID: [31461398](//www.ncbi.nlm.nih.gov/pubmed/31461398); PMCID: [PMC6713510](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6713510).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31461398/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  12. Morgan RK, Anderson GR, Aust G, Balenga N, Bridges JP, Formstone CJ, Glitsch MD, Gray RS, Hall RA, Hsiao CC, Kim HY, Kusuluri DK, Leon K, Piao X, **Tolias KF** , Ushkaryov YA, Vallon M, Van Meir EG, Wolfrum U, Wright KM, Monk KR, Mogha A, Ara? D, Boucard A, Engel FB, Knierim AB, Liebscher I, Pr?mel S, Scholz N, Srivastava S, Thor D, Vanhollebeke B. The expanding functional roles and signaling mechanisms of adhesion G protein-coupled receptors. Ann N Y Acad Sci. 2019 11; 1456(1):5-25. PMID: [31168816](//www.ncbi.nlm.nih.gov/pubmed/31168816); PMCID: [PMC7891679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7891679).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31168816/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  13. Wang L, Pang K, Han K, Adamski CJ, Wang W, He L, Lai JK, Bondar VV, [Duman JG](https://profiles.viictr.org/profile/268900), Richman R, **Tolias KF** , Barth P, [Palzkill T](https://profiles.viictr.org/profile/269759), [Liu Z](https://profiles.viictr.org/profile/266153), Holder JL, [Zoghbi HY](https://profiles.viictr.org/profile/267945). An autism-linked missense mutation in SHANK3 reveals the modularity of Shank3 function. Mol Psychiatry. 2020 10; 25(10):2534-2555. PMID: [30610205](//www.ncbi.nlm.nih.gov/pubmed/30610205); PMCID: [PMC6609509](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6609509).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30610205/citedby/) Fields:
+
+Mol Molecular BiologyPsy Psychiatry
+
+Translation:HumansAnimalsCells
+
+  14. Tu YK, [Duman JG](https://profiles.viictr.org/profile/268900), **Tolias KF**. The Adhesion-GPCR BAI1 Promotes Excitatory Synaptogenesis by Coordinating Bidirectional Trans-synaptic Signaling. J Neurosci. 2018 09 26; 38(39):8388-8406. PMID: [30120207](//www.ncbi.nlm.nih.gov/pubmed/30120207); PMCID: [PMC6158688](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6158688).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30120207/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  15. [Duman JG](https://profiles.viictr.org/profile/268900), Dinh J, [Zhou W](https://profiles.viictr.org/profile/12582713), Cham H, Mavratsas VC, Mulherkar S, [McGovern SL](https://profiles.viictr.org/profile/12582719), **Tolias KF** , [Grosshans DR](https://profiles.viictr.org/profile/12583839), Pave?kovic M. Memantine prevents acute radiation-induced toxicities at hippocampal excitatory synapses. Neuro Oncol. 2018 04 09; 20(5):655-665. PMID: [29112734](//www.ncbi.nlm.nih.gov/pubmed/29112734); PMCID: [PMC5892158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5892158).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29112734/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:AnimalsCellsPHPublic Health
+
+  16. Mulherkar S, Firozi K, Huang W, Uddin MD, Grill RJ, [Costa-Mattioli M](https://profiles.viictr.org/profile/265824), [Robertson C](https://profiles.viictr.org/profile/269529), **Tolias KF**. RhoA-ROCK Inhibition Reverses Synaptic Remodeling and Motor and Cognitive Deficits Caused by Traumatic Brain Injury. Sci Rep. 2017 09 06; 7(1):10689. PMID: [28878396](//www.ncbi.nlm.nih.gov/pubmed/28878396); PMCID: [PMC5587534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5587534).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28878396/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  17. [Duman JG](https://profiles.viictr.org/profile/268900), **Tolias KF**. RhoGTPases Spread the Word for Synaptic Crosstalk. Dev Cell. 2016 10 24; 39(2):136-138. PMID: [27780038](//www.ncbi.nlm.nih.gov/pubmed/27780038).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27780038/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansCells
+
+  18. Lai KO, Jordan BA, Ma XM, Srivastava DP, **Tolias KF**. Molecular Mechanisms of Dendritic Spine Development and Plasticity. Neural Plast. 2016; 2016:2078121. PMID: [27127656](//www.ncbi.nlm.nih.gov/pubmed/27127656); PMCID: [PMC4834162](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4834162).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27127656/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  19. [Duman JG](https://profiles.viictr.org/profile/268900), Tu YK, **Tolias KF**. Emerging Roles of BAI Adhesion-GPCRs in Synapse Development and Plasticity. Neural Plast. 2016; 2016:8301737. PMID: [26881134](//www.ncbi.nlm.nih.gov/pubmed/26881134); PMCID: [PMC4736325](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4736325).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26881134/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  20. Cadwell CR, Palasantza A, [Jiang X](https://profiles.viictr.org/profile/268555), Berens P, Deng Q, Yilmaz M, [Reimer J](https://profiles.viictr.org/profile/3010234), Shen S, **Tolias KF** , Sandberg R, [Tolias AS](https://profiles.viictr.org/profile/265515), Bethge M. Electrophysiological, transcriptomic and morphologic profiling of single neurons using Patch-seq. Nat Biotechnol. 2016 Feb; 34(2):199-203. PMID: [26689543](//www.ncbi.nlm.nih.gov/pubmed/26689543); PMCID: [PMC4840019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4840019).
+
+Citations:
+[183](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26689543/citedby/)
+Fields:
+
+Bio Biotechnology
+
+Translation:AnimalsCells
+
+  21. [Duman JG](https://profiles.viictr.org/profile/268900), Mulherkar S, Tu YK, X Cheng J, **Tolias KF**. Mechanisms for spatiotemporal regulation of Rho-GTPase signaling at synapses. Neurosci Lett. 2015 Aug 05; 601:4-10. PMID: [26003445](//www.ncbi.nlm.nih.gov/pubmed/26003445); PMCID: [PMC4513188](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4513188).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26003445/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  22. Mulherkar S, Uddin MD, Couvillon AD, [Sillitoe RV](https://profiles.viictr.org/profile/268552), **Tolias KF**. The small GTPases RhoA and Rac1 regulate cerebellar development by controlling cell morphogenesis, migration and foliation. Dev Biol. 2014 Oct 01; 394(1):39-53. PMID: [25128586](//www.ncbi.nlm.nih.gov/pubmed/25128586); PMCID: [PMC4163514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4163514).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25128586/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  23. Um K, Niu S, [Duman JG](https://profiles.viictr.org/profile/268900), Tu YK, Schwechter B, Liu F, Hiles L, Ash RT, Mulherkar S, Smirnakis SM, Cheng JX, Narayanan AS, Alpadi K, **Tolias KF**. Dynamic control of excitatory synapse development by a Rac1 GEF/GAP regulatory complex. Dev Cell. 2014 Jun 23; 29(6):701-15. PMID: [24960694](//www.ncbi.nlm.nih.gov/pubmed/24960694); PMCID: [PMC4111230](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4111230).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24960694/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  24. Schwechter B, **Tolias KF**. Cytoskeletal mechanisms for synaptic potentiation. Commun Integr Biol. 2013 Nov 01; 6(6):e27343. PMID: [24505509](//www.ncbi.nlm.nih.gov/pubmed/24505509); PMCID: [PMC3914911](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3914911).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24505509/citedby/)
+
+  25. Narayanan AS, Reyes SB, Um K, [McCarty JH](https://profiles.viictr.org/profile/12583073), **Tolias KF**. The Rac-GAP Bcr is a novel regulator of the Par complex that controls cell polarity. Mol Biol Cell. 2013 Dec; 24(24):3857-68. PMID: [24152735](//www.ncbi.nlm.nih.gov/pubmed/24152735); PMCID: [PMC3861082](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3861082).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24152735/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  26. Schwechter B, Rosenmund C, **Tolias KF**. RasGRF2 Rac-GEF activity couples NMDA receptor calcium flux to enhanced synaptic transmission. Proc Natl Acad Sci U S A. 2013 Aug 27; 110(35):14462-7. PMID: [23940355](//www.ncbi.nlm.nih.gov/pubmed/23940355); PMCID: [PMC3761609](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3761609).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23940355/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  27. Mulherkar S, Liu F, Chen Q, Narayanan A, Couvillon AD, [Shine HD](https://profiles.viictr.org/profile/266899), **Tolias KF**. The small GTPase RhoA is required for proper locomotor circuit assembly. PLoS One. 2013; 8(6):e67015. PMID: [23825607](//www.ncbi.nlm.nih.gov/pubmed/23825607); PMCID: [PMC3692541](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3692541).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23825607/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  28. [Duman JG](https://profiles.viictr.org/profile/268900), Tzeng CP, Tu YK, Munjal T, Schwechter B, Ho TS, **Tolias KF**. The adhesion-GPCR BAI1 regulates synaptogenesis by controlling the recruitment of the Par3/Tiam1 polarity complex to synaptic sites. J Neurosci. 2013 Apr 17; 33(16):6964-78. PMID: [23595754](//www.ncbi.nlm.nih.gov/pubmed/23595754); PMCID: [PMC3670686](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3670686).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23595754/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  29. Reyes SB, Narayanan AS, Lee HS, Tchaicha JH, Aldape KD, [Lang FF](https://profiles.viictr.org/profile/265574), **Tolias KF** , [McCarty JH](https://profiles.viictr.org/profile/12583073). av?8 integrin interacts with RhoGDI1 to regulate Rac1 and Cdc42 activation and drive glioblastoma cell invasion. Mol Biol Cell. 2013 Feb; 24(4):474-82. PMID: [23283986](//www.ncbi.nlm.nih.gov/pubmed/23283986); PMCID: [PMC3571870](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3571870).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23283986/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  30. **Tolias KF** , [Duman JG](https://profiles.viictr.org/profile/268900), Um K. Control of synapse development and plasticity by Rho GTPase regulatory proteins. Prog Neurobiol. 2011 Jul; 94(2):133-48. PMID: [21530608](//www.ncbi.nlm.nih.gov/pubmed/21530608); PMCID: [PMC3129138](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3129138).
+
+Citations:
+[134](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21530608/citedby/)
+Fields:
+
+Bio BiologyNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  31. Zhou P, Porcionatto M, Pilapil M, Chen Y, Choi Y, **Tolias KF** , Bikoff JB, Hong EJ, Greenberg ME, Segal RA. Polarized signaling endosomes coordinate BDNF-induced chemotaxis of cerebellar precursors. Neuron. 2007 Jul 05; 55(1):53-68. PMID: [17610817](//www.ncbi.nlm.nih.gov/pubmed/17610817); PMCID: [PMC2661852](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2661852).
+
+Citations:
+[74](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17610817/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  32. **Tolias KF** , Bikoff JB, Kane CG, Tolias CS, Hu L, Greenberg ME. The Rac1 guanine nucleotide exchange factor Tiam1 mediates EphB receptor-dependent dendritic spine development. Proc Natl Acad Sci U S A. 2007 Apr 24; 104(17):7265-70. PMID: [17440041](//www.ncbi.nlm.nih.gov/pubmed/17440041); PMCID: [PMC1855368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1855368).
+
+Citations:
+[113](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17440041/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  33. **Tolias KF** , Bikoff JB, Burette A, Paradis S, Harrar D, Tavazoie S, Weinberg RJ, Greenberg ME. The Rac1-GEF Tiam1 couples the NMDA receptor to the activity-dependent development of dendritic arbors and spines. Neuron. 2005 Feb 17; 45(4):525-38. PMID: [15721239](//www.ncbi.nlm.nih.gov/pubmed/15721239).
+
+Citations:
+[188](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15721239/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  34. Saito K, **Tolias KF** , Saci A, Koon HB, Humphries LA, Scharenberg A, Rawlings DJ, Kinet JP, Carpenter CL. BTK regulates PtdIns-4,5-P2 synthesis: importance for calcium signaling and PI3K activity. Immunity. 2003 Nov; 19(5):669-78. PMID: [14614854](//www.ncbi.nlm.nih.gov/pubmed/14614854).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14614854/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  35. **Tolias KF** , Hartwig JH, Ishihara H, Shibasaki Y, Cantley LC, Carpenter CL. Type Ialpha phosphatidylinositol-4-phosphate 5-kinase mediates Rac-dependent actin assembly. Curr Biol. 2000 Feb 10; 10(3):153-6. PMID: [10679324](//www.ncbi.nlm.nih.gov/pubmed/10679324).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10679324/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  36. **Tolias K** , Carpenter CL. In vitro interaction of phosphoinositide-4-phosphate 5-kinases with Rac. Methods Enzymol. 2000; 325:190-200. PMID: [11036604](//www.ncbi.nlm.nih.gov/pubmed/11036604).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11036604/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  37. Kost B, Lemichez E, Spielhofer P, Hong Y, **Tolias K** , Carpenter C, Chua NH. Rac homologues and compartmentalized phosphatidylinositol 4, 5-bisphosphate act in a common pathway to regulate polar pollen tube growth. J Cell Biol. 1999 Apr 19; 145(2):317-30. PMID: [10209027](//www.ncbi.nlm.nih.gov/pubmed/10209027); PMCID: [PMC2133117](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2133117).
+
+Citations:
+[202](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10209027/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  38. **Tolias KF** , Cantley LC. Pathways for phosphoinositide synthesis. Chem Phys Lipids. 1999 Apr; 98(1-2):69-77. PMID: [10358929](//www.ncbi.nlm.nih.gov/pubmed/10358929).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10358929/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  39. Carpenter CL, **Tolias KF** , Van Vugt A, Hartwig J. Lipid kinases are novel effectors of the GTPase Rac1. Adv Enzyme Regul. 1999; 39:299-312. PMID: [10470380](//www.ncbi.nlm.nih.gov/pubmed/10470380).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10470380/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  40. **Tolias KF** , Rameh LE, Ishihara H, Shibasaki Y, Chen J, Prestwich GD, Cantley LC, Carpenter CL. Type I phosphatidylinositol-4-phosphate 5-kinases synthesize the novel lipids phosphatidylinositol 3,5-bisphosphate and phosphatidylinositol 5-phosphate. J Biol Chem. 1998 Jul 17; 273(29):18040-6. PMID: [9660759](//www.ncbi.nlm.nih.gov/pubmed/9660759).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9660759/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  41. **Tolias KF** , Couvillon AD, Cantley LC, Carpenter CL. Characterization of a Rac1- and RhoGDI-associated lipid kinase signaling complex. Mol Cell Biol. 1998 Feb; 18(2):762-70. PMID: [9447972](//www.ncbi.nlm.nih.gov/pubmed/9447972); PMCID: [PMC108787](//www.ncbi.nlm.nih.gov/pmc/articles/PMC108787).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9447972/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  42. Rameh LE, **Tolias KF** , Duckworth BC, Cantley LC. A new pathway for synthesis of phosphatidylinositol-4,5-bisphosphate. Nature. 1997 Nov 13; 390(6656):192-6. PMID: [9367159](//www.ncbi.nlm.nih.gov/pubmed/9367159).
+
+Citations:
+[161](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9367159/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  43. Berditchevski F, **Tolias KF** , Wong K, Carpenter CL, Hemler ME. A novel link between integrins, transmembrane-4 superfamily proteins (CD63 and CD81), and phosphatidylinositol 4-kinase. J Biol Chem. 1997 Jan 31; 272(5):2595-8. PMID: [9006891](//www.ncbi.nlm.nih.gov/pubmed/9006891).
+
+Citations:
+[74](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9006891/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  44. Carpenter CL, **Tolias KF** , Couvillon AC, Hartwig JH. Signal transduction pathways involving the small G proteins rac and Cdc42 and phosphoinositide kinases. Adv Enzyme Regul. 1997; 37:377-90. PMID: [9381982](//www.ncbi.nlm.nih.gov/pubmed/9381982).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9381982/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  45. Kolluri R, **Tolias KF** , Carpenter CL, Rosen FS, Kirchhausen T. Direct interaction of the Wiskott-Aldrich syndrome protein with the GTPase Cdc42. Proc Natl Acad Sci U S A. 1996 May 28; 93(11):5615-8. PMID: [8643625](//www.ncbi.nlm.nih.gov/pubmed/8643625); PMCID: [PMC39296](//www.ncbi.nlm.nih.gov/pmc/articles/PMC39296).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8643625/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  46. **Tolias KF** , Cantley LC, Carpenter CL. Rho family GTPases bind to phosphoinositide kinases. J Biol Chem. 1995 Jul 28; 270(30):17656-9. PMID: [7629060](//www.ncbi.nlm.nih.gov/pubmed/7629060).
+
+Citations:
+[123](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7629060/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 46 publications over 22 distinct years, with a maximum of
+6 publications in
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,17,17,50,33,50,33,0,0,17,0,17,0,33,0,0,0,17,0,100,33,33,50,17,33,50,50,33,17,50,17&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1995| 1  
+1996| 1  
+1997| 3  
+1998| 2  
+1999| 3  
+2000| 2  
+2003| 1  
+2005| 1  
+2007| 2  
+2011| 1  
+2013| 6  
+2014| 2  
+2015| 2  
+2016| 3  
+2017| 1  
+2018| 2  
+2019| 3  
+2020| 3  
+2021| 2  
+2022| 1  
+2023| 3  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+TOLIAS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (255)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Dendritic Spines](https://profiles.viictr.org/profile/242420)
+  * [Synapses](https://profiles.viictr.org/profile/242376)
+  * [Guanine Nucleotide Exchange Factors](https://profiles.viictr.org/profile/256077)
+  * [rho GTP-Binding Proteins](https://profiles.viictr.org/profile/252404)
+  * [rac1 GTP-Binding Protein](https://profiles.viictr.org/profile/248594)
+
+[Explore](https://profiles.viictr.org/profile/265514/198)
+
+_
+
+Co-Authors (24)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [DUMAN, JOSEPH](https://profiles.viictr.org/profile/268900)
+  * [JIANG, XIAOLONG](https://profiles.viictr.org/profile/268555)
+  * [LUDTKE, STEVEN](https://profiles.viictr.org/profile/270167)
+  * [Anderson, Erik](https://profiles.viictr.org/profile/31454200)
+  * [MCCARTY, JOSEPH](https://profiles.viictr.org/profile/12583073)
+
+[Explore](https://profiles.viictr.org/profile/265514/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [MAGEE, JEFFREY](https://profiles.viictr.org/profile/23478949)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [DUMAN, JOSEPH](https://profiles.viictr.org/profile/268900)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+
+[Explore](https://profiles.viictr.org/profile/265514/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BUFFINGTON, SHELLY](https://profiles.viictr.org/profile/3010292)
+  * [CHITWOOD, RAYMOND](https://profiles.viictr.org/profile/23479121)
+  * [DEWELL, RICHARD](https://profiles.viictr.org/profile/3009865)
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [ZHANG, CHUANSHENG](https://profiles.viictr.org/profile/3009849)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiUzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BUFFINGTON, SHELLY](https://profiles.viictr.org/profile/3010292)
+  * [COSTA-MATTIOLI, MAURO](https://profiles.viictr.org/profile/265824)
+  * [PITKOW, ZACHARY](https://profiles.viictr.org/profile/2619384)
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [SAGGAU, PETER](https://profiles.viictr.org/profile/268285)
+
+_
+

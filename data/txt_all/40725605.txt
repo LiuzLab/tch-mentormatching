@@ -1,0 +1,254 @@
+## TONG REN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiation Oncology  
+Address| 2525 HOLLY HALL  
+Houston, TX 77054  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BK4%2br1HILozVRIzgrn7GPw%3d%3d&rnd=0d2010df-
+fc82-4af8-a554-b9d36f8e5e80)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=40725605)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Kaur G, **Ren R** , Hammel M, Horton JR, Yang J, Cao Y, He C, Lan F, Lan X, Blobel GA, Blumenthal RM, Zhang X, [Cheng X](https://profiles.viictr.org/profile/20424330). Allosteric autoregulation of DNA binding via a DNA-mimicking protein domain: a biophysical study of ZNF410-DNA interaction using small angle X-ray scattering. Nucleic Acids Res. 2023 02 28; 51(4):1674-1686. PMID: [36660822](//www.ncbi.nlm.nih.gov/pubmed/36660822); PMCID: [PMC9976917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9976917).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  2. **Ren R** , Horton JR, Chen Q, Yang J, Liu B, Huang Y, Blumenthal RM, Zhang X, [Cheng X](https://profiles.viictr.org/profile/20424330). Structural basis for transcription factor ZBTB7A recognition of DNA and effects of ZBTB7A somatic mutations that occur in human acute myeloid leukemia. J Biol Chem. 2023 02; 299(2):102885. PMID: [36626981](//www.ncbi.nlm.nih.gov/pubmed/36626981); PMCID: [PMC9932118](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9932118).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  3. Zhou J, Horton JR, Menna M, Fiorentino F, **Ren R** , Yu D, Hajian T, Vedadi M, Mazzoccanti G, Ciogli A, Weinhold E, H?ben M, Blumenthal RM, Zhang X, Mai A, Rotili D, [Cheng X](https://profiles.viictr.org/profile/20424330). Systematic Design of Adenosine Analogs as Inhibitors of a Clostridioides difficile-Specific DNA Adenine Methyltransferase Required for Normal Sporulation and Persistence. J Med Chem. 2023 01 12; 66(1):934-950. PMID: [36581322](//www.ncbi.nlm.nih.gov/pubmed/36581322); PMCID: [PMC9841527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9841527).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36581322/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansAnimalsCells
+
+  4. Horton JR, Pathuri S, Wong K, **Ren R** , Rueda L, Fosbenner DT, Heerding DA, McCabe MT, Pappalardi MB, Zhang X, King BW, [Cheng X](https://profiles.viictr.org/profile/20424330). Structural characterization of dicyanopyridine containing DNMT1-selective, non-nucleoside inhibitors. Structure. 2022 06 02; 30(6):793-802.e5. PMID: [35395178](//www.ncbi.nlm.nih.gov/pubmed/35395178); PMCID: [PMC9177618](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9177618).
+
+Citations:  Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:Cells
+
+  5. **Ren R** , Horton JR, Hong S, [Cheng X](https://profiles.viictr.org/profile/20424330). Recent Advances on DNA Base Flipping: A General Mechanism for Writing, Reading, and Erasing DNA Modifications. Adv Exp Med Biol. 2022; 1389:295-315. PMID: [36350515](//www.ncbi.nlm.nih.gov/pubmed/36350515); PMCID: [PMC9711002](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9711002).
+
+Citations:  Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:AnimalsCells
+
+  6. Zhou J, Horton JR, Yu D, **Ren R** , Blumenthal RM, Zhang X, [Cheng X](https://profiles.viictr.org/profile/20424330). Repurposing epigenetic inhibitors to target the Clostridioides difficile-specific DNA adenine methyltransferase and sporulation regulator CamA. Epigenetics. 2022 09; 17(9):970-981. PMID: [34523387](//www.ncbi.nlm.nih.gov/pubmed/34523387); PMCID: [PMC9487755](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9487755).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34523387/citedby/) Fields:
+
+Gen Genetics
+
+  7. Zeng Y, **Ren R** , Kaur G, Hardikar S, Ying Z, Babcock L, Gupta E, Zhang X, Chen T, [Cheng X](https://profiles.viictr.org/profile/20424330). The inactive Dnmt3b3 isoform preferentially enhances Dnmt3b-mediated DNA methylation. Genes Dev. 2020 11 01; 34(21-22):1546-1558. PMID: [33004415](//www.ncbi.nlm.nih.gov/pubmed/33004415); PMCID: [PMC7608744](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7608744).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33004415/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  8. Kumar J, Kaur G, **Ren R** , [Lu Y](https://profiles.viictr.org/profile/12582781), Lin K, Li J, Huang Y, Patel A, [Barton MC](https://profiles.viictr.org/profile/12583364), Macfarlan T, Zhang X, [Cheng X](https://profiles.viictr.org/profile/20424330). KRAB domain of ZFP568 disrupts TRIM28-mediated abnormal interactions in cancer cells. NAR Cancer. 2020 Jun; 2(2):zcaa007. PMID: [32743551](//www.ncbi.nlm.nih.gov/pubmed/32743551); PMCID: [PMC7380489](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7380489).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32743551/citedby/)
+
+  9. **Ren R** , Hardikar S, Horton JR, [Lu Y](https://profiles.viictr.org/profile/12582781), Zeng Y, Singh AK, Lin K, Coletta LD, Shen J, Lin Kong CS, Hashimoto H, Zhang X, Chen T, [Cheng X](https://profiles.viictr.org/profile/20424330). Structural basis of specific DNA binding by the transcription factor ZBTB24. Nucleic Acids Res. 2019 09 19; 47(16):8388-8398. PMID: [31226215](//www.ncbi.nlm.nih.gov/pubmed/31226215); PMCID: [PMC6895263](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6895263).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31226215/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  10. Yang J, Horton JR, Wang D, **Ren R** , Li J, Sun D, Huang Y, Zhang X, Blumenthal RM, [Cheng X](https://profiles.viictr.org/profile/20424330). Structural basis for effects of CpA modifications on C/EBP? binding of DNA. Nucleic Acids Res. 2019 02 28; 47(4):1774-1785. PMID: [30566668](//www.ncbi.nlm.nih.gov/pubmed/30566668); PMCID: [PMC6393304](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6393304).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30566668/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  11. **Ren R** , Horton JR, Zhang X, Blumenthal RM, [Cheng X](https://profiles.viictr.org/profile/20424330). Detecting and interpreting DNA methylation marks. Curr Opin Struct Biol. 2018 12; 53:88-99. PMID: [30031306](//www.ncbi.nlm.nih.gov/pubmed/30031306); PMCID: [PMC6322410](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6322410).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30031306/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  12. Ramasamy R, Scovell J, Mederos M, **Ren R** , Jain L, [Lipshultz L](https://profiles.viictr.org/profile/266450). Association Between Testosterone Supplementation Therapy and Thrombotic Events in Elderly Men. Urology. 2015 Aug; 86(2):283-5. PMID: [26299630](//www.ncbi.nlm.nih.gov/pubmed/26299630); PMCID: [PMC4548855](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4548855).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26299630/citedby/) Fields:
+
+Uro Urology
+
+Translation:Humans
+
+  13. Bear JL, Chen WZ, Han B, Huang S, Wang LL, Thuriere A, Van Caemelbecke E, Kadish KM, **Ren T**. Cyanide adducts on the diruthenium core of [Ru2(L)4](+) (L = ap, CH3ap, Fap, or F3ap). Electronic properties and binding modes of the bridging ligand. Inorg Chem. 2003 Oct 06; 42(20):6230-40. PMID: [14514298](//www.ncbi.nlm.nih.gov/pubmed/14514298).
+
+Citations:  Fields:
+
+Che Chemistry
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 13 publications over 8 distinct years, with a maximum of 3
+publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,33,0,0,33,67,67,33,100,67,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2003| 1  
+2015| 1  
+2018| 1  
+2019| 2  
+2020| 2  
+2021| 1  
+2022| 3  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+REN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (75)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [5-Methylcytosine](https://profiles.viictr.org/profile/251437)
+  * [Methyltransferases](https://profiles.viictr.org/profile/252044)
+  * [Zinc Fingers](https://profiles.viictr.org/profile/241759)
+  * [Transcription Factors](https://profiles.viictr.org/profile/253750)
+  * [DNA Methylation](https://profiles.viictr.org/profile/243082)
+
+[Explore](https://profiles.viictr.org/profile/40725605/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [CHENG, XIAODONG](https://profiles.viictr.org/profile/20424330)
+  * [LU, YUE](https://profiles.viictr.org/profile/12582781)
+  * [LIPSHULTZ, LARRY](https://profiles.viictr.org/profile/266450)
+  * [BARTON, MICHELLE](https://profiles.viictr.org/profile/12583364)
+
+[Explore](https://profiles.viictr.org/profile/40725605/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [CHENG, XIAODONG](https://profiles.viictr.org/profile/20424330)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [GARCIA-MANERO, GUILLERMO](https://profiles.viictr.org/profile/12583738)
+  * [GOODELL, MARGARET](https://profiles.viictr.org/profile/269806)
+
+[Explore](https://profiles.viictr.org/profile/40725605/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BELLEZZA, DAVID](https://profiles.viictr.org/profile/266405)
+  * [JHAVERI, PAVAN](https://profiles.viictr.org/profile/3009529)
+  * [LUDWIG, MICHELLE](https://profiles.viictr.org/profile/2619439)
+  * [PEREZ, NAGELI](https://profiles.viictr.org/profile/40909222)
+  * [TOLANI, NARESH](https://profiles.viictr.org/profile/9909021)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ/9pJT6x3XUXJPV6yY1gN1AdI9fj5a9U4+aNrG+Mqv3R0Ah6vZbG7FnPjyO/B70o93n31HgwnQ0v//l+ZMiQnZ05dTUbxrT/PiU1/thfvN/wekzor52QqXWWVzXVp6F8zLcXgNSpmzvls56K+e9YVJ0TAHmx4/9MAoiPSt4sYkjfisseztSicCZGxqA1756Bcz8WDCFBS0qHIn8IOnvbDqNdiDMN9cz/RewxWAU9A2KJwOgk6mJ/h/a0nP6VfC1cFSVswx8tp8Pb8VCT++VAWhC1PK0qq0TMrG3yh/cfTgg4g==)
+
+_
+

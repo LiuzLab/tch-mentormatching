@@ -1,0 +1,326 @@
+## HEATHER DANHOF
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Hq4x9W3CMsXRR4Hl733iKLeBaRSOgg%3d%3d&rnd=aa1b101a-578e-4234-a62c-d845ef9fafb4)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=17622867)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Danhof HA** , Lee J, Thapa A, [Britton RA](https://profiles.viictr.org/profile/8950240), [Di Rienzi SC](https://profiles.viictr.org/profile/22016845). Microbial stimulation of oxytocin release from the intestinal epithelium via secretin signaling. Gut Microbes. 2023 12; 15(2):2256043. PMID: [37698879](//www.ncbi.nlm.nih.gov/pubmed/37698879); PMCID: [PMC10498800](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10498800).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37698879/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansAnimalsCells
+
+  2. Poplaski V, Bomidi C, Kambal A, Nguyen-Phuc H, [Di Rienzi SC](https://profiles.viictr.org/profile/22016845), **Danhof HA** , Zeng XL, Feagins LA, Deng N, Vilar E, [McAllister F](https://profiles.viictr.org/profile/12584011), [Coarfa C](https://profiles.viictr.org/profile/265668), Min S, Kim HJ, Shukla R, Britton R, [Estes MK](https://profiles.viictr.org/profile/266419), [Blutt SE](https://profiles.viictr.org/profile/266310). Human intestinal organoids from Cronkhite-Canada syndrome patients reveal link between serotonin and proliferation. J Clin Invest. 2023 11 01; 133(21). PMID: [37909332](//www.ncbi.nlm.nih.gov/pubmed/37909332); PMCID: [PMC10617781](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10617781).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  3. **Danhof HA** , Lee J, Thapa A, [Britton RA](https://profiles.viictr.org/profile/8950240), [Di Rienzi SC](https://profiles.viictr.org/profile/22016845). Microbial stimulation of oxytocin release from the intestinal epithelium via secretin signaling. bioRxiv. 2023 Mar 09. PMID: [36945649](//www.ncbi.nlm.nih.gov/pubmed/36945649); PMCID: [PMC10028957](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10028957).
+
+Citations:
+
+  4. Norsigian CJ, **Danhof HA** , Brand CK, [Midani FS](https://profiles.viictr.org/profile/24845342), Broddrick JT, [Savidge TC](https://profiles.viictr.org/profile/270090), Britton RA, Palsson BO, [Spinler JK](https://profiles.viictr.org/profile/265508), Monk JM. Systems biology approach to functionally assess the Clostridioides difficile pangenome reveals genetic diversity with discriminatory power. Proc Natl Acad Sci U S A. 2022 05 03; 119(18):e2119396119. PMID: [35476524](//www.ncbi.nlm.nih.gov/pubmed/35476524); PMCID: [PMC9170149](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9170149).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  5. Engevik MA, **Danhof HA** , Hall A, [Engevik KA](https://profiles.viictr.org/profile/28999455), Horvath TD, Haidacher SJ, Hoch KM, Endres BT, Bajaj M, [Garey KW](https://profiles.viictr.org/profile/268841), [Britton RA](https://profiles.viictr.org/profile/8950240), [Spinler JK](https://profiles.viictr.org/profile/265508), [Haag AM](https://profiles.viictr.org/profile/8183325), [Versalovic J](https://profiles.viictr.org/profile/269718). The metabolic profile of Bifidobacterium dentium reflects its status as a human gut commensal. BMC Microbiol. 2021 05 24; 21(1):154. PMID: [34030655](//www.ncbi.nlm.nih.gov/pubmed/34030655); PMCID: [PMC8145834](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8145834).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34030655/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  6. Gonzales-Luna AJ, [Spinler JK](https://profiles.viictr.org/profile/265508), [Oezguen N](https://profiles.viictr.org/profile/267606), Khan MAW, **Danhof HA** , Endres BT, Alam MJ, Begum K, Lancaster C, Costa GP, [Savidge TC](https://profiles.viictr.org/profile/270090), Hurdle JG, Britton R, [Garey KW](https://profiles.viictr.org/profile/268841). Systems biology evaluation of refractory Clostridioides difficile infection including multiple failures of fecal microbiota transplantation. Anaerobe. 2021 Aug; 70:102387. PMID: [34044101](//www.ncbi.nlm.nih.gov/pubmed/34044101); PMCID: [PMC8384661](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8384661).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34044101/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  7. Engevik MA, **Danhof HA** , [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik AC, Chang-Graham AL, [Engevik KA](https://profiles.viictr.org/profile/28999455), Shi Z, Zhao Y, Brand CK, Krystofiak ES, Venable S, Liu X, [Hirschi KD](https://profiles.viictr.org/profile/267007), [Hyser JM](https://profiles.viictr.org/profile/269246), [Spinler JK](https://profiles.viictr.org/profile/265508), [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718). Fusobacterium nucleatum Secretes Outer Membrane Vesicles and Promotes Intestinal Inflammation. mBio. 2021 03 02; 12(2). PMID: [33653893](//www.ncbi.nlm.nih.gov/pubmed/33653893); PMCID: [PMC8092269](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8092269).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33653893/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  8. Engevik MA, **Danhof HA** , Auchtung J, Endres BT, [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik AC, Wu Q, Nicholson M, [Luna RA](https://profiles.viictr.org/profile/268217), [Garey KW](https://profiles.viictr.org/profile/268841), [Crawford SE](https://profiles.viictr.org/profile/8950230), [Estes MK](https://profiles.viictr.org/profile/266419), Lux R, Yacyshyn MB, Yacyshyn B, [Savidge T](https://profiles.viictr.org/profile/270090), [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718), Bass?res E. Fusobacteriumnucleatum Adheres to Clostridioides difficile via the RadD Adhesin to Enhance Biofilm Formation in Intestinal Mucus. Gastroenterology. 2021 03; 160(4):1301-1314.e8. PMID: [33227279](//www.ncbi.nlm.nih.gov/pubmed/33227279); PMCID: [PMC7956072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7956072).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33227279/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  9. Chang-Graham AL, Perry JL, Engevik MA, [Engevik KA](https://profiles.viictr.org/profile/28999455), [Scribano FJ](https://profiles.viictr.org/profile/28999427), Gebert JT, **Danhof HA** , [Nelson JC](https://profiles.viictr.org/profile/24845256), Kellen JS, Strtak AC, Sastri NP, [Estes MK](https://profiles.viictr.org/profile/266419), [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718), [Hyser JM](https://profiles.viictr.org/profile/269246). Rotavirus induces intercellular calcium waves through ADP signaling. Science. 2020 11 20; 370(6519). PMID: [33214249](//www.ncbi.nlm.nih.gov/pubmed/33214249); PMCID: [PMC7957961](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7957961).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33214249/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  10. Engevik MA, **Danhof HA** , Shrestha R, Chang-Graham AL, [Hyser JM](https://profiles.viictr.org/profile/269246), [Haag AM](https://profiles.viictr.org/profile/8183325), [Mohammad MA](https://profiles.viictr.org/profile/269072), [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718), Sorg JA, [Spinler JK](https://profiles.viictr.org/profile/265508). Reuterin disrupts Clostridioides difficile metabolism and pathogenicity through reactive oxygen species generation. Gut Microbes. 2020 11 09; 12(1):1788898. PMID: [32804011](//www.ncbi.nlm.nih.gov/pubmed/32804011); PMCID: [PMC7524292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7524292).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32804011/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansCells
+
+  11. Norsigian CJ, **Danhof HA** , Brand CK, [Oezguen N](https://profiles.viictr.org/profile/267606), [Midani FS](https://profiles.viictr.org/profile/24845342), Palsson BO, [Savidge TC](https://profiles.viictr.org/profile/270090), Britton RA, [Spinler JK](https://profiles.viictr.org/profile/265508), Monk JM. Systems biology analysis of the Clostridioides difficile core-genome contextualizes microenvironmental evolutionary pressures leading to genotypic and phenotypic divergence. NPJ Syst Biol Appl. 2020 10 20; 6(1):31. PMID: [33082337](//www.ncbi.nlm.nih.gov/pubmed/33082337); PMCID: [PMC7576604](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7576604).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33082337/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Cells
+
+  12. Engevik MA, Luck B, Visuthranukul C, [Ihekweazu FD](https://profiles.viictr.org/profile/268730), Engevik AC, Shi Z, **Danhof HA** , Chang-Graham AL, Hall A, Endres BT, Haidacher SJ, Horvath TD, [Haag AM](https://profiles.viictr.org/profile/8183325), [Devaraj S](https://profiles.viictr.org/profile/266182), [Garey KW](https://profiles.viictr.org/profile/268841), [Britton RA](https://profiles.viictr.org/profile/8950240), [Hyser JM](https://profiles.viictr.org/profile/269246), [Shroyer NF](https://profiles.viictr.org/profile/5807714), [Versalovic J](https://profiles.viictr.org/profile/269718). Human-Derived Bifidobacterium dentium Modulates the Mammalian Serotonergic System and Gut-Brain Axis. Cell Mol Gastroenterol Hepatol. 2021; 11(1):221-248. PMID: [32795610](//www.ncbi.nlm.nih.gov/pubmed/32795610); PMCID: [PMC7683275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7683275).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32795610/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimalsCells
+
+  13. [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik MA, Chang-Graham AL, **Danhof HA** , [Goodwin A](https://profiles.viictr.org/profile/17411485), [Engevik KA](https://profiles.viictr.org/profile/28999455), Shi Z, Hall A, Rienzi SCD, Venable S, [Britton RA](https://profiles.viictr.org/profile/8950240), [Hyser J](https://profiles.viictr.org/profile/269246), [Versalovic J](https://profiles.viictr.org/profile/269718). Enhancing responsiveness of human jejunal enteroids to host and microbial stimuli. J Physiol. 2020 08; 598(15):3085-3105. PMID: [32428244](//www.ncbi.nlm.nih.gov/pubmed/32428244); PMCID: [PMC7674265](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7674265).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32428244/citedby/) Fields:
+
+Phy Physiology
+
+Translation:HumansCells
+
+  14. Engevik MA, **Danhof HA** , Chang-Graham AL, [Spinler JK](https://profiles.viictr.org/profile/265508), [Engevik KA](https://profiles.viictr.org/profile/28999455), Herrmann B, Endres BT, [Garey KW](https://profiles.viictr.org/profile/268841), [Hyser JM](https://profiles.viictr.org/profile/269246), [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718). Human intestinal enteroids as a model of Clostridioides difficile-induced enteritis. Am J Physiol Gastrointest Liver Physiol. 2020 05 01; 318(5):G870-G888. PMID: [32223302](//www.ncbi.nlm.nih.gov/pubmed/32223302); PMCID: [PMC7272722](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7272722).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32223302/citedby/) Fields:
+
+Gas GastroenterologyPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  15. Chang-Graham AL, **Danhof HA** , Engevik MA, Tomaro-Duchesneau C, Karandikar UC, [Estes MK](https://profiles.viictr.org/profile/266419), [Versalovic J](https://profiles.viictr.org/profile/269718), [Britton RA](https://profiles.viictr.org/profile/8950240), [Hyser JM](https://profiles.viictr.org/profile/269246). Human Intestinal Enteroids With Inducible Neurogenin-3 Expression as a Novel Model of Gut Hormone Secretion. Cell Mol Gastroenterol Hepatol. 2019; 8(2):209-229. PMID: [31029854](//www.ncbi.nlm.nih.gov/pubmed/31029854); PMCID: [PMC6664234](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6664234).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31029854/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  16. Collins J, **Danhof H** , [Britton RA](https://profiles.viictr.org/profile/8950240). The role of trehalose in the global spread of epidemic Clostridium difficile. Gut Microbes. 2019; 10(2):204-209. PMID: [30118389](//www.ncbi.nlm.nih.gov/pubmed/30118389); PMCID: [PMC6546318](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6546318).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30118389/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansCells
+
+  17. Collins J, Robinson C, **Danhof H** , Knetsch CW, van Leeuwen HC, Lawley TD, Auchtung JM, Britton RA. Dietary trehalose enhances virulence of epidemic Clostridium difficile. Nature. 2018 01 18; 553(7688):291-294. PMID: [29310122](//www.ncbi.nlm.nih.gov/pubmed/29310122); PMCID: [PMC5984069](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5984069).
+
+Citations:
+[124](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29310122/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  18. **Danhof HA** , Vylkova S, Vesely EM, Ford AE, Gonzalez-Garay M, Lorenz MC. Robust Extracellular pH Modulation by Candida albicans during Growth in Carboxylic Acids. mBio. 2016 11 15; 7(6). PMID: [27935835](//www.ncbi.nlm.nih.gov/pubmed/27935835); PMCID: [PMC5111404](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5111404).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27935835/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  19. **Danhof HA** , Lorenz MC. The Candida albicans ATO Gene Family Promotes Neutralization of the Macrophage Phagolysosome. Infect Immun. 2015 Nov; 83(11):4416-26. PMID: [26351284](//www.ncbi.nlm.nih.gov/pubmed/26351284); PMCID: [PMC4598414](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4598414).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26351284/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansAnimalsCells
+
+  20. Vylkova S, Carman AJ, **Danhof HA** , Collette JR, Zhou H, Lorenz MC. The fungal pathogen Candida albicans autoinduces hyphal morphogenesis by raising extracellular pH. mBio. 2011; 2(3):e00055-11. PMID: [21586647](//www.ncbi.nlm.nih.gov/pubmed/21586647); PMCID: [PMC3101780](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3101780).
+
+Citations:
+[139](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21586647/citedby/)
+Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 20 publications over 9 distinct years, with a maximum of 7
+publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,14,14,0,29,14,100,43,14,43,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2011| 1  
+2015| 1  
+2016| 1  
+2018| 2  
+2019| 1  
+2020| 7  
+2021| 3  
+2022| 1  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+DANHOF's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (132)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Gastrointestinal Hormones](https://profiles.viictr.org/profile/260103)
+  * [Candida albicans](https://profiles.viictr.org/profile/248250)
+  * [Gastrointestinal Microbiome](https://profiles.viictr.org/profile/27544473)
+  * [Clostridium Infections](https://profiles.viictr.org/profile/256806)
+  * [Phagosomes](https://profiles.viictr.org/profile/250899)
+
+[Explore](https://profiles.viictr.org/profile/17622867/198)
+
+_
+
+Co-Authors (26)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [DI RIENZI, SARA](https://profiles.viictr.org/profile/22016845)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [BRITTON, ROBERT](https://profiles.viictr.org/profile/8950240)
+  * [HYSER, JOSEPH](https://profiles.viictr.org/profile/269246)
+  * [SPINLER, JENNIFER](https://profiles.viictr.org/profile/265508)
+
+[Explore](https://profiles.viictr.org/profile/17622867/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [GAREY, KEVIN](https://profiles.viictr.org/profile/268841)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [BRITTON, ROBERT](https://profiles.viictr.org/profile/8950240)
+  * [SAVIDGE, TOR](https://profiles.viictr.org/profile/270090)
+  * [KONTOYIANNIS, DIMITRIOS P](https://profiles.viictr.org/profile/12582577)
+
+[Explore](https://profiles.viictr.org/profile/17622867/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRITTON, ROBERT](https://profiles.viictr.org/profile/8950240)
+  * [COUCH, ROBERT](https://profiles.viictr.org/profile/267241)
+  * [EL SAHLY, HANA](https://profiles.viictr.org/profile/266773)
+  * [PREISNER, EVA](https://profiles.viictr.org/profile/24845288)
+  * [TISZA, MICHAEL](https://profiles.viictr.org/profile/42513162)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
