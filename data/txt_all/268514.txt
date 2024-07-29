@@ -1,0 +1,403 @@
+## ROBB MOSES
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JK497nbCM6v3RYKj5X%2fX&rnd=67ad81ab-66ab-4adc-97d0-c145d6520240)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268514)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+T32GM008796 (MOSES, ROBB E)Jul 1, 2001 - Aug 31, 2007NIH  
+MOLECULAR GENETIC BASIS OF HUMAN DISEASE  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01GM059759 (MOSES, ROBB E)Aug 1, 1999 - Jul 31, 2005NIH  
+YEAST G1 CYCLIN DEGRADATION BY THE SCF UBIQUITIN LIGASE  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM058186 (MOSES, ROBB E)Aug 1, 1998 - Jul 31, 2003NIH  
+REPAIR OF DNA CROSSLINKS IN YEAST  
+Role: Principal Investigator  
+  
+* * *  
+  
+P01HL048546 (GROMPE, MARKUS)Jul 1, 1994 - May 31, 2021NIH  
+Pathophysiology and Treatment of Fanconi Anemia  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+T32AG000183 (DONEHOWER, LAWRENCE A.)Sep 14, 1989 - Apr 30, 2016NIH  
+Biology of Aging Training Grant  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R13GM038507 (MOSES, ROBB E)Jul 1, 1987 - Jun 30, 1988NIH  
+ASM CONFERENCE ON DNA REPLICATION AND MUTAGENESIS  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01CA037860 (MOSES, ROBB E)Sep 30, 1985 - Sep 29, 1990NIH  
+TRANSFER OF DNA REPAIR GENES  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM019122 (MOSES, ROBB E)Aug 1, 1978 - Feb 28, 1990NIH  
+MECHANISMS OF CHROMOSOME REPLICATION  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM024711 (MOSES, ROBB E)Jan 1, 1978 - Nov 30, 1993NIH  
+CELLULAR DNA REPAIR MECHANISMS AND MUTAGENESIS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Tu J, Zhang H, Yang T, Liu Y, Kibreab S, Zhang Y, Gao L, **Moses RE** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Xiao J, Li X. Aging-associated REG? proteasome decline predisposes to tauopathy. J Biol Chem. 2022 11; 298(11):102571. PMID: [36209822](//www.ncbi.nlm.nih.gov/pubmed/36209822); PMCID: [PMC9647549](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9647549).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36209822/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  2. Wei C, Liu Y, Liu X, Cheng J, Fu J, Xiao X, **Moses RE** , Li X, Fu J. The speckle-type POZ protein (SPOP) inhibits breast cancer malignancy by destabilizing TWIST1. Cell Death Discov. 2022 Sep 17; 8(1):389. PMID: [36115849](//www.ncbi.nlm.nih.gov/pubmed/36115849); PMCID: [PMC9482615](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9482615).
+
+Citations:
+
+  3. Xie Y, Gao R, Gao Y, Dong Z, **Moses RE** , Li X, Ge J. The proteasome activator REG? promotes diabetic endothelial impairment by inhibiting HMGA2-GLUT1 pathway. Transl Res. 2022 08; 246:33-48. PMID: [35367424](//www.ncbi.nlm.nih.gov/pubmed/35367424).
+
+Citations:  Fields:
+
+Cli Clinical Laboratory TechniquesMed Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  4. Zhu X, Yang M, Lin Z, Mael SK, Li Y, Zhang L, Kong Y, Zhang Y, Ren Y, Li J, Wang Z, Zhang Y, Yang B, Huang T, Guan F, Li Z, **Moses RE** , Li L, Wang B, Li X, Zhang B. REG? drives Lgr5+ stem cells to potentiate radiation induced intestinal regeneration. Sci China Life Sci. 2022 08; 65(8):1608-1623. PMID: [34826093](//www.ncbi.nlm.nih.gov/pubmed/34826093).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34826093/citedby/) Fields:
+
+Bio BiologySci Science
+
+  5. Tan X, Tong L, Li L, Xu J, Xie S, Ji L, Fu J, Liu Q, Shen S, Liu Y, Xiao Y, Gao F, **Moses RE** , Bardeesy N, Wang Y, Zhang J, Tang L, Li L, Wong KK, Song D, Yang X, Liu J, Li X. Loss of Smad4 promotes aggressive lung cancer metastasis by de-repression of PAK3 via miRNA regulation. Nat Commun. 2021 08 11; 12(1):4853. PMID: [34381046](//www.ncbi.nlm.nih.gov/pubmed/34381046); PMCID: [PMC8357888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8357888).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34381046/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  6. Yao L, Xuan Y, Zhang H, Yang B, Ma X, Wang T, Meng T, Sun W, Wei H, Ma X, **Moses R** , Xiao J, Zhang P, Ge C, Li J, Li L, Li X, Li J, Zhang B. Reciprocal REG?-mTORC1 regulation promotes glycolytic metabolism in hepatocellular carcinoma. Oncogene. 2021 01; 40(3):677-692. PMID: [33230243](//www.ncbi.nlm.nih.gov/pubmed/33230243).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33230243/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  7. Zhu X, Tian X, Yang M, Yu Y, Zhou Y, Gao Y, Zhang L, Li Z, Xiao Y, **Moses RE** , Li X, Zhang B. Procyanidin B2 Promotes Intestinal Injury Repair and Attenuates Colitis-Associated Tumorigenesis via Suppression of Oxidative Stress in Mice. Antioxid Redox Signal. 2021 07 10; 35(2):75-92. PMID: [32940048](//www.ncbi.nlm.nih.gov/pubmed/32940048).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32940048/citedby/) Fields:
+
+Met Metabolism
+
+Translation:HumansAnimalsCells
+
+  8. Gao X, Wang Q, Wang Y, Liu J, Liu S, Liu J, Zhou X, Zhou L, Chen H, Pan L, Chen J, Wang D, Zhang Q, Shen S, Xiao Y, Wu Z, Cheng Y, Chen G, Kubra S, Qin J, Huang L, Zhang P, Wang C, **Moses RE** , [Lonard DM](https://profiles.viictr.org/profile/269800), O' Malley BW, Fares F, Zhang B, Li X, Li L, Xiao J. Author Correction: The REG? inhibitor NIP30 increases sensitivity to chemotherapy in p53-deficient tumor cells. Nat Commun. 2020 Sep 23; 11(1):4888. PMID: [32968062](//www.ncbi.nlm.nih.gov/pubmed/32968062); PMCID: [PMC7511305](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7511305).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32968062/citedby/) Fields:
+
+Bio BiologySci Science
+
+  9. Gao X, Wang Q, Wang Y, Liu J, Liu S, Liu J, Zhou X, Zhou L, Chen H, Pan L, Chen J, Wang D, Zhang Q, Shen S, Xiao Y, Wu Z, Cheng Y, Chen G, Kubra S, Qin J, Huang L, Zhang P, Wang C, **Moses RE** , [Lonard DM](https://profiles.viictr.org/profile/269800), Malley BWO, Fares F, Zhang B, Li X, Li L, Xiao J. The REG? inhibitor NIP30 increases sensitivity to chemotherapy in p53-deficient tumor cells. Nat Commun. 2020 08 06; 11(1):3904. PMID: [32764536](//www.ncbi.nlm.nih.gov/pubmed/32764536); PMCID: [PMC7413384](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7413384).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32764536/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  10. Xie Y, Gao Y, Gao R, Yang W, Dong Z, **Moses RE** , Sun A, Li X, Ge J. The proteasome activator REG? accelerates cardiac hypertrophy by declining PP2Aca-SOD2 pathway. Cell Death Differ. 2020 10; 27(10):2952-2972. PMID: [32424140](//www.ncbi.nlm.nih.gov/pubmed/32424140); PMCID: [PMC7494903](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7494903).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32424140/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  11. Tong L, Shen S, Huang Q, Fu J, Wang T, Pan L, Zhang P, Chen G, Huang T, Li K, Liu Q, Xie S, Yang X, **Moses RE** , Li X, Li L. Proteasome-dependent degradation of Smad7 is critical for lung cancer metastasis. Cell Death Differ. 2020 06; 27(6):1795-1806. PMID: [31767934](//www.ncbi.nlm.nih.gov/pubmed/31767934); PMCID: [PMC7244558](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7244558).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31767934/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  12. Jiao C, Li L, Zhang P, Zhang L, Li K, Fang R, Yuan L, Shi K, Pan L, Guo Q, Gao X, Chen G, Xu S, Wang Q, Zuo D, Wu W, Qiao S, Wang X, **Moses R** , Xiao J, Li L, Dang Y, Li X. REG? ablation impedes dedifferentiation of anaplastic thyroid carcinoma and accentuates radio-therapeutic response by regulating the Smad7-TGF-? pathway. Cell Death Differ. 2020 02; 27(2):497-508. PMID: [31243343](//www.ncbi.nlm.nih.gov/pubmed/31243343); PMCID: [PMC7205985](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7205985).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31243343/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  13. Yao L, Zhou L, Xuan Y, Zhang P, Wang X, Wang T, Meng T, Xue Y, Ma X, Shah AS, Shang S, Ma X, Xie W, Wang H, Fu Q, Xia Y, **Moses RE** , Wang H, Li L, Xiao J, Zhang B, Li X. The proteasome activator REG? counteracts immunoproteasome expression and autoimmunity. J Autoimmun. 2019 09; 103:102282. PMID: [31171475](//www.ncbi.nlm.nih.gov/pubmed/31171475).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31171475/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  14. Wang Q, Gao X, Yu T, Yuan L, Dai J, Wang W, Chen G, Jiao C, Zhou W, Huang Q, Cui L, Zhang P, **Moses RE** , Yang J, Chen F, Fu J, Xiao J, Li L, Dang Y, Li X. REG? Controls Hippo Signaling and Reciprocal NF-?B-YAP Regulation to Promote Colon Cancer. Clin Cancer Res. 2018 04 15; 24(8):2015-2025. PMID: [29437787](//www.ncbi.nlm.nih.gov/pubmed/29437787).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29437787/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  15. Xu J, Zhou L, Ji L, Chen F, Fortmann K, Zhang K, Liu Q, Li K, Wang W, Wang H, Xie W, Wang Q, Liu J, Zheng B, Zhang P, [Huang S](https://profiles.viictr.org/profile/267743), Shi T, Zhang B, Dang Y, Chen J, [O'Malley BW](https://profiles.viictr.org/profile/269511), **Moses RE** , Wang P, Li L, Xiao J, Hoffmann A, Li X. The REG?-proteasome forms a regulatory circuit with I?B? and NF?B in experimental colitis. Nat Commun. 2016 Feb 22; 7:10761. PMID: [26899380](//www.ncbi.nlm.nih.gov/pubmed/26899380); PMCID: [PMC4764899](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4764899).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26899380/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  16. Lv Y, Meng B, Dong H, Jing T, Wu N, Yang Y, Huang L, **Moses RE** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Mei B, Li X. Upregulation of GSK3? Contributes to Brain Disorders in Elderly REG?-knockout Mice. Neuropsychopharmacology. 2016 Apr; 41(5):1340-9. PMID: [26370326](//www.ncbi.nlm.nih.gov/pubmed/26370326); PMCID: [PMC4793118](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4793118).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26370326/citedby/) Fields:
+
+Neu NeurologyPsy Psychopharmacology
+
+Translation:AnimalsCells
+
+  17. Li L, Dang Y, Zhang J, Yan W, Zhai W, Chen H, Li K, Tong L, Gao X, Amjad A, Ji L, Jing T, Jiang Z, Shi K, Yao L, Song D, Liu T, Yang X, Yang C, Cai X, Xu W, Huang Q, He J, Liu J, Chen T, **Moses RE** , Fu J, Xiao J, Li X. REG? is critical for skin carcinogenesis by modulating the Wnt/?-catenin pathway. Nat Commun. 2015 Apr 24; 6:6875. PMID: [25908095](//www.ncbi.nlm.nih.gov/pubmed/25908095).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25908095/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  18. Li X, **Moses RE** , Jin J, Cao W, [Caulin C](https://profiles.viictr.org/profile/12583508). Stresses, aging, and age-related disorders. Oxid Med Cell Longev. 2014; 2014:320564. PMID: [25610525](//www.ncbi.nlm.nih.gov/pubmed/25610525); PMCID: [PMC4293784](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4293784).
+
+Citations:  Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansAnimals
+
+  19. Motamed M, Rajapakshe KI, [Hartig SM](https://profiles.viictr.org/profile/268501), [Coarfa C](https://profiles.viictr.org/profile/265668), **Moses RE** , [Lonard DM](https://profiles.viictr.org/profile/269800), [O'Malley BW](https://profiles.viictr.org/profile/269511). Steroid receptor coactivator 1 is an integrator of glucose and NAD+/NADH homeostasis. Mol Endocrinol. 2014 Mar; 28(3):395-405. PMID: [24438340](//www.ncbi.nlm.nih.gov/pubmed/24438340); PMCID: [PMC3938540](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3938540).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24438340/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  20. Li L, Zhao D, Wei H, Yao L, Dang Y, Amjad A, Xu J, Liu J, Guo L, Li D, Li Z, Zuo D, Zhang Y, Liu J, [Huang S](https://profiles.viictr.org/profile/267743), Jia C, Wang L, Wang Y, Xie Y, Luo J, Zhang B, Luo H, [Donehower LA](https://profiles.viictr.org/profile/268019), **Moses RE** , Xiao J, [O'Malley BW](https://profiles.viictr.org/profile/269511), Li X. REG? deficiency promotes premature aging via the casein kinase 1 pathway. Proc Natl Acad Sci U S A. 2013 Jul 02; 110(27):11005-10. PMID: [23766372](//www.ncbi.nlm.nih.gov/pubmed/23766372); PMCID: [PMC3703992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3703992).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23766372/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  21. **Moses RE** , [O'Malley BW](https://profiles.viictr.org/profile/269511). DNA transcription and repair: a confluence. J Biol Chem. 2012 Jul 06; 287(28):23266-70. PMID: [22605334](//www.ncbi.nlm.nih.gov/pubmed/22605334); PMCID: [PMC3390605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3390605).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22605334/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 21 publications over 10 distinct years, with a maximum of
+5 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,40,40,20,0,20,60,100,40,60,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2012| 1  
+2013| 1  
+2014| 2  
+2015| 2  
+2016| 1  
+2018| 1  
+2019| 3  
+2020| 5  
+2021| 2  
+2022| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MOSES's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (144)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Proteasome Endopeptidase Complex](https://profiles.viictr.org/profile/259913)
+  * [Autoantigens](https://profiles.viictr.org/profile/249999)
+  * [Smad7 Protein](https://profiles.viictr.org/profile/258351)
+  * [Proteasome Inhibitors](https://profiles.viictr.org/profile/27546788)
+  * [Gene Regulatory Networks](https://profiles.viictr.org/profile/244521)
+
+[Explore](https://profiles.viictr.org/profile/268514/198)
+
+_
+
+Co-Authors (7)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [CAULIN, CARLOS](https://profiles.viictr.org/profile/12583508)
+  * [LONARD, DAVID](https://profiles.viictr.org/profile/269800)
+  * [HUANG, SHIXIA](https://profiles.viictr.org/profile/267743)
+  * [COARFA, CRISTIAN](https://profiles.viictr.org/profile/265668)
+
+[Explore](https://profiles.viictr.org/profile/268514/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [KALLURI, RAGHU](https://profiles.viictr.org/profile/12583614)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [ORLOWSKI, ROBERT](https://profiles.viictr.org/profile/12583884)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+
+[Explore](https://profiles.viictr.org/profile/268514/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHANG, ERIC](https://profiles.viictr.org/profile/267726)
+  * [FINNELL, RICHARD](https://profiles.viictr.org/profile/22247959)
+  * [MCKENNA, NEIL](https://profiles.viictr.org/profile/268182)
+  * [SRIVASTAVA, ROHIT](https://profiles.viictr.org/profile/30426461)
+  * [SUESS, PATRICK](https://profiles.viictr.org/profile/40252767)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [EDWARDS, DEAN](https://profiles.viictr.org/profile/269114)
+  * [MEANS, ANTHONY](https://profiles.viictr.org/profile/269994)
+  * [SREEKUMAR, ARUN](https://profiles.viictr.org/profile/266636)
+  * [XIN, LI](https://profiles.viictr.org/profile/265825)
+  * [YI, PING](https://profiles.viictr.org/profile/267727)
+
+_
+

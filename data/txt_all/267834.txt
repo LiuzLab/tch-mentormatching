@@ -1,0 +1,1187 @@
+## SAMUEL WU
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Ophthalmology  
+Address| 6501 Fannin St  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JbwlwWfELcXwQpo%3d&rnd=776173d6-d3a9-4d9e-b1bc-164431698987)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267834)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Division| Neuroscience  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01EY033492 (WU, SAMUEL M)Mar 1, 2022 - Feb 28, 2027NIH  
+Multi-Cellular Analysis of the Retinal Network  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01EY026930 (CHEN, CHING-KANG JASON)Sep 30, 2017 - Aug 31, 2021NIH  
+Mechanisms, functions and utility of RGC oscillation in retinal
+deafferentation mouse models  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01EY019908 (WU, SAMUEL M)Jan 1, 2010 - Nov 30, 2020NIH  
+Rod and cone signaling pathways in mammalian retina  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01EY004446 (WU, SAMUEL M)Feb 1, 1982 - Sep 29, 2016NIH  
+PHYSIOLOGY AND PHARMACOLOGY OF SYNAPSES IN THE RETINA  
+Role: Principal Investigator  
+  
+* * *  
+  
+P30EY002520 (WU, SAMUEL M)Jul 1, 1979 - Jun 30, 2025NIH  
+P30 - Core Grant for Vision Research  
+Role: Principal Investigator  
+  
+* * *  
+  
+T32EY007001 (WU, SAMUEL M)Jul 1, 1975 - Jul 31, 2028NIH  
+Research Training in Visual Sciences  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Long Y](https://profiles.viictr.org/profile/29494286), Kozhemyakin M, **Wu SM** , Pang JJ. TRPV4 affects visual signals in photoreceptors and rod bipolar cells. Front Cell Neurosci. 2024; 18:1404929. PMID: [38903773](//www.ncbi.nlm.nih.gov/pubmed/38903773); PMCID: [PMC11188360](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11188360).
+
+Citations:
+
+  2. Pang JJ, Jiang X, **Wu SM** , Pang JJ, [Jiang X](https://profiles.viictr.org/profile/268555), Wu SM. Linear and Nonlinear Behaviors of the Photoreceptor Coupled Network. J Neurosci. 2024 Apr 17; 44(16). PMID: [38423760](//www.ncbi.nlm.nih.gov/pubmed/38423760); PMCID: [PMC11026348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11026348).
+
+Citations:  Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  3. Pang JJ, Gao F, **Wu SM**. Light responses and amacrine cell modulation of morphologically-identified retinal ganglion cells in the mouse retina. Vision Res. 2023 04; 205:108187. PMID: [36758452](//www.ncbi.nlm.nih.gov/pubmed/36758452).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  4. Ash RT, Palagina G, Fernandez-Leon JA, Park J, Seilheimer R, Lee S, Sabharwal J, Reyes F, Wang J, Lu D, Sarfraz M, Froudarakis E, [Tolias AS](https://profiles.viictr.org/profile/265515), **Wu SM** , Smirnakis SM. Increased Reliability of Visually-Evoked Activity in Area V1 of the MECP2-Duplication Mouse Model of Autism. J Neurosci. 2022 08 17; 42(33):6469-6482. PMID: [35831173](//www.ncbi.nlm.nih.gov/pubmed/35831173); PMCID: [PMC9398540](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9398540).
+
+Citations:  Fields:
+
+Neu Neurology
+
+  5. Pang JJ, Gao F, **Wu SM**. Dual-Cell Patch-Clamp Recording Revealed a Mechanism for a Ribbon Synapse to Process Both Digital and Analog Inputs and Outputs. Front Cell Neurosci. 2021; 15:722533. PMID: [34720878](//www.ncbi.nlm.nih.gov/pubmed/34720878); PMCID: [PMC8552968](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8552968).
+
+Citations:
+
+  6. Pang JJ, Gao F, **Wu SM**. Generators of Pressure-Evoked Currents in Vertebrate Outer Retinal Neurons. Cells. 2021 05 22; 10(6). PMID: [34067375](//www.ncbi.nlm.nih.gov/pubmed/34067375); PMCID: [PMC8224636](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8224636).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34067375/citedby/) Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  7. Pang JJ, **Wu SM**. Ocular Pressure-Volume Relationship and Ganglion Cell Death in Glaucoma. OBM Neurobiol. 2021; 5(2). PMID: [34308265](//www.ncbi.nlm.nih.gov/pubmed/34308265); PMCID: [PMC8297795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8297795).
+
+Citations:
+
+  8. Zhang AJ, **Wu SM**. Antagonistic surround responses in different cones are mediated by feedback synapses from different horizontal cells. Vision Res. 2021 09; 186:13-22. PMID: [34004350](//www.ncbi.nlm.nih.gov/pubmed/34004350); PMCID: [PMC11210320](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11210320).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Cells
+
+  9. Tao X, Sabharwal J, **Wu SM** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Intraocular Pressure Elevation Compromises Retinal Ganglion Cell Light Adaptation. Invest Ophthalmol Vis Sci. 2020 10 01; 61(12):15. PMID: [33064129](//www.ncbi.nlm.nih.gov/pubmed/33064129); PMCID: [PMC7571289](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7571289).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33064129/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  10. Chen CA, Wang W, [Pedersen SE](https://profiles.viictr.org/profile/266929), Raman A, Seymour ML, Ruiz FR, Xia A, van der Heijden ME, Wang L, Yin J, Lopez J, Rech ME, Lewis RA, **Wu SM** , [Liu Z](https://profiles.viictr.org/profile/266153), [Pereira FA](https://profiles.viictr.org/profile/269546), [Pautler RG](https://profiles.viictr.org/profile/267744), [Zoghbi HY](https://profiles.viictr.org/profile/267945), Schaaf CP. Nr2f1 heterozygous knockout mice recapitulate neurological phenotypes of Bosch-Boonstra-Schaaf optic atrophy syndrome and show impaired hippocampal synaptic plasticity. Hum Mol Genet. 2020 03 27; 29(5):705-715. PMID: [31600777](//www.ncbi.nlm.nih.gov/pubmed/31600777); PMCID: [PMC7104670](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7104670).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31600777/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:Animals
+
+  11. Shen G, Link S, Kumar S, Nusbaum DM, Tse DY, Fu Y, **Wu SM** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Author Correction: Characterization of Retinal Ganglion Cell and Optic Nerve Phenotypes Caused by Sustained Intracranial Pressure Elevation in Mice. Sci Rep. 2019 Oct 08; 9(1):14727. PMID: [31591458](//www.ncbi.nlm.nih.gov/pubmed/31591458); PMCID: [PMC6779737](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6779737).
+
+Citations:  Fields:
+
+Sci Science
+
+  12. Gao F, Yang Z, [Jacoby RA](https://profiles.viictr.org/profile/267084), **Wu SM** , Pang JJ. The expression and function of TRPV4 channels in primate retinal ganglion cells and bipolar cells. Cell Death Dis. 2019 05 07; 10(5):364. PMID: [31064977](//www.ncbi.nlm.nih.gov/pubmed/31064977); PMCID: [PMC6504919](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6504919).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31064977/citedby/) Fields:
+
+Cel Cell BiologyInt Internal Medicine
+
+Translation:AnimalsCells
+
+  13. Tao X, Sabharwal J, Seilheimer RL, **Wu SM** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Mild Intraocular Pressure Elevation in Mice Reveals Distinct Retinal Ganglion Cell Functional Thresholds and Pressure-Dependent Properties. J Neurosci. 2019 03 06; 39(10):1881-1891. PMID: [30622167](//www.ncbi.nlm.nih.gov/pubmed/30622167); PMCID: [PMC6407300](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6407300).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30622167/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  14. Lotfi P, Tse DY, Di Ronza A, Seymour ML, Martano G, Cooper JD, [Pereira FA](https://profiles.viictr.org/profile/269546), Passafaro M, **Wu SM** , Sardiello M. Trehalose reduces retinal degeneration, neuroinflammation and storage burden caused by a lysosomal hydrolase deficiency. Autophagy. 2018; 14(8):1419-1434. PMID: [29916295](//www.ncbi.nlm.nih.gov/pubmed/29916295); PMCID: [PMC6103706](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6103706).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29916295/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  15. Pang JJ, Yang Z, [Jacoby RA](https://profiles.viictr.org/profile/267084), **Wu SM**. Cone synapses in mammalian retinal rod bipolar cells. J Comp Neurol. 2018 08 15; 526(12):1896-1909. PMID: [29667170](//www.ncbi.nlm.nih.gov/pubmed/29667170); PMCID: [PMC6031453](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6031453).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29667170/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  16. Shen G, Link S, Kumar S, Nusbaum DM, Tse DY, Fu Y, **Wu SM** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Characterization of Retinal Ganglion Cell and Optic Nerve Phenotypes Caused by Sustained Intracranial Pressure Elevation in Mice. Sci Rep. 2018 02 12; 8(1):2856. PMID: [29434244](//www.ncbi.nlm.nih.gov/pubmed/29434244); PMCID: [PMC5809383](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5809383).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29434244/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  17. Tse DY, Kim SJ, Chung I, He F, [Wensel TG](https://profiles.viictr.org/profile/268119), **Wu SM**. The ocular toxicity and pharmacokinetics of simvastatin following intravitreal injection in mice. Int J Ophthalmol. 2017; 10(9):1361-1369. PMID: [28944193](//www.ncbi.nlm.nih.gov/pubmed/28944193); PMCID: [PMC5596219](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5596219).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28944193/citedby/)
+
+  18. Palmieri M, Pal R, Nelvagal HR, Lotfi P, Stinnett GR, Seymour ML, Chaudhury A, Bajaj L, Bondar VV, Bremner L, Saleem U, Tse DY, Sanagasetti D, **Wu SM** , [Neilson JR](https://profiles.viictr.org/profile/266073), Pereira FA, [Pautler RG](https://profiles.viictr.org/profile/267744), Rodney GG, Cooper JD, Sardiello M. Corrigendum: mTORC1-independent TFEB activation via Akt inhibition promotes cellular clearance in neurodegenerative storage diseases. Nat Commun. 2017 06 13; 8:15793. PMID: [28607479](//www.ncbi.nlm.nih.gov/pubmed/28607479); PMCID: [PMC5474731](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5474731).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28607479/citedby/) Fields:
+
+Bio BiologySci Science
+
+  19. Palmieri M, Pal R, Nelvagal HR, Lotfi P, Stinnett GR, Seymour ML, Chaudhury A, Bajaj L, Bondar VV, Bremner L, Saleem U, Tse DY, Sanagasetti D, **Wu SM** , [Neilson JR](https://profiles.viictr.org/profile/266073), [Pereira FA](https://profiles.viictr.org/profile/269546), [Pautler RG](https://profiles.viictr.org/profile/267744), Rodney GG, Cooper JD, Sardiello M. mTORC1-independent TFEB activation via Akt inhibition promotes cellular clearance in neurodegenerative storage diseases. Nat Commun. 2017 02 06; 8:14338. PMID: [28165011](//www.ncbi.nlm.nih.gov/pubmed/28165011); PMCID: [PMC5303831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5303831).
+
+Citations:
+[160](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28165011/citedby/)
+Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  20. Cowan CS, Sabharwal J, Seilheimer RL, **Wu SM**. Distinct subcomponents of mouse retinal ganglion cell receptive fields are differentially altered by light adaptation. Vision Res. 2017 02; 131:96-105. PMID: [28087445](//www.ncbi.nlm.nih.gov/pubmed/28087445).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28087445/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  21. Sabharwal J, Seilheimer RL, Cowan CS, **Wu SM**. The ON Crossover Circuitry Shapes Spatiotemporal Profile in the Center and Surround of Mouse OFF Retinal Ganglion Cells. Front Neural Circuits. 2016; 10:106. PMID: [28066192](//www.ncbi.nlm.nih.gov/pubmed/28066192); PMCID: [PMC5177742](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5177742).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28066192/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  22. Cowan CS, Sabharwal J, **Wu SM**. Space-time codependence of retinal ganglion cells can be explained by novel and separable components of their receptive fields. Physiol Rep. 2016 09; 4(17). PMID: [27604400](//www.ncbi.nlm.nih.gov/pubmed/27604400); PMCID: [PMC5027358](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5027358).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27604400/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  23. He F, Agosto MA, Anastassov IA, Tse DY, **Wu SM** , [Wensel TG](https://profiles.viictr.org/profile/268119). Phosphatidylinositol-3-phosphate is light-regulated and essential for survival in retinal rods. Sci Rep. 2016 06 01; 6:26978. PMID: [27245220](//www.ncbi.nlm.nih.gov/pubmed/27245220); PMCID: [PMC4887901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4887901).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27245220/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  24. van der Heijden ME, Shah P, Cowan CS, Yang Z, **Wu SM** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Effects of Chronic and Acute Intraocular Pressure Elevation on Scotopic and Photopic Contrast Sensitivity in Mice. Invest Ophthalmol Vis Sci. 2016 06 01; 57(7):3077-87. PMID: [27286365](//www.ncbi.nlm.nih.gov/pubmed/27286365); PMCID: [PMC4913820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4913820).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27286365/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  25. Cowan CS, Abd-El-Barr M, van der Heijden M, Lo EM, Paul D, Bramblett DE, Lem J, Simons DL, **Wu SM**. Connexin 36 and rod bipolar cell independent rod pathways drive retinal ganglion cells and optokinetic reflexes. Vision Res. 2016 Feb; 119:99-109. PMID: [26718442](//www.ncbi.nlm.nih.gov/pubmed/26718442); PMCID: [PMC5052632](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5052632).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26718442/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  26. [Wang J](https://profiles.viictr.org/profile/3010469), [Jacoby R](https://profiles.viictr.org/profile/267084), **Wu SM**. Physiological and morphological characterization of ganglion cells in the salamander retina. Vision Res. 2016 Feb; 119:60-72. PMID: [26731645](//www.ncbi.nlm.nih.gov/pubmed/26731645); PMCID: [PMC4774266](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4774266).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26731645/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  27. Tse DY, Lotfi P, Simons DL, Sardiello M, **Wu SM**. Electrophysiological and Histological Characterization of Rod-Cone Retinal Degeneration and Microglia Activation in a Mouse Model of Mucopolysaccharidosis Type IIIB. Sci Rep. 2015 Nov 26; 5:17143. PMID: [26607664](//www.ncbi.nlm.nih.gov/pubmed/26607664); PMCID: [PMC4660851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4660851).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26607664/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  28. Xiong WH, Pang JJ, Pennesi ME, Duvoisin RM, **Wu SM** , Morgans CW. The Effect of PKCa on the Light Response of Rod Bipolar Cells in the Mouse Retina. Invest Ophthalmol Vis Sci. 2015 Jul; 56(8):4961-74. PMID: [26230760](//www.ncbi.nlm.nih.gov/pubmed/26230760); PMCID: [PMC4525676](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4525676).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26230760/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  29. Buford TW, Fillingim RB, Manini TM, Sibille KT, Vincent KR, **Wu SS**. Kaatsu training to enhance physical function of older adults with knee osteoarthritis: Design of a randomized controlled trial. Contemp Clin Trials. 2015 Jul; 43:217-22. PMID: [26111922](//www.ncbi.nlm.nih.gov/pubmed/26111922); PMCID: [PMC4522335](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4522335).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26111922/citedby/) Fields:
+
+Med Medicine (General)The Therapeutics
+
+Translation:Humans
+
+  30. Nusbaum DM, **Wu SM** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Elevated intracranial pressure causes optic nerve and retinal ganglion cell degeneration in mice. Exp Eye Res. 2015 Jul; 136:38-44. PMID: [25912998](//www.ncbi.nlm.nih.gov/pubmed/25912998); PMCID: [PMC4466149](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4466149).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25912998/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  31. Pang JJ, [Frankfort BJ](https://profiles.viictr.org/profile/268696), Gross RL, **Wu SM**. Elevated intraocular pressure decreases response sensitivity of inner retinal neurons in experimental glaucoma mice. Proc Natl Acad Sci U S A. 2015 Feb 24; 112(8):2593-8. PMID: [25675503](//www.ncbi.nlm.nih.gov/pubmed/25675503); PMCID: [PMC4345598](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4345598).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25675503/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  32. **Wu SM**. Introducing Wolfgang Baehr, the 2014 recipient of the Proctor Award. Invest Ophthalmol Vis Sci. 2014 Dec 30; 55(12):8651-2. PMID: [25550382](//www.ncbi.nlm.nih.gov/pubmed/25550382).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  33. Khan AK, Tse DY, van der Heijden ME, Shah P, Nusbaum DM, Yang Z, **Wu SM** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Prolonged elevation of intraocular pressure results in retinal ganglion cell loss and abnormal retinal function in mice. Exp Eye Res. 2015 Jan; 130:29-37. PMID: [25450059](//www.ncbi.nlm.nih.gov/pubmed/25450059); PMCID: [PMC4308057](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4308057).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25450059/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  34. Eblimit A, Nguyen TM, Chen Y, Esteve-Rudd J, Zhong H, Letteboer S, Van Reeuwijk J, Simons DL, Ding Q, Wu KM, Li Y, Van Beersum S, Moayedi Y, Xu H, Pickard P, Wang K, Gan L, **Wu SM** , Williams DS, [Mardon G](https://profiles.viictr.org/profile/268168), Roepman R, [Chen R](https://profiles.viictr.org/profile/266790). Spata7 is a retinal ciliopathy gene critical for correct RPGRIP1 localization and protein trafficking in the retina. Hum Mol Genet. 2015 Mar 15; 24(6):1584-601. PMID: [25398945](//www.ncbi.nlm.nih.gov/pubmed/25398945); PMCID: [PMC4351378](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4351378).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398945/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  35. Ressler SJ, Dang TD, **Wu SM** , Tse DY, [Gilbert BE](https://profiles.viictr.org/profile/269479), Vyakarnam A, [Yang F](https://profiles.viictr.org/profile/265773), Schauer IG, Barron DA, [Rowley DR](https://profiles.viictr.org/profile/269631). WFDC1 is a key modulator of inflammatory and wound repair responses. Am J Pathol. 2014 Nov; 184(11):2951-64. PMID: [25219356](//www.ncbi.nlm.nih.gov/pubmed/25219356); PMCID: [PMC4215025](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215025).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25219356/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansAnimalsCells
+
+  36. Tse DY, Chung I, **Wu SM**. Pharmacological inhibitions of glutamate transporters EAAT1 and EAAT2 compromise glutamate transport in photoreceptor to ON-bipolar cell synapses. Vision Res. 2014 Oct; 103:49-62. PMID: [25152321](//www.ncbi.nlm.nih.gov/pubmed/25152321); PMCID: [PMC4547049](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4547049).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25152321/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  37. Tse DY, Chung I, **Wu SM**. Possible roles of glutamate transporter EAAT5 in mouse cone depolarizing bipolar cell light responses. Vision Res. 2014 Oct; 103:63-74. PMID: [24972005](//www.ncbi.nlm.nih.gov/pubmed/24972005); PMCID: [PMC4545533](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4545533).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24972005/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  38. Gao F, Pang JJ, **Wu SM**. Sign-preserving and sign-inverting synaptic interactions between rod and cone photoreceptors in the dark-adapted retina. J Physiol. 2013 Nov 15; 591(22):5711-26. PMID: [24000179](//www.ncbi.nlm.nih.gov/pubmed/24000179); PMCID: [PMC3853505](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3853505).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24000179/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  39. [Pang JJ](https://profiles.viictr.org/profile/267096), Paul DL, **Wu SM**. Survey on amacrine cells coupling to retrograde-identified ganglion cells in the mouse retina. Invest Ophthalmol Vis Sci. 2013 Aug 01; 54(8):5151-62. PMID: [23821205](//www.ncbi.nlm.nih.gov/pubmed/23821205); PMCID: [PMC3732024](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3732024).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23821205/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  40. Childs JD, **Wu SS** , Teyhen DS, Robinson ME, George SZ. Prevention of low back pain in the military cluster randomized trial: effects of brief psychosocial education on total and low back pain-related health care costs. Spine J. 2014 Apr; 14(4):571-83. PMID: [23608562](//www.ncbi.nlm.nih.gov/pubmed/23608562).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23608562/citedby/) Fields:
+
+Ort Orthopedics
+
+Translation:Humans
+
+  41. [Frankfort BJ](https://profiles.viictr.org/profile/268696), Khan AK, Tse DY, Chung I, Pang JJ, Yang Z, Gross RL, **Wu SM**. Elevated intraocular pressure causes inner retinal dysfunction before cell loss in a mouse model of experimental glaucoma. Invest Ophthalmol Vis Sci. 2013 Jan 28; 54(1):762-70. PMID: [23221072](//www.ncbi.nlm.nih.gov/pubmed/23221072); PMCID: [PMC3562118](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3562118).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23221072/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  42. Pang JJ, Gao F, **Wu SM**. Ionotropic glutamate receptors mediate OFF responses in light-adapted ON bipolar cells. Vision Res. 2012 Sep 01; 68:48-58. PMID: [22842089](//www.ncbi.nlm.nih.gov/pubmed/22842089); PMCID: [PMC3733217](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3733217).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22842089/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  43. Cho SH, Kim JY, Simons DL, Song JY, Le JH, Swindell EC, [Jamrich M](https://profiles.viictr.org/profile/269809), **Wu SM** , Kim S. Genetic ablation of Pals1 in retinal progenitor cells models the retinal pathology of Leber congenital amaurosis. Hum Mol Genet. 2012 Jun 15; 21(12):2663-76. PMID: [22398208](//www.ncbi.nlm.nih.gov/pubmed/22398208); PMCID: [PMC3363335](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3363335).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22398208/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  44. Pang JJ, Gao F, Paul DL, **Wu SM**. Rod, M-cone and M/S-cone inputs to hyperpolarizing bipolar cells in the mouse retina. J Physiol. 2012 Feb 15; 590(4):845-54. PMID: [22219344](//www.ncbi.nlm.nih.gov/pubmed/22219344); PMCID: [PMC3381314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3381314).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22219344/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  45. Price BA, Sandoval IM, Chan F, Simons DL, **Wu SM** , [Wensel TG](https://profiles.viictr.org/profile/268119), Wilson JH. Mislocalization and degradation of human P23H-rhodopsin-GFP in a knockin mouse model of retinitis pigmentosa. Invest Ophthalmol Vis Sci. 2011 Dec 28; 52(13):9728-36. PMID: [22110080](//www.ncbi.nlm.nih.gov/pubmed/22110080); PMCID: [PMC3341127](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3341127).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22110080/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  46. Pang JJ, Gao F, **Wu SM**. Physiological characterization and functional heterogeneity of narrow-field mammalian amacrine cells. J Physiol. 2012 Jan 01; 590(1):223-34. PMID: [22083601](//www.ncbi.nlm.nih.gov/pubmed/22083601); PMCID: [PMC3300058](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3300058).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22083601/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  47. Zhang AJ, [Jacoby R](https://profiles.viictr.org/profile/267084), **Wu SM**. Light- and dopamine-regulated receptive field plasticity in primate horizontal cells. J Comp Neurol. 2011 Aug 01; 519(11):2125-34. PMID: [21452210](//www.ncbi.nlm.nih.gov/pubmed/21452210); PMCID: [PMC3632401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3632401).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21452210/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  48. Pang JJ, **Wu SM**. Morphology and immunoreactivity of retrogradely double-labeled ganglion cells in the mouse retina. Invest Ophthalmol Vis Sci. 2011 Jul 01; 52(7):4886-96. PMID: [21482641](//www.ncbi.nlm.nih.gov/pubmed/21482641); PMCID: [PMC3175970](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3175970).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21482641/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  49. Cai Z, Simons DL, Fu XY, Feng GS, **Wu SM** , Zhang X. Loss of Shp2-mediated mitogen-activated protein kinase signaling in Muller glial cells results in retinal degeneration. Mol Cell Biol. 2011 Jul; 31(14):2973-83. PMID: [21576358](//www.ncbi.nlm.nih.gov/pubmed/21576358); PMCID: [PMC3133408](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3133408).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21576358/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  50. Simons DL, Boye SL, Hauswirth WW, **Wu SM**. Gene therapy prevents photoreceptor death and preserves retinal function in a Bardet-Biedl syndrome mouse model. Proc Natl Acad Sci U S A. 2011 Apr 12; 108(15):6276-81. PMID: [21444805](//www.ncbi.nlm.nih.gov/pubmed/21444805); PMCID: [PMC3076852](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3076852).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21444805/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  51. Yu Y, Satoh H, Vila A, **Wu SM** , Marshak DW. Effects of histamine on light responses of amacrine cells in tiger salamander retina. Neurochem Res. 2011 Apr; 36(4):645-54. PMID: [20878231](//www.ncbi.nlm.nih.gov/pubmed/20878231); PMCID: [PMC3135307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3135307).
+
+Citations:  Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  52. Childs JD, Teyhen DS, Casey PR, McCoy-Singh KA, Feldtmann AW, Wright AC, Dugan JL, **Wu SS** , George SZ. Effects of traditional sit-up training versus core stabilization exercises on short-term musculoskeletal injuries in US Army soldiers: a cluster randomized trial. Phys Ther. 2010 Oct; 90(10):1404-12. PMID: [20651013](//www.ncbi.nlm.nih.gov/pubmed/20651013).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20651013/citedby/) Fields:
+
+Phy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  53. Pang JJ, Gao F, **Wu SM**. Light responses and morphology of bNOS-immunoreactive neurons in the mouse retina. J Comp Neurol. 2010 Jul 01; 518(13):2456-74. PMID: [20503422](//www.ncbi.nlm.nih.gov/pubmed/20503422); PMCID: [PMC3000797](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3000797).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20503422/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  54. **Wu SM**. Synaptic organization of the vertebrate retina: general principles and species-specific variations: the Friedenwald lecture. Invest Ophthalmol Vis Sci. 2010 Mar; 51(3):1263-74. PMID: [20185835](//www.ncbi.nlm.nih.gov/pubmed/20185835); PMCID: [PMC3258978](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3258978).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20185835/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansAnimalsCells
+
+  55. Zhang AJ, **Wu SM**. Responses and receptive fields of amacrine cells and ganglion cells in the salamander retina. Vision Res. 2010 Mar 17; 50(6):614-22. PMID: [20085780](//www.ncbi.nlm.nih.gov/pubmed/20085780); PMCID: [PMC3644516](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3644516).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20085780/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  56. Pang JJ, Gao F, Lem J, Bramblett DE, Paul DL, **Wu SM**. Direct rod input to cone BCs and direct cone input to rod BCs challenge the traditional view of mammalian BC circuitry. Proc Natl Acad Sci U S A. 2010 Jan 05; 107(1):395-400. PMID: [20018684](//www.ncbi.nlm.nih.gov/pubmed/20018684); PMCID: [PMC2806755](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2806755).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20018684/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  57. Barrow AJ, **Wu SM**. Complementary conductance changes by IKx and Ih contribute to membrane impedance stability during the rod light response. Channels (Austin). 2009 Sep-Oct; 3(5):301-7. PMID: [19713736](//www.ncbi.nlm.nih.gov/pubmed/19713736); PMCID: [PMC2922757](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2922757).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19713736/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  58. Abd-El-Barr MM, Pennesi ME, Saszik SM, Barrow AJ, Lem J, Bramblett DE, Paul DL, Frishman LJ, **Wu SM**. Genetic dissection of rod and cone pathways in the dark-adapted mouse retina. J Neurophysiol. 2009 Sep; 102(3):1945-55. PMID: [19587322](//www.ncbi.nlm.nih.gov/pubmed/19587322); PMCID: [PMC2746771](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2746771).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19587322/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  59. Klump KE, Zhang AJ, **Wu SM** , Marshak DW. Parvalbumin-immunoreactive amacrine cells of macaque retina. Vis Neurosci. 2009 May-Jun; 26(3):287-96. PMID: [19435546](//www.ncbi.nlm.nih.gov/pubmed/19435546); PMCID: [PMC3341670](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3341670).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19435546/citedby/) Fields:
+
+Neu NeurologyOph Ophthalmology
+
+Translation:AnimalsCells
+
+  60. Barrow AJ, **Wu SM**. Low-conductance HCN1 ion channels augment the frequency response of rod and cone photoreceptors. J Neurosci. 2009 May 06; 29(18):5841-53. PMID: [19420251](//www.ncbi.nlm.nih.gov/pubmed/19420251); PMCID: [PMC2695939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2695939).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19420251/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  61. Kamiyama Y, **Wu SM** , Usui S. Simulation analysis of bandpass filtering properties of a rod photoreceptor network. Vision Res. 2009 May; 49(9):970-8. PMID: [19281836](//www.ncbi.nlm.nih.gov/pubmed/19281836).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19281836/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  62. Yuan X, Chen Z, Yang Z, Gao J, Zhang A, **Wu SM** , [Jacoby R](https://profiles.viictr.org/profile/267084). Expression pattern of connexins in the corneal and limbal epithelium of a primate. Cornea. 2009 Feb; 28(2):194-9. PMID: [19158564](//www.ncbi.nlm.nih.gov/pubmed/19158564).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19158564/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  63. Zhang AJ, **Wu SM**. Receptive fields of retinal bipolar cells are mediated by heterogeneous synaptic circuitry. J Neurosci. 2009 Jan 21; 29(3):789-97. PMID: [19158304](//www.ncbi.nlm.nih.gov/pubmed/19158304); PMCID: [PMC2745915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2745915).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19158304/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  64. Zhang J, **Wu SM**. Immunocytochemical analysis of photoreceptors in the tiger salamander retina. Vision Res. 2009 Jan; 49(1):64-73. PMID: [18977238](//www.ncbi.nlm.nih.gov/pubmed/18977238); PMCID: [PMC3664976](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3664976).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18977238/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  65. **Wu SM**. From retinal circuitry to eye diseases--in memory of Henk Spekreijse. Vision Res. 2009 May; 49(9):992-5. PMID: [18948133](//www.ncbi.nlm.nih.gov/pubmed/18948133); PMCID: [PMC2732406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2732406).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18948133/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  66. Yu YC, Satoh H, **Wu SM** , Marshak DW. Histamine enhances voltage-gated potassium currents of ON bipolar cells in macaque retina. Invest Ophthalmol Vis Sci. 2009 Feb; 50(2):959-65. PMID: [18836167](//www.ncbi.nlm.nih.gov/pubmed/18836167); PMCID: [PMC3341730](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3341730).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18836167/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  67. Pang JJ, Gao F, Barrow A, [Jacoby RA](https://profiles.viictr.org/profile/267084), **Wu SM**. How do tonic glutamatergic synapses evade receptor desensitization? J Physiol. 2008 Jun 15; 586(12):2889-902. PMID: [18420706](//www.ncbi.nlm.nih.gov/pubmed/18420706); PMCID: [PMC2517206](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2517206).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18420706/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  68. Abd-El-Barr MM, Albini TA, Carvounis PE, He F, Manzano RP, [Chevez-Barrios P](https://profiles.viictr.org/profile/269744), [Wensel TG](https://profiles.viictr.org/profile/268119), **Wu SM** , [Holz ER](https://profiles.viictr.org/profile/266867). Safety and pharmokinetics of triamcinolone hexacetonide in rabbit eyes. J Ocul Pharmacol Ther. 2008 Apr; 24(2):197-205. PMID: [18355133](//www.ncbi.nlm.nih.gov/pubmed/18355133).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18355133/citedby/) Fields:
+
+Dru Drug TherapyOph OphthalmologyPha Pharmacology
+
+Translation:Animals
+
+  69. Zhang Y, Lin N, Carroll PM, Chan G, Guan B, Xiao H, Yao B, **Wu SS** , Zhou L. Epigenetic blocking of an enhancer region controls irradiation-induced proapoptotic gene expression in Drosophila embryos. Dev Cell. 2008 Apr; 14(4):481-93. PMID: [18410726](//www.ncbi.nlm.nih.gov/pubmed/18410726); PMCID: [PMC2901920](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2901920).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18410726/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  70. Abd-El-Barr MM, Sykoudis K, [Andrabi S](https://profiles.viictr.org/profile/19599345), Eichers ER, Pennesi ME, Tan PL, Wilson JH, Katsanis N, [Lupski JR](https://profiles.viictr.org/profile/268099), **Wu SM**. Impaired photoreceptor protein transport and synaptic transmission in a mouse model of Bardet-Biedl syndrome. Vision Res. 2007 Dec; 47(27):3394-407. PMID: [18022666](//www.ncbi.nlm.nih.gov/pubmed/18022666); PMCID: [PMC2661240](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2661240).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18022666/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  71. Barrow AJ, **Wu SM**. Impedance measurements for cervical cancer diagnosis. Gynecol Oncol. 2007 Oct; 107(1 Suppl 1):S40-3. PMID: [17727937](//www.ncbi.nlm.nih.gov/pubmed/17727937).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17727937/citedby/) Fields:
+
+Gyn GynecologyNeo Neoplasms
+
+Translation:Humans
+
+  72. Pang JJ, Abd-El-Barr MM, Gao F, Bramblett DE, Paul DL, **Wu SM**. Relative contributions of rod and cone bipolar cell inputs to AII amacrine cell light responses in the mouse retina. J Physiol. 2007 Apr 15; 580(Pt. 2):397-410. PMID: [17255172](//www.ncbi.nlm.nih.gov/pubmed/17255172); PMCID: [PMC2075551](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2075551).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17255172/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  73. Albini TA, Abd-El-Barr MM, Carvounis PE, Iyer MN, Lakhanpal RR, Pennesi ME, [Chevez-Barrios P](https://profiles.viictr.org/profile/269744), **Wu SM** , [Holz ER](https://profiles.viictr.org/profile/266867). Long-term retinal toxicity of intravitreal commercially available preserved triamcinolone acetonide (Kenalog) in rabbit eyes. Invest Ophthalmol Vis Sci. 2007 Jan; 48(1):390-5. PMID: [17197559](//www.ncbi.nlm.nih.gov/pubmed/17197559).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17197559/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  74. Zhang AJ, Zhang J, **Wu SM**. Electrical coupling, receptive fields, and relative rod/cone inputs of horizontal cells in the tiger salamander retina. J Comp Neurol. 2006 Nov 20; 499(3):422-31. PMID: [16998920](//www.ncbi.nlm.nih.gov/pubmed/16998920).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16998920/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  75. Zhang J, Zhang AJ, **Wu SM**. Immunocytochemical analysis of GABA-positive and calretinin-positive horizontal cells in the tiger salamander retina. J Comp Neurol. 2006 Nov 20; 499(3):432-41. PMID: [16998928](//www.ncbi.nlm.nih.gov/pubmed/16998928).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16998928/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  76. Pang JJ, Gao F, **Wu SM**. Cross-talk between ON and OFF channels in the salamander retina: indirect bipolar cell inputs to ON-OFF ganglion cells. Vision Res. 2007 Feb; 47(3):384-92. PMID: [17092534](//www.ncbi.nlm.nih.gov/pubmed/17092534).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17092534/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  77. Eichers ER, Abd-El-Barr MM, Paylor R, Lewis RA, [Bi W](https://profiles.viictr.org/profile/266446), Lin X, Meehan TP, Stockton DW, **Wu SM** , Lindsay E, Justice MJ, Beales PL, Katsanis N, [Lupski JR](https://profiles.viictr.org/profile/268099). Phenotypic characterization of Bbs4 null mice reveals age-dependent penetrance and variable expressivity. Hum Genet. 2006 Sep; 120(2):211-26. PMID: [16794820](//www.ncbi.nlm.nih.gov/pubmed/16794820).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16794820/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  78. Gao H, Pennesi ME, Qiao X, Iyer MN, **Wu SM** , [Holz ER](https://profiles.viictr.org/profile/266867), Mieler WF. Intravitreal moxifloxacin: retinal safety study with electroretinography and histopathology in animal models. Invest Ophthalmol Vis Sci. 2006 Apr; 47(4):1606-11. PMID: [16565399](//www.ncbi.nlm.nih.gov/pubmed/16565399).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16565399/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  79. Pennesi ME, Bramblett DE, Cho JH, Tsai MJ, **Wu SM**. A role for bHLH transcription factors in retinal degeneration and dysfunction. Adv Exp Med Biol. 2006; 572:155-61. PMID: [17249569](//www.ncbi.nlm.nih.gov/pubmed/17249569).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17249569/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Animals
+
+  80. Zhang J, Yang Z, **Wu SM**. Development of cholinergic amacrine cells is visual activity-dependent in the postnatal mouse retina. J Comp Neurol. 2005 Apr 11; 484(3):331-43. PMID: [15739235](//www.ncbi.nlm.nih.gov/pubmed/15739235).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15739235/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  81. Zhang J, **Wu SM**. Physiological properties of rod photoreceptor electrical coupling in the tiger salamander retina. J Physiol. 2005 May 01; 564(Pt 3):849-62. PMID: [15746168](//www.ncbi.nlm.nih.gov/pubmed/15746168); PMCID: [PMC1464472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1464472).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15746168/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  82. Maple BR, Zhang J, Pang JJ, Gao F, **Wu SM**. Characterization of displaced bipolar cells in the tiger salamander retina. Vision Res. 2005 Mar; 45(6):697-705. PMID: [15639496](//www.ncbi.nlm.nih.gov/pubmed/15639496).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15639496/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  83. Yang JH, Le WD, [Basinger SF](https://profiles.viictr.org/profile/265874), **Wu SM** , Yang CY. Mechanisms of apoptosis in human retinal pigment epithelium induced by TNF-alpha in conditions of heavy metal ion deficiency. Invest Ophthalmol Vis Sci. 2005 Mar; 46(3):1039-46. PMID: [15728563](//www.ncbi.nlm.nih.gov/pubmed/15728563).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15728563/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  84. Ji J, Chang P, Pennesi ME, Yang Z, Zhang J, [Li D](https://profiles.viictr.org/profile/267801), **Wu SM** , Gross RL. Effects of elevated intraocular pressure on mouse retinal ganglion cells. Vision Res. 2005 Jan; 45(2):169-79. PMID: [15581918](//www.ncbi.nlm.nih.gov/pubmed/15581918).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15581918/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  85. Yang XL, **Wu SM**. Signal transmission from cones to amacrine cells in dark- and light-adapted tiger salamander retina. Brain Res. 2004 Dec 17; 1029(2):155-61. PMID: [15542069](//www.ncbi.nlm.nih.gov/pubmed/15542069).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15542069/citedby/) Fields:
+
+Bra Brain
+
+Translation:AnimalsCells
+
+  86. **Wu SM** , Gao F, Pang JJ. Synaptic circuitry mediating light-evoked signals in dark-adapted mouse retina. Vision Res. 2004 Dec; 44(28):3277-88. PMID: [15535995](//www.ncbi.nlm.nih.gov/pubmed/15535995).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15535995/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  87. He Z, Cui L, **Wu SS** , Li XY, Simpkins JW, McKinney M, Day AL. Increased severity of acute cerebral ischemic injury correlates with enhanced stem cell induction as well as with predictive behavioral profiling. Curr Neurovasc Res. 2004 Dec; 1(5):399-409. PMID: [16181088](//www.ncbi.nlm.nih.gov/pubmed/16181088).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16181088/citedby/) Fields:
+
+Neu NeurologyVas Vascular Diseases
+
+Translation:AnimalsCells
+
+  88. [Gao H](https://profiles.viictr.org/profile/45080791), Pennesi ME, Shah K, Qiao X, Hariprasad SM, Mieler WF, **Wu SM** , [Holz ER](https://profiles.viictr.org/profile/266867). Intravitreal voriconazole: an electroretinographic and histopathologic study. Arch Ophthalmol. 2004 Nov; 122(11):1687-92. PMID: [15534131](//www.ncbi.nlm.nih.gov/pubmed/15534131).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15534131/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  89. Bramblett DE, Pennesi ME, **Wu SM** , Tsai MJ. The transcription factor Bhlhb4 is required for rod bipolar cell maturation. Neuron. 2004 Sep 16; 43(6):779-93. PMID: [15363390](//www.ncbi.nlm.nih.gov/pubmed/15363390).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15363390/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  90. Pang JJ, Gao F, **Wu SM**. Light-evoked current responses in rod bipolar cells, cone depolarizing bipolar cells and AII amacrine cells in dark-adapted mouse retina. J Physiol. 2004 Aug 01; 558(Pt 3):897-912. PMID: [15181169](//www.ncbi.nlm.nih.gov/pubmed/15181169); PMCID: [PMC1665016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1665016).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15181169/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  91. Pang JJ, Gao F, **Wu SM**. Stratum-by-stratum projection of light response attributes by retinal bipolar cells of Ambystoma. J Physiol. 2004 Jul 01; 558(Pt 1):249-62. PMID: [15146053](//www.ncbi.nlm.nih.gov/pubmed/15146053); PMCID: [PMC1664915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1664915).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15146053/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  92. Zhang J, Yang Z, **Wu SM**. Immuocytochemical analysis of spatial organization of photoreceptors and amacrine and ganglion cells in the tiger salamander retina. Vis Neurosci. 2004 Mar-Apr; 21(2):157-66. PMID: [15259567](//www.ncbi.nlm.nih.gov/pubmed/15259567).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15259567/citedby/) Fields:
+
+Neu NeurologyOph Ophthalmology
+
+Translation:AnimalsCells
+
+  93. Zhang J, **Wu SM**. Connexin35/36 gap junction proteins are expressed in photoreceptors of the tiger salamander retina. J Comp Neurol. 2004 Feb 23; 470(1):1-12. PMID: [14755521](//www.ncbi.nlm.nih.gov/pubmed/14755521).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14755521/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  94. Baehr W, **Wu SM** , Bird AC, Palczewski K. The retinoid cycle and retina disease. Vision Res. 2003 Dec; 43(28):2957-8. PMID: [14611932](//www.ncbi.nlm.nih.gov/pubmed/14611932).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14611932/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  95. Pang JJ, Gao F, **Wu SM**. Light-evoked excitatory and inhibitory synaptic inputs to ON and OFF alpha ganglion cells in the mouse retina. J Neurosci. 2003 Jul 09; 23(14):6063-73. PMID: [12853425](//www.ncbi.nlm.nih.gov/pubmed/12853425); PMCID: [PMC6740343](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6740343).
+
+Citations:
+[147](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12853425/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  96. Zhang J, **Wu SM**. Goalpha labels ON bipolar cells in the tiger salamander retina. J Comp Neurol. 2003 Jun 23; 461(2):276-89. PMID: [12724843](//www.ncbi.nlm.nih.gov/pubmed/12724843).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12724843/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  97. Pennesi ME, Howes KA, Baehr W, **Wu SM**. Guanylate cyclase-activating protein (GCAP) 1 rescues cone recovery kinetics in GCAP1/GCAP2 knockout mice. Proc Natl Acad Sci U S A. 2003 May 27; 100(11):6783-8. PMID: [12732716](//www.ncbi.nlm.nih.gov/pubmed/12732716); PMCID: [PMC164524](//www.ncbi.nlm.nih.gov/pmc/articles/PMC164524).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12732716/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  98. Qiao X, Pennesi M, Seong E, Gao H, Burmeister M, **Wu SM**. Photoreceptor degeneration and rd1 mutation in the grizzled/mocha mouse strain. Vision Res. 2003 Apr; 43(8):859-65. PMID: [12668055](//www.ncbi.nlm.nih.gov/pubmed/12668055).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12668055/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  99. Yang JH, [Basinger SF](https://profiles.viictr.org/profile/265874), Gross RL, **Wu SM**. Blue light-induced generation of reactive oxygen species in photoreceptor ellipsoids requires mitochondrial electron transport. Invest Ophthalmol Vis Sci. 2003 Mar; 44(3):1312-9. PMID: [12601064](//www.ncbi.nlm.nih.gov/pubmed/12601064).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12601064/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  100. Yoo SY, Pennesi ME, Weeber EJ, Xu B, Atkinson R, Chen S, Armstrong DL, **Wu SM** , Sweatt JD, [Zoghbi HY](https://profiles.viictr.org/profile/267945). SCA7 knockin mice model human SCA7 and reveal gradual accumulation of mutant ataxin-7 in neurons and abnormalities in short-term plasticity. Neuron. 2003 Feb 06; 37(3):383-401. PMID: [12575948](//www.ncbi.nlm.nih.gov/pubmed/12575948).
+
+Citations:
+[87](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12575948/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  101. Pennesi ME, Cho JH, Yang Z, **Wu SH** , Zhang J, Wu SM, Tsai MJ. BETA2/NeuroD1 null mice: a new model for transcription factor-dependent photoreceptor degeneration. J Neurosci. 2003 Jan 15; 23(2):453-61. PMID: [12533605](//www.ncbi.nlm.nih.gov/pubmed/12533605); PMCID: [PMC6741880](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6741880).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12533605/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  102. Zhang J, **Wu SM** , Gross RL. Effects of beta-adrenergic blockers on glutamate-induced calcium signals in adult mouse retinal ganglion cells. Brain Res. 2003 Jan 03; 959(1):111-9. PMID: [12480164](//www.ncbi.nlm.nih.gov/pubmed/12480164).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12480164/citedby/) Fields:
+
+Bra Brain
+
+Translation:AnimalsCells
+
+  103. Gross RL, Ji J, Chang P, Pennesi ME, Yang Z, Zhang J, **Wu SM**. A mouse model of elevated intraocular pressure: retina and optic nerve findings. Trans Am Ophthalmol Soc. 2003; 101:163-9; discussion 169-71. PMID: [14971574](//www.ncbi.nlm.nih.gov/pubmed/14971574); PMCID: [PMC1358985](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1358985).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14971574/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  104. [Gao H](https://profiles.viictr.org/profile/45080791), Pennesi M, Shah K, Qiao X, Hariprasad SM, Mieler WF, **Wu SM** , [Holz ER](https://profiles.viictr.org/profile/266867). Safety of intravitreal voriconazole: electroretinographic and histopathologic studies. Trans Am Ophthalmol Soc. 2003; 101:183-9; discussion 189. PMID: [14971576](//www.ncbi.nlm.nih.gov/pubmed/14971576); PMCID: [PMC1358987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1358987).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14971576/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  105. Liu R, Yang SH, Perez E, Yi KD, **Wu SS** , Eberst K, Prokai L, Prokai-Tatrai K, Cai ZY, Covey DF, Day AL, Simpkins JW. Neuroprotective effects of a novel non-receptor-binding estrogen analogue: in vitro and in vivo analysis. Stroke. 2002 Oct; 33(10):2485-91. PMID: [12364742](//www.ncbi.nlm.nih.gov/pubmed/12364742).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12364742/citedby/) Fields:
+
+Bra BrainVas Vascular Diseases
+
+Translation:HumansAnimalsCells
+
+  106. Pang JJ, Gao F, **Wu SM**. Segregation and integration of visual channels: layer-by-layer computation of ON-OFF signals by amacrine cell dendrites. J Neurosci. 2002 Jun 01; 22(11):4693-701. PMID: [12040076](//www.ncbi.nlm.nih.gov/pubmed/12040076); PMCID: [PMC6758824](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6758824).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12040076/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  107. Han Y, **Wu SM**. NMDA-evoked [Ca2+]i increase in salamander retinal ganglion cells: modulation by PKA and adrenergic receptors. Vis Neurosci. 2002 May-Jun; 19(3):249-56. PMID: [12392174](//www.ncbi.nlm.nih.gov/pubmed/12392174).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12392174/citedby/) Fields:
+
+Neu NeurologyOph Ophthalmology
+
+Translation:AnimalsCells
+
+  108. Howes KA, Pennesi ME, Sokal I, Church-Kopish J, Schmidt B, Margolis D, Frederick JM, Rieke F, Palczewski K, **Wu SM** , Detwiler PB, Baehr W. GCAP1 rescues rod photoreceptor response in GCAP1/GCAP2 knockout mice. EMBO J. 2002 Apr 02; 21(7):1545-54. PMID: [11927539](//www.ncbi.nlm.nih.gov/pubmed/11927539); PMCID: [PMC125366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC125366).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11927539/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  109. Yang XL, Gao F, **Wu SM**. Non-linear, high-gain and sustained-to-transient signal transmission from rods to amacrine cells in dark-adapted retina of Ambystoma. J Physiol. 2002 Feb 15; 539(Pt 1):239-51. PMID: [11850516](//www.ncbi.nlm.nih.gov/pubmed/11850516); PMCID: [PMC2290137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2290137).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11850516/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  110. Pang JJ, Gao F, **Wu SM**. Relative contributions of bipolar cell and amacrine cell inputs to light responses of ON, OFF and ON-OFF retinal ganglion cells. Vision Res. 2002 Jan; 42(1):19-27. PMID: [11804628](//www.ncbi.nlm.nih.gov/pubmed/11804628).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11804628/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 110 publications over 23 distinct years, with a maximum of
+11 publications in
+2003](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|11&cht=bvs&chd=t:0,0,0,0,0,0,0,0,55,100,82,45,55,36,55,73,45,55,27,36,55,45,55,36,27,27,18,36,9,9,18&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 6  
+2003| 11  
+2004| 9  
+2005| 5  
+2006| 6  
+2007| 4  
+2008| 6  
+2009| 8  
+2010| 5  
+2011| 6  
+2012| 3  
+2013| 4  
+2014| 6  
+2015| 5  
+2016| 6  
+2017| 4  
+2018| 3  
+2019| 3  
+2020| 2  
+2021| 4  
+2022| 1  
+2023| 1  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+WU's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (502)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Retina](https://profiles.viictr.org/profile/248618)
+  * [Retinal Ganglion Cells](https://profiles.viictr.org/profile/243572)
+  * [Retinal Rod Photoreceptor Cells](https://profiles.viictr.org/profile/248884)
+  * [Retinal Cone Photoreceptor Cells](https://profiles.viictr.org/profile/255632)
+  * [Amacrine Cells](https://profiles.viictr.org/profile/257207)
+
+[Explore](https://profiles.viictr.org/profile/267834/198)
+
+_
+
+Co-Authors (29)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [FRANKFORT, BENJAMIN](https://profiles.viictr.org/profile/268696)
+  * [JACOBY, ROY](https://profiles.viictr.org/profile/267084)
+  * [WANG, JING](https://profiles.viictr.org/profile/3010469)
+  * [PANG, JIJIE](https://profiles.viictr.org/profile/267096)
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+
+[Explore](https://profiles.viictr.org/profile/267834/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+  * [FRANKFORT, BENJAMIN](https://profiles.viictr.org/profile/268696)
+  * [KLEIN, WILLIAM H](https://profiles.viictr.org/profile/12583654)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [SAMUEL, MELANIE](https://profiles.viictr.org/profile/10133659)
+
+[Explore](https://profiles.viictr.org/profile/267834/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ALVEN, ALYCE](https://profiles.viictr.org/profile/45213142)
+  * [HOLLADAY, JACK](https://profiles.viictr.org/profile/268412)
+  * [LUSE, ERICA](https://profiles.viictr.org/profile/41337991)
+  * [PATRINELY, JAMES](https://profiles.viictr.org/profile/266823)
+  * [SHETLAR, DEBRA](https://profiles.viictr.org/profile/266726)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiRnbuqhfSUKgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CHANG, PETER](https://profiles.viictr.org/profile/269368)
+  * [FOROOZAN, ROD](https://profiles.viictr.org/profile/267734)
+  * [KOHNEN, THOMAS](https://profiles.viictr.org/profile/267686)
+  * [ORENGO-NANIA, SILVIA](https://profiles.viictr.org/profile/269605)
+  * [VON NOORDEN, GUNTER](https://profiles.viictr.org/profile/267521)
+
+_
+

@@ -1,0 +1,328 @@
+## RONALD JAVIER
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JKEx92zCMqv3RYKj5X%2fX&rnd=d1c1c62d-abfc-4532-b8fe-644e654d4c8e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266953)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01CA058541 (JAVIER, RONALD T.)Jan 1, 1993 - Nov 30, 2014NIH  
+Mechanisms of the Adenovirus E4-ORF1 Oncoprotein  
+Role: Principal Investigator  
+---  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Kong K, Kumar M, Taruishi M, **Javier RT**. Adenovirus E4-ORF1 Dysregulates Epidermal Growth Factor and Insulin/Insulin-Like Growth Factor Receptors To Mediate Constitutive Myc Expression. J Virol. 2015 Nov; 89(21):10774-85. PMID: [26269183](//www.ncbi.nlm.nih.gov/pubmed/26269183); PMCID: [PMC4621122](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4621122).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26269183/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  2. Kumar M, Kong K, **Javier RT**. Hijacking Dlg1 for oncogenic phosphatidylinositol 3-kinase activation in human epithelial cells is a conserved mechanism of human adenovirus E4-ORF1 proteins. J Virol. 2014 Dec; 88(24):14268-77. PMID: [25253337](//www.ncbi.nlm.nih.gov/pubmed/25253337); PMCID: [PMC4249130](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4249130).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25253337/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  3. Kong K, Kumar M, Taruishi M, **Javier RT**. The human adenovirus E4-ORF1 protein subverts discs large 1 to mediate membrane recruitment and dysregulation of phosphatidylinositol 3-kinase. PLoS Pathog. 2014 May; 10(5):e1004102. PMID: [24788832](//www.ncbi.nlm.nih.gov/pubmed/24788832); PMCID: [PMC4006922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4006922).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24788832/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  4. Irvin-Wilson CV, Newberg JY, Kong K, **Javier RT** , [Marriott SJ](https://profiles.viictr.org/profile/268294). High throughput method to quantify anterior-posterior polarity of T-cells and epithelial cells. Viruses. 2011 12; 3(12):2396-411. PMID: [22355445](//www.ncbi.nlm.nih.gov/pubmed/22355445); PMCID: [PMC3280515](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3280515).
+
+Citations:  Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  5. Golebiewski L, Liu H, **Javier RT** , [Rice AP](https://profiles.viictr.org/profile/269748). The avian influenza virus NS1 ESEV PDZ binding motif associates with Dlg1 and Scribble to disrupt cellular tight junctions. J Virol. 2011 Oct; 85(20):10639-48. PMID: [21849460](//www.ncbi.nlm.nih.gov/pubmed/21849460); PMCID: [PMC3187509](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3187509).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21849460/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  6. **Javier RT** , [Rice AP](https://profiles.viictr.org/profile/269748). Emerging theme: cellular PDZ proteins as common targets of pathogenic viruses. J Virol. 2011 Nov; 85(22):11544-56. PMID: [21775458](//www.ncbi.nlm.nih.gov/pubmed/21775458); PMCID: [PMC3209276](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3209276).
+
+Citations:
+[88](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21775458/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  7. Liu H, Golebiewski L, Dow EC, Krug RM, **Javier RT** , [Rice AP](https://profiles.viictr.org/profile/269748). The ESEV PDZ-binding motif of the avian influenza A virus NS1 protein protects infected cells from apoptosis by directly targeting Scribble. J Virol. 2010 Nov; 84(21):11164-74. PMID: [20702615](//www.ncbi.nlm.nih.gov/pubmed/20702615); PMCID: [PMC2953166](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2953166).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20702615/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  8. **Javier RT**. Cell polarity proteins: common targets for tumorigenic human viruses. Oncogene. 2008 Nov 24; 27(55):7031-46. PMID: [19029943](//www.ncbi.nlm.nih.gov/pubmed/19029943); PMCID: [PMC3501650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3501650).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19029943/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  9. **Javier RT** , [Butel JS](https://profiles.viictr.org/profile/266408). The history of tumor virology. Cancer Res. 2008 Oct 01; 68(19):7693-706. PMID: [18829521](//www.ncbi.nlm.nih.gov/pubmed/18829521); PMCID: [PMC3501656](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3501656).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18829521/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  10. Chung SH, Frese KK, Weiss RS, Prasad BV, **Javier RT**. A new crucial protein interaction element that targets the adenovirus E4-ORF1 oncoprotein to membrane vesicles. J Virol. 2007 May; 81(9):4787-97. PMID: [17314165](//www.ncbi.nlm.nih.gov/pubmed/17314165); PMCID: [PMC1900153](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1900153).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17314165/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  11. Gregorc U, Ivanova S, Thomas M, Guccione E, Glaunsinger B, **Javier R** , Turk V, Banks L, Turk B. Cleavage of MAGI-1, a tight junction PDZ protein, by caspases is an important step for cell-cell detachment in apoptosis. Apoptosis. 2007 Feb; 12(2):343-54. PMID: [17191119](//www.ncbi.nlm.nih.gov/pubmed/17191119); PMCID: [PMC3501654](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3501654).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17191119/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  12. Frese KK, Latorre IJ, Chung SH, Caruana G, Bernstein A, Jones SN, [Donehower LA](https://profiles.viictr.org/profile/268019), Justice MJ, Garner CC, **Javier RT**. Oncogenic function for the Dlg1 mammalian homolog of the Drosophila discs-large tumor suppressor. EMBO J. 2006 Mar 22; 25(6):1406-17. PMID: [16511562](//www.ncbi.nlm.nih.gov/pubmed/16511562); PMCID: [PMC1422156](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1422156).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16511562/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  13. Latorre IJ, Roh MH, Frese KK, Weiss RS, Margolis B, **Javier RT**. Viral oncoprotein-induced mislocalization of select PDZ proteins disrupts tight junctions and causes polarity defects in epithelial cells. J Cell Sci. 2005 Sep 15; 118(Pt 18):4283-93. PMID: [16141229](//www.ncbi.nlm.nih.gov/pubmed/16141229); PMCID: [PMC3471650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3471650).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16141229/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  14. Singh D, Solan JL, Taffet SM, **Javier R** , Lampe PD. Connexin 43 interacts with zona occludens-1 and -2 proteins in a cell cycle stage-specific manner. J Biol Chem. 2005 Aug 26; 280(34):30416-21. PMID: [15980428](//www.ncbi.nlm.nih.gov/pubmed/15980428); PMCID: [PMC3501655](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3501655).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15980428/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  15. Lee OK, Frese KK, James JS, Chadda D, Chen ZH, **Javier RT** , Cho KO. Discs-Large and Strabismus are functionally linked to plasma membrane formation. Nat Cell Biol. 2003 Nov; 5(11):987-93. PMID: [14562058](//www.ncbi.nlm.nih.gov/pubmed/14562058); PMCID: [PMC3471657](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3471657).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14562058/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  16. Frese KK, Lee SS, Thomas DL, Latorre IJ, Weiss RS, Glaunsinger BA, **Javier RT**. Selective PDZ protein-dependent stimulation of phosphatidylinositol 3-kinase by the adenovirus E4-ORF1 oncoprotein. Oncogene. 2003 Feb 06; 22(5):710-21. PMID: [12569363](//www.ncbi.nlm.nih.gov/pubmed/12569363); PMCID: [PMC3501958](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3501958).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12569363/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  17. Kimber WA, Trinkle-Mulcahy L, Cheung PC, Deak M, Marsden LJ, Kieloch A, Watt S, **Javier RT** , Gray A, Downes CP, Lucocq JM, Alessi DR. Evidence that the tandem-pleckstrin-homology-domain-containing protein TAPP1 interacts with Ptd(3,4)P2 and the multi-PDZ-domain-containing protein MUPP1 in vivo. Biochem J. 2002 Feb 01; 361(Pt 3):525-36. PMID: [11802782](//www.ncbi.nlm.nih.gov/pubmed/11802782); PMCID: [PMC1222335](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1222335).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11802782/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 17 publications over 10 distinct years, with a maximum of
+3 publications in
+2011](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,33,67,0,67,33,67,67,0,33,100,0,0,67,33,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 1  
+2003| 2  
+2005| 2  
+2006| 1  
+2007| 2  
+2008| 2  
+2010| 1  
+2011| 3  
+2014| 2  
+2015| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+JAVIER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (148)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Adenovirus E4 Proteins](https://profiles.viictr.org/profile/242019)
+  * [Membrane Proteins](https://profiles.viictr.org/profile/242699)
+  * [Host-Pathogen Interactions](https://profiles.viictr.org/profile/260066)
+  * [Oncogene Proteins, Viral](https://profiles.viictr.org/profile/240731)
+  * [Adenoviruses, Human](https://profiles.viictr.org/profile/251579)
+
+[Explore](https://profiles.viictr.org/profile/266953/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [RICE, ANDREW](https://profiles.viictr.org/profile/269748)
+  * [BUTEL, JANET](https://profiles.viictr.org/profile/266408)
+  * [MARRIOTT, SUSAN](https://profiles.viictr.org/profile/268294)
+  * [DONEHOWER, LAWRENCE](https://profiles.viictr.org/profile/268019)
+
+[Explore](https://profiles.viictr.org/profile/266953/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [ESTES, MARY](https://profiles.viictr.org/profile/266419)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [LLOYD, RICHARD](https://profiles.viictr.org/profile/269833)
+
+[Explore](https://profiles.viictr.org/profile/266953/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [EL SAHLY, HANA](https://profiles.viictr.org/profile/266773)
+  * [HOLLINGER, F. BLAINE](https://profiles.viictr.org/profile/267399)
+  * [HYSER, JOSEPH](https://profiles.viictr.org/profile/269246)
+  * [ROSS, MATTHEW](https://profiles.viictr.org/profile/1826609)
+  * [SAMUEL, BUCK](https://profiles.viictr.org/profile/10675389)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [DONEHOWER, LAWRENCE](https://profiles.viictr.org/profile/268019)
+  * [KIMATA, JASON](https://profiles.viictr.org/profile/268949)
+  * [LING, PAUL](https://profiles.viictr.org/profile/268320)
+  * [LLOYD, RICHARD](https://profiles.viictr.org/profile/269833)
+  * [PIEDRA, PEDRO](https://profiles.viictr.org/profile/268114)
+
+_
+

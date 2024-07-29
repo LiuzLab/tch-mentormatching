@@ -1,0 +1,860 @@
+## LI WANG
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Ophthalmology  
+Address| 6501 Fannin St  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=OqInwWfELcXwQpo%3d&rnd=c844fc44-54ff-4c18-b26d-a45d27dc86f0)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266021)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Ravina K, Lin L, Liu CY, Thomas D, Hasson D, **Wang LV** , Russin JJ. Prospects of Photo- and Thermoacoustic Imaging in Neurosurgery. Neurosurgery. 2020 07 01; 87(1):11-24. PMID: [31620798](//www.ncbi.nlm.nih.gov/pubmed/31620798).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31620798/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  2. Liu Y, Shen Y, Ruan H, Brodie FL, Wong TTW, Yang C, **Wang LV**. Time-reversed ultrasonically encoded optical focusing through highly scattering ex vivo human cataractous lenses. J Biomed Opt. 2018 01; 23(1):1-4. PMID: [29322749](//www.ncbi.nlm.nih.gov/pubmed/29322749); PMCID: [PMC5762002](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5762002).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29322749/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:HumansAnimals
+
+  3. Hennen SN, Xing W, Shui YB, Zhou Y, Kalishman J, Andrews-Kaminsky LB, Kass MA, Beebe DC, Maslov KI, **Wang LV**. Photoacoustic tomography imaging and estimation of oxygen saturation of hemoglobin in ocular tissue of rabbits. Exp Eye Res. 2015 Sep; 138:153-8. PMID: [26048477](//www.ncbi.nlm.nih.gov/pubmed/26048477); PMCID: [PMC5821107](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5821107).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26048477/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  4. Canovas C, van der Mooren M, Ros?n R, Piers PA, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404), Artal P. Effect of the equivalent refractive index on intraocular lens power prediction with ray tracing after myopic laser in situ keratomileusis. J Cataract Refract Surg. 2015 May; 41(5):1030-7. PMID: [26049836](//www.ncbi.nlm.nih.gov/pubmed/26049836).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26049836/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  5. Abulafia A, Barrett GD, Kleinmann G, Ofir S, Levy A, Marcovich AL, Michaeli A, [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L** , Assia EI. Prediction of refractive outcomes with toric intraocular lens implantation. J Cataract Refract Surg. 2015 May; 41(5):936-44. PMID: [25936681](//www.ncbi.nlm.nih.gov/pubmed/25936681).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25936681/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  6. Fram NR, Masket S, **Wang L**. Comparison of Intraoperative Aberrometry, OCT-Based IOL Formula, Haigis-L, and Masket Formulae for IOL Power Calculation after Laser Vision Correction. Ophthalmology. 2015 Jun; 122(6):1096-101. PMID: [25766733](//www.ncbi.nlm.nih.gov/pubmed/25766733).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25766733/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  7. Abulafia A, Barrett GD, Rotenberg M, Kleinmann G, Levy A, Reitblat O, [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L** , Assia EI. Intraocular lens power calculation for eyes with an axial length greater than 26.0 mm: comparison of formulas and methods. J Cataract Refract Surg. 2015 Mar; 41(3):548-56. PMID: [25708208](//www.ncbi.nlm.nih.gov/pubmed/25708208).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25708208/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  8. Febbraro JL, **Wang L** , Borasio E, Richiardi L, Khan HN, Saad A, Gatinel D, [Koch DD](https://profiles.viictr.org/profile/267404). Astigmatic equivalence of 2.2-mm and 1.8-mm superior clear corneal cataract incision. Graefes Arch Clin Exp Ophthalmol. 2015 Feb; 253(2):261-5. PMID: [25398661](//www.ncbi.nlm.nih.gov/pubmed/25398661).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398661/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  9. Ventura BV, **Wang L** , [Weikert MP](https://profiles.viictr.org/profile/267063), Robinson SB, [Koch DD](https://profiles.viictr.org/profile/267404). Surgical management of astigmatism with toric intraocular lenses. Arq Bras Oftalmol. 2014 Apr; 77(2):125-31. PMID: [25076481](//www.ncbi.nlm.nih.gov/pubmed/25076481).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25076481/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  10. Ma XJ, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Repeatability of corneal epithelial thickness measurements using Fourier-domain optical coherence tomography in normal and post-LASIK eyes. Cornea. 2013 Dec; 32(12):1544-8. PMID: [24145634](//www.ncbi.nlm.nih.gov/pubmed/24145634); PMCID: [PMC4038409](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4038409).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24145634/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  11. Jenkins RB, [Weikert MP](https://profiles.viictr.org/profile/267063), Yeu E, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Correcting astigmatism with toric intraocular lenses: effect of posterior corneal astigmatism. J Cataract Refract Surg. 2013 Dec; 39(12):1803-9. PMID: [24169231](//www.ncbi.nlm.nih.gov/pubmed/24169231).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24169231/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  12. Mahmoud AM, Blanco C, [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L** , [Weikert MP](https://profiles.viictr.org/profile/267063), Frueh BE, Tappeiner C, Twa MD, Roberts CJ, Nu?ez MX. Expanding the cone location and magnitude index to include corneal thickness and posterior surface information for the detection of keratoconus. Am J Ophthalmol. 2013 Dec; 156(6):1102-11. PMID: [24075426](//www.ncbi.nlm.nih.gov/pubmed/24075426).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24075426/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  13. Huang D, Tang M, **Wang L** , Zhang X, Armour RL, Gattey DM, Lombardi LH, [Koch DD](https://profiles.viictr.org/profile/267404). Optical coherence tomography-based corneal power measurement and intraocular lens power calculation following laser vision correction (an American Ophthalmological Society thesis). Trans Am Ophthalmol Soc. 2013 Sep; 111:34-45. PMID: [24167323](//www.ncbi.nlm.nih.gov/pubmed/24167323); PMCID: [PMC3797831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3797831).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24167323/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  14. Moss H, Ventura BV, Padilha H, Hester C, [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L**. Advances in Refractive Surgery. Asia Pac J Ophthalmol (Phila). 2013 Sep-Oct; 2(5):317-27. PMID: [26107036](//www.ncbi.nlm.nih.gov/pubmed/26107036).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  15. Xia J, Huang C, Maslov K, Anastasio MA, **Wang LV**. Enhancement of photoacoustic tomography by ultrasonic computed tomography based on optical excitation of elements of a full-ring transducer array. Opt Lett. 2013 Aug 15; 38(16):3140-3. PMID: [24104670](//www.ncbi.nlm.nih.gov/pubmed/24104670); PMCID: [PMC3884569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3884569).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24104670/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  16. Tsytsarev V, Rao B, Maslov KI, Li L, **Wang LV**. Photoacoustic and optical coherence tomography of epilepsy with high temporal and spatial resolution and dual optical contrasts. J Neurosci Methods. 2013 Jun 15; 216(2):142-5. PMID: [23603664](//www.ncbi.nlm.nih.gov/pubmed/23603664); PMCID: [PMC3695704](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3695704).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23603664/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  17. Al-Mohtaseb ZN, **Wang L** , [Weikert MP](https://profiles.viictr.org/profile/267063). Repeatability and comparability of corneal thickness measurements obtained from Dual Scheimpflug Analyzer and from ultrasonic pachymetry. Graefes Arch Clin Exp Ophthalmol. 2013 Jul; 251(7):1855-60. PMID: [23417340](//www.ncbi.nlm.nih.gov/pubmed/23417340).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23417340/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  18. Yeu E, Reeves SW, **Wang L** , Randleman JB, ASCRS Young Physicians and Residents Clinical Committee. Resident surgical experience with lens and corneal refractive surgery: survey of the ASCRS Young Physicians and Residents Membership. J Cataract Refract Surg. 2013 Feb; 39(2):279-84. PMID: [23332254](//www.ncbi.nlm.nih.gov/pubmed/23332254); PMCID: [PMC4543366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4543366).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23332254/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  19. [Koch DD](https://profiles.viictr.org/profile/267404), Ali SF, [Weikert MP](https://profiles.viictr.org/profile/267063), Shirayama M, Jenkins R, **Wang L**. Contribution of posterior corneal astigmatism to total corneal astigmatism. J Cataract Refract Surg. 2012 Dec; 38(12):2080-7. PMID: [23069271](//www.ncbi.nlm.nih.gov/pubmed/23069271).
+
+Citations:
+[116](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23069271/citedby/)
+Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  20. Cai X, Zhang Y, Li L, Choi SW, MacEwan MR, Yao J, Kim C, Xia Y, **Wang LV**. Investigation of neovascularization in three-dimensional porous scaffolds in vivo by a combination of multiscale photoacoustic microscopy and optical coherence tomography. Tissue Eng Part C Methods. 2013 Mar; 19(3):196-204. PMID: [22838500](//www.ncbi.nlm.nih.gov/pubmed/22838500); PMCID: [PMC3557912](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3557912).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22838500/citedby/) Fields:
+
+Bio BiotechnologyHis Histology
+
+Translation:Animals
+
+  21. [Weikert MP](https://profiles.viictr.org/profile/267063), **Wang L** , Barrish J, Dimalanta R, [Koch DD](https://profiles.viictr.org/profile/267404). Quantitative measurement of wound architecture in microincision cataract surgery. J Cataract Refract Surg. 2012 Aug; 38(8):1460-6. PMID: [22814053](//www.ncbi.nlm.nih.gov/pubmed/22814053).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22814053/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  22. Schoonover RW, **Wang LV** , Anastasio MA. Numerical investigation of the effects of shear waves in transcranial photoacoustic tomography with a planar geometry. J Biomed Opt. 2012 Jun; 17(6):061215. PMID: [22734745](//www.ncbi.nlm.nih.gov/pubmed/22734745); PMCID: [PMC3381031](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3381031).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22734745/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:Animals
+
+  23. Tang M, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404), Li Y, Huang D. Intraocular lens power calculation after previous myopic laser vision correction based on corneal power measured by Fourier-domain optical coherence tomography. J Cataract Refract Surg. 2012 Apr; 38(4):589-94. PMID: [22440433](//www.ncbi.nlm.nih.gov/pubmed/22440433); PMCID: [PMC3311993](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3311993).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22440433/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  24. Tang M, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404), Li Y, Huang D. Intraocular lens power calculation after myopic and hyperopic laser vision correction using optical coherence tomography. Saudi J Ophthalmol. 2012 Jan; 26(1):19-24. PMID: [23960964](//www.ncbi.nlm.nih.gov/pubmed/23960964); PMCID: [PMC3729348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3729348).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23960964/citedby/)
+
+  25. **Wang L** , Shirayama M, Ma XJ, [Kohnen T](https://profiles.viictr.org/profile/267686), [Koch DD](https://profiles.viictr.org/profile/267404). Optimizing intraocular lens power calculations in eyes with axial lengths above 25.0 mm. J Cataract Refract Surg. 2011 Nov; 37(11):2018-27. PMID: [22018365](//www.ncbi.nlm.nih.gov/pubmed/22018365).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22018365/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  26. Lu W, [Melancon MP](https://profiles.viictr.org/profile/12582633), Xiong C, Huang Q, Elliott A, Song S, Zhang R, Flores LG, Gelovani JG, **Wang LV** , [Wang LV](https://profiles.viictr.org/profile/12583912), Ku G, [Stafford RJ](https://profiles.viictr.org/profile/12583314), [Li C](https://profiles.viictr.org/profile/12583241). Effects of photoacoustic imaging and photothermal ablation therapy mediated by targeted hollow gold nanospheres in an orthotopic mouse xenograft model of glioma. Cancer Res. 2011 Oct 01; 71(19):6116-21. PMID: [21856744](//www.ncbi.nlm.nih.gov/pubmed/21856744); PMCID: [PMC3185126](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3185126).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21856744/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  27. **Wang L** , Mahmoud AM, Anderson BL, [Koch DD](https://profiles.viictr.org/profile/267404), Roberts CJ. Total corneal power estimation: ray tracing method versus gaussian optics formula. Invest Ophthalmol Vis Sci. 2011 Mar 25; 52(3):1716-22. PMID: [21071742](//www.ncbi.nlm.nih.gov/pubmed/21071742).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21071742/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  28. Patel R, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404), Yeu E. Pseudoaccommodation. Int Ophthalmol Clin. 2011; 51(2):109-18. PMID: [21383584](//www.ncbi.nlm.nih.gov/pubmed/21383584).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21383584/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  29. Shirayama M, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404), [Weikert MP](https://profiles.viictr.org/profile/267063). Comparison of accuracy of intraocular lens calculations using automated keratometry, a Placido-based corneal topographer, and a combined Placido-based and dual Scheimpflug corneal topographer. Cornea. 2010 Oct; 29(10):1136-8. PMID: [20595893](//www.ncbi.nlm.nih.gov/pubmed/20595893).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20595893/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  30. **Wang L** , Hill WE, [Koch DD](https://profiles.viictr.org/profile/267404). Evaluation of intraocular lens power prediction methods using the American Society of Cataract and Refractive Surgeons Post-Keratorefractive Intraocular Lens Power Calculator. J Cataract Refract Surg. 2010 Sep; 36(9):1466-73. PMID: [20692556](//www.ncbi.nlm.nih.gov/pubmed/20692556).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20692556/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  31. Poll JT, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404), [Weikert MP](https://profiles.viictr.org/profile/267063). Correction of astigmatism during cataract surgery: toric intraocular lens compared to peripheral corneal relaxing incisions. J Refract Surg. 2011 Mar; 27(3):165-71. PMID: [20873707](//www.ncbi.nlm.nih.gov/pubmed/20873707).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20873707/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  32. **Wang L** , Shirayama M, [Koch DD](https://profiles.viictr.org/profile/267404). Repeatability of corneal power and wavefront aberration measurements with a dual-Scheimpflug Placido corneal topographer. J Cataract Refract Surg. 2010 Mar; 36(3):425-30. PMID: [20202540](//www.ncbi.nlm.nih.gov/pubmed/20202540).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20202540/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  33. **Wang L** , Pitcher JD, [Weikert MP](https://profiles.viictr.org/profile/267063), [Koch DD](https://profiles.viictr.org/profile/267404). Custom selection of aspheric intraocular lenses after wavefront-guided myopic photorefractive keratectomy. J Cataract Refract Surg. 2010 Jan; 36(1):73-81. PMID: [20117708](//www.ncbi.nlm.nih.gov/pubmed/20117708).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  34. Lu W, Huang Q, Ku G, Wen X, Zhou M, Guzatov D, Brecht P, Su R, Oraevsky A, [Wang LV](https://profiles.viictr.org/profile/12583912), **Wang LV** , [Li C](https://profiles.viictr.org/profile/12583241). Photoacoustic imaging of living mouse brain vasculature using hollow gold nanospheres. Biomaterials. 2010 Mar; 31(9):2617-26. PMID: [20036000](//www.ncbi.nlm.nih.gov/pubmed/20036000); PMCID: [PMC2813997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2813997).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20036000/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimalsCells
+
+  35. [Koch DD](https://profiles.viictr.org/profile/267404), Maloney R, Hardten DR, Dell S, [Sweeney AD](https://profiles.viictr.org/profile/15317808), **Wang L**. Wavefront-guided photorefractive keratectomy in eyes with prior radial keratotomy: a multicenter study. Ophthalmology. 2009 Sep; 116(9):1688-1696.e2. PMID: [19643486](//www.ncbi.nlm.nih.gov/pubmed/19643486).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19643486/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  36. Shirayama M, **Wang L** , [Weikert MP](https://profiles.viictr.org/profile/267063), [Koch DD](https://profiles.viictr.org/profile/267404). Comparison of corneal powers obtained from 4 different devices. Am J Ophthalmol. 2009 Oct; 148(4):528-535.e1. PMID: [19541287](//www.ncbi.nlm.nih.gov/pubmed/19541287).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19541287/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  37. Terzi E, **Wang L** , [Kohnen T](https://profiles.viictr.org/profile/267686). Accuracy of modern intraocular lens power calculation formulas in refractive lens exchange for high myopia and high hyperopia. J Cataract Refract Surg. 2009 Jul; 35(7):1181-9. PMID: [19545805](//www.ncbi.nlm.nih.gov/pubmed/19545805).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19545805/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  38. Jiao S, Stoica G, **Wang LV** , Todorovic M. PRELIMINARY STUDY ON SKIN CANCER DETECTION IN SENCAR MICE USING MUELLER OPTICAL COHERENCE TOMOGRAPHY. J Innov Opt Health Sci. 2009 Jul; 2(3):289-294. PMID: [33968211](//www.ncbi.nlm.nih.gov/pubmed/33968211); PMCID: [PMC8101947](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8101947).
+
+Citations:
+
+  39. Bitton R, Zemp R, Yen J, **Wang LV** , Shung KK. A 3-D high-frequency array based 16 channel photoacoustic microscopy system for in vivo micro-vascular imaging. IEEE Trans Med Imaging. 2009 Aug; 28(8):1190-7. PMID: [19131292](//www.ncbi.nlm.nih.gov/pubmed/19131292); PMCID: [PMC2757099](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2757099).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19131292/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansAnimals
+
+  40. [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L** , Chernyak DA. Wavefront reconstruction methods. J Refract Surg. 2009 01; 25(1):9-10; author reply 10-1. PMID: [19248235](//www.ncbi.nlm.nih.gov/pubmed/19248235).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  41. Masket S, **Wang L** , Belani S. Induced astigmatism with 2.2- and 3.0-mm coaxial phacoemulsification incisions. J Refract Surg. 2009 01; 25(1):21-4. PMID: [19244949](//www.ncbi.nlm.nih.gov/pubmed/19244949).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19244949/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  42. **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Residual higher-order aberrations caused by clinically measured cyclotorsional misalignment or decentration during wavefront-guided excimer laser corneal ablation. J Cataract Refract Surg. 2008 Dec; 34(12):2057-62. PMID: [19027559](//www.ncbi.nlm.nih.gov/pubmed/19027559).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19027559/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  43. Todorovic M, Jiao S, Ai J, Stoica G, **Wang LV** , Pereda-Cubi?n D. In vivo burn imaging using Mueller optical coherence tomography. Opt Express. 2008 Jul 07; 16(14):10279-84. PMID: [18607436](//www.ncbi.nlm.nih.gov/pubmed/18607436); PMCID: [PMC6986309](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6986309).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18607436/citedby/) Fields:
+
+Bio BiophysicsOph Ophthalmology
+
+Translation:HumansAnimals
+
+  44. Todorovic M, **Wang LV** , Pereda-Cubi?n D, Arce-Diego JL. Evaluation of the magneto-optical effect in biological tissue models using optical coherence tomography. J Biomed Opt. 2007 Nov-Dec; 12(6):060502. PMID: [18163797](//www.ncbi.nlm.nih.gov/pubmed/18163797).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18163797/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+  45. **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Custom optimization of intraocular lens asphericity. J Cataract Refract Surg. 2007 Oct; 33(10):1713-20. PMID: [17889765](//www.ncbi.nlm.nih.gov/pubmed/17889765).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17889765/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  46. Hollmann JL, **Wang LV**. Multiple-source optical diffusion approximation for a multilayer scattering medium. Appl Opt. 2007 Aug 10; 46(23):6004-9. PMID: [17694156](//www.ncbi.nlm.nih.gov/pubmed/17694156).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Cells
+
+  47. **Wang L** , Chernyak D, Yeh D, [Koch DD](https://profiles.viictr.org/profile/267404). Fitting behaviors of Fourier transform and Zernike polynomials. J Cataract Refract Surg. 2007 Jun; 33(6):999-1004. PMID: [17531693](//www.ncbi.nlm.nih.gov/pubmed/17531693).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17531693/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  48. Chang DF, Osher RH, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Prospective multicenter evaluation of cataract surgery in patients taking tamsulosin (Flomax). Ophthalmology. 2007 May; 114(5):957-64. PMID: [17467530](//www.ncbi.nlm.nih.gov/pubmed/17467530).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17467530/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  49. [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L**. Custom optimization of intraocular lens asphericity. Trans Am Ophthalmol Soc. 2007; 105:36-41; discussion 41-2. PMID: [18427592](//www.ncbi.nlm.nih.gov/pubmed/18427592); PMCID: [PMC2258135](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2258135).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18427592/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  50. Racine L, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Size of corneal topographic effective optical zone: comparison of standard and customized myopic laser in situ keratomileusis. Am J Ophthalmol. 2006 Aug; 142(2):227-32. PMID: [16876501](//www.ncbi.nlm.nih.gov/pubmed/16876501).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16876501/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  51. [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L**. Complications of anterior chamber fixation of posterior chamber intraocular lenses. Arch Ophthalmol. 2006 Apr; 124(4):606-7; author reply 607. PMID: [16606899](//www.ncbi.nlm.nih.gov/pubmed/16606899).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16606899/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  52. Chong EM, **Wang L** , Basti S, [Koch DD](https://profiles.viictr.org/profile/267404). Anterior lenticonus detected by wavefront aberrometry. Am J Ophthalmol. 2005 Nov; 140(5):921-4. PMID: [16310476](//www.ncbi.nlm.nih.gov/pubmed/16310476).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  53. Ai J, **Wang LV**. Synchronous self-elimination of autocorrelation interference in Fourier-domain optical coherence tomography. Opt Lett. 2005 Nov 01; 30(21):2939-41. PMID: [16279475](//www.ncbi.nlm.nih.gov/pubmed/16279475).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16279475/citedby/) Fields:
+
+Oph Ophthalmology
+
+  54. Jiao S, Todorovic M, Stoica G, **Wang LV**. Fiber-based polarization-sensitive Mueller matrix optical coherence tomography with continuous source polarization modulation. Appl Opt. 2005 Sep 10; 44(26):5463-7. PMID: [16161660](//www.ncbi.nlm.nih.gov/pubmed/16161660).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16161660/citedby/) Fields:
+
+Oph Ophthalmology
+
+  55. **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Effect of decentration of wavefront-corrected intraocular lenses on the higher-order aberrations of the eye. Arch Ophthalmol. 2005 Sep; 123(9):1226-30. PMID: [16157803](//www.ncbi.nlm.nih.gov/pubmed/16157803).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16157803/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  56. **Wang L** , Santaella RM, Booth M, [Koch DD](https://profiles.viictr.org/profile/267404). Higher-order aberrations from the internal optics of the eye. J Cataract Refract Surg. 2005 Aug; 31(8):1512-9. PMID: [16129285](//www.ncbi.nlm.nih.gov/pubmed/16129285).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16129285/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  57. [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L**. The effect of corneal flap on optical aberrations. Am J Ophthalmol. 2005 Apr; 139(4):756-7; author reply 757. PMID: [15808205](//www.ncbi.nlm.nih.gov/pubmed/15808205).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  58. **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Age-related changes in corneal and ocular higher-order aberrations. Am J Ophthalmol. 2004 Nov; 138(5):897; author reply 897. PMID: [15531347](//www.ncbi.nlm.nih.gov/pubmed/15531347).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15531347/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  59. Todorovic M, Jiao S, **Wang LV** , Stoica G. Determination of local polarization properties of biological samples in the presence of diattenuation by use of Mueller optical coherence tomography. Opt Lett. 2004 Oct 15; 29(20):2402-4. PMID: [15532281](//www.ncbi.nlm.nih.gov/pubmed/15532281).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15532281/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  60. **Wang L** , Booth MA, [Koch DD](https://profiles.viictr.org/profile/267404). Comparison of intraocular lens power calculation methods in eyes that have undergone LASIK. Ophthalmology. 2004 Oct; 111(10):1825-31. PMID: [15465542](//www.ncbi.nlm.nih.gov/pubmed/15465542).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15465542/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  61. **Wang L** , Swami A, [Koch DD](https://profiles.viictr.org/profile/267404). Peripheral corneal relaxing incisions after excimer laser refractive surgery. J Cataract Refract Surg. 2004 May; 30(5):1038-44. PMID: [15130641](//www.ncbi.nlm.nih.gov/pubmed/15130641).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15130641/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  62. **Wang L** , Booth MA, [Koch DD](https://profiles.viictr.org/profile/267404). Comparison of intraocular lens power calculation methods in eyes that have undergone laser-assisted in-situ keratomileusis. Trans Am Ophthalmol Soc. 2004; 102:189-96; discussion 196-7. PMID: [15747757](//www.ncbi.nlm.nih.gov/pubmed/15747757); PMCID: [PMC1280099](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1280099).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15747757/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  63. [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L**. Calculating IOL power in eyes that have had refractive surgery. J Cataract Refract Surg. 2003 Nov; 29(11):2039-42. PMID: [14670401](//www.ncbi.nlm.nih.gov/pubmed/14670401).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14670401/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  64. **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Ocular higher-order aberrations in individuals screened for refractive surgery. J Cataract Refract Surg. 2003 Oct; 29(10):1896-903. PMID: [14604708](//www.ncbi.nlm.nih.gov/pubmed/14604708).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14604708/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  65. Jiao S, Yu W, Stoica G, **Wang LV**. Contrast mechanisms in polarization-sensitive Mueller-matrix optical coherence tomography and application in burn imaging. Appl Opt. 2003 Sep 01; 42(25):5191-7. PMID: [12962400](//www.ncbi.nlm.nih.gov/pubmed/12962400).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12962400/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  66. **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Anterior corneal optical aberrations induced by laser in situ keratomileusis for hyperopia. J Cataract Refract Surg. 2003 Sep; 29(9):1702-8. PMID: [14522288](//www.ncbi.nlm.nih.gov/pubmed/14522288).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14522288/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  67. [Paysse EA](https://profiles.viictr.org/profile/268192), [Hussein MA](https://profiles.viictr.org/profile/267967), [Koch DD](https://profiles.viictr.org/profile/267404), **Wang L** , Brady McCreery KM, [Glass NL](https://profiles.viictr.org/profile/267389), [Hamill MB](https://profiles.viictr.org/profile/267261). Successful implementation of a protocol for photorefractive keratectomy in children requiring anesthesia. J Cataract Refract Surg. 2003 Sep; 29(9):1744-7. PMID: [14522294](//www.ncbi.nlm.nih.gov/pubmed/14522294).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14522294/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  68. Jackson DW, **Wang L** , [Koch DD](https://profiles.viictr.org/profile/267404). Accuracy and precision of the amadeus microkeratome in producing LASIK flaps. Cornea. 2003 Aug; 22(6):504-7. PMID: [12883340](//www.ncbi.nlm.nih.gov/pubmed/12883340).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12883340/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  69. **Wang L** , Dai E, [Koch DD](https://profiles.viictr.org/profile/267404), Nathoo A. Optical aberrations of the human anterior cornea. J Cataract Refract Surg. 2003 Aug; 29(8):1514-21. PMID: [12954298](//www.ncbi.nlm.nih.gov/pubmed/12954298).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12954298/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  70. Jiao S, Yu W, Stoica G, **Wang LV**. Optical-fiber-based Mueller optical coherence tomography. Opt Lett. 2003 Jul 15; 28(14):1206-8. PMID: [12885022](//www.ncbi.nlm.nih.gov/pubmed/12885022).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12885022/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  71. **Wang L** , Wang N, [Koch DD](https://profiles.viictr.org/profile/267404). Evaluation of refractive error measurements of the Wavescan Wavefront system and the Tracey Wavefront aberrometer. J Cataract Refract Surg. 2003 May; 29(5):970-9. PMID: [12781285](//www.ncbi.nlm.nih.gov/pubmed/12781285).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12781285/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  72. **Wang Li** , Misra M, [Koch DD](https://profiles.viictr.org/profile/267404). Peripheral corneal relaxing incisions combined with cataract surgery. J Cataract Refract Surg. 2003 Apr; 29(4):712-22. PMID: [12686238](//www.ncbi.nlm.nih.gov/pubmed/12686238).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12686238/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  73. **Wang L** , Jackson DW, [Koch DD](https://profiles.viictr.org/profile/267404). Methods of estimating corneal refractive power after hyperopic laser in situ keratomileusis. J Cataract Refract Surg. 2002 Jun; 28(6):954-61. PMID: [12036636](//www.ncbi.nlm.nih.gov/pubmed/12036636).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12036636/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  74. Hamed AM, **Wang L** , Misra M, [Koch DD](https://profiles.viictr.org/profile/267404). A comparative analysis of five methods of determining corneal refractive power in eyes that have undergone myopic laser in situ keratomileusis. Ophthalmology. 2002 Apr; 109(4):651-8. PMID: [11927420](//www.ncbi.nlm.nih.gov/pubmed/11927420).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11927420/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  75. **Wang L** , Misra M, Pallikaris IG, [Koch DD](https://profiles.viictr.org/profile/267404). Comparison of a ray-tracing refractometer, autorefractor, and computerized videokeratography in measuring pseudophakic eyes. J Cataract Refract Surg. 2002 Feb; 28(2):276-82. PMID: [11821210](//www.ncbi.nlm.nih.gov/pubmed/11821210).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11821210/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  76. Jiao S, **Wang LV**. Two-dimensional depth-resolved Mueller matrix of biological tissue measured with double-beam polarization-sensitive optical coherence tomography. Opt Lett. 2002 Jan 15; 27(2):101-3. PMID: [18007725](//www.ncbi.nlm.nih.gov/pubmed/18007725).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18007725/citedby/) Fields:
+
+Oph Ophthalmology
+
+  77. **Wang L** , Auffarth GU. White-to-white corneal diameter measurements using the eyemetrics program of the Orbscan topography system. Dev Ophthalmol. 2002; 34:141-6. PMID: [12520610](//www.ncbi.nlm.nih.gov/pubmed/12520610).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12520610/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  78. Neubert R, **Wang L** , Hunold W, Auffarth GU. [Morphological evaluation of posterior capsule opacification in diffractive multifocal intraocular lenses]. Ophthalmologe. 2001 Feb; 98(2):138-42. PMID: [11263037](//www.ncbi.nlm.nih.gov/pubmed/11263037).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11263037/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  79. Auffarth GU, **Wang L** , V?lcker HE. Keratoconus evaluation using the Orbscan Topography System. J Cataract Refract Surg. 2000 Feb; 26(2):222-8. PMID: [10683789](//www.ncbi.nlm.nih.gov/pubmed/10683789).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10683789/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 79 publications over 18 distinct years, with a maximum of
+10 publications in
+2003](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|10&cht=bvs&chd=t:0,0,0,0,0,0,10,10,50,100,50,60,20,60,20,80,50,40,60,90,20,50,0,0,10,0,10,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2000| 1  
+2001| 1  
+2002| 5  
+2003| 10  
+2004| 5  
+2005| 6  
+2006| 2  
+2007| 6  
+2008| 2  
+2009| 8  
+2010| 5  
+2011| 4  
+2012| 6  
+2013| 9  
+2014| 2  
+2015| 5  
+2018| 1  
+2020| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+WANG's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (215)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Cornea](https://profiles.viictr.org/profile/254759)
+  * [Lenses, Intraocular](https://profiles.viictr.org/profile/264552)
+  * [Optics and Photonics](https://profiles.viictr.org/profile/241072)
+  * [Refraction, Ocular](https://profiles.viictr.org/profile/260189)
+  * [Lens Implantation, Intraocular](https://profiles.viictr.org/profile/257371)
+
+[Explore](https://profiles.viictr.org/profile/266021/198)
+
+_
+
+Co-Authors (12)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [KOCH, DOUGLAS](https://profiles.viictr.org/profile/267404)
+  * [WEIKERT, MITCHELL](https://profiles.viictr.org/profile/267063)
+  * [LI, CHUN](https://profiles.viictr.org/profile/12583241)
+  * [KOHNEN, THOMAS](https://profiles.viictr.org/profile/267686)
+  * [SWEENEY, ALEX](https://profiles.viictr.org/profile/15317808)
+
+[Explore](https://profiles.viictr.org/profile/266021/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KOHNEN, THOMAS](https://profiles.viictr.org/profile/267686)
+  * [KOCH, DOUGLAS](https://profiles.viictr.org/profile/267404)
+  * [HOLLADAY, JACK](https://profiles.viictr.org/profile/268412)
+  * [WEIKERT, MITCHELL](https://profiles.viictr.org/profile/267063)
+  * [PFLUGFELDER, STEPHEN](https://profiles.viictr.org/profile/266106)
+
+[Explore](https://profiles.viictr.org/profile/266021/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHEVEZ-BARRIOS, PATRICIA](https://profiles.viictr.org/profile/269744)
+  * [FLORES PIMENTEL, MARIANA](https://profiles.viictr.org/profile/48656220)
+  * [HAMILL, ERIC](https://profiles.viictr.org/profile/41384506)
+  * [STOUT, JOHN](https://profiles.viictr.org/profile/5146648)
+  * [WEIKERT, MITCHELL](https://profiles.viictr.org/profile/267063)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiRnbuqhfSUKgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CHANG, PETER](https://profiles.viictr.org/profile/269368)
+  * [DE PAIVA, CINTIA](https://profiles.viictr.org/profile/268002)
+  * [EDMOND, JANE](https://profiles.viictr.org/profile/267824)
+  * [HAMILL, MARSHALL](https://profiles.viictr.org/profile/267261)
+  * [KOCH, DOUGLAS](https://profiles.viictr.org/profile/267404)
+
+_
+

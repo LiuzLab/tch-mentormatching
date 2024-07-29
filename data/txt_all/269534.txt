@@ -1,0 +1,751 @@
+## LYNN YEOMAN
+
+| | Title| Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=GrI%2b7yv%2bJYT4R4HN4njPZLGIMg%3d%3d&rnd=26bc201e-bcf4-4e34-adff-03270deec41a)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269534)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=269534&cachekey=b771e164-aad7-49f8-9bee-0b31611735d6)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R25CA077407 (YEOMAN, LYNN C)Apr 1, 1999 - Mar 31, 2003NIH  
+CANCER PREVENTION IN MEDICAL EDUCATION PRACTICE  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01CA050391 (YEOMAN, LYNN C)Jul 1, 1990 - Jun 30, 1994NIH  
+EGF-R MODULATION AND RESPONSES IN COLON CARCINOMA  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Williams RL. US Pharmacopeia Council of Experts 2005-2010: work plans, new revision approaches, and other enhancements. AAPS J. 2006; 8(4):E661-4. PMID: [17285738](//www.ncbi.nlm.nih.gov/pubmed/17285738); PMCID: [PMC2751362](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2751362).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17285738/citedby/) Fields:
+
+Dru Drug TherapyPha Pharmacology
+
+Translation:Humans
+
+  2. Bhattycharyya L, Dabbah R, Hauck W, Sheinin E, **Yeoman L** , Williams R. Equivalence studies for complex active ingredients and dosage forms. AAPS J. 2005 Nov 17; 7(4):E786-812. PMID: [16594632](//www.ncbi.nlm.nih.gov/pubmed/16594632); PMCID: [PMC2750949](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2750949).
+
+Citations:  Fields:
+
+Dru Drug TherapyPha Pharmacology
+
+Translation:Humans
+
+  3. **Yeoman LC** , Sebastian RV, Richards BF. Inclusion of allied health students in a problem-based learning course. Acad Med. 1998 May; 73(5):607-8. PMID: [9643929](//www.ncbi.nlm.nih.gov/pubmed/9643929).
+
+Citations:  Fields:
+
+Edu Education
+
+  4. **Yeoman LC** , Wan CW, Zorbas MA. Transferrin and insulin enhance human colon tumor cell growth by differentiation class specific mechanisms. Oncol Res. 1996; 8(7-8):273-9. PMID: [8938790](//www.ncbi.nlm.nih.gov/pubmed/8938790).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8938790/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  5. Novotny-Smith CL, Zorbas MA, Mcisaac AM, Irimura T, Boman BM, **Yeoman LC** , [Gallick GE](https://profiles.viictr.org/profile/12583655). Down-modulation of epidermal growth factor receptor accompanies TNF-induced differentiation of the DiFi human adenocarcinoma cell line toward a goblet-like phenotype. J Cell Physiol. 1993 Nov; 157(2):253-62. PMID: [8227158](//www.ncbi.nlm.nih.gov/pubmed/8227158).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8227158/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:HumansCells
+
+  6. Zorbas MA, **Yeoman LC**. Growth control in a human colon carcinoma cell line mediated by cell-associated transforming growth factor-alpha (TGF alpha). Exp Cell Res. 1993 May; 206(1):49-57. PMID: [8482359](//www.ncbi.nlm.nih.gov/pubmed/8482359).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8482359/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  7. Untawale S, Zorbas MA, Hodgson CP, Coffey RJ, [Gallick GE](https://profiles.viictr.org/profile/12583655), North SM, Wildrick DM, Olive M, Blick M, **Yeoman LC** , et al. Transforming growth factor-alpha production and autoinduction in a colorectal carcinoma cell line (DiFi) with an amplified epidermal growth factor receptor gene. Cancer Res. 1993 Apr 01; 53(7):1630-6. PMID: [8453634](//www.ncbi.nlm.nih.gov/pubmed/8453634).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8453634/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  8. **Yeoman LC**. An autocrine model for cell- and matrix-associated fibroblast growth factor. Oncol Res. 1993; 5(12):489-99. PMID: [8086671](//www.ncbi.nlm.nih.gov/pubmed/8086671).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8086671/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  9. Taylor CW, **Yeoman LC**. Inhibition of colon tumor cell growth by 8-chloro-cAMP is dependent upon its conversion to 8-chloro-adenosine. Anticancer Drugs. 1992 Oct; 3(5):485-91. PMID: [1450443](//www.ncbi.nlm.nih.gov/pubmed/1450443).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1450443/citedby/) Fields:
+
+Ant Antineoplastic Agents
+
+Translation:HumansCells
+
+  10. Taylor CW, Kim YS, Childress-Fields KE, **Yeoman LC**. Sensitivity of nuclear c-myc levels and induction to differentiation-inducing agents in human colon tumor cell lines. Cancer Lett. 1992 Feb 29; 62(2):95-105. PMID: [1540946](//www.ncbi.nlm.nih.gov/pubmed/1540946).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1540946/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  11. New BA, **Yeoman LC**. Identification of basic fibroblast growth factor sensitivity and receptor and ligand expression in human colon tumor cell lines. J Cell Physiol. 1992 Feb; 150(2):320-6. PMID: [1310324](//www.ncbi.nlm.nih.gov/pubmed/1310324).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1310324/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:HumansCells
+
+  12. **Yeoman LC** , Danels YJ, Lynch MJ. Lipofectin enhances cellular uptake of antisense DNA while inhibiting tumor cell growth. Antisense Res Dev. 1992; 2(1):51-9. PMID: [1422086](//www.ncbi.nlm.nih.gov/pubmed/1422086).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1422086/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  13. Gross ME, Zorbas MA, Danels YJ, Garcia R, [Gallick GE](https://profiles.viictr.org/profile/12583655), Olive M, Brattain MG, Boman BM, **Yeoman LC**. Cellular growth response to epidermal growth factor in colon carcinoma cells with an amplified epidermal growth factor receptor derived from a familial adenomatous polyposis patient. Cancer Res. 1991 Mar 01; 51(5):1452-9. PMID: [1847663](//www.ncbi.nlm.nih.gov/pubmed/1847663).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1847663/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  14. Moosic JP, Mosley AM, Huang K, Taylor CW, **Yeoman LC**. Characterization of two monoclonal antibodies that recognize high molecular weight colon antigens. Cancer Lett. 1989 Feb; 44(2):127-36. PMID: [2920372](//www.ncbi.nlm.nih.gov/pubmed/2920372).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  15. Wan CW, McKnight MK, Brattain DE, Brattain MG, **Yeoman LC**. Different epidermal growth factor growth responses and receptor levels in human colon carcinoma cell lines. Cancer Lett. 1988 Dec 01; 43(1-2):139-43. PMID: [3264518](//www.ncbi.nlm.nih.gov/pubmed/3264518).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3264518/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  16. Huang KW, Moosic JP, Taylor CW, Lane M, **Yeoman LC**. Characterization and reactivity of a monoclonal antibody that recognizes a 76 kilodalton human colon tumor antigen. Cancer Lett. 1988 Mar; 39(2):161-77. PMID: [2452009](//www.ncbi.nlm.nih.gov/pubmed/2452009).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  17. Nalty TJ, **Yeoman LC**. Transfer of proteins from acrylamide gels to nitrocellulose paper after silver stain detection. J Immunol Methods. 1988 Feb 24; 107(1):143-9. PMID: [2449504](//www.ncbi.nlm.nih.gov/pubmed/2449504).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2449504/citedby/) Fields:
+
+All Allergy and ImmunologyCli Clinical Laboratory Techniques
+
+  18. Nalty TJ, Taylor CW, **Yeoman LC**. Variation in cytosolic protein expression between human colon tumors that differ with regard to differentiation class. Clin Chem. 1988 Jan; 34(1):71-5. PMID: [2448066](//www.ncbi.nlm.nih.gov/pubmed/2448066).
+
+Citations:  Fields:
+
+Che Chemistry
+
+Translation:HumansAnimalsCells
+
+  19. Bennett CF, **Yeoman LC**. Microinjected glutathione S-transferase Yb subunits translocate to the cell nucleus. Biochem J. 1987 Oct 01; 247(1):109-12. PMID: [3689337](//www.ncbi.nlm.nih.gov/pubmed/3689337); PMCID: [PMC1148376](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1148376).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3689337/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  20. Smetana K, Ochs RL, Busch RK, **Yeoman LC** , Busch H. Studies on satellite nucleoli in rat hepatocytes and Novikoff hepatoma cells. Cell Tissue Res. 1987 Jul; 249(1):235-9. PMID: [3621293](//www.ncbi.nlm.nih.gov/pubmed/3621293).
+
+Citations:  Fields:
+
+Cel Cell BiologyHis Histology
+
+Translation:AnimalsCells
+
+  21. **Yeoman LC** , Bremer JW. Purification and properties of a 90-kDa nuclear actin-binding protein. Proc Soc Exp Biol Med. 1986 Apr; 181(4):479-85. PMID: [3952079](//www.ncbi.nlm.nih.gov/pubmed/3952079).
+
+Citations:  Fields:
+
+Bio BiologyMed Medicine (General)Phy Physiology
+
+Translation:AnimalsCells
+
+  22. Bennett CF, Spector DL, **Yeoman LC**. Nonhistone protein BA is a glutathione S-transferase localized to interchromatinic regions of the cell nucleus. J Cell Biol. 1986 Feb; 102(2):600-9. PMID: [2935545](//www.ncbi.nlm.nih.gov/pubmed/2935545); PMCID: [PMC2114092](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2114092).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2935545/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  23. Brattain MG, Willson JK, Long BH, Chakrabarty S, **Yeoman LC** , Stringfellow DA. Overcoming mitomycin C resistance with semisynthetic derivatives. Prog Clin Biol Res. 1986; 223:63-79. PMID: [3101070](//www.ncbi.nlm.nih.gov/pubmed/3101070).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3101070/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  24. Lischwe MA, Ochs RL, Reddy R, Cook RG, **Yeoman LC** , Tan EM, Reichlin M, Busch H. Purification and partial characterization of a nucleolar scleroderma antigen (Mr = 34,000; pI, 8.5) rich in NG,NG-dimethylarginine. J Biol Chem. 1985 Nov 15; 260(26):14304-10. PMID: [2414294](//www.ncbi.nlm.nih.gov/pubmed/2414294).
+
+Citations:
+[108](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2414294/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  25. Lischwe MA, Cook RG, Ahn YS, **Yeoman LC** , Busch H. Clustering of glycine and NG,NG-dimethylarginine in nucleolar protein C23. Biochemistry. 1985 Oct 22; 24(22):6025-8. PMID: [4084504](//www.ncbi.nlm.nih.gov/pubmed/4084504).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4084504/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  26. Taylor CW, Brattain MG, **Yeoman LC**. Occurrence of cytosolic protein and phosphoprotein changes in human colon tumor cells with the development of resistance to mitomycin C. Cancer Res. 1985 Sep; 45(9):4422-7. PMID: [3928156](//www.ncbi.nlm.nih.gov/pubmed/3928156).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3928156/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  27. Levine AE, McRae LJ, Hamilton DA, Brattain DE, **Yeoman LC** , Brattain MG. Identification of endogenous inhibitory growth factors from a human colon carcinoma cell line. Cancer Res. 1985 May; 45(5):2248-54. PMID: [3857117](//www.ncbi.nlm.nih.gov/pubmed/3857117).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3857117/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  28. Bennett FC, **Yeoman LC**. Co-localization of non-histone protein BA with U-snRNPs to the same regions of the cell nucleus. Exp Cell Res. 1985 Apr; 157(2):379-86. PMID: [2579834](//www.ncbi.nlm.nih.gov/pubmed/2579834).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2579834/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  29. Taylor CW, Brattain MG, **Yeoman LC**. Rate of growth and extent of differentiation reflected by cytoplasmic proteins and antigens of human colon tumor cell lines. Cancer Res. 1984 Mar; 44(3):1200-5. PMID: [6362859](//www.ncbi.nlm.nih.gov/pubmed/6362859).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6362859/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  30. Levine AE, Hamilton DA, **Yeoman LC** , Busch H, Brattain MG. Identification of a tumor inhibitory factor in rat ascites fluid. Biochem Biophys Res Commun. 1984 Feb 29; 119(1):76-82. PMID: [6704134](//www.ncbi.nlm.nih.gov/pubmed/6704134).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6704134/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansAnimalsCells
+
+  31. Brattain MG, Levine AE, Chakrabarty S, **Yeoman LC** , Willson JK, Long B. Heterogeneity of human colon carcinoma. Cancer Metastasis Rev. 1984; 3(3):177-91. PMID: [6437669](//www.ncbi.nlm.nih.gov/pubmed/6437669).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6437669/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  32. Bennett FC, Busch H, Lischwe MA, **Yeoman LC**. Antibodies to a nucleolar protein are localized in the nucleolus after red blood cell-mediated microinjection. J Cell Biol. 1983 Nov; 97(5 Pt 1):1566-72. PMID: [6355122](//www.ncbi.nlm.nih.gov/pubmed/6355122); PMCID: [PMC2112691](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2112691).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6355122/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  33. Taylor CW, Chakrabarty S, Schauder KS, **Yeoman LC**. Identification of cytosolic antigens from GW-39 adenocarcinoma cells by crossed immunoelectrophoresis and immunofluorescence. Immunol Commun. 1983; 12(3):315-29. PMID: [6350166](//www.ncbi.nlm.nih.gov/pubmed/6350166).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  34. Chakrabarty S, Taylor CW, **Yeoman LC**. Isolation and partial characterization of a 700 kilodalton human colon carcinoma associated antigen. Cancer Biochem Biophys. 1983; 6(4):249-59. PMID: [6616431](//www.ncbi.nlm.nih.gov/pubmed/6616431).
+
+Citations:  Fields:
+
+Bio BiochemistryBio BiophysicsNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  35. Lischwe MA, Roberts KD, **Yeoman LC** , Busch H. Nucleolar specific acidic phosphoprotein C23 is highly methylated. J Biol Chem. 1982 Dec 25; 257(24):14600-2. PMID: [7174653](//www.ncbi.nlm.nih.gov/pubmed/7174653).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7174653/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  36. Bennett FC, Rosenfeld BI, Huang CH, **Yeoman LC**. Evidence for two conformational forms of nonhistone protein BA which differ in their affinity for DNA. Biochem Biophys Res Commun. 1982 Jan 29; 104(2):649-56. PMID: [7073705](//www.ncbi.nlm.nih.gov/pubmed/7073705).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7073705/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  37. Bremer JW, Busch H, **Yeoman LC**. Evidence for a species of nuclear actin distinct from cytoplasmic and muscles actins. Biochemistry. 1981 Mar 31; 20(7):2013-7. PMID: [6894385](//www.ncbi.nlm.nih.gov/pubmed/6894385).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6894385/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  38. Michalik J, **Yeoman LC** , Busch H. Nucleolar localization of protein B23 (37/5.1) by immunocytochemical techniques. Life Sci. 1981 Mar 23; 28(12):1371-9. PMID: [7017325](//www.ncbi.nlm.nih.gov/pubmed/7017325).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7017325/citedby/) Fields:
+
+Bio BiochemistryBio BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  39. Chakrabarty S, Taylor CW, **Yeoman LC**. Comparison of immunoelectrophoretic techniques for the analysis of cytosol antigens. J Immunol Methods. 1981; 43(3):301-11. PMID: [7252169](//www.ncbi.nlm.nih.gov/pubmed/7252169).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7252169/citedby/) Fields:
+
+All Allergy and ImmunologyCli Clinical Laboratory Techniques
+
+Translation:HumansAnimalsCells
+
+  40. **Yeoman LC** , Hager LP. Isolation of a heme crevice peptide from affinity-labeled horseradish peroxidase. Biochem Biophys Res Commun. 1980 Dec 16; 97(3):1233-40. PMID: [7470149](//www.ncbi.nlm.nih.gov/pubmed/7470149).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Cells
+
+  41. Catino JJ, Busch H, Daskal Y, **Yeoman LC**. Subcellular localization of DNA-binding protein BA by immunofluorescence and immunoelectron microscopy. J Cell Biol. 1979 Nov; 83(2 Pt 1):462-7. PMID: [227916](//www.ncbi.nlm.nih.gov/pubmed/227916); PMCID: [PMC2111536](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2111536).
+
+Citations: [4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/227916/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  42. Taylor CW, **Yeoman LC** , Woolf LM, Busch H. Isolation of a 70 000 molecular weight antigen of the Novikoff hepatoma. Biochemistry. 1979 Sep 18; 18(19):4049-54. PMID: [114207](//www.ncbi.nlm.nih.gov/pubmed/114207).
+
+Citations: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/114207/citedby/)
+Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  43. Cochran DL, **Yeoman LC** , Egle PM, Shelton KR. Comparison of the major polypeptides of the erythrocyte nuclear envelope. J Supramol Struct. 1979; 10(4):405-18. PMID: [513770](//www.ncbi.nlm.nih.gov/pubmed/513770).
+
+Citations: [2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/513770/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  44. **Yeoman LC** , Taylor CW, Woolf LM, Busch H. Two-dimensional polyacrylamide gel analysis on nuclear proteins from human tumor cell lines. Cancer. 1978 Aug; 42(2):474-82. PMID: [567094](//www.ncbi.nlm.nih.gov/pubmed/567094).
+
+Citations: [2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/567094/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  45. Davis FM, Busch RK, **Yeoman LC** , Busch H. Differences in nucleolar antigens of rat liver and Novikoff hepatoma ascites cells. Cancer Res. 1978 Jul; 38(7):1906-15. PMID: [77722](//www.ncbi.nlm.nih.gov/pubmed/77722).
+
+Citations: [6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/77722/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  46. Goldberg AH, **Yeoman LC** , Busch H. Chromatin-associated glycoproteins of normal rat liver and Novikoff hepatoma ascites cells. Cancer Res. 1978 Apr; 38(4):1052-6. PMID: [205344](//www.ncbi.nlm.nih.gov/pubmed/205344).
+
+Citations: [4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/205344/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  47. Catino JJ, **Yeoman LC** , Mandel M, Busch H. Characterization of DNA binding protein from rat liver chromatin which decreases during growth. Biochemistry. 1978 Mar 21; 17(6):983-7. PMID: [629956](//www.ncbi.nlm.nih.gov/pubmed/629956).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/629956/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  48. James GT, **Yeoman LC** , Matsui Si, Goldberg AH, Busch H. Isolation and characterization of nonhistone chromosomal protein C-14 which stimulates RNA synthesis. Biochemistry. 1977 May 31; 16(11):2384-9. PMID: [193558](//www.ncbi.nlm.nih.gov/pubmed/193558).
+
+Citations: [7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/193558/citedby/)
+Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  49. **Yeoman LC** , Jordan JJ, Busch RK, Taylor CW, Savage HE, Busch H. A fetal protein in chromatin of Novikoff hepatoma and Walker 256 carcinosarcoma tumors that is absent from normal and regenerating rat liver. Proc Natl Acad Sci U S A. 1976 Sep; 73(9):3258-62. PMID: [184470](//www.ncbi.nlm.nih.gov/pubmed/184470); PMCID: [PMC430998](//www.ncbi.nlm.nih.gov/pmc/articles/PMC430998).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/184470/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  50. Busch H, **Yeoman LC** , Busch RK, Jordan JJ, Rao MS, Taylor CW, Wu BC. Antigenically active nonhistone chromatin proteins in cancer cells. Cancer Res. 1976 Sep; 36(9 PT 2):3399-408. PMID: [184949](//www.ncbi.nlm.nih.gov/pubmed/184949).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  51. **Yeoman LC** , Seeber S, Taylor CW, Fernbach DJ, Falletta JM, Jordan JJ, Busch H. Differences in chromatin proteins of resting and growing human lymphocytes. Exp Cell Res. 1976 Jun; 100(1):47-55. PMID: [1064554](//www.ncbi.nlm.nih.gov/pubmed/1064554).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1064554/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  52. Taylor CW, **Yeoman LC** , Jordan JJ, Goldknopf IL, Busch H. Quantitative analysis of the distribution of 3H-leucine in acid soluble chromatin proteins of Noviknoff hepatoma cells separated by two-dimensional polyacrylamide gel electrophoresis. Physiol Chem Phys. 1976; 8(1):3-12. PMID: [183225](//www.ncbi.nlm.nih.gov/pubmed/183225).
+
+Citations: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/183225/citedby/)
+Fields:
+
+Bio BiochemistryBio BiophysicsPhy Physics
+
+Translation:AnimalsCells
+
+  53. Goldknopf IL, Taylor CW, Baum RM, **Yeoman LC** , Olson MO, Prestayko AW, Busch H. Isolation and characterization of protein A24, a "histone-like" non-histone chromosomal protein. J Biol Chem. 1975 Sep 25; 250(18):7182-7. PMID: [1165239](//www.ncbi.nlm.nih.gov/pubmed/1165239).
+
+Citations:
+[85](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1165239/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  54. **Yeoman LC** , Taylor CW, Jordan JJ, Busch H. Early and late changes in nonhistone chromatin proteins accompanying rat liver regeneration. Cancer Res. 1975 May; 35(5):1249-55. PMID: [1120310](//www.ncbi.nlm.nih.gov/pubmed/1120310).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1120310/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  55. **Yeoman LC** , Taylor CW, Jordan JJ, Busch H. Differences in chromatin proteins of growing and non-growing tissues. Exp Cell Res. 1975 Mar 01; 91(1):207-15. PMID: [165944](//www.ncbi.nlm.nih.gov/pubmed/165944).
+
+Citations: [8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/165944/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  56. Taylor CW, **Yeoman LC** , Busch H. The isolation of nuclei with citric acid and the analysis of proteins by two-dimensional polyacrylamide gel electrophoresis. Methods Cell Biol. 1975; 9(0):349-76. PMID: [166288](//www.ncbi.nlm.nih.gov/pubmed/166288).
+
+Citations: [3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/166288/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  57. **Yeoman LC** , Taylor CW, Busch H. Two-dimensional gel electrophoresis of acid-extractable nuclear proteins of regenerating and thioacetamide-treated rat liver, Morris 9618a hepatoma, and Walker 256 carcinosarcoma. Cancer Res. 1974 Feb; 34(2):424-8. PMID: [4359383](//www.ncbi.nlm.nih.gov/pubmed/4359383).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4359383/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  58. Busch GI, **Yeoman LC** , Taylor CW, Busch H. Modified two-dimensional polyacrylamide gel electrophoresis systems for higher molecular weight nonhistone chromatin proteins from normal rat liver and Novikoff hepatoma ascites cells. Physiol Chem Phys. 1974; 6(1):1-10. PMID: [4134968](//www.ncbi.nlm.nih.gov/pubmed/4134968).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4134968/citedby/) Fields:
+
+Bio BiochemistryBio BiophysicsPhy Physics
+
+Translation:AnimalsCells
+
+  59. Taylor CW, **Yeoman LC** , Daskal I, Busch H. Two-dimensional electrophoresis of proteins of citric acid nuclei prepared with aid of a Tissumizer. Exp Cell Res. 1973 Nov; 82(1):215-26. PMID: [4356488](//www.ncbi.nlm.nih.gov/pubmed/4356488).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4356488/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  60. **Yeoman LC** , Taylor CW, Jordan JJ, Busch H. Two-dimensional polyacrylamide gel electrophoresis of chromatin proteins of normal rat liver and Novikoff hepatoma ascites cells. Biochem Biophys Res Commun. 1973 Aug 21; 53(4):1067-76. PMID: [4356049](//www.ncbi.nlm.nih.gov/pubmed/4356049).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4356049/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  61. **Yeoman LC** , Taylor CW, Busch H. Two-dimensional polyacrylamide gel electrophoresis of acid extractable nuclear proteins of normal rat liver and Novikoff hepatoma ascites cells. Biochem Biophys Res Commun. 1973 Apr 16; 51(4):956-66. PMID: [4349999](//www.ncbi.nlm.nih.gov/pubmed/4349999).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4349999/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  62. **Yeoman LC** , Olson MO, Sugano N, Jordan JJ, Taylor DW, Starbuck WC, Busch H. Amino acid sequence of the center of the arginine-lysine-rich histone from calf thymus. The total sequence. J Biol Chem. 1972 Oct 10; 247(19):6018-23. PMID: [4568599](//www.ncbi.nlm.nih.gov/pubmed/4568599).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4568599/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  63. Sugano N, Olson MO, **Yeoman LC** , Johnson BR, Taylor CW, Starbuck WC, Busch H. Amino acid sequence of the COOH-terminal portion of the arginine-lysine-rich histone of calf thymus. J Biol Chem. 1972 Jun 10; 247(11):3589-91. PMID: [4555425](//www.ncbi.nlm.nih.gov/pubmed/4555425).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4555425/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  64. Busch H, Choi YC, Daskal I, Inagaki A, Olson MO, Reddy R, Ro-Choi TS, Shibata H, **Yeoman LC**. Isolation and composition of nuclei and nucleoli. Acta Endocrinol Suppl (Copenh). 1972; 168:35-66. PMID: [4562656](//www.ncbi.nlm.nih.gov/pubmed/4562656).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4562656/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansAnimalsCells
+
+  65. Olson MO, Sugano N, **Yeoman LC** , Johnson BR, Jordan J, Taylor CW, Starbuck WC, Busch H. Homology of the amino terminal sequences of the AL and GAR calf thymus histones. Physiol Chem Phys. 1972; 4(1):10-6. PMID: [4667695](//www.ncbi.nlm.nih.gov/pubmed/4667695).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/4667695/citedby/) Fields:
+
+Bio BiochemistryBio BiophysicsPhy Physics
+
+Translation:AnimalsCells
+
+  66. Pasternak M, Debrunner PG, Depasquali G, Hager LP, **Yeoman L**. Application of I mossbauer effect to biological systems: studies with heme models. Proc Natl Acad Sci U S A. 1970 Aug; 66(4):1142-9. PMID: [16591848](//www.ncbi.nlm.nih.gov/pubmed/16591848); PMCID: [PMC335797](//www.ncbi.nlm.nih.gov/pmc/articles/PMC335797).
+
+Citations:  Fields:
+
+Sci Science
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 4 publications over 4 distinct years, with a maximum of 1
+publications in 1996 and 1998 and 2005 and
+2006](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|1&cht=bvs&chd=t:0,0,100,0,100,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1996| 1  
+1998| 1  
+2005| 1  
+2006| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+YEOMAN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (275)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Colonic Neoplasms](https://profiles.viictr.org/profile/261808)
+  * [Cell Nucleus](https://profiles.viictr.org/profile/245479)
+  * [Transforming Growth Factor alpha](https://profiles.viictr.org/profile/249208)
+  * [Pharmacopoeias as Topic](https://profiles.viictr.org/profile/239957)
+  * [Electrophoresis, Polyacrylamide Gel](https://profiles.viictr.org/profile/241441)
+
+[Explore](https://profiles.viictr.org/profile/269534/198)
+
+_
+
+Co-Authors (1)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GALLICK, GARY E](https://profiles.viictr.org/profile/12583655)
+
+[Explore](https://profiles.viictr.org/profile/269534/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [CHANG, GEORGE J](https://profiles.viictr.org/profile/12583822)
+  * [VAUTHEY, JEAN NICOLAS](https://profiles.viictr.org/profile/12582959)
+  * [AJANI, JAFFER A](https://profiles.viictr.org/profile/12582892)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+
+[Explore](https://profiles.viictr.org/profile/269534/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [LEE, SUKYEONG](https://profiles.viictr.org/profile/267678)
+  * [LI, XIN](https://profiles.viictr.org/profile/28999564)
+  * [ROBERTSON, MICHAEL](https://profiles.viictr.org/profile/43582143)
+  * [UESUGI, MOTONARI](https://profiles.viictr.org/profile/268207)
+  * [WILUSZ, JEREMY](https://profiles.viictr.org/profile/35949597)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [LU, JIAN-MING](https://profiles.viictr.org/profile/265838)
+  * [PATEL, SHITAL](https://profiles.viictr.org/profile/269161)
+  * [PEREZ, CRISTINA](https://profiles.viictr.org/profile/268424)
+  * [SAMPAYO, ESTHER](https://profiles.viictr.org/profile/268863)
+  * [UESUGI, MOTONARI](https://profiles.viictr.org/profile/268207)
+
+_
+

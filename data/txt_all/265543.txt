@@ -1,0 +1,967 @@
+## HAO LIU
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Pqo%2f7UXFI4a7Q4v4&rnd=d6b134f4-136b-4425-92af-
+cfe8fb94a884)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=265543)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=265543&cachekey=9e82e8e2-eafb-4f2c-ab41-ce329b97f4ef)  
+  
+
+Other Positions| Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Duncan Cancer Center  
+Division| Cancer Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Sprouse ML, Welte T, Boral D, **Liu HN** , Yin W, Vishnoi M, Goswami-Sewell D, Li L, Pei G, Jia P, Glitza-Oliva IC, Marchetti D. PMN-MDSCs Enhance CTC Metastatic Properties through Reciprocal Interactions via ROS/Notch/Nodal Signaling. Int J Mol Sci. 2019 Apr 18; 20(8). PMID: [31003475](//www.ncbi.nlm.nih.gov/pubmed/31003475); PMCID: [PMC6514876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6514876).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31003475/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  2. Boral D, Vishnoi M, **Liu HN** , Yin W, Sprouse ML, Scamardo A, [Hong DS](https://profiles.viictr.org/profile/12583776), Tan TZ, Thiery JP, Chang JC, Marchetti D. Molecular characterization of breast cancer CTCs associated with brain metastasis. Nat Commun. 2017 08 04; 8(1):196. PMID: [28775303](//www.ncbi.nlm.nih.gov/pubmed/28775303); PMCID: [PMC5543046](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5543046).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28775303/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  3. **Liu H** , Shen Y, [Ning J](https://profiles.viictr.org/profile/12583520), Qin J. Sample size calculations for prevalent cohort designs. Stat Methods Med Res. 2017 Feb; 26(1):280-291. PMID: [25091809](//www.ncbi.nlm.nih.gov/pubmed/25091809); PMCID: [PMC4317376](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4317376).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25091809/citedby/) Fields:
+
+Sta Statistics as Topic
+
+Translation:Humans
+
+  4. Chang EC, **Liu H** , West JA, Zhou X, Dakhova O, [Wheeler DA](https://profiles.viictr.org/profile/266937), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), Dotti G. Clonal Dynamics In Vivo of Virus Integration Sites of T Cells Expressing a Safety Switch. Mol Ther. 2016 04; 24(4):736-45. PMID: [26639404](//www.ncbi.nlm.nih.gov/pubmed/26639404); PMCID: [PMC4886929](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4886929).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26639404/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  5. [Rouce RH](https://profiles.viictr.org/profile/3010108), Shaim H, Sekine T, Weber G, Ballard B, Ku S, Barese C, Murali V, Wu MF, **Liu H** , [Shpall EJ](https://profiles.viictr.org/profile/12582631), Bollard CM, [Rabin KR](https://profiles.viictr.org/profile/265501), [Rezvani K](https://profiles.viictr.org/profile/12583611). The TGF-?/SMAD pathway is an important mechanism for NK cell immune evasion in childhood B-acute lymphoblastic leukemia. Leukemia. 2016 Apr; 30(4):800-11. PMID: [26621337](//www.ncbi.nlm.nih.gov/pubmed/26621337); PMCID: [PMC4823160](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4823160).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26621337/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:HumansCells
+
+  6. Krenciute G, Krebs S, Torres D, Wu MF, **Liu H** , Dotti G, Li XN, Lesniak MS, Balyasnikova IV, [Gottschalk S](https://profiles.viictr.org/profile/270181). Characterization and Functional Analysis of scFv-based Chimeric Antigen Receptors to Redirect T Cells to IL13Ra2-positive Glioma. Mol Ther. 2016 Feb; 24(2):354-363. PMID: [26514825](//www.ncbi.nlm.nih.gov/pubmed/26514825); PMCID: [PMC4817815](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4817815).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26514825/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  7. Zhou X, Dotti G, [Krance RA](https://profiles.viictr.org/profile/268199), [Martinez CA](https://profiles.viictr.org/profile/265827), Naik S, [Kamble RT](https://profiles.viictr.org/profile/265557), Durett AG, Dakhova O, Savoldo B, Di Stasi A, Spencer DM, Lin YF, **Liu H** , [Grilley BJ](https://profiles.viictr.org/profile/266987), [Gee AP](https://profiles.viictr.org/profile/268378), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200). Inducible caspase-9 suicide gene controls adverse effects from alloreplete T cells after haploidentical stem cell transplantation. Blood. 2015 Jun 25; 125(26):4103-13. PMID: [25977584](//www.ncbi.nlm.nih.gov/pubmed/25977584); PMCID: [PMC4481597](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4481597).
+
+Citations:
+[97](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25977584/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  8. Caruana I, Savoldo B, [Hoyos V](https://profiles.viictr.org/profile/23479202), Weber G, **Liu H** , Kim ES, [Ittmann MM](https://profiles.viictr.org/profile/269566), Marchetti D, Dotti G. Heparanase promotes tumor infiltration and antitumor activity of CAR-redirected T lymphocytes. Nat Med. 2015 May; 21(5):524-9. PMID: [25849134](//www.ncbi.nlm.nih.gov/pubmed/25849134); PMCID: [PMC4425589](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4425589).
+
+Citations:
+[251](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25849134/citedby/)
+Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  9. [Horton TM](https://profiles.viictr.org/profile/266755), Drachtman RA, Chen L, Cole PD, McCarten K, Voss S, Guillerman RP, Buxton A, Howard SC, Hogan SM, Sheehan AM, Mrazek MD, [Agrawal N](https://profiles.viictr.org/profile/18883199), Wu MF, **Liu H** , De Alarcon PA, Trippet TM, [Schwartz CL](https://profiles.viictr.org/profile/12583632), L?pez-Terrada D. A phase 2 study of bortezomib in combination with ifosfamide/vinorelbine in paediatric patients and young adults with refractory/recurrent Hodgkin lymphoma: a Children's Oncology Group study. Br J Haematol. 2015 Jul; 170(1):118-22. PMID: [25833390](//www.ncbi.nlm.nih.gov/pubmed/25833390); PMCID: [PMC4478135](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4478135).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25833390/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCTClinical Trials
+
+  10. [Ahmed N](https://profiles.viictr.org/profile/268944), Brawley VS, [Hegde M](https://profiles.viictr.org/profile/270076), Robertson C, Ghazi A, Gerken C, Liu E, Dakhova O, Ashoori A, Corder A, Gray T, Wu MF, **Liu H** , Hicks J, [Rainusso N](https://profiles.viictr.org/profile/265526), Dotti G, [Mei Z](https://profiles.viictr.org/profile/267093), [Grilley B](https://profiles.viictr.org/profile/266987), [Gee A](https://profiles.viictr.org/profile/268378), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), Wels WS, [Wang LL](https://profiles.viictr.org/profile/267005), Anderson P, [Gottschalk S](https://profiles.viictr.org/profile/270181). Human Epidermal Growth Factor Receptor 2 (HER2) -Specific Chimeric Antigen Receptor-Modified T Cells for the Immunotherapy of HER2-Positive Sarcoma. J Clin Oncol. 2015 May 20; 33(15):1688-96. PMID: [25800760](//www.ncbi.nlm.nih.gov/pubmed/25800760); PMCID: [PMC4429176](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4429176).
+
+Citations:
+[373](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25800760/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  11. Nishio N, Diaconu I, **Liu H** , Cerullo V, Caruana I, [Hoyos V](https://profiles.viictr.org/profile/23479202), [Bouchier-Hayes L](https://profiles.viictr.org/profile/268519), Savoldo B, Dotti G. Armed oncolytic virus enhances immune functions of chimeric antigen receptor-modified T cells in solid tumors. Cancer Res. 2014 Sep 15; 74(18):5195-205. PMID: [25060519](//www.ncbi.nlm.nih.gov/pubmed/25060519); PMCID: [PMC4167556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4167556).
+
+Citations:
+[128](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25060519/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  12. [Heczey A](https://profiles.viictr.org/profile/268789), Liu D, [Tian G](https://profiles.viictr.org/profile/1826488), [Courtney AN](https://profiles.viictr.org/profile/9596407), Wei J, Marinova E, Gao X, Guo L, Yvon E, Hicks J, **Liu H** , Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187). Invariant NKT cells with chimeric antigen receptor provide a novel platform for safe and effective cancer immunotherapy. Blood. 2014 Oct 30; 124(18):2824-33. PMID: [25049283](//www.ncbi.nlm.nih.gov/pubmed/25049283); PMCID: [PMC4215313](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215313).
+
+Citations:
+[113](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25049283/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  13. Papadopoulou A, Gerdemann U, Katari UL, Tzannou I, **Liu H** , [Martinez C](https://profiles.viictr.org/profile/265827), Leung K, [Carrum G](https://profiles.viictr.org/profile/269657), [Gee AP](https://profiles.viictr.org/profile/268378), Vera JF, [Krance RA](https://profiles.viictr.org/profile/268199), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Leen AM](https://profiles.viictr.org/profile/268626). Activity of broad-spectrum T cells as treatment for AdV, EBV, CMV, BKV, and HHV6 infections after HSCT. Sci Transl Med. 2014 Jun 25; 6(242):242ra83. PMID: [24964991](//www.ncbi.nlm.nih.gov/pubmed/24964991); PMCID: [PMC4181611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4181611).
+
+Citations:
+[158](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24964991/citedby/)
+Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCellsCTClinical Trials
+
+  14. Xu Y, Zhang M, [Ramos CA](https://profiles.viictr.org/profile/267038), Durett A, Liu E, Dakhova O, **Liu H** , [Creighton CJ](https://profiles.viictr.org/profile/265729), [Gee AP](https://profiles.viictr.org/profile/268378), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Savoldo B, Dotti G. Closely related T-memory stem cells correlate with in vivo expansion of CAR.CD19-T cells and are preserved by IL-7 and IL-15. Blood. 2014 Jun 12; 123(24):3750-9. PMID: [24782509](//www.ncbi.nlm.nih.gov/pubmed/24782509); PMCID: [PMC4055922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4055922).
+
+Citations:
+[263](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24782509/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  15. Zhou X, Di Stasi A, Tey SK, [Krance RA](https://profiles.viictr.org/profile/268199), [Martinez C](https://profiles.viictr.org/profile/265827), Leung KS, Durett AG, Wu MF, **Liu H** , [Leen AM](https://profiles.viictr.org/profile/268626), Savoldo B, Lin YF, [Grilley BJ](https://profiles.viictr.org/profile/266987), [Gee AP](https://profiles.viictr.org/profile/268378), Spencer DM, [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), Dotti G. Long-term outcome after haploidentical stem cell transplant and infusion of T cells expressing the inducible caspase 9 safety transgene. Blood. 2014 Jun 19; 123(25):3895-905. PMID: [24753538](//www.ncbi.nlm.nih.gov/pubmed/24753538); PMCID: [PMC4064331](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4064331).
+
+Citations:
+[86](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24753538/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  16. Bear AS, Hanley PJ, Bosque DM, Cruz CR, Kaur I, **Liu H** , [Kebriaei P](https://profiles.viictr.org/profile/12582909), [Hosing C](https://profiles.viictr.org/profile/12583741), [Rezvani K](https://profiles.viictr.org/profile/12583611), [Oran B](https://profiles.viictr.org/profile/12583460), De Lima MJ, Bollard CM, [Shpall EJ](https://profiles.viictr.org/profile/12582631). Low rate of infusional toxicity after expanded cord blood transplantation. Cytotherapy. 2014 Aug; 16(8):1153-7. PMID: [24582458](//www.ncbi.nlm.nih.gov/pubmed/24582458); PMCID: [PMC4087060](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4087060).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24582458/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  17. Kennedy-Nasser AA, Ku S, Castillo-Caro P, Hazrat Y, Wu MF, **Liu H** , Melenhorst J, Barrett AJ, Ito S, Foster A, Savoldo B, Yvon E, [Carrum G](https://profiles.viictr.org/profile/269657), [Ramos CA](https://profiles.viictr.org/profile/267038), [Krance RA](https://profiles.viictr.org/profile/268199), Leung K, [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), Bollard CM. Ultra low-dose IL-2 for GVHD prophylaxis after allogeneic hematopoietic stem cell transplantation mediates expansion of regulatory T cells without diminishing antiviral and antileukemic activity. Clin Cancer Res. 2014 Apr 15; 20(8):2215-25. PMID: [24573552](//www.ncbi.nlm.nih.gov/pubmed/24573552); PMCID: [PMC3989436](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3989436).
+
+Citations:
+[96](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24573552/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  18. Lu L, Jin W, **Liu H** , [Wang LL](https://profiles.viictr.org/profile/267005). RECQ DNA helicases and osteosarcoma. Adv Exp Med Biol. 2014; 804:129-45. PMID: [24924172](//www.ncbi.nlm.nih.gov/pubmed/24924172).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24924172/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  19. Bollard CM, [Gottschalk S](https://profiles.viictr.org/profile/270181), Torrano V, Diouf O, Ku S, Hazrat Y, [Carrum G](https://profiles.viictr.org/profile/269657), [Ramos C](https://profiles.viictr.org/profile/267038), [Fayad L](https://profiles.viictr.org/profile/12582534), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Pro B, **Liu H** , Wu MF, Lee D, Sheehan AM, Zu Y, [Gee AP](https://profiles.viictr.org/profile/268378), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355). Sustained complete responses in patients with lymphoma receiving autologous cytotoxic T lymphocytes targeting Epstein-Barr virus latent membrane proteins. J Clin Oncol. 2014 Mar 10; 32(8):798-808. PMID: [24344220](//www.ncbi.nlm.nih.gov/pubmed/24344220); PMCID: [PMC3940538](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3940538).
+
+Citations:
+[208](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24344220/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsCTClinical Trials
+
+  20. Cox JE, Campos S, Wu J, May R, **Liu H** , [Ramos CA](https://profiles.viictr.org/profile/267038), [Carrum G](https://profiles.viictr.org/profile/269657), [Heslop HE](https://profiles.viictr.org/profile/269811), Brenner MK, [Kamble RT](https://profiles.viictr.org/profile/265557). Efficacy of deferred dosing of granulocyte colony-stimulating factor in autologous hematopoietic transplantation for multiple myeloma. Bone Marrow Transplant. 2014 Feb; 49(2):219-22. PMID: [24096822](//www.ncbi.nlm.nih.gov/pubmed/24096822); PMCID: [PMC3915247](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3915247).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24096822/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:Humans
+
+  21. Pagliara D, Mahendravada A, **Liu H** , [Brenner MK](https://profiles.viictr.org/profile/268200), Savoldo B, Dotti G, Perna SK. Interleukin-7 mediates selective expansion of tumor-redirected cytotoxic T lymphocytes (CTLs) without enhancement of regulatory T-cell inhibition. Clin Cancer Res. 2014 Jan 01; 20(1):131-9. PMID: [24097874](//www.ncbi.nlm.nih.gov/pubmed/24097874); PMCID: [PMC4113428](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4113428).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24097874/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  22. Cruz CR, Lam S, Hanley PJ, Bear AS, Langston C, Cohen AJ, **Liu H** , [Martinez CA](https://profiles.viictr.org/profile/265827), [Krance RA](https://profiles.viictr.org/profile/268199), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Hanson IC, Bollard CM. Robust T cell responses to aspergillosis in chronic granulomatous disease: implications for immunotherapy. Clin Exp Immunol. 2013 Oct; 174(1):89-96. PMID: [23763437](//www.ncbi.nlm.nih.gov/pubmed/23763437); PMCID: [PMC3784216](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3784216).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23763437/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  23. Sewatanon J, **Liu H** , [Ling PD](https://profiles.viictr.org/profile/268320). Promyelocytic leukemia protein modulates establishment and maintenance of latent gammaherpesvirus infection in peritoneal cells. J Virol. 2013 Nov; 87(22):12151-7. PMID: [23986598](//www.ncbi.nlm.nih.gov/pubmed/23986598); PMCID: [PMC3807894](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3807894).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23986598/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  24. [Hegde M](https://profiles.viictr.org/profile/270076), Corder A, Chow KK, Mukherjee M, Ashoori A, Kew Y, Zhang YJ, Baskin DS, Merchant FA, Brawley VS, Byrd TT, Krebs S, Wu MF, **Liu H** , [Heslop HE](https://profiles.viictr.org/profile/269811), [Gottschalk S](https://profiles.viictr.org/profile/270181), Gottachalk S, Yvon E, [Ahmed N](https://profiles.viictr.org/profile/268944). Combinational targeting offsets antigen escape and enhances effector functions of adoptively transferred T cells in glioblastoma. Mol Ther. 2013 Nov; 21(11):2087-101. PMID: [23939024](//www.ncbi.nlm.nih.gov/pubmed/23939024); PMCID: [PMC3831041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3831041).
+
+Citations:
+[163](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23939024/citedby/)
+Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  25. Gerdemann U, Katari UL, Papadopoulou A, Keirnan JM, [Craddock JA](https://profiles.viictr.org/profile/27841637), **Liu H** , [Martinez CA](https://profiles.viictr.org/profile/265827), Kennedy-Nasser A, Leung KS, [Gottschalk SM](https://profiles.viictr.org/profile/270181), [Krance RA](https://profiles.viictr.org/profile/268199), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Leen AM](https://profiles.viictr.org/profile/268626). Safety and clinical efficacy of rapidly-generated trivirus-directed T cells as treatment for adenovirus, EBV, and CMV infections after allogeneic hematopoietic stem cell transplant. Mol Ther. 2013 Nov; 21(11):2113-21. PMID: [23783429](//www.ncbi.nlm.nih.gov/pubmed/23783429); PMCID: [PMC3831033](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3831033).
+
+Citations:
+[97](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23783429/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCellsCTClinical Trials
+
+  26. Kakarla S, Chow KK, Mata M, Shaffer DR, Song XT, Wu MF, **Liu H** , [Wang LL](https://profiles.viictr.org/profile/267005), [Rowley DR](https://profiles.viictr.org/profile/269631), Pfizenmaier K, [Gottschalk S](https://profiles.viictr.org/profile/270181). Antitumor effects of chimeric receptor engineered human T cells directed to tumor stroma. Mol Ther. 2013 Aug; 21(8):1611-20. PMID: [23732988](//www.ncbi.nlm.nih.gov/pubmed/23732988); PMCID: [PMC3734659](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3734659).
+
+Citations:
+[118](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23732988/citedby/)
+Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  27. Arber C, Abhyankar H, [Heslop HE](https://profiles.viictr.org/profile/269811), Brenner MK, **Liu H** , Dotti G, Savoldo B. The immunogenicity of virus-derived 2A sequences in immunocompetent individuals. Gene Ther. 2013 Sep; 20(9):958-62. PMID: [23698740](//www.ncbi.nlm.nih.gov/pubmed/23698740); PMCID: [PMC3766470](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3766470).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23698740/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansCells
+
+  28. Zhang S, Li F, Younes M, **Liu H** , [Chen C](https://profiles.viictr.org/profile/268741), [Yao Q](https://profiles.viictr.org/profile/268592). Reduced selenium-binding protein 1 in breast cancer correlates with poor survival and resistance to the anti-proliferative effects of selenium. PLoS One. 2013; 8(5):e63702. PMID: [23704933](//www.ncbi.nlm.nih.gov/pubmed/23704933); PMCID: [PMC3660592](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3660592).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23704933/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  29. [Harring TR](https://profiles.viictr.org/profile/37104267), Nguyen NT, **Liu H** , Karpen SJ, Goss JA, [O'Mahony CA](https://profiles.viictr.org/profile/267872). Liver transplantation in cystic fibrosis: a report from Baylor College of Medicine and the Texas Children's Hospital. Pediatr Transplant. 2013 May; 17(3):271-7. PMID: [23489441](//www.ncbi.nlm.nih.gov/pubmed/23489441).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23489441/citedby/) Fields:
+
+Ped PediatricsTra Transplantation
+
+Translation:HumansAnimals
+
+  30. Chow KK, Naik S, Kakarla S, Brawley VS, Shaffer DR, Yi Z, [Rainusso N](https://profiles.viictr.org/profile/265526), Wu MF, **Liu H** , Kew Y, Grossman RG, [Powell S](https://profiles.viictr.org/profile/269823), Lee D, [Ahmed N](https://profiles.viictr.org/profile/268944), [Gottschalk S](https://profiles.viictr.org/profile/270181). T cells redirected to EphA2 for the immunotherapy of glioblastoma. Mol Ther. 2013 Mar; 21(3):629-37. PMID: [23070117](//www.ncbi.nlm.nih.gov/pubmed/23070117); PMCID: [PMC3589173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3589173).
+
+Citations:
+[124](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23070117/citedby/)
+Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  31. [Harring TR](https://profiles.viictr.org/profile/37104267), Nguyen NT, **Liu H** , Goss JA, [O'Mahony CA](https://profiles.viictr.org/profile/267872). Liver transplant fellowship and resident training is not a part of the "July effect". J Surg Res. 2013 Jun 01; 182(1):1-5. PMID: [23478081](//www.ncbi.nlm.nih.gov/pubmed/23478081).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23478081/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  32. **Liu H** , Qin J, [Shen Y](https://profiles.viictr.org/profile/12583692). Imputation for semiparametric transformation models with biased-sampling data. Lifetime Data Anal. 2012 Oct; 18(4):470-503. PMID: [22903245](//www.ncbi.nlm.nih.gov/pubmed/22903245); PMCID: [PMC3440536](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3440536).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22903245/citedby/) Fields:
+
+Sta Statistics as Topic
+
+Translation:Humans
+
+  33. Nguyen NT, [Harring TR](https://profiles.viictr.org/profile/37104267), **Liu H** , Goss JA, [O'Mahony CA](https://profiles.viictr.org/profile/267872). Transplanting whole livers from donors less than 6 kilograms--is it prudent? J Surg Res. 2012 Oct; 177(2):348-58. PMID: [22868049](//www.ncbi.nlm.nih.gov/pubmed/22868049).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  34. Rathore N, Eissa HM, Margolin JF, **Liu H** , Wu MF, Horton T, [Kamdar K](https://profiles.viictr.org/profile/270282), Dreyer Z, Steuber P, [Rabin KR](https://profiles.viictr.org/profile/265501), Redell M, [Allen CE](https://profiles.viictr.org/profile/270283), [McClain KL](https://profiles.viictr.org/profile/266880), Guillerman RP, Bollard CM. Pediatric Hodgkin lymphoma: are we over-scanning our patients? Pediatr Hematol Oncol. 2012 Aug; 29(5):415-23. PMID: [22632168](//www.ncbi.nlm.nih.gov/pubmed/22632168); PMCID: [PMC3685486](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3685486).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22632168/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  35. [Harring TR](https://profiles.viictr.org/profile/37104267), Nguyen NT, Cotton RT, Guiteau JJ, Salas de Armas IA, **Liu H** , Goss JA, [O'Mahony CA](https://profiles.viictr.org/profile/267872). Liver transplantation with donation after cardiac death donors: a comprehensive update. J Surg Res. 2012 Nov; 178(1):502-11. PMID: [22583594](//www.ncbi.nlm.nih.gov/pubmed/22583594).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22583594/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  36. [Harring TR](https://profiles.viictr.org/profile/37104267), Nguyen NT, **Liu H** , Goss JA, [O'Mahony CA](https://profiles.viictr.org/profile/267872). Caroli disease patients have excellent survival after liver transplant. J Surg Res. 2012 Oct; 177(2):365-72. PMID: [22640887](//www.ncbi.nlm.nih.gov/pubmed/22640887).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22640887/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  37. Qin J, Ning J, **Liu H** , Shen Y. Maximum Likelihood Estimations and EM Algorithms with Length-biased Data. J Am Stat Assoc. 2011 Dec 01; 106(496):1434-1449. PMID: [22323840](//www.ncbi.nlm.nih.gov/pubmed/22323840); PMCID: [PMC3273908](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3273908).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22323840/citedby/)
+
+  38. [Martinez CA](https://profiles.viictr.org/profile/265827), Shah S, Shearer WT, Rosenblatt HM, [Paul ME](https://profiles.viictr.org/profile/266659), [Chinen J](https://profiles.viictr.org/profile/15318057), Leung KS, Kennedy-Nasser A, [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), **Liu H** , Wu MF, Hanson IC, [Krance RA](https://profiles.viictr.org/profile/268199). Excellent survival after sibling or unrelated donor stem cell transplantation for chronic granulomatous disease. J Allergy Clin Immunol. 2012 Jan; 129(1):176-83. PMID: [22078471](//www.ncbi.nlm.nih.gov/pubmed/22078471); PMCID: [PMC6173521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6173521).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22078471/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:Humans
+
+  39. Di Stasi A, Tey SK, Dotti G, Fujita Y, Kennedy-Nasser A, [Martinez C](https://profiles.viictr.org/profile/265827), Straathof K, Liu E, Durett AG, [Grilley B](https://profiles.viictr.org/profile/266987), **Liu H** , Cruz CR, Savoldo B, [Gee AP](https://profiles.viictr.org/profile/268378), Schindler J, [Krance RA](https://profiles.viictr.org/profile/268199), [Heslop HE](https://profiles.viictr.org/profile/269811), Spencer DM, [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200). Inducible apoptosis as a safety switch for adoptive cell therapy. N Engl J Med. 2011 Nov 03; 365(18):1673-83. PMID: [22047558](//www.ncbi.nlm.nih.gov/pubmed/22047558); PMCID: [PMC3236370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3236370).
+
+Citations:
+[654](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22047558/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:HumansCellsCTClinical Trials
+
+  40. Bai RK, Chang J, Yeh KT, Lou MA, Lu JF, Tan DJ, **Liu H** , Wong LJ. Mitochondrial DNA content varies with pathological characteristics of breast cancer. J Oncol. 2011; 2011:496189. PMID: [22028711](//www.ncbi.nlm.nih.gov/pubmed/22028711); PMCID: [PMC3199065](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3199065).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22028711/citedby/)
+
+  41. Louis CU, Savoldo B, Dotti G, Pule M, Yvon E, Myers GD, Rossig C, [Russell HV](https://profiles.viictr.org/profile/267675), Diouf O, Liu E, **Liu H** , Wu MF, [Gee AP](https://profiles.viictr.org/profile/268378), [Mei Z](https://profiles.viictr.org/profile/267093), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200). Antitumor activity and long-term fate of chimeric antigen receptor-positive T cells in patients with neuroblastoma. Blood. 2011 Dec 01; 118(23):6050-6. PMID: [21984804](//www.ncbi.nlm.nih.gov/pubmed/21984804); PMCID: [PMC3234664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3234664).
+
+Citations:
+[490](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21984804/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  42. Egler RA, Li Y, Dang TA, Peters TL, Leung E, [Huang S](https://profiles.viictr.org/profile/267743), [Russell HV](https://profiles.viictr.org/profile/267675), **Liu H** , [Man TK](https://profiles.viictr.org/profile/266960). An integrated proteomic approach to identifying circulating biomarkers in high-risk neuroblastoma and their potential in relapse monitoring. Proteomics Clin Appl. 2011 Oct; 5(9-10):532-41. PMID: [21833997](//www.ncbi.nlm.nih.gov/pubmed/21833997); PMCID: [PMC3685293](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3685293).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21833997/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Humans
+
+  43. Savoldo B, [Ramos CA](https://profiles.viictr.org/profile/267038), Liu E, Mims MP, Keating MJ, [Carrum G](https://profiles.viictr.org/profile/269657), [Kamble RT](https://profiles.viictr.org/profile/265557), Bollard CM, [Gee AP](https://profiles.viictr.org/profile/268378), [Mei Z](https://profiles.viictr.org/profile/267093), **Liu H** , [Grilley B](https://profiles.viictr.org/profile/266987), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), Dotti G. CD28 costimulation improves expansion and persistence of chimeric antigen receptor-modified T cells in lymphoma patients. J Clin Invest. 2011 May; 121(5):1822-6. PMID: [21540550](//www.ncbi.nlm.nih.gov/pubmed/21540550); PMCID: [PMC3083795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3083795).
+
+Citations:
+[473](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21540550/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  44. Albo D, [Akay CL](https://profiles.viictr.org/profile/12583546), Marshall CL, [Wilks JA](https://profiles.viictr.org/profile/12583312), [Verstovsek G](https://profiles.viictr.org/profile/266288), **Liu H** , [Agarwal N](https://profiles.viictr.org/profile/3009814), Berger DH, Ayala GE. Neurogenesis in colorectal cancer is a marker of aggressive tumor behavior and poor outcomes. Cancer. 2011 Nov 01; 117(21):4834-45. PMID: [21480205](//www.ncbi.nlm.nih.gov/pubmed/21480205).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21480205/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  45. [Lerner SP](https://profiles.viictr.org/profile/267959), **Liu H** , Wu MF, Thomas YK, Witjes JA. Fluorescence and white light cystoscopy for detection of carcinoma in situ of the urinary bladder. Urol Oncol. 2012 May-Jun; 30(3):285-9. PMID: [21396840](//www.ncbi.nlm.nih.gov/pubmed/21396840).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21396840/citedby/) Fields:
+
+Neo NeoplasmsUro Urology
+
+Translation:Humans
+
+  46. Shaffer DR, Savoldo B, Yi Z, Chow KK, Kakarla S, Spencer DM, Dotti G, Wu MF, **Liu H** , Kenney S, [Gottschalk S](https://profiles.viictr.org/profile/270181). T cells redirected against CD70 for the immunotherapy of CD70-positive malignancies. Blood. 2011 Apr 21; 117(16):4304-14. PMID: [21304103](//www.ncbi.nlm.nih.gov/pubmed/21304103); PMCID: [PMC3087480](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3087480).
+
+Citations:
+[84](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21304103/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  47. Liu SH, Smyth-Templeton N, Davis AR, Davis EA, Ballian N, Li M, **Liu H** , [Fisher W](https://profiles.viictr.org/profile/267699), Brunicardi FC. Multiple treatment cycles of liposome-encapsulated adenoviral RIP-TK gene therapy effectively ablate human pancreatic cancer cells in SCID mice. Surgery. 2011 Apr; 149(4):484-95. PMID: [21295812](//www.ncbi.nlm.nih.gov/pubmed/21295812); PMCID: [PMC3072061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3072061).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21295812/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:HumansAnimalsCells
+
+  48. Ayala GE, Muezzinoglu B, Hammerich KH, Frolov A, **Liu H** , Scardino PT, Li R, Sayeeduddin M, [Ittmann MM](https://profiles.viictr.org/profile/269566), [Kadmon D](https://profiles.viictr.org/profile/268024), [Miles BJ](https://profiles.viictr.org/profile/268161), [Wheeler TM](https://profiles.viictr.org/profile/266558), [Rowley DR](https://profiles.viictr.org/profile/269631). Determining prostate cancer-specific death through quantification of stromogenic carcinoma area in prostatectomy specimens. Am J Pathol. 2011 Jan; 178(1):79-87. PMID: [21224046](//www.ncbi.nlm.nih.gov/pubmed/21224046); PMCID: [PMC3069909](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3069909).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21224046/citedby/) Fields:
+
+Pat Pathology
+
+Translation:Humans
+
+  49. Louis CU, Straathof K, Bollard CM, Ennamuri S, Gerken C, Lopez TT, Huls MH, Sheehan A, Wu MF, **Liu H** , [Gee A](https://profiles.viictr.org/profile/268378), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Gottschalk S](https://profiles.viictr.org/profile/270181). Adoptive transfer of EBV-specific T cells results in sustained clinical responses in patients with locoregional nasopharyngeal carcinoma. J Immunother. 2010 Nov-Dec; 33(9):983-90. PMID: [20948438](//www.ncbi.nlm.nih.gov/pubmed/20948438); PMCID: [PMC2964409](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2964409).
+
+Citations:
+[86](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20948438/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCellsCTClinical Trials
+
+  50. Cruz CR, Hanley PJ, **Liu H** , Torrano V, Lin YF, Arce JA, [Gottschalk S](https://profiles.viictr.org/profile/270181), Savoldo B, Dotti G, Louis CU, [Leen AM](https://profiles.viictr.org/profile/268626), [Gee AP](https://profiles.viictr.org/profile/268378), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), Bollard CM, [Heslop HE](https://profiles.viictr.org/profile/269811). Adverse events following infusion of T cells for adoptive immunotherapy: a 10-year experience. Cytotherapy. 2010 Oct; 12(6):743-9. PMID: [20429793](//www.ncbi.nlm.nih.gov/pubmed/20429793); PMCID: [PMC2914831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2914831).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20429793/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:Cells
+
+  51. Vera JF, Brenner LJ, Gerdemann U, Ngo MC, Sili U, **Liu H** , Wilson J, Dotti G, [Heslop HE](https://profiles.viictr.org/profile/269811), [Leen AM](https://profiles.viictr.org/profile/268626), [Rooney CM](https://profiles.viictr.org/profile/268355). Accelerated production of antigen-specific T cells for preclinical and clinical applications using gas-permeable rapid expansion cultureware (G-Rex). J Immunother. 2010 Apr; 33(3):305-15. PMID: [20445351](//www.ncbi.nlm.nih.gov/pubmed/20445351); PMCID: [PMC2946348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2946348).
+
+Citations:
+[76](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20445351/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  52. LaMarca HL, Visbal AP, [Creighton CJ](https://profiles.viictr.org/profile/265729), **Liu H** , Zhang Y, Behbod F, [Rosen JM](https://profiles.viictr.org/profile/267640). CCAAT/enhancer binding protein beta regulates stem cell activity and specifies luminal cell fate in the mammary gland. Stem Cells. 2010 Mar 31; 28(3):535-44. PMID: [20054865](//www.ncbi.nlm.nih.gov/pubmed/20054865); PMCID: [PMC3006225](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3006225).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20054865/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  53. Micklethwaite KP, Savoldo B, Hanley PJ, [Leen AM](https://profiles.viictr.org/profile/268626), Demmler-Harrison GJ, Cooper LJ, **Liu H** , [Gee AP](https://profiles.viictr.org/profile/268378), [Shpall EJ](https://profiles.viictr.org/profile/12582631), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), Bollard CM, Dotti G. Derivation of human T lymphocytes from cord blood and peripheral blood with antiviral and antileukemic specificity from a single culture as protection against infection and relapse after stem cell transplantation. Blood. 2010 Apr 01; 115(13):2695-703. PMID: [20110422](//www.ncbi.nlm.nih.gov/pubmed/20110422); PMCID: [PMC2852368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2852368).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20110422/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  54. [Raphael JL](https://profiles.viictr.org/profile/265546), Zhang Y, **Liu H** , Giardino AP. Parenting stress in US families: implications for paediatric healthcare utilization. Child Care Health Dev. 2010 Mar; 36(2):216-24. PMID: [20047600](//www.ncbi.nlm.nih.gov/pubmed/20047600).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20047600/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  55. **Liu H** , Shen Y. A Semiparametric Regression Cure Model for Interval-Censored Data. J Am Stat Assoc. 2009 12 01; 104(487):1168-1178. PMID: [20354594](//www.ncbi.nlm.nih.gov/pubmed/20354594); PMCID: [PMC2846840](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2846840).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20354594/citedby/)
+
+  56. Rajagopalan L, Organ-Darling LE, **Liu H** , Davidson AL, Raphael RM, [Brownell WE](https://profiles.viictr.org/profile/266983), [Pereira FA](https://profiles.viictr.org/profile/269546). Glycosylation regulates prestin cellular activity. J Assoc Res Otolaryngol. 2010 Mar; 11(1):39-51. PMID: [19898896](//www.ncbi.nlm.nih.gov/pubmed/19898896); PMCID: [PMC2820205](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2820205).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19898896/citedby/) Fields:
+
+Oto Otolaryngology
+
+Translation:HumansAnimalsCells
+
+  57. [Heslop HE](https://profiles.viictr.org/profile/269811), Slobod KS, Pule MA, Hale GA, Rousseau A, Smith CA, Bollard CM, **Liu H** , Wu MF, Rochester RJ, Amrolia PJ, Hurwitz JL, [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355). Long-term outcome of EBV-specific T-cell infusions to prevent or treat EBV-related lymphoproliferative disease in transplant recipients. Blood. 2010 Feb 04; 115(5):925-35. PMID: [19880495](//www.ncbi.nlm.nih.gov/pubmed/19880495); PMCID: [PMC2817637](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2817637).
+
+Citations:
+[331](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19880495/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  58. Liebig C, Ayala G, [Wilks J](https://profiles.viictr.org/profile/12583312), [Verstovsek G](https://profiles.viictr.org/profile/266288), **Liu H** , [Agarwal N](https://profiles.viictr.org/profile/3009814), Berger DH, Albo D. Perineural invasion is an independent predictor of outcome in colorectal cancer. J Clin Oncol. 2009 Nov 01; 27(31):5131-7. PMID: [19738119](//www.ncbi.nlm.nih.gov/pubmed/19738119); PMCID: [PMC2773472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2773472).
+
+Citations:
+[150](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19738119/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  59. [Leen AM](https://profiles.viictr.org/profile/268626), Christin A, Myers GD, **Liu H** , Cruz CR, Hanley PJ, Kennedy-Nasser AA, Leung KS, [Gee AP](https://profiles.viictr.org/profile/268378), [Krance RA](https://profiles.viictr.org/profile/268199), [Brenner MK](https://profiles.viictr.org/profile/268200), [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), Bollard CM. Cytotoxic T lymphocyte therapy with donor T cells prevents and treats adenovirus and Epstein-Barr virus infections after haploidentical and matched unrelated stem cell transplantation. Blood. 2009 Nov 05; 114(19):4283-92. PMID: [19700662](//www.ncbi.nlm.nih.gov/pubmed/19700662); PMCID: [PMC2774556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2774556).
+
+Citations:
+[143](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19700662/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:HumansCellsCTClinical Trials
+
+  60. Gerdemann U, Christin AS, Vera JF, [Ramos CA](https://profiles.viictr.org/profile/267038), Fujita Y, **Liu H** , Dilloo D, [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), [Rooney CM](https://profiles.viictr.org/profile/268355), [Leen AM](https://profiles.viictr.org/profile/268626). Nucleofection of DCs to generate Multivirus-specific T cells for prevention or treatment of viral infections in the immunocompromised host. Mol Ther. 2009 Sep; 17(9):1616-25. PMID: [19584818](//www.ncbi.nlm.nih.gov/pubmed/19584818); PMCID: [PMC2835253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2835253).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19584818/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  61. [Raphael JL](https://profiles.viictr.org/profile/265546), Zhang Y, **Liu H** , Tapia CD, Giardino AP. Association of medical home care and disparities in emergency care utilization among children with special health care needs. Acad Pediatr. 2009 Jul-Aug; 9(4):242-8. PMID: [19608125](//www.ncbi.nlm.nih.gov/pubmed/19608125).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19608125/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  62. [Sangi-Haghpeykar H](https://profiles.viictr.org/profile/266954), Meddaugh HM, **Liu H** , Grino P. Attrition and retention in clinical trials by ethnic origin. Contemp Clin Trials. 2009 Nov; 30(6):499-503. PMID: [19573625](//www.ncbi.nlm.nih.gov/pubmed/19573625).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19573625/citedby/) Fields:
+
+Med Medicine (General)The Therapeutics
+
+Translation:Humans
+
+  63. Hanley PJ, Cruz CR, Savoldo B, [Leen AM](https://profiles.viictr.org/profile/268626), Stanojevic M, Khalil M, [Decker W](https://profiles.viictr.org/profile/267087), [Molldrem JJ](https://profiles.viictr.org/profile/12583319), **Liu H** , [Gee AP](https://profiles.viictr.org/profile/268378), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), Dotti G, [Brenner MK](https://profiles.viictr.org/profile/268200), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Bollard CM. Functionally active virus-specific T cells that target CMV, adenovirus, and EBV can be expanded from naive T-cell populations in cord blood and will target a range of viral epitopes. Blood. 2009 Aug 27; 114(9):1958-67. PMID: [19443656](//www.ncbi.nlm.nih.gov/pubmed/19443656); PMCID: [PMC2738578](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2738578).
+
+Citations:
+[98](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19443656/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  64. Vera JF, [Hoyos V](https://profiles.viictr.org/profile/23479202), Savoldo B, Quintarelli C, Giordano Attianese GM, [Leen AM](https://profiles.viictr.org/profile/268626), **Liu H** , Foster AE, [Heslop HE](https://profiles.viictr.org/profile/269811), [Rooney CM](https://profiles.viictr.org/profile/268355), [Brenner MK](https://profiles.viictr.org/profile/268200), Dotti G. Genetic manipulation of tumor-specific cytotoxic T lymphocytes to restore responsiveness to IL-7. Mol Ther. 2009 May; 17(5):880-8. PMID: [19259067](//www.ncbi.nlm.nih.gov/pubmed/19259067); PMCID: [PMC2835146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2835146).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19259067/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  65. Pule MA, Savoldo B, Myers GD, Rossig C, [Russell HV](https://profiles.viictr.org/profile/267675), Dotti G, Huls MH, Liu E, [Gee AP](https://profiles.viictr.org/profile/268378), [Mei Z](https://profiles.viictr.org/profile/267093), Yvon E, Weiss HL, **Liu H** , [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200). Virus-specific T cells engineered to coexpress tumor-specific receptors: persistence and antitumor activity in individuals with neuroblastoma. Nat Med. 2008 Nov; 14(11):1264-70. PMID: [18978797](//www.ncbi.nlm.nih.gov/pubmed/18978797); PMCID: [PMC2749734](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2749734).
+
+Citations:
+[579](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18978797/citedby/)
+Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansCells
+
+  66. [Raphael JL](https://profiles.viictr.org/profile/265546), [Shetty PB](https://profiles.viictr.org/profile/35549192), **Liu H** , Mahoney DH, Mueller BU. A critical assessment of transcranial doppler screening rates in a large pediatric sickle cell center: opportunities to improve healthcare quality. Pediatr Blood Cancer. 2008 Nov; 51(5):647-51. PMID: [18623200](//www.ncbi.nlm.nih.gov/pubmed/18623200).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18623200/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:HumansPHPublic Health
+
+  67. Kennedy-Nasser AA, Bollard CM, Myers GD, Leung KS, [Gottschalk S](https://profiles.viictr.org/profile/270181), Zhang Y, **Liu H** , [Heslop HE](https://profiles.viictr.org/profile/269811), [Brenner MK](https://profiles.viictr.org/profile/268200), [Krance RA](https://profiles.viictr.org/profile/268199). Comparable outcome of alternative donor and matched sibling donor hematopoietic stem cell transplant for children with acute lymphoblastic leukemia in first or second remission using alemtuzumab in a myeloablative conditioning regimen. Biol Blood Marrow Transplant. 2008 Nov; 14(11):1245-52. PMID: [18940679](//www.ncbi.nlm.nih.gov/pubmed/18940679).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18940679/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:HumansCells
+
+  68. Siwko SK, Dong J, [Lewis MT](https://profiles.viictr.org/profile/267000), **Liu H** , [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), [Li Y](https://profiles.viictr.org/profile/267733). Evidence that an early pregnancy causes a persistent decrease in the number of functional mammary epithelial stem cells--implications for pregnancy-induced protection against breast cancer. Stem Cells. 2008 Dec; 26(12):3205-9. PMID: [18787212](//www.ncbi.nlm.nih.gov/pubmed/18787212); PMCID: [PMC2647777](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2647777).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18787212/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  69. [Raphael JL](https://profiles.viictr.org/profile/265546), [Kamdar A](https://profiles.viictr.org/profile/38374052), [Wang T](https://profiles.viictr.org/profile/3009836), **Liu H** , Mahoney DH, Mueller BU. Day hospital versus inpatient management of uncomplicated vaso-occlusive crises in children with sickle cell disease. Pediatr Blood Cancer. 2008 Sep; 51(3):398-401. PMID: [18300322](//www.ncbi.nlm.nih.gov/pubmed/18300322).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18300322/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  70. Velazquez EF, Ayala G, **Liu H** , Chaux A, Zanotti M, Torres J, Cho SI, Barreto JE, Soares F, Cubilla AL. Histologic grade and perineural invasion are more important than tumor thickness as predictor of nodal metastasis in penile squamous cell carcinoma invading 5 to 10 mm. Am J Surg Pathol. 2008 Jul; 32(7):974-9. PMID: [18460979](//www.ncbi.nlm.nih.gov/pubmed/18460979).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18460979/citedby/) Fields:
+
+Gen General SurgeryPat Pathology
+
+Translation:Humans
+
+  71. Sonpavde G, Jian W, **Liu H** , Wu MF, Shen SS, [Lerner SP](https://profiles.viictr.org/profile/267959). Sunitinib malate is active against human urothelial carcinoma and enhances the activity of cisplatin in a preclinical model. Urol Oncol. 2009 Jul-Aug; 27(4):391-9. PMID: [18534874](//www.ncbi.nlm.nih.gov/pubmed/18534874).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18534874/citedby/) Fields:
+
+Neo NeoplasmsUro Urology
+
+Translation:HumansAnimalsCells
+
+  72. Jin W, **Liu H** , Zhang Y, Otta SK, [Plon SE](https://profiles.viictr.org/profile/269771), [Wang LL](https://profiles.viictr.org/profile/267005). Sensitivity of RECQL4-deficient fibroblasts from Rothmund-Thomson syndrome patients to genotoxic agents. Hum Genet. 2008 Jul; 123(6):643-53. PMID: [18504617](//www.ncbi.nlm.nih.gov/pubmed/18504617); PMCID: [PMC2585174](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2585174).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18504617/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  73. Yanagisawa N, Li R, [Rowley D](https://profiles.viictr.org/profile/269631), **Liu H** , [Kadmon D](https://profiles.viictr.org/profile/268024), [Miles BJ](https://profiles.viictr.org/profile/268161), [Wheeler TM](https://profiles.viictr.org/profile/266558), Ayala GE. Reprint of: Stromogenic prostatic carcinoma pattern (carcinomas with reactive stromal grade 3) in needle biopsies predicts biochemical recurrence-free survival in patients after radical prostatectomy. Hum Pathol. 2008 Feb; 39(2):282-91. PMID: [18206496](//www.ncbi.nlm.nih.gov/pubmed/18206496).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18206496/citedby/) Fields:
+
+Pat Pathology
+
+  74. Ye J, **Liu H** , Kirmiz C, Lebrilla CB, Rocke DM. On the analysis of glycomics mass spectrometry data via the regularized area under the ROC curve. BMC Bioinformatics. 2007 Dec 12; 8:477. PMID: [18076765](//www.ncbi.nlm.nih.gov/pubmed/18076765); PMCID: [PMC2211327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2211327).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18076765/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Humans
+
+  75. Yanagisawa N, Li R, [Rowley D](https://profiles.viictr.org/profile/269631), **Liu H** , [Kadmon D](https://profiles.viictr.org/profile/268024), [Miles BJ](https://profiles.viictr.org/profile/268161), [Wheeler TM](https://profiles.viictr.org/profile/266558), Ayala GE. Stromogenic prostatic carcinoma pattern (carcinomas with reactive stromal grade 3) in needle biopsies predicts biochemical recurrence-free survival in patients after radical prostatectomy. Hum Pathol. 2007 Nov; 38(11):1611-20. PMID: [17868773](//www.ncbi.nlm.nih.gov/pubmed/17868773).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17868773/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  76. Leiserowitz GS, Lebrilla C, Miyamoto S, An HJ, Duong H, Kirmiz C, Li B, **Liu H** , Lam KS. Glycomics analysis of serum: a potential new biomarker for ovarian cancer? Int J Gynecol Cancer. 2008 May-Jun; 18(3):470-5. PMID: [17655680](//www.ncbi.nlm.nih.gov/pubmed/17655680); PMCID: [PMC2581843](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2581843).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17655680/citedby/) Fields:
+
+Gyn GynecologyNeo Neoplasms
+
+Translation:Humans
+
+  77. Wang L, Joad JP, Abel K, Spinner A, Smiley-Jewell S, **Liu H** , Pinkerton KE. Effects of environmental tobacco smoke on the developing immune system of infant monkeys. J Allergy Clin Immunol. 2007 Aug; 120(2):445-51. PMID: [17482667](//www.ncbi.nlm.nih.gov/pubmed/17482667).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17482667/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCellsPHPublic Health
+
+  78. **Liu H** , Beckett LA, DeNardo GL. On the analysis of count data of birth-and-death process type: with application to molecularly targeted cancer therapy. Stat Med. 2007 Feb 28; 26(5):1114-35. PMID: [16755532](//www.ncbi.nlm.nih.gov/pubmed/16755532).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16755532/citedby/) Fields:
+
+Sta Statistics as Topic
+
+  79. Hopke PK, Ito K, Mar T, Christensen WF, Eatough DJ, Henry RC, Kim E, Laden F, Lall R, Larson TV, **Liu H** , Neas L, Pinto J, Suh H, Paatero P, Thurston GD, St?lzel M. PM source apportionment and health effects: 1. Intercomparison of source apportionment results. J Expo Sci Environ Epidemiol. 2006 May; 16(3):275-86. PMID: [16249798](//www.ncbi.nlm.nih.gov/pubmed/16249798).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16249798/citedby/) Fields:
+
+Env Environmental HealthEpi Epidemiology
+
+Translation:Humans
+
+  80. Thurston GD, Ito K, Mar T, Christensen WF, Eatough DJ, Henry RC, Kim E, Laden F, Lall R, Larson TV, **Liu H** , Neas L, Pinto J, Suh H, Hopke PK, St?lzel M. Workgroup report: workshop on source apportionment of particulate matter health effects--intercomparison of results and implications. Environ Health Perspect. 2005 Dec; 113(12):1768-74. PMID: [16330361](//www.ncbi.nlm.nih.gov/pubmed/16330361); PMCID: [PMC1314918](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1314918).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16330361/citedby/) Fields:
+
+Env Environmental Health
+
+Translation:PHPublic Health
+
+  81. An HJ, Ninonuevo M, Aguilan J, **Liu H** , Lebrilla CB, Alvarenga LS, Mannis MJ. Glycomics analyses of tear fluid for the diagnostic detection of ocular rosacea. J Proteome Res. 2005 Nov-Dec; 4(6):1981-7. PMID: [16335942](//www.ncbi.nlm.nih.gov/pubmed/16335942).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16335942/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Humans
+
+  82. Gould JB, Chavez G, Marks AR, **Liu H**. Incomplete birth certificates: a risk marker for infant mortality. Am J Public Health. 2002 Jan; 92(1):79-81. PMID: [11772766](//www.ncbi.nlm.nih.gov/pubmed/11772766); PMCID: [PMC1447393](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1447393).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11772766/citedby/) Fields:
+
+Pub Public Health
+
+Translation:Humans
+
+  83. Ulrich CM, Yasui Y, Storb R, Schubert MM, Wagner JL, Bigler J, Ariail KS, Keener CL, Li S, **Liu H** , Farin FM, Potter JD. Pharmacogenetics of methotrexate: toxicity among marrow transplantation patients varies with the methylenetetrahydrofolate reductase C677T polymorphism. Blood. 2001 Jul 01; 98(1):231-4. PMID: [11418485](//www.ncbi.nlm.nih.gov/pubmed/11418485).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11418485/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  84. Yasui Y, **Liu H** , Benach J, Winget M. An empirical evaluation of various priors in the empirical Bayes estimation of small area disease risks. Stat Med. 2000 Sep 15-30; 19(17-18):2409-20. PMID: [10960862](//www.ncbi.nlm.nih.gov/pubmed/10960862).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10960862/citedby/) Fields:
+
+Sta Statistics as Topic
+
+Translation:Humans
+
+  85. Gould JB, Benitz WE, **Liu H**. Mortality and time to death in very low birth weight infants: California, 1987 and 1993. Pediatrics. 2000 Mar; 105(3):E37. PMID: [10699139](//www.ncbi.nlm.nih.gov/pubmed/10699139).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10699139/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  86. Gould JB, Sarnoff R, **Liu H** , Bell DR, Chavez G. Very low birth weight births at non-NICU hospitals: the role of sociodemographic, perinatal, and geographic factors. J Perinatol. 1999 Apr-May; 19(3):197-205. PMID: [10685222](//www.ncbi.nlm.nih.gov/pubmed/10685222).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10685222/citedby/) Fields:
+
+Per Perinatology
+
+Translation:Humans
+
+  87. Brugo EA, Larkin E, Molina-Escobar J, Contanzi J. Primary granulocytic sarcoma of the small bowel. Cancer. 1975 May; 35(5):1333-40. PMID: [1054617](//www.ncbi.nlm.nih.gov/pubmed/1054617).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1054617/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 86 publications over 18 distinct years, with a maximum of
+11 publications in 2009 and 2011 and
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|11&cht=bvs&chd=t:0,0,0,0,0,9,18,9,9,0,0,18,9,45,82,100,55,100,64,100,73,64,9,9,0,9,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1999| 1  
+2000| 2  
+2001| 1  
+2002| 1  
+2005| 2  
+2006| 1  
+2007| 5  
+2008| 9  
+2009| 11  
+2010| 6  
+2011| 11  
+2012| 7  
+2013| 11  
+2014| 8  
+2015| 7  
+2016| 1  
+2017| 1  
+2019| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LIU's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (550)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [T-Lymphocytes](https://profiles.viictr.org/profile/263702)
+  * [T-Lymphocytes, Cytotoxic](https://profiles.viictr.org/profile/242982)
+  * [Caspase 9](https://profiles.viictr.org/profile/244371)
+  * [Adoptive Transfer](https://profiles.viictr.org/profile/241720)
+  * [Selection Bias](https://profiles.viictr.org/profile/251360)
+
+[Explore](https://profiles.viictr.org/profile/265543/198)
+
+_
+
+Co-Authors (82)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [BRENNER, MALCOLM](https://profiles.viictr.org/profile/268200)
+  * [HESLOP, HELEN](https://profiles.viictr.org/profile/269811)
+  * [GOTTSCHALK, STEPHEN](https://profiles.viictr.org/profile/270181)
+  * [ROONEY, CLIONA](https://profiles.viictr.org/profile/268355)
+  * [LEEN, ANN](https://profiles.viictr.org/profile/268626)
+
+[Explore](https://profiles.viictr.org/profile/265543/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ROONEY, CLIONA](https://profiles.viictr.org/profile/268355)
+  * [HESLOP, HELEN](https://profiles.viictr.org/profile/269811)
+  * [CHAMPLIN, RICHARD E](https://profiles.viictr.org/profile/12582508)
+  * [BRENNER, MALCOLM](https://profiles.viictr.org/profile/268200)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+
+[Explore](https://profiles.viictr.org/profile/265543/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AGRAWAL, CHARU](https://profiles.viictr.org/profile/28999316)
+  * [LULLA, PREMAL](https://profiles.viictr.org/profile/3010220)
+  * [MICHAEL, BINU](https://profiles.viictr.org/profile/268573)
+  * [RAMSHESH, PRIYA](https://profiles.viictr.org/profile/268629)
+  * [SONNET, CORINNE](https://profiles.viictr.org/profile/15317746)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CARRUM, GEORGE](https://profiles.viictr.org/profile/269657)
+  * [MILLER-CHISM, COURTNEY](https://profiles.viictr.org/profile/3494080)
+  * [RIMAWI, MOTHAFFAR](https://profiles.viictr.org/profile/269416)
+  * [SEARS, DAVID](https://profiles.viictr.org/profile/267960)
+  * [ZHENG, ZEYI](https://profiles.viictr.org/profile/3010160)
+
+_
+

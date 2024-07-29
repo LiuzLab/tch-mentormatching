@@ -1,0 +1,381 @@
+## MEDHAT MAHMOUD
+
+| | Title| Adjunct Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Human Genome Sequencing Center  
+Address| One Baylor Plaza  
+Houston, 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=G6406WTTbqb0ToLi9X%2fiKLeBaRSOgg%3d%3d&rnd=7259b912-f515-4561-be6a-cb6df74e1dc8)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=24845337)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Fu Y, Aganezov S, **Mahmoud M** , Beaulaurier J, Juul S, Treangen TJ, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). MethPhaser: methylation-based long-read haplotype phasing of human genomes. Nat Commun. 2024 Jun 22; 15(1):5327. PMID: [38909018](//www.ncbi.nlm.nih.gov/pubmed/38909018); PMCID: [PMC11193733](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11193733).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  2. [Grochowski CM](https://profiles.viictr.org/profile/17411457), Bengtsson JD, Du H, Gandhi M, Lun MY, Mehaffey MG, Park K, H?ps W, Benito E, Hasenfeld P, Korbel JO, **Mahmoud M** , Paulin LF, Jhangiani SN, Hwang JP, Bhamidipati SV, [Muzny DM](https://profiles.viictr.org/profile/268028), Fatih JM, [Gibbs RA](https://profiles.viictr.org/profile/269695), Pendleton M, Harrington E, Juul S, Lindstrand A, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), [Pehlivan D](https://profiles.viictr.org/profile/27841639), [Lupski JR](https://profiles.viictr.org/profile/268099), Carvalho CMB. Inverted triplications formed by iterative template switches generate structural variant diversity at genomic disorder loci. Cell Genom. 2024 Jul 10; 4(7):100590. PMID: [38908378](//www.ncbi.nlm.nih.gov/pubmed/38908378).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  3. Bilgrav Saether K, Eisfeldt J, Bengtsson J, Lun MY, [Grochowski CM](https://profiles.viictr.org/profile/17411457), **Mahmoud M** , [Chao HT](https://profiles.viictr.org/profile/23478929), Rosenfeld JA, Liu P, Schuy J, Ameur A, Undiagnosed Diseases Network, Hwang JP, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Bi W, [Marom R](https://profiles.viictr.org/profile/14348371), Nordgren A, Carvalho CMB, Lindstrand A. Mind the gap: the relevance of the genome reference to resolve rare and pathogenic inversions. medRxiv. 2024 Apr 24. PMID: [38712270](//www.ncbi.nlm.nih.gov/pubmed/38712270); PMCID: [PMC11071548](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11071548).
+
+Citations:
+
+  4. **Mahmoud M** , Harting J, Corbitt H, Chen X, Jhangiani SN, Doddapaneni H, [Meng Q](https://profiles.viictr.org/profile/12583622), Han T, Lambert C, Zhang S, Baybayan P, Henno G, Shen H, Hu J, [Han Y](https://profiles.viictr.org/profile/269818), Riegler C, Metcalf G, [Chinn IK](https://profiles.viictr.org/profile/8065501), Eberle MA, Kingan S, [Farinholt T](https://profiles.viictr.org/profile/1826504), Carvalho CMB, [Gibbs RA](https://profiles.viictr.org/profile/269695), Kronenberg Z, [Muzny D](https://profiles.viictr.org/profile/268028), [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). Closing the gap: Solving complex medically relevant genes at scale. medRxiv. 2024 Mar 18. PMID: [38562723](//www.ncbi.nlm.nih.gov/pubmed/38562723); PMCID: [PMC10984040](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10984040).
+
+Citations:
+
+  5. Smolka M, Paulin LF, [Grochowski CM](https://profiles.viictr.org/profile/17411457), Horner DW, **Mahmoud M** , [Behera S](https://profiles.viictr.org/profile/33025811), Kalef-Ezra E, Gandhi M, Hong K, [Pehlivan D](https://profiles.viictr.org/profile/27841639), Scholz SW, Carvalho CMB, Proukakis C, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). Publisher Correction: Detection of mosaic and population-level structural variants with Sniffles2. Nat Biotechnol. 2024 Jan 22. PMID: [38253882](//www.ncbi.nlm.nih.gov/pubmed/38253882).
+
+Citations:  Fields:
+
+Bio Biotechnology
+
+  6. Smolka M, Paulin LF, [Grochowski CM](https://profiles.viictr.org/profile/17411457), Horner DW, **Mahmoud M** , [Behera S](https://profiles.viictr.org/profile/33025811), Kalef-Ezra E, Gandhi M, Hong K, [Pehlivan D](https://profiles.viictr.org/profile/27841639), Scholz SW, Carvalho CMB, Proukakis C, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). Detection of mosaic and population-level structural variants with Sniffles2. Nat Biotechnol. 2024 Jan 02. PMID: [38168980](//www.ncbi.nlm.nih.gov/pubmed/38168980); PMCID: [PMC11217151](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11217151).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38168980/citedby/) Fields:
+
+Bio Biotechnology
+
+  7. Majidian S, Agustinho DP, Chin CS, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), **Mahmoud M**. Genomic variant benchmark: if you cannot measure it, you cannot improve it. Genome Biol. 2023 10 05; 24(1):221. PMID: [37798733](//www.ncbi.nlm.nih.gov/pubmed/37798733); PMCID: [PMC10552390](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10552390).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37798733/citedby/) Fields:
+
+Gen Genetics
+
+  8. [Grochowski CM](https://profiles.viictr.org/profile/17411457), Bengtsson JD, Du H, Gandhi M, Lun MY, Mehaffey MG, Park K, H?ps W, Benito-Garagorri E, Hasenfeld P, Korbel JO, **Mahmoud M** , Paulin LF, Jhangiani SN, [Muzny DM](https://profiles.viictr.org/profile/268028), Fatih JM, [Gibbs RA](https://profiles.viictr.org/profile/269695), Pendleton M, Harrington E, Juul S, Lindstrand A, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), [Pehlivan D](https://profiles.viictr.org/profile/27841639), [Lupski JR](https://profiles.viictr.org/profile/268099), Carvalho CMB. Break-induced replication underlies formation of inverted triplications and generates unexpected diversity in haplotype structures. bioRxiv. 2023 Oct 03. PMID: [37873367](//www.ncbi.nlm.nih.gov/pubmed/37873367); PMCID: [PMC10592851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10592851).
+
+Citations:
+
+  9. Wojcik MH, Reuter CM, Marwaha S, **Mahmoud M** , Duyzend MH, Barseghyan H, Yuan B, Boone PM, Groopman EE, D?lot EC, Jain D, Sanchis-Juan A, Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium, Starita LM, Talkowski M, Montgomery SB, Bamshad MJ, Chong JX, Wheeler MT, Berger SI, O'Donnell-Luria A, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Miller DE. Beyond the exome: What's next in diagnostic testing for Mendelian conditions. Am J Hum Genet. 2023 08 03; 110(8):1229-1248. PMID: [37541186](//www.ncbi.nlm.nih.gov/pubmed/37541186); PMCID: [PMC10432150](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10432150).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37541186/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  10. Akagi K, Symer DE, **Mahmoud M** , Jiang B, Goodwin S, Wangsa D, Li Z, Xiao W, Ried T, Coombes KR, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Gillison ML, Dunn JD. Intratumoral Heterogeneity and Clonal Evolution Induced by HPV Integration. Cancer Discov. 2023 04 03; 13(4):910-927. PMID: [36715691](//www.ncbi.nlm.nih.gov/pubmed/36715691); PMCID: [PMC10070172](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10070172).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36715691/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  11. [Behera S](https://profiles.viictr.org/profile/33025811), LeFaive J, Orchard P, **Mahmoud M** , Paulin LF, Farek J, Soto DC, Parker SCJ, Smith AV, Dennis MY, Zook JM, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). FixItFelix: improving genomic analysis by fixing reference errors. Genome Biol. 2023 02 21; 24(1):31. PMID: [36810122](//www.ncbi.nlm.nih.gov/pubmed/36810122); PMCID: [PMC9942314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9942314).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36810122/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  12. Illarionova A, Levine K, Ryten M, Hardy J, UK Brain Expression Consortium (UKBEC), Markham A, Billingsley KJ, Ding J, Jerez PA, Grenn FP, Makarious MB, Moore A, Vitale D, Reed X, Hernandez D, Torkamani A, Chia R, Scholz SW, Traynor BJ, Dalgard CL, Ehrlich DJ, Tanaka T, Ferrucci L, Beach TG, Serrano GE, Quinn JP, Bubb VJ, Collins RL, Zhao X, Walker M, Pierce-Hoffman E, Brand H, Talkowski ME, Casey B, Cookson MR, Nalls MA, **Mahmoud M** , [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Blauwendraat C, Gibbs JR, Singleton AB. Genome-Wide Analysis of Structural Variants in Parkinson Disease. Ann Neurol. 2023 05; 93(5):1012-1022. PMID: [36695634](//www.ncbi.nlm.nih.gov/pubmed/36695634); PMCID: [PMC10192042](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10192042).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36695634/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  13. Wojcik MH, Reuter CM, Marwaha S, **Mahmoud M** , Duyzend MH, Barseghyan H, Yuan B, Boone PM, Groopman EE, D?lot EC, Jain D, Sanchis-Juan A, Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium, Starita LM, Talkowski M, Montgomery SB, Bamshad MJ, Chong JX, Wheeler MT, Berger SI, O'Donnell-Luria A, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Miller DE. Beyond the exome: what's next in diagnostic testing for Mendelian conditions. ArXiv. 2023 Jan 18. PMID: [36713248](//www.ncbi.nlm.nih.gov/pubmed/36713248); PMCID: [PMC9882576](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9882576).
+
+Citations:
+
+  14. Chander V, **Mahmoud M** , Hu J, [Dardas Z](https://profiles.viictr.org/profile/31168794), [Grochowski CM](https://profiles.viictr.org/profile/17411457), [Dawood M](https://profiles.viictr.org/profile/28999074), Khayat MM, Li H, Li S, Jhangiani S, Korchina V, Shen H, Weissenberger G, [Meng Q](https://profiles.viictr.org/profile/12583622), [Gingras MC](https://profiles.viictr.org/profile/266579), [Muzny DM](https://profiles.viictr.org/profile/268028), Doddapaneni H, [Posey JE](https://profiles.viictr.org/profile/6714377), [Lupski JR](https://profiles.viictr.org/profile/268099), [Sabo A](https://profiles.viictr.org/profile/269113), Murdock DR, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), [Gibbs RA](https://profiles.viictr.org/profile/269695). Long read sequencing and expression studies of AHDC1 deletions in Xia-Gibbs syndrome reveal a novel genetic regulatory mechanism. Hum Mutat. 2022 12; 43(12):2033-2053. PMID: [36054313](//www.ncbi.nlm.nih.gov/pubmed/36054313); PMCID: [PMC10167679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10167679).
+
+Citations:
+
+  15. Harris RA, Raveendran M, Lyfoung DT, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), **Mahmoud M** , Prall TM, Karl JA, Doddapaneni H, [Meng Q](https://profiles.viictr.org/profile/12583622), [Han Y](https://profiles.viictr.org/profile/269818), [Muzny D](https://profiles.viictr.org/profile/268028), Wiseman RW, O'Connor DH, Rogers J. Construction of a new chromosome-scale, long-read reference genome assembly for the Syrian hamster, Mesocricetus auratus. Gigascience. 2022 05 28; 11. PMID: [35640223](//www.ncbi.nlm.nih.gov/pubmed/35640223); PMCID: [PMC9155146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9155146).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35640223/citedby/) Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:AnimalsCells
+
+  16. Walker K, Kalra D, Lowdon R, Chen G, Molik D, Soto DC, Dabbaghie F, Khleifat AA, **Mahmoud M** , Paulin LF, Raza MS, Pfeifer SP, Agustinho DP, Aliyev E, Avdeyev P, [Barrozo ER](https://profiles.viictr.org/profile/32985133), [Behera S](https://profiles.viictr.org/profile/33025811), Billingsley K, Chong LC, Choubey D, De Coster W, Fu Y, Gener AR, Hefferon T, Henke DM, H?ps W, Illarionova A, [Jochum MD](https://profiles.viictr.org/profile/28999336), Jose M, Kesharwani RK, Kolora SRR, Kubica J, Lakra P, Lattimer D, Liew CS, Lo BW, Lo C, L?tter A, Majidian S, Mendem SK, Mondal R, Ohmiya H, Parvin N, Peralta C, Poon CL, Prabhakaran R, Saitou M, Sammi A, [Sanio P](https://profiles.viictr.org/profile/47100860), Sapoval N, Syed N, Treangen T, Wang G, Xu T, Yang J, Zhang S, [Zhou W](https://profiles.viictr.org/profile/12582713), [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Busby B. The third international hackathon for applying insights into large-scale genomic composition to use cases in a wide range of organisms. F1000Res. 2022; 11:530. PMID: [36262335](//www.ncbi.nlm.nih.gov/pubmed/36262335); PMCID: [PMC9557141](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9557141).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  17. Wagner J, Olson ND, Harris L, Khan Z, Farek J, **Mahmoud M** , Stankovic A, Kovacevic V, Yoo B, Miller N, Rosenfeld JA, Ni B, Zarate S, Kirsche M, Aganezov S, Schatz MC, Narzisi G, Byrska-Bishop M, Clarke W, Evani US, Markello C, Shafin K, Zhou X, Sidow A, Bansal V, Ebert P, Marschall T, Lansdorp P, Hanlon V, Mattsson CA, Barrio AM, Fiddes IT, Xiao C, Fungtammasan A, Chin CS, Wenger AM, Rowell WJ, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Carroll A, Salit M, Zook JM. Benchmarking challenging small variants with linked and long reads. Cell Genom. 2022 May; 2(5). PMID: [36452119](//www.ncbi.nlm.nih.gov/pubmed/36452119); PMCID: [PMC9706577](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9706577).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36452119/citedby/)
+
+  18. Liu Y, Kearney J, **Mahmoud M** , Kille B, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Treangen TJ. Rescuing low frequency variants within intra-host viral populations directly from Oxford Nanopore sequencing data. Nat Commun. 2022 03 14; 13(1):1321. PMID: [35288552](//www.ncbi.nlm.nih.gov/pubmed/35288552); PMCID: [PMC8921239](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8921239).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35288552/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  19. Menon VK, [Okhuysen PC](https://profiles.viictr.org/profile/12583928), Chappell CL, Mahmoud M, **Mahmoud M** , [Meng Q](https://profiles.viictr.org/profile/12583622), Doddapaneni H, Vee V, [Han Y](https://profiles.viictr.org/profile/269818), Salvi S, Bhamidipati S, Kottapalli K, Weissenberger G, Shen H, [Ross MC](https://profiles.viictr.org/profile/1826609), Hoffman KL, Cregeen SJ, [Muzny DM](https://profiles.viictr.org/profile/268028), Metcalf GA, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). Fully resolved assembly of Cryptosporidium parvum. Gigascience. 2022 02 15; 11. PMID: [35166336](//www.ncbi.nlm.nih.gov/pubmed/35166336); PMCID: [PMC8848321](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8848321).
+
+Citations:  Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:HumansAnimals
+
+  20. Wagner J, Olson ND, Harris L, McDaniel J, Cheng H, Fungtammasan A, Hwang YC, Gupta R, Wenger AM, Rowell WJ, Khan ZM, Farek J, Zhu Y, Pisupati A, **Mahmoud M** , Xiao C, Yoo B, Sahraeian SME, Miller DE, Narzisi G, Evani US, Clarke WE, Lee J, Mason CE, Lincoln SE, Miga KH, Ebbert MTW, Shumate A, Li H, Chin CS, Zook JM, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), J?spez D, Lorenzo-Salazar JM, Mu?oz-Barrera A, Rubio-Rodr?guez LA, Flores C. Curated variation benchmarks for challenging medically relevant autosomal genes. Nat Biotechnol. 2022 05; 40(5):672-680. PMID: [35132260](//www.ncbi.nlm.nih.gov/pubmed/35132260); PMCID: [PMC9117392](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9117392).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35132260/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:Humans
+
+  21. Foox J, Tighe SW, Nicolet CM, Zook JM, Byrska-Bishop M, Clarke WE, Khayat MM, **Mahmoud M** , Laaguiby PK, Herbert ZT, Warner D, Grills GS, Jen J, Levy S, Xiang J, Alonso A, Zhao X, Zhang W, Teng F, Zhao Y, Lu H, Schroth GP, Narzisi G, Farmerie W, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Baldwin DA, Mason CE. Author Correction: Performance assessment of DNA sequencing platforms in the ABRF Next-Generation Sequencing Study. Nat Biotechnol. 2021 Nov; 39(11):1466. PMID: [34635840](//www.ncbi.nlm.nih.gov/pubmed/34635840).
+
+Citations:  Fields:
+
+Bio Biotechnology
+
+  22. Fu Y, **Mahmoud M** , Muraliraman VV, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Treangen TJ. Vulcan: Improved long-read mapping and structural variant calling via dual-mode alignment. Gigascience. 2021 09 24; 10(9). PMID: [34561697](//www.ncbi.nlm.nih.gov/pubmed/34561697); PMCID: [PMC8463296](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8463296).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34561697/citedby/) Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:Humans
+
+  23. **Mahmoud M** , Doddapaneni H, Timp W, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). PRINCESS: comprehensive detection of haplotype resolved SNVs, SVs, and methylation. Genome Biol. 2021 09 14; 22(1):268. PMID: [34521442](//www.ncbi.nlm.nih.gov/pubmed/34521442); PMCID: [PMC8442460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8442460).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34521442/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  24. Foox J, Tighe SW, Nicolet CM, Zook JM, Byrska-Bishop M, Clarke WE, Khayat MM, **Mahmoud M** , Laaguiby PK, Herbert ZT, Warner D, Grills GS, Jen J, Levy S, Xiang J, Alonso A, Zhao X, Zhang W, Teng F, Zhao Y, Lu H, Schroth GP, Narzisi G, Farmerie W, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Baldwin DA, Mason CE. Performance assessment of DNA sequencing platforms in the ABRF Next-Generation Sequencing Study. Nat Biotechnol. 2021 09; 39(9):1129-1140. PMID: [34504351](//www.ncbi.nlm.nih.gov/pubmed/34504351); PMCID: [PMC8985210](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8985210).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34504351/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:Humans
+
+  25. Liu Y, Kearney J, **Mahmoud M** , Kille B, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Treangen TJ. Rescuing Low Frequency Variants within Intra-Host Viral Populations directly from Oxford Nanopore sequencing data. bioRxiv. 2021 Sep 06. PMID: [34518837](//www.ncbi.nlm.nih.gov/pubmed/34518837); PMCID: [PMC8437309](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8437309).
+
+Citations:
+
+  26. Sapoval N, **Mahmoud M** , [Jochum MD](https://profiles.viictr.org/profile/28999336), Liu Y, Elworth RAL, Wang Q, Albin D, Ogilvie HA, Lee MD, Villapol S, Hernandez KM, Maljkovic Berry I, Foox J, Beheshti A, Ternus K, Aagaard KM, Posada D, Mason CE, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Treangen TJ. SARS-CoV-2 genomic diversity and the implications for qRT-PCR diagnostics and transmission. Genome Res. 2021 04; 31(4):635-644. PMID: [33602693](//www.ncbi.nlm.nih.gov/pubmed/33602693); PMCID: [PMC8015855](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8015855).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33602693/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  27. Zarate S, Carroll A, **Mahmoud M** , Krasheninina O, Jun G, Salerno WJ, Schatz MC, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). Parliament2: Accurate structural variant calling at scale. Gigascience. 2020 12 21; 9(12). PMID: [33347570](//www.ncbi.nlm.nih.gov/pubmed/33347570); PMCID: [PMC7751401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7751401).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33347570/citedby/) Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:Humans
+
+  28. Garg S, Fungtammasan A, Carroll A, Chou M, Schmitt A, Zhou X, Mac S, Peluso P, Hatas E, Ghurye J, Maguire J, **Mahmoud M** , Cheng H, Heller D, Zook JM, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Aach J, Chin CS, Church GM, Li H, Moemke T, Marschall T. Chromosome-scale, haplotype-resolved assembly of human genomes. Nat Biotechnol. 2021 03; 39(3):309-312. PMID: [33288905](//www.ncbi.nlm.nih.gov/pubmed/33288905); PMCID: [PMC7954703](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7954703).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33288905/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:HumansCells
+
+  29. Sapoval N, **Mahmoud M** , [Jochum MD](https://profiles.viictr.org/profile/28999336), Liu Y, Elworth RAL, Wang Q, Albin D, Ogilvie H, Lee MD, Villapol S, Hernandez KM, Berry IM, Foox J, Beheshti A, Ternus K, Aagaard KM, Posada D, Mason CE, [Sedlazeck F](https://profiles.viictr.org/profile/24845007), Treangen TJ. Hidden genomic diversity of SARS-CoV-2: implications for qRT-PCR diagnostics and transmission. bioRxiv. 2020 Jul 02. PMID: [32637955](//www.ncbi.nlm.nih.gov/pubmed/32637955); PMCID: [PMC7337385](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7337385).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32637955/citedby/)
+
+  30. **Mahmoud M** , Gracz-Bernaciak J, Zywicki M, Karlowski W, Twardowski T, Tyczewska A. Identification of Structural Variants in Two Novel Genomes of Maize Inbred Lines Possibly Related to Glyphosate Tolerance. Plants (Basel). 2020 Apr 18; 9(4). PMID: [32325671](//www.ncbi.nlm.nih.gov/pubmed/32325671); PMCID: [PMC7238182](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7238182).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32325671/citedby/)
+
+  31. Zascavage RR, Hall CL, Thorson K, **Mahmoud M** , [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Planz JV. Approaches to Whole Mitochondrial Genome Sequencing on the Oxford Nanopore MinION. Curr Protoc Hum Genet. 2019 12; 104(1):e94. PMID: [31743587](//www.ncbi.nlm.nih.gov/pubmed/31743587).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31743587/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  32. **Mahmoud M** , Gobet N, Mounier N, Dessimoz C, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Cruz-D?valos DI. Structural variant calling: the long and the short of it. Genome Biol. 2019 11 20; 20(1):246. PMID: [31747936](//www.ncbi.nlm.nih.gov/pubmed/31747936); PMCID: [PMC6868818](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6868818).
+
+Citations:
+[99](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31747936/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimals
+
+  33. Llamas B, Narzisi G, Schneider V, Audano PA, Biederstedt E, Blauvelt L, Bradbury P, Chang X, Chin CS, Fungtammasan A, Clarke WE, Cleary A, Eizenga J, Sibbesen JA, Markello CJ, Garrison E, Garg S, Hickey G, Lazo GR, Lin MF, **Mahmoud M** , Minkin I, Monlong J, Musunuri RL, Sagayaradj S, Novak AM, Regier A, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Siren J, Souilmi Y, Wagner J, Wrightsman T, Yokoyama TT, Zeng Q, Zook JM, Paten B, Busby B, Ebler J, Marschall T, Rautiainen M. A strategy for building and using a human reference pangenome. F1000Res. 2019; 8:1751. PMID: [34386196](//www.ncbi.nlm.nih.gov/pubmed/34386196); PMCID: [PMC8350888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8350888).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34386196/citedby/) Fields:
+
+Sci Science
+
+  34. Wenger AM, Peluso P, Rowell WJ, Chang PC, Hall RJ, Concepcion GT, Fungtammasan A, Kolesnikov A, Olson ND, Alonge M, **Mahmoud M** , Qian Y, Chin CS, Phillippy AM, Schatz MC, Myers G, DePristo MA, Ruan J, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Zook JM, Li H, Koren S, Carroll A, Rank DR, Hunkapiller MW, Ebler J, T?pfer A, Marschall T. Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome. Nat Biotechnol. 2019 10; 37(10):1155-1162. PMID: [31406327](//www.ncbi.nlm.nih.gov/pubmed/31406327); PMCID: [PMC6776680](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6776680).
+
+Citations:
+[294](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31406327/citedby/)
+Fields:
+
+Bio Biotechnology
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 34 publications over 6 distinct years, with a maximum of 7
+publications in 2022 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,57,86,100,100,86&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2019| 4  
+2020| 4  
+2021| 6  
+2022| 7  
+2023| 7  
+2024| 6  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MAHMOUD's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (65)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [High-Throughput Nucleotide Sequencing](https://profiles.viictr.org/profile/27546256)
+  * [Genomics](https://profiles.viictr.org/profile/247984)
+  * [Sequence Analysis, DNA](https://profiles.viictr.org/profile/243386)
+  * [Benchmarking](https://profiles.viictr.org/profile/240246)
+  * [Genome, Human](https://profiles.viictr.org/profile/250202)
+
+[Explore](https://profiles.viictr.org/profile/24845337/198)
+
+_
+
+Co-Authors (26)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SEDLAZECK, FRITZ](https://profiles.viictr.org/profile/24845007)
+  * [GROCHOWSKI, CHRISTOPHER](https://profiles.viictr.org/profile/17411457)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [MUZNY, DONNA](https://profiles.viictr.org/profile/268028)
+  * [MENG, QING H](https://profiles.viictr.org/profile/12583622)
+
+[Explore](https://profiles.viictr.org/profile/24845337/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [SEDLAZECK, FRITZ](https://profiles.viictr.org/profile/24845007)
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+
+[Explore](https://profiles.viictr.org/profile/24845337/476)
+
+_
+

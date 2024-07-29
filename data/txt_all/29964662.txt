@@ -1,0 +1,832 @@
+## ANG LI
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F6U3r0nOcqv3RYKj5X%2fX&rnd=51baefff-2bda-4cdb-8c5c-d191daa57dad)  
+ORCID ![ORCID
+Icon](https://profiles.viictr.org/Framework/Images/orcid_16x16\(1\).gif)|
+[0000-0002-8455-2309](http://sandbox.orcid.org/0000-0002-8455-2309)
+[![Additional
+info](https://profiles.viictr.org/Framework/Images/info.png)](https://profiles.viictr.org/about/default.aspx?tab=orcid)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=29964662)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=29964662&cachekey=bd845167-e62d-4be6-a5cd-0172ae9a5d13)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Biography  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+education and training
+
+Northwestern University, Evanston, IL| BA| 06/2007| Biological Sciences  
+---|---|---|---  
+Baylor College of Medicine, Houston, TX| MD| 05/2012| Medicine  
+Massachusetts General Hospital, Boston, MA| Residency| 06/2015| Internal
+Medicine  
+University of Washington/Fred Hutchinson Cancer Research Center, Seattle, WA|
+Fellowship| 06/2018| Hematology & Oncology  
+University of Washington, Seattle, WA| MS| 03/2019| Epidemiology  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+awards and honors
+
+2007| Phi Beta Kappa Honor Society Centennial Prize  
+---|---  
+2007| Fulbright Research Scholar in Science and Public Health in Spain  
+2012| Gold Humanism Honor Society (GHHS)  
+2012| Alpha Omega Alpha (AOA) Honor Society  
+2014| ASH Hematology Opportunities for Next Generation of Research Scientists
+(HONORS) Award  
+2017| ASH Clinical Research Training Institute (CRTI)  
+2018| American Society of Hematology (ASH) Abstract Achievement Award  
+2019| Hemostasis & Thrombosis Research Society (HTRS) Abstract Achievement
+Award  
+2019| UW Department of Medicine Chair of Medicine Scholars Award  
+2020| ClinGen Variant Curation Expert Panel (VCEP) Member  
+2020| Research and Practice in Thrombosis and Haemostasis (RPTH) Editorial
+Board Member  
+2022| Hematology the ASH Education Program Special Section Editor  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+overview
+
+Dr. Li is a non-malignant hematologist who specializes in the care of patients
+with congenital and acquired coagulation disorders. He is a physician
+scientist who focuses on the prevention and treatment of venous
+thromboembolism (VTE) and thrombotic microangiopathy (TMA) in cancer patients
+receiving systemic therapy or undergoing hematopoietic cell transplantation
+(HCT). He is experienced in conducting clinical epidemiology and health
+services research using "big data", ranging from administrative claims
+database from public and private payers, to electronic health records (EHR)
+from multiple US hospital systems. He has achieved linkage of
+clinical/research data among the hospital/regional cancer registry, EHR data
+warehouse, biobanking repository, and GWAS databases. Dr. Li's group
+collaborates extensively with researchers in the fields of clinical
+epidemiology, health economics, clinical informatics, statistical genetics,
+and translational science, with an ultimate goal to optimally utilize big data
+arising from EHR toward risk factor/outcome association and prediction for
+cancer patients in the longitudinal setting.  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+keywords
+
+  * [Venous Thromboembolism](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Venous Thromboembolism&exactphrase=false)
+  * [Thrombosis, Venous](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Thrombosis, Venous&exactphrase=false)
+  * [Thrombotic Microangiopathy](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Thrombotic Microangiopathy&exactphrase=false)
+  * [Thrombotic Thrombocytopenic Purpura](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Thrombotic Thrombocytopenic Purpura&exactphrase=false)
+  * [Factor Xa Inhibitors](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Factor Xa Inhibitors&exactphrase=false)
+  * [Neoplasm](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Neoplasm&exactphrase=false)
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+ASH Scholar Award in Clinical Research (Ang Li)Jul 1, 2024 - Jun 30,
+2027American Society of Hematology  
+Assessing Bleeding and Thrombosis Risk in People with Cancer using Clinical
+Informatics  
+Role Description: The major goals are to create a validated phenotype for
+clinically relevant bleeding using natural language processing incorporating
+large language models, and to derive an optimal risk prediction model for
+bleeding using available clinical and biomarker data.  
+Role: PI  
+---  
+  
+* * *  
+  
+3OT2OD032581-01S1 (RF00280-SUB00302) (Vishwanatha, Jamboor)Sep 17, 2023 - Sep
+16, 2025NIH/AIM-AHEAD  
+Utilizing ethical artificial intelligence/machine learning (AI/ML) to assess
+and address disparity in underserved cancer patients across multiple
+healthcare systems with diverse social determinants of health  
+Role Description: The major goals are to develop AI tools incorporating both
+ML-based natural language processing (NLP) and rule-based algorithms to create
+validated computable phenotypes for real-world data in heterogenous cancer
+patients enriched for racial/ethnic minorities, build optimized clinical risk
+prediction models for heterogeneous cancer patients that follow algorithmic
+fairness principles to create actionable knowledge, and test patient centered
+clinical decision support (PC-CDS) EHR tools.  
+Role: Site MPI  
+  
+* * *  
+  
+3OT2-OD032581 01S1 (RF00280-SUB00152) (Vishwanatha, Jamboor)Sep 17, 2022 - Sep
+16, 2023NIH/AIM-AHEAD  
+Building AI/ML algorithm to predict and prevent cancer treatment complications
+in underserved and minority patients in a metropolitan catchment area  
+Role Description: The goal of this study is to use a cancer registry-linked
+electronic health record (EHR) database to test AI/ML algorithms in predicting
+cancer therapy related complications in ~18,000 underserved and minority
+patients with newly diagnosed cancer.  
+Role: Site MPI  
+  
+* * *  
+  
+K23HL159271 (Ang Li)Apr 1, 2022 - Mar 31, 2027NIH/NHLBI  
+Epidemiology and Biomarkers in Transplant Associated Thrombotic
+Microangiopathy (TA-TMA): A Prospective Validation Cohort Study  
+Role Description: The goals are to prospectively assess the incidence of TA-
+TMA in a large pediatric cohort and to test a dynamic risk prediction tool
+that incorporates validated clinical and laboratory biomarkers in immune,
+endothelial, and complement activation pathways.  
+Role: PI  
+  
+* * *  
+  
+6NU38OT000280-03-02 (Neil Zakai)Sep 1, 2020 - Jul 31, 2022CDC  
+Understanding risk factors and burden of COVID-19 related thrombosis and
+bleeding complications  
+Role Description: The goals are to determine the incidence of thrombosis and
+bleeding and to assess benefit/harm of therapeutic anticoagulation among
+hospitalized patients with COVID-19 across 9 different hospital systems with
+over 10,000 patients.  
+Role: Site PI  
+  
+* * *  
+  
+RR190104 (Ang Li)Aug 31, 2019 - Aug 30, 2024Cancer Prevention & Research
+Institute of Texas (CPRIT)  
+Role Description: The goal of this project is to study the epidemiology and
+prevention of cancer-associated thrombosis and to determine the patient and
+societal impact of a thromboprophylaxis program.  
+Role: PI  
+  
+* * *  
+  
+Mentored Research Award (Ang Li)Jan 1, 2019 - Dec 31, 2020Hemostasis and
+Thrombosis Research Society (HTRS)  
+Role Description: The goal of this project is to study the incidence and risk
+factors for patients with transplant-associated thrombotic microangiopathy
+using the institutional database.  
+Role: PI  
+  
+* * *  
+  
+NHF-Shire Clinical Fellowship (Ang Li)Jan 1, 2019 - Dec 31, 2019National
+Hemophilia Foundation (NHF)  
+Role Description: The goal of this grant is to support the dedicated clinical
+and research training in thrombosis and hemostasis.  
+  
+* * *  
+  
+Young Investigator Award (Ang Li)Jan 1, 2019 - Dec 31, 2019Conquer Cancer
+Foundation (CCF)  
+Role Description: The goal of this project is to study the incidence of and
+risk factors for venous thromboembolism in high-risk multiple myeloma patients
+by using the SEER-Medicare database.  
+Role: PI  
+  
+* * *  
+  
+T32HL007093 (ABKOWITZ, JANIS L)Jul 1, 1975 - Jun 30, 2020NIH  
+HEMATOLOGY TRAINING  
+Role: Research Fellow  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Kim RB, Zhou E, Swinnerton KN, La J, [Ma S](https://profiles.viictr.org/profile/39339169), Ranjan M, Do NV, Brophy MT, Fillmore NR, **Li A**. Racial and Ethnic Disparity for Cancer Mortality in General and Single-Payer Healthcare Systems in the United States. J Racial Ethn Health Disparities. 2024 Jul 02. PMID: [38955957](//www.ncbi.nlm.nih.gov/pubmed/38955957).
+
+Citations:  Fields:
+
+Epi EpidemiologyPub Public HealthSoc Social Sciences
+
+  2. [Ma S](https://profiles.viictr.org/profile/39339169), La J, Swinnerton KN, Guffey D, Bandyo R, De Las Pozas G, Hanzelka K, Xiao X, Rojas-Hernandez CM, [Amos CI](https://profiles.viictr.org/profile/23372697), Chitalia V, Ravid K, Merriman KW, Flowers CR, Fillmore N, **Li A**. Thrombosis risk prediction in lymphoma patients: A multi-institutional, retrospective model development and validation study. Am J Hematol. 2024 Jul; 99(7):1230-1239. PMID: [38654461](//www.ncbi.nlm.nih.gov/pubmed/38654461); PMCID: [PMC11166507](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11166507).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  3. Lee M, [Jiang JY](https://profiles.viictr.org/profile/49466804), Nze C, Guffey D, Kim R, [Oluyomi AO](https://profiles.viictr.org/profile/21983659), Rosales O, Bandyo R, [Miller-Chism CN](https://profiles.viictr.org/profile/3494080), [Udden MM](https://profiles.viictr.org/profile/266554), Mims MP, [Ma H](https://profiles.viictr.org/profile/18883253), Rivero GA, [Diamond A](https://profiles.viictr.org/profile/31721883), [Teegavarapu PS](https://profiles.viictr.org/profile/23478762), Flowers CR, **Li A** , Alam ST. HSR24-130: Real-World Outcomes in Patients With Burkitt Lymphoma in a Safety-Net Health System. J Natl Compr Canc Netw. 2024 Apr 05; 22(2.5). PMID: [38579838](//www.ncbi.nlm.nih.gov/pubmed/38579838).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  4. Shang H, [Jiang JY](https://profiles.viictr.org/profile/49466804), Guffey D, Novoa F, Bandyo R, [Ma S](https://profiles.viictr.org/profile/39339169), **Li A**. Natural history of cancer-associated splanchnic vein thrombosis. J Thromb Haemost. 2024 May; 22(5):1421-1432. PMID: [38309433](//www.ncbi.nlm.nih.gov/pubmed/38309433); PMCID: [PMC11138146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11138146).
+
+Citations:  Fields:
+
+Hem Hematology
+
+  5. Zakai NA, Wilkinson K, Sparks AD, Packer RT, Koh I, Roetker NS, Repp AB, Thomas R, Holmes CE, Cushman M, Plante TB, Al-Samkari H, Pishko AM, Wood WA, Masias C, Gangaraju R, **Li A** , Garcia D, Wiggins KL, Schaefer JK, Hooper C, Smith NL, McClure LA. Development and validation of a risk model for hospital-acquired venous thrombosis: the Medical Inpatients Thrombosis and Hemostasis study. J Thromb Haemost. 2024 Feb; 22(2):503-515. PMID: [37918635](//www.ncbi.nlm.nih.gov/pubmed/37918635); PMCID: [PMC10872863](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10872863).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  6. [Ma S](https://profiles.viictr.org/profile/39339169), [Bhar S](https://profiles.viictr.org/profile/3009970), Guffey D, Kim RB, Jamil M, [Amos CI](https://profiles.viictr.org/profile/23372697), Lee SJ, Hingorani SR, [Sartain SE](https://profiles.viictr.org/profile/3009824), **Li A**. Prospective Clinical and Biomarker Validation of the American Society for Transplantation and Cellular Therapy Consensus Definition for Transplantation-Associated Thrombotic Microangiopathy. Transplant Cell Ther. 2023 Nov; 29(11):685.e1-685.e7. PMID: [37597686](//www.ncbi.nlm.nih.gov/pubmed/37597686); PMCID: [PMC11037887](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11037887).
+
+Citations:  Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:Humans
+
+  7. Avery J, Guffey D, Ma S, Basom R, Lee SJ, Garcia D, Rojas Hernandez CM, **Li A** , Martens KL. Risks factors and outcomes for isolated catheter-related deep venous thrombosis in patients undergoing allogeneic hematopoietic stem cell transplantation. Thromb Res. 2023 09; 229:1-6. PMID: [37356171](//www.ncbi.nlm.nih.gov/pubmed/37356171); PMCID: [PMC10527315](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10527315).
+
+Citations:  Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  8. Martens KL, **Li A** , La J, May SB, Swinnerton KN, Tosi H, Elbers DC, Do NV, Brophy MT, Gaziano JM, Lotfollahzadeh S, Chitalia V, Ravid K, Fillmore NR. Epidemiology of Cancer-Associated Venous Thromboembolism in Patients With Solid and Hematologic Neoplasms in the Veterans Affairs Health Care System. JAMA Netw Open. 2023 06 01; 6(6):e2317945. PMID: [37306999](//www.ncbi.nlm.nih.gov/pubmed/37306999); PMCID: [PMC10261992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10261992).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  9. **Li A** , May SB, La J, Martens KL, [Amos CI](https://profiles.viictr.org/profile/23372697), Flowers CR, Do NV, Brophy MT, Chitalia V, Ravid K, Gaziano JM, Fillmore NR. Venous thromboembolism risk in cancer patients receiving first-line immune checkpoint inhibitor versus chemotherapy. Am J Hematol. 2023 08; 98(8):1214-1222. PMID: [37161855](//www.ncbi.nlm.nih.gov/pubmed/37161855); PMCID: [PMC10569448](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10569448).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  10. Thomas RM, Wilkinson K, Koh I, **Li A** , Warren JSA, Roetker NS, Smith NL, Holmes CE, Plante TB, Repp AB, Cushman M, Zakai NA. Development of a computable phenotype using electronic health records for venous thromboembolism in medical inpatients: the Medical Inpatient Thrombosis and Hemostasis study. Res Pract Thromb Haemost. 2023 May; 7(4):100162. PMID: [37342252](//www.ncbi.nlm.nih.gov/pubmed/37342252); PMCID: [PMC10277582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10277582).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37342252/citedby/)
+
+  11. **Li A** , De Las Pozas G, Andersen CR, Nze CC, Toale KM, Milner EM, Fillmore NR, Chiao EY, [Rojas Hernandez C](https://profiles.viictr.org/profile/17440088), [Kroll MH](https://profiles.viictr.org/profile/12583132), Merriman KW, Flowers CR. External validation of a novel electronic risk score for cancer-associated thrombosis in a comprehensive cancer center. Am J Hematol. 2023 07; 98(7):1052-1057. PMID: [37067102](//www.ncbi.nlm.nih.gov/pubmed/37067102); PMCID: [PMC10330124](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10330124).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  12. Zhang Z, Hong W, Wu Q, Tsavachidis S, Li JR, [Amos CI](https://profiles.viictr.org/profile/23372697), Cheng C, [Sartain SE](https://profiles.viictr.org/profile/3009824), [Afshar-Kharghan V](https://profiles.viictr.org/profile/12583895), Dong JF, Bhatraju P, Martin PJ, Makar RS, Bendapudi PK, **Li A**. Pathway-driven rare germline variants associated with transplant-associated thrombotic microangiopathy (TA-TMA). Thromb Res. 2023 05; 225:39-46. PMID: [36948020](//www.ncbi.nlm.nih.gov/pubmed/36948020); PMCID: [PMC10147584](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10147584).
+
+Citations:  Fields:
+
+Vas Vascular Diseases
+
+Translation:HumansCells
+
+  13. **Li A** , La J, May SB, Guffey D, da Costa WL, [Amos CI](https://profiles.viictr.org/profile/23372697), Bandyo R, Milner EM, Kurian KM, Chen DCR, Do NV, Granada C, Riaz N, Brophy MT, Chitalia V, Gaziano JM, Garcia DA, Carrier M, Flowers CR, Zakai NA, Fillmore NR. Derivation and Validation of a Clinical Risk Assessment Model for Cancer-Associated Thrombosis in Two Unique US Health Care Systems. J Clin Oncol. 2023 06 01; 41(16):2926-2938. PMID: [36626707](//www.ncbi.nlm.nih.gov/pubmed/36626707); PMCID: [PMC10431461](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10431461).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36626707/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  14. Dima D, **Li A** , Granat LM, Dhillon P, Chamseddine F, Yalamanchali A, Mirzai S, Wei W, Samaras CJ, Valent J, Anwer F, Khouri J. External validation of the SAVED score for venous thromboembolism risk stratification in patients with multiple myeloma receiving immunomodulatory drugs. Br J Haematol. 2023 04; 201(2):280-284. PMID: [36604838](//www.ncbi.nlm.nih.gov/pubmed/36604838).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36604838/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  15. da Costa WL, Guffey D, [Oluyomi A](https://profiles.viictr.org/profile/21983659), Bandyo R, Rosales O, Wallace CD, Granada C, Riaz N, Fitzgerald M, Garcia DA, Carrier M, [Amos CI](https://profiles.viictr.org/profile/23372697), Flowers CR, **Li A**. Patterns of venous thromboembolism risk, treatment, and outcomes among patients with cancer from uninsured and vulnerable populations. Am J Hematol. 2022 08; 97(8):1044-1054. PMID: [35638475](//www.ncbi.nlm.nih.gov/pubmed/35638475).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  16. **Li A** , da Costa WL, Guffey D, Milner EM, Allam AK, Kurian KM, Novoa FJ, Poche MD, Bandyo R, Granada C, Wallace CD, Zakai NA, [Amos CI](https://profiles.viictr.org/profile/23372697). Developing and optimizing a computable phenotype for incident venous thromboembolism in a longitudinal cohort of patients with cancer. Res Pract Thromb Haemost. 2022 May; 6(4):e12733. PMID: [35647478](//www.ncbi.nlm.nih.gov/pubmed/35647478); PMCID: [PMC9130880](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9130880).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35647478/citedby/)
+
+  17. **Li A** , Martens KL, Nguyen D, Basom R, [Rondon G](https://profiles.viictr.org/profile/12583296), Jin S, Young E, [Amos CI](https://profiles.viictr.org/profile/23372697), Lee SJ, Davis C, Garcia DA, [Champlin R](https://profiles.viictr.org/profile/12582508), [Shpall E](https://profiles.viictr.org/profile/12582631), [Kebriaei P](https://profiles.viictr.org/profile/12582909), [Rojas Hernandez C](https://profiles.viictr.org/profile/17440088). External validation of the HIGH-2-LOW model: A predictive score for venous thromboembolism after allogeneic transplant. Am J Hematol. 2022 06 01; 97(6):740-748. PMID: [35266218](//www.ncbi.nlm.nih.gov/pubmed/35266218).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  18. Van Benschoten V, Roy C, Gupta R, Ouellette L, Hingorani S, **Li A**. Incidence and Risk Factors of Transplantation-Associated Thrombotic Microangiopathy: A Systematic Review and Meta-Analysis. Transplant Cell Ther. 2022 05; 28(5):266.e1-266.e8. PMID: [35042011](//www.ncbi.nlm.nih.gov/pubmed/35042011).
+
+Citations:  Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:Humans
+
+  19. Hong W, **Li A** , [Liu Y](https://profiles.viictr.org/profile/268526), Xiao X, Christiani DC, Hung RJ, McKay J, Field J, [Amos CI](https://profiles.viictr.org/profile/23372697), Cheng C. Clonal Hematopoiesis Mutations in Patients with Lung Cancer Are Associated with Lung Cancer Risk Factors. Cancer Res. 2022 01 15; 82(2):199-209. PMID: [34815255](//www.ncbi.nlm.nih.gov/pubmed/34815255); PMCID: [PMC8815061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8815061).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  20. **Li A** , Kuderer NM, Hsu CY, Shyr Y, Warner JL, [Shah DP](https://profiles.viictr.org/profile/17439980), Kumar V, Shah S, Kulkarni AA, Fu J, Gulati S, Zon RL, Li M, Desai A, Egan PC, Bakouny Z, Kc D, Hwang C, Akpan IJ, McKay RR, Girard J, Schmidt AL, Halmos B, Thompson MA, Patel JM, Pennell NA, Peters S, Elshoury A, de Lima Lopes G, Stover DG, Grivas P, Rini BI, Painter CA, Mishra S, Connors JM, Lyman GH, Rosovsky RP, CCC19 consortium. The CoVID-TE risk assessment model for venous thromboembolism in hospitalized patients with cancer and COVID-19. J Thromb Haemost. 2021 10; 19(10):2522-2532. PMID: [34260813](//www.ncbi.nlm.nih.gov/pubmed/34260813); PMCID: [PMC8420489](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8420489).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34260813/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  21. Chen N, [Jotwani A](https://profiles.viictr.org/profile/23478807), **Li A**. Care Delivery in Cancer Patients With Asymptomatic COVID-19 Infection in a Tertiary, Safety-Net Hospital in Houston, Texas. Am J Clin Oncol. 2021 08 01; 44(8):409-412. PMID: [34107500](//www.ncbi.nlm.nih.gov/pubmed/34107500); PMCID: [PMC8297475](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8297475).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  22. **Li A** , Gupta R, [Amos CI](https://profiles.viictr.org/profile/23372697), Davis C, Pao E, Lee SJ, Hingorani SR. Thrombotic Microangiopathy Increases the Risk of Chronic Kidney Disease but Not Overall Mortality in Long-term Transplant Survivors. Transplant Cell Ther. 2021 10; 27(10):864.e1-864.e5. PMID: [34217847](//www.ncbi.nlm.nih.gov/pubmed/34217847).
+
+Citations:  Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:Humans
+
+  23. Martens KL, [Amos CI](https://profiles.viictr.org/profile/23372697), Hernandez CR, [Kebriaei P](https://profiles.viictr.org/profile/12582909), da Costa WL, Basom R, Davis C, Kesten M, Carrier M, Garcia DA, Lee SJ, **Li A**. Impact of anticoagulation on recurrent thrombosis and bleeding after hematopoietic cell transplantation. Am J Hematol. 2021 09 01; 96(9):1137-1146. PMID: [34097772](//www.ncbi.nlm.nih.gov/pubmed/34097772).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34097772/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansPHPublic Health
+
+  24. [Razjouyan J](https://profiles.viictr.org/profile/15619488), Helmer DA, **Li A** , Naik AD, [Amos CI](https://profiles.viictr.org/profile/23372697), [Bandi V](https://profiles.viictr.org/profile/266259), [Sharafkhaneh A](https://profiles.viictr.org/profile/267036). Differences in COVID-19-Related Testing and Healthcare Utilization by Race and Ethnicity in the Veterans Health Administration. J Racial Ethn Health Disparities. 2022 Apr; 9(2):519-526. PMID: [33694124](//www.ncbi.nlm.nih.gov/pubmed/33694124); PMCID: [PMC7945621](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7945621).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33694124/citedby/) Fields:
+
+Epi EpidemiologyPub Public HealthSoc Social Sciences
+
+Translation:HumansCells
+
+  25. Lindquist I, Olson SR, **Li A** , Al-Samkari H, Jou JH, McCarty OJT, Shatzel JJ. The efficacy and safety of thrombopoietin receptor agonists in patients with chronic liver disease undergoing elective procedures: a systematic review and meta-analysis. Platelets. 2022 Jan 02; 33(1):66-72. PMID: [33459573](//www.ncbi.nlm.nih.gov/pubmed/33459573); PMCID: [PMC8286270](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8286270).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33459573/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  26. Martens KL, da Costa WL, [Amos CI](https://profiles.viictr.org/profile/23372697), Davis C, Kesten M, Lee SJ, Zakai NA, Garcia DA, **Li A**. HIGH-2-LOW risk model to predict venous thromboembolism in allogeneic transplant patients after platelet engraftment. Blood Adv. 2021 01 12; 5(1):167-175. PMID: [33570631](//www.ncbi.nlm.nih.gov/pubmed/33570631); PMCID: [PMC7805312](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7805312).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33570631/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  27. Khaki AR, **Li A** , Diamantopoulos LN, Miller NJ, Carril-Ajuria L, Castellano D, De Kouchkovsky I, Koshkin V, Park J, Alva A, Bilen MA, Stewart T, Santos V, Agarwal N, Jain J, Zakharia Y, Devitt M, Nelson A, Hoimes CJ, Shreck E, Gartrell BA, Sankin A, Tripathi A, Zakopoulou R, Bamias A, Rodriguez-Vida A, Drakaki A, Liu S, Kumar V, Lythgoe MP, Pinato DJ, Murgic J, Joshi M, Isaacsson Velho P, Hahn N, Alonso Buznego L, Duran I, Moses M, Barata P, Galsky MD, Sonpavde G, Yu EY, Shankaran V, Lyman GH, Grivas P, Morales-Barrera R, Fr?be A. A New Prognostic Model in Patients with Advanced Urothelial Carcinoma Treated with First-line Immune Checkpoint Inhibitors. Eur Urol Oncol. 2021 06; 4(3):464-472. PMID: [33423945](//www.ncbi.nlm.nih.gov/pubmed/33423945); PMCID: [PMC8169524](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8169524).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33423945/citedby/) Fields:
+
+Neo NeoplasmsUro Urology
+
+Translation:Humans
+
+  28. Desai A, Gupta R, Advani S, Ouellette L, Kuderer NM, Lyman GH, **Li A**. Mortality in hospitalized patients with cancer and coronavirus disease 2019: A systematic review and meta-analysis of cohort studies. Cancer. 2021 05 01; 127(9):1459-1468. PMID: [33378122](//www.ncbi.nlm.nih.gov/pubmed/33378122).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33378122/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCellsPHPublic Health
+
+  29. **Li A** , Bhatraju PK, Chen J, Chung DW, Hilton T, Houck K, Pao E, Weiss NS, Lee SJ, Davis C, Schmidt MJ, Lopez JA, Liles WC, Dong JF, Hingorani SR. Prognostic Biomarkers for Thrombotic Microangiopathy after Acute Graft-versus-Host Disease: A Nested Case-Control Study. Transplant Cell Ther. 2021 04; 27(4):308.e1-308.e8. PMID: [33836868](//www.ncbi.nlm.nih.gov/pubmed/33836868); PMCID: [PMC10122917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10122917).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33836868/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:Humans
+
+  30. **Li A** , Kremer Hovinga JA. Laboratory surveillance of immune-mediated thrombotic thrombocytopenic purpura. Hematology Am Soc Hematol Educ Program. 2020 12 04; 2020(1):82-84. PMID: [33275690](//www.ncbi.nlm.nih.gov/pubmed/33275690); PMCID: [PMC7727562](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7727562).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  31. Schoen MW, Carson KR, Luo S, Gage BF, **Li A** , Afzal A, Sanfilippo KM. Venous thromboembolism in multiple myeloma is associated with increased mortality. Res Pract Thromb Haemost. 2020 Oct; 4(7):1203-1210. PMID: [33134785](//www.ncbi.nlm.nih.gov/pubmed/33134785); PMCID: [PMC7590313](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7590313).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33134785/citedby/)
+
+  32. Epperla N, **Li A** , Logan B, Fretham C, Chhabra S, Aljurf M, Chee L, Copelan E, Hematti P, Lazarus HM, Litzow M, Nishihori T, Olsson RF, Prestidge T, Saber W, Wirk B, Yared JA, Loren A, Pasquini M, Freytes CO. Incidence, Risk Factors for and Outcomes of Transplant-Associated Thrombotic Microangiopathy. Br J Haematol. 2020 06; 189(6):1171-1181. PMID: [32124435](//www.ncbi.nlm.nih.gov/pubmed/32124435); PMCID: [PMC7726817](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7726817).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32124435/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCTClinical Trials
+
+  33. Colling M, Sun L, Upadhyay V, Ryu J, **Li A** , Uhl L, Kaufman RM, Stowell CP, Dzik WH, Makar RS, Bendapudi PK. Deaths and complications associated with the management of acute immune thrombotic thrombocytopenic purpura. Transfusion. 2020 04; 60(4):841-846. PMID: [32080877](//www.ncbi.nlm.nih.gov/pubmed/32080877).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32080877/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  34. **Li A** , Carlson JJ, Kuderer NM, Schaefer JK, Li S, Garcia DA, Khorana AA, Carrier M, Lyman GH. Cost-effectiveness analysis of low-dose direct oral anticoagulant (DOAC) for the prevention of cancer-associated thrombosis in the United States. Cancer. 2020 04 15; 126(8):1736-1748. PMID: [31999844](//www.ncbi.nlm.nih.gov/pubmed/31999844).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31999844/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  35. Martens KL, Khalighi PR, Li S, White AA, Silgard E, Frieze D, Estey E, Garcia DA, Hingorani S, **Li A**. Comparative effectiveness of rasburicase versus allopurinol for cancer patients with renal dysfunction and hyperuricemia. Leuk Res. 2020 02; 89:106298. PMID: [31945598](//www.ncbi.nlm.nih.gov/pubmed/31945598).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31945598/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  36. Khaki AR, **Li A** , Diamantopoulos LN, Bilen MA, Santos V, Esther J, Morales-Barrera R, Devitt M, Nelson A, Hoimes CJ, Shreck E, Assi H, Gartrell BA, Sankin A, Rodriguez-Vida A, Lythgoe M, Pinato DJ, Drakaki A, Joshi M, Isaacsson Velho P, Hahn N, Liu S, Alonso Buznego L, Duran I, Moses M, Jain J, Murgic J, Baratam P, Barata P, Tripathi A, Zakharia Y, Galsky MD, Sonpavde G, Yu EY, Shankaran V, Lyman GH, Grivas P. Impact of performance status on treatment outcomes: A real-world study of advanced urothelial cancer treated with immune checkpoint inhibitors. Cancer. 2020 03 15; 126(6):1208-1216. PMID: [31829450](//www.ncbi.nlm.nih.gov/pubmed/31829450); PMCID: [PMC7050422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7050422).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31829450/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  37. **Li A** , Wu Q, Warnick G, Li S, Libby EN, Garcia DA, Lyman GH. The incidence of thromboembolism for lenalidomide versus thalidomide in older patients with newly diagnosed multiple myeloma. Ann Hematol. 2020 Jan; 99(1):121-126. PMID: [31773215](//www.ncbi.nlm.nih.gov/pubmed/31773215).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31773215/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCTClinical Trials
+
+  38. Starr MC, Wightman A, Munshi R, **Li A** , Hingorani S. Association of Food Insecurity and Acute Health Care Utilization in Children With End-stage Kidney Disease. JAMA Pediatr. 2019 Nov 01; 173(11):1097-1099. PMID: [31498384](//www.ncbi.nlm.nih.gov/pubmed/31498384); PMCID: [PMC6735494](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6735494).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31498384/citedby/) Fields:
+
+Ped Pediatrics
+
+  39. Shadman M, Gauthier J, Hay KA, Voutsinas JM, Milano F, **Li A** , Hirayama AV, Sorror ML, Cherian S, Chen X, Cassaday RD, Till BG, Gopal AK, Sandmaier BM, Maloney DG, Turtle CJ. Safety of allogeneic hematopoietic cell transplant in adults after CD19-targeted CAR T-cell therapy. Blood Adv. 2019 10 22; 3(20):3062-3069. PMID: [31648329](//www.ncbi.nlm.nih.gov/pubmed/31648329); PMCID: [PMC6849954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6849954).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31648329/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  40. **Li A** , Kuderer NM, Garcia DA, Khorana AA, Wells PS, Carrier M, Lyman GH. Direct oral anticoagulant for the prevention of thrombosis in ambulatory patients with cancer: A systematic review and meta-analysis. J Thromb Haemost. 2019 12; 17(12):2141-2151. PMID: [31420937](//www.ncbi.nlm.nih.gov/pubmed/31420937).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31420937/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  41. Butt JH, **Li A** , Xian Y, Peterson ED, Garcia D, Torp-Pedersen C, K?ber L, Fosb?l EL. Direct oral anticoagulant- versus vitamin K antagonist-related gastrointestinal bleeding: Insights from a nationwide cohort. Am Heart J. 2019 10; 216:117-124. PMID: [31425898](//www.ncbi.nlm.nih.gov/pubmed/31425898).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31425898/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  42. **Li A** , Wu Q, Luo S, Warnick GS, Zakai NA, Libby EN, Gage BF, Garcia DA, Lyman GH, Sanfilippo KM. Derivation and Validation of a Risk Assessment Model for Immunomodulatory Drug-Associated Thrombosis Among Patients With Multiple Myeloma. J Natl Compr Canc Netw. 2019 07 01; 17(7):840-847. PMID: [31319391](//www.ncbi.nlm.nih.gov/pubmed/31319391); PMCID: [PMC7808759](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7808759).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31319391/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  43. **Li A** , Garcia DA. Review: The quality of evidence is very low for periprocedural bridging in patients receiving VKA for VTE. Ann Intern Med. 2019 06 18; 170(12):JC64. PMID: [31207617](//www.ncbi.nlm.nih.gov/pubmed/31207617).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  44. Khalighi PR, Martens KL, White AA, Li S, Silgard E, Frieze D, Garcia DA, **Li A**. Utilization patterns and clinical outcomes of rasburicase administration according to tumor risk stratification. J Oncol Pharm Pract. 2020 Apr; 26(3):529-535. PMID: [31167612](//www.ncbi.nlm.nih.gov/pubmed/31167612).
+
+Citations:  Fields:
+
+Neo NeoplasmsPha Pharmacy
+
+Translation:Humans
+
+  45. **Li A** , Manohar PM, Garcia DA, Lyman GH, Steuten LM. Cost effectiveness analysis of direct oral anticoagulant (DOAC) versus dalteparin for the treatment of cancer associated thrombosis (CAT) in the United States. Thromb Res. 2019 Aug; 180:37-42. PMID: [31200341](//www.ncbi.nlm.nih.gov/pubmed/31200341); PMCID: [PMC6661186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6661186).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31200341/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  46. Sun L, Mack J, **Li A** , Ryu J, Upadhyay VA, Uhl L, Kaufman RM, Stowell CP, Dzik WS, Makar RS, Bendapudi PK. Predictors of relapse and efficacy of rituximab in immune thrombotic thrombocytopenic purpura. Blood Adv. 2019 05 14; 3(9):1512-1518. PMID: [31076407](//www.ncbi.nlm.nih.gov/pubmed/31076407); PMCID: [PMC6517661](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6517661).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31076407/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  47. Tuazon SA, **Li A** , Gooley T, Eunson TW, Maloney DG, Turtle CJ, Linenberger ML, Connelly-Smith LS. Factors affecting lymphocyte collection efficiency for the manufacture of chimeric antigen receptor T cells in adults with B-cell malignancies. Transfusion. 2019 05; 59(5):1773-1780. PMID: [30729531](//www.ncbi.nlm.nih.gov/pubmed/30729531); PMCID: [PMC6499685](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6499685).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30729531/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  48. **Li A** , Wu Q, Davis C, Kirtane KS, Pham PD, Sorror ML, Lee SJ, Gopal AK, Dong JF, Garcia DA, Weiss NS, R Hingorani S. Transplant-Associated Thrombotic Microangiopathy Is a Multifactorial Disease Unresponsive to Immunosuppressant Withdrawal. Biol Blood Marrow Transplant. 2019 03; 25(3):570-576. PMID: [30940363](//www.ncbi.nlm.nih.gov/pubmed/30940363); PMCID: [PMC6450411](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6450411).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30940363/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:Humans
+
+  49. Wang TF, **Li A** , Garcia D. Managing thrombosis in cancer patients. Res Pract Thromb Haemost. 2018 Jul; 2(3):429-438. PMID: [30046747](//www.ncbi.nlm.nih.gov/pubmed/30046747); PMCID: [PMC6046582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6046582).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30046747/citedby/)
+
+  50. **Li A** , Garcia DA, Lyman GH, Carrier M. Direct oral anticoagulant (DOAC) versus low-molecular-weight heparin (LMWH) for treatment of cancer associated thrombosis (CAT): A systematic review and meta-analysis. Thromb Res. 2019 01; 173:158-163. PMID: [29506866](//www.ncbi.nlm.nih.gov/pubmed/29506866); PMCID: [PMC6119655](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6119655).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29506866/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:HumansPHPublic Health
+
+  51. **Li A** , Khalighi PR, Wu Q, Garcia DA. External validation of the PLASMIC score: a clinical prediction tool for thrombotic thrombocytopenic purpura diagnosis and treatment. J Thromb Haemost. 2018 01; 16(1):164-169. PMID: [29064619](//www.ncbi.nlm.nih.gov/pubmed/29064619); PMCID: [PMC5760324](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5760324).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29064619/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  52. **Li A** , Bendapudi PK, Uhl L, Hamdan A, Kaufman RM, Makar RS. Clinical features and outcomes in patients with thrombotic microangiopathy not associated with severe ADAMTS13 deficiency. Transfusion. 2017 09; 57(9):2151-2158. PMID: [28635017](//www.ncbi.nlm.nih.gov/pubmed/28635017).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28635017/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  53. Boonyawat K, Caron F, **Li A** , Chai-Adisaksopha C, Lim W, Iorio A, Lopes RD, Garcia D, Crowther MA. Association of body weight with efficacy and safety outcomes in phase III randomized controlled trials of direct oral anticoagulants: a systematic review and meta-analysis. J Thromb Haemost. 2017 07; 15(7):1322-1333. PMID: [28407368](//www.ncbi.nlm.nih.gov/pubmed/28407368).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28407368/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  54. **Li A** , Davis C, Wu Q, Li S, Kesten MF, Holmberg LA, Gopal AK, Garcia DA. Management of venous thromboembolism during thrombocytopenia after autologous hematopoietic cell transplantation. Blood Adv. 2017 May 09; 1(12):707-714. PMID: [29296714](//www.ncbi.nlm.nih.gov/pubmed/29296714); PMCID: [PMC5728057](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5728057).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29296714/citedby/) Fields:
+
+Hem Hematology
+
+  55. Bendapudi PK, Hurwitz S, Fry A, Marques MB, Waldo SW, **Li A** , Sun L, Upadhyay V, Hamdan A, Brunner AM, Gansner JM, Viswanathan S, Kaufman RM, Uhl L, Stowell CP, Dzik WH, Makar RS. Derivation and external validation of the PLASMIC score for rapid assessment of adults with thrombotic microangiopathies: a cohort study. Lancet Haematol. 2017 Apr; 4(4):e157-e164. PMID: [28259520](//www.ncbi.nlm.nih.gov/pubmed/28259520).
+
+Citations:
+[99](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28259520/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:Humans
+
+  56. **Li A** , Lopes RD, Garcia DA. Use of Direct Oral Anticoagulants in Special Populations. Hematol Oncol Clin North Am. 2016 10; 30(5):1053-71. PMID: [27637307](//www.ncbi.nlm.nih.gov/pubmed/27637307).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27637307/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:Humans
+
+  57. **Li A** , Makar RS, Hurwitz S, Uhl L, Kaufman RM, Stowell CP, Dzik WS, Bendapudi PK. Treatment with or without plasma exchange for patients with acquired thrombotic microangiopathy not associated with severe ADAMTS13 deficiency: a propensity score-matched study. Transfusion. 2016 08; 56(8):2069-77. PMID: [27232383](//www.ncbi.nlm.nih.gov/pubmed/27232383).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27232383/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  58. **Li A** , [Yellapragada SV](https://profiles.viictr.org/profile/267994), Mims M, Frolov A, Rivero GA. Significant improvement in overall survival among patients diagnosed with low-risk myelodysplastic syndrome treated with selective serotonin reuptake inhibitors. Br J Haematol. 2017 04; 177(1):142-144. PMID: [27061100](//www.ncbi.nlm.nih.gov/pubmed/27061100).
+
+Citations:  Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  59. Bendapudi PK, **Li A** , Hamdan A, Uhl L, Kaufman R, Stowell C, Dzik W, Makar RS. Impact of severe ADAMTS13 deficiency on clinical presentation and outcomes in patients with thrombotic microangiopathies: the experience of the Harvard TMA Research Collaborative. Br J Haematol. 2015 Dec; 171(5):836-44. PMID: [26314936](//www.ncbi.nlm.nih.gov/pubmed/26314936).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26314936/citedby/) Fields:
+
+Hem Hematology
+
+Translation:Humans
+
+  60. Marshall A, **Li A** , Drucker A, Dzik W. Aminocaproic acid use in hospitalized patients with hematological malignancy: a case series. Hematol Oncol. 2016 Sep; 34(3):147-53. PMID: [25641349](//www.ncbi.nlm.nih.gov/pubmed/25641349).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25641349/citedby/) Fields:
+
+Hem HematologyNeo Neoplasms
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 60 publications over 10 distinct years, with a maximum of
+12 publications in
+2019](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|12&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,25,42,25,100,67,75,33,83,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2015| 2  
+2016| 3  
+2017| 5  
+2018| 3  
+2019| 12  
+2020| 8  
+2021| 9  
+2022| 4  
+2023| 10  
+2024| 4  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (168)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Venous Thromboembolism](https://profiles.viictr.org/profile/252257)
+  * [Thrombotic Microangiopathies](https://profiles.viictr.org/profile/249828)
+  * [Anticoagulants](https://profiles.viictr.org/profile/255191)
+  * [Venous Thrombosis](https://profiles.viictr.org/profile/250966)
+  * [Pulmonary Embolism](https://profiles.viictr.org/profile/250066)
+
+[Explore](https://profiles.viictr.org/profile/29964662/198)
+
+_
+
+Co-Authors (25)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+  * [Ma, Shengling](https://profiles.viictr.org/profile/39339169)
+  * [ROJAS HERNANDEZ, CRISTHIAM MAURICIO](https://profiles.viictr.org/profile/17440088)
+  * [SARTAIN, SARAH](https://profiles.viictr.org/profile/3009824)
+  * [KEBRIAEI, PARTOW](https://profiles.viictr.org/profile/12582909)
+
+[Explore](https://profiles.viictr.org/profile/29964662/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [OO, THEIN HLAING](https://profiles.viictr.org/profile/12583936)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [CHAMPLIN, RICHARD E](https://profiles.viictr.org/profile/12582508)
+  * [PEACOCK, WILLIAM](https://profiles.viictr.org/profile/268773)
+
+[Explore](https://profiles.viictr.org/profile/29964662/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHANG, JENNY](https://profiles.viictr.org/profile/269169)
+  * [LYNCH, GARRETT](https://profiles.viictr.org/profile/269644)
+  * [RIMAWI, MOTHAFFAR](https://profiles.viictr.org/profile/269416)
+  * [SEARS, DAVID](https://profiles.viictr.org/profile/267960)
+  * [SONNET, CORINNE](https://profiles.viictr.org/profile/15317746)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

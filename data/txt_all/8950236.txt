@@ -1,0 +1,487 @@
+## HARI YALAMANCHILI
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 6701 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Hqoi6Cv%2bIYf0S47j43PLJr2sJRKH2SAGBQ%3d%3d&rnd=3d032d77-4682-4b9a-adf7-bcfe306b76ea)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=8950236)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=8950236&cachekey=718818bc-
+ebc9-4782-87bc-ef381f55dcf4)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Taylor BC](https://profiles.viictr.org/profile/28999384), Steinthal LH, Dias M, **Yalamanchili HK** , Ochsner SA, Zapata GE, Mehta NR, [McKenna NJ](https://profiles.viictr.org/profile/268182), [Young NL](https://profiles.viictr.org/profile/16943307), Nuotio-Antar AM. Histone proteoform analysis reveals epigenetic changes in adult mouse brown adipose tissue in response to cold stress. Epigenetics Chromatin. 2024 Apr 27; 17(1):12. PMID: [38678237](//www.ncbi.nlm.nih.gov/pubmed/38678237); PMCID: [PMC11055387](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11055387).
+
+Citations:  Fields:
+
+Bio BiochemistryGen Genetics
+
+Translation:AnimalsCells
+
+  2. Chadchan SB, [Popli P](https://profiles.viictr.org/profile/36746665), [Liao Z](https://profiles.viictr.org/profile/34768175), Andreas E, Dias M, Wang T, Gunderson SJ, Jimenez PT, [Lanza DG](https://profiles.viictr.org/profile/3009682), [Lanz RB](https://profiles.viictr.org/profile/267684), [Foulds CE](https://profiles.viictr.org/profile/267919), [Monsivais D](https://profiles.viictr.org/profile/3708897), [DeMayo FJ](https://profiles.viictr.org/profile/267848), **Yalamanchili HK** , Jungheim ES, [Heaney JD](https://profiles.viictr.org/profile/268694), [Lydon JP](https://profiles.viictr.org/profile/269737), Moley KH, [O'Malley BW](https://profiles.viictr.org/profile/269511), Kommagani R. A GREB1-steroid receptor feedforward mechanism governs differential GREB1 action in endometrial function and endometriosis. Nat Commun. 2024 Mar 02; 15(1):1947. PMID: [38431630](//www.ncbi.nlm.nih.gov/pubmed/38431630); PMCID: [PMC10908778](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10908778).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimals
+
+  3. Alahmari AA, Chaubey AH, Jonnakuti VS, Tisdale AA, Schwarz CD, Cornwell AC, Maraszek KE, Paterson EJ, Kim M, Venkat S, Gomez EC, Wang J, Gurova KV, **Yalamanchili HK** , Feigin ME. CPSF3 inhibition blocks pancreatic cancer cell proliferation through disruption of core histone mRNA processing. RNA. 2024 Feb 16; 30(3):281-297. PMID: [38191171](//www.ncbi.nlm.nih.gov/pubmed/38191171); PMCID: [PMC10870380](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10870380).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  4. Jonnakuti VS, Wagner EJ, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), [Liu Z](https://profiles.viictr.org/profile/266153), **Yalamanchili HK**. PolyAMiner-Bulk is a deep learning-based algorithm that decodes alternative polyadenylation dynamics from bulk RNA-seq data. Cell Rep Methods. 2024 Feb 26; 4(2):100707. PMID: [38325383](//www.ncbi.nlm.nih.gov/pubmed/38325383); PMCID: [PMC10921021](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10921021).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38325383/citedby/)
+Translation:HumansCells
+
+  5. Khan M, Chen XXL, Dias M, Santos JR, Kour S, You J, van Bruggen R, Youssef MMM, Wan YW, Liu Z, Rosenfeld JA, Tan Q, Pandey UB, **Yalamanchili HK** , Park J. MATR3 pathogenic variants differentially impair its cryptic splicing repression function. FEBS Lett. 2024 Feb; 598(4):415-436. PMID: [38320753](//www.ncbi.nlm.nih.gov/pubmed/38320753).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Humans
+
+  6. Jonnakuti VS, Ji P, Gao Y, Lin A, Chu Y, Elrod N, Huang KL, Li W, **Yalamanchili HK** , Wagner EJ. NUDT21 alters glioma migration through differential alternative polyadenylation of LAMC1. J Neurooncol. 2023 Jul; 163(3):623-634. PMID: [37389756](//www.ncbi.nlm.nih.gov/pubmed/37389756).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37389756/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansCells
+
+  7. Trostle AJ, Li L, Kim SY, Wang J, Al-Ouran R, **Yalamanchili HK** , [Liu Z](https://profiles.viictr.org/profile/266153), Wan YW. A Comprehensive and Integrative Approach to MeCP2 Disease Transcriptomics. Int J Mol Sci. 2023 Mar 07; 24(6). PMID: [36982190](//www.ncbi.nlm.nih.gov/pubmed/36982190); PMCID: [PMC10049497](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10049497).
+
+Citations:  Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:AnimalsCells
+
+  8. de Prisco N, Ford C, Elrod ND, Lee W, Tang LC, Huang KL, Lin A, Ji P, Jonnakuti VS, Boyle L, Cabaj M, Botta S, ?unap K, Reinson K, Wojcik MH, Rosenfeld JA, Bi W, Tveten K, Prescott T, Gerstner T, Schroeder A, Fong CT, George-Abraham JK, Buchanan CA, Hanson-Khan A, Bernstein JA, [Nella AA](https://profiles.viictr.org/profile/27841677), Chung WK, Brandt V, Jovanovic M, Targoff KL, **Yalamanchili HK** , Wagner EJ, Gennarino VA. Alternative polyadenylation alters protein dosage by switching between intronic and 3'UTR sites. Sci Adv. 2023 02 17; 9(7):eade4814. PMID: [36800428](//www.ncbi.nlm.nih.gov/pubmed/36800428); PMCID: [PMC9937581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9937581).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36800428/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  9. Jonnakuti VS, Wagner EJ, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), [Liu Z](https://profiles.viictr.org/profile/266153), **Yalamanchili HK**. PolyAMiner-Bulk: A Machine Learning Based Bioinformatics Algorithm to Infer and Decode Alternative Polyadenylation Dynamics from bulk RNA-seq data. bioRxiv. 2023 Jan 24. PMID: [36747700](//www.ncbi.nlm.nih.gov/pubmed/36747700); PMCID: [PMC9900750](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9900750).
+
+Citations:
+
+  10. MacKay H, Gunasekara CJ, Yam KY, Srisai D, **Yalamanchili HK** , Li Y, Chen R, [Coarfa C](https://profiles.viictr.org/profile/265668), [Waterland RA](https://profiles.viictr.org/profile/270237). Sex-specific epigenetic development in the mouse hypothalamic arcuate nucleus pinpoints human genomic regions associated with body mass index. Sci Adv. 2022 09 30; 8(39):eabo3991. PMID: [36170368](//www.ncbi.nlm.nih.gov/pubmed/36170368); PMCID: [PMC9519050](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9519050).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36170368/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  11. Neupane R, Youker K, **Yalamanchili HK** , Cieslik KA, Karmouty-Quintana H, Guha A, Thandavarayan RA. Cleavage stimulating factor 64 depletion mitigates cardiac fibrosis through alternative polyadenylation. Biochem Biophys Res Commun. 2022 Mar 15; 597:109-114. PMID: [35134608](//www.ncbi.nlm.nih.gov/pubmed/35134608); PMCID: [PMC9334457](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9334457).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biophysics
+
+  12. Zhou J, Hamdan H, **Yalamanchili HK** , Pang K, Pohodich AE, Lopez J, Shao Y, Oses-Prieto JA, Li L, Kim W, Durham MA, Bajikar SS, Palmer DJ, [Ng P](https://profiles.viictr.org/profile/269950), Thompson ML, Bebin EM, Burlingame AL, [Liu Z](https://profiles.viictr.org/profile/266153), [Rasband MN](https://profiles.viictr.org/profile/265764), [Zoghbi HY](https://profiles.viictr.org/profile/267945), M?ller AJ, Kuechler A, Kampmeier A, Haack TB. Disruption of MeCP2-TCF20 complex underlies distinct neurodevelopmental disorders. Proc Natl Acad Sci U S A. 2022 01 25; 119(4). PMID: [35074918](//www.ncbi.nlm.nih.gov/pubmed/35074918); PMCID: [PMC8794850](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8794850).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  13. Dharmalingam P, Mahalingam R, **Yalamanchili HK** , Weng T, Karmouty-Quintana H, Guha A, A Thandavarayan R. Emerging roles of alternative cleavage and polyadenylation (APA) in human disease. J Cell Physiol. 2022 01; 237(1):149-160. PMID: [34378793](//www.ncbi.nlm.nih.gov/pubmed/34378793).
+
+Citations:  Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:HumansCells
+
+  14. **Yalamanchili HK** , Elrod ND, Jensen MK, Ji P, Lin A, Wagner EJ, [Liu Z](https://profiles.viictr.org/profile/266153). A computational pipeline to infer alternative poly-adenylation from 3' sequencing data. Methods Enzymol. 2021; 655:185-204. PMID: [34183121](//www.ncbi.nlm.nih.gov/pubmed/34183121); PMCID: [PMC10866047](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10866047).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  15. Jensen MK, Elrod ND, **Yalamanchili HK** , Ji P, Lin A, Liu Z, Wagner EJ. Application and design considerations for 3'-end sequencing using click-chemistry. Methods Enzymol. 2021; 655:1-23. PMID: [34183117](//www.ncbi.nlm.nih.gov/pubmed/34183117).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  16. Lee WS, Lavery L, Rousseaux MWC, Rutledge EB, Jang Y, Wan YW, Wu SR, Kim W, [Al-Ramahi I](https://profiles.viictr.org/profile/3009798), Rath S, Adamski CJ, Bondar VV, Tewari A, Soleimani S, Mota S, **Yalamanchili HK** , Orr HT, [Liu Z](https://profiles.viictr.org/profile/266153), [Botas J](https://profiles.viictr.org/profile/269750), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Dual targeting of brain region-specific kinases potentiates neurological rescue in Spinocerebellar ataxia type 1. EMBO J. 2021 04 01; 40(7):e106106. PMID: [33709453](//www.ncbi.nlm.nih.gov/pubmed/33709453); PMCID: [PMC8013850](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8013850).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33709453/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  17. Mangleburg CG, Wu T, **Yalamanchili HK** , Guo C, Hsieh YC, Duong DM, Dammer EB, De Jager PL, Seyfried NT, [Liu Z](https://profiles.viictr.org/profile/266153), [Shulman JM](https://profiles.viictr.org/profile/267488). Integrated analysis of the aging brain transcriptome and proteome in tauopathy. Mol Neurodegener. 2020 09 29; 15(1):56. PMID: [32993812](//www.ncbi.nlm.nih.gov/pubmed/32993812); PMCID: [PMC7526226](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7526226).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32993812/citedby/) Fields:
+
+Mol Molecular BiologyNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  18. **Yalamanchili HK** , Alcott CE, Ji P, Wagner EJ, [Zoghbi HY](https://profiles.viictr.org/profile/267945), [Liu Z](https://profiles.viictr.org/profile/266153). PolyA-miner: accurate assessment of differential alternative poly-adenylation from 3'Seq data using vector projections and non-negative matrix factorization. Nucleic Acids Res. 2020 07 09; 48(12):e69. PMID: [32463457](//www.ncbi.nlm.nih.gov/pubmed/32463457); PMCID: [PMC7337927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7337927).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32463457/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  19. Alcott CE, **Yalamanchili HK** , Ji P, van der Heijden ME, Saltzman A, Elrod N, Lin A, Leng M, [Bhatt B](https://profiles.viictr.org/profile/31194420), Hao S, Wang Q, Saliba A, [Tang J](https://profiles.viictr.org/profile/267756), [Malovannaya A](https://profiles.viictr.org/profile/3010185), Wagner EJ, [Liu Z](https://profiles.viictr.org/profile/266153), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Partial loss of CFIm25 causes learning deficits and aberrant neuronal alternative polyadenylation. Elife. 2020 04 22; 9. PMID: [32319885](//www.ncbi.nlm.nih.gov/pubmed/32319885); PMCID: [PMC7176433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7176433).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32319885/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  20. Hsieh YC, Guo C, **Yalamanchili HK** , Abreha M, Al-Ouran R, Li Y, Dammer EB, Lah JJ, Levey AI, Bennett DA, De Jager PL, Seyfried NT, [Liu Z](https://profiles.viictr.org/profile/266153), [Shulman JM](https://profiles.viictr.org/profile/267488). Tau-Mediated Disruption of the Spliceosome Triggers Cryptic RNA Splicing and Neurodegeneration in Alzheimer's Disease. Cell Rep. 2019 10 08; 29(2):301-316.e10. PMID: [31597093](//www.ncbi.nlm.nih.gov/pubmed/31597093); PMCID: [PMC6919331](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6919331).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31597093/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  21. Zhou W, He Y, Rehman AU, Kong Y, Hong S, Ding G, **Yalamanchili HK** , Wan YW, Paul B, Wang C, Gong Y, Zhou W, Liu H, Dean J, Scalais E, O'Driscoll M, Morton JEV, DDD study, Hou X, Wu Q, Tong Q, [Liu Z](https://profiles.viictr.org/profile/266153), Liu P, Xu Y, Sun Z. Author Correction: Loss of function of NCOR1 and NCOR2 impairs memory through a novel GABAergic hypothalamus-CA3 projection. Nat Neurosci. 2019 Sep; 22(9):1533. PMID: [31222187](//www.ncbi.nlm.nih.gov/pubmed/31222187).
+
+Citations:  Fields:
+
+Neu Neurology
+
+  22. [Zhou W](https://profiles.viictr.org/profile/9329089), He Y, Rehman AU, Kong Y, Hong S, Ding G, **Yalamanchili HK** , Wan YW, Paul B, Wang C, Gong Y, Zhou W, Liu H, Dean J, Scalais E, O'Driscoll M, Morton JEV, DDD study, Hou X, Wu Q, Tong Q, [Liu Z](https://profiles.viictr.org/profile/266153), [Liu P](https://profiles.viictr.org/profile/3010309), [Xu Y](https://profiles.viictr.org/profile/269314), [Sun Z](https://profiles.viictr.org/profile/6478181). Loss of function of NCOR1 and NCOR2 impairs memory through a novel GABAergic hypothalamus-CA3 projection. Nat Neurosci. 2019 02; 22(2):205-217. PMID: [30664766](//www.ncbi.nlm.nih.gov/pubmed/30664766); PMCID: [PMC6361549](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6361549).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30664766/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  23. **Yalamanchili H** , Dandachi D, [Okhuysen PC](https://profiles.viictr.org/profile/12583928). Use and Interpretation of Enteropathogen Multiplex Nucleic Acid Amplification Tests in Patients With Suspected Infectious Diarrhea. Gastroenterol Hepatol (N Y). 2018 Nov; 14(11):646-652. PMID: [30538605](//www.ncbi.nlm.nih.gov/pubmed/30538605); PMCID: [PMC6284344](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6284344).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30538605/citedby/)
+
+  24. De Maio A, **Yalamanchili HK** , Adamski CJ, Gennarino VA, [Liu Z](https://profiles.viictr.org/profile/266153), Qin J, Jung SY, Richman R, Orr H, [Zoghbi HY](https://profiles.viictr.org/profile/267945). RBM17 Interacts with U2SURP and CHERP to Regulate Expression and Splicing of RNA-Processing Proteins. Cell Rep. 2018 10 16; 25(3):726-736.e7. PMID: [30332651](//www.ncbi.nlm.nih.gov/pubmed/30332651); PMCID: [PMC6292215](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6292215).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30332651/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  25. Raman AT, Pohodich AE, Wan YW, **Yalamanchili HK** , Lowry WE, [Zoghbi HY](https://profiles.viictr.org/profile/267945), [Liu Z](https://profiles.viictr.org/profile/266153). Apparent bias toward long gene misregulation in MeCP2 syndromes disappears after controlling for baseline variations. Nat Commun. 2018 08 13; 9(1):3225. PMID: [30104565](//www.ncbi.nlm.nih.gov/pubmed/30104565); PMCID: [PMC6089998](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6089998).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30104565/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  26. Ito-Ishida A, Yamalanchili HK, Shao Y, Baker SA, Heckman LD, Lavery LA, Kim JY, Lombardi LM, Sun Y, [Liu Z](https://profiles.viictr.org/profile/266153), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Genome-wide distribution of linker histone H1.0 is independent of MeCP2. Nat Neurosci. 2018 06; 21(6):794-798. PMID: [29802390](//www.ncbi.nlm.nih.gov/pubmed/29802390); PMCID: [PMC6099063](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6099063).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29802390/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  27. Pohodich AE, **Yalamanchili H** , Raman AT, Wan YW, Gundry M, Hao S, Jin H, [Tang J](https://profiles.viictr.org/profile/267756), [Liu Z](https://profiles.viictr.org/profile/266153), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Forniceal deep brain stimulation induces gene expression and splicing changes that promote neurogenesis and plasticity. Elife. 2018 03 23; 7. PMID: [29570050](//www.ncbi.nlm.nih.gov/pubmed/29570050); PMCID: [PMC5906096](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5906096).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29570050/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  28. **Yalamanchili HK** , Guo C, [Shulman JM](https://profiles.viictr.org/profile/267488), [Liu Z](https://profiles.viictr.org/profile/266153), [Jeong HH](https://profiles.viictr.org/profile/15317861). An ultra-fast and scalable quantification pipeline for transposable elements from next generation sequencing data. Pac Symp Biocomput. 2018; 23:168-179. PMID: [29218879](//www.ncbi.nlm.nih.gov/pubmed/29218879).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29218879/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansAnimalsCells
+
+  29. **Yalamanchili HK** , Wan YW, [Liu Z](https://profiles.viictr.org/profile/266153). Data Analysis Pipeline for RNA-seq Experiments: From Differential Expression to Cryptic Splicing. Curr Protoc Bioinformatics. 2017 09 13; 59:11.15.1-11.15.21. PMID: [28902396](//www.ncbi.nlm.nih.gov/pubmed/28902396); PMCID: [PMC6373869](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6373869).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28902396/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Cells
+
+  30. Tan Q, **Yalamanchili HK** , Park J, De Maio A, [Lu HC](https://profiles.viictr.org/profile/37476696), Wan YW, White JJ, Bondar VV, Sayegh LS, Liu X, Gao Y, [Sillitoe RV](https://profiles.viictr.org/profile/268552), Orr HT, [Liu Z](https://profiles.viictr.org/profile/266153), [Zoghbi HY](https://profiles.viictr.org/profile/267945). Extensive cryptic splicing upon loss of RBM17 and TDP43 in neurodegeneration models. Hum Mol Genet. 2016 12 01; 25(23):5083-5093. PMID: [28007900](//www.ncbi.nlm.nih.gov/pubmed/28007900); PMCID: [PMC5968355](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5968355).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28007900/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  31. Lo YH, Chung E, Li Z, Wan YW, Mahe MM, Chen MS, Noah TK, Bell KN, **Yalamanchili HK** , [Klisch TJ](https://profiles.viictr.org/profile/265995), [Liu Z](https://profiles.viictr.org/profile/266153), Park JS, [Shroyer NF](https://profiles.viictr.org/profile/5807714). Transcriptional Regulation by ATOH1 and its Target SPDEF in?the?Intestine. Cell Mol Gastroenterol Hepatol. 2017 Jan; 3(1):51-71. PMID: [28174757](//www.ncbi.nlm.nih.gov/pubmed/28174757); PMCID: [PMC5247424](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5247424).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28174757/citedby/) Fields:
+
+Gas Gastroenterology
+
+  32. Dineshram R, Quan Q, Sharma R, Chandramouli K, **Yalamanchili HK** , Chu I, Thiyagarajan V. Comparative and quantitative proteomics reveal the adaptive strategies of oyster larvae to ocean acidification. Proteomics. 2015 Dec; 15(23-24):4120-34. PMID: [26507238](//www.ncbi.nlm.nih.gov/pubmed/26507238).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26507238/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  33. **Yalamanchili HK** , Li Z, Wang P, Wong MP, Yao J, Wang J. SpliceNet: recovering splicing isoform-specific differential gene networks from RNA-Seq data of normal and diseased samples. Nucleic Acids Res. 2014 Sep; 42(15):e121. PMID: [25034693](//www.ncbi.nlm.nih.gov/pubmed/25034693); PMCID: [PMC4150760](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4150760).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25034693/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  34. Qin J, Hu Y, Xu F, **Yalamanchili HK** , Wang J. Inferring gene regulatory networks by integrating ChIP-seq/chip and transcriptome data via LASSO-type regularization methods. Methods. 2014 Jun 01; 67(3):294-303. PMID: [24650566](//www.ncbi.nlm.nih.gov/pubmed/24650566).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24650566/citedby/) Fields:
+
+Bio Biochemistry
+
+  35. **Yalamanchili HK** , Yan B, Li MJ, Qin J, Zhao Z, Chin FY, Wang J. DDGni: dynamic delay gene-network inference from high-temporal data using gapped local alignment. Bioinformatics. 2014 Feb 01; 30(3):377-83. PMID: [24285602](//www.ncbi.nlm.nih.gov/pubmed/24285602).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24285602/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Animals
+
+  36. Wang P, Lai WF, Li MJ, Xu F, **Yalamanchili HK** , Lovell-Badge R, Wang J. Inference of gene-phenotype associations via protein-protein interaction and orthology. PLoS One. 2013; 8(10):e77478. PMID: [24194887](//www.ncbi.nlm.nih.gov/pubmed/24194887); PMCID: [PMC3806783](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3806783).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24194887/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  37. **Yalamanchili HK** , Xiao QW, Wang J. A novel neural response algorithm for protein function prediction. BMC Syst Biol. 2012; 6 Suppl 1:S19. PMID: [23046521](//www.ncbi.nlm.nih.gov/pubmed/23046521); PMCID: [PMC3403322](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3403322).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23046521/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansCells
+
+  38. Yang S, **Yalamanchili HK** , Li X, Yao KM, Sham PC, Zhang MQ, Wang J. Correlated evolution of transcription factors and their binding sites. Bioinformatics. 2011 Nov 01; 27(21):2972-8. PMID: [21896508](//www.ncbi.nlm.nih.gov/pubmed/21896508).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21896508/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansCells
+
+  39. Wu HJ, Wu W, Sun HY, Qin GW, Wang HB, Wang P, **Yalamanchili HK** , Wang J, Tse HF, Lau CP, Vanhoutte PM, Li GR. Acacetin causes a frequency- and use-dependent blockade of hKv1.5 channels by binding to the S6 domain. J Mol Cell Cardiol. 2011 Dec; 51(6):966-73. PMID: [21906601](//www.ncbi.nlm.nih.gov/pubmed/21906601).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21906601/citedby/) Fields:
+
+Car CardiologyCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  40. . Identifying structural repeats in proteins using graph centrality measures. 2009 World Congress on Nature & Biologically Inspired Computing (NaBIC). 2009; 110-115.
+
+  41. . Graph spectral approach for identifying protein domains. International Conference on Bioinformatics and Computational Biology. 2009; 437-448.
+
+  42. Marla S, **YALAMANCHILI H** K, Gelli P, Singh HK, Praveen G, Ghatta G, Srikanth S, Goutham K. Comparative structure analysis of chorismate synthase. Online Journal of Bioinformatics. 2006; 7:35-45.
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 42 publications over 16 distinct years, with a maximum of
+6 publications in
+2018](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,33,0,33,17,33,33,17,33,17,100,50,50,67,50,67,83&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 1  
+2009| 2  
+2011| 2  
+2012| 1  
+2013| 2  
+2014| 2  
+2015| 1  
+2016| 2  
+2017| 1  
+2018| 6  
+2019| 3  
+2020| 3  
+2021| 4  
+2022| 3  
+2023| 4  
+2024| 5  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+YALAMANCHILI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (189)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Polyadenylation](https://profiles.viictr.org/profile/251755)
+  * [Sequence Analysis, RNA](https://profiles.viictr.org/profile/239887)
+  * [Poly A](https://profiles.viictr.org/profile/257244)
+  * [Algorithms](https://profiles.viictr.org/profile/246759)
+  * [Alternative Splicing](https://profiles.viictr.org/profile/255757)
+
+[Explore](https://profiles.viictr.org/profile/8950236/198)
+
+_
+
+Co-Authors (38)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [OKHUYSEN, PABLO C](https://profiles.viictr.org/profile/12583928)
+  * [JEONG, HYUN-HWAN](https://profiles.viictr.org/profile/15317861)
+  * [SHULMAN, JOSHUA](https://profiles.viictr.org/profile/267488)
+
+[Explore](https://profiles.viictr.org/profile/8950236/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [COOPER, THOMAS](https://profiles.viictr.org/profile/269742)
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+
+[Explore](https://profiles.viictr.org/profile/8950236/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRONICKI, RONALD](https://profiles.viictr.org/profile/268531)
+  * [EBENEZER, SOPHIA](https://profiles.viictr.org/profile/18883213)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [LJUNGBERG, CECILIA](https://profiles.viictr.org/profile/270195)
+  * [MUSAAD, SALMA](https://profiles.viictr.org/profile/28999429)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

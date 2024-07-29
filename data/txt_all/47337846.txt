@@ -1,0 +1,246 @@
+## VISHNU DILEEP
+
+| | Title| Clinical Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Huffington Center on Aging  
+Address| One Baylor Plaza  
+Houston, 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=VqIj6WvSbq%2f8Soro8FvAKbnCIhWf&rnd=33a161ab-8c52-4724-b1e0-8ed2b333a07d)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=47337846)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Penney J, Ralvenius WT, Loon A, Cerit O, **Dileep V** , Milo B, Pao PC, Woolf H, Tsai LH. iPSC-derived microglia carrying the TREM2 R47H/+ mutation are proinflammatory and promote synapse loss. Glia. 2024 Feb; 72(2):452-469. PMID: [37969043](//www.ncbi.nlm.nih.gov/pubmed/37969043); PMCID: [PMC10904109](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10904109).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37969043/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  2. Xiong X, James BT, Boix CA, Park YP, Galani K, Victor MB, Sun N, Hou L, Ho LL, Mantero J, Scannail AN, **Dileep V** , Dong W, Mathys H, Bennett DA, Tsai LH, Kellis M. Epigenomic dissection of Alzheimer's disease pinpoints causal variants and reveals epigenome erosion. Cell. 2023 09 28; 186(20):4422-4437.e21. PMID: [37774680](//www.ncbi.nlm.nih.gov/pubmed/37774680); PMCID: [PMC10782612](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10782612).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37774680/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Humans
+
+  3. **Dileep V** , Boix CA, Mathys H, Marco A, Welch GM, Meharena HS, Loon A, Jeloka R, Peng Z, Bennett DA, Kellis M, Tsai LH. Neuronal DNA double-strand breaks lead to genome structural variations and 3D genome disruption in neurodegeneration. Cell. 2023 09 28; 186(20):4404-4421.e20. PMID: [37774679](//www.ncbi.nlm.nih.gov/pubmed/37774679); PMCID: [PMC10697236](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10697236).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37774679/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  4. Welch GM, Boix CA, Schmauch E, Davila-Velderrain J, Victor MB, **Dileep V** , Bozzelli PL, Su Q, Cheng JD, Lee A, Leary NS, Pfenning AR, Kellis M, Tsai LH. Neurons burdened by DNA double-strand breaks incite microglia activation through antiviral-like signaling in neurodegeneration. Sci Adv. 2022 09 30; 8(39):eabo4662. PMID: [36170369](//www.ncbi.nlm.nih.gov/pubmed/36170369); PMCID: [PMC9519048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9519048).
+
+Citations:
+
+  5. Meharena HS, Marco A, **Dileep V** , Lockshin ER, Akatsu GY, Mullahoo J, Watson LA, Ko T, Guerin LN, Abdurrob F, Rengarajan S, Papanastasiou M, Jaffe JD, Tsai LH. Down-syndrome-induced senescence disrupts the nuclear architecture of neural progenitors. Cell Stem Cell. 2022 01 06; 29(1):116-130.e7. PMID: [34995493](//www.ncbi.nlm.nih.gov/pubmed/34995493); PMCID: [PMC8805993](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8805993).
+
+Citations:
+
+  6. Bartlett DA, **Dileep V** , Baslan T, Gilbert DM. Mapping Replication Timing in Single Mammalian Cells. Curr Protoc. 2022 Jan; 2(1):e334. PMID: [34986273](//www.ncbi.nlm.nih.gov/pubmed/34986273); PMCID: [PMC8812816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8812816).
+
+Citations:
+
+  7. Bartlett DA, **Dileep V** , Handa T, Ohkawa Y, Kimura H, Henikoff S, Gilbert DM. High-throughput single-cell epigenomic profiling by targeted insertion of promoters (TIP-seq). J Cell Biol. 2021 12 06; 220(12). PMID: [34783858](//www.ncbi.nlm.nih.gov/pubmed/34783858); PMCID: [PMC8600797](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8600797).
+
+Citations:
+
+  8. **Dileep V** , Tsai LH. Three-dimensional chromatin organization in brain function and dysfunction. Curr Opin Neurobiol. 2021 08; 69:214-221. PMID: [34111830](//www.ncbi.nlm.nih.gov/pubmed/34111830).
+
+Citations:
+
+  9. **Dileep V** , Tsai LH. Neuronal enhancers get a break. Neuron. 2021 06 02; 109(11):1766-1768. PMID: [34081919](//www.ncbi.nlm.nih.gov/pubmed/34081919).
+
+Citations:
+
+  10. Marco A, Meharena HS, **Dileep V** , Raju RM, Davila-Velderrain J, Zhang AL, Adaikkan C, Young JZ, Gao F, Kellis M, Tsai LH. Mapping the epigenomic and transcriptomic interplay during memory formation and recall in the hippocampal engram ensemble. Nat Neurosci. 2020 12; 23(12):1606-1617. PMID: [33020654](//www.ncbi.nlm.nih.gov/pubmed/33020654); PMCID: [PMC7686266](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7686266).
+
+Citations:
+
+  11. Zhang J, Lee D, Dhiman V, Jiang P, Xu J, McGillivray P, Yang H, Liu J, Meyerson W, Clarke D, Gu M, Li S, Lou S, Xu J, Lochovsky L, Ung M, Ma L, Yu S, Cao Q, Harmanci A, Yan KK, Sethi A, Schoenberg MR, Rozowsky J, Warrell J, Emani P, Yang YT, Galeev T, Kong X, Liu S, Li X, Krishnan J, Feng Y, Rivera-Mulia JC, Adrian J, Broach JR, Bolt M, Moran J, Fitzgerald D, **Dileep V** , Liu T, Mei S, Sasaki T, Trevilla-Garcia C, Wang S, Wang Y, Zang C, Wang D, Klein RJ, Snyder M, Gilbert DM, Yip K, Cheng C, Yue F, Liu XS, White KP, Gerstein M, G?rsoy G. An integrative ENCODE resource for cancer genomics. Nat Commun. 2020 07 29; 11(1):3696. PMID: [32728046](//www.ncbi.nlm.nih.gov/pubmed/32728046); PMCID: [PMC7391744](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7391744).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32728046/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  12. **Dileep V** , Wilson KA, Marchal C, Lyu X, Zhao PA, Li B, Poulet A, Bartlett DA, Rivera-Mulia JC, Qin ZS, Robins AJ, Schulz TC, Kulik MJ, McCord RP, Dekker J, Dalton S, Corces VG, Gilbert DM. Rapid Irreversible Transcriptional Reprogramming in Human Stem Cells Accompanied by Discordance between Replication Timing and Chromatin Compartment. Stem Cell Reports. 2019 07 09; 13(1):193-206. PMID: [31231024](//www.ncbi.nlm.nih.gov/pubmed/31231024); PMCID: [PMC6627004](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6627004).
+
+Citations:
+
+  13. Sima J, Chakraborty A, **Dileep V** , Michalski M, Klein KN, Holcomb NP, Turner JL, Paulsen MT, Rivera-Mulia JC, Trevilla-Garcia C, Bartlett DA, Zhao PA, Washburn BK, Nora EP, Kraft K, Mundlos S, Bruneau BG, Ljungman M, Fraser P, Ay F, Gilbert DM. Identifying cis Elements for Spatiotemporal Control of Mammalian DNA Replication. Cell. 2019 02 07; 176(4):816-830.e18. PMID: [30595451](//www.ncbi.nlm.nih.gov/pubmed/30595451); PMCID: [PMC6546437](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6546437).
+
+Citations:
+
+  14. Dixon JR, Xu J, **Dileep V** , Zhan Y, Song F, Le VT, Yardimci GG, Chakraborty A, Bann DV, Wang Y, Clark R, Zhang L, Yang H, Liu T, Iyyanki S, An L, Pool C, Sasaki T, Rivera-Mulia JC, Ozadam H, Lajoie BR, Kaul R, Buckley M, Lee K, Diegel M, Pezic D, Ernst C, Hadjur S, Odom DT, Stamatoyannopoulos JA, Broach JR, Hardison RC, Ay F, Noble WS, Dekker J, Gilbert DM, Yue F. Integrative detection and analysis of structural variation in cancer genomes. Nat Genet. 2018 10; 50(10):1388-1398. PMID: [30202056](//www.ncbi.nlm.nih.gov/pubmed/30202056); PMCID: [PMC6301019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6301019).
+
+Citations:
+
+  15. **Dileep V** , Gilbert DM. Single-cell replication profiling to measure stochastic variation in mammalian replication timing. Nat Commun. 2018 01 30; 9(1):427. PMID: [29382831](//www.ncbi.nlm.nih.gov/pubmed/29382831); PMCID: [PMC5789892](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5789892).
+
+Citations:
+
+  16. Foti R, Gnan S, Cornacchia D, **Dileep V** , Bulut-Karslioglu A, Diehl S, Buness A, Klein FA, Huber W, Johnstone E, Loos R, Bertone P, Gilbert DM, Manke T, Jenuwein T, Buonomo SC. Nuclear Architecture Organized by Rif1 Underpins the Replication-Timing Program. Mol Cell. 2016 Jan 21; 61(2):260-73. PMID: [26725008](//www.ncbi.nlm.nih.gov/pubmed/26725008); PMCID: [PMC4724237](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4724237).
+
+Citations:
+
+  17. **Dileep V** , Rivera-Mulia JC, Sima J, Gilbert DM. Large-Scale Chromatin Structure-Function Relationships during the Cell Cycle and Development: Insights from Replication Timing. Cold Spring Harb Symp Quant Biol. 2015; 80:53-63. PMID: [26590169](//www.ncbi.nlm.nih.gov/pubmed/26590169).
+
+Citations:
+
+  18. **Dileep V** , Ay F, Sima J, Vera DL, Noble WS, Gilbert DM. Topologically associating domains and their long-range contacts are established during early G1 coincident with the establishment of the replication-timing program. Genome Res. 2015 Aug; 25(8):1104-13. PMID: [25995270](//www.ncbi.nlm.nih.gov/pubmed/25995270); PMCID: [PMC4509995](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4509995).
+
+Citations:
+
+  19. Pope BD, Ryba T, **Dileep V** , Yue F, Wu W, Denas O, Vera DL, Wang Y, Hansen RS, Canfield TK, Thurman RE, Cheng Y, G?lsoy G, Dennis JH, Snyder MP, Stamatoyannopoulos JA, Taylor J, Hardison RC, Kahveci T, Ren B, Gilbert DM. Topologically associating domains are stable units of replication-timing regulation. Nature. 2014 Nov 20; 515(7527):402-5. PMID: [25409831](//www.ncbi.nlm.nih.gov/pubmed/25409831); PMCID: [PMC4251741](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4251741).
+
+Citations:
+
+  20. Takebayashi S, Lei I, Ryba T, Sasaki T, **Dileep V** , Battaglia D, Gao X, Fang P, Fan Y, Esteban MA, Tang J, Crabtree GR, Wang Z, Gilbert DM. Murine esBAF chromatin remodeling complex subunits BAF250a and Brg1 are necessary to maintain and reprogram pluripotency-specific replication timing of select replication domains. Epigenetics Chromatin. 2013 Dec 13; 6(1):42. PMID: [24330833](//www.ncbi.nlm.nih.gov/pubmed/24330833); PMCID: [PMC3895691](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3895691).
+
+Citations:
+
+  21. Cornacchia D, **Dileep V** , Quivy JP, Foti R, Tili F, Santarella-Mellwig R, Antony C, Almouzni G, Gilbert DM, Buonomo SB. Mouse Rif1 is a key regulator of the replication-timing programme in mammalian cells. EMBO J. 2012 Sep 12; 31(18):3678-90. PMID: [22850673](//www.ncbi.nlm.nih.gov/pubmed/22850673); PMCID: [PMC3442270](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3442270).
+
+Citations:
+
+  22. Takebayashi S, **Dileep V** , Ryba T, Dennis JH, Gilbert DM. Chromatin-interaction compartment switch at developmentally regulated chromosomal domains reveals an unusual principle of chromatin folding. Proc Natl Acad Sci U S A. 2012 Jul 31; 109(31):12574-9. PMID: [22807480](//www.ncbi.nlm.nih.gov/pubmed/22807480); PMCID: [PMC3411983](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3411983).
+
+Citations:
+
+  23. **Dileep V** , Didier R, Gilbert DM. Genome-wide analysis of replication timing in mammalian cells: troubleshooting problems encountered when comparing different cell types. Methods. 2012 Jun; 57(2):165-9. PMID: [22683303](//www.ncbi.nlm.nih.gov/pubmed/22683303); PMCID: [PMC3432148](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3432148).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 23 publications over 10 distinct years, with a maximum of
+3 publications in 2012 and 2015 and 2018 and 2021 and 2022 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,33,33,100,0,0,100,33,67,100,100,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2012| 3  
+2013| 1  
+2014| 1  
+2015| 3  
+2018| 3  
+2019| 1  
+2020| 2  
+2021| 3  
+2022| 3  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+DILEEP's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (120)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Chromatin](https://profiles.viictr.org/profile/257963)
+  * [DNA Replication Timing](https://profiles.viictr.org/profile/251279)
+  * [DNA Breaks, Double-Stranded](https://profiles.viictr.org/profile/254231)
+  * [Chromosomes](https://profiles.viictr.org/profile/251027)
+  * [DNA Replication](https://profiles.viictr.org/profile/255696)
+
+[Explore](https://profiles.viictr.org/profile/47337846/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [CHEN, JUNJIE](https://profiles.viictr.org/profile/12583344)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [IRA, GRZEGORZ](https://profiles.viictr.org/profile/269248)
+  * [ROSENBERG, SUSAN](https://profiles.viictr.org/profile/268344)
+
+[Explore](https://profiles.viictr.org/profile/47337846/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [LU, TZU-CHIAO](https://profiles.viictr.org/profile/35089796)
+  * [MUTLU, AYSE SENA](https://profiles.viictr.org/profile/1826735)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9QYVsPLp/MLn8bnWWWy2pKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,239 @@
+## DAVID ALFI
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Surgery  
+Address| 6624 Fannin St  
+Houston, 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Eqom6GGJAYfzT6%2fv43aML7CZ&rnd=20687afb-2627-4ce7-890c-fb0ae8c1e27b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=41415758)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Lang Y, Lian C, Xiao D, Deng H, Thung KH, Yuan P, Gateno J, Kuang T, **Alfi DM** , Wang L, Shen D, Xia JJ, Yap PT. Localization of Craniomaxillofacial Landmarks on CBCT Images Using 3D Mask R-CNN and Local Dependency Learning. IEEE Trans Med Imaging. 2022 10; 41(10):2856-2866. PMID: [35544487](//www.ncbi.nlm.nih.gov/pubmed/35544487); PMCID: [PMC9673501](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9673501).
+
+Citations:
+
+  2. Dibbs RP, Beh HZ, Ferry AM, Davies LW, Nguyen JL, Reece EM, **Alfi DM** , Pederson WC, [Buchanan EP](https://profiles.viictr.org/profile/268474). Two-Stage Treatment of a Large Premaxillary Defect. J Craniofac Surg. 2021 Nov-Dec 01; 32(8):2827-2829. PMID: [34172685](//www.ncbi.nlm.nih.gov/pubmed/34172685).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34172685/citedby/) Fields:
+
+Den DentistryGen General Surgery
+
+Translation:Humans
+
+  3. Lang Y, Lian C, Xiao D, Deng H, Yuan P, Gateno J, Shen SGF, **Alfi DM** , Yap PT, Xia JJ, Shen D. Automatic Localization of Landmarks in Craniomaxillofacial CBCT Images Using a Local Attention-Based Graph Convolution Network. Med Image Comput Comput Assist Interv. 2020 Oct; 12264:817-826. PMID: [34927175](//www.ncbi.nlm.nih.gov/pubmed/34927175); PMCID: [PMC8675277](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8675277).
+
+Citations:
+
+  4. Lee KC, Peters SM, Pradhan JS, **Alfi DM** , Koslovsky DA, Philipone EM. Destructive maxillary radiolucency in a 20-year-old female. Oral Surg Oral Med Oral Pathol Oral Radiol. 2021 01; 131(1):3-8. PMID: [32173397](//www.ncbi.nlm.nih.gov/pubmed/32173397).
+
+Citations:
+
+  5. Xiao D, Wang L, Deng H, Thung KH, Zhu J, Yuan P, Rodrigues YL, Perez L, Crecelius CE, Gateno J, Kuang T, Shen SGF, Kim D, **Alfi DM** , Yap PT, Xia JJ, Shen D. Estimating Reference Bony Shape Model for Personalized Surgical Reconstruction of Posttraumatic Facial Defects. Med Image Comput Comput Assist Interv. 2019 Oct; 11768:327-335. PMID: [31840137](//www.ncbi.nlm.nih.gov/pubmed/31840137); PMCID: [PMC6910247](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6910247).
+
+Citations:
+
+  6. Kim D, Kuang T, Rodrigues YL, Gateno J, Shen SGF, Wang X, Deng H, Yuan P, **Alfi DM** , [Liebschner MAK](https://profiles.viictr.org/profile/265888), Xia JJ. A New Approach of Predicting Facial Changes following Orthognathic Surgery using Realistic Lip Sliding Effect. Med Image Comput Comput Assist Interv. 2019 Oct; 11768:336-344. PMID: [31886472](//www.ncbi.nlm.nih.gov/pubmed/31886472); PMCID: [PMC6934101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6934101).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31886472/citedby/) Fields:
+
+Dia Diagnostic ImagingMed Medical Informatics
+
+  7. Huang MF, **Alfi D** , Alfi J, Huang AT. The Use of Patient-Specific Implants in Oral and Maxillofacial Surgery. Oral Maxillofac Surg Clin North Am. 2019 Nov; 31(4):593-600. PMID: [31481289](//www.ncbi.nlm.nih.gov/pubmed/31481289).
+
+Citations:
+
+  8. Li J, Yuan P, Chang CM, Ho DC, Lo YF, Shen S, Kim D, Teichgraeber JF, **Alfi DM** , Gateno J, Xia JJ. New approach to establish an object reference frame for dental arch in computer-aided surgical simulation. Int J Oral Maxillofac Surg. 2017 Sep; 46(9):1193-1200. PMID: [28499508](//www.ncbi.nlm.nih.gov/pubmed/28499508); PMCID: [PMC5559304](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5559304).
+
+Citations:
+
+  9. Yuan P, Mai H, Li J, Ho DC, Lai Y, Liu S, Kim D, Xiong Z, **Alfi DM** , Teichgraeber JF, Gateno J, Xia JJ. Design, development and clinical validation of computer-aided surgical simulation system for streamlined orthognathic surgical planning. Int J Comput Assist Radiol Surg. 2017 Dec; 12(12):2129-2143. PMID: [28432489](//www.ncbi.nlm.nih.gov/pubmed/28432489); PMCID: [PMC5664166](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5664166).
+
+Citations:
+
+  10. Bhumiratana S, Bernhard JC, **Alfi DM** , Yeager K, Eton RE, Bova J, Shah F, Gimble JM, Lopez MJ, Eisig SB, Vunjak-Novakovic G. Tissue-engineered autologous grafts for facial bone reconstruction. Sci Transl Med. 2016 06 15; 8(343):343ra83. PMID: [27306665](//www.ncbi.nlm.nih.gov/pubmed/27306665); PMCID: [PMC4944852](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4944852).
+
+Citations:
+
+  11. Xia JJ, Gateno J, Teichgraeber JF, Yuan P, Li J, Chen KC, Jajoo A, Nicol M, **Alfi DM**. Algorithm for planning a double-jaw orthognathic surgery using a computer-aided surgical simulation (CASS) protocol. Part 2: three-dimensional cephalometry. Int J Oral Maxillofac Surg. 2015 Dec; 44(12):1441-50. PMID: [26573563](//www.ncbi.nlm.nih.gov/pubmed/26573563); PMCID: [PMC4653089](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4653089).
+
+Citations:
+
+  12. Xia JJ, Gateno J, Teichgraeber JF, Yuan P, Chen KC, Li J, Zhang X, Tang Z, **Alfi DM**. Algorithm for planning a double-jaw orthognathic surgery using a computer-aided surgical simulation (CASS) protocol. Part 1: planning sequence. Int J Oral Maxillofac Surg. 2015 Dec; 44(12):1431-40. PMID: [26573562](//www.ncbi.nlm.nih.gov/pubmed/26573562); PMCID: [PMC4653096](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4653096).
+
+Citations:
+
+  13. Gateno J, **Alfi D** , Xia JJ, Teichgraeber JF. A Geometric Classification of Jaw Deformities. J Oral Maxillofac Surg. 2015 Dec; 73(12 Suppl):S26-31. PMID: [26608152](//www.ncbi.nlm.nih.gov/pubmed/26608152); PMCID: [PMC4666701](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4666701).
+
+Citations:
+
+  14. Gateno J, Ferraz F, **Alfi D**. Bad split: anatomic or technical problem? J Oral Maxillofac Surg. 2015 Jun; 73(6):1023-4. PMID: [25981833](//www.ncbi.nlm.nih.gov/pubmed/25981833).
+
+Citations:
+
+  15. Bova JF, da Cunha AF, Stout RW, Bhumiratana S, **Alfi DM** , Eisig SB, Vunjak-Novakovic G, Lopez MJ. Bupivacaine mandibular nerve block affects intraoperative blood pressure and heart rate in a Yucatan miniature swine mandibular condylectomy model: a pilot study. J Invest Surg. 2015 Feb; 28(1):32-9. PMID: [25394295](//www.ncbi.nlm.nih.gov/pubmed/25394295); PMCID: [PMC4479207](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4479207).
+
+Citations:
+
+  16. **Alfi D** , Lam D, Gateno J. Branchial arch syndromes. Atlas Oral Maxillofac Surg Clin North Am. 2014 Sep; 22(2):167-73. PMID: [25171997](//www.ncbi.nlm.nih.gov/pubmed/25171997).
+
+Citations:
+
+  17. Mandel L, **Alfi D**. Diagnostic imaging for submandibular duct atresia: literature review and case report. J Oral Maxillofac Surg. 2012 Dec; 70(12):2819-22. PMID: [22632932](//www.ncbi.nlm.nih.gov/pubmed/22632932).
+
+Citations:
+
+  18. Yagoubian B, Akkara J, Afzali P, **Alfi DM** , Olson L, Conell-Price J, Yeh J, Eisig SB, Flood P. Nicotine nasal spray as an adjuvant analgesic for third molar surgery. J Oral Maxillofac Surg. 2011 May; 69(5):1316-9. PMID: [21256649](//www.ncbi.nlm.nih.gov/pubmed/21256649).
+
+Citations:
+
+  19. Mandel L, **Alfi D**. Drug-induced paraparotid fat deposition in patients with HIV: case reports. J Am Dent Assoc. 2008 Feb; 139(2):152-7. PMID: [18245682](//www.ncbi.nlm.nih.gov/pubmed/18245682).
+
+Citations:
+
+  20. Adamjee A, **Alfi D** , Agarwal D, Braithwaite Y, Chan J, Chey M, Cho H, Choi C. What does the fact of advertising convey to patients? J Am Coll Dent. 2005; 72(3):22-3. PMID: [16623135](//www.ncbi.nlm.nih.gov/pubmed/16623135).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 20 publications over 12 distinct years, with a maximum of
+4 publications in 2015 and
+2019](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,25,0,0,25,0,0,25,25,0,50,100,25,50,0,100,25,25,25,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2005| 1  
+2008| 1  
+2011| 1  
+2012| 1  
+2014| 2  
+2015| 4  
+2016| 1  
+2017| 2  
+2019| 4  
+2020| 1  
+2021| 1  
+2022| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ALFI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (119)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Orthognathic Surgical Procedures](https://profiles.viictr.org/profile/249195)
+  * [Maxillofacial Abnormalities](https://profiles.viictr.org/profile/255118)
+  * [Computer Simulation](https://profiles.viictr.org/profile/246174)
+  * [Cephalometry](https://profiles.viictr.org/profile/259430)
+  * [Surgery, Computer-Assisted](https://profiles.viictr.org/profile/251423)
+
+[Explore](https://profiles.viictr.org/profile/41415758/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [BUCHANAN, EDWARD](https://profiles.viictr.org/profile/268474)
+  * [LIEBSCHNER, MICHAEL](https://profiles.viictr.org/profile/265888)
+
+[Explore](https://profiles.viictr.org/profile/41415758/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ROHRICH, RODNEY](https://profiles.viictr.org/profile/30445263)
+  * [HANASONO, MATTHEW M](https://profiles.viictr.org/profile/12583443)
+  * [BUCHANAN, EDWARD](https://profiles.viictr.org/profile/268474)
+  * [MOHAN, RADHE](https://profiles.viictr.org/profile/12583017)
+  * [CHANG, EDWARD I-FEI](https://profiles.viictr.org/profile/12583166)
+
+[Explore](https://profiles.viictr.org/profile/41415758/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BARRERA, ALFONSO](https://profiles.viictr.org/profile/267538)
+  * [ELLSWORTH IV, WARREN](https://profiles.viictr.org/profile/22369004)
+  * [MADJIDI, AZITA](https://profiles.viictr.org/profile/265776)
+  * [NETSCHER, DAVID](https://profiles.viictr.org/profile/266878)
+  * [SEQUITIN, JEROMIE](https://profiles.viictr.org/profile/20663900)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9QYVsPLp/MLn0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

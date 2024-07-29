@@ -1,0 +1,236 @@
+## YUKI OGAWA
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=D7476CvoJ4riR6%2fv43aML7CZ&rnd=1d321e7f-9e59-4a61-8d6c-e1c8ebe1903e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=24845038)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Melton AJ](https://profiles.viictr.org/profile/31189462), [Palfini VL](https://profiles.viictr.org/profile/34774550), **Ogawa Y** , [Rasband MN](https://profiles.viictr.org/profile/265764). TRIM46 is not required for axon specification or axon initial segment formation in vivo. bioRxiv. 2024 May 23. PMID: [38826451](//www.ncbi.nlm.nih.gov/pubmed/38826451); PMCID: [PMC11142202](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11142202).
+
+Citations:
+
+  2. Zhang W, Fu Y, Peng L, **Ogawa Y** , Ding X, Rasband A, Zhou X, Shelly M, [Rasband MN](https://profiles.viictr.org/profile/265764), Zou P. Immunoproximity biotinylation reveals the axon initial segment proteome. Nat Commun. 2023 Dec 11; 14(1):8201. PMID: [38081810](//www.ncbi.nlm.nih.gov/pubmed/38081810); PMCID: [PMC10713531](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10713531).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38081810/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  3. **Ogawa Y** , Lim BC, George S, Oses-Prieto JA, [Rasband JM](https://profiles.viictr.org/profile/40580075), Eshed-Eisenbach Y, Hamdan H, Nair S, Boato F, Peles E, Burlingame AL, Van Aelst L, [Rasband MN](https://profiles.viictr.org/profile/265764). Antibody-directed extracellular proximity biotinylation reveals that Contactin-1 regulates axo-axonic innervation of axon initial segments. Nat Commun. 2023 10 26; 14(1):6797. PMID: [37884508](//www.ncbi.nlm.nih.gov/pubmed/37884508); PMCID: [PMC10603070](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10603070).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37884508/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  4. Bingham D, Jakobs CE, Wernert F, Boroni-Rueda F, Jullien N, Schentarra EM, Friedl K, Da Costa Moura J, van Bommel DM, Caillol G, **Ogawa Y** , Papandr?ou MJ, Leterrier C. Presynapses contain distinct actin nanostructures. J Cell Biol. 2023 10 02; 222(10). PMID: [37578754](//www.ncbi.nlm.nih.gov/pubmed/37578754); PMCID: [PMC10424573](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10424573).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37578754/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  5. **Ogawa Y** , Lim BC, George S, Oses-Prieto JA, [Rasband JM](https://profiles.viictr.org/profile/40580075), Eshed-Eisenbach Y, Nair S, Boato F, Peles E, Burlingame AL, Van Aelst L, [Rasband MN](https://profiles.viictr.org/profile/265764). Antibody-directed extracellular proximity biotinylation reveals Contactin-1 regulates axo-axonic innervation of axon initial segments. bioRxiv. 2023 Mar 06. PMID: [36945454](//www.ncbi.nlm.nih.gov/pubmed/36945454); PMCID: [PMC10028829](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10028829).
+
+Citations:
+
+  6. Stevens SR, van der Heijden ME, **Ogawa Y** , Lin T, [Sillitoe RV](https://profiles.viictr.org/profile/268552), [Rasband MN](https://profiles.viictr.org/profile/265764). Ankyrin-R Links Kv3.3 to the Spectrin Cytoskeleton and Is Required for Purkinje Neuron Survival. J Neurosci. 2022 01 05; 42(1):2-15. PMID: [34785580](//www.ncbi.nlm.nih.gov/pubmed/34785580); PMCID: [PMC8741159](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8741159).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34785580/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  7. Stevens SR, Longley CM, **Ogawa Y** , Teliska LH, Arumanayagam AS, Nair S, Oses-Prieto JA, Burlingame AL, [Cykowski MD](https://profiles.viictr.org/profile/14348186), [Xue M](https://profiles.viictr.org/profile/7520380), [Rasband MN](https://profiles.viictr.org/profile/265764). Ankyrin-R regulates fast-spiking interneuron excitability through perineuronal nets and Kv3.1b K+ channels. Elife. 2021 06 28; 10. PMID: [34180393](//www.ncbi.nlm.nih.gov/pubmed/34180393); PMCID: [PMC8257253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8257253).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34180393/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  8. **Ogawa Y** , [Rasband MN](https://profiles.viictr.org/profile/265764). Endogenously expressed Ranbp2 is not at the axon initial segment. J Cell Sci. 2021 03 11; 134(6). PMID: [33536249](//www.ncbi.nlm.nih.gov/pubmed/33536249); PMCID: [PMC7972316](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7972316).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33536249/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  9. Torii T, **Ogawa Y** , Liu CH, Ho TS, Hamdan H, Wang CC, Oses-Prieto JA, Burlingame AL, [Rasband MN](https://profiles.viictr.org/profile/265764). NuMA1 promotes axon initial segment assembly through inhibition of endocytosis. J Cell Biol. 2020 02 03; 219(2). PMID: [31727776](//www.ncbi.nlm.nih.gov/pubmed/31727776); PMCID: [PMC7041696](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7041696).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31727776/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  10. **Ogawa Y** , Yamaguchi J, Yano M, Uchiyama Y, Okano HJ. Elavl3 regulates neuronal polarity through the alternative splicing of an embryo-specific exon in AnkyrinG. Neurosci Res. 2018 Oct; 135:13-20. PMID: [29614249](//www.ncbi.nlm.nih.gov/pubmed/29614249).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29614249/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  11. **Ogawa Y** , Kakumoto K, Yoshida T, Kuwako KI, Miyazaki T, Yamaguchi J, Konno A, Hata J, Uchiyama Y, Hirai H, Watanabe M, Darnell RB, Okano H, Okano HJ. Elavl3 is essential for the maintenance of Purkinje neuron axons. Sci Rep. 2018 02 09; 8(1):2722. PMID: [29426875](//www.ncbi.nlm.nih.gov/pubmed/29426875); PMCID: [PMC5807307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5807307).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29426875/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 5 distinct years, with a maximum of 4
+publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,25,75,0,100,25&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2018| 2  
+2020| 1  
+2021| 3  
+2023| 4  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+OGAWA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (59)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Axon Initial Segment](https://profiles.viictr.org/profile/27544790)
+  * [Purkinje Cells](https://profiles.viictr.org/profile/245847)
+  * [ELAV-Like Protein 3](https://profiles.viictr.org/profile/27544315)
+  * [Ankyrins](https://profiles.viictr.org/profile/244454)
+  * [Biological Phenomena](https://profiles.viictr.org/profile/250514)
+
+[Explore](https://profiles.viictr.org/profile/24845038/198)
+
+_
+
+Co-Authors (7)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [Rasband, Joshua](https://profiles.viictr.org/profile/40580075)
+  * [Melton, Allison](https://profiles.viictr.org/profile/31189462)
+  * [Palfini, Victoria](https://profiles.viictr.org/profile/34774550)
+  * [SILLITOE, ROY](https://profiles.viictr.org/profile/268552)
+
+[Explore](https://profiles.viictr.org/profile/24845038/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [SILLITOE, ROY](https://profiles.viictr.org/profile/268552)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+
+[Explore](https://profiles.viictr.org/profile/24845038/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BUFFINGTON, SHELLY](https://profiles.viictr.org/profile/3010292)
+  * [MCGINLEY, MATTHEW](https://profiles.viictr.org/profile/18830398)
+  * [PITKOW, ZACHARY](https://profiles.viictr.org/profile/2619384)
+  * [SINZ, FABIAN](https://profiles.viictr.org/profile/11761036)
+  * [TOLIAS, KIMBERLEY](https://profiles.viictr.org/profile/265514)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiUzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

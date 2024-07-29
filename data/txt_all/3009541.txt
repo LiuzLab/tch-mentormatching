@@ -1,0 +1,325 @@
+## YANGJIN BAE
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=NKo1wWfELcXwQpo%3d&rnd=a3577ff7-d8b9-4762-9927-2456a899a0cb)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3009541)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Song IW, Washington M, Leynes C, Hsu J, Rayavara K, **Bae Y** , [Haelterman N](https://profiles.viictr.org/profile/1826458), Chen Y, Jiang MM, Drelich A, Tat V, [Lanza DG](https://profiles.viictr.org/profile/3009682), [Lorenzo I](https://profiles.viictr.org/profile/268053), [Heaney JD](https://profiles.viictr.org/profile/268694), Tseng CK, Lee B, [Marom R](https://profiles.viictr.org/profile/14348371). Generation of a humanized mAce2 and a conditional hACE2 mouse models permissive to SARS-COV-2 infection. Mamm Genome. 2024 Jun; 35(2):113-121. PMID: [38488938](//www.ncbi.nlm.nih.gov/pubmed/38488938).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  2. Weisz-Hubshman M, Egunsula AT, [Dawson B](https://profiles.viictr.org/profile/23478740), Castellon A, Jiang MM, Chen-Evenson Y, Zhiyin Y, Lee B, **Bae Y**. DDRGK1 is required for the proper development and maintenance of the growth plate cartilage. Hum Mol Genet. 2022 08 23; 31(16):2820-2830. PMID: [35377455](//www.ncbi.nlm.nih.gov/pubmed/35377455); PMCID: [PMC9402238](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9402238).
+
+Citations:  Fields:
+
+Gen GeneticsMol Molecular Biology
+
+  3. **Bae Y** , Zeng HC, Chen YT, [Ketkar S](https://profiles.viictr.org/profile/28999445), Munivez E, Yu Z, Gannon FH, [Lee BH](https://profiles.viictr.org/profile/267019). miRNA-34c Suppresses Osteosarcoma Progression In Vivo by Targeting Notch and E2F. JBMR Plus. 2022 May; 6(5):e10623. PMID: [35509638](//www.ncbi.nlm.nih.gov/pubmed/35509638); PMCID: [PMC9059472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9059472).
+
+Citations:
+
+  4. Surface LE, Burrow DT, Li J, Park J, Kumar S, Lyu C, Song N, Yu Z, Rajagopal A, **Bae Y** , [Lee BH](https://profiles.viictr.org/profile/267019), Mumm S, Gu CC, Baker JC, Mohseni M, Sum M, Huskey M, Duan S, Bijanki VN, Civitelli R, Gardner MJ, McAndrew CM, Ricci WM, Gurnett CA, Diemer K, Wan F, Costantino CL, Shannon KM, Raje N, Dodson TB, Haber DA, Carette JE, Varadarajan M, Brummelkamp TR, Birsoy K, Sabatini DM, Haller G, Peterson TR. ATRAID regulates the action of nitrogen-containing bisphosphonates on bone. Sci Transl Med. 2020 05 20; 12(544). PMID: [32434850](//www.ncbi.nlm.nih.gov/pubmed/32434850); PMCID: [PMC7882121](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7882121).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32434850/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  5. Zieba JT, Chen YT, [Lee BH](https://profiles.viictr.org/profile/267019), **Bae Y**. Notch Signaling in Skeletal Development, Homeostasis and Pathogenesis. Biomolecules. 2020 02 19; 10(2). PMID: [32092942](//www.ncbi.nlm.nih.gov/pubmed/32092942); PMCID: [PMC7072615](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7072615).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32092942/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  6. Zheng H, **Bae Y** , Kasimir-Bauer S, Tang R, Chen J, Ren G, Yuan M, Esposito M, Li W, Wei Y, Shen M, Zhang L, Tupitsyn N, Pantel K, King C, Sun J, Moriguchi J, Jun HT, Coxon A, Lee B, Kang Y. Therapeutic Antibody Targeting Tumor- and Osteoblastic Niche-Derived Jagged1 Sensitizes Bone Metastasis to Chemotherapy. Cancer Cell. 2017 Dec 11; 32(6):731-747.e6. PMID: [29232552](//www.ncbi.nlm.nih.gov/pubmed/29232552); PMCID: [PMC5729937](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5729937).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29232552/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  7. [Marom R](https://profiles.viictr.org/profile/14348371), Jain M, [Burrage LC](https://profiles.viictr.org/profile/3010239), Song IW, Graham BH, Brown CW, Stevens SJC, Stegmann APA, Gunter AT, Kaplan JD, Gavrilova RH, Shinawi M, Rosenfeld JA, **Bae Y** , Tran AA, Chen Y, Lu JT, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Eng C](https://profiles.viictr.org/profile/267270), Yang Y, Rousseau J, de Vries BBA, Campeau PM, Lee B. Heterozygous variants in ACTL6A, encoding a component of the BAF complex, are associated with intellectual disability. Hum Mutat. 2017 10; 38(10):1365-1371. PMID: [28649782](//www.ncbi.nlm.nih.gov/pubmed/28649782); PMCID: [PMC5599325](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5599325).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28649782/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  8. Zeng HC, **Bae Y** , [Dawson BC](https://profiles.viictr.org/profile/23478740), Chen Y, Bertin T, Munivez E, Campeau PM, Tao J, Chen R, [Lee BH](https://profiles.viictr.org/profile/267019). MicroRNA miR-23a cluster promotes osteocyte differentiation by regulating TGF-? signalling in osteoblasts. Nat Commun. 2017 04 11; 8:15000. PMID: [28397831](//www.ncbi.nlm.nih.gov/pubmed/28397831); PMCID: [PMC5394267](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5394267).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28397831/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  9. Egunsola AT, **Bae Y** , Jiang MM, Liu DS, Chen-Evenson Y, Bertin T, Chen S, Lu JT, Nevarez L, Magal N, Raas-Rothschild A, Swindell EC, Cohn DH, [Gibbs RA](https://profiles.viictr.org/profile/269695), Campeau PM, Shohat M, [Lee BH](https://profiles.viictr.org/profile/267019). Loss of DDRGK1 modulates SOX9 ubiquitination in spondyloepimetaphyseal dysplasia. J Clin Invest. 2017 Apr 03; 127(4):1475-1484. PMID: [28263186](//www.ncbi.nlm.nih.gov/pubmed/28263186); PMCID: [PMC5373861](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5373861).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28263186/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  10. Yu C, Wang H, Muscarella A, Goldstein A, Zeng HC, **Bae Y** , Lee BH, [Zhang XH](https://profiles.viictr.org/profile/269369). Intra-iliac Artery Injection for Efficient and Selective Modeling of Microscopic Bone Metastasis. J Vis Exp. 2016 09 26; (115). PMID: [27768029](//www.ncbi.nlm.nih.gov/pubmed/27768029); PMCID: [PMC5092070](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5092070).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27768029/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansAnimals
+
+  11. Lu L, Harutyunyan K, Jin W, Wu J, Yang T, Chen Y, Joeng KS, **Bae Y** , Tao J, [Dawson BC](https://profiles.viictr.org/profile/23478740), Jiang MM, Lee B, [Wang LL](https://profiles.viictr.org/profile/267005). RECQL4 Regulates p53 Function In Vivo During Skeletogenesis. J Bone Miner Res. 2015 Jun; 30(6):1077-89. PMID: [25556649](//www.ncbi.nlm.nih.gov/pubmed/25556649).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25556649/citedby/) Fields:
+
+Met MetabolismOrt Orthopedics
+
+Translation:HumansAnimals
+
+  12. Chen S, Grover M, Sibai T, Black J, Rianon N, Rajagopal A, Munivez E, Bertin T, [Dawson B](https://profiles.viictr.org/profile/23478740), Chen Y, Jiang MM, Lee B, Yang T, **Bae Y**. Losartan increases bone mass and accelerates chondrocyte hypertrophy in developing skeleton. Mol Genet Metab. 2015 May; 115(1):53-60. PMID: [25779879](//www.ncbi.nlm.nih.gov/pubmed/25779879); PMCID: [PMC4426054](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4426054).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25779879/citedby/) Fields:
+
+Bio BiochemistryMet MetabolismMol Molecular Biology
+
+Translation:AnimalsCells
+
+  13. Chen S, Lee BH, **Bae Y**. Notch signaling in skeletal stem cells. Calcif Tissue Int. 2014 Jan; 94(1):68-77. PMID: [23963632](//www.ncbi.nlm.nih.gov/pubmed/23963632); PMCID: [PMC3947214](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3947214).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23963632/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansAnimalsCells
+
+  14. Campeau PM, Lenk GM, Lu JT, **Bae Y** , [Burrage L](https://profiles.viictr.org/profile/3010239), Turnpenny P, Morandi L, Mora M, Reutter H, Vulto-van Silfhout AT, Faivre L, Haan E, [Gibbs RA](https://profiles.viictr.org/profile/269695), Meisler MH, [Lee BH](https://profiles.viictr.org/profile/267019), Rom?n Corona-Rivera J. Yunis-Var?n syndrome is caused by mutations in FIG4, encoding a phosphoinositide phosphatase. Am J Hum Genet. 2013 May 02; 92(5):781-91. PMID: [23623387](//www.ncbi.nlm.nih.gov/pubmed/23623387); PMCID: [PMC3644641](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3644641).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23623387/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  15. Yang T, Grafe I, **Bae Y** , Chen S, Chen Y, Bertin TK, Jiang MM, Ambrose CG, Lee B. E-selectin ligand 1 regulates bone remodeling by limiting bioactive TGF-? in the bone microenvironment. Proc Natl Acad Sci U S A. 2013 Apr 30; 110(18):7336-41. PMID: [23589896](//www.ncbi.nlm.nih.gov/pubmed/23589896); PMCID: [PMC3645519](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3645519).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23589896/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  16. Chen S, Tao J, **Bae Y** , Jiang MM, Bertin T, Chen Y, Yang T, Lee B. Notch gain of function inhibits chondrocyte differentiation via Rbpj-dependent suppression of Sox9. J Bone Miner Res. 2013 Mar; 28(3):649-59. PMID: [22991339](//www.ncbi.nlm.nih.gov/pubmed/22991339); PMCID: [PMC3548081](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3548081).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22991339/citedby/) Fields:
+
+Met MetabolismOrt Orthopedics
+
+Translation:AnimalsCells
+
+  17. Campeau PM, Lu JT, Sule G, Jiang MM, **Bae Y** , Madan S, Shaw NJ, Mumm S, [Gibbs RA](https://profiles.viictr.org/profile/269695), Whyte MP, [Lee BH](https://profiles.viictr.org/profile/267019), H?gler W. Whole-exome sequencing identifies mutations in the nucleoside transporter gene SLC29A3 in dysosteosclerosis, a form of osteopetrosis. Hum Mol Genet. 2012 Nov 15; 21(22):4904-9. PMID: [22875837](//www.ncbi.nlm.nih.gov/pubmed/22875837); PMCID: [PMC3607481](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3607481).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22875837/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  18. **Bae Y** , Yang T, Zeng HC, Campeau PM, Chen Y, Bertin T, [Dawson BC](https://profiles.viictr.org/profile/23478740), Munivez E, Tao J, [Lee BH](https://profiles.viictr.org/profile/267019). miRNA-34c regulates Notch signaling during bone development. Hum Mol Genet. 2012 Jul 01; 21(13):2991-3000. PMID: [22498974](//www.ncbi.nlm.nih.gov/pubmed/22498974); PMCID: [PMC3373245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3373245).
+
+Citations:
+[97](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22498974/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:AnimalsCells
+
+  19. Klose RJ, Yamane K, **Bae Y** , Zhang D, Erdjument-Bromage H, Tempst P, Wong J, Zhang Y. The transcriptional repressor JHDM3A demethylates trimethyl histone H3 lysine 9 and lysine 36. Nature. 2006 Jul 20; 442(7100):312-6. PMID: [16732292](//www.ncbi.nlm.nih.gov/pubmed/16732292).
+
+Citations:
+
+  20. Zhang Q, **Bae Y** , Kemper JK, Kemper B. Analysis of multiple nuclear receptor binding sites for CAR/RXR in the phenobarbital responsive unit of CYP2B2. Arch Biochem Biophys. 2006 Jul 15; 451(2):119-27. PMID: [16725103](//www.ncbi.nlm.nih.gov/pubmed/16725103).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 20 publications over 9 distinct years, with a maximum of 4
+publications in 2013 and
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,50,100,0,50,25,100,0,0,50,0,50,0,25&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 2  
+2012| 2  
+2013| 4  
+2015| 2  
+2016| 1  
+2017| 4  
+2020| 2  
+2022| 2  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BAE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (171)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Osteogenesis](https://profiles.viictr.org/profile/247417)
+  * [Receptors, Notch](https://profiles.viictr.org/profile/259668)
+  * [Growth Plate](https://profiles.viictr.org/profile/258982)
+  * [Chondrogenesis](https://profiles.viictr.org/profile/248493)
+  * [Chondrocytes](https://profiles.viictr.org/profile/244242)
+
+[Explore](https://profiles.viictr.org/profile/3009541/198)
+
+_
+
+Co-Authors (13)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LEE, BRENDAN](https://profiles.viictr.org/profile/267019)
+  * [DAWSON, BRIAN](https://profiles.viictr.org/profile/23478740)
+  * [MAROM, RONIT](https://profiles.viictr.org/profile/14348371)
+  * [KETKAR, SHAMIKA](https://profiles.viictr.org/profile/28999445)
+  * [ZHANG, XIANG](https://profiles.viictr.org/profile/269369)
+
+[Explore](https://profiles.viictr.org/profile/3009541/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ELEFTERIOU, FLORENT](https://profiles.viictr.org/profile/15317741)
+  * [LEE, BRENDAN](https://profiles.viictr.org/profile/267019)
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+
+[Explore](https://profiles.viictr.org/profile/3009541/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [JAFAR-NEJAD, HAMED](https://profiles.viictr.org/profile/269877)
+  * [LANZA, DENISE](https://profiles.viictr.org/profile/3009682)
+  * [LI, HONGJIE](https://profiles.viictr.org/profile/31958890)
+  * [ROBAK, LAURIE](https://profiles.viictr.org/profile/14348300)
+  * [WORLEY, KIM](https://profiles.viictr.org/profile/266909)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [DARILEK, SANDRA](https://profiles.viictr.org/profile/268941)
+  * [DE HARO, MARIA](https://profiles.viictr.org/profile/3009799)
+  * [GINGRAS, MARIE-CLAUDE](https://profiles.viictr.org/profile/266579)
+  * [HARRIS, RONALD](https://profiles.viictr.org/profile/267623)
+  * [MARCIANO, DAVID](https://profiles.viictr.org/profile/3009795)
+
+_
+

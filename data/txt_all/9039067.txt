@@ -1,0 +1,296 @@
+## CRYSTAL SHIN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Surgery  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Fbkp8nHGLMXGTobjwHnBJ%2fqJIwQ%3d&rnd=db032517-553d-4a03-a569-bf7c1a2ff702)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=9039067)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Shin CS** , Veettil RA, Sakthivel TS, Adumbumkulath A, Lee R, Zaheer M, Kolanthai E, Seal S, [Acharya G](https://profiles.viictr.org/profile/268719). Noninvasive Delivery of Self-Regenerating Cerium Oxide Nanoparticles to Modulate Oxidative Stress in the Retina. ACS Appl Bio Mater. 2022 12 19; 5(12):5816-5825. PMID: [36441967](//www.ncbi.nlm.nih.gov/pubmed/36441967).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36441967/citedby/) Fields:
+
+Bio Biomedical EngineeringBio Biotechnology
+
+  2. Adumbumkulath A, **Shin C** , [Acharya GS](https://profiles.viictr.org/profile/268719), Biswas P, Sirisala M, Johnson R, Gade P. 3D Printing of MgAl2O4 Spinel Mesh and Densification Through Pressure-Less Sintering and Hot Isostatic Pressing. 3D Print Addit Manuf. 2022 Oct 01; 9(5):405-410. PMID: [36660291](//www.ncbi.nlm.nih.gov/pubmed/36660291); PMCID: [PMC9831561](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9831561).
+
+Citations:
+
+  3. [Ammassam Veettil R](https://profiles.viictr.org/profile/28999449), Marcano DC, Yuan X, Zaheer M, Adumbumkulath A, Lee R, Isenhart LC, Soriano N, Mhatre K, Joseph R, [Mani SA](https://profiles.viictr.org/profile/12583524), **Shin CS** , [Acharya G](https://profiles.viictr.org/profile/268719). Dextran Sulfate Polymer Wafer Promotes Corneal Wound Healing. Pharmaceutics. 2021 Oct 06; 13(10). PMID: [34683921](//www.ncbi.nlm.nih.gov/pubmed/34683921); PMCID: [PMC8539456](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8539456).
+
+Citations:
+
+  4. Wang DC, Clark JR, Lee R, Nelson AH, [Maresso AW](https://profiles.viictr.org/profile/269263), [Acharya G](https://profiles.viictr.org/profile/268719), **Shin CS**. Development of Antimicrobial Nitric Oxide-Releasing Fibers. Pharmaceutics. 2021 Sep 10; 13(9). PMID: [34575520](//www.ncbi.nlm.nih.gov/pubmed/34575520); PMCID: [PMC8468281](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8468281).
+
+Citations:
+
+  5. Joseph R, [Soundararajan R](https://profiles.viictr.org/profile/12584003), Vasaikar S, Yang F, Allton KL, Tian L, [den Hollander P](https://profiles.viictr.org/profile/12583758), Isgandarova S, Haemmerle M, Mino B, Zhou T, **Shin C** , Martinez-Paniagua M, [Sahin AA](https://profiles.viictr.org/profile/12582927), Rodriguez-Canales J, Gelovani J, Chang JT, [Acharya G](https://profiles.viictr.org/profile/268719), [Sood AK](https://profiles.viictr.org/profile/12583786), [Wistuba II](https://profiles.viictr.org/profile/12583798), [Gibbons DL](https://profiles.viictr.org/profile/12583086), Solis LM, [Barton MC](https://profiles.viictr.org/profile/12583364), Varadarajan N, [Rosen JM](https://profiles.viictr.org/profile/267640), Zhang XH, [Mani SA](https://profiles.viictr.org/profile/12583524). CD8+ T cells inhibit metastasis and CXCL4 regulates its function. Br J Cancer. 2021 07; 125(2):176-189. PMID: [33795809](//www.ncbi.nlm.nih.gov/pubmed/33795809); PMCID: [PMC8292398](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8292398).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33795809/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  6. **Shin CS** , Cabrera FJ, Lee R, Kim J, [Ammassam Veettil R](https://profiles.viictr.org/profile/28999449), Zaheer M, Adumbumkulath A, Mhatre K, Ajayan PM, [Curley SA](https://profiles.viictr.org/profile/3708901), [Scott BG](https://profiles.viictr.org/profile/269400), [Acharya G](https://profiles.viictr.org/profile/268719). 3D-Bioprinted Inflammation Modulating Polymer Scaffolds for Soft Tissue Repair. Adv Mater. 2021 Jan; 33(4):e2003778. PMID: [33325594](//www.ncbi.nlm.nih.gov/pubmed/33325594).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33325594/citedby/) Fields:
+
+Bio BiophysicsChe Chemistry
+
+Translation:Animals
+
+  7. Cabrera FJ, Wang DC, Reddy K, [Acharya G](https://profiles.viictr.org/profile/268719), **Shin CS**. Challenges and opportunities for drug delivery to the posterior of the eye. Drug Discov Today. 2019 08; 24(8):1679-1684. PMID: [31175955](//www.ncbi.nlm.nih.gov/pubmed/31175955); PMCID: [PMC6708448](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6708448).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31175955/citedby/) Fields:
+
+Dru Drug TherapyPha Pharmacology
+
+Translation:HumansAnimals
+
+  8. Farina M, Chua CYX, Ballerini A, Thekkedath U, Alexander JF, Rhudy JR, Torchio G, Fraga D, Pathak RR, Villanueva M, **Shin CS** , Niles JA, Sesana R, Demarchi D, Sikora AG, [Acharya GS](https://profiles.viictr.org/profile/268719), Gaber AO, Nichols JE, Grattoni A. Transcutaneously refillable, 3D-printed biopolymeric encapsulation system for the transplantation of endocrine cells. Biomaterials. 2018 09; 177:125-138. PMID: [29886385](//www.ncbi.nlm.nih.gov/pubmed/29886385).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29886385/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimalsCells
+
+  9. **Shin CS** , Marcano DC, Park K, [Acharya G](https://profiles.viictr.org/profile/268719). Application of Hydrogel Template Strategy in Ocular Drug Delivery. Methods Mol Biol. 2017; 1570:279-285. PMID: [28238144](//www.ncbi.nlm.nih.gov/pubmed/28238144).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28238144/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  10. Marcano DC, **Shin CS** , Lee B, Isenhart LC, Liu X, [Li F](https://profiles.viictr.org/profile/4897356), Jester JV, [Pflugfelder SC](https://profiles.viictr.org/profile/266106), Simpson J, [Acharya G](https://profiles.viictr.org/profile/268719). Synergistic Cysteamine Delivery Nanowafer as an Efficacious Treatment Modality for Corneal Cystinosis. Mol Pharm. 2016 10 03; 13(10):3468-3477. PMID: [27571217](//www.ncbi.nlm.nih.gov/pubmed/27571217).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27571217/citedby/) Fields:
+
+Mol Molecular BiologyPha Pharmacology
+
+Translation:Animals
+
+  11. Bian F, **Shin CS** , Wang C, [Pflugfelder SC](https://profiles.viictr.org/profile/266106), [Acharya G](https://profiles.viictr.org/profile/268719), [De Paiva CS](https://profiles.viictr.org/profile/268002). Dexamethasone Drug Eluting Nanowafers Control Inflammation in Alkali-Burned Corneas Associated With Dry Eye. Invest Ophthalmol Vis Sci. 2016 06 01; 57(7):3222-30. PMID: [27327581](//www.ncbi.nlm.nih.gov/pubmed/27327581); PMCID: [PMC4928693](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4928693).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27327581/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  12. Coursey TG, Henriksson JT, Marcano DC, **Shin CS** , Isenhart LC, Ahmed F, [De Paiva CS](https://profiles.viictr.org/profile/268002), [Pflugfelder SC](https://profiles.viictr.org/profile/266106), [Acharya G](https://profiles.viictr.org/profile/268719). Dexamethasone nanowafer as an effective therapy for dry eye disease. J Control Release. 2015 Sep 10; 213:168-174. PMID: [26184051](//www.ncbi.nlm.nih.gov/pubmed/26184051).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26184051/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:Animals
+
+  13. Yuan X, Marcano DC, **Shin CS** , Hua X, Isenhart LC, [Pflugfelder SC](https://profiles.viictr.org/profile/266106), [Acharya G](https://profiles.viictr.org/profile/268719). Ocular drug delivery nanowafer with enhanced therapeutic efficacy. ACS Nano. 2015 Feb 24; 9(2):1749-58. PMID: [25585134](//www.ncbi.nlm.nih.gov/pubmed/25585134).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25585134/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:AnimalsCells
+
+  14. Kwak B, Ozcelikkale A, **Shin CS** , Park K, Han B. Simulation of complex transport of nanoparticles around a tumor using tumor-microenvironment-on-chip. J Control Release. 2014 Nov 28; 194:157-67. PMID: [25194778](//www.ncbi.nlm.nih.gov/pubmed/25194778); PMCID: [PMC4252353](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4252353).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25194778/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansCells
+
+  15. **Shin CS** , Kwak B, Han B, Park K. Development of an in vitro 3D tumor model to study therapeutic efficiency of an anticancer drug. Mol Pharm. 2013 Jun 03; 10(6):2167-75. PMID: [23461341](//www.ncbi.nlm.nih.gov/pubmed/23461341); PMCID: [PMC3880422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3880422).
+
+Citations:
+[44](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23461341/citedby/) Fields:
+
+Mol Molecular BiologyPha Pharmacology
+
+Translation:HumansCells
+
+  16. [Acharya G](https://profiles.viictr.org/profile/268719), McDermott M, **Shin SJ** , Park H, Park K. Hydrogel templates for the fabrication of homogeneous polymer microparticles. Methods Mol Biol. 2011; 726:179-85. PMID: [21424450](//www.ncbi.nlm.nih.gov/pubmed/21424450).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21424450/citedby/) Fields:
+
+Mol Molecular Biology
+
+  17. [Acharya G](https://profiles.viictr.org/profile/268719), **Shin CS** , Vedantham K, McDermott M, Rish T, Hansen K, Fu Y, Park K. A study of drug release from homogeneous PLGA microstructures. J Control Release. 2010 Sep 01; 146(2):201-6. PMID: [20381555](//www.ncbi.nlm.nih.gov/pubmed/20381555).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20381555/citedby/) Fields:
+
+Pha Pharmacology
+
+  18. [Acharya G](https://profiles.viictr.org/profile/268719), **Shin CS** , McDermott M, Mishra H, Park H, Kwon IC, Park K. The hydrogel template method for fabrication of homogeneous nano/microparticles. J Control Release. 2010 Feb 15; 141(3):314-9. PMID: [19822178](//www.ncbi.nlm.nih.gov/pubmed/19822178).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19822178/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 18 publications over 13 distinct years, with a maximum of
+3 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,33,33,0,33,33,67,67,33,33,33,33,100,67,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2009| 1  
+2010| 1  
+2011| 1  
+2013| 1  
+2014| 1  
+2015| 2  
+2016| 2  
+2017| 1  
+2018| 1  
+2019| 1  
+2020| 1  
+2021| 3  
+2022| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SHIN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (106)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Retinal Diseases](https://profiles.viictr.org/profile/249075)
+  * [Polymers](https://profiles.viictr.org/profile/245963)
+  * [Hydrogel, Polyethylene Glycol Dimethacrylate](https://profiles.viictr.org/profile/251666)
+  * [Bioprinting](https://profiles.viictr.org/profile/27546793)
+  * [Drug Delivery Systems](https://profiles.viictr.org/profile/247263)
+
+[Explore](https://profiles.viictr.org/profile/9039067/198)
+
+_
+
+Co-Authors (18)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ACHARYA, GHANASHYAM](https://profiles.viictr.org/profile/268719)
+  * [Ammassam Veettil, Remya](https://profiles.viictr.org/profile/28999449)
+  * [MANI, SENDURAI](https://profiles.viictr.org/profile/12583524)
+  * [MARESSO, ANTHONY](https://profiles.viictr.org/profile/269263)
+  * [SCOTT, BRADFORD](https://profiles.viictr.org/profile/269400)
+
+[Explore](https://profiles.viictr.org/profile/9039067/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PFLUGFELDER, STEPHEN](https://profiles.viictr.org/profile/266106)
+  * [DE PAIVA, CINTIA](https://profiles.viictr.org/profile/268002)
+  * [WENG, CHRISTINA](https://profiles.viictr.org/profile/8183299)
+  * [ACHARYA, GHANASHYAM](https://profiles.viictr.org/profile/268719)
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+
+[Explore](https://profiles.viictr.org/profile/9039067/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ACHARYA, GHANASHYAM](https://profiles.viictr.org/profile/268719)
+  * [CHEN, CHANGYI](https://profiles.viictr.org/profile/268741)
+  * [SALAS, NILSON](https://profiles.viictr.org/profile/15317806)
+  * [SHEN, HU YING](https://profiles.viictr.org/profile/270198)
+  * [YAO, QIZHI](https://profiles.viictr.org/profile/268592)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9QYVsPLp/MLn0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

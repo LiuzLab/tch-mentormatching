@@ -1,0 +1,655 @@
+## JOSEPH HYSER
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=PKNhszORdNrVRIzgrn7GPw%3d%3d&rnd=dcfcecc9-e5f0-4d6c-b396-a323bbf3eef4)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269246)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=269246&cachekey=e9a21072-72d5-4b7e-8fd8-8522ad902204)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+keywords
+
+  * [Calcium imaging, Gastrointestinal transport, Store-operated calcium entry, Voltage-activated calcium channels, Viroporins, HIV-1, Autophagy, Rotavirus, Calcium-activated chloride channels](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Calcium imaging, Gastrointestinal transport, Store-operated calcium entry, Voltage-activated calcium channels, Viroporins, HIV-1, Autophagy, Rotavirus, Calcium-activated chloride channels&exactphrase=false)
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01AI173318 (BEETON, CHRISTINE)Mar 20, 2023 - Feb 29, 2028NIH  
+Engineered probiotic for the treatment of autoimmune diseases  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R01AI158683 (HYSER, JOSEPH M.)Sep 21, 2021 - Aug 31, 2026NIH  
+Dissecting Rotavirus Viroporin and Enterotoxin Calcium Signaling Pathways  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21AI137710 (HYSER, JOSEPH M.)Nov 16, 2018 - Oct 31, 2021NIH  
+Enteric Calicivirus Viroporin-Mediated Calcium Signaling  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01DK115507 (HYSER, JOSEPH M.)Jul 13, 2018 - Jun 30, 2028NIH  
+Enteric virus exploitation of calcium signaling  
+Role: Principal Investigator  
+  
+* * *  
+  
+R03DK110270 (HYSER, JOSEPH M.)Apr 15, 2017 - Mar 31, 2019NIH  
+Regulation of Enteric Virus Secretory Diarrhea  
+Role: Principal Investigator  
+  
+* * *  
+  
+K01DK093657 (HYSER, JOSEPH M.)Sep 15, 2012 - Apr 30, 2018NIH  
+Enteric Virus Calcium Channel Inhibitors  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Gebert JT, [Scribano FJ](https://profiles.viictr.org/profile/28999427), [Engevik KA](https://profiles.viictr.org/profile/28999455), Philip AA, Kawagishi T, Greenberg HB, Patton JT, **Hyser JM**. Viroporin activity from rotavirus nonstructural protein 4 induces intercellular calcium waves that contribute to pathogenesis. bioRxiv. 2024 May 07. PMID: [38765992](//www.ncbi.nlm.nih.gov/pubmed/38765992); PMCID: [PMC11100692](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11100692).
+
+Citations:
+
+  2. [Engevik KA](https://profiles.viictr.org/profile/28999455), [Scribano FJ](https://profiles.viictr.org/profile/28999427), Gebert JT, **Hyser JM**. Purinergic Signaling Drives Multiple Aspects of Rotavirus Pathophysiology. bioRxiv. 2024 May 07. PMID: [38765995](//www.ncbi.nlm.nih.gov/pubmed/38765995); PMCID: [PMC11100750](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11100750).
+
+Citations:
+
+  3. Gebert JT, [Scribano FJ](https://profiles.viictr.org/profile/28999427), [Engevik KA](https://profiles.viictr.org/profile/28999455), **Hyser JM**. Live Calcium Imaging of Virus-Infected Human Intestinal Organoid Monolayers Using Genetically Encoded Calcium Indicators. J Vis Exp. 2024 Jan 19; (203). PMID: [38314824](//www.ncbi.nlm.nih.gov/pubmed/38314824); PMCID: [PMC11157669](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11157669).
+
+Citations:  Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Humans
+
+  4. [Scribano FJ](https://profiles.viictr.org/profile/28999427), [Engevik KA](https://profiles.viictr.org/profile/28999455), Gebert JT, **Hyser JM**. Live-Cell Fluorescence Imaging for Virus-Host Interactions. Methods Mol Biol. 2024; 2751:33-46. PMID: [38265708](//www.ncbi.nlm.nih.gov/pubmed/38265708).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  5. Perry JL, [Scribano FJ](https://profiles.viictr.org/profile/28999427), [Gebert JT](https://profiles.viictr.org/profile/28999094), [Engevik KA](https://profiles.viictr.org/profile/28999455), Ellis JM, **Hyser JM**. Host IP3R channels are dispensable for rotavirus Ca2+ signaling but critical for intercellular Ca2+ waves that prime uninfected cells for rapid virus spread. mBio. 2024 Jan 16; 15(1):e0214523. PMID: [38112482](//www.ncbi.nlm.nih.gov/pubmed/38112482); PMCID: [PMC10790754](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10790754).
+
+Citations:  Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  6. [Engevik KA](https://profiles.viictr.org/profile/28999455), [Scribano FJ](https://profiles.viictr.org/profile/28999427), Gebert JT, Perry JL, [Crawford SE](https://profiles.viictr.org/profile/8950230), **Hyser JM**. Distribution of P2Y and P2X purinergic receptor expression within the intestine. Am J Physiol Gastrointest Liver Physiol. 2024 02 01; 326(2):G107-G119. PMID: [37987757](//www.ncbi.nlm.nih.gov/pubmed/37987757); PMCID: [PMC11208031](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11208031).
+
+Citations:  Fields:
+
+Gas GastroenterologyPhy Physiology
+
+Translation:HumansCells
+
+  7. Perry JL, [Scribano FJ](https://profiles.viictr.org/profile/28999427), [Gebert JT](https://profiles.viictr.org/profile/28999094), [Engevik KA](https://profiles.viictr.org/profile/28999455), Ellis JM, **Hyser JM**. The Inositol Trisphosphate Receptor (IP 3 R) is Dispensable for Rotavirus-induced Ca 2+ Signaling and Replication but Critical for Paracrine Ca 2+ Signals that Prime Uninfected Cells for Rapid Virus Spread. bioRxiv. 2023 Aug 14. PMID: [37609335](//www.ncbi.nlm.nih.gov/pubmed/37609335); PMCID: [PMC10441394](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10441394).
+
+Citations:
+
+  8. Hill AA, Kim M, Zegarra-Ruiz DF, Chang LC, Norwood K, Assi? A, Wu WH, Renfroe MC, Song HW, Major AM, [Samuel BS](https://profiles.viictr.org/profile/10675389), **Hyser JM** , Longman RS, [Diehl GE](https://profiles.viictr.org/profile/8183315). Acute high-fat diet impairs macrophage-supported intestinal damage resolution. JCI Insight. 2023 02 08; 8(3). PMID: [36538527](//www.ncbi.nlm.nih.gov/pubmed/36538527); PMCID: [PMC9977439](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9977439).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  9. Goodrum F, Lakdawala S, Alwine J, Casadevall A, Lowen AC, Imperiale MJ, Atwood W, Avgousti D, Baines J, Banfield B, Banks L, Bhaduri-McIntosh S, Bhattacharya D, Blanco-Melo D, Bloom D, Boon A, Boulant S, Brandt C, Broadbent A, Brooke C, Cameron C, Campos S, Caposio P, Chan G, Cliffe A, Coffin J, Collins K, Damania B, Daugherty M, Debbink K, DeCaprio J, Dermody T, Dikeakos J, DiMaio D, Dinglasan R, Duprex WP, Dutch R, Elde N, Emerman M, Enquist L, Fane B, Fernandez-Sesma A, Flenniken M, Frappier L, Frieman M, Frueh K, Gack M, Gaglia M, Gallagher T, Galloway D, Garc?a-Sastre A, Geballe A, Glaunsinger B, Goff S, Greninger A, Hancock M, Harris E, Heaton N, Heise M, Heldwein E, Hogue B, Horner S, Hutchinson E, **Hyser J** , Jackson W, Kalejta R, Kamil J, Karst S, Kirchhoff F, Knipe D, Kowalik T, Lagunoff M, Laimins L, Langlois R, Lauring A, Lee B, Leib D, Liu SL, Longnecker R, Lopez C, Luftig M, Lund J, Manicassamy B, McFadden G, McIntosh M, Mehle A, Miller WA, Mohr I, Moody C, Moorman N, Moscona A, Mounce B, Munger J, M?nger K, Murphy E, Naghavi M, Nelson J, Neufeldt C, Nikolich J, O'Connor C, Ono A, Orenstein W, Ornelles D, Ou JH, Parker J, Parrish C, Pekosz A, Pellett P, Pfeiffer J, Plemper R, Polyak S, Purdy J, Pyeon D, Quinones-Mateu M, Renne R, Rice C, Schoggins J, Roller R, Russell C, Sandri-Goldin R, Sapp M, Schang L, Schmid S, Schultz-Cherry S, Semler B, Shenk T, Silvestri G, Simon V, Smith G, Smith J, Spindler K, Stanifer M, Subbarao K, Sundquist W, Suthar M, Sutton T, Tai A, Tarakanova V, tenOever B, Tibbetts S, Tompkins S, Toth Z, van Doorslaer K, Vignuzzi M, Wallace N, Walsh D, Weekes M, Weinberg J, Weitzman M, Weller S, Whelan S, White E, Williams B, Wobus C, Wong S, Yurochko A. Virology under the Microscope-a Call for Rational Discourse. J Virol. 2023 02 28; 97(2):e0008923. PMID: [36700640](//www.ncbi.nlm.nih.gov/pubmed/36700640); PMCID: [PMC9972907](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9972907).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36700640/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCellsPHPublic Health
+
+  10. Goodrum F, Lakdawala S, Alwine J, Casadevall A, Lowen AC, Imperiale MJ, Atwood W, Avgousti D, Baines J, Banfield B, Banks L, Bhaduri-McIntosh S, Bhattacharya D, Blanco-Melo D, Bloom D, Boon A, Boulant S, Brandt C, Broadbent A, Brooke C, Cameron C, Campos S, Caposio P, Chan G, Cliffe A, Coffin J, Collins K, Damania B, Daugherty M, Debbink K, DeCaprio J, Dermody T, Dikeakos J, DiMaio D, Dinglasan R, Duprex WP, Dutch R, Elde N, Emerman M, Enquist L, Fane B, Fernandez-Sesma A, Flenniken M, Frappier L, Frieman M, Frueh K, Gack M, Gaglia M, Gallagher T, Galloway D, Garc?a-Sastre A, Geballe A, Glaunsinger B, Goff S, Greninger A, Hancock M, Harris E, Heaton N, Heise M, Heldwein E, Hogue B, Horner S, Hutchinson E, **Hyser J** , Jackson W, Kalejta R, Kamil J, Karst S, Kirchhoff F, Knipe D, Kowalik T, Lagunoff M, Laimins L, Langlois R, Lauring A, Lee B, Leib D, Liu SL, Longnecker R, Lopez C, Luftig M, Lund J, Manicassamy B, McFadden G, McIntosh M, Mehle A, Miller WA, Mohr I, Moody C, Moorman N, Moscona A, Mounce B, Munger J, M?nger K, Murphy E, Naghavi M, Nelson J, Neufeldt C, Nikolich J, O'Connor C, Ono A, Orenstein W, Ornelles D, Ou JH, Parker J, Parrish C, Pekosz A, Pellett P, Pfeiffer J, Plemper R, Polyak S, Purdy J, Pyeon D, Quinones-Mateu M, Renne R, Rice C, Schoggins J, Roller R, Russell C, Sandri-Goldin R, Sapp M, Schang L, Schmid S, Schultz-Cherry S, Semler B, Shenk T, Silvestri G, Simon V, Smith G, Smith J, Spindler K, Stanifer M, Subbarao K, Sundquist W, Suthar M, Sutton T, Tai A, Tarakanova V, tenOever B, Tibbetts S, Tompkins S, Toth Z, van Doorslaer K, Vignuzzi M, Wallace N, Walsh D, Weekes M, Weinberg J, Weitzman M, Weller S, Whelan S, White E, Williams B, Wobus C, Wong S, Yurochko A. Virology under the Microscope-a Call for Rational Discourse. mBio. 2023 02 28; 14(1):e0018823. PMID: [36700642](//www.ncbi.nlm.nih.gov/pubmed/36700642); PMCID: [PMC9973315](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9973315).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36700642/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCellsPHPublic Health
+
+  11. Goodrum F, Lakdawala S, Alwine J, Casadevall A, Lowen AC, Imperiale MJ, Atwood W, Avgousti D, Baines J, Banfield B, Banks L, Bhaduri-McIntosh S, Bhattacharya D, Blanco-Melo D, Bloom D, Boon A, Boulant S, Brandt C, Broadbent A, Brooke C, Cameron C, Campos S, Caposio P, Chan G, Cliffe A, Coffin J, Collins K, Damania B, Daugherty M, Debbink K, DeCaprio J, Dermody T, Dikeakos J, DiMaio D, Dinglasan R, Duprex WP, Dutch R, Elde N, Emerman M, Enquist L, Fane B, Fernandez-Sesma A, Flenniken M, Frappier L, Frieman M, Frueh K, Gack M, Gaglia M, Gallagher T, Galloway D, Garc?a-Sastre A, Geballe A, Glaunsinger B, Goff S, Greninger A, Hancock M, Harris E, Heaton N, Heise M, Heldwein E, Hogue B, Horner S, Hutchinson E, **Hyser J** , Jackson W, Kalejta R, Kamil J, Karst S, Kirchhoff F, Knipe D, Kowalik T, Lagunoff M, Laimins L, Langlois R, Lauring A, Lee B, Leib D, Liu SL, Longnecker R, Lopez C, Luftig M, Lund J, Manicassamy B, McFadden G, McIntosh M, Mehle A, Miller WA, Mohr I, Moody C, Moorman N, Moscona A, Mounce B, Munger J, M?nger K, Murphy E, Naghavi M, Nelson J, Neufeldt C, Nikolich J, O'Connor C, Ono A, Orenstein W, Ornelles D, Ou JH, Parker J, Parrish C, Pekosz A, Pellett P, Pfeiffer J, Plemper R, Polyak S, Purdy J, Pyeon D, Quinones-Mateu M, Renne R, Rice C, Schoggins J, Roller R, Russell C, Sandri-Goldin R, Sapp M, Schang L, Schmid S, Schultz-Cherry S, Semler B, Shenk T, Silvestri G, Simon V, Smith G, Smith J, Spindler K, Stanifer M, Subbarao K, Sundquist W, Suthar M, Sutton T, Tai A, Tarakanova V, tenOever B, Tibbetts S, Tompkins S, Toth Z, van Doorslaer K, Vignuzzi M, Wallace N, Walsh D, Weekes M, Weinberg J, Weitzman M, Weller S, Whelan S, White E, Williams B, Wobus C, Wong S, Yurochko A. Virology under the Microscope-a Call for Rational Discourse. mSphere. 2023 04 20; 8(2):e0003423. PMID: [36700653](//www.ncbi.nlm.nih.gov/pubmed/36700653); PMCID: [PMC10117089](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10117089).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36700653/citedby/) Fields:
+
+Mic MicrobiologyPar Parasitology
+
+Translation:HumansCellsPHPublic Health
+
+  12. Wang Y, Zhu D, Ortiz-Velez LC, Perry JL, Pennington MW, **Hyser JM** , Britton RA, [Beeton C](https://profiles.viictr.org/profile/265629). A bioengineered probiotic for the oral delivery of a peptide Kv1.3 channel blocker to treat rheumatoid arthritis. Proc Natl Acad Sci U S A. 2023 01 10; 120(2):e2211977120. PMID: [36595694](//www.ncbi.nlm.nih.gov/pubmed/36595694); PMCID: [PMC9926172](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9926172).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36595694/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  13. Gebert JT, [Scribano F](https://profiles.viictr.org/profile/28999427), [Engevik KA](https://profiles.viictr.org/profile/28999455), Perry JL, **Hyser JM**. Gastrointestinal organoids in the study of viral infections. Am J Physiol Gastrointest Liver Physiol. 2023 01 01; 324(1):G51-G59. PMID: [36414538](//www.ncbi.nlm.nih.gov/pubmed/36414538); PMCID: [PMC9799139](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9799139).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36414538/citedby/) Fields:
+
+Gas GastroenterologyPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  14. Shin JN, Rao L, Sha Y, Abdel Fattah E, **Hyser J** , Eissa NT. p38 MAPK Activity Is Required to Prevent Hyperactivation of NLRP3 Inflammasome. J Immunol. 2021 07 15; 207(2):661-670. PMID: [34193605](//www.ncbi.nlm.nih.gov/pubmed/34193605).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  15. Engevik MA, [Danhof HA](https://profiles.viictr.org/profile/17622867), [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik AC, Chang-Graham AL, [Engevik KA](https://profiles.viictr.org/profile/28999455), Shi Z, Zhao Y, Brand CK, Krystofiak ES, Venable S, Liu X, [Hirschi KD](https://profiles.viictr.org/profile/267007), **Hyser JM** , [Spinler JK](https://profiles.viictr.org/profile/265508), [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718). Fusobacterium nucleatum Secretes Outer Membrane Vesicles and Promotes Intestinal Inflammation. mBio. 2021 03 02; 12(2). PMID: [33653893](//www.ncbi.nlm.nih.gov/pubmed/33653893); PMCID: [PMC8092269](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8092269).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33653893/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  16. [Ihekweazu FD](https://profiles.viictr.org/profile/268730), Engevik MA, [Ruan W](https://profiles.viictr.org/profile/22016564), Shi Z, Fultz R, [Engevik KA](https://profiles.viictr.org/profile/28999455), Chang-Graham AL, Freeborn J, Park ES, Venable S, Horvath TD, Haidacher SJ, [Haag AM](https://profiles.viictr.org/profile/8183325), [Goodwin A](https://profiles.viictr.org/profile/17411485), [Schady DA](https://profiles.viictr.org/profile/269335), **Hyser JM** , [Spinler JK](https://profiles.viictr.org/profile/265508), Liu Y, [Versalovic J](https://profiles.viictr.org/profile/269718). Bacteroides ovatus Promotes IL-22 Production and Reduces Trinitrobenzene Sulfonic Acid-Driven Colonic Inflammation. Am J Pathol. 2021 04; 191(4):704-719. PMID: [33516788](//www.ncbi.nlm.nih.gov/pubmed/33516788); PMCID: [PMC8027925](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8027925).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33516788/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansAnimalsCells
+
+  17. Engevik MA, Herrmann B, [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik AC, [Engevik KA](https://profiles.viictr.org/profile/28999455), [Ihekweazu F](https://profiles.viictr.org/profile/268730), Shi Z, Luck B, Chang-Graham AL, Esparza M, Venable S, Horvath TD, Haidacher SJ, Hoch KM, [Haag AM](https://profiles.viictr.org/profile/8183325), [Schady DA](https://profiles.viictr.org/profile/269335), **Hyser JM** , [Spinler JK](https://profiles.viictr.org/profile/265508), [Versalovic J](https://profiles.viictr.org/profile/269718). Bifidobacterium dentium-derived y-glutamylcysteine suppresses ER-mediated goblet cell stress and reduces TNBS-driven colonic inflammation. Gut Microbes. 2021 Jan-Dec; 13(1):1-21. PMID: [33985416](//www.ncbi.nlm.nih.gov/pubmed/33985416); PMCID: [PMC8128206](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8128206).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33985416/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansAnimalsCells
+
+  18. Chang-Graham AL, Perry JL, Engevik MA, [Engevik KA](https://profiles.viictr.org/profile/28999455), [Scribano FJ](https://profiles.viictr.org/profile/28999427), Gebert JT, [Danhof HA](https://profiles.viictr.org/profile/17622867), [Nelson JC](https://profiles.viictr.org/profile/24845256), Kellen JS, Strtak AC, Sastri NP, [Estes MK](https://profiles.viictr.org/profile/266419), [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718), **Hyser JM**. Rotavirus induces intercellular calcium waves through ADP signaling. Science. 2020 11 20; 370(6519). PMID: [33214249](//www.ncbi.nlm.nih.gov/pubmed/33214249); PMCID: [PMC7957961](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7957961).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33214249/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  19. Engevik MA, Engevik AC, [Engevik KA](https://profiles.viictr.org/profile/28999455), Auchtung JM, Chang-Graham AL, [Ruan W](https://profiles.viictr.org/profile/22016564), [Luna RA](https://profiles.viictr.org/profile/268217), **Hyser JM** , [Spinler JK](https://profiles.viictr.org/profile/265508), [Versalovic J](https://profiles.viictr.org/profile/269718). Mucin-Degrading Microbes Release Monosaccharides That Chemoattract Clostridioides difficile and Facilitate Colonization of the Human Intestinal Mucus Layer. ACS Infect Dis. 2021 05 14; 7(5):1126-1142. PMID: [33176423](//www.ncbi.nlm.nih.gov/pubmed/33176423); PMCID: [PMC8110611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8110611).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33176423/citedby/) Fields:
+
+Ant Anti-Infective AgentsDru Drug TherapyMic Microbiology
+
+Translation:HumansCells
+
+  20. Engevik MA, [Danhof HA](https://profiles.viictr.org/profile/17622867), Shrestha R, Chang-Graham AL, **Hyser JM** , [Haag AM](https://profiles.viictr.org/profile/8183325), [Mohammad MA](https://profiles.viictr.org/profile/269072), [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718), Sorg JA, [Spinler JK](https://profiles.viictr.org/profile/265508). Reuterin disrupts Clostridioides difficile metabolism and pathogenicity through reactive oxygen species generation. Gut Microbes. 2020 11 09; 12(1):1788898. PMID: [32804011](//www.ncbi.nlm.nih.gov/pubmed/32804011); PMCID: [PMC7524292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7524292).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32804011/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansCells
+
+  21. Rajan A, Robertson MJ, Carter HE, Poole NM, Clark JR, Green SI, Criss ZK, Zhao B, Karandikar U, [Xing Y](https://profiles.viictr.org/profile/28999391), Jain N, Wilson RL, Bai F, **Hyser JM** , [Petrosino J](https://profiles.viictr.org/profile/267058), [Shroyer NF](https://profiles.viictr.org/profile/5807714), [Blutt SE](https://profiles.viictr.org/profile/266310), [Coarfa C](https://profiles.viictr.org/profile/265668), Song X, Prasad BV, Amieva MR, Grande-Allen J, [Estes MK](https://profiles.viictr.org/profile/266419), [Okhuysen PC](https://profiles.viictr.org/profile/12583928), [Maresso AW](https://profiles.viictr.org/profile/269263), Margalef-Catal? M. Enteroaggregative E. coli Adherence to Human Heparan Sulfate Proteoglycans Drives Segment and Host Specific Responses to Infection. PLoS Pathog. 2020 09; 16(9):e1008851. PMID: [32986782](//www.ncbi.nlm.nih.gov/pubmed/32986782); PMCID: [PMC7553275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7553275).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32986782/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  22. Engevik MA, Luck B, Visuthranukul C, [Ihekweazu FD](https://profiles.viictr.org/profile/268730), Engevik AC, Shi Z, [Danhof HA](https://profiles.viictr.org/profile/17622867), Chang-Graham AL, Hall A, Endres BT, Haidacher SJ, Horvath TD, [Haag AM](https://profiles.viictr.org/profile/8183325), [Devaraj S](https://profiles.viictr.org/profile/266182), [Garey KW](https://profiles.viictr.org/profile/268841), [Britton RA](https://profiles.viictr.org/profile/8950240), **Hyser JM** , [Shroyer NF](https://profiles.viictr.org/profile/5807714), [Versalovic J](https://profiles.viictr.org/profile/269718). Human-Derived Bifidobacterium dentium Modulates the Mammalian Serotonergic System and Gut-Brain Axis. Cell Mol Gastroenterol Hepatol. 2021; 11(1):221-248. PMID: [32795610](//www.ncbi.nlm.nih.gov/pubmed/32795610); PMCID: [PMC7683275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7683275).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32795610/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimalsCells
+
+  23. [Ruan W](https://profiles.viictr.org/profile/22016564), Engevik MA, Chang-Graham AL, [Danhof HA](https://profiles.viictr.org/profile/17622867), [Goodwin A](https://profiles.viictr.org/profile/17411485), [Engevik KA](https://profiles.viictr.org/profile/28999455), Shi Z, Hall A, Rienzi SCD, Venable S, [Britton RA](https://profiles.viictr.org/profile/8950240), **Hyser J** , [Versalovic J](https://profiles.viictr.org/profile/269718). Enhancing responsiveness of human jejunal enteroids to host and microbial stimuli. J Physiol. 2020 08; 598(15):3085-3105. PMID: [32428244](//www.ncbi.nlm.nih.gov/pubmed/32428244); PMCID: [PMC7674265](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7674265).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32428244/citedby/) Fields:
+
+Phy Physiology
+
+Translation:HumansCells
+
+  24. Engevik MA, Banks LD, [Engevik KA](https://profiles.viictr.org/profile/28999455), Chang-Graham AL, Perry JL, Hutchinson DS, Ajami NJ, [Petrosino JF](https://profiles.viictr.org/profile/267058), **Hyser JM**. Rotavirus infection induces glycan availability to promote ileum-specific changes in the microbiome aiding rotavirus virulence. Gut Microbes. 2020 09 02; 11(5):1324-1347. PMID: [32404017](//www.ncbi.nlm.nih.gov/pubmed/32404017); PMCID: [PMC7524290](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7524290).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32404017/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:AnimalsCells
+
+  25. Engevik MA, [Danhof HA](https://profiles.viictr.org/profile/17622867), Chang-Graham AL, [Spinler JK](https://profiles.viictr.org/profile/265508), [Engevik KA](https://profiles.viictr.org/profile/28999455), Herrmann B, Endres BT, [Garey KW](https://profiles.viictr.org/profile/268841), **Hyser JM** , [Britton RA](https://profiles.viictr.org/profile/8950240), [Versalovic J](https://profiles.viictr.org/profile/269718). Human intestinal enteroids as a model of Clostridioides difficile-induced enteritis. Am J Physiol Gastrointest Liver Physiol. 2020 05 01; 318(5):G870-G888. PMID: [32223302](//www.ncbi.nlm.nih.gov/pubmed/32223302); PMCID: [PMC7272722](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7272722).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32223302/citedby/) Fields:
+
+Gas GastroenterologyPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  26. Minor MM, [Hollinger FB](https://profiles.viictr.org/profile/267399), [McNees AL](https://profiles.viictr.org/profile/3009524), Jung SY, Jain A, **Hyser JM** , [Bissig KD](https://profiles.viictr.org/profile/266494), [Slagle BL](https://profiles.viictr.org/profile/269521). Hepatitis B Virus HBx Protein Mediates the Degradation of Host Restriction Factors through the Cullin 4 DDB1 E3 Ubiquitin Ligase Complex. Cells. 2020 03 30; 9(4). PMID: [32235678](//www.ncbi.nlm.nih.gov/pubmed/32235678); PMCID: [PMC7226812](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7226812).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32235678/citedby/) Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  27. Tomaro-Duchesneau C, LeValley SL, Roeth D, [Sun L](https://profiles.viictr.org/profile/3010209), [Horrigan FT](https://profiles.viictr.org/profile/265890), Kalkum M, **Hyser JM** , [Britton RA](https://profiles.viictr.org/profile/8950240). Discovery of a bacterial peptide as a modulator of GLP-1 and metabolic disease. Sci Rep. 2020 03 18; 10(1):4922. PMID: [32188864](//www.ncbi.nlm.nih.gov/pubmed/32188864); PMCID: [PMC7080827](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7080827).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32188864/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  28. Philip AA, Perry JL, Eaton HE, Shmulevitz M, **Hyser JM** , Patton JT. Generation of Recombinant Rotavirus Expressing NSP3-UnaG Fusion Protein by a Simplified Reverse Genetics System. J Virol. 2019 12 15; 93(24). PMID: [31597761](//www.ncbi.nlm.nih.gov/pubmed/31597761); PMCID: [PMC6880180](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6880180).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31597761/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  29. Strtak AC, Perry JL, Sharp MN, Chang-Graham AL, Farkas T, **Hyser JM**. Recovirus NS1-2 Has Viroporin Activity That Induces Aberrant Cellular Calcium Signaling To Facilitate Virus Replication. mSphere. 2019 09 18; 4(5). PMID: [31533997](//www.ncbi.nlm.nih.gov/pubmed/31533997); PMCID: [PMC6751491](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6751491).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31533997/citedby/) Fields:
+
+Mic MicrobiologyPar Parasitology
+
+Translation:AnimalsCells
+
+  30. Chang-Graham AL, Perry JL, Strtak AC, Ramachandran NK, Criglar JM, Philip AA, Patton JT, [Estes MK](https://profiles.viictr.org/profile/266419), **Hyser JM**. Rotavirus Calcium Dysregulation Manifests as Dynamic Calcium Signaling in the Cytoplasm and Endoplasmic Reticulum. Sci Rep. 2019 07 25; 9(1):10822. PMID: [31346185](//www.ncbi.nlm.nih.gov/pubmed/31346185); PMCID: [PMC6658527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6658527).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31346185/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  31. Engevik MA, Luk B, Chang-Graham AL, Hall A, Herrmann B, [Ruan W](https://profiles.viictr.org/profile/22016564), Endres BT, Shi Z, [Garey KW](https://profiles.viictr.org/profile/268841), **Hyser JM** , [Versalovic J](https://profiles.viictr.org/profile/269718). Bifidobacterium dentium Fortifies the Intestinal Mucus Layer via Autophagy and Calcium Signaling Pathways. mBio. 2019 06 18; 10(3). PMID: [31213556](//www.ncbi.nlm.nih.gov/pubmed/31213556); PMCID: [PMC6581858](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6581858).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31213556/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:AnimalsCells
+
+  32. Chang-Graham AL, [Danhof HA](https://profiles.viictr.org/profile/17622867), Engevik MA, Tomaro-Duchesneau C, Karandikar UC, [Estes MK](https://profiles.viictr.org/profile/266419), [Versalovic J](https://profiles.viictr.org/profile/269718), [Britton RA](https://profiles.viictr.org/profile/8950240), **Hyser JM**. Human Intestinal Enteroids With Inducible Neurogenin-3 Expression as a Novel Model of Gut Hormone Secretion. Cell Mol Gastroenterol Hepatol. 2019; 8(2):209-229. PMID: [31029854](//www.ncbi.nlm.nih.gov/pubmed/31029854); PMCID: [PMC6664234](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6664234).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31029854/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  33. Pham T, Perry JL, Dosey TL, Delcour AH, **Hyser JM**. The Rotavirus NSP4 Viroporin Domain is a Calcium-conducting Ion Channel. Sci Rep. 2017 03 03; 7:43487. PMID: [28256607](//www.ncbi.nlm.nih.gov/pubmed/28256607); PMCID: [PMC5335360](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5335360).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28256607/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  34. **Hyser JM** , [Estes MK](https://profiles.viictr.org/profile/266419). Pathophysiological Consequences of Calcium-Conducting Viroporins. Annu Rev Virol. 2015 Nov; 2(1):473-96. PMID: [26958925](//www.ncbi.nlm.nih.gov/pubmed/26958925); PMCID: [PMC6538290](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6538290).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26958925/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  35. Perry JL, Ramachandran NK, Utama B, **Hyser JM**. Use of genetically-encoded calcium indicators for live cell calcium imaging and localization in virus-infected cells. Methods. 2015 Nov 15; 90:28-38. PMID: [26344758](//www.ncbi.nlm.nih.gov/pubmed/26344758); PMCID: [PMC4655165](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4655165).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26344758/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  36. Sastri NP, Viskovska M, **Hyser JM** , Tanner MR, Horton LB, Sankaran B, [Prasad BV](https://profiles.viictr.org/profile/269724), [Estes MK](https://profiles.viictr.org/profile/266419). Structural plasticity of the coiled-coil domain of rotavirus NSP4. J Virol. 2014 Dec; 88(23):13602-12. PMID: [25231315](//www.ncbi.nlm.nih.gov/pubmed/25231315); PMCID: [PMC4248954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4248954).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25231315/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  37. Foulke-Abel J, In J, Kovbasnjuk O, Zachos NC, [Ettayebi K](https://profiles.viictr.org/profile/37834414), [Blutt SE](https://profiles.viictr.org/profile/266310), **Hyser JM** , Zeng XL, [Crawford SE](https://profiles.viictr.org/profile/8950230), Broughman JR, [Estes MK](https://profiles.viictr.org/profile/266419), Donowitz M. Human enteroids as an ex-vivo model of host-pathogen interactions in the gastrointestinal tract. Exp Biol Med (Maywood). 2014 Sep; 239(9):1124-34. PMID: [24719375](//www.ncbi.nlm.nih.gov/pubmed/24719375); PMCID: [PMC4380516](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4380516).
+
+Citations:
+[102](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24719375/citedby/)
+Fields:
+
+Bio BiologyMed Medicine (General)Phy Physiology
+
+Translation:HumansCells
+
+  38. Kovbasnjuk O, Zachos NC, In J, Foulke-Abel J, [Ettayebi K](https://profiles.viictr.org/profile/37834414), **Hyser JM** , Broughman JR, Zeng XL, Middendorp S, de Jonge HR, [Estes MK](https://profiles.viictr.org/profile/266419), Donowitz M. Human enteroids: preclinical models of non-inflammatory diarrhea. Stem Cell Res Ther. 2013; 4 Suppl 1:S3. PMID: [24564938](//www.ncbi.nlm.nih.gov/pubmed/24564938); PMCID: [PMC4029787](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4029787).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24564938/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  39. Criglar JM, Hu L, [Crawford SE](https://profiles.viictr.org/profile/8950230), **Hyser JM** , Broughman JR, Prasad BV, [Estes MK](https://profiles.viictr.org/profile/266419). A novel form of rotavirus NSP2 and phosphorylation-dependent NSP2-NSP5 interactions are associated with viroplasm assembly. J Virol. 2014 Jan; 88(2):786-98. PMID: [24198401](//www.ncbi.nlm.nih.gov/pubmed/24198401); PMCID: [PMC3911676](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3911676).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24198401/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  40. **Hyser JM** , Utama B, [Crawford SE](https://profiles.viictr.org/profile/8950230), Broughman JR, [Estes MK](https://profiles.viictr.org/profile/266419). Activation of the endoplasmic reticulum calcium sensor STIM1 and store-operated calcium entry by rotavirus requires NSP4 viroporin activity. J Virol. 2013 Dec; 87(24):13579-88. PMID: [24109210](//www.ncbi.nlm.nih.gov/pubmed/24109210); PMCID: [PMC3838237](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3838237).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24109210/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  41. [Crawford SE](https://profiles.viictr.org/profile/8950230), **Hyser JM** , Utama B, [Estes MK](https://profiles.viictr.org/profile/266419). Autophagy hijacked through viroporin-activated calcium/calmodulin-dependent kinase kinase-? signaling is required for rotavirus replication. Proc Natl Acad Sci U S A. 2012 Dec 11; 109(50):E3405-13. PMID: [23184977](//www.ncbi.nlm.nih.gov/pubmed/23184977); PMCID: [PMC3528557](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3528557).
+
+Citations:
+[82](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23184977/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  42. Hu L, [Crawford SE](https://profiles.viictr.org/profile/8950230), **Hyser JM** , [Estes MK](https://profiles.viictr.org/profile/266419), Prasad BV. Rotavirus non-structural proteins: structure and function. Curr Opin Virol. 2012 Aug; 2(4):380-8. PMID: [22789743](//www.ncbi.nlm.nih.gov/pubmed/22789743); PMCID: [PMC3422752](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3422752).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22789743/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  43. **Hyser JM** , Utama B, [Crawford SE](https://profiles.viictr.org/profile/8950230), [Estes MK](https://profiles.viictr.org/profile/266419). Genetic divergence of rotavirus nonstructural protein 4 results in distinct serogroup-specific viroporin activity and intracellular punctate structure morphologies. J Virol. 2012 May; 86(9):4921-34. PMID: [22357281](//www.ncbi.nlm.nih.gov/pubmed/22357281); PMCID: [PMC3347366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3347366).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22357281/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  44. Hodgson AJ, **Hyser JM** , Keasler VV, Cang Y, [Slagle BL](https://profiles.viictr.org/profile/269521). Hepatitis B virus regulatory HBx protein binding to DDB1 is required but is not sufficient for maximal HBV replication. Virology. 2012 Apr 25; 426(1):73-82. PMID: [22342275](//www.ncbi.nlm.nih.gov/pubmed/22342275); PMCID: [PMC3294142](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3294142).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22342275/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  45. **Hyser JM** , Collinson-Pautz MR, Utama B, [Estes MK](https://profiles.viictr.org/profile/266419). Rotavirus disrupts calcium homeostasis by NSP4 viroporin activity. mBio. 2010 Nov 30; 1(5). PMID: [21151776](//www.ncbi.nlm.nih.gov/pubmed/21151776); PMCID: [PMC2999940](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2999940).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21151776/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  46. **Hyser JM** , [Estes MK](https://profiles.viictr.org/profile/266419). Rotavirus vaccines and pathogenesis: 2008. Curr Opin Gastroenterol. 2009 Jan; 25(1):36-43. PMID: [19114772](//www.ncbi.nlm.nih.gov/pubmed/19114772); PMCID: [PMC2673536](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2673536).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19114772/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCellsPHPublic Health
+
+  47. Seo NS, Zeng CQ, **Hyser JM** , Utama B, [Crawford SE](https://profiles.viictr.org/profile/8950230), Kim KJ, [Estes MK](https://profiles.viictr.org/profile/266419), H??k M. Integrins alpha1beta1 and alpha2beta1 are receptors for the rotavirus enterotoxin. Proc Natl Acad Sci U S A. 2008 Jul 01; 105(26):8811-8. PMID: [18587047](//www.ncbi.nlm.nih.gov/pubmed/18587047); PMCID: [PMC3021436](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3021436).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18587047/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  48. **Hyser JM** , Zeng CQ, Beharry Z, [Palzkill T](https://profiles.viictr.org/profile/269759), [Estes MK](https://profiles.viictr.org/profile/266419). Epitope mapping and use of epitope-specific antisera to characterize the VP5* binding site in rotavirus SA11 NSP4. Virology. 2008 Mar 30; 373(1):211-28. PMID: [18164740](//www.ncbi.nlm.nih.gov/pubmed/18164740); PMCID: [PMC2377065](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2377065).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18164740/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  49. [Crawford SE](https://profiles.viictr.org/profile/8950230), Patel DG, Cheng E, Berkova Z, **Hyser JM** , Ciarlet M, [Finegold MJ](https://profiles.viictr.org/profile/269596), [Conner ME](https://profiles.viictr.org/profile/268086), [Estes MK](https://profiles.viictr.org/profile/266419). Rotavirus viremia and extraintestinal viral infection in the neonatal rat model. J Virol. 2006 May; 80(10):4820-32. PMID: [16641274](//www.ncbi.nlm.nih.gov/pubmed/16641274); PMCID: [PMC1472071](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1472071).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16641274/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  50. Ciarlet M, **Hyser JM** , [Estes MK](https://profiles.viictr.org/profile/266419). Sequence analysis of the VP4, VP6, VP7, and NSP4 gene products of the bovine rotavirus WC3. Virus Genes. 2002 Mar; 24(2):107-18. PMID: [12018701](//www.ncbi.nlm.nih.gov/pubmed/12018701).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12018701/citedby/) Fields:
+
+Mol Molecular BiologyVir Virology
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 50 publications over 17 distinct years, with a maximum of
+10 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|10&cht=bvs&chd=t:0,0,0,0,0,0,0,0,10,0,0,0,10,10,10,10,10,0,40,30,20,20,0,10,0,50,100,40,10,80,40&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 1  
+2006| 1  
+2007| 1  
+2008| 1  
+2009| 1  
+2010| 1  
+2012| 4  
+2013| 3  
+2014| 2  
+2015| 2  
+2017| 1  
+2019| 5  
+2020| 10  
+2021| 4  
+2022| 1  
+2023| 8  
+2024| 4  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HYSER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (259)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Rotavirus](https://profiles.viictr.org/profile/245206)
+  * [Calcium](https://profiles.viictr.org/profile/253060)
+  * [Viral Nonstructural Proteins](https://profiles.viictr.org/profile/249987)
+  * [Calcium Signaling](https://profiles.viictr.org/profile/254149)
+  * [Rotavirus Infections](https://profiles.viictr.org/profile/256486)
+
+[Explore](https://profiles.viictr.org/profile/269246/198)
+
+_
+
+Co-Authors (41)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [Engevik, Kristen](https://profiles.viictr.org/profile/28999455)
+  * [ESTES, MARY](https://profiles.viictr.org/profile/266419)
+  * [Scribano, Francesca](https://profiles.viictr.org/profile/28999427)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [BRITTON, ROBERT](https://profiles.viictr.org/profile/8950240)
+
+[Explore](https://profiles.viictr.org/profile/269246/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ESTES, MARY](https://profiles.viictr.org/profile/266419)
+  * [CRAWFORD, SUE](https://profiles.viictr.org/profile/8950230)
+  * [RAMANI, SASIREKHA](https://profiles.viictr.org/profile/3009566)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+
+[Explore](https://profiles.viictr.org/profile/269246/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BLUTT, SARAH](https://profiles.viictr.org/profile/266310)
+  * [CRAWFORD, SUE](https://profiles.viictr.org/profile/8950230)
+  * [ETTAYEBI, KHALIL](https://profiles.viictr.org/profile/37834414)
+  * [JAVIER, RONALD](https://profiles.viictr.org/profile/266953)
+  * [SLAGLE, BETTY](https://profiles.viictr.org/profile/269521)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CLARK, JUSTIN](https://profiles.viictr.org/profile/1826913)
+  * [GLEZEN, WILLIAM](https://profiles.viictr.org/profile/267257)
+  * [MARRIOTT, SUSAN](https://profiles.viictr.org/profile/268294)
+  * [MCNEES, ADRIENNE](https://profiles.viictr.org/profile/3009524)
+  * [SLAGLE, BETTY](https://profiles.viictr.org/profile/269521)
+
+_
+

@@ -1,0 +1,372 @@
+## JANET STRINGER
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=PKo%2b5HHUQIn2S8Ho5G4%3d&rnd=df58f4c8-3416-41d2-9955-e6da7f58c32a)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268147)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01NS039941 (SWANN, JOHN WILLIAM)Apr 1, 2000 - Jul 30, 2011NIH  
+Ionic Homeostasis and Seizure Regulation  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+K04NS001784 (STRINGER, JANET)Sep 30, 1994 - Sep 29, 1999NIH  
+MECHANISMS OF SEIZURE CONTROL IN LIMBIC CIRCUITS  
+Role: Principal Investigator  
+  
+* * *  
+  
+R25GM050078 (WEINSTEIN, STEVEN LEE)Sep 1, 1993 - Aug 31, 2020NIH  
+CCSF/SMCCD/SFSU Bridges to the Baccalaureate Program  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R29NS028871 (STRINGER, JANET)Sep 20, 1990 - Mar 31, 1996NIH  
+MECHANISMS OF SEIZURE CONTROL IN LIMBIC CIRCUITS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Lian XY, Xu K, **Stringer JL**. Oral administration of fructose-1,6-diphosphate has anticonvulsant activity. Neurosci Lett. 2008 Dec 03; 446(2-3):75-7. PMID: [18832008](//www.ncbi.nlm.nih.gov/pubmed/18832008); PMCID: [PMC2633033](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2633033).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18832008/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  2. **Stringer JL** , Xu K. Possible mechanisms for the anticonvulsant activity of fructose-1,6-diphosphate. Epilepsia. 2008 Nov; 49 Suppl 8:101-3. PMID: [19049602](//www.ncbi.nlm.nih.gov/pubmed/19049602); PMCID: [PMC2916635](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2916635).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19049602/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  3. Zhang Z, Lian XY, Li S, **Stringer JL**. Characterization of chemical ingredients and anticonvulsant activity of American skullcap (Scutellaria lateriflora). Phytomedicine. 2009 May; 16(5):485-93. PMID: [18786819](//www.ncbi.nlm.nih.gov/pubmed/18786819).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18786819/citedby/) Fields:
+
+Com Complementary Therapies
+
+Translation:Animals
+
+  4. Xu K, **Stringer JL**. Antioxidants and free radical scavengers do not consistently delay seizure onset in animal models of acute seizures. Epilepsy Behav. 2008 Jul; 13(1):77-82. PMID: [18396108](//www.ncbi.nlm.nih.gov/pubmed/18396108); PMCID: [PMC2486491](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2486491).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18396108/citedby/) Fields:
+
+Beh Behavioral SciencesNeu Neurology
+
+Translation:Animals
+
+  5. Xu K, **Stringer JL**. Pharmacokinetics of fructose-1,6-diphosphate after intraperitoneal and oral administration to adult rats. Pharmacol Res. 2008 Mar; 57(3):234-8. PMID: [18325780](//www.ncbi.nlm.nih.gov/pubmed/18325780); PMCID: [PMC2718754](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2718754).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18325780/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:Animals
+
+  6. Wang W, Le WD, [Pan T](https://profiles.viictr.org/profile/12583993), **Stringer JL** , Jaiswal AK. Association of NRH:quinone oxidoreductase 2 gene promoter polymorphism with higher gene expression and increased susceptibility to Parkinson's disease. J Gerontol A Biol Sci Med Sci. 2008 Feb; 63(2):127-34. PMID: [18314446](//www.ncbi.nlm.nih.gov/pubmed/18314446).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18314446/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:HumansCells
+
+  7. Lian XY, [Khan FA](https://profiles.viictr.org/profile/35692929), **Stringer JL**. Fructose-1,6-bisphosphate has anticonvulsant activity in models of acute seizures in adult rats. J Neurosci. 2007 Oct 31; 27(44):12007-11. PMID: [17978042](//www.ncbi.nlm.nih.gov/pubmed/17978042); PMCID: [PMC6673383](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6673383).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17978042/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  8. **Stringer JL** , Mukherjee K, Xiang T, Xu K. Regulation of extracellular calcium in the hippocampus in vivo during epileptiform activity--role of astrocytes. Epilepsy Res. 2007 May; 74(2-3):155-62. PMID: [17434291](//www.ncbi.nlm.nih.gov/pubmed/17434291); PMCID: [PMC1945156](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1945156).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17434291/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  9. Lian XY, Zhang Z, **Stringer JL**. Anticonvulsant and neuroprotective effects of ginsenosides in rats. Epilepsy Res. 2006 Aug; 70(2-3):244-56. PMID: [16782310](//www.ncbi.nlm.nih.gov/pubmed/16782310).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16782310/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:Animals
+
+  10. Lian XY, Zhang Z, **Stringer JL**. Protective effects of ginseng components in a rodent model of neurodegeneration. Ann Neurol. 2005 May; 57(5):642-8. PMID: [15852378](//www.ncbi.nlm.nih.gov/pubmed/15852378).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15852378/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  11. Lian XY, Zhang ZZ, **Stringer JL**. Anticonvulsant activity of ginseng on seizures induced by chemical convulsants. Epilepsia. 2005 Jan; 46(1):15-22. PMID: [15660764](//www.ncbi.nlm.nih.gov/pubmed/15660764).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15660764/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  12. Lian XY, **Stringer JL**. Astrocytes contribute to regulation of extracellular calcium and potassium in the rat cerebral cortex during spreading depression. Brain Res. 2004 Jun 25; 1012(1-2):177-84. PMID: [15158175](//www.ncbi.nlm.nih.gov/pubmed/15158175).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15158175/citedby/) Fields:
+
+Bra Brain
+
+Translation:AnimalsCells
+
+  13. Lian XY, **Stringer JL**. Inhibition of aconitase in astrocytes increases the sensitivity to chemical convulsants. Epilepsy Res. 2004 Jun; 60(1):41-52. PMID: [15279869](//www.ncbi.nlm.nih.gov/pubmed/15279869).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15279869/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  14. Lian XY, **Stringer JL**. Energy failure in astrocytes increases the vulnerability of neurons to spreading depression. Eur J Neurosci. 2004 May; 19(9):2446-54. PMID: [15128398](//www.ncbi.nlm.nih.gov/pubmed/15128398).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15128398/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  15. **Stringer JL** , [Gaikwad A](https://profiles.viictr.org/profile/266018), Gonzales BN, Long DJ, [Marks LM](https://profiles.viictr.org/profile/35895170), Jaiswal AK. Presence and induction of the enzyme NAD(P)H: quinone oxidoreductase 1 in the central nervous system. J Comp Neurol. 2004 Apr 05; 471(3):289-97. PMID: [14991562](//www.ncbi.nlm.nih.gov/pubmed/14991562).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14991562/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  16. **Stringer JL** , [Marks LM](https://profiles.viictr.org/profile/35895170), White AC, [Robinson P](https://profiles.viictr.org/profile/17440150). Epileptogenic activity of granulomas associated with murine cysticercosis. Exp Neurol. 2003 Oct; 183(2):532-6. PMID: [14552894](//www.ncbi.nlm.nih.gov/pubmed/14552894).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14552894/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  17. **Stringer JL** , Aribi AM. Effects of glial toxins on extracellular acidification in the hippocampal CA1 region in vivo. Epilepsy Res. 2003 May; 54(2-3):163-70. PMID: [12837567](//www.ncbi.nlm.nih.gov/pubmed/12837567).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12837567/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  18. **Stringer JL** , Aribi AM. Modulation of the in vivo effects of gabapentin by vigabatrin and SKF89976A. Epilepsy Res. 2002 Dec; 52(2):129-37. PMID: [12458029](//www.ncbi.nlm.nih.gov/pubmed/12458029).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12458029/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:Animals
+
+  19. **Stringer JL** , Belaguli NS, Iyer D, [Schwartz RJ](https://profiles.viictr.org/profile/267508), [Balasubramanyam A](https://profiles.viictr.org/profile/268015). Developmental expression of serum response factor in the rat central nervous system. Brain Res Dev Brain Res. 2002 Sep 20; 138(1):81-6. PMID: [12234660](//www.ncbi.nlm.nih.gov/pubmed/12234660).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12234660/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  20. Aribi AM, **Stringer JL**. Effects of antiepileptic drugs on extracellular pH regulation in the hippocampal CA1 region in vivo. Epilepsy Res. 2002 Apr; 49(2):143-51. PMID: [12049802](//www.ncbi.nlm.nih.gov/pubmed/12049802).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12049802/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 20 publications over 7 distinct years, with a maximum of 6
+publications in
+2008](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,50,33,67,33,17,33,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 3  
+2003| 2  
+2004| 4  
+2005| 2  
+2006| 1  
+2007| 2  
+2008| 6  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+STRINGER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (157)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Anticonvulsants](https://profiles.viictr.org/profile/257195)
+  * [Seizures](https://profiles.viictr.org/profile/262656)
+  * [Fructosediphosphates](https://profiles.viictr.org/profile/256895)
+  * [Citrates](https://profiles.viictr.org/profile/262347)
+  * [Rats, Sprague-Dawley](https://profiles.viictr.org/profile/259600)
+
+[Explore](https://profiles.viictr.org/profile/268147/198)
+
+_
+
+Co-Authors (7)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ROBINSON, PREMA](https://profiles.viictr.org/profile/17440150)
+  * [BALASUBRAMANYAM, ASHOK](https://profiles.viictr.org/profile/268015)
+  * [MARKS, LATOIA](https://profiles.viictr.org/profile/35895170)
+  * [KHAN, FIRDOUS](https://profiles.viictr.org/profile/35692929)
+  * [GAIKWAD, AMOS](https://profiles.viictr.org/profile/266018)
+
+[Explore](https://profiles.viictr.org/profile/268147/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [NOEBELS, JEFFREY](https://profiles.viictr.org/profile/269703)
+  * [RIVIELLO JR., JAMES](https://profiles.viictr.org/profile/268492)
+  * [NG, YU-TZE](https://profiles.viictr.org/profile/8183327)
+  * [DENEEN, BENJAMIN](https://profiles.viictr.org/profile/266334)
+
+[Explore](https://profiles.viictr.org/profile/268147/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [FERREON, ALLAN](https://profiles.viictr.org/profile/8065525)
+  * [FERREON, JOSEPHINE](https://profiles.viictr.org/profile/8065537)
+  * [JOHNSTON, CHAD](https://profiles.viictr.org/profile/37104217)
+  * [PILLON, MONICA](https://profiles.viictr.org/profile/33131863)
+  * [ZHOU, MING](https://profiles.viictr.org/profile/267360)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [ATASSI, M](https://profiles.viictr.org/profile/266843)
+  * [GILBERT, HIRAM](https://profiles.viictr.org/profile/267387)
+  * [LUDTKE, STEVEN](https://profiles.viictr.org/profile/270167)
+  * [VALDEZ, BENIGNO](https://profiles.viictr.org/profile/266918)
+  * [VENKEN, KOEN](https://profiles.viictr.org/profile/3010184)
+
+_
+

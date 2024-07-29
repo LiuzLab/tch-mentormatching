@@ -1,0 +1,447 @@
+## ERIC VENNER
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=IK4%2b72DVQIn2S8Ho5G4%3d&rnd=a8960d78-d6ac-416d-af65-ae348874f104)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=21983624)  
+  
+
+Other Positions| Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Division| Medicine-Cardiology  
+  
+  
+Title| Associate Professor  
+Institution| Baylor College of Medicine  
+Department| Human Genome Sequencing Center  
+Division| Human Genome Sequencing Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Haddad A, Radhakrishnan A, McGee S, Smith JD, Karnes JH, **Venner E** , Wheeler MM, Patterson K, Walker K, Kalra D, [Kalla SE](https://profiles.viictr.org/profile/35133535), Wang Q, [Gibbs RA](https://profiles.viictr.org/profile/269695), Jarvik GP, Sanchez J, Musick A, Ramirez AH, Denny JC, Empey PE. Frequency of pharmacogenomic variation and medication exposures among All of Us Participants. medRxiv. 2024 Jun 13. PMID: [38946996](//www.ncbi.nlm.nih.gov/pubmed/38946996); PMCID: [PMC11213053](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11213053).
+
+Citations:
+
+  2. **Venner E** , Patterson K, Kalra D, Wheeler MM, Chen YJ, [Kalla SE](https://profiles.viictr.org/profile/35133535), [Yuan B](https://profiles.viictr.org/profile/1826469), Karnes JH, Walker K, Smith JD, McGee S, Radhakrishnan A, Haddad A, Empey PE, Wang Q, Lichtenstein L, Toledo D, Jarvik G, Musick A, [Gibbs RA](https://profiles.viictr.org/profile/269695), All of Us Research Program Investigators. Author Correction: The frequency of pathogenic variation in the All of Us cohort reveals ancestry-driven disparities. Commun Biol. 2024 Jun 10; 7(1):713. PMID: [38858496](//www.ncbi.nlm.nih.gov/pubmed/38858496); PMCID: [PMC11164965](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11164965).
+
+Citations:
+
+  3. Murugan M, [Yuan B](https://profiles.viictr.org/profile/1826469), **Venner E** , [Ballantyne CM](https://profiles.viictr.org/profile/266404), Robinson KM, Coons JC, Wang L, Empey PE, [Gibbs RA](https://profiles.viictr.org/profile/269695). Empowering personalized pharmacogenomics with generative AI solutions. J Am Med Inform Assoc. 2024 May 20; 31(6):1356-1366. PMID: [38447590](//www.ncbi.nlm.nih.gov/pubmed/38447590); PMCID: [PMC11105140](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11105140).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38447590/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  4. [Dawood M](https://profiles.viictr.org/profile/28999074), Fayer S, Pendyala S, Post M, Kalra D, Patterson K, **Venner E** , Muffley LA, Fowler DM, Rubin AF, [Posey JE](https://profiles.viictr.org/profile/6714377), [Plon SE](https://profiles.viictr.org/profile/269771), [Lupski JR](https://profiles.viictr.org/profile/268099), [Gibbs RA](https://profiles.viictr.org/profile/269695), Starita LM, Robles-Espinoza CD, Coyote-Maestas W, Gallego Romero I. Defining and Reducing Variant Classification Disparities. medRxiv. 2024 Apr 12. PMID: [38645101](//www.ncbi.nlm.nih.gov/pubmed/38645101); PMCID: [PMC11030469](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11030469).
+
+Citations:
+
+  5. Hu J, Korchina V, Zouk H, Harden MV, Murdock D, Macbeth A, Harrison SM, Lennon N, Kovar C, Balasubramanian A, Zhang L, Chandanavelli G, Pasham D, Rowley R, Wiley K, Smith ME, Gordon A, Jarvik GP, Sleiman P, Kelly MA, Bland HT, Murugan M, **Venner E** , [Boerwinkle E](https://profiles.viictr.org/profile/267689), eMERGE III consortium, Prows C, Mahanta L, Rehm HL, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Muzny DM](https://profiles.viictr.org/profile/268028). Genetic sex validation for sample tracking in next-generation sequencing clinical testing. BMC Res Notes. 2024 Mar 03; 17(1):62. PMID: [38433186](//www.ncbi.nlm.nih.gov/pubmed/38433186); PMCID: [PMC10910835](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10910835).
+
+Citations:  Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Humans
+
+  6. **Venner E** , Patterson K, Kalra D, Wheeler MM, Chen YJ, [Kalla SE](https://profiles.viictr.org/profile/35133535), [Yuan B](https://profiles.viictr.org/profile/1826469), Karnes JH, Walker K, Smith JD, McGee S, Radhakrishnan A, Haddad A, Empey PE, Wang Q, Lichtenstein L, Toledo D, Jarvik G, Musick A, [Gibbs RA](https://profiles.viictr.org/profile/269695), All of Us Research Program Investigators. The frequency of pathogenic variation in the All of Us cohort reveals ancestry-driven disparities. Commun Biol. 2024 Feb 19; 7(1):174. PMID: [38374434](//www.ncbi.nlm.nih.gov/pubmed/38374434); PMCID: [PMC10876563](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10876563).
+
+Citations:  Translation:Humans
+
+  7. Hu J, Korchina V, Zouk H, Harden MV, Murdock D, Macbeth A, Harrison SM, Lennon N, Kovar C, Balasubramanian A, Zhang L, Chandanavelli G, Pasham D, Rowley R, Wiley K, Smith ME, Gordon A, Jarvik GP, Sleiman P, Kelly MA, Bland HT, Murugan M, **Venner E** , [Boerwinkle E](https://profiles.viictr.org/profile/267689), Prows C, Mahanta L, Rehm HL, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Muzny DM](https://profiles.viictr.org/profile/268028). Genetic Sex Validation for Sample Tracking in Clinical Testing. Res Sq. 2023 Sep 11. PMID: [37790445](//www.ncbi.nlm.nih.gov/pubmed/37790445); PMCID: [PMC10543510](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10543510).
+
+Citations:
+
+  8. Dikilitas O, Sherafati A, Saadatagah S, Satterfield BA, Kochan DC, Anderson KC, Chung WK, Hebbring SJ, Salvati ZM, Sharp RR, Sturm AC, [Gibbs RA](https://profiles.viictr.org/profile/269695), Rowley R, **Venner E** , Linder JE, Jones LK, Perez EF, Peterson JF, Jarvik GP, Rehm HL, Zouk H, Roden DM, Williams MS, Manolio TA, Kullo IJ. Familial Hypercholesterolemia in the Electronic Medical Records and Genomics Network: Prevalence, Penetrance, Cardiovascular Risk, and Outcomes After Return of Results. Circ Genom Precis Med. 2023 04; 16(2):e003816. PMID: [37071725](//www.ncbi.nlm.nih.gov/pubmed/37071725); PMCID: [PMC10113961](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10113961).
+
+Citations:  Fields:
+
+Car CardiologyGen GeneticsVas Vascular Diseases
+
+Translation:Humans
+
+  9. Zeng C, Bastarache LA, Tao R, **Venner E** , Hebbring S, Andujar JD, Bland ST, Crosslin DR, Pratap S, Cooley A, Pacheco JA, Christensen KD, Perez E, Zawatsky CLB, Zouk H, Weng C, Leppig KA, Sleiman PMA, Hakonarson H, Williams MS, Luo Y, Jarvik GP, Green RC, Chung WK, Gharavi AG, Lennon NJ, Rehm HL, [Gibbs RA](https://profiles.viictr.org/profile/269695), Peterson JF, Roden DM, Wiesner GL, Denny JC, Witkowski L. Association of Pathogenic Variants in Hereditary Cancer Genes With Multiple Diseases. JAMA Oncol. 2022 06 01; 8(6):835-844. PMID: [35446370](//www.ncbi.nlm.nih.gov/pubmed/35446370); PMCID: [PMC9026237](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9026237).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  10. Austin-Tse CA, Jobanputra V, Perry DL, Bick D, Taft RJ, **Venner E** , [Gibbs RA](https://profiles.viictr.org/profile/269695), Young T, Barnett S, [Belmont JW](https://profiles.viictr.org/profile/267229), Boczek N, Chowdhury S, Ellsworth KA, Guha S, Kulkarni S, Marcou C, Meng L, Murdock DR, Rehman AU, Spiteri E, Thomas-Wilson A, Kearney HM, Rehm HL, Medical Genome Initiative*. Best practices for the interpretation and reporting of clinical whole genome sequencing. NPJ Genom Med. 2022 Apr 08; 7(1):27. PMID: [35395838](//www.ncbi.nlm.nih.gov/pubmed/35395838); PMCID: [PMC8993917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8993917).
+
+Citations:
+
+  11. **Venner E** , [Muzny D](https://profiles.viictr.org/profile/268028), Smith JD, Walker K, Neben CL, Lockwood CM, Empey PE, Metcalf GA, Kachulis C, All of Us Research Program Regulatory Working Group, Mian S, Musick A, Rehm HL, Harrison S, Gabriel S, [Gibbs RA](https://profiles.viictr.org/profile/269695), Nickerson D, Zhou AY, Doheny K, Ozenberger B, Topper SE, Lennon NJ. Whole-genome sequencing as an investigational device for return of hereditary disease risk and pharmacogenomic results as part of the All of Us Research Program. Genome Med. 2022 03 28; 14(1):34. PMID: [35346344](//www.ncbi.nlm.nih.gov/pubmed/35346344); PMCID: [PMC8962531](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8962531).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35346344/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  12. Wang L, [Scherer SE](https://profiles.viictr.org/profile/266857), Bielinski SJ, [Muzny DM](https://profiles.viictr.org/profile/268028), Jones LA, Black JL, Moyer AM, Giri J, Sharp RR, Matey ET, Wright JA, Oyen LJ, Nicholson WT, Wiepert M, Sullard T, Curry TB, Rohrer Vitek CR, McAllister TM, St Sauver JL, Caraballo PJ, Lazaridis KN, **Venner E** , Qin X, Hu J, Kovar CL, Korchina V, Walker K, Doddapaneni H, Wu TJ, Raj R, Denson S, Liu W, Chandanavelli G, Zhang L, Wang Q, Kalra D, Karow MB, Harris KJ, Sicotte H, Peterson SE, Barthel AE, Moore BE, Skierka JM, Kluge ML, Kotzer KE, Kloke K, Vander Pol JM, Marker H, Sutton JA, Kekic A, Ebenhoh A, Bierle DM, Schuh MJ, Grilli C, Erickson S, Umbreit A, Ward L, Crosby S, Nelson EA, Levey S, Elliott M, Peters SG, Pereira N, Frye M, Shamoun F, Goetz MP, Kullo IJ, Wermers R, Anderson JA, Formea CM, El Melik RM, Zeuli JD, Herges JR, Krieger CA, Hoel RW, Taraba JL, St Thomas SR, Absah I, Bernard ME, Fink SR, Gossard A, Grubbs PL, Jacobson TM, Takahashi P, Zehe SC, Buckles S, Bumgardner M, Gallagher C, Fee-Schroeder K, Nicholas NR, Powers ML, Ragab AK, Richardson DM, Stai A, Wilson J, Pacyna JE, Olson JE, Sutton EJ, Beck AT, Horrow C, Kalari KR, Larson NB, Liu H, Wang L, Lopes GS, Borah BJ, Freimuth RR, Zhu Y, Jacobson DJ, Hathcock MA, Armasu SM, McGree ME, Jiang R, Koep TH, Ross JL, Hilden MG, Bosse K, Ramey B, Searcy I, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Gibbs RA](https://profiles.viictr.org/profile/269695), Weinshilboum RM. Implementation of preemptive DNA sequence-based pharmacogenomics testing across a large academic medical center: The Mayo-Baylor RIGHT 10K Study. Genet Med. 2022 05; 24(5):1062-1072. PMID: [35331649](//www.ncbi.nlm.nih.gov/pubmed/35331649); PMCID: [PMC9272414](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9272414).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  13. Krittanawong C, Johnson KW, Choi E, Kaplin S, **Venner E** , Murugan M, Wang Z, Glicksberg BS, [Amos CI](https://profiles.viictr.org/profile/23372697), Schatz MC, Tang WHW. Artificial Intelligence and Cardiovascular Genetics. Life (Basel). 2022 Feb 14; 12(2). PMID: [35207566](//www.ncbi.nlm.nih.gov/pubmed/35207566); PMCID: [PMC8875522](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8875522).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35207566/citedby/)
+
+  14. Harrison SM, Austin-Tse CA, Kim S, Lebo M, Leon A, Murdock D, Radhakrishnan A, Shirts BH, Steeves M, **Venner E** , [Gibbs RA](https://profiles.viictr.org/profile/269695), Jarvik GP, Rehm HL. Harmonizing variant classification for return of results in the All of Us Research Program. Hum Mutat. 2022 08; 43(8):1114-1121. PMID: [34923710](//www.ncbi.nlm.nih.gov/pubmed/34923710); PMCID: [PMC9206690](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9206690).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  15. Murdock DR, **Venner E** , [Muzny DM](https://profiles.viictr.org/profile/268028), Metcalf GA, Murugan M, Hadley TD, Chander V, de Vries PS, [Jia X](https://profiles.viictr.org/profile/24844976), Hussain A, Agha AM, [Sabo A](https://profiles.viictr.org/profile/269113), Li S, [Meng Q](https://profiles.viictr.org/profile/12583622), Hu J, Tian X, Cohen M, Yi V, Kovar CL, [Gingras MC](https://profiles.viictr.org/profile/266579), Korchina V, Howard C, [Riconda DL](https://profiles.viictr.org/profile/16943309), [Pereira S](https://profiles.viictr.org/profile/5866077), Smith HS, Huda ZA, Buentello A, Marino PR, Leiber L, [Balasubramanyam A](https://profiles.viictr.org/profile/268015), [Amos CI](https://profiles.viictr.org/profile/23372697), [Civitello AB](https://profiles.viictr.org/profile/268046), [Chelu MG](https://profiles.viictr.org/profile/29494265), [Maag R](https://profiles.viictr.org/profile/28999198), [McGuire AL](https://profiles.viictr.org/profile/269988), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Wehrens XHT](https://profiles.viictr.org/profile/270302), [Ballantyne CM](https://profiles.viictr.org/profile/266404), [Gibbs RA](https://profiles.viictr.org/profile/269695). Genetic testing in ambulatory cardiology clinics reveals high rate of findings with clinical management implications. Genet Med. 2021 12; 23(12):2404-2414. PMID: [34363016](//www.ncbi.nlm.nih.gov/pubmed/34363016); PMCID: [PMC8931845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8931845).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34363016/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  16. Eric V, Yi V, Murdock D, [Kalla SE](https://profiles.viictr.org/profile/35133535), Wu TJ, [Sabo A](https://profiles.viictr.org/profile/269113), Li S, [Meng Q](https://profiles.viictr.org/profile/12583622), Tian X, Murugan M, Cohen M, Kovar C, Wei WQ, Chung WK, Weng C, Wiesner GL, Jarvik GP, [Muzny D](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), eMERGE Consortium. Neptune: an environment for the delivery of genomic medicine. Genet Med. 2021 10; 23(10):1838-1846. PMID: [34257418](//www.ncbi.nlm.nih.gov/pubmed/34257418); PMCID: [PMC8487966](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8487966).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34257418/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  17. Li H, [Dawood M](https://profiles.viictr.org/profile/28999074), Khayat MM, Farek JR, Jhangiani SN, Khan ZM, Mitani T, Coban-Akdemir Z, [Lupski JR](https://profiles.viictr.org/profile/268099), **Venner E** , [Posey JE](https://profiles.viictr.org/profile/6714377), [Sabo A](https://profiles.viictr.org/profile/269113), [Gibbs RA](https://profiles.viictr.org/profile/269695). Exome variant discrepancies due to reference-genome differences. Am J Hum Genet. 2021 07 01; 108(7):1239-1250. PMID: [34129815](//www.ncbi.nlm.nih.gov/pubmed/34129815); PMCID: [PMC8322936](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8322936).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34129815/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  18. Murugan M, Babb LJ, Overby Taylor C, Rasmussen LV, Freimuth RR, **Venner E** , Yan F, Yi V, Granite SJ, Zouk H, Aronson SJ, Power K, Fedotov A, Crosslin DR, Fasel D, Jarvik GP, Hakonarson H, Bangash H, Kullo IJ, Connolly JJ, Nestor JG, Caraballo PJ, Wei W, Wiley K, Rehm HL, [Gibbs RA](https://profiles.viictr.org/profile/269695). Genomic considerations for FHIR?; eMERGE implementation lessons. J Biomed Inform. 2021 06; 118:103795. PMID: [33930535](//www.ncbi.nlm.nih.gov/pubmed/33930535); PMCID: [PMC8583906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8583906).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33930535/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  19. Feofanova EV, Zhang GQ, Lhatoo S, Metcalf GA, [Boerwinkle E](https://profiles.viictr.org/profile/267689), **Venner E**. The Implementation Science for Genomic Health Translation (INSIGHT) Study in Epilepsy: Protocol for a Learning Health Care System. JMIR Res Protoc. 2021 Mar 26; 10(3):e25576. PMID: [33769305](//www.ncbi.nlm.nih.gov/pubmed/33769305); PMCID: [PMC8088873](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8088873).
+
+Citations:
+
+  20. Wand H, Lambert SA, Tamburro C, Iacocca MA, O'Sullivan JW, Sillari C, Kullo IJ, Rowley R, Dron JS, Brockman D, **Venner E** , McCarthy MI, Antoniou AC, Easton DF, Hegele RA, Khera AV, Chatterjee N, Kooperberg C, Edwards K, Vlessis K, Kinnear K, Danesh JN, Parkinson H, Ramos EM, Roberts MC, Ormond KE, Khoury MJ, Janssens ACJW, Goddard KAB, Kraft P, MacArthur JAL, Inouye M, Wojcik GL. Improving reporting standards for polygenic scores in risk prediction studies. Nature. 2021 03; 591(7849):211-219. PMID: [33692554](//www.ncbi.nlm.nih.gov/pubmed/33692554); PMCID: [PMC8609771](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8609771).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33692554/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  21. Amendola LM, Muenzen K, Biesecker LG, Bowling KM, Cooper GM, Dorschner MO, Driscoll C, Foreman AKM, Golden-Grant K, Greally JM, Hindorff L, Kanavy D, Jobanputra V, Johnston JJ, Kenny EE, McNulty S, Murali P, Ou J, Powell BC, Rehm HL, Rolf B, Roman TS, Van Ziffle J, Guha S, Abhyankar A, Crosslin D, **Venner E** , Yuan B, Zouk H, CSER Sequencing and Diagnostic Yield working group, Jarvik GP. Variant Classification Concordance using the ACMG-AMP Variant Interpretation Guidelines across Nine Genomic Implementation Research Studies. Am J Hum Genet. 2020 11 05; 107(5):932-941. PMID: [33108757](//www.ncbi.nlm.nih.gov/pubmed/33108757); PMCID: [PMC7675005](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7675005).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33108757/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  22. Bielinski SJ, St Sauver JL, Olson JE, Larson NB, Black JL, [Scherer SE](https://profiles.viictr.org/profile/266857), Bernard ME, [Boerwinkle E](https://profiles.viictr.org/profile/267689), Borah BJ, Caraballo PJ, Curry TB, Doddapaneni H, Formea CM, Freimuth RR, [Gibbs RA](https://profiles.viictr.org/profile/269695), Giri J, Hathcock MA, Hu J, Jacobson DJ, Jones LA, [Kalla S](https://profiles.viictr.org/profile/35133535), Koep TH, Korchina V, Kovar CL, Lee S, Liu H, Matey ET, McGree ME, McAllister TM, Moyer AM, [Muzny DM](https://profiles.viictr.org/profile/268028), Nicholson WT, Oyen LJ, Qin X, Raj R, Rohrer Vitek CR, Ross JL, Sharp RR, Takahashi PY, **Venner E** , Walker K, Wang L, Wang Q, Wright JA, Wu TJ, Wang L, Weinshilboum RM, Roger VL. Cohort Profile: The Right Drug, Right Dose, Right Time: Using Genomic Data to Individualize Treatment Protocol (RIGHT Protocol). Int J Epidemiol. 2020 02 01; 49(1):23-24k. PMID: [31378813](//www.ncbi.nlm.nih.gov/pubmed/31378813); PMCID: [PMC7124480](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7124480).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31378813/citedby/) Fields:
+
+Epi Epidemiology
+
+Translation:Humans
+
+  23. Liu J, Ding G, Zou K, Jiang Z, Zhang J, Lu Y, Pignata A, **Venner E** , Liu P, [Liu Z](https://profiles.viictr.org/profile/266153), [Wangler MF](https://profiles.viictr.org/profile/268429), [Sun Z](https://profiles.viictr.org/profile/6478181). Genome sequencing analysis of a family with a child displaying severe abdominal distention and recurrent hypoglycemia. Mol Genet Genomic Med. 2020 03; 8(3):e1130. PMID: [31971667](//www.ncbi.nlm.nih.gov/pubmed/31971667); PMCID: [PMC7057095](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7057095).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31971667/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:Humans
+
+  24. **Venner E** , Murugan M, Hale W, Jones JM, Lu S, Yi V, [Gibbs RA](https://profiles.viictr.org/profile/269695). ARBoR: an identity and security solution for clinical reporting. J Am Med Inform Assoc. 2019 11 01; 26(11):1370-1374. PMID: [31241152](//www.ncbi.nlm.nih.gov/pubmed/31241152); PMCID: [PMC6798556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6798556).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  25. Chiang T, Liu X, Wu TJ, Hu J, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), White S, Schaid D, Andrade M, Jarvik GP, Crosslin D, Stanaway I, Carrell DS, Connolly JJ, Hakonarson H, Groopman EE, Gharavi AG, Fedotov A, [Bi W](https://profiles.viictr.org/profile/266446), Leduc MS, Murdock DR, Jiang Y, [Meng L](https://profiles.viictr.org/profile/3010157), [Eng CM](https://profiles.viictr.org/profile/267270), Wen S, Yang Y, [Muzny DM](https://profiles.viictr.org/profile/268028), [Boerwinkle E](https://profiles.viictr.org/profile/267689), Salerno W, **Venner E** , [Gibbs RA](https://profiles.viictr.org/profile/269695). Atlas-CNV: a validated approach to call single-exon CNVs in the eMERGESeq gene panel. Genet Med. 2019 09; 21(9):2135-2144. PMID: [30890783](//www.ncbi.nlm.nih.gov/pubmed/30890783); PMCID: [PMC6752313](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6752313).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30890783/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  26. Kullo IJ, Olson J, Fan X, Jose M, Safarova M, Radecki Breitkopf C, Winkler E, Kochan DC, Snipes S, Pacyna JE, Carney M, Chute CG, Gupta J, Jose S, **Venner E** , Murugan M, Jiang Y, Zordok M, Farwati M, Philogene M, Smith E, Shaibi GQ, Caraballo P, Freimuth R, Lindor NM, Sharp R, Thibodeau SN. The Return of Actionable Variants Empirical (RAVE) Study, a Mayo Clinic Genomic Medicine Implementation Study: Design and Initial Results. Mayo Clin Proc. 2018 11; 93(11):1600-1610. PMID: [30392543](//www.ncbi.nlm.nih.gov/pubmed/30392543); PMCID: [PMC6652203](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6652203).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30392543/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  27. Aronson S, Babb L, Ames D, [Gibbs RA](https://profiles.viictr.org/profile/269695), **Venner E** , Connelly JJ, Marsolo K, Weng C, Williams MS, Hartzler AL, Liang WH, Ralston JD, Devine EB, Murphy S, Chute CG, Caraballo PJ, Kullo IJ, Freimuth RR, Rasmussen LV, Wehbe FH, Peterson JF, Robinson JR, Wiley K, Overby Taylor C, eMERGE Network EHRI Working Group. Empowering genomic medicine by establishing critical sequencing result data flows: the eMERGE example. J Am Med Inform Assoc. 2018 10 01; 25(10):1375-1381. PMID: [29860405](//www.ncbi.nlm.nih.gov/pubmed/29860405); PMCID: [PMC6188517](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6188517).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29860405/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  28. Miszalski-Jamka K, Jefferies JL, Mazur W, Glowacki J, Hu J, Lazar M, [Gibbs RA](https://profiles.viictr.org/profile/269695), Liczko J, Klys J, **Venner E** , [Muzny DM](https://profiles.viictr.org/profile/268028), Rycaj J, Bialkowski J, Kluczewska E, Kalarus Z, Jhangiani S, Al-Khalidi H, Kukulski T, [Lupski JR](https://profiles.viictr.org/profile/268099), [Craigen WJ](https://profiles.viictr.org/profile/267972), Bainbridge MN. Novel Genetic Triggers and Genotype-Phenotype Correlations in Patients With Left Ventricular Noncompaction. Circ Cardiovasc Genet. 2017 Aug; 10(4). PMID: [28798025](//www.ncbi.nlm.nih.gov/pubmed/28798025); PMCID: [PMC5665372](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5665372).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28798025/citedby/) Fields:
+
+Car CardiologyGen GeneticsVas Vascular Diseases
+
+Translation:Humans
+
+  29. Lua RC, Wilson SJ, Konecki DM, Wilkins AD, **Venner E** , Morgan DH, [Lichtarge O](https://profiles.viictr.org/profile/269815). UET: a database of evolutionarily-predicted functional determinants of protein sequences that cluster as functional sites in protein structures. Nucleic Acids Res. 2016 Jan 04; 44(D1):D308-12. PMID: [26590254](//www.ncbi.nlm.nih.gov/pubmed/26590254); PMCID: [PMC4702906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4702906).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26590254/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  30. Wilkins AD, **Venner E** , [Marciano DC](https://profiles.viictr.org/profile/3009795), Erdin S, Atri B, Lua RC, [Lichtarge O](https://profiles.viictr.org/profile/269815). Accounting for epistatic interactions improves the functional analysis of protein structures. Bioinformatics. 2013 Nov 01; 29(21):2714-21. PMID: [24021383](//www.ncbi.nlm.nih.gov/pubmed/24021383); PMCID: [PMC3799481](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3799481).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24021383/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Cells
+
+  31. Erdin S, **Venner E** , Lisewski AM, [Lichtarge O](https://profiles.viictr.org/profile/269815). Function prediction from networks of local evolutionary similarity in protein structure. BMC Bioinformatics. 2013; 14 Suppl 3:S6. PMID: [23514548](//www.ncbi.nlm.nih.gov/pubmed/23514548); PMCID: [PMC3584919](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3584919).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23514548/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Cells
+
+  32. Radivojac P, Clark WT, Oron TR, Schnoes AM, Wittkop T, Sokolov A, Graim K, Funk C, Verspoor K, Ben-Hur A, Pandey G, Yunes JM, Talwalkar AS, Repo S, Souza ML, Piovesan D, Casadio R, Wang Z, Cheng J, Fang H, Gough J, Koskinen P, Nokso-Koivisto J, Holm L, Cozzetto D, Buchan DW, Bryson K, Jones DT, Limaye B, Inamdar H, Datta A, Manjari SK, Joshi R, Chitale M, Kihara D, Lisewski AM, Erdin S, **Venner E** , [Lichtarge O](https://profiles.viictr.org/profile/269815), Rentzsch R, Yang H, Romero AE, Bhat P, Paccanaro A, Hamp T, Seemayer S, Vicedo E, Schaefer C, Achten D, Auer F, Boehm A, Braun T, Hecht M, Heron M, Hopf TA, Kaufmann S, Kiening M, Krompass D, Landerer C, Mahlich Y, Roos M, Salakoski T, Wong A, Shatkay H, Gatzmann F, Sommer I, Wass MN, Sternberg MJ, Supek F, Panov P, Kourmpetis YA, van Dijk AD, ter Braak CJ, Zhou Y, Gong Q, Dong X, Tian W, Falda M, Fontana P, Lavezzo E, Di Camillo B, Toppo S, Lan L, Djuric N, Guo Y, Vucetic S, Bairoch A, Linial M, Babbitt PC, Brenner SE, Orengo C, Rost B, Mooney SD, Friedberg I, T?r?nen P, Ka?ner R, H?nigschmid P, Bj?rne J, ?kunca N, Bo?njak M, D?eroski S, ?muc T. A large-scale evaluation of computational protein function prediction. Nat Methods. 2013 Mar; 10(3):221-7. PMID: [23353650](//www.ncbi.nlm.nih.gov/pubmed/23353650); PMCID: [PMC3584181](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3584181).
+
+Citations:
+[350](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23353650/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:HumansAnimals
+
+  33. Bachman BJ, **Venner E** , Lua RC, Erdin S, [Lichtarge O](https://profiles.viictr.org/profile/269815). ETAscape: analyzing protein networks to predict enzymatic function and substrates in Cytoscape. Bioinformatics. 2012 Aug 15; 28(16):2186-8. PMID: [22689386](//www.ncbi.nlm.nih.gov/pubmed/22689386); PMCID: [PMC3413384](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3413384).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22689386/citedby/) Fields:
+
+Com Computational Biology
+
+  34. **Venner E** , Lisewski AM, Erdin S, Ward RM, Amin SR, [Lichtarge O](https://profiles.viictr.org/profile/269815). Accurate protein structure annotation through competitive diffusion of enzymatic functions over a network of local evolutionary similarities. PLoS One. 2010 Dec 13; 5(12):e14286. PMID: [21179190](//www.ncbi.nlm.nih.gov/pubmed/21179190); PMCID: [PMC3001439](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3001439).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21179190/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Cells
+
+  35. Erdin S, Ward RM, **Venner E** , [Lichtarge O](https://profiles.viictr.org/profile/269815). Evolutionary trace annotation of protein function in the structural proteome. J Mol Biol. 2010 Mar 12; 396(5):1451-73. PMID: [20036248](//www.ncbi.nlm.nih.gov/pubmed/20036248); PMCID: [PMC2831211](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2831211).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20036248/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  36. Ward RM, **Venner E** , Daines B, Murray S, Erdin S, Kristensen DM, [Lichtarge O](https://profiles.viictr.org/profile/269815). Evolutionary Trace Annotation Server: automated enzyme function prediction in protein structures using 3D templates. Bioinformatics. 2009 Jun 01; 25(11):1426-7. PMID: [19307237](//www.ncbi.nlm.nih.gov/pubmed/19307237); PMCID: [PMC2682511](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2682511).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19307237/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 36 publications over 13 distinct years, with a maximum of
+7 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,14,0,14,43,0,14,0,14,29,29,43,100,71,29,86&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2009| 2  
+2010| 1  
+2012| 1  
+2013| 3  
+2015| 1  
+2017| 1  
+2018| 2  
+2019| 2  
+2020| 3  
+2021| 7  
+2022| 5  
+2023| 2  
+2024| 6  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+VENNER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (134)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Population Health](https://profiles.viictr.org/profile/27545613)
+  * [Pharmacogenetics](https://profiles.viictr.org/profile/251649)
+  * [Genomics](https://profiles.viictr.org/profile/247984)
+  * [Laboratories](https://profiles.viictr.org/profile/253099)
+  * [Computer Security](https://profiles.viictr.org/profile/241702)
+
+[Explore](https://profiles.viictr.org/profile/21983624/198)
+
+_
+
+Co-Authors (35)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [LICHTARGE, OLIVIER](https://profiles.viictr.org/profile/269815)
+  * [MUZNY, DONNA](https://profiles.viictr.org/profile/268028)
+  * [KALLA, SARA](https://profiles.viictr.org/profile/35133535)
+  * [YUAN, BO](https://profiles.viictr.org/profile/1826469)
+
+[Explore](https://profiles.viictr.org/profile/21983624/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+
+[Explore](https://profiles.viictr.org/profile/21983624/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BACINO, CARLOS](https://profiles.viictr.org/profile/266588)
+  * [ERWIN, GRAHAM](https://profiles.viictr.org/profile/42803677)
+  * [HALLIDAY, JENNIFER](https://profiles.viictr.org/profile/29964659)
+  * [IRA, GRZEGORZ](https://profiles.viictr.org/profile/269248)
+  * [MENG, LINYAN](https://profiles.viictr.org/profile/3010157)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

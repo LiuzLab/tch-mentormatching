@@ -1,0 +1,1890 @@
+## THOMAS GIORDANO
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Irs3wWfELcXwQpo%3d&rnd=750c7781-e337-4e2e-9bfe-95316c36cb46)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269417)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01DA059394 (GIORDANO, THOMAS P)Sep 15, 2023 - Jul 31, 2028NIH  
+Wastewater Sampling: A New Tool to Accelerate Ending the HIV Epidemic  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+P30AI161943 (GIORDANO, THOMAS P)Apr 23, 2021 - Mar 31, 2026NIH  
+Texas Developmental Center for AIDS Research  
+Role: Principal Investigator  
+  
+* * *  
+  
+R34MH122294 (DINDO, LILIAN NAZAR;GIORDANO, THOMAS P)Aug 1, 2020 - Jul 31,
+2024NIH  
+Targeting HIV Retention and Improved Viral load through Engagement ('THRIVE')  
+Role: Principal Investigator  
+  
+* * *  
+  
+I01HX002645 (GIORDANO, THOMAS P)Jan 1, 2020 - Dec 31, 2024NIH  
+VA Video Connect to Improve Access to Multi-disciplinary Specialty Care  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01DA047933 (O'CLEIRIGH, CONALL MICHAEL)May 15, 2019 - Feb 28, 2023NIH  
+Effectivenss of an Integrated Treatment to Address Smoking Cessation and
+Anxiety/Depression in People Living with HIV  
+Role: Co-Investigator  
+  
+* * *  
+  
+I01HX000150 (GIORDANO, THOMAS P)Jul 1, 2010 - Dec 31, 2014NIH  
+Developing an Intervention to Retain HIV-infected Veterans in HIV Care  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01MH085527 (GIORDANO, THOMAS P)Sep 30, 2009 - May 31, 2016NIH  
+Test of an intervention to improve retention in HIV care after hospitalization  
+Role: Principal Investigator  
+  
+* * *  
+  
+R34MH074360 (GIORDANO, THOMAS P)Dec 1, 2005 - Nov 30, 2009NIH  
+Attitudes and Beliefs and the Steps of HIV Care  
+Role: Principal Investigator  
+  
+* * *  
+  
+T32AI055413 (GIORDANO, THOMAS P)Aug 1, 2003 - Jun 30, 2025NIH  
+Research Training in Infection and Immunity  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+K23MH067505 (GIORDANO, THOMAS P)Dec 1, 2002 - Nov 30, 2007NIH  
+HIV, Race and Survival in the Highly Active Therapy Era  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Bizier A, Jones A, Businelle M, Kezbers K, Hoeppner BB, **Giordano TP** , Thai JM, Charles J, Montgomery A, Gallagher MW, Cheney MK, Zvolensky M, Garey L. An Integrated mHealth App for Smoking Cessation in Black Smokers With HIV: Protocol for a Randomized Controlled Trial. JMIR Res Protoc. 2024 04 24; 13:e52090. PMID: [38657227](//www.ncbi.nlm.nih.gov/pubmed/38657227); PMCID: [PMC11079772](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11079772).
+
+Citations:  Translation:HumansCTClinical Trials
+
+  2. Qian Q, Wu H, Hayon J, Lupo S, [Poveda C](https://profiles.viictr.org/profile/37834418), Jones KM, **Giordano TP** , Fleischmann CJ, Bern C, Whitman JD, [Clark EH](https://profiles.viictr.org/profile/22016462). Adaptation of Chagas Disease Screening Recommendations for a Community of At-risk HIV in the United States. Clin Infect Dis. 2024 02 17; 78(2):453-456. PMID: [37805935](//www.ncbi.nlm.nih.gov/pubmed/37805935).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+Translation:HumansAnimalsCells
+
+  3. May SB, **Giordano TP** , Gottlieb A. Generalizable pipeline for constructing HIV risk prediction models across electronic health record systems. J Am Med Inform Assoc. 2024 Feb 16; 31(3):666-673. PMID: [37990631](//www.ncbi.nlm.nih.gov/pubmed/37990631); PMCID: [PMC10873846](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10873846).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  4. [Sheinfil AZ](https://profiles.viictr.org/profile/38907543), Day G, [Walder A](https://profiles.viictr.org/profile/269214), [Hogan J](https://profiles.viictr.org/profile/16102715), **Giordano TP** , [Lindsay J](https://profiles.viictr.org/profile/269304), [Ecker A](https://profiles.viictr.org/profile/18830399). Rural Veterans with HIV and Alcohol Use Disorder receive less video telehealth than urban Veterans. J Rural Health. 2024 Jun; 40(3):419-429. PMID: [37759376](//www.ncbi.nlm.nih.gov/pubmed/37759376); PMCID: [PMC10965503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10965503).
+
+Citations:  Fields:
+
+Pub Public Health
+
+  5. [Goebel MC](https://profiles.viictr.org/profile/24844919), Guajardo E, **Giordano TP** , [Patel SM](https://profiles.viictr.org/profile/269161). The New Era of Long-Acting Antiretroviral Therapy: When and Why to Make the Switch. Curr HIV/AIDS Rep. 2023 Oct; 20(5):271-285. PMID: [37733184](//www.ncbi.nlm.nih.gov/pubmed/37733184).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+  6. Yu X, Kuo YF, Raji MA, Berenson AB, Baillargeon J, **Giordano TP**. Dementias Among Older Males and Females in the U.S. Medicare System With and Without HIV. J Acquir Immune Defic Syndr. 2023 06 01; 93(2):107-115. PMID: [36881792](//www.ncbi.nlm.nih.gov/pubmed/36881792); PMCID: [PMC10293071](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10293071).
+
+Citations:
+
+  7. Thompson JL, Matchanova A, Beltran-Najera I, Ridgely NC, Mustafa A, Babicz MA, Hasbun R, **Giordano TP** , Woods SP. Preliminary Validity of a Telephone-Based Neuropsychological Battery in a Consecutive Series of Persons with HIV Disease Referred for Clinical Evaluation. Arch Clin Neuropsychol. 2023 May 22; 38(4):570-585. PMID: [36566509](//www.ncbi.nlm.nih.gov/pubmed/36566509).
+
+Citations:  Fields:
+
+Neu NeurologyPsy Psychology
+
+Translation:HumansPHPublic Health
+
+  8. Yu X, **Giordano TP** , Baillargeon J, Westra JR, Berenson AB, Raji MA, Kuo YF. Assessing incident depression among older people with and without HIV in U.S. Soc Psychiatry Psychiatr Epidemiol. 2023 Feb; 58(2):299-308. PMID: [36334100](//www.ncbi.nlm.nih.gov/pubmed/36334100); PMCID: [PMC10176598](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10176598).
+
+Citations:
+
+  9. Woods SP, Matchanova A, Alex C, Rahman S, Babicz MA, Sullivan KL, Avci G, Hasbun R, Fazeli PL, **Giordano TP**. A pilot study of cognition and creativity among persons with HIV disease referred for neuropsychological evaluation. J Neurovirol. 2022 12; 28(4-6):595-605. PMID: [36094729](//www.ncbi.nlm.nih.gov/pubmed/36094729); PMCID: [PMC9466317](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9466317).
+
+Citations:
+
+  10. Yu X, Baillargeon J, Berenson AB, Westra JR, **Giordano TP** , Kuo YF. Incident depression among Medicare beneficiaries with disabilities and HIV. AIDS. 2022 07 15; 36(9):1295-1304. PMID: [35608114](//www.ncbi.nlm.nih.gov/pubmed/35608114); PMCID: [PMC9283374](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9283374).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  11. [Dindo L](https://profiles.viictr.org/profile/9193085), Moitra E, Roddy MK, [Ratcliff C](https://profiles.viictr.org/profile/15317783), Markham C, **Giordano T**. Development and Initial Feasibility of a Hospital-Based Acceptance and Commitment Therapy Intervention to Improve Retention in Care for Out-of-Care Persons with HIV: Lessons Learned from an Open Pilot Trial. J Clin Med. 2022 May 17; 11(10). PMID: [35628955](//www.ncbi.nlm.nih.gov/pubmed/35628955); PMCID: [PMC9147647](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9147647).
+
+Citations:
+
+  12. White DAE, Anderson ES, Basham K, Ng VL, Russell C, Lyons MS, Powers-Fletcher MV, **Giordano TP** , Muldrew KL, Siatecka H, Hsieh YH, Dashler G, Carroll KC, Mostafa HH, Rothman RE. Clinical Utility of the Signal-to-Cutoff Ratio of Reactive HIV Antigen/Antibody Screening Tests in Guiding Emergency Physician Management. J Acquir Immune Defic Syndr. 2022 03 01; 89(3):332-339. PMID: [35147582](//www.ncbi.nlm.nih.gov/pubmed/35147582).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCellsPHPublic Health
+
+  13. Freytag J, Chu J, [Hysong SJ](https://profiles.viictr.org/profile/270308), Street RL, Markham CM, **Giordano TP** , Westbrook RA, Njue-Marendes S, Johnson SR, [Dang BN](https://profiles.viictr.org/profile/268418). Acceptability and feasibility of video-based coaching to enhance clinicians' communication skills with patients. BMC Med Educ. 2022 Feb 08; 22(1):85. PMID: [35135521](//www.ncbi.nlm.nih.gov/pubmed/35135521); PMCID: [PMC8822679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8822679).
+
+Citations:  Fields:
+
+Edu Education
+
+Translation:Humans
+
+  14. Guajardo E, **Giordano TP** , Westbrook RA, Black WC, Njue-Marendes S, [Dang BN](https://profiles.viictr.org/profile/268418). The Effect of Initial Patient Experiences and Life Stressors on Predicting Lost to Follow-Up in Patients New to an HIV Clinic. AIDS Behav. 2022 Jun; 26(6):1880-1891. PMID: [34984580](//www.ncbi.nlm.nih.gov/pubmed/34984580); PMCID: [PMC9050761](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9050761).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+Translation:Humans
+
+  15. May SB, **Giordano TP** , Gottlieb A. A Phenotyping Algorithm to Identify People With HIV in Electronic Health Record Data (HIV-Phen): Development and Evaluation Study. JMIR Form Res. 2021 Nov 25; 5(11):e28620. PMID: [34842532](//www.ncbi.nlm.nih.gov/pubmed/34842532); PMCID: [PMC8727048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8727048).
+
+Citations:
+
+  16. Woods SP, Babicz MA, Matchanova A, Sullivan KL, Avci G, Hasbun R, **Giordano TP** , Fazeli P, Morgan EE. A Clinical Pilot Study of Spaced Retrieval Practice with a Self-Generation Booster to Improve Health-Related Memory in Persons With HIV Disease. Arch Clin Neuropsychol. 2021 Oct 13; 36(7):1296-1306. PMID: [33517368](//www.ncbi.nlm.nih.gov/pubmed/33517368).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33517368/citedby/) Fields:
+
+Neu NeurologyPsy Psychology
+
+Translation:Humans
+
+  17. Gloston GF, Day GA, [Touchett HN](https://profiles.viictr.org/profile/41360996), Marchant-Miros KE, [Hogan JB](https://profiles.viictr.org/profile/16102715), Chen PV, [Amspoker AB](https://profiles.viictr.org/profile/265946), [Fletcher TL](https://profiles.viictr.org/profile/3009875), **Giordano TP** , [Lindsay JA](https://profiles.viictr.org/profile/269304). Pivoting to Video Telehealth for Delivery of HIV Care During COVID-19: A Brief Report. Telemed Rep. 2021; 2(1):205-210. PMID: [34841420](//www.ncbi.nlm.nih.gov/pubmed/34841420); PMCID: [PMC8621621](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8621621).
+
+Citations:
+
+  18. Yu X, Westra JR, **Giordano TP** , Berenson AB, Baillargeon JG, Kuo YF. Assessing comorbidities and survival in HIV-infected and uninfected matched Medicare enrollees. AIDS. 2021 08 01; 35(10):1667-1675. PMID: [34049353](//www.ncbi.nlm.nih.gov/pubmed/34049353); PMCID: [PMC8286326](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8286326).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34049353/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  19. Garey L, Wirtz MR, Labbe AK, Zvolensky MJ, Smits JAJ, **Giordano TP** , Rosenfield D, Robbins GK, Levy DE, McKetchnie SM, Bell T, O'Cleirigh C. Evaluation of an integrated treatment to address smoking cessation and anxiety/depressive symptoms among people living with HIV: Study protocol for a randomized controlled trial. Contemp Clin Trials. 2021 07; 106:106420. PMID: [33933667](//www.ncbi.nlm.nih.gov/pubmed/33933667); PMCID: [PMC10080995](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10080995).
+
+Citations:  Fields:
+
+Med Medicine (General)The Therapeutics
+
+Translation:HumansCTClinical Trials
+
+  20. Dandachi D, de Groot A, Rajabiun S, Rajashekara S, [Davila JA](https://profiles.viictr.org/profile/268397), Quinn E, Cabral HJ, Wilson IB, **Giordano TP**. Reliability and Validity of a Brief Self-Report Adherence Measure among People with HIV Experiencing Homelessness and Mental Health or Substance Use Disorders. AIDS Behav. 2021 Feb; 25(2):322-329. PMID: [32666245](//www.ncbi.nlm.nih.gov/pubmed/32666245); PMCID: [PMC10246919](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10246919).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+Translation:Humans
+
+  21. Johnson SR, **Giordano TP** , Markham C, Njue-Marendes S, [Dang BN](https://profiles.viictr.org/profile/268418). Patients' Experiences with Refilling their HIV Medicines: Facilitators and Barriers to On-Time Refills. Perm J. 2020 12; 24:1-3. PMID: [33482953](//www.ncbi.nlm.nih.gov/pubmed/33482953); PMCID: [PMC7849255](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7849255).
+
+Citations:  Fields:
+
+Hea Health ServicesMed Medicine (General)
+
+Translation:Humans
+
+  22. Rogers AH, Neighbors C, [Sharp C](https://profiles.viictr.org/profile/270256), **Giordano TP** , Woods SP, Zvolensky MJ. The relationship between sex-related alcohol expectancies and hazardous drinking among persons with HIV disease. AIDS Care. 2021 11; 33(11):1475-1481. PMID: [33225738](//www.ncbi.nlm.nih.gov/pubmed/33225738).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCTClinical Trials
+
+  23. Rajabiun S, Davis-Plourde K, Tinsley M, Quinn EK, Borne D, Maskay MH, **Giordano TP** , Cabral HJ. Pathways to housing stability and viral suppression for people living with HIV/AIDS: Findings from the Building a Medical Home for Multiply Diagnosed HIV-positive Homeless Populations initiative. PLoS One. 2020; 15(10):e0239190. PMID: [33001986](//www.ncbi.nlm.nih.gov/pubmed/33001986); PMCID: [PMC7529314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7529314).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33001986/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  24. Dandachi D, Freytag J, **Giordano TP** , [Dang BN](https://profiles.viictr.org/profile/268418). It is Time to Include Telehealth in Our Measure of Patient Retention in HIV Care. AIDS Behav. 2020 09; 24(9):2463-2465. PMID: [32337650](//www.ncbi.nlm.nih.gov/pubmed/32337650); PMCID: [PMC7183926](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7183926).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32337650/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+  25. Wilson Dib R, Dandachi D, Matar M, Shayya A, [Davila JA](https://profiles.viictr.org/profile/268397), **Giordano TP** , Mokhbat JE. HIV in Lebanon: Reasons for Testing, Engagement in Care, and Outcomes in Patients with Newly Diagnosed HIV Infections. AIDS Behav. 2020 Aug; 24(8):2290-2298. PMID: [31965431](//www.ncbi.nlm.nih.gov/pubmed/31965431).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+Translation:Humans
+
+  26. English K, May SB, [Davila JA](https://profiles.viictr.org/profile/268397), [Cully JA](https://profiles.viictr.org/profile/267137), [Dindo L](https://profiles.viictr.org/profile/9193085), Amico KR, Kallen MA, **Giordano TP**. Retention in Care and Viral Load Improvement After Discharge Among Hospitalized Out-of-Care People With HIV Infection: A Post Hoc Analysis of a Randomized Controlled Trial. Open Forum Infect Dis. 2020 Jun; 7(6):ofaa193. PMID: [32550239](//www.ncbi.nlm.nih.gov/pubmed/32550239); PMCID: [PMC7291684](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7291684).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32550239/citedby/)
+
+  27. Dandachi D, [Dang BN](https://profiles.viictr.org/profile/268418), Lucari B, Swindells S, **Giordano TP**. Acceptability and preferences for long-acting antiretroviral formulations among people with HIV infection. AIDS Care. 2021 06; 33(6):801-809. PMID: [32408771](//www.ncbi.nlm.nih.gov/pubmed/32408771).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32408771/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  28. Hemmige V, Arias CA, Pasalar S, **Giordano TP**. Skin and Soft Tissue Infection in People Living With Human Immunodeficiency Virus in a Large, Urban, Public Healthcare System in Houston, Texas, 2009-2014. Clin Infect Dis. 2020 04 15; 70(9):1985-1992. PMID: [31209457](//www.ncbi.nlm.nih.gov/pubmed/31209457); PMCID: [PMC7156777](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7156777).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31209457/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  29. Dandachi D, [Dang BN](https://profiles.viictr.org/profile/268418), Lucari B, Teti M, **Giordano TP**. Exploring the Attitude of Patients with HIV About Using Telehealth for HIV Care. AIDS Patient Care STDS. 2020 04; 34(4):166-172. PMID: [32324481](//www.ncbi.nlm.nih.gov/pubmed/32324481).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32324481/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  30. [Arya M](https://profiles.viictr.org/profile/265907), Marren RE, Marek HG, Pasalar S, Hemmige V, **Giordano TP**. Success of Supplementing National HIV Testing Recommendations With a Local Initiative in a Large Health Care System in the U.S. South. J Acquir Immune Defic Syndr. 2020 02 01; 83(2):e6-e9. PMID: [31929408](//www.ncbi.nlm.nih.gov/pubmed/31929408); PMCID: [PMC6964252](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6964252).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31929408/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCellsPHPublic Health
+
+  31. Batey DS, Kay ES, Westfall AO, Zinski A, Drainoni ML, Gardner LI, **Giordano T** , Keruly J, Rodriguez A, Wilson TE, Mugavero MJ, Retention in Care (RIC) Study Group. Are missed- and kept-visit measures capturing different aspects of retention in HIV primary care? AIDS Care. 2020 01; 32(1):98-103. PMID: [31462060](//www.ncbi.nlm.nih.gov/pubmed/31462060).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31462060/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  32. Chu H, Westbrook RA, Njue-Marendes S, **Giordano TP** , [Dang BN](https://profiles.viictr.org/profile/268418). The psychology of the wait time experience - what clinics can do to manage the waiting experience for patients: a longitudinal, qualitative study. BMC Health Serv Res. 2019 Jul 08; 19(1):459. PMID: [31286957](//www.ncbi.nlm.nih.gov/pubmed/31286957); PMCID: [PMC6615172](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6615172).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31286957/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  33. Wettermann R, Marek H, **Giordano TP** , [Arya M](https://profiles.viictr.org/profile/265907). Text Messages Can Encourage Patients to Discuss and Receive HIV Testing in Primary Care. J Am Board Fam Med. 2019 May-Jun; 32(3):408-412. PMID: [31068405](//www.ncbi.nlm.nih.gov/pubmed/31068405).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31068405/citedby/) Fields:
+
+Pri Primary Health Care
+
+Translation:Humans
+
+  34. Freytag J, Jiang ZJ, **Giordano TP** , Westbrook RA, McCurdy SA, Njue-Marendes S, [Dang BN](https://profiles.viictr.org/profile/268418). What patient involvement means to new patients at two HIV clinics: A longitudinal, qualitative study. Patient Educ Couns. 2019 08; 102(8):1535-1540. PMID: [30948202](//www.ncbi.nlm.nih.gov/pubmed/30948202); PMCID: [PMC6565493](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6565493).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30948202/citedby/) Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  35. Dandachi D, Ostrom QT, Chong I, Serpa JA, **Giordano TP** , Kruchko C, Barnholtz-Sloan JS, [Fowler N](https://profiles.viictr.org/profile/12583880), [Colen RR](https://profiles.viictr.org/profile/12582847), Mor?n FE. Primary central nervous system lymphoma in patients with and without HIV infection: a multicenter study and comparison with U.S national data. Cancer Causes Control. 2019 May; 30(5):477-488. PMID: [30888569](//www.ncbi.nlm.nih.gov/pubmed/30888569).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30888569/citedby/) Fields:
+
+Epi EpidemiologyNeo Neoplasms
+
+Translation:Humans
+
+  36. Dandachi D, Lee C, Morgan RO, Tavakoli-Tabasi S, **Giordano TP** , [Rodriguez-Barradas MC](https://profiles.viictr.org/profile/269379). Integration of telehealth services in the healthcare system: with emphasis on the experience of patients living with HIV. J Investig Med. 2019 06; 67(5):815-820. PMID: [30826803](//www.ncbi.nlm.nih.gov/pubmed/30826803).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30826803/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  37. Kumar D, Hemmige V, Kallen MA, **Giordano TP** , [Arya M](https://profiles.viictr.org/profile/265907). Mobile Phones May Not Bridge the Digital Divide: A Look at Mobile Phone Literacy in an Underserved Patient Population. Cureus. 2019 Feb 20; 11(2):e4104. PMID: [31057998](//www.ncbi.nlm.nih.gov/pubmed/31057998); PMCID: [PMC6476614](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6476614).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31057998/citedby/)
+
+  38. Mouat IC, Omata K, McDaniel AS, Hattangady NG, Talapatra D, Cani AK, Hovelson DH, Tomlins SA, Rainey WE, Hammer GD, **Giordano TJ** , Else T. Somatic mutations in adrenocortical carcinoma with primary aldosteronism or hyperreninemic hyperaldosteronism. Endocr Relat Cancer. 2019 02; 26(2):217-225. PMID: [30475217](//www.ncbi.nlm.nih.gov/pubmed/30475217); PMCID: [PMC7065382](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7065382).
+
+Citations:
+
+  39. Dandachi D, May SB, [Davila JA](https://profiles.viictr.org/profile/268397), [Cully J](https://profiles.viictr.org/profile/267137), Amico KR, Kallen MA, **Giordano TP**. The Association of Unmet Needs With Subsequent Retention in Care and HIV Suppression Among Hospitalized Patients With HIV Who Are Out of Care. J Acquir Immune Defic Syndr. 2019 01 01; 80(1):64-72. PMID: [30272637](//www.ncbi.nlm.nih.gov/pubmed/30272637); PMCID: [PMC6289860](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6289860).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30272637/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  40. Lurton G, Conteh S, Daboh F, Kargbo B, **Giordano T** , Mukherjee J, Barrie MB, Kelly JD, Frankfurter R, Empson SF. Evaluation of a community-based ART programme after tapering home visits in rural Sierra Leone: a 24-month retrospective study. SAHARA J. 2018 12; 15(1):138-145. PMID: [30257611](//www.ncbi.nlm.nih.gov/pubmed/30257611); PMCID: [PMC6161614](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6161614).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30257611/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSoc Social Sciences
+
+Translation:Humans
+
+  41. **Giordano TP** , Gallagher K, Davich JAW, Rathore M, Borne D, Davies E, Altice FL, Cabral H. The Impact of Housing and HIV Treatment on Health-Related Quality of Life Among People With HIV Experiencing Homelessness or Unstable Housing. Am J Public Health. 2018 Dec; 108(S7):S531-S538. PMID: [32941776](//www.ncbi.nlm.nih.gov/pubmed/32941776); PMCID: [PMC6290581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6290581).
+
+Citations:  Fields:
+
+Pub Public Health
+
+  42. Kumar D, Hemmige V, Kallen MA, Street RL, **Giordano TP** , [Arya M](https://profiles.viictr.org/profile/265907). The Role of Text Messages in Patient-Physician Communication about the Influenza Vaccine. J Mob Technol Med. 2018 Sep; 7(2):55-59. PMID: [30687410](//www.ncbi.nlm.nih.gov/pubmed/30687410); PMCID: [PMC6347375](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6347375).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30687410/citedby/)
+
+  43. Minick SG, May SB, Amico KR, [Cully J](https://profiles.viictr.org/profile/267137), [Davila JA](https://profiles.viictr.org/profile/268397), Kallen MA, **Giordano TP**. Participants' perspectives on improving retention in HIV care after hospitalization: A post-study qualitative investigation of the MAPPS study. PLoS One. 2018; 13(8):e0202917. PMID: [30148868](//www.ncbi.nlm.nih.gov/pubmed/30148868); PMCID: [PMC6110495](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6110495).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30148868/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  44. Kelly JD, Hickey MD, Schlough GW, Conteh S, Sesay M, Rutherford GW, **Giordano TP** , Weiser SD. Understanding why HIV-infected persons disengaged from pre-ART care in Freetown, Sierra Leone: a qualitative study. AIDS Care. 2019 04; 31(4):494-497. PMID: [30146898](//www.ncbi.nlm.nih.gov/pubmed/30146898).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  45. Marks G, O'Daniels C, Grossman C, Crepaz N, Rose CE, Patel U, Stirratt MJ, Gardner LI, Cachay ER, Mathews WC, Drainoni ML, Sullivan M, Bradley-Springer L, Corwin M, Gordon C, Rodriguez A, Dhanireddy S, **Giordano TP**. Evaluation of a computer-based and counseling support intervention to improve HIV patients' viral loads. AIDS Care. 2018 12; 30(12):1605-1613. PMID: [30114936](//www.ncbi.nlm.nih.gov/pubmed/30114936); PMCID: [PMC6287640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6287640).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  46. [Arya M](https://profiles.viictr.org/profile/265907), Marek HG, Marren RE, Hemmige V, Street RL, **Giordano TP**. Development and Evaluation of a Physician-Targeted Video to Promote HIV Screening. Health Promot Pract. 2019 11; 20(6):922-931. PMID: [29938534](//www.ncbi.nlm.nih.gov/pubmed/29938534).
+
+Citations:  Fields:
+
+Pub Public Health
+
+Translation:HumansPHPublic Health
+
+  47. **Giordano TP**. Strategies for Linkage to and Engagement With Care: Focus on Intervention. Top Antivir Med. 2018 Jun; 26(2):62-65. PMID: [29906790](//www.ncbi.nlm.nih.gov/pubmed/29906790); PMCID: [PMC6017130](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6017130).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29906790/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndVir Virology
+
+Translation:Humans
+
+  48. Dandachi D, [Dang BN](https://profiles.viictr.org/profile/268418), Wilson Dib R, Friedman H, **Giordano T**. Knowledge of HIV Testing Guidelines Among US Internal Medicine Residents: A Decade After the Centers for Disease Control and Prevention's Routine HIV Testing Recommendations. AIDS Patient Care STDS. 2018 05; 32(5):175-180. PMID: [29750550](//www.ncbi.nlm.nih.gov/pubmed/29750550).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29750550/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:HumansPHPublic Health
+
+  49. [Flash CA](https://profiles.viictr.org/profile/268780), Adegboyega OO, Yu X, Avalos C, Johnson S, Mayer KH, **Giordano TP**. Correlates of Linkage to HIV Preexposure Prophylaxis Among HIV-Testing Clients. J Acquir Immune Defic Syndr. 2018 04 01; 77(4):365-372. PMID: [29474256](//www.ncbi.nlm.nih.gov/pubmed/29474256); PMCID: [PMC5949071](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5949071).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29474256/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  50. Gardner LI, Marks G, Patel U, Cachay E, Wilson TE, Stirratt M, Rodriguez A, Sullivan M, Keruly JC, **Giordano TP**. Gaps Up To 9 Months Between HIV Primary Care Visits Do Not Worsen Viral Load. AIDS Patient Care STDS. 2018 04; 32(4):157-164. PMID: [29630849](//www.ncbi.nlm.nih.gov/pubmed/29630849); PMCID: [PMC5972770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5972770).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29630849/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  51. Hemmige V, [Flash CA](https://profiles.viictr.org/profile/268780), Carter J, **Giordano TP** , Zerai T. Single tablet HIV regimens facilitate virologic suppression and retention in care among treatment na?ve patients. AIDS Care. 2018 08; 30(8):1017-1024. PMID: [29478329](//www.ncbi.nlm.nih.gov/pubmed/29478329); PMCID: [PMC6094383](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6094383).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29478329/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  52. [Flash CA](https://profiles.viictr.org/profile/268780), Frost ELT, **Giordano TP** , Amico KR, [Cully JA](https://profiles.viictr.org/profile/267137), Markham CM. HIV Pre-exposure Prophylaxis Program Implementation Using Intervention Mapping. Am J Prev Med. 2018 04; 54(4):519-529. PMID: [29433956](//www.ncbi.nlm.nih.gov/pubmed/29433956).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29433956/citedby/) Fields:
+
+Pub Public Health
+
+Translation:HumansPHPublic Health
+
+  53. White DAE, **Giordano TP** , Pasalar S, Jacobson KR, Glick NR, Sha BE, Mammen PE, Hunt BR, Todorovic T, Moreno-Walton L, Adomolga V, Feaster DJ, Branson BM. Acute HIV Discovered During Routine HIV Screening With HIV Antigen-Antibody Combination Tests in 9 US Emergency Departments. Ann Emerg Med. 2018 07; 72(1):29-40.e2. PMID: [29310870](//www.ncbi.nlm.nih.gov/pubmed/29310870).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29310870/citedby/) Fields:
+
+Eme Emergency Medicine
+
+Translation:Humans
+
+  54. Baumann KE, Hemmige V, Kallen MA, Street RL, **Giordano TP** , [Arya M](https://profiles.viictr.org/profile/265907). Whether Patients Want It or Not, Physician Recommendations Will Convince Them to Accept HIV Testing. J Int Assoc Provid AIDS Care. 2018 Jan-Dec; 17:2325957417752258. PMID: [29380668](//www.ncbi.nlm.nih.gov/pubmed/29380668); PMCID: [PMC6748523](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6748523).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29380668/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  55. Stirratt MJ, Marks G, O'Daniels C, Cachay ER, Sullivan M, Mugavero MJ, Dhanireddy S, Rodriguez AE, **Giordano TP**. Characterising HIV transmission risk among US patients with HIV in care: a cross-sectional study of sexual risk behaviour among individuals with viral load above 1500 copies/mL. Sex Transm Infect. 2018 05; 94(3):206-211. PMID: [29097417](//www.ncbi.nlm.nih.gov/pubmed/29097417); PMCID: [PMC5958893](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5958893).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29097417/citedby/) Fields:
+
+Sex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  56. [Arya M](https://profiles.viictr.org/profile/265907), Huang A, Kumar D, Hemmige V, Street RL, **Giordano TP**. The Promise of Patient-Centered Text Messages for Encouraging HIV Testing in an Underserved Population. J Assoc Nurses AIDS Care. 2018 Jan - Feb; 29(1):101-106. PMID: [28739385](//www.ncbi.nlm.nih.gov/pubmed/28739385); PMCID: [PMC5742309](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5742309).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28739385/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndNur Nursing
+
+Translation:HumansPHPublic Health
+
+  57. [Davila JA](https://profiles.viictr.org/profile/268397), Hartman C, [Cully J](https://profiles.viictr.org/profile/267137), [Stanley M](https://profiles.viictr.org/profile/269075), Amico KR, Soriano E, Minick S, May SB, **Giordano TP**. Feasibility of identifying out of care HIV-positive patients in a hospital setting and enrolling them in a retention intervention. HIV Clin Trials. 2017 03; 18(2):75-82. PMID: [28212601](//www.ncbi.nlm.nih.gov/pubmed/28212601); PMCID: [PMC5611820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5611820).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28212601/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndThe Therapeutics
+
+Translation:Humans
+
+  58. [Dang BN](https://profiles.viictr.org/profile/268418), Westbrook RA, Njue SM, **Giordano TP**. Building trust and rapport early in the new doctor-patient relationship: a longitudinal qualitative study. BMC Med Educ. 2017 Feb 02; 17(1):32. PMID: [28148254](//www.ncbi.nlm.nih.gov/pubmed/28148254); PMCID: [PMC5288896](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5288896).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28148254/citedby/) Fields:
+
+Edu Education
+
+Translation:Humans
+
+  59. Bogart LM, Wagner GJ, Musoke W, Naigino R, Linnemayr S, Maistrellis E, Klein DJ, Jumamil RB, Mukasa B, Bassett IV, **Giordano TP** , Wanyenze RK. A Comparison of Home-Based Versus Outreach Event-Based Community HIV Testing in Ugandan Fisherfolk Communities. AIDS Behav. 2017 Feb; 21(2):547-560. PMID: [27900501](//www.ncbi.nlm.nih.gov/pubmed/27900501); PMCID: [PMC5290142](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5290142).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27900501/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+Translation:HumansPHPublic Health
+
+  60. Patel U, Stirratt MJ, Mugavero MJ, Mathews WC, **Giordano TP** , Crepaz N, Gardner LI, Grossman C, [Davila J](https://profiles.viictr.org/profile/268397), Sullivan M, Rose CE, O'Daniels C, Rodriguez A, Wawrzyniak AJ, Golden MR, Dhanireddy S, Ellison J, Drainoni ML, Metsch LR, Cachay ER, Marks G. Single Viral Load Measurements Overestimate Stable Viral Suppression Among HIV Patients in Care: Clinical and Public Health Implications. J Acquir Immune Defic Syndr. 2016 10 01; 73(2):205-12. PMID: [27105049](//www.ncbi.nlm.nih.gov/pubmed/27105049); PMCID: [PMC5964607](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5964607).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27105049/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  61. [Dang BN](https://profiles.viictr.org/profile/268418), Westbrook RA, Hartman CM, **Giordano TP**. Retaining HIV Patients in Care: The Role of Initial Patient Care Experiences. AIDS Behav. 2016 10; 20(10):2477-2487. PMID: [26910339](//www.ncbi.nlm.nih.gov/pubmed/26910339); PMCID: [PMC4996755](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4996755).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26910339/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+Translation:Humans
+
+  62. [Zheng S](https://profiles.viictr.org/profile/17440034), Cherniack AD, Dewal N, Moffitt RA, Danilova L, Murray BA, Lerario AM, Else T, Knijnenburg TA, Ciriello G, Kim S, Assie G, Morozova O, [Akbani R](https://profiles.viictr.org/profile/12583156), Shih J, Hoadley KA, Choueiri TK, Waldmann J, Mete O, Robertson AG, Wu HT, Raphael BJ, Shao L, Meyerson M, Demeure MJ, Beuschlein F, Gill AJ, Sidhu SB, Almeida MQ, Fragoso MCBV, Cope LM, Kebebew E, Habra MA, Whitsett TG, Bussey KJ, Rainey WE, Asa SL, Fassnacht M, [Wheeler DA](https://profiles.viictr.org/profile/266937), Cancer Genome Atlas Research Network, Hammer GD, **Giordano TJ** , Verhaak RGW, Bertherat J. Comprehensive Pan-Genomic Characterization of Adrenocortical Carcinoma. Cancer Cell. 2016 08 08; 30(2):363. PMID: [27505681](//www.ncbi.nlm.nih.gov/pubmed/27505681).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27505681/citedby/) Fields:
+
+Neo Neoplasms
+
+  63. **Giordano TP** , [Cully J](https://profiles.viictr.org/profile/267137), Amico KR, [Davila JA](https://profiles.viictr.org/profile/268397), Kallen MA, Hartman C, Wear J, Buscher A, [Stanley M](https://profiles.viictr.org/profile/269075). A Randomized Trial to Test a Peer Mentor Intervention to Improve Outcomes in Persons Hospitalized With HIV Infection. Clin Infect Dis. 2016 Sep 01; 63(5):678-686. PMID: [27217266](//www.ncbi.nlm.nih.gov/pubmed/27217266); PMCID: [PMC4981755](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4981755).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27217266/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  64. Gardner LI, Marks G, Shahani L, **Giordano TP** , Wilson TE, Drainoni ML, Keruly JC, Batey DS, Metsch LR. Assessing efficacy of a retention-in-care intervention among HIV patients with depression, anxiety, heavy alcohol consumption and illicit drug use. AIDS. 2016 Apr 24; 30(7):1111-9. PMID: [26760454](//www.ncbi.nlm.nih.gov/pubmed/26760454).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26760454/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  65. [Arya M](https://profiles.viictr.org/profile/265907), Phillips AL, Street RL, **Giordano TP**. Physician Preferences for Physician-Targeted HIV Testing Campaigns. J Int Assoc Provid AIDS Care. 2016 11; 15(6):470-476. PMID: [27000130](//www.ncbi.nlm.nih.gov/pubmed/27000130); PMCID: [PMC5031505](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5031505).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27000130/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  66. Minick SG, Stafford CL, Kertz BL, Cully JA, [Stanley MA](https://profiles.viictr.org/profile/269075), [Davila JA](https://profiles.viictr.org/profile/268397), [Dang BN](https://profiles.viictr.org/profile/268418), [Rodriguez-Barradas MC](https://profiles.viictr.org/profile/269379), **Giordano TP**. Correction: Veterans' Perspectives on Interventions to Improve Retention in HIV Care. PLoS One. 2016; 11(3):e0151011. PMID: [26938794](//www.ncbi.nlm.nih.gov/pubmed/26938794); PMCID: [PMC4777528](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4777528).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26938794/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+  67. Kelly JD, Schlough GW, Conteh S, Barrie MB, Kargbo B, **Giordano TP**. The Majority of the Pre-Antiretroviral Population Who Were Lost to Follow-Up Stopped Their Care in Freetown, Sierra Leone: A 12-Month Prospective Cohort Study Starting with HIV Diagnosis. PLoS One. 2016; 11(2):e0149584. PMID: [26901765](//www.ncbi.nlm.nih.gov/pubmed/26901765); PMCID: [PMC4763157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4763157).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26901765/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  68. Minick SG, Stafford CL, Kertz BL, Cully JA, [Stanley MA](https://profiles.viictr.org/profile/269075), [Davila JA](https://profiles.viictr.org/profile/268397), [Dang BN](https://profiles.viictr.org/profile/268418), [Rodriguez-Barradas MC](https://profiles.viictr.org/profile/269379), **Giordano TP**. Veterans' Perspectives on Interventions to Improve Retention in HIV Care. PLoS One. 2016; 11(2):e0148163. PMID: [26829641](//www.ncbi.nlm.nih.gov/pubmed/26829641); PMCID: [PMC4734714](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4734714).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26829641/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  69. [Medford-Davis LN](https://profiles.viictr.org/profile/9909027), Yang K, Pasalar S, [Pillow MT](https://profiles.viictr.org/profile/270172), Miertschin NP, [Peacock WF](https://profiles.viictr.org/profile/268773), **Giordano TP** , Hoxhaj S. Unintended adverse consequences of electronic health record introduction to a mature universal HIV screening program. AIDS Care. 2016; 28(5):566-73. PMID: [26729258](//www.ncbi.nlm.nih.gov/pubmed/26729258).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  70. Mbang PA, Kowalkowski MA, Amirian ES, **Giordano TP** , [Richardson PA](https://profiles.viictr.org/profile/267243), Hartman CM, Chiao EY. Association between Time on Protease Inhibitors and the Incidence of Squamous Cell Carcinoma of the Anus among U.S. Male Veterans. PLoS One. 2015; 10(12):e0142966. PMID: [26629701](//www.ncbi.nlm.nih.gov/pubmed/26629701); PMCID: [PMC4668039](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4668039).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26629701/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  71. Graham JL, Shahani L, Grimes RM, Hartman C, **Giordano TP**. The Influence of Trust in Physicians and Trust in the Healthcare System on Linkage, Retention, and Adherence to HIV Care. AIDS Patient Care STDS. 2015 Dec; 29(12):661-7. PMID: [26669793](//www.ncbi.nlm.nih.gov/pubmed/26669793); PMCID: [PMC4684652](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4684652).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26669793/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  72. Buscher AL, Kallen MA, [Suarez-Almazor ME](https://profiles.viictr.org/profile/12583856), **Giordano TP**. Development of an "Impact of HIV" Instrument for HIV Survivors. J Assoc Nurses AIDS Care. 2015 Nov-Dec; 26(6):720-31. PMID: [26324524](//www.ncbi.nlm.nih.gov/pubmed/26324524); PMCID: [PMC4600666](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4600666).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26324524/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndNur Nursing
+
+Translation:Humans
+
+  73. Zinski A, Westfall AO, Gardner LI, **Giordano TP** , Wilson TE, Drainoni ML, Keruly JC, Rodriguez AE, Malitz F, Batey DS, Mugavero MJ. The Contribution of Missed Clinic Visits to Disparities in HIV Viral Load Outcomes. Am J Public Health. 2015 Oct; 105(10):2068-75. PMID: [26270301](//www.ncbi.nlm.nih.gov/pubmed/26270301); PMCID: [PMC4566539](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4566539).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26270301/citedby/) Fields:
+
+Pub Public Health
+
+Translation:Humans
+
+  74. [Hwang JP](https://profiles.viictr.org/profile/12582612), [Granwehr BP](https://profiles.viictr.org/profile/12583113), [Torres HA](https://profiles.viictr.org/profile/12582617), [Suarez-Almazor ME](https://profiles.viictr.org/profile/12583856), **Giordano TP** , Barbo AG, Lin HY, Fisch MJ, Chiao EY. HIV Testing in Patients With Cancer at the Initiation of Therapy at a Large US Comprehensive Cancer Center. J Oncol Pract. 2015 Sep; 11(5):384-90. PMID: [26243649](//www.ncbi.nlm.nih.gov/pubmed/26243649); PMCID: [PMC4575402](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4575402).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26243649/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansPHPublic Health
+
+  75. Marks G, Gardner LI, Rose CE, Zinski A, Moore RD, Holman S, Rodriguez AE, Sullivan M, **Giordano TP**. Time above 1500 copies: a viral load measure for assessing transmission risk of HIV-positive patients in care. AIDS. 2015 May 15; 29(8):947-54. PMID: [25768835](//www.ncbi.nlm.nih.gov/pubmed/25768835); PMCID: [PMC4964849](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4964849).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25768835/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCells
+
+  76. Pasalar S, Hemmige V, [Davila JA](https://profiles.viictr.org/profile/268397), Hallmark CJ, McNeese M, Miertschin N, Ruggerio MC, **Giordano TP** , [Flash CA](https://profiles.viictr.org/profile/268780). Benefits of a routine opt-out HIV testing and linkage to care program for previously diagnosed patients in publicly funded emergency departments in Houston, TX. J Acquir Immune Defic Syndr. 2015 May 01; 69 Suppl 1:S8-15. PMID: [25867782](//www.ncbi.nlm.nih.gov/pubmed/25867782); PMCID: [PMC4482220](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4482220).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25867782/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  77. [Raphael JL](https://profiles.viictr.org/profile/265546), Cooley WC, Vega A, Kowalkowski MA, Tran X, Treadwell J, Giardino AP, **Giordano TP**. Outcomes for Children with Chronic Conditions Associated with Parent- and Provider-reported Measures of the Medical Home. J Health Care Poor Underserved. 2015 May; 26(2):358-76. PMID: [25913335](//www.ncbi.nlm.nih.gov/pubmed/25913335); PMCID: [PMC4460004](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4460004).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25913335/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  78. [Ahmed S](https://profiles.viictr.org/profile/265732), Hosseinipour MC, **Giordano TP** , Chiao EY, Yu X, Nguyen C, Chimbwandira F, Kazembe PN, Abrams EJ, [Kim MH](https://profiles.viictr.org/profile/265735). Implementation and operational research: the impact of option B+ on the antenatal PMTCT cascade in Lilongwe, Malawi. J Acquir Immune Defic Syndr. 2015 Apr 15; 68(5):e77-83. PMID: [25585302](//www.ncbi.nlm.nih.gov/pubmed/25585302); PMCID: [PMC4359035](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4359035).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25585302/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  79. **Giordano TP**. The HIV treatment cascade--a new tool in HIV prevention. JAMA Intern Med. 2015 Apr; 175(4):596-7. PMID: [25706538](//www.ncbi.nlm.nih.gov/pubmed/25706538).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25706538/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:HumansPHPublic Health
+
+  80. Marks G, Wilson TE, **Giordano TP** , Sullivan M, Raper JL, Rodriguez AE, Keruly J, Malitz F, Gardner LI. Clinic-wide intervention lowers financial risk and improves revenue to HIV clinics through fewer missed primary care visits. J Acquir Immune Defic Syndr. 2015 Apr 01; 68(4):472-6. PMID: [25559605](//www.ncbi.nlm.nih.gov/pubmed/25559605); PMCID: [PMC5098330](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5098330).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25559605/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  81. Gardner L, Marks G, Craw J, Malitz F, **Giordano TP** , Sullivan M, Keruly J, Rodriguez A, Wilson TE, Mugavero M, Shrestha RK. Estimating the cost of increasing retention in care for HIV-infected patients: results of the CDC/HRSA retention in care trial. J Acquir Immune Defic Syndr. 2015 Mar 01; 68(3):345-50. PMID: [25469520](//www.ncbi.nlm.nih.gov/pubmed/25469520); PMCID: [PMC4886740](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4886740).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25469520/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  82. [Ahmed S](https://profiles.viictr.org/profile/265732), [Kim MH](https://profiles.viictr.org/profile/265735), Dave AC, Sabelli R, Kanjelo K, [Preidis GA](https://profiles.viictr.org/profile/6714426), **Giordano TP** , Chiao E, Hosseinipour M, Kazembe PN, Chimbwandira F, Abrams EJ. Improved identification and enrolment into care of HIV-exposed and -infected infants and children following a community health worker intervention in Lilongwe, Malawi. J Int AIDS Soc. 2015; 18:19305. PMID: [25571857](//www.ncbi.nlm.nih.gov/pubmed/25571857); PMCID: [PMC4287633](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4287633).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25571857/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  83. [Al Mohajer M](https://profiles.viictr.org/profile/20551903), **Giordano TP** , Serpa JA. Authors' response. South Med J. 2014 Dec; 107(12):788. PMID: [25502161](//www.ncbi.nlm.nih.gov/pubmed/25502161).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  84. [Arya M](https://profiles.viictr.org/profile/265907), Patel S, Kumar D, Zheng MY, Kallen MA, Street RL, Viswanath K, **Giordano TP**. Why Physicians Don't Ask: Interpersonal and Intrapersonal Barriers to HIV Testing-Making a Case for a Patient-Initiated Campaign. J Int Assoc Provid AIDS Care. 2016 07; 15(4):306-12. PMID: [25421929](//www.ncbi.nlm.nih.gov/pubmed/25421929); PMCID: [PMC4441866](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4441866).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25421929/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  85. [Arya M](https://profiles.viictr.org/profile/265907), Kumar D, Patel S, Street RL, **Giordano TP** , Viswanath K. Mitigating HIV health disparities: the promise of mobile health for a patient-initiated solution. Am J Public Health. 2014 Dec; 104(12):2251-5. PMID: [25322292](//www.ncbi.nlm.nih.gov/pubmed/25322292); PMCID: [PMC4232104](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4232104).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25322292/citedby/) Fields:
+
+Pub Public Health
+
+Translation:HumansPHPublic Health
+
+  86. Hallmark CJ, Skillicorn J, **Giordano TP** , [Davila JA](https://profiles.viictr.org/profile/268397), McNeese M, Rocha N, Smith A, Cooper S, Castel AD. HIV testing implementation in two urban cities: practice, policy, and perceived barriers. PLoS One. 2014; 9(10):e110010. PMID: [25310462](//www.ncbi.nlm.nih.gov/pubmed/25310462); PMCID: [PMC4195679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4195679).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25310462/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  87. [Al Mohajer M](https://profiles.viictr.org/profile/20551903), Villarreal-Williams E, Andrade RA, **Giordano TP** , Serpa JA. Eosinophilia and associated factors in a large cohort of patients infected with human immunodeficiency virus. South Med J. 2014 Sep; 107(9):554-8. PMID: [25188618](//www.ncbi.nlm.nih.gov/pubmed/25188618).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25188618/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  88. Mugavero MJ, Westfall AO, Cole SR, Geng EH, Crane HM, Kitahata MM, Mathews WC, Napravnik S, Eron JJ, Moore RD, Keruly JC, Mayer KH, **Giordano TP** , Raper JL, Centers for AIDS Research Network of Integrated Clinical Systems (CNICS). Beyond core indicators of retention in HIV care: missed clinic visits are independently associated with all-cause mortality. Clin Infect Dis. 2014 Nov 15; 59(10):1471-9. PMID: [25091306](//www.ncbi.nlm.nih.gov/pubmed/25091306); PMCID: [PMC4215067](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215067).
+
+Citations:
+[72](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25091306/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  89. Sandoval R, Roddey T, **Giordano TP** , Mitchell K, Kelley C. Pain, sleep disturbances, and functional limitations in people living with HIV/AIDS-associated distal sensory peripheral neuropathy. J Int Assoc Provid AIDS Care. 2014 Jul-Aug; 13(4):328-34. PMID: [23887924](//www.ncbi.nlm.nih.gov/pubmed/23887924).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23887924/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  90. Sandoval R, Roddey T, **Giordano TP** , Mitchell K, Kelley C. Pain, sleep disturbances, and functional limitations in people living with HIV/AIDS-associated distal sensory peripheral neuropathy. J Int Assoc Provid AIDS Care. 2014 Jul-Aug; 13(4):328-34. PMID: [25513029](//www.ncbi.nlm.nih.gov/pubmed/25513029).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25513029/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  91. [Arya M](https://profiles.viictr.org/profile/265907), Zheng MY, [Amspoker AB](https://profiles.viictr.org/profile/265946), Kallen MA, Street RL, Viswanath K, **Giordano TP**. In the routine HIV testing era, primary care physicians in community health centers remain unaware of HIV testing recommendations. J Int Assoc Provid AIDS Care. 2014 Jul-Aug; 13(4):296-9. PMID: [24476961](//www.ncbi.nlm.nih.gov/pubmed/24476961); PMCID: [PMC4115052](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4115052).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24476961/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  92. Gardner LI, **Giordano TP** , Marks G, Wilson TE, Craw JA, Drainoni ML, Keruly JC, Rodriguez AE, Malitz F, Moore RD, Bradley-Springer LA, Holman S, Rose CE, Girde S, Sullivan M, Metsch LR, Saag M, Mugavero MJ, Retention in Care Study Group. Enhanced personal contact with HIV patients improves retention in primary care: a randomized trial in 6 US HIV clinics. Clin Infect Dis. 2014 Sep 01; 59(5):725-34. PMID: [24837481](//www.ncbi.nlm.nih.gov/pubmed/24837481); PMCID: [PMC4366591](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4366591).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24837481/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCTClinical Trials
+
+  93. [Arya M](https://profiles.viictr.org/profile/265907), Kallen MA, Street RL, Viswanath K, **Giordano TP**. African-American patients' preferences for a health center campaign promoting HIV testing: an exploratory study and future directions. J Int Assoc Provid AIDS Care. 2014 Nov-Dec; 13(6):488-91. PMID: [24739209](//www.ncbi.nlm.nih.gov/pubmed/24739209); PMCID: [PMC4199917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4199917).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24739209/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  94. Kelly JD, Hartman C, Graham J, Kallen MA, **Giordano TP**. Social support as a predictor of early diagnosis, linkage, retention, and adherence to HIV care: results from the steps study. J Assoc Nurses AIDS Care. 2014 Sep-Oct; 25(5):405-13. PMID: [24508174](//www.ncbi.nlm.nih.gov/pubmed/24508174); PMCID: [PMC4125558](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4125558).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24508174/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndNur Nursing
+
+Translation:Humans
+
+  95. Nachega JB, Parienti JJ, Uthman OA, Gross R, Dowdy DW, Sax PE, Gallant JE, Mugavero MJ, Mills EJ, **Giordano TP**. Lower pill burden and once-daily antiretroviral treatment regimens for HIV infection: A meta-analysis of randomized controlled trials. Clin Infect Dis. 2014 May; 58(9):1297-307. PMID: [24457345](//www.ncbi.nlm.nih.gov/pubmed/24457345); PMCID: [PMC3982838](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3982838).
+
+Citations:
+[136](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24457345/citedby/)
+Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  96. Sandoval R, Roddey T, **Giordano TP** , Mitchell K, Kelley C. Randomized Trial of Lower Extremity Splinting to Manage Neuropathic Pain and Sleep Disturbances in People Living with HIV/AIDS. J Int Assoc Provid AIDS Care. 2016 05; 15(3):240-7. PMID: [24378515](//www.ncbi.nlm.nih.gov/pubmed/24378515).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24378515/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  97. Phillips G, Hightow-Weidman LB, Fields SD, **Giordano TP** , Outlaw AY, Halpern-Felsher B, Wohl AR. Experiences of community and parental violence among HIV-positive young racial/ethnic minority men who have sex with men. AIDS Care. 2014; 26(7):827-34. PMID: [24274141](//www.ncbi.nlm.nih.gov/pubmed/24274141).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24274141/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  98. **Giordano TP** , Hallmark CJ, [Davila JA](https://profiles.viictr.org/profile/268397), [Arya M](https://profiles.viictr.org/profile/265907), Chen GJ, Shaw C, Williams-Ellis L, Darko T, McNeese-Ward M. Assessing HIV testing and linkage to care activities and providing academic support to public health authorities in Houston, TX. J Acquir Immune Defic Syndr. 2013 Nov 01; 64 Suppl 1:S7-13. PMID: [24126451](//www.ncbi.nlm.nih.gov/pubmed/24126451); PMCID: [PMC3840714](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3840714).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24126451/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  99. [Raphael JL](https://profiles.viictr.org/profile/265546), [Rueda A](https://profiles.viictr.org/profile/268496), Lion KC, **Giordano TP**. The role of lay health workers in pediatric chronic disease: a systematic review. Acad Pediatr. 2013 Sep-Oct; 13(5):408-20. PMID: [24011745](//www.ncbi.nlm.nih.gov/pubmed/24011745); PMCID: [PMC3802546](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3802546).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24011745/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  100. Hartman CM, [El-Serag HB](https://profiles.viictr.org/profile/269175), **Giordano TP** , Chiao EY. The impact of HIV viral control on the incidence of HIV-associated anal cancer. J Acquir Immune Defic Syndr. 2013 Aug 15; 63(5):631-8. PMID: [23614995](//www.ncbi.nlm.nih.gov/pubmed/23614995); PMCID: [PMC3797186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3797186).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23614995/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  101. Buscher A, Mugavero M, Westfall AO, Keruly J, Moore R, Drainoni ML, Sullivan M, Wilson TE, Rodriguez A, Metsch L, Gardner L, Marks G, Malitz F, **Giordano TP**. The association of clinical follow-up intervals in HIV-infected persons with viral suppression on subsequent viral suppression. AIDS Patient Care STDS. 2013 Aug; 27(8):459-66. PMID: [23886048](//www.ncbi.nlm.nih.gov/pubmed/23886048); PMCID: [PMC3739946](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3739946).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23886048/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  102. Kelly JD, Hubenthal EA, Lurton G, Empson SF, Barrie MB, Kargbo B, Wagner GJ, **Giordano TP**. Multiple self-report measures of antiretroviral adherence correlated in Sierra Leone, but did they agree? Int J STD AIDS. 2013 Dec; 24(12):931-7. PMID: [23970613](//www.ncbi.nlm.nih.gov/pubmed/23970613).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23970613/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  103. [Kim MH](https://profiles.viictr.org/profile/265735), [Ahmed S](https://profiles.viictr.org/profile/265732), [Preidis GA](https://profiles.viictr.org/profile/6714426), Abrams EJ, Hosseinipour MC, **Giordano TP** , Chiao EY, [Paul ME](https://profiles.viictr.org/profile/266659), [Bhalakia A](https://profiles.viictr.org/profile/269027), Nanthuru D, Kazembe PN. Low rates of mother-to-child HIV transmission in a routine programmatic setting in Lilongwe, Malawi. PLoS One. 2013; 8(5):e64979. PMID: [23741437](//www.ncbi.nlm.nih.gov/pubmed/23741437); PMCID: [PMC3669205](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3669205).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23741437/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansPHPublic Health
+
+  104. Nelsen A, Gupta S, [Trautner BW](https://profiles.viictr.org/profile/266751), Petersen NJ, Garza A, **Giordano TP** , Naik AD, [Rodriguez-Barradas MC](https://profiles.viictr.org/profile/269379). Intention to adhere to HIV treatment: a patient-centred predictor of antiretroviral adherence. HIV Med. 2013 Sep; 14(8):472-80. PMID: [23551395](//www.ncbi.nlm.nih.gov/pubmed/23551395).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23551395/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  105. [Arya M](https://profiles.viictr.org/profile/265907), Bush AL, Kallen MA, [Rodriguez-Barradas MC](https://profiles.viictr.org/profile/269379), **Giordano TP**. Are VA primary care providers aware of HIV testing recommendations for Veterans? Findings at an urban VA primary care clinic. Mil Med. 2013 Apr; 178(4):e483-8. PMID: [23707836](//www.ncbi.nlm.nih.gov/pubmed/23707836); PMCID: [PMC3967552](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3967552).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23707836/citedby/) Fields:
+
+Mil Military Medicine
+
+Translation:HumansCells
+
+  106. Poon KK, [Dang BN](https://profiles.viictr.org/profile/268418), [Davila JA](https://profiles.viictr.org/profile/268397), Hartman C, **Giordano TP**. Treatment outcomes in undocumented Hispanic immigrants with HIV infection. PLoS One. 2013; 8(3):e60022. PMID: [23555868](//www.ncbi.nlm.nih.gov/pubmed/23555868); PMCID: [PMC3608625](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3608625).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23555868/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  107. Gillman J, [Davila J](https://profiles.viictr.org/profile/268397), [Sansgiry S](https://profiles.viictr.org/profile/265828), Parkinson-Windross D, Miertschin N, Mitts B, Henley C, **Giordano TP**. The effect of conspiracy beliefs and trust on HIV diagnosis, linkage, and retention in young MSM with HIV. J Health Care Poor Underserved. 2013 Feb; 24(1):36-45. PMID: [23377715](//www.ncbi.nlm.nih.gov/pubmed/23377715).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23377715/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  108. [Dang BN](https://profiles.viictr.org/profile/268418), Westbrook RA, Black WC, [Rodriguez-Barradas MC](https://profiles.viictr.org/profile/269379), **Giordano TP**. Examining the link between patient satisfaction and adherence to HIV care: a structural equation model. PLoS One. 2013; 8(1):e54729. PMID: [23382948](//www.ncbi.nlm.nih.gov/pubmed/23382948); PMCID: [PMC3559888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3559888).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23382948/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  109. [Raphael JL](https://profiles.viictr.org/profile/265546), [Butler AM](https://profiles.viictr.org/profile/268452), Rattler TL, Kowalkowski MA, Mueller BU, **Giordano TP**. Parental information, motivation, and adherence behaviors among children with sickle cell disease. Pediatr Blood Cancer. 2013 Jul; 60(7):1204-10. PMID: [23303618](//www.ncbi.nlm.nih.gov/pubmed/23303618); PMCID: [PMC3717582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3717582).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23303618/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  110. **Giordano TP** , Rodriguez S, Zhang H, Kallen MA, [Jibaja-Weiss M](https://profiles.viictr.org/profile/268064), Buscher AL, [Arya M](https://profiles.viictr.org/profile/265907), [Suarez-Almazor ME](https://profiles.viictr.org/profile/12583856), Ross M. Effect of a clinic-wide social marketing campaign to improve adherence to antiretroviral therapy for HIV infection. AIDS Behav. 2013 Jan; 17(1):104-12. PMID: [22983536](//www.ncbi.nlm.nih.gov/pubmed/22983536); PMCID: [PMC3549045](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3549045).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22983536/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+Translation:Humans
+
+  111. [Arya M](https://profiles.viictr.org/profile/265907), [Amspoker AB](https://profiles.viictr.org/profile/265946), Lalani N, Patuwo B, Kallen M, Street R, Viswanath K, **Giordano TP**. HIV testing beliefs in a predominantly Hispanic community health center during the routine HIV testing era: does English language ability matter? AIDS Patient Care STDS. 2013 Jan; 27(1):38-44. PMID: [23305261](//www.ncbi.nlm.nih.gov/pubmed/23305261); PMCID: [PMC3545313](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3545313).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23305261/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:HumansPHPublic Health
+
+  112. [Raphael JL](https://profiles.viictr.org/profile/265546), Rattler TL, Kowalkowski MA, Brousseau DC, Mueller BU, **Giordano TP**. Association of care in a medical home and health care utilization among children with sickle cell disease. J Natl Med Assoc. 2013; 105(2):157-65. PMID: [24079216](//www.ncbi.nlm.nih.gov/pubmed/24079216); PMCID: [PMC3834259](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3834259).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24079216/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  113. Graham JL, Grimes RM, Slomka J, Ross M, Hwang LY, **Giordano TP**. The role of trust in delayed HIV diagnosis in a diverse, urban population. AIDS Behav. 2013 Jan; 17(1):266-73. PMID: [22198316](//www.ncbi.nlm.nih.gov/pubmed/22198316); PMCID: [PMC3653031](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3653031).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22198316/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+Translation:Humans
+
+  114. Mugavero MJ, Westfall AO, Zinski A, [Davila J](https://profiles.viictr.org/profile/268397), Drainoni ML, Gardner LI, Keruly JC, Malitz F, Marks G, Metsch L, Wilson TE, **Giordano TP** , Retention in Care (RIC) Study Group. Measuring retention in HIV care: the elusive gold standard. J Acquir Immune Defic Syndr. 2012 Dec 15; 61(5):574-80. PMID: [23011397](//www.ncbi.nlm.nih.gov/pubmed/23011397); PMCID: [PMC3508092](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3508092).
+
+Citations:
+[136](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23011397/citedby/)
+Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  115. Buscher A, [Latini DM](https://profiles.viictr.org/profile/265641), Hartman C, Kallen M, [Sansgiry S](https://profiles.viictr.org/profile/265828), **Giordano TP**. Utility of a partner communication scale and a personal meaning scale in newly diagnosed HIV-infected persons. J Assoc Nurses AIDS Care. 2013 Mar-Apr; 24(2):126-34. PMID: [22943981](//www.ncbi.nlm.nih.gov/pubmed/22943981); PMCID: [PMC3515697](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3515697).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22943981/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndNur Nursing
+
+Translation:Humans
+
+  116. [Dang BN](https://profiles.viictr.org/profile/268418), Westbrook RA, [Rodriguez-Barradas MC](https://profiles.viictr.org/profile/269379), **Giordano TP**. Identifying drivers of overall satisfaction in patients receiving HIV primary care: a cross-sectional study. PLoS One. 2012; 7(8):e42980. PMID: [22912770](//www.ncbi.nlm.nih.gov/pubmed/22912770); PMCID: [PMC3418231](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3418231).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22912770/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  117. Gardner LI, Marks G, Craw JA, Wilson TE, Drainoni ML, Moore RD, Mugavero MJ, Rodriguez AE, Bradley-Springer LA, Holman S, Keruly JC, Sullivan M, Skolnik PR, Malitz F, Metsch LR, Raper JL, **Giordano TP** , Retention in Care Study Group. A low-effort, clinic-wide intervention improves attendance for HIV primary care. Clin Infect Dis. 2012 Oct; 55(8):1124-34. PMID: [22828593](//www.ncbi.nlm.nih.gov/pubmed/22828593); PMCID: [PMC3657526](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3657526).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22828593/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  118. [Kim MH](https://profiles.viictr.org/profile/265735), [Ahmed S](https://profiles.viictr.org/profile/265732), Buck WC, [Preidis GA](https://profiles.viictr.org/profile/6714426), Hosseinipour MC, [Bhalakia A](https://profiles.viictr.org/profile/269027), Nanthuru D, Kazembe PN, Chimbwandira F, **Giordano TP** , Chiao EY, [Schutze GE](https://profiles.viictr.org/profile/266852), Kline MW. The Tingathe programme: a pilot intervention using community health workers to create a continuum of care in the prevention of mother to child transmission of HIV (PMTCT) cascade of services in Malawi. J Int AIDS Soc. 2012 Jul 11; 15 Suppl 2:17389. PMID: [22789644](//www.ncbi.nlm.nih.gov/pubmed/22789644); PMCID: [PMC3499848](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3499848).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22789644/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansPHPublic Health
+
+  119. [Davila JA](https://profiles.viictr.org/profile/268397), Miertschin N, [Sansgiry S](https://profiles.viictr.org/profile/265828), Schwarzwald H, Henley C, **Giordano TP**. Centralization of HIV services in HIV-positive African-American and Hispanic youth improves retention in care. AIDS Care. 2013; 25(2):202-6. PMID: [22708510](//www.ncbi.nlm.nih.gov/pubmed/22708510).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22708510/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  120. Nelsen A, [Trautner BW](https://profiles.viictr.org/profile/266751), Petersen NJ, Gupta S, [Rodriguez-Barradas M](https://profiles.viictr.org/profile/269379), **Giordano TP** , Naik AD. Development and validation of a measure for intention to adhere to HIV treatment. AIDS Patient Care STDS. 2012 Jun; 26(6):329-34. PMID: [22680281](//www.ncbi.nlm.nih.gov/pubmed/22680281); PMCID: [PMC3412581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3412581).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22680281/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  121. Buscher A, Hartman C, Kallen MA, **Giordano TP**. Impact of antiretroviral dosing frequency and pill burden on adherence among newly diagnosed, antiretroviral-naive HIV patients. Int J STD AIDS. 2012 May; 23(5):351-5. PMID: [22648890](//www.ncbi.nlm.nih.gov/pubmed/22648890); PMCID: [PMC3642979](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3642979).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22648890/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  122. [Raphael JL](https://profiles.viictr.org/profile/265546), Rattler TL, Kowalkowski MA, Mueller BU, **Giordano TP**. The medical home experience among children with sickle cell disease. Pediatr Blood Cancer. 2013 Feb; 60(2):275-80. PMID: [22522496](//www.ncbi.nlm.nih.gov/pubmed/22522496); PMCID: [PMC3427710](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3427710).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22522496/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  123. [Arya M](https://profiles.viictr.org/profile/265907), Patuwo B, Lalani N, Bush AL, Kallen MA, Street RL, Viswanath K, **Giordano TP**. Are primary care providers offering HIV testing to patients in a predominantly Hispanic community health center? An exploratory study. AIDS Patient Care STDS. 2012 May; 26(5):256-8. PMID: [22372868](//www.ncbi.nlm.nih.gov/pubmed/22372868); PMCID: [PMC3335132](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3335132).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22372868/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  124. [Dang BN](https://profiles.viictr.org/profile/268418), **Giordano TP** , Kim JH. Sociocultural and structural barriers to care among undocumented Latino immigrants with HIV infection. J Immigr Minor Health. 2012 Feb; 14(1):124-31. PMID: [22012476](//www.ncbi.nlm.nih.gov/pubmed/22012476).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22012476/citedby/) Fields:
+
+Pub Public HealthSoc Social Sciences
+
+Translation:Humans
+
+  125. [Cully JA](https://profiles.viictr.org/profile/267137), Mignogna J, [Stanley MA](https://profiles.viictr.org/profile/269075), [Davila J](https://profiles.viictr.org/profile/268397), Wear J, Amico KR, **Giordano TP**. Development and pilot testing of a standardized training program for a patient-mentoring intervention to increase adherence to outpatient HIV care. AIDS Patient Care STDS. 2012 Mar; 26(3):165-72. PMID: [22248331](//www.ncbi.nlm.nih.gov/pubmed/22248331); PMCID: [PMC3326443](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3326443).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22248331/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:HumansCells
+
+  126. Shahani L, Hartman C, Troisi C, Kapadia A, **Giordano TP**. Causes of hospitalization and perceived access to care among persons newly diagnosed with HIV infection: implications for HIV testing programs. AIDS Patient Care STDS. 2012 Feb; 26(2):81-6. PMID: [22149765](//www.ncbi.nlm.nih.gov/pubmed/22149765); PMCID: [PMC3266516](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3266516).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22149765/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  127. [Arya M](https://profiles.viictr.org/profile/265907), Kallen MA, Williams LT, Street RL, Viswanath K, **Giordano TP**. Beliefs about who should be tested for HIV among African American individuals attending a family practice clinic. AIDS Patient Care STDS. 2012 Jan; 26(1):1-4. PMID: [22053770](//www.ncbi.nlm.nih.gov/pubmed/22053770); PMCID: [PMC3242620](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3242620).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22053770/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  128. Marks G, Gardner LI, Craw J, **Giordano TP** , Mugavero MJ, Keruly JC, Wilson TE, Metsch LR, Drainoni ML, Malitz F. The spectrum of engagement in HIV care: do more than 19% of HIV-infected persons in the US have undetectable viral load? Clin Infect Dis. 2011 Dec; 53(11):1168-9; author's reply 1169-70. PMID: [21976466](//www.ncbi.nlm.nih.gov/pubmed/21976466).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21976466/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  129. Buscher A, Hartman C, Kallen MA, **Giordano TP**. Validity of self-report measures in assessing antiretroviral adherence of newly diagnosed, HAART-na?ve, HIV patients. HIV Clin Trials. 2011 Sep-Oct; 12(5):244-54. PMID: [22180522](//www.ncbi.nlm.nih.gov/pubmed/22180522); PMCID: [PMC3642976](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3642976).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22180522/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndThe Therapeutics
+
+Translation:HumansCells
+
+  130. Bhatia R, Hartman C, Kallen MA, Graham J, **Giordano TP**. Persons newly diagnosed with HIV infection are at high risk for depression and poor linkage to care: results from the Steps Study. AIDS Behav. 2011 Aug; 15(6):1161-70. PMID: [20711651](//www.ncbi.nlm.nih.gov/pubmed/20711651); PMCID: [PMC3029485](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3029485).
+
+Citations:
+[83](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20711651/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndBeh Behavioral Sciences
+
+Translation:Humans
+
+  131. Kelly JD, LeLeux TM, Citron DR, [Musher DM](https://profiles.viictr.org/profile/267420), **Giordano TP**. Ulceronodular syphilis (lues maligna praecox) in a person newly diagnosed with HIV infection. BMJ Case Rep. 2011 Jul 20; 2011. PMID: [22689612](//www.ncbi.nlm.nih.gov/pubmed/22689612); PMCID: [PMC4545021](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4545021).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22689612/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  132. Hoxhaj S, [Davila JA](https://profiles.viictr.org/profile/268397), Modi P, Kachalia N, Malone K, Ruggerio MC, Miertschin N, Brock P, Fisher A, Mitts B, **Giordano TP**. Using nonrapid HIV technology for routine, opt-out HIV screening in a high-volume urban emergency department. Ann Emerg Med. 2011 Jul; 58(1 Suppl 1):S79-84. PMID: [21684414](//www.ncbi.nlm.nih.gov/pubmed/21684414).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21684414/citedby/) Fields:
+
+Eme Emergency Medicine
+
+Translation:Humans
+
+  133. Rochon D, Ross MW, Looney C, Nepal VP, Price AJ, **Giordano TP**. Communication strategies to improve HIV treatment adherence. Health Commun. 2011 Jul-Aug; 26(5):461-7. PMID: [21432703](//www.ncbi.nlm.nih.gov/pubmed/21432703).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21432703/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  134. Hightow-Weidman LB, Jones K, Phillips G, Wohl A, **Giordano TP** , YMSM of Color SPNS Initiative Study Group. Baseline clinical characteristics, antiretroviral therapy use, and viral load suppression among HIV-positive young men of color who have sex with men. AIDS Patient Care STDS. 2011 Aug; 25 Suppl 1:S9-14. PMID: [21711145](//www.ncbi.nlm.nih.gov/pubmed/21711145); PMCID: [PMC4808273](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4808273).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21711145/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  135. Hightow-Weidman LB, Jones K, Wohl AR, Futterman D, Outlaw A, Phillips G, Hidalgo J, **Giordano TP** , YMSM of Color SPNS Initiative Study Group. Early linkage and retention in care: findings from the outreach, linkage, and retention in care initiative among young men of color who have sex with men. AIDS Patient Care STDS. 2011 Aug; 25 Suppl 1:S31-8. PMID: [21711141](//www.ncbi.nlm.nih.gov/pubmed/21711141).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21711141/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  136. [Raphael JL](https://profiles.viictr.org/profile/265546), Mei M, Mueller BU, **Giordano T**. High resource hospitalizations among children with vaso-occlusive crises in sickle cell disease. Pediatr Blood Cancer. 2012 Apr; 58(4):584-90. PMID: [21584938](//www.ncbi.nlm.nih.gov/pubmed/21584938).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21584938/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:HumansCTClinical Trials
+
+  137. Kelly JD, **Giordano TP**. Mobile phone technologies improve adherence to antiretroviral treatment in a resource-limited setting: a randomized controlled trial of text message reminders. AIDS. 2011 May 15; 25(8):1137; reply 1138-9. PMID: [21537118](//www.ncbi.nlm.nih.gov/pubmed/21537118).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21537118/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  138. [Balasubramanyam A](https://profiles.viictr.org/profile/268015), Coraza I, [Smith EO](https://profiles.viictr.org/profile/269617), Scott LW, Patel P, Iyer D, Taylor AA, **Giordano TP** , [Sekhar RV](https://profiles.viictr.org/profile/266287), Clark P, Cuevas-Sanchez E, Kamble S, [Ballantyne CM](https://profiles.viictr.org/profile/266404), Pownall HJ. Combination of niacin and fenofibrate with lifestyle changes improves dyslipidemia and hypoadiponectinemia in HIV patients on antiretroviral therapy: results of "heart positive," a randomized, controlled trial. J Clin Endocrinol Metab. 2011 Jul; 96(7):2236-47. PMID: [21565796](//www.ncbi.nlm.nih.gov/pubmed/21565796); PMCID: [PMC3135191](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3135191).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21565796/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:Humans
+
+  139. [Raphael JL](https://profiles.viictr.org/profile/265546), Mei M, Brousseau DC, **Giordano TP**. Associations between quality of primary care and health care use among children with special health care needs. Arch Pediatr Adolesc Med. 2011 May; 165(5):399-404. PMID: [21536953](//www.ncbi.nlm.nih.gov/pubmed/21536953).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21536953/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  140. **Giordano TP**. Retention in HIV care: what the clinician needs to know. Top Antivir Med. 2011 Feb-Mar; 19(1):12-6. PMID: [21852711](//www.ncbi.nlm.nih.gov/pubmed/21852711); PMCID: [PMC6148858](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6148858).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21852711/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndVir Virology
+
+Translation:Humans
+
+  141. [Arya M](https://profiles.viictr.org/profile/265907), Williams LT, Stone VE, Behforouz HL, Viswanath K, **Giordano TP**. A key strategy for reducing HIV in African American communities: promoting HIV testing. J Natl Med Assoc. 2010 Dec; 102(12):1264-6. PMID: [21287912](//www.ncbi.nlm.nih.gov/pubmed/21287912); PMCID: [PMC3658104](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3658104).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21287912/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  142. Graham JL, **Giordano TP** , Grimes RM, Slomka J, Ross M, Hwang LY. Influence of trust on HIV diagnosis and care practices: a literature review. J Int Assoc Physicians AIDS Care (Chic). 2010 Nov-Dec; 9(6):346-52. PMID: [21075915](//www.ncbi.nlm.nih.gov/pubmed/21075915).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21075915/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  143. [Kramer JR](https://profiles.viictr.org/profile/269156), [Kanwal F](https://profiles.viictr.org/profile/268580), [Richardson P](https://profiles.viictr.org/profile/267243), **Giordano TP** , [Petersen LA](https://profiles.viictr.org/profile/266681), [El-Serag HB](https://profiles.viictr.org/profile/269175). Importance of patient, provider, and facility predictors of hepatitis C virus treatment in veterans: a national study. Am J Gastroenterol. 2011 Mar; 106(3):483-91. PMID: [21063393](//www.ncbi.nlm.nih.gov/pubmed/21063393).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21063393/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  144. Mugavero MJ, [Davila JA](https://profiles.viictr.org/profile/268397), Nevin CR, **Giordano TP**. From access to engagement: measuring retention in outpatient HIV clinical care. AIDS Patient Care STDS. 2010 Oct; 24(10):607-13. PMID: [20858055](//www.ncbi.nlm.nih.gov/pubmed/20858055); PMCID: [PMC2965698](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2965698).
+
+Citations:
+[140](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20858055/citedby/)
+Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:Humans
+
+  145. Hightow-Weidman LB, Hurt CB, Phillips G, Jones K, Magnus M, **Giordano TP** , Outlaw A, Ramos D, Enriquez-Bruce E, Cobbs W, Wohl A, Tinsle M, YMSM of Color SPNS Initiative Study Group. Transmitted HIV-1 drug resistance among young men of color who have sex with men: a multicenter cohort analysis. J Adolesc Health. 2011 Jan; 48(1):94-9. PMID: [21185530](//www.ncbi.nlm.nih.gov/pubmed/21185530).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21185530/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansCells
+
+  146. Serpa JA, Villarreal-Williams E, **Giordano TP**. Prevalence of G6PD deficiency in a large cohort of HIV-infected patients. J Infect. 2010 Nov; 61(5):399-402. PMID: [20732351](//www.ncbi.nlm.nih.gov/pubmed/20732351).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20732351/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  147. Chiao EY, Dezube BJ, Krown SE, Wachsman W, Brock MV, **Giordano TP** , Mitsuyasu R, Pantanowitz L. Time for oncologists to opt in for routine opt-out HIV testing? JAMA. 2010 Jul 21; 304(3):334-9. PMID: [20639567](//www.ncbi.nlm.nih.gov/pubmed/20639567); PMCID: [PMC3160789](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3160789).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20639567/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  148. Buscher AL, **Giordano TP**. Gaps in knowledge in caring for HIV survivors long-term. JAMA. 2010 Jul 21; 304(3):340-1. PMID: [20639568](//www.ncbi.nlm.nih.gov/pubmed/20639568).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20639568/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  149. Baillargeon J, **Giordano TP** , Harzke AJ, Spaulding AC, Wu ZH, Grady JJ, Baillargeon G, Paar DP. Predictors of reincarceration and disease progression among released HIV-infected inmates. AIDS Patient Care STDS. 2010 Jun; 24(6):389-94. PMID: [20565323](//www.ncbi.nlm.nih.gov/pubmed/20565323); PMCID: [PMC2933559](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2933559).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20565323/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:HumansCells
+
+  150. **Giordano TP** , Bartsch G, Zhang Y, Tedaldi E, Absalon J, Mannheimer S, Thomas A, MacArthur RD. Disparities in outcomes for African American and Latino subjects in the Flexible Initial Retrovirus Suppressive Therapies (FIRST) trial. AIDS Patient Care STDS. 2010 May; 24(5):287-95. PMID: [20438378](//www.ncbi.nlm.nih.gov/pubmed/20438378); PMCID: [PMC2933555](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2933555).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20438378/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:HumansCells
+
+  151. Magnus M, Jones K, Phillips G, Binson D, Hightow-Weidman LB, Richards-Clarke C, Wohl AR, Outlaw A, **Giordano TP** , Quamina A, Cobbs W, Fields SD, Tinsley M, Cajina A, Hidalgo J, YMSM of color Special Projects of National Significance Initiative Study Group. Characteristics associated with retention among African American and Latino adolescent HIV-positive men: results from the outreach, care, and prevention to engage HIV-seropositive young MSM of color special project of national significance initiative. J Acquir Immune Defic Syndr. 2010 Apr 01; 53(4):529-36. PMID: [19755914](//www.ncbi.nlm.nih.gov/pubmed/19755914).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19755914/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  152. [Arya M](https://profiles.viictr.org/profile/265907), [Levison J](https://profiles.viictr.org/profile/267414), **Giordano TP**. Ongoing barriers to HIV testing during pregnancy: a need for media campaigns addressing low knowledge about perinatal HIV transmission among women in the United States. AIDS Patient Care STDS. 2010 Feb; 24(2):71-2. PMID: [20156090](//www.ncbi.nlm.nih.gov/pubmed/20156090).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20156090/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:HumansPHPublic Health
+
+  153. Henderson LM, Patel S, **Giordano TP** , [Green L](https://profiles.viictr.org/profile/269723), [El-Serag HB](https://profiles.viictr.org/profile/269175). Statin therapy and serum transaminases among a cohort of HCV-infected veterans. Dig Dis Sci. 2010 Jan; 55(1):190-5. PMID: [19731022](//www.ncbi.nlm.nih.gov/pubmed/19731022); PMCID: [PMC3698853](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3698853).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19731022/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  154. Baillargeon JG, **Giordano TP** , Harzke AJ, Baillargeon G, Rich JD, Paar DP. Enrollment in outpatient care among newly released prison inmates with HIV infection. Public Health Rep. 2010 Jan-Feb; 125 Suppl 1:64-71. PMID: [20408389](//www.ncbi.nlm.nih.gov/pubmed/20408389); PMCID: [PMC2788410](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2788410).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20408389/citedby/) Fields:
+
+Pub Public Health
+
+Translation:Humans
+
+  155. Rueda AM, Ormond M, Gore M, Matloobi M, **Giordano TP** , [Musher DM](https://profiles.viictr.org/profile/267420). Hyperglycemia in diabetics and non-diabetics: effect on the risk for and severity of pneumococcal pneumonia. J Infect. 2010 Feb; 60(2):99-105. PMID: [20005251](//www.ncbi.nlm.nih.gov/pubmed/20005251).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20005251/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  156. **Giordano TP** , Hartman C, Gifford AL, Backus LI, Morgan RO. Predictors of retention in HIV care among a national cohort of US veterans. HIV Clin Trials. 2009 Sep-Oct; 10(5):299-305. PMID: [19906622](//www.ncbi.nlm.nih.gov/pubmed/19906622).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19906622/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndThe Therapeutics
+
+Translation:HumansCells
+
+  157. Corrales-Medina VF, Serpa J, Rueda AM, **Giordano TP** , [Bozkurt B](https://profiles.viictr.org/profile/269383), Madjid M, [Tweardy D](https://profiles.viictr.org/profile/17439982), [Musher DM](https://profiles.viictr.org/profile/267420). Acute bacterial pneumonia is associated with the occurrence of acute coronary syndromes. Medicine (Baltimore). 2009 May; 88(3):154-159. PMID: [19440118](//www.ncbi.nlm.nih.gov/pubmed/19440118).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19440118/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  158. Andrade RA, Evans RT, [Hamill RJ](https://profiles.viictr.org/profile/269693), Zerai T, **Giordano TP**. Clinical evidence of interaction between itraconazole and nonnucleoside reverse transcriptase inhibitors in HIV-infected patients with disseminated histoplasmosis. Ann Pharmacother. 2009 May; 43(5):908-13. PMID: [19401476](//www.ncbi.nlm.nih.gov/pubmed/19401476).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19401476/citedby/) Fields:
+
+Dru Drug TherapyPha Pharmacology
+
+Translation:Humans
+
+  159. Baillargeon J, **Giordano TP** , Rich JD, Wu ZH, Wells K, Pollock BH, Paar DP. Accessing antiretroviral therapy following release from prison. JAMA. 2009 Feb 25; 301(8):848-57. PMID: [19244192](//www.ncbi.nlm.nih.gov/pubmed/19244192); PMCID: [PMC2936238](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2936238).
+
+Citations:
+[164](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19244192/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  160. Chiao EY, Engels EA, [Kramer JR](https://profiles.viictr.org/profile/269156), Pietz K, Henderson L, **Giordano TP** , Landgren O. Risk of immune thrombocytopenic purpura and autoimmune hemolytic anemia among 120 908 US veterans with hepatitis C virus infection. Arch Intern Med. 2009 Feb 23; 169(4):357-63. PMID: [19237719](//www.ncbi.nlm.nih.gov/pubmed/19237719); PMCID: [PMC2782638](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2782638).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19237719/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:HumansCells
+
+  161. [El-Serag HB](https://profiles.viictr.org/profile/269175), Engels EA, Landgren O, Chiao E, Henderson L, Amaratunge HC, **Giordano TP**. Risk of hepatobiliary and pancreatic cancers after hepatitis C virus infection: A population-based study of U.S. veterans. Hepatology. 2009 Jan; 49(1):116-23. PMID: [19085911](//www.ncbi.nlm.nih.gov/pubmed/19085911); PMCID: [PMC2719902](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2719902).
+
+Citations:
+[106](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19085911/citedby/)
+Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  162. Mugavero MJ, Lin HY, Allison JJ, **Giordano TP** , Willig JH, Raper JL, Wray NP, Cole SR, Schumacher JE, Davies S, Saag MS. Racial disparities in HIV virologic failure: do missed visits matter? J Acquir Immune Defic Syndr. 2009 Jan 01; 50(1):100-8. PMID: [19295340](//www.ncbi.nlm.nih.gov/pubmed/19295340); PMCID: [PMC2766510](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2766510).
+
+Citations:
+[103](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19295340/citedby/)
+Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  163. Clark A, Mayben JK, Hartman C, Kallen MA, **Giordano TP**. Conspiracy beliefs about HIV infection are common but not associated with delayed diagnosis or adherence to care. AIDS Patient Care STDS. 2008 Sep; 22(9):753-9. PMID: [18754706](//www.ncbi.nlm.nih.gov/pubmed/18754706); PMCID: [PMC2929157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2929157).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18754706/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:HumansCTClinical Trials
+
+  164. Baillargeon J, Paar D, **Giordano TP** , Zachariah B, Rudkin LL, Wu ZH, Raimer BG. Emergency department usage by uninsured patients in Galveston County, Texas. Proc (Bayl Univ Med Cent). 2008 Jul; 21(3):236-42. PMID: [18628970](//www.ncbi.nlm.nih.gov/pubmed/18628970); PMCID: [PMC2446411](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2446411).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18628970/citedby/)
+
+  165. Chiao EY, **Giordano TP** , [Richardson P](https://profiles.viictr.org/profile/267243), [El-Serag HB](https://profiles.viictr.org/profile/269175). Human immunodeficiency virus-associated squamous cell cancer of the anus: epidemiology and outcomes in the highly active antiretroviral therapy era. J Clin Oncol. 2008 Jan 20; 26(3):474-9. PMID: [18202423](//www.ncbi.nlm.nih.gov/pubmed/18202423).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18202423/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  166. Baillargeon JG, Paar DP, Wu H, **Giordano TP** , Murray O, Raimer BG, Avery EN, Diamond PM, Pulvino JS. Psychiatric disorders, HIV infection and HIV/hepatitis co-infection in the correctional setting. AIDS Care. 2008 Jan; 20(1):124-9. PMID: [18278623](//www.ncbi.nlm.nih.gov/pubmed/18278623).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18278623/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  167. [Kramer JR](https://profiles.viictr.org/profile/269156), Davila JA, [Miller ED](https://profiles.viictr.org/profile/12583942), Richardson P, **Giordano TP** , El-Serag HB. The validity of viral hepatitis and chronic liver disease diagnoses in Veterans Affairs administrative databases. Aliment Pharmacol Ther. 2008 Feb 01; 27(3):274-82. PMID: [17996017](//www.ncbi.nlm.nih.gov/pubmed/17996017).
+
+Citations:
+[127](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17996017/citedby/)
+Fields:
+
+Dru Drug TherapyGas GastroenterologyPha Pharmacology
+
+Translation:Humans
+
+  168. [Kramer JR](https://profiles.viictr.org/profile/269156), **Giordano TP** , [El-Serag HB](https://profiles.viictr.org/profile/269175). Effect of human immunodeficiency virus and antiretrovirals on outcomes of hepatitis C: a systematic review from an epidemiologic perspective. Clin Gastroenterol Hepatol. 2007 Nov; 5(11):1321-1328.e7. PMID: [17981246](//www.ncbi.nlm.nih.gov/pubmed/17981246).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17981246/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  169. Mayben JK, **Giordano TP**. Internet use among low-income persons recently diagnosed with HIV infection. AIDS Care. 2007 Oct; 19(9):1182-7. PMID: [18058404](//www.ncbi.nlm.nih.gov/pubmed/18058404).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18058404/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  170. Baillargeon J, Soloway RD, Paar D, **Giordano TP** , Murray O, Grady J, Williams B, Pulvino J, Raimer BG. End-stage liver disease in a state prison population. Ann Epidemiol. 2007 Oct; 17(10):808-13. PMID: [17689260](//www.ncbi.nlm.nih.gov/pubmed/17689260).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17689260/citedby/) Fields:
+
+Epi Epidemiology
+
+Translation:HumansCells
+
+  171. Serpa JA, Moran A, [Goodman JC](https://profiles.viictr.org/profile/267518), **Giordano TP** , White AC. Neurocysticercosis in the HIV era: a case report and review of the literature. Am J Trop Med Hyg. 2007 Jul; 77(1):113-7. PMID: [17620640](//www.ncbi.nlm.nih.gov/pubmed/17620640).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17620640/citedby/) Fields:
+
+Tro Tropical Medicine
+
+Translation:Humans
+
+  172. **Giordano TP** , Henderson L, Landgren O, Chiao EY, [Kramer JR](https://profiles.viictr.org/profile/269156), [El-Serag H](https://profiles.viictr.org/profile/269175), Engels EA. Risk of non-Hodgkin lymphoma and lymphoproliferative precursor diseases in US veterans with hepatitis C virus. JAMA. 2007 May 09; 297(18):2010-7. PMID: [17488966](//www.ncbi.nlm.nih.gov/pubmed/17488966).
+
+Citations:
+[121](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17488966/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  173. **Giordano TP** , Gifford AL, White AC, [Suarez-Almazor ME](https://profiles.viictr.org/profile/12583856), Rabeneck L, Hartman C, Backus LI, Mole LA, Morgan RO. Retention in care: a challenge to survival with HIV infection. Clin Infect Dis. 2007 Jun 01; 44(11):1493-9. PMID: [17479948](//www.ncbi.nlm.nih.gov/pubmed/17479948).
+
+Citations:
+[302](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17479948/citedby/)
+Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  174. Mayben JK, [Kramer JR](https://profiles.viictr.org/profile/269156), Kallen MA, Franzini L, Lairson DR, **Giordano TP**. Predictors of delayed HIV diagnosis in a recently diagnosed cohort. AIDS Patient Care STDS. 2007 Mar; 21(3):195-204. PMID: [17428187](//www.ncbi.nlm.nih.gov/pubmed/17428187).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17428187/citedby/) Fields:
+
+Acq Acquired Immunodeficiency SyndSex Sexually Transmitted Diseases
+
+Translation:HumansPHPublic Health
+
+  175. [Daver NG](https://profiles.viictr.org/profile/12583574), [Shelburne SA](https://profiles.viictr.org/profile/12583810), Atmar RL, **Giordano TP** , Stager CE, Reitman CA, White AC. Oral step-down therapy is comparable to intravenous therapy for Staphylococcus aureus osteomyelitis. J Infect. 2007 Jun; 54(6):539-44. PMID: [17198732](//www.ncbi.nlm.nih.gov/pubmed/17198732).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17198732/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  176. **Giordano TP**. Care for HIV infection in the US: can we do better? Res Initiat Treat Action. 2007; 12(2):5-7. PMID: [17486705](//www.ncbi.nlm.nih.gov/pubmed/17486705).
+
+Citations:  Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  177. Chiao EY, **Giordano TP** , Palefsky JM, Tyring S, El Serag H. Screening HIV-infected individuals for anal cancer precursor lesions: a systematic review. Clin Infect Dis. 2006 Jul 15; 43(2):223-33. PMID: [16779751](//www.ncbi.nlm.nih.gov/pubmed/16779751).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16779751/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsPHPublic Health
+
+  178. **Giordano TP** , Morgan RO, [Kramer JR](https://profiles.viictr.org/profile/269156), Hartman C, [Richardson P](https://profiles.viictr.org/profile/267243), White CA, [Suarez-Almazor ME](https://profiles.viictr.org/profile/12583856), [El-Serag HB](https://profiles.viictr.org/profile/269175). Is there a race-based disparity in the survival of veterans with HIV? J Gen Intern Med. 2006 Jun; 21(6):613-7. PMID: [16808745](//www.ncbi.nlm.nih.gov/pubmed/16808745); PMCID: [PMC1924608](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1924608).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16808745/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  179. Adeniran AJ, Zhu Z, Gandhi M, Steward DL, Fidler JP, **Giordano TJ** , Biddinger PW, Nikiforov YE. Correlation between genetic alterations and microscopic features, clinical manifestations, and prognostic characteristics of thyroid papillary carcinomas. Am J Surg Pathol. 2006 Feb; 30(2):216-22. PMID: [16434896](//www.ncbi.nlm.nih.gov/pubmed/16434896).
+
+Citations:
+
+  180. **Giordano TP** , [Suarez-Almazor ME](https://profiles.viictr.org/profile/12583856), Grimes RM. The population effectiveness of highly active antiretroviral therapy: are good drugs good enough? Curr HIV/AIDS Rep. 2005 Nov; 2(4):177-83. PMID: [16343375](//www.ncbi.nlm.nih.gov/pubmed/16343375).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16343375/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  181. **Giordano TP** , Visnegarwala F, White AC, [Troisi CL](https://profiles.viictr.org/profile/266717), Frankowski RF, Hartman CM, Grimes RM. Patients referred to an urban HIV clinic frequently fail to establish care: factors predicting failure. AIDS Care. 2005 Aug; 17(6):773-83. PMID: [16036264](//www.ncbi.nlm.nih.gov/pubmed/16036264).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16036264/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+  182. [Shelburne SA](https://profiles.viictr.org/profile/12583810), Visnegarwala F, Darcourt J, [Graviss EA](https://profiles.viictr.org/profile/267536), **Giordano TP** , White AC, [Hamill RJ](https://profiles.viictr.org/profile/269693). Incidence and risk factors for immune reconstitution inflammatory syndrome during highly active antiretroviral therapy. AIDS. 2005 Mar 04; 19(4):399-406. PMID: [15750393](//www.ncbi.nlm.nih.gov/pubmed/15750393).
+
+Citations:
+[182](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15750393/citedby/)
+Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCells
+
+  183. [Kramer JR](https://profiles.viictr.org/profile/269156), **Giordano TP** , Souchek J, [El-Serag HB](https://profiles.viictr.org/profile/269175). Hepatitis C coinfection increases the risk of fulminant hepatic failure in patients with HIV in the HAART era. J Hepatol. 2005 Mar; 42(3):309-14. PMID: [15710213](//www.ncbi.nlm.nih.gov/pubmed/15710213).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15710213/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  184. [El-Serag HB](https://profiles.viictr.org/profile/269175), **Giordano TP** , [Kramer J](https://profiles.viictr.org/profile/269156), [Richardson P](https://profiles.viictr.org/profile/267243), Souchek J. Survival in hepatitis C and HIV co-infection: a cohort study of hospitalized veterans. Clin Gastroenterol Hepatol. 2005 Feb; 3(2):175-83. PMID: [15704052](//www.ncbi.nlm.nih.gov/pubmed/15704052).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15704052/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  185. **Giordano TP** , [Kramer JR](https://profiles.viictr.org/profile/269156). Does HIV infection independently increase the incidence of lung cancer? Clin Infect Dis. 2005 Feb 01; 40(3):490-1. PMID: [15668878](//www.ncbi.nlm.nih.gov/pubmed/15668878).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15668878/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  186. [Kramer JR](https://profiles.viictr.org/profile/269156), **Giordano TP** , Souchek J, [Richardson P](https://profiles.viictr.org/profile/267243), Hwang LY, [El-Serag HB](https://profiles.viictr.org/profile/269175). The effect of HIV coinfection on the risk of cirrhosis and hepatocellular carcinoma in U.S. veterans with hepatitis C. Am J Gastroenterol. 2005 Jan; 100(1):56-63. PMID: [15654781](//www.ncbi.nlm.nih.gov/pubmed/15654781).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15654781/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  187. **Giordano TP** , [Kramer JR](https://profiles.viictr.org/profile/269156), Souchek J, [Richardson P](https://profiles.viictr.org/profile/267243), [El-Serag HB](https://profiles.viictr.org/profile/269175). Cirrhosis and hepatocellular carcinoma in HIV-infected veterans with and without the hepatitis C virus: a cohort study, 1992-2001. Arch Intern Med. 2004 Nov 22; 164(21):2349-54. PMID: [15557414](//www.ncbi.nlm.nih.gov/pubmed/15557414).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15557414/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  188. **Giordano TP** , Guzman D, Clark R, Charlebois ED, Bangsberg DR. Measuring adherence to antiretroviral therapy in a diverse population using a visual analogue scale. HIV Clin Trials. 2004 Mar-Apr; 5(2):74-9. PMID: [15116282](//www.ncbi.nlm.nih.gov/pubmed/15116282).
+
+Citations:
+[204](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15116282/citedby/)
+Fields:
+
+Acq Acquired Immunodeficiency SyndThe Therapeutics
+
+Translation:Humans
+
+  189. **Giordano TP** , Soini H, Teeter LD, Adams GJ, Musser JM, [Graviss EA](https://profiles.viictr.org/profile/267536). Relating the size of molecularly defined clusters of tuberculosis to the duration of symptoms. Clin Infect Dis. 2004 Jan 01; 38(1):10-6. PMID: [14679442](//www.ncbi.nlm.nih.gov/pubmed/14679442).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14679442/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  190. Menke TJ, **Giordano TP** , Rabeneck L. Utilization of health care resources by HIV-infected white, African-American, and Hispanic men in the era before highly active antiretroviral therapy. J Natl Med Assoc. 2003 Sep; 95(9):853-61. PMID: [14527053](//www.ncbi.nlm.nih.gov/pubmed/14527053); PMCID: [PMC2594468](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2594468).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14527053/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  191. **Giordano TP** , Wright JA, Hasan MQ, White AC, [Graviss EA](https://profiles.viictr.org/profile/267536), Visnegarwala F. Do sex and race/ethnicity influence CD4 cell response in patients who achieve virologic suppression during antiretroviral therapy? Clin Infect Dis. 2003 Aug 01; 37(3):433-7. PMID: [12884169](//www.ncbi.nlm.nih.gov/pubmed/12884169).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12884169/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  192. **Giordano TP** , White AC, Sajja P, [Graviss EA](https://profiles.viictr.org/profile/267536), Arduino RC, Adu-Oppong A, Lahart CJ, Visnegarwala F. Factors associated with the use of highly active antiretroviral therapy in patients newly entering care in an urban clinic. J Acquir Immune Defic Syndr. 2003 Apr 01; 32(4):399-405. PMID: [12640198](//www.ncbi.nlm.nih.gov/pubmed/12640198).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12640198/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 192 publications over 22 distinct years, with a maximum of
+18 publications in
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|18&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,22,11,39,17,56,22,44,78,83,67,100,72,72,56,28,83,50,56,33,39,22,17&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2003| 4  
+2004| 2  
+2005| 7  
+2006| 3  
+2007| 10  
+2008| 4  
+2009| 8  
+2010| 14  
+2011| 15  
+2012| 12  
+2013| 18  
+2014| 13  
+2015| 13  
+2016| 10  
+2017| 5  
+2018| 15  
+2019| 9  
+2020| 10  
+2021| 6  
+2022| 7  
+2023| 4  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+GIORDANO's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (470)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [HIV Infections](https://profiles.viictr.org/profile/262151)
+  * [Medication Adherence](https://profiles.viictr.org/profile/241921)
+  * [Anti-HIV Agents](https://profiles.viictr.org/profile/262495)
+  * [Patient Compliance](https://profiles.viictr.org/profile/253993)
+  * [Patient Acceptance of Health Care](https://profiles.viictr.org/profile/247493)
+
+[Explore](https://profiles.viictr.org/profile/269417/198)
+
+_
+
+Co-Authors (72)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ARYA, MONISHA](https://profiles.viictr.org/profile/265907)
+  * [DANG, BICH](https://profiles.viictr.org/profile/268418)
+  * [RAPHAEL, JEAN](https://profiles.viictr.org/profile/265546)
+  * [DAVILA, JESSICA](https://profiles.viictr.org/profile/268397)
+  * [EL-SERAG, HASHEM](https://profiles.viictr.org/profile/269175)
+
+[Explore](https://profiles.viictr.org/profile/269417/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [RODRIGUEZ-BARRADAS, MARIA](https://profiles.viictr.org/profile/269379)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [KIM, MARIA](https://profiles.viictr.org/profile/265735)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [BATES, DAVID](https://profiles.viictr.org/profile/265690)
+
+[Explore](https://profiles.viictr.org/profile/269417/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AMENTA, EVA](https://profiles.viictr.org/profile/41458307)
+  * [CAMPO, MARCELA](https://profiles.viictr.org/profile/23479042)
+  * [GREENBERG, STEPHEN](https://profiles.viictr.org/profile/267393)
+  * [KOO, HOONMO](https://profiles.viictr.org/profile/270276)
+  * [MINDRU, CEZARINA](https://profiles.viictr.org/profile/4721586)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CATE, THOMAS](https://profiles.viictr.org/profile/267238)
+  * [FLASH, CHARLENE](https://profiles.viictr.org/profile/268780)
+  * [JAFFE, PENNY](https://profiles.viictr.org/profile/268305)
+  * [OKHUYSEN, PABLO](https://profiles.viictr.org/profile/269219)
+  * [SOLIS, ROBERT](https://profiles.viictr.org/profile/266546)
+
+_
+

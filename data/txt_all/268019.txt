@@ -1,0 +1,1941 @@
+## LAWRENCE DONEHOWER
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Oqoi83zDQIn2S8Ho5G4%3d&rnd=485de55e-39bb-4990-88c5-d3d444413c5c)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268019)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=268019&cachekey=32a82653-ab91-4aff-92d8-7a6e2fdc64e0)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Division| Molecular & Cellular Biology  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Division| Pediatrics-Hematology & Oncology  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Human Genome Sequencing Center  
+Division| Human Genome Sequencing Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01CA237291 (GOODELL, MARGARET A.)Jul 1, 2019 - Jun 30, 2024NIH  
+PPM1D in Clonal Hematopoiesis and Malignancies  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R21AG035365 (DONEHOWER, LAWRENCE A.)Jul 1, 2010 - Jun 30, 2013NIH  
+The effects of Age on Cancer Signaling Pathways in Mice  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01CA100420 (DONEHOWER, LAWRENCE A.)Apr 1, 2003 - Jan 31, 2014NIH  
+Oncogenic Function of a P53-Induced Phosphatase  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AG019693 (DONEHOWER, LAWRENCE A.)Sep 15, 2002 - Aug 31, 2008NIH  
+P53 and Organismal Aging  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01ES009650 (DONEHOWER, LAWRENCE A.)Feb 1, 1999 - Jan 31, 2004NIH  
+P53 AND GENOMIC INSTABILITY MODELS  
+Role: Principal Investigator  
+  
+* * *  
+  
+K04CA064531 (DONEHOWER, LAWRENCE A.)Aug 10, 1994 - Jul 31, 1999NIH  
+FURTHER ANALYSIS OF THE P53-DEFICIENT MOUSE  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01CA054897 (DONEHOWER, LAWRENCE A.)Apr 15, 1992 - Jul 31, 2003NIH  
+INACTIVATED P53 GENE IN MICE  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AI028741 (DONEHOWER, LAWRENCE A.)Sep 30, 1990 - Jul 31, 1994NIH  
+ROLE OF VIRAL GENES IN HIV-1 REPLICATION  
+Role: Principal Investigator  
+  
+* * *  
+  
+T32AG000183 (DONEHOWER, LAWRENCE A.)Sep 14, 1989 - Apr 30, 2016NIH  
+Biology of Aging Training Grant  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01CA041476 (DONEHOWER, LAWRENCE A.)Feb 1, 1986 - Sep 30, 1989NIH  
+ROLE OF VIRUS AND CELL GENES IN RETROVIRUS REPLICATION  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Parvandeh S](https://profiles.viictr.org/profile/24845303), **Donehower LA** , Panagiotis K, Hsu TK, [Asmussen JK](https://profiles.viictr.org/profile/28999451), Lee K, [Lichtarge O](https://profiles.viictr.org/profile/269815). EPIMUTESTR: a nearest neighbor machine learning approach to predict cancer driver genes from the evolutionary action of coding variants. Nucleic Acids Res. 2022 07 08; 50(12):e70. PMID: [35412634](//www.ncbi.nlm.nih.gov/pubmed/35412634); PMCID: [PMC9262594](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9262594).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35412634/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Humans
+
+  2. Hsu TK, [Asmussen J](https://profiles.viictr.org/profile/28999451), Koire A, Choi BK, Gadhikar MA, Huh E, Lin CH, Konecki DM, Kim YW, [Pickering CR](https://profiles.viictr.org/profile/12583140), Kimmel M, **Donehower LA** , Frederick MJ, [Myers JN](https://profiles.viictr.org/profile/12582564), [Katsonis P](https://profiles.viictr.org/profile/3009828), [Lichtarge O](https://profiles.viictr.org/profile/269815). A general calculus of fitness landscapes finds genes under selection in cancers. Genome Res. 2022 05; 32(5):916-929. PMID: [35301263](//www.ncbi.nlm.nih.gov/pubmed/35301263); PMCID: [PMC9104707](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9104707).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35301263/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  3. Nakahata K, Simons BW, Pozzo E, Shuck R, Kurenbekova L, [Prudowsky Z](https://profiles.viictr.org/profile/24845064), [Dholakia K](https://profiles.viictr.org/profile/31168801), [Coarfa C](https://profiles.viictr.org/profile/265668), Patel TD, **Donehower LA** , [Yustein JT](https://profiles.viictr.org/profile/265958). K-Ras and p53 mouse model with molecular characteristics of human rhabdomyosarcoma and translational applications. Dis Model Mech. 2022 02 01; 15(2). PMID: [35174853](//www.ncbi.nlm.nih.gov/pubmed/35174853); PMCID: [PMC8844455](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8844455).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35174853/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimals
+
+  4. Zhang Y, Chen F, **Donehower LA** , [Scheurer ME](https://profiles.viictr.org/profile/265805), [Creighton CJ](https://profiles.viictr.org/profile/265729). A pediatric brain tumor atlas of genes deregulated by somatic genomic rearrangement. Nat Commun. 2021 02 10; 12(1):937. PMID: [33568653](//www.ncbi.nlm.nih.gov/pubmed/33568653); PMCID: [PMC7876141](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7876141).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33568653/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Humans
+
+  5. Choi BK, Fujiwara K, Dayaram T, Darlington Y, Dickerson J, [Goodell MA](https://profiles.viictr.org/profile/269806), **Donehower LA**. WIP1 dephosphorylation of p27Kip1 Serine 140 destabilizes p27Kip1 and reverses anti-proliferative effects of ATM phosphorylation. Cell Cycle. 2020 02; 19(4):479-491. PMID: [31959038](//www.ncbi.nlm.nih.gov/pubmed/31959038); PMCID: [PMC7100888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7100888).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31959038/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  6. **Donehower LA** , Soussi T, [Korkut A](https://profiles.viictr.org/profile/20424327), Liu Y, Schultz A, Cardenas M, Li X, Babur O, Hsu TK, [Lichtarge O](https://profiles.viictr.org/profile/269815), [Weinstein JN](https://profiles.viictr.org/profile/12583120), [Akbani R](https://profiles.viictr.org/profile/12583156), [Wheeler DA](https://profiles.viictr.org/profile/266937). Integrated Analysis of TP53 Gene and Pathway Alterations in The Cancer Genome Atlas. Cell Rep. 2019 Sep 10; 28(11):3010. PMID: [31509758](//www.ncbi.nlm.nih.gov/pubmed/31509758).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31509758/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  7. **Donehower LA** , [Korkut A](https://profiles.viictr.org/profile/20424327), Liu Y, Schultz A, Cardenas M, Li X, Babur O, Hsu TK, [Lichtarge O](https://profiles.viictr.org/profile/269815), [Weinstein JN](https://profiles.viictr.org/profile/12583120), [Akbani R](https://profiles.viictr.org/profile/12583156), [Wheeler DA](https://profiles.viictr.org/profile/266937), Soussi T. Integrated Analysis of TP53 Gene and Pathway Alterations in The Cancer Genome Atlas. Cell Rep. 2019 07 30; 28(5):1370-1384.e5. PMID: [31365877](//www.ncbi.nlm.nih.gov/pubmed/31365877); PMCID: [PMC7546539](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7546539).
+
+Citations:
+[123](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31365877/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Humans
+
+  8. Hsu JI, Dayaram T, [Tovy A](https://profiles.viictr.org/profile/14490836), De Braekeleer E, [Jeong M](https://profiles.viictr.org/profile/3010235), Wang F, Zhang J, Heffernan TP, Gera S, Kovacs JJ, Marszalek JR, Bristow C, Yan Y, [Garcia-Manero G](https://profiles.viictr.org/profile/12583738), [Kantarjian H](https://profiles.viictr.org/profile/12582901), Vassiliou G, Futreal PA, **Donehower LA** , [Takahashi K](https://profiles.viictr.org/profile/17440029), [Goodell MA](https://profiles.viictr.org/profile/269806). PPM1D Mutations Drive Clonal Hematopoiesis in Response to Cytotoxic Chemotherapy. Cell Stem Cell. 2018 11 01; 23(5):700-713.e6. PMID: [30388424](//www.ncbi.nlm.nih.gov/pubmed/30388424); PMCID: [PMC6224657](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6224657).
+
+Citations:
+[90](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30388424/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  9. Choi BK, Dayaram T, Parikh N, Wilkins AD, Nagarajan M, Novikov IB, Bachman BJ, Jung SY, Haas PJ, Labrie JL, [Pickering CR](https://profiles.viictr.org/profile/12583140), Adikesavan AK, Regenbogen S, Kato L, Lelescu A, Buchovecky CM, Zhang H, Bao SH, Boyer S, Weber G, Scott KL, Chen Y, Spangler S, **Donehower LA** , [Lichtarge O](https://profiles.viictr.org/profile/269815). Literature-based automated discovery of tumor suppressor p53 phosphorylation and inhibition by NEK2. Proc Natl Acad Sci U S A. 2018 10 16; 115(42):10666-10671. PMID: [30266789](//www.ncbi.nlm.nih.gov/pubmed/30266789); PMCID: [PMC6196525](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6196525).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30266789/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  10. Fuja DG, [Rainusso NC](https://profiles.viictr.org/profile/265526), Shuck RL, Kurenbekova L, **Donehower LA** , [Yustein JT](https://profiles.viictr.org/profile/265958). Transglutaminase-2 promotes metastatic and stem-like phenotypes in osteosarcoma. Am J Cancer Res. 2018; 8(9):1752-1763. PMID: [30323968](//www.ncbi.nlm.nih.gov/pubmed/30323968); PMCID: [PMC6176192](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6176192).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30323968/citedby/)
+
+  11. Knijnenburg TA, Wang L, Zimmermann MT, Chambwe N, Gao GF, Cherniack AD, Fan H, Shen H, Way GP, Greene CS, Liu Y, [Akbani R](https://profiles.viictr.org/profile/12583156), Feng B, **Donehower LA** , Miller C, Shen Y, Karimi M, Chen H, Kim P, Jia P, Shinbrot E, Zhang S, Liu J, Hu H, Bailey MH, Yau C, Wolf D, Zhao Z, [Weinstein JN](https://profiles.viictr.org/profile/12583120), Li L, Ding L, [Mills GB](https://profiles.viictr.org/profile/12582930), Laird PW, [Wheeler DA](https://profiles.viictr.org/profile/266937), Shmulevich I, Cancer Genome Atlas Research Network, Monnat RJ, Xiao Y, Wang C. Genomic and Molecular Landscape of DNA Damage Repair Deficiency across The Cancer Genome Atlas. Cell Rep. 2018 04 03; 23(1):239-254.e6. PMID: [29617664](//www.ncbi.nlm.nih.gov/pubmed/29617664); PMCID: [PMC5961503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5961503).
+
+Citations:
+[310](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29617664/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  12. Parikh N, Shuck RL, Gagea M, [Shen L](https://profiles.viictr.org/profile/266104), **Donehower LA**. Enhanced inflammation and attenuated tumor suppressor pathways are associated with oncogene-induced lung tumors in aged mice. Aging Cell. 2018 02; 17(1). PMID: [29047229](//www.ncbi.nlm.nih.gov/pubmed/29047229); PMCID: [PMC5771401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5771401).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29047229/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  13. Satterfield L, Shuck R, Kurenbekova L, [Allen-Rhoades W](https://profiles.viictr.org/profile/3010251), Edwards D, [Huang S](https://profiles.viictr.org/profile/267743), Rajapakshe K, [Coarfa C](https://profiles.viictr.org/profile/265668), **Donehower LA** , [Yustein JT](https://profiles.viictr.org/profile/265958). miR-130b directly targets ARHGAP1 to drive activation of a metastatic CDC42-PAK1-AP1 positive feedback loop in Ewing sarcoma. Int J Cancer. 2017 11 15; 141(10):2062-2075. PMID: [28748534](//www.ncbi.nlm.nih.gov/pubmed/28748534); PMCID: [PMC5603410](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5603410).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28748534/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  14. Ballinger ML, Bond GL, Braithwaite A, Concin N, **Donehower LA** , El-Deiry WS, Gaidano G, Hellstrom-Lindberg E, Lehmann-Che J, Mai PL, Malkin D, Moll UM, [Myers JN](https://profiles.viictr.org/profile/12582564), Nichols KE, Pospisilova S, Rossi D, Savage SA, [Strong LC](https://profiles.viictr.org/profile/12582515), Tonin PN, Zeillinger R, Zenz T, Fraumeni JF, Taschner PE, Leroy B, Baran-Marszak F, Fenaux P, Langer?d A, Iggo R, Ashton-Prolla P, Hainaut P, Soussi T. Recommended Guidelines for Validation, Quality Control, and Reporting of TP53 Variants in Clinical Practice. Cancer Res. 2017 03 15; 77(6):1250-1260. PMID: [28254861](//www.ncbi.nlm.nih.gov/pubmed/28254861); PMCID: [PMC7457206](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7457206).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28254861/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  15. Wamsley JJ, Issaeva N, An H, Lu X, **Donehower LA** , Yarbrough WG. LZAP is a novel Wip1 binding partner and positive regulator of its phosphatase activity in vitro. Cell Cycle. 2017 Jan 17; 16(2):213-223. PMID: [28027003](//www.ncbi.nlm.nih.gov/pubmed/28027003); PMCID: [PMC5283812](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5283812).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28027003/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  16. Techavichit P, Gao Y, Kurenbekova L, Shuck R, **Donehower LA** , [Yustein JT](https://profiles.viictr.org/profile/265958). Secreted Frizzled-Related Protein 2 (sFRP2) promotes osteosarcoma invasion and metastatic potential. BMC Cancer. 2016 11 08; 16(1):869. PMID: [27821163](//www.ncbi.nlm.nih.gov/pubmed/27821163); PMCID: [PMC5100268](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5100268).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27821163/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  17. [Gingras MC](https://profiles.viictr.org/profile/266579), Covington KR, Chang DK, **Donehower LA** , Gill AJ, [Ittmann MM](https://profiles.viictr.org/profile/269566), [Creighton CJ](https://profiles.viictr.org/profile/265729), Johns AL, Shinbrot E, Dewal N, [Fisher WE](https://profiles.viictr.org/profile/267699), Australian Pancreatic Cancer Genome Initiative, Pilarsky C, [Overman MJ](https://profiles.viictr.org/profile/12583817), Jamieson NB, [Van Buren G](https://profiles.viictr.org/profile/270068), Drummond J, Walker K, Hampton OA, Xi L, [Muzny DM](https://profiles.viictr.org/profile/268028), Doddapaneni H, Lee SL, Bellair M, Hu J, [Han Y](https://profiles.viictr.org/profile/269818), Dinh HH, Dahdouli M, Samra JS, Bailey P, Waddell N, Pearson JV, Harliwong I, Wang H, Aust D, Oien KA, Hruban RH, Hodges SE, McElhany A, Saengboonmee C, Duthie FR, Grimmond SM, Biankin AV, [Wheeler DA](https://profiles.viictr.org/profile/266937), [Gibbs RA](https://profiles.viictr.org/profile/269695), Gr?tzmann R. Ampullary Cancers Harbor ELF3 Tumor Suppressor Gene Mutations and Exhibit Frequent WNT Dysregulation. Cell Rep. 2016 Feb 02; 14(4):907-919. PMID: [26804919](//www.ncbi.nlm.nih.gov/pubmed/26804919); PMCID: [PMC4982376](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4982376).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26804919/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  18. Wang L, [Ni X](https://profiles.viictr.org/profile/12582602), Covington KR, Yang BY, Shiu J, Zhang X, Xi L, [Meng Q](https://profiles.viictr.org/profile/12583622), Langridge T, Drummond J, **Donehower LA** , Doddapaneni H, [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Wheeler DA](https://profiles.viictr.org/profile/266937), [Duvic M](https://profiles.viictr.org/profile/12582514). Genomic profiling of S?zary syndrome identifies alterations of key T cell signaling and differentiation genes. Nat Genet. 2015 Dec; 47(12):1426-34. PMID: [26551670](//www.ncbi.nlm.nih.gov/pubmed/26551670); PMCID: [PMC4829974](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4829974).
+
+Citations:
+[120](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26551670/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  19. Roos A, Satterfield L, Zhao S, Fuja D, Shuck R, Hicks MJ, **Donehower LA** , [Yustein JT](https://profiles.viictr.org/profile/265958). Loss of Runx2 sensitises osteosarcoma to chemotherapy-induced apoptosis. Br J Cancer. 2015 Nov 03; 113(9):1289-97. PMID: [26528706](//www.ncbi.nlm.nih.gov/pubmed/26528706); PMCID: [PMC4815801](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4815801).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26528706/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  20. Rao PH, Zhao S, Zhao YJ, Yu A, [Rainusso N](https://profiles.viictr.org/profile/265526), Trucco M, [Allen-Rhoades W](https://profiles.viictr.org/profile/3010251), Satterfield L, Fuja D, Borra VJ, [Man TK](https://profiles.viictr.org/profile/266960), **Donehower LA** , [Yustein JT](https://profiles.viictr.org/profile/265958). Coamplification of Myc/Pvt1 and homozygous deletion of Nlrp1 locus are frequent genetics changes in mouse osteosarcoma. Genes Chromosomes Cancer. 2015 Dec; 54(12):796-808. PMID: [26355645](//www.ncbi.nlm.nih.gov/pubmed/26355645).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26355645/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  21. Garcia JM, Chen JA, Guillory B, **Donehower LA** , Smith RG, Lamb DJ. Ghrelin Prevents Cisplatin-Induced Testicular Damage by Facilitating Repair of DNA Double Strand Breaks Through Activation of p53 in Mice. Biol Reprod. 2015 Jul; 93(1):24. PMID: [26019260](//www.ncbi.nlm.nih.gov/pubmed/26019260); PMCID: [PMC4706309](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4706309).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26019260/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:AnimalsCells
+
+  22. [Allen-Rhoades W](https://profiles.viictr.org/profile/3010251), Kurenbekova L, Satterfield L, Parikh N, Fuja D, Shuck RL, [Rainusso N](https://profiles.viictr.org/profile/265526), Trucco M, Barkauskas DA, Jo E, Ahern C, [Hilsenbeck S](https://profiles.viictr.org/profile/268374), **Donehower LA** , [Yustein JT](https://profiles.viictr.org/profile/265958). Cross-species identification of a plasma microRNA signature for detection, therapeutic monitoring, and prognosis in osteosarcoma. Cancer Med. 2015 Jul; 4(7):977-88. PMID: [25784290](//www.ncbi.nlm.nih.gov/pubmed/25784290); PMCID: [PMC4529336](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4529336).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25784290/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  23. Richter M, Dayaram T, Gilmartin AG, Ganji G, Pemmasani SK, Van Der Key H, Shohet JM, **Donehower LA** , Kumar R. WIP1 phosphatase as a potential therapeutic target in neuroblastoma. PLoS One. 2015; 10(2):e0115635. PMID: [25658463](//www.ncbi.nlm.nih.gov/pubmed/25658463); PMCID: [PMC4319922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4319922).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25658463/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  24. Zhao S, Kurenbekova L, Gao Y, Roos A, [Creighton CJ](https://profiles.viictr.org/profile/265729), Rao P, Hicks J, [Man TK](https://profiles.viictr.org/profile/266960), Lau C, Brown AM, Jones SN, [Lazar AJ](https://profiles.viictr.org/profile/12583453), Ingram D, Lev D, **Donehower LA** , [Yustein JT](https://profiles.viictr.org/profile/265958). NKD2, a negative regulator of Wnt signaling, suppresses tumor growth and metastasis in osteosarcoma. Oncogene. 2015 Sep 24; 34(39):5069-79. PMID: [25579177](//www.ncbi.nlm.nih.gov/pubmed/25579177); PMCID: [PMC4802362](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4802362).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25579177/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  25. Xia Z, **Donehower LA** , [Cooper TA](https://profiles.viictr.org/profile/269742), [Neilson JR](https://profiles.viictr.org/profile/266073), [Wheeler DA](https://profiles.viictr.org/profile/266937), Wagner EJ, Li W. Dynamic analyses of alternative polyadenylation from RNA-seq reveal a 3'-UTR landscape across seven tumour types. Nat Commun. 2014 Nov 20; 5:5274. PMID: [25409906](//www.ncbi.nlm.nih.gov/pubmed/25409906); PMCID: [PMC4467577](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4467577).
+
+Citations:
+[208](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25409906/citedby/)
+Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  26. Totoki Y, Tatsuno K, Covington KR, Ueda H, [Creighton CJ](https://profiles.viictr.org/profile/265729), Kato M, Tsuji S, **Donehower LA** , [Slagle BL](https://profiles.viictr.org/profile/269521), Nakamura H, Yamamoto S, Shinbrot E, Hama N, Lehmkuhl M, Hosoda F, Arai Y, Walker K, Dahdouli M, Gotoh K, Nagae G, [Gingras MC](https://profiles.viictr.org/profile/266579), [Muzny DM](https://profiles.viictr.org/profile/268028), Ojima H, Shimada K, Midorikawa Y, Goss JA, Cotton R, Hayashi A, Shibahara J, Ishikawa S, Guiteau J, Tanaka M, Urushidate T, Ohashi S, Okada N, Doddapaneni H, Wang M, Zhu Y, Dinh H, Okusaka T, Kokudo N, Kosuge T, Takayama T, Fukayama M, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Wheeler DA](https://profiles.viictr.org/profile/266937), Aburatani H, Shibata T. Trans-ancestry mutational landscape of hepatocellular carcinoma genomes. Nat Genet. 2014 Dec; 46(12):1267-73. PMID: [25362482](//www.ncbi.nlm.nih.gov/pubmed/25362482).
+
+Citations:
+[319](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25362482/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  27. Tao J, Jiang MM, Jiang L, Salvo JS, Zeng HC, [Dawson B](https://profiles.viictr.org/profile/23478740), Bertin TK, Rao PH, [Chen R](https://profiles.viictr.org/profile/266790), **Donehower LA** , Gannon F, [Lee BH](https://profiles.viictr.org/profile/267019). Notch activation as a driver of osteogenic sarcoma. Cancer Cell. 2014 Sep 08; 26(3):390-401. PMID: [25203324](//www.ncbi.nlm.nih.gov/pubmed/25203324); PMCID: [PMC4159617](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4159617).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25203324/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  28. Davis CF, Ricketts CJ, Wang M, Yang L, Cherniack AD, Shen H, Buhay C, Kang H, Kim SC, Bhanot G, Gordenin DA, Chu A, [Gunaratne PH](https://profiles.viictr.org/profile/268142), [Kaipparettu BA](https://profiles.viictr.org/profile/269257), **Donehower LA** , Wallen EM, Smith AB, Tickoo SK, [Tamboli P](https://profiles.viictr.org/profile/12582962), Reuter V, Schmidt LS, Hsieh JJ, Choueiri TK, Hakimi AA, Meyerson M, Kucherlapati R, Park WY, Robertson AG, Laird PW, Henske EP, Kwiatkowski DJ, [Park PJ](https://profiles.viictr.org/profile/17439987), Morgan M, Shuch B, [Muzny D](https://profiles.viictr.org/profile/268028), [Wheeler DA](https://profiles.viictr.org/profile/266937), Linehan WM, [Gibbs RA](https://profiles.viictr.org/profile/269695), Rathmell WK, [Creighton CJ](https://profiles.viictr.org/profile/265729), Fahey CC, Hacker KE, Biehl M, Seth S, Bristow CA, The?Cancer Genome Atlas Research Network, Chin L. The somatic genomic landscape of chromophobe renal cell carcinoma. Cancer Cell. 2014 Sep 08; 26(3):319-330. PMID: [25155756](//www.ncbi.nlm.nih.gov/pubmed/25155756); PMCID: [PMC4160352](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4160352).
+
+Citations:
+[319](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25155756/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  29. Xiong S, Tu H, Kollareddy M, [Pant V](https://profiles.viictr.org/profile/12582699), Li Q, [Zhang Y](https://profiles.viictr.org/profile/17439994), Jackson JG, Suh YA, Elizondo-Fraire AC, Yang P, Chau G, Tashakori M, Wasylishen AR, Ju Z, Solomon H, Rotter V, [Liu B](https://profiles.viictr.org/profile/12583582), [El-Naggar AK](https://profiles.viictr.org/profile/12582532), **Donehower LA** , Martinez LA, [Lozano G](https://profiles.viictr.org/profile/12582900). Pla2g16 phospholipase mediates gain-of-function activities of mutant p53. Proc Natl Acad Sci U S A. 2014 Jul 29; 111(30):11145-50. PMID: [25024203](//www.ncbi.nlm.nih.gov/pubmed/25024203); PMCID: [PMC4121829](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4121829).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25024203/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  30. **Donehower LA**. Phosphatases reverse p53-mediated cell cycle checkpoints. Proc Natl Acad Sci U S A. 2014 May 20; 111(20):7172-3. PMID: [24808140](//www.ncbi.nlm.nih.gov/pubmed/24808140); PMCID: [PMC4034213](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4034213).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24808140/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  31. **Donehower LA**. Insights into wild-type and mutant p53 functions provided by genetically engineered mice. Hum Mutat. 2014 Jun; 35(6):715-27. PMID: [24415648](//www.ncbi.nlm.nih.gov/pubmed/24415648).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24415648/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimals
+
+  32. Parikh N, [Hilsenbeck S](https://profiles.viictr.org/profile/268374), [Creighton CJ](https://profiles.viictr.org/profile/265729), Dayaram T, Shuck R, Shinbrot E, Xi L, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Wheeler DA](https://profiles.viictr.org/profile/266937), **Donehower LA**. Effects of TP53 mutational status on gene expression patterns across 10 human cancer types. J Pathol. 2014 Apr; 232(5):522-33. PMID: [24374933](//www.ncbi.nlm.nih.gov/pubmed/24374933); PMCID: [PMC4362779](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4362779).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24374933/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  33. Pang K, Wan YW, Choi WT, **Donehower LA** , Sun J, Pant D, [Liu Z](https://profiles.viictr.org/profile/266153). Combinatorial therapy discovery using mixed integer linear programming. Bioinformatics. 2014 May 15; 30(10):1456-63. PMID: [24463180](//www.ncbi.nlm.nih.gov/pubmed/24463180); PMCID: [PMC4016706](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4016706).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24463180/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Humans
+
+  34. Li L, Zhao D, Wei H, Yao L, Dang Y, Amjad A, Xu J, Liu J, Guo L, Li D, Li Z, Zuo D, Zhang Y, Liu J, [Huang S](https://profiles.viictr.org/profile/267743), Jia C, Wang L, Wang Y, Xie Y, Luo J, Zhang B, Luo H, **Donehower LA** , [Moses RE](https://profiles.viictr.org/profile/268514), Xiao J, [O'Malley BW](https://profiles.viictr.org/profile/269511), Li X. REG? deficiency promotes premature aging via the casein kinase 1 pathway. Proc Natl Acad Sci U S A. 2013 Jul 02; 110(27):11005-10. PMID: [23766372](//www.ncbi.nlm.nih.gov/pubmed/23766372); PMCID: [PMC3703992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3703992).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23766372/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  35. Jin J, Iakova P, Jiang Y, Lewis K, Sullivan E, Jawanmardi N, **Donehower L** , Timchenko L, Timchenko NA. Transcriptional and translational regulation of C/EBP?-HDAC1 protein complexes controls different levels of p53, SIRT1, and PGC1a proteins at the early and late stages of liver cancer. J Biol Chem. 2013 May 17; 288(20):14451-14462. PMID: [23564453](//www.ncbi.nlm.nih.gov/pubmed/23564453); PMCID: [PMC3656300](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3656300).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23564453/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  36. Dayaram T, Lemoine FJ, **Donehower LA** , [Marriott SJ](https://profiles.viictr.org/profile/268294). Activation of WIP1 phosphatase by HTLV-1 Tax mitigates the cellular response to DNA damage. PLoS One. 2013; 8(2):e55989. PMID: [23405243](//www.ncbi.nlm.nih.gov/pubmed/23405243); PMCID: [PMC3566092](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3566092).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23405243/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  37. **Donehower LA** , [Creighton CJ](https://profiles.viictr.org/profile/265729), Schultz N, Shinbrot E, Chang K, [Gunaratne PH](https://profiles.viictr.org/profile/268142), [Muzny D](https://profiles.viictr.org/profile/268028), Sander C, [Hamilton SR](https://profiles.viictr.org/profile/12583714), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Wheeler D](https://profiles.viictr.org/profile/266937). MLH1-silenced and non-silenced subgroups of hypermutated colorectal carcinomas have distinct mutational landscapes. J Pathol. 2013 Jan; 229(1):99-110. PMID: [22899370](//www.ncbi.nlm.nih.gov/pubmed/22899370); PMCID: [PMC3926301](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3926301).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22899370/citedby/) Fields:
+
+Pat Pathology
+
+Translation:HumansCells
+
+  38. **Donehower LA**. Rapamycin as longevity enhancer and cancer preventative agent in the context of p53 deficiency. Aging (Albany NY). 2012 Oct; 4(10):660-1. PMID: [23128359](//www.ncbi.nlm.nih.gov/pubmed/23128359); PMCID: [PMC3517935](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3517935).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23128359/citedby/) Fields:
+
+Ger Geriatrics
+
+  39. Parikh N, Shuck RL, Nguyen TA, Herron A, **Donehower LA**. Mouse tissues that undergo neoplastic progression after K-Ras activation are distinguished by nuclear translocation of phospho-Erk1/2 and robust tumor suppressor responses. Mol Cancer Res. 2012 Jun; 10(6):845-55. PMID: [22532587](//www.ncbi.nlm.nih.gov/pubmed/22532587); PMCID: [PMC3930453](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3930453).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22532587/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  40. Darlington Y, Nguyen TA, Moon SH, Herron A, Rao P, [Zhu C](https://profiles.viictr.org/profile/12583426), [Lu X](https://profiles.viictr.org/profile/12583180), **Donehower LA**. Absence of Wip1 partially rescues Atm deficiency phenotypes in mice. Oncogene. 2012 Mar 01; 31(9):1155-65. PMID: [21765465](//www.ncbi.nlm.nih.gov/pubmed/21765465); PMCID: [PMC3197977](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3197977).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21765465/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  41. Terzian T, Dumble M, [Arbab F](https://profiles.viictr.org/profile/34309715), Thaller C, **Donehower LA** , [Lozano G](https://profiles.viictr.org/profile/12582900), Justice MJ, Roop DR, Box NF. Rpl27a mutation in the sooty foot ataxia mouse phenocopies high p53 mouse models. J Pathol. 2011 Aug; 224(4):540-52. PMID: [21674502](//www.ncbi.nlm.nih.gov/pubmed/21674502); PMCID: [PMC3632393](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3632393).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21674502/citedby/) Fields:
+
+Pat Pathology
+
+Translation:AnimalsCells
+
+  42. Gannon HS, **Donehower LA** , Lyle S, Jones SN. Mdm2-p53 signaling regulates epidermal stem cell senescence and premature aging phenotypes in mouse skin. Dev Biol. 2011 May 01; 353(1):1-9. PMID: [21334322](//www.ncbi.nlm.nih.gov/pubmed/21334322); PMCID: [PMC3075331](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3075331).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21334322/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  43. Fuchs-Young R, Shirley SH, Lambertz I, Colby JK, Tian J, Johnston D, Gimenez-Conti IB, **Donehower LA** , Conti CJ, Hursting SD. P53 genotype as a determinant of ER expression and tamoxifen response in the MMTV-Wnt-1 model of mammary carcinogenesis. Breast Cancer Res Treat. 2011 Nov; 130(2):399-408. PMID: [21191649](//www.ncbi.nlm.nih.gov/pubmed/21191649); PMCID: [PMC3202603](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3202603).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21191649/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  44. Shang X, Vasudevan SA, Yu Y, Ge N, Ludwig AD, Wesson CL, Wang K, Burlingame SM, Zhao YJ, Rao PH, [Lu X](https://profiles.viictr.org/profile/12583180), Russell HV, [Okcu MF](https://profiles.viictr.org/profile/267445), Hicks MJ, Shohet JM, **Donehower LA** , [Nuchtern JG](https://profiles.viictr.org/profile/266271), Yang J. Dual-specificity phosphatase 26 is a novel p53 phosphatase and inhibits p53 tumor suppressor functions in human neuroblastoma. Oncogene. 2010 Sep 02; 29(35):4938-46. PMID: [20562916](//www.ncbi.nlm.nih.gov/pubmed/20562916); PMCID: [PMC7580258](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7580258).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20562916/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansCells
+
+  45. Lee S, **Donehower LA** , Herron AJ, Moore DD, [Fu L](https://profiles.viictr.org/profile/268379). Disrupting circadian homeostasis of sympathetic signaling promotes tumor development in mice. PLoS One. 2010 Jun 07; 5(6):e10995. PMID: [20539819](//www.ncbi.nlm.nih.gov/pubmed/20539819); PMCID: [PMC2881876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2881876).
+
+Citations:
+[118](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20539819/citedby/)
+Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  46. Moon SH, Nguyen TA, Darlington Y, [Lu X](https://profiles.viictr.org/profile/12583180), **Donehower LA**. Dephosphorylation of ?-H2AX by WIP1: an important homeostatic regulatory event in DNA repair and cell cycle control. Cell Cycle. 2010 Jun 01; 9(11):2092-6. PMID: [20495376](//www.ncbi.nlm.nih.gov/pubmed/20495376); PMCID: [PMC3984036](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3984036).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20495376/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  47. Liu H, Herrmann CH, Chiang K, Sung TL, Moon SH, **Donehower LA** , [Rice AP](https://profiles.viictr.org/profile/269748). 55K isoform of CDK9 associates with Ku70 and is involved in DNA repair. Biochem Biophys Res Commun. 2010 Jun 25; 397(2):245-50. PMID: [20493174](//www.ncbi.nlm.nih.gov/pubmed/20493174); PMCID: [PMC2900499](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2900499).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20493174/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansCells
+
+  48. Nguyen TA, Slattery SD, Moon SH, Darlington YF, [Lu X](https://profiles.viictr.org/profile/12583180), **Donehower LA**. The oncogenic phosphatase WIP1 negatively regulates nucleotide excision repair. DNA Repair (Amst). 2010 Jul 01; 9(7):813-23. PMID: [20451471](//www.ncbi.nlm.nih.gov/pubmed/20451471); PMCID: [PMC2893264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2893264).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20451471/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  49. Blagosklonny MV, Campisi J, Sinclair DA, Bartke A, Blasco MA, Bonner WM, Bohr VA, Brosh RM, Brunet A, [Depinho RA](https://profiles.viictr.org/profile/12583185), **Donehower LA** , Finch CE, Finkel T, Gorospe M, Gudkov AV, Hall MN, Hekimi S, Helfand SL, Karlseder J, Kenyon C, Kroemer G, Longo V, Nussenzweig A, Osiewacz HD, Peeper DS, Rando TA, Rudolph KL, Sassone-Corsi P, Serrano M, Sharpless NE, Skulachev VP, Tilly JL, Tower J, Verdin E, Vijg J. Impact papers on aging in 2009. Aging (Albany NY). 2010 Mar; 2(3):111-21. PMID: [20351400](//www.ncbi.nlm.nih.gov/pubmed/20351400); PMCID: [PMC2871240](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2871240).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20351400/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:HumansAnimalsCells
+
+  50. Moon SH, Lin L, [Zhang X](https://profiles.viictr.org/profile/12582814), Nguyen TA, Darlington Y, Waldman AS, [Lu X](https://profiles.viictr.org/profile/12583180), **Donehower LA**. Wild-type p53-induced phosphatase 1 dephosphorylates histone variant gamma-H2AX and suppresses DNA double strand break repair. J Biol Chem. 2010 Apr 23; 285(17):12935-47. PMID: [20118229](//www.ncbi.nlm.nih.gov/pubmed/20118229); PMCID: [PMC2857113](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2857113).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20118229/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  51. Maegawa S, Hinkal G, Kim HS, [Shen L](https://profiles.viictr.org/profile/266104), Zhang L, Zhang J, Zhang N, Liang S, **Donehower LA** , Issa JP. Widespread and tissue specific age-related DNA methylation changes in mice. Genome Res. 2010 Mar; 20(3):332-40. PMID: [20107151](//www.ncbi.nlm.nih.gov/pubmed/20107151); PMCID: [PMC2840983](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2840983).
+
+Citations:
+[224](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20107151/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  52. **Donehower LA**. Using mice to examine p53 functions in cancer, aging, and longevity. Cold Spring Harb Perspect Biol. 2009 Dec; 1(6):a001081. PMID: [20457560](//www.ncbi.nlm.nih.gov/pubmed/20457560); PMCID: [PMC2882127](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2882127).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20457560/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  53. **Donehower LA** , [Lozano G](https://profiles.viictr.org/profile/12582900). 20 years studying p53 functions in genetically engineered mice. Nat Rev Cancer. 2009 11; 9(11):831-41. PMID: [19776746](//www.ncbi.nlm.nih.gov/pubmed/19776746).
+
+Citations:
+[109](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19776746/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  54. Hinkal G, Parikh N, **Donehower LA**. Timed somatic deletion of p53 in mice reveals age-associated differences in tumor progression. PLoS One. 2009 Aug 14; 4(8):e6654. PMID: [19680549](//www.ncbi.nlm.nih.gov/pubmed/19680549); PMCID: [PMC2721630](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2721630).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19680549/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  55. Colbert LH, Westerlind KC, Perkins SN, Haines DC, Berrigan D, **Donehower LA** , Fuchs-Young R, Hursting SD. Exercise effects on tumorigenesis in a p53-deficient mouse model of breast cancer. Med Sci Sports Exerc. 2009 Aug; 41(8):1597-605. PMID: [19568200](//www.ncbi.nlm.nih.gov/pubmed/19568200); PMCID: [PMC3040490](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3040490).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19568200/citedby/) Fields:
+
+Spo Sports Medicine
+
+Translation:Animals
+
+  56. Hinkal GW, Gatza CE, Parikh N, **Donehower LA**. Altered senescence, apoptosis, and DNA damage response in a mutant p53 model of accelerated aging. Mech Ageing Dev. 2009 Apr; 130(4):262-71. PMID: [19396980](//www.ncbi.nlm.nih.gov/pubmed/19396980); PMCID: [PMC2722837](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2722837).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19396980/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:AnimalsCells
+
+  57. Ma O, Cai WW, Zender L, Dayaram T, Shen J, Herron AJ, Lowe SW, [Man TK](https://profiles.viictr.org/profile/266960), Lau CC, **Donehower LA**. MMP13, Birc2 (cIAP1), and Birc3 (cIAP2), amplified on chromosome 9, collaborate with p53 deficiency in mouse osteosarcoma progression. Cancer Res. 2009 Mar 15; 69(6):2559-67. PMID: [19276372](//www.ncbi.nlm.nih.gov/pubmed/19276372); PMCID: [PMC2663905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2663905).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19276372/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  58. Engin F, Bertin T, Ma O, Jiang MM, [Wang L](https://profiles.viictr.org/profile/267005), Sutton RE, **Donehower LA** , Lee B. Notch signaling contributes to the pathogenesis of human osteosarcomas. Hum Mol Genet. 2009 Apr 15; 18(8):1464-70. PMID: [19228774](//www.ncbi.nlm.nih.gov/pubmed/19228774); PMCID: [PMC2733809](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2733809).
+
+Citations:
+[86](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19228774/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  59. **Donehower LA**. Longevity regulation in flies: a role for p53. Aging (Albany NY). 2009 Jan 10; 1(1):6-8. PMID: [20157591](//www.ncbi.nlm.nih.gov/pubmed/20157591); PMCID: [PMC2815758](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2815758).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20157591/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:AnimalsCells
+
+  60. [Lu X](https://profiles.viictr.org/profile/12583180), Nguyen TA, Moon SH, Darlington Y, Sommer M, **Donehower LA**. The type 2C phosphatase Wip1: an oncogenic regulator of tumor suppressor and DNA damage response pathways. Cancer Metastasis Rev. 2008 Jun; 27(2):123-35. PMID: [18265945](//www.ncbi.nlm.nih.gov/pubmed/18265945); PMCID: [PMC2362138](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2362138).
+
+Citations:
+[117](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18265945/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  61. Hinkal G, **Donehower LA**. How does suppression of IGF-1 signaling by DNA damage affect aging and longevity? Mech Ageing Dev. 2008 May; 129(5):243-53. PMID: [18374391](//www.ncbi.nlm.nih.gov/pubmed/18374391); PMCID: [PMC2396493](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2396493).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18374391/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:AnimalsCells
+
+  62. [Lu X](https://profiles.viictr.org/profile/12583180), Nguyen TA, [Zhang X](https://profiles.viictr.org/profile/12582814), **Donehower LA**. The Wip1 phosphatase and Mdm2: cracking the "Wip" on p53 stability. Cell Cycle. 2008 Jan 15; 7(2):164-8. PMID: [18333294](//www.ncbi.nlm.nih.gov/pubmed/18333294).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18333294/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimals
+
+  63. Hinkal G, **Donehower LA**. Decline and fall of the tumor suppressor. Proc Natl Acad Sci U S A. 2007 Nov 20; 104(47):18347-8. PMID: [17998542](//www.ncbi.nlm.nih.gov/pubmed/17998542); PMCID: [PMC2141779](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2141779).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17998542/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  64. Moore L, [Lu X](https://profiles.viictr.org/profile/12583180), Ghebranious N, Tyner S, **Donehower LA**. Aging-associated truncated form of p53 interacts with wild-type p53 and alters p53 stability, localization, and activity. Mech Ageing Dev. 2007 Nov-Dec; 128(11-12):717-30. PMID: [18061646](//www.ncbi.nlm.nih.gov/pubmed/18061646); PMCID: [PMC2680148](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2680148).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18061646/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:HumansAnimalsCells
+
+  65. Gatza CE, Dumble M, Kittrell F, Edwards DG, Dearth RK, Lee AV, [Xu J](https://profiles.viictr.org/profile/266985), [Medina D](https://profiles.viictr.org/profile/269506), **Donehower LA**. Altered mammary gland development in the p53+/m mouse, a model of accelerated aging. Dev Biol. 2008 Jan 01; 313(1):130-41. PMID: [17996864](//www.ncbi.nlm.nih.gov/pubmed/17996864); PMCID: [PMC2234269](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2234269).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17996864/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  66. Castellino RC, De Bortoli M, [Lu X](https://profiles.viictr.org/profile/12583180), Moon SH, Nguyen TA, Shepard MA, Rao PH, **Donehower LA** , Kim JY. Medulloblastomas overexpress the p53-inactivating oncogene WIP1/PPM1D. J Neurooncol. 2008 Feb; 86(3):245-56. PMID: [17932621](//www.ncbi.nlm.nih.gov/pubmed/17932621); PMCID: [PMC2174521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2174521).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17932621/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansCells
+
+  67. [Lu X](https://profiles.viictr.org/profile/12583180), Ma O, Nguyen TA, Jones SN, Oren M, **Donehower LA**. The Wip1 Phosphatase acts as a gatekeeper in the p53-Mdm2 autoregulatory loop. Cancer Cell. 2007 Oct; 12(4):342-54. PMID: [17936559](//www.ncbi.nlm.nih.gov/pubmed/17936559).
+
+Citations:
+[135](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17936559/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  68. Hirata A, Tsukamoto T, Yamamoto M, Takasu S, Sakai H, Ban H, Yanai T, Masegi T, **Donehower LA** , Tatematsu M. Early development of histiocytic sarcomas in p53 knockout mice treated with N-bis(2-hydroxypropyl)nitrosamine. Oncol Rep. 2007 Oct; 18(4):755-61. PMID: [17786332](//www.ncbi.nlm.nih.gov/pubmed/17786332).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  69. Chambers SM, [Shaw CA](https://profiles.viictr.org/profile/269433), Gatza C, Fisk CJ, **Donehower LA** , [Goodell MA](https://profiles.viictr.org/profile/269806). Aging hematopoietic stem cells decline in function and exhibit epigenetic dysregulation. PLoS Biol. 2007 Aug; 5(8):e201. PMID: [17676974](//www.ncbi.nlm.nih.gov/pubmed/17676974); PMCID: [PMC1925137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1925137).
+
+Citations:
+[358](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17676974/citedby/)
+Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  70. Hirata A, Tsukamoto T, Yamamoto M, Takasu S, Sakai H, Ban H, Yanai T, Masegi T, **Donehower LA** , Tatematsu M. Organ-dependent susceptibility of p53 knockout mice to 2-amino-3-methylimidazo[4,5-f]quinoline (IQ). Cancer Sci. 2007 Aug; 98(8):1164-73. PMID: [17532756](//www.ncbi.nlm.nih.gov/pubmed/17532756); PMCID: [PMC11159812](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11159812).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  71. Abba MC, Fabris VT, Hu Y, Kittrell FS, Cai WW, **Donehower LA** , [Sahin A](https://profiles.viictr.org/profile/12582927), Medina D, [Aldaz CM](https://profiles.viictr.org/profile/12582917). Identification of novel amplification gene targets in mouse and human breast cancer at a syntenic cluster mapping to mouse ch8A1 and human ch13q34. Cancer Res. 2007 May 01; 67(9):4104-12. PMID: [17483321](//www.ncbi.nlm.nih.gov/pubmed/17483321); PMCID: [PMC4166497](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4166497).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17483321/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  72. Gatza C, Moore L, Dumble M, **Donehower LA**. Tumor suppressor dosage regulates stem cell dynamics during aging. Cell Cycle. 2007 Jan 01; 6(1):52-5. PMID: [17245110](//www.ncbi.nlm.nih.gov/pubmed/17245110).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17245110/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  73. Dumble M, Moore L, Chambers SM, Geiger H, Van Zant G, [Goodell MA](https://profiles.viictr.org/profile/269806), **Donehower LA**. The impact of altered p53 dosage on hematopoietic stem cell dynamics during aging. Blood. 2007 Feb 15; 109(4):1736-42. PMID: [17032926](//www.ncbi.nlm.nih.gov/pubmed/17032926); PMCID: [PMC1794064](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1794064).
+
+Citations:
+[113](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17032926/citedby/)
+Fields:
+
+Hem Hematology
+
+Translation:AnimalsCells
+
+  74. Sommer M, Poliak N, Upadhyay S, Ratovitski E, Nelkin BD, **Donehower LA** , Sidransky D. DeltaNp63alpha overexpression induces downregulation of Sirt1 and an accelerated aging phenotype in the mouse. Cell Cycle. 2006 Sep; 5(17):2005-11. PMID: [16940753](//www.ncbi.nlm.nih.gov/pubmed/16940753).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16940753/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  75. Nannenga B, [Lu X](https://profiles.viictr.org/profile/12583180), Dumble M, Van Maanen M, Nguyen TA, Sutton R, Kumar TR, **Donehower LA**. Augmented cancer resistance and DNA damage response phenotypes in PPM1D null mice. Mol Carcinog. 2006 Aug; 45(8):594-604. PMID: [16652371](//www.ncbi.nlm.nih.gov/pubmed/16652371).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16652371/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  76. Tazawa H, Tatemichi M, Sawa T, Gilibert I, Ma N, Hiraku Y, **Donehower LA** , Ohgaki H, Kawanishi S, Ohshima H. Oxidative and nitrative stress caused by subcutaneous implantation of a foreign body accelerates sarcoma development in Trp53+/- mice. Carcinogenesis. 2007 Jan; 28(1):191-8. PMID: [16857722](//www.ncbi.nlm.nih.gov/pubmed/16857722).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16857722/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  77. Frese KK, Latorre IJ, Chung SH, Caruana G, Bernstein A, Jones SN, **Donehower LA** , Justice MJ, Garner CC, [Javier RT](https://profiles.viictr.org/profile/266953). Oncogenic function for the Dlg1 mammalian homolog of the Drosophila discs-large tumor suppressor. EMBO J. 2006 Mar 22; 25(6):1406-17. PMID: [16511562](//www.ncbi.nlm.nih.gov/pubmed/16511562); PMCID: [PMC1422156](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1422156).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16511562/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  78. Adams MM, [Wang B](https://profiles.viictr.org/profile/12583910), Xia Z, Morales JC, [Lu X](https://profiles.viictr.org/profile/12583180), **Donehower LA** , Bochar DA, Elledge SJ, Carpenter PB. 53BP1 oligomerization is independent of its methylation by PRMT1. Cell Cycle. 2005 Dec; 4(12):1854-61. PMID: [16294047](//www.ncbi.nlm.nih.gov/pubmed/16294047).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16294047/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  79. Proia DA, Nannenga BW, **Donehower LA** , [Weigel NL](https://profiles.viictr.org/profile/266556). Dual roles for the phosphatase PPM1D in regulating progesterone receptor function. J Biol Chem. 2006 Mar 17; 281(11):7089-101. PMID: [16352595](//www.ncbi.nlm.nih.gov/pubmed/16352595).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16352595/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  80. Hirata A, Tsukamoto T, Yamamoto M, Sakai H, Yanai T, Masegi T, **Donehower LA** , Tatematsu M. Organ-specific susceptibility of p53 knockout mice to N-bis(2-hydroxypropyl)nitrosamine carcinogenesis. Cancer Lett. 2006 Jul 18; 238(2):271-83. PMID: [16150539](//www.ncbi.nlm.nih.gov/pubmed/16150539).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16150539/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  81. [Lu X](https://profiles.viictr.org/profile/12583180), Nguyen TA, **Donehower LA**. Reversal of the ATM/ATR-mediated DNA damage response by the oncogenic phosphatase PPM1D. Cell Cycle. 2005 Aug; 4(8):1060-4. PMID: [15970689](//www.ncbi.nlm.nih.gov/pubmed/15970689).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15970689/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  82. Attardi LD, **Donehower LA**. Probing p53 biological functions through the use of genetically engineered mouse models. Mutat Res. 2005 Aug 25; 576(1-2):4-21. PMID: [16038709](//www.ncbi.nlm.nih.gov/pubmed/16038709).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16038709/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimals
+
+  83. **Donehower LA** , French JE, Hursting SD. The utility of genetically altered mouse models for cancer research. Mutat Res. 2005 Aug 25; 576(1-2):1-3. PMID: [15982676](//www.ncbi.nlm.nih.gov/pubmed/15982676).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15982676/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  84. Bandyopadhyay D, Gatza C, **Donehower LA** , Medrano EE. Analysis of cellular senescence in culture in vivo: the senescence-associated beta-galactosidase assay. Curr Protoc Cell Biol. 2005 Jul; Chapter 18:18.9.1-18.9.9. PMID: [18228464](//www.ncbi.nlm.nih.gov/pubmed/18228464).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18228464/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  85. [Lu X](https://profiles.viictr.org/profile/12583180), Nannenga B, **Donehower LA**. PPM1D dephosphorylates Chk1 and p53 and abrogates cell cycle checkpoints. Genes Dev. 2005 May 15; 19(10):1162-74. PMID: [15870257](//www.ncbi.nlm.nih.gov/pubmed/15870257); PMCID: [PMC1132003](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1132003).
+
+Citations:
+[172](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15870257/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  86. Iidaka T, Tsukamoto T, Totsuka Y, Hirata A, Sakai H, Shirai N, Yamamoto M, Wakabayashi K, Yanai T, Masegi T, **Donehower LA** , Tatematsu M. Lack of elevated liver carcinogenicity of aminophenylnorharman in p53-deficient mice. Cancer Lett. 2005 Jan 20; 217(2):149-59. PMID: [15617832](//www.ncbi.nlm.nih.gov/pubmed/15617832).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  87. **Donehower LA**. p53: guardian AND suppressor of longevity? Exp Gerontol. 2005 Jan-Feb; 40(1-2):7-9. PMID: [15664727](//www.ncbi.nlm.nih.gov/pubmed/15664727).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15664727/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:Humans
+
+  88. [Lu X](https://profiles.viictr.org/profile/12583180), Nguyen TA, Appella E, **Donehower LA**. Homeostatic regulation of base excision repair by a p53-induced phosphatase: linking stress response pathways with DNA repair proteins. Cell Cycle. 2004 Nov; 3(11):1363-6. PMID: [15539943](//www.ncbi.nlm.nih.gov/pubmed/15539943).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15539943/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  89. Tatemichi M, Tazawa H, Masuda M, Saleem M, Wada S, **Donehower LA** , Ohgaki H, Ohshima H. Suppression of thymic lymphomas and increased nonthymic lymphomagenesis in Trp53-deficient mice lacking inducible nitric oxide synthase gene. Int J Cancer. 2004 Oct 10; 111(6):819-28. PMID: [15300793](//www.ncbi.nlm.nih.gov/pubmed/15300793).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15300793/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  90. Hursting SD, Lavigne JA, Berrigan D, **Donehower LA** , Davis BJ, Phang JM, Barrett JC, Perkins SN. Diet-gene interactions in p53-deficient mice: insulin-like growth factor-1 as a mechanistic target. J Nutr. 2004 Sep; 134(9):2482S-2486S. PMID: [15333746](//www.ncbi.nlm.nih.gov/pubmed/15333746).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15333746/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:Animals
+
+  91. [Lu X](https://profiles.viictr.org/profile/12583180), Bocangel D, Nannenga B, Yamaguchi H, Appella E, **Donehower LA**. The p53-induced oncogenic phosphatase PPM1D interacts with uracil DNA glycosylase and suppresses base excision repair. Mol Cell. 2004 Aug 27; 15(4):621-34. PMID: [15327777](//www.ncbi.nlm.nih.gov/pubmed/15327777).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15327777/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  92. Blackburn AC, McLary SC, Naeem R, Luszcz J, Stockton DW, **Donehower LA** , Mohammed M, Mailhes JB, Soferr T, Naber SP, Otis CN, Jerry DJ. Loss of heterozygosity occurs via mitotic recombination in Trp53+/- mice and associates with mammary tumor susceptibility of the BALB/c strain. Cancer Res. 2004 Aug 01; 64(15):5140-7. PMID: [15289317](//www.ncbi.nlm.nih.gov/pubmed/15289317).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15289317/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  93. Dumble M, Gatza C, Tyner S, Venkatachalam S, **Donehower LA**. Insights into aging obtained from p53 mutant mouse models. Ann N Y Acad Sci. 2004 Jun; 1019:171-7. PMID: [15247009](//www.ncbi.nlm.nih.gov/pubmed/15247009).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15247009/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  94. Moore L, Venkatachalam S, Vogel H, Watt JC, Wu CL, Steinman H, Jones SN, **Donehower LA**. Cooperativity of p19ARF, Mdm2, and p53 in murine tumorigenesis. Oncogene. 2003 Oct 30; 22(49):7831-7. PMID: [14586409](//www.ncbi.nlm.nih.gov/pubmed/14586409).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14586409/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  95. Storer RD, French JE, **Donehower LA** , Gulezian D, Mitsumori K, Recio L, Schiestl RH, Sistare FD, Tamaoki N, Usui T, van Steeg H, IWGT Working Group. Transgenic tumor models for carcinogen identification: the heterozygous Trp53-deficient and RasH2 mouse lines. Mutat Res. 2003 Oct 07; 540(2):165-76. PMID: [14550500](//www.ncbi.nlm.nih.gov/pubmed/14550500).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  96. Wang C, Pattabiraman N, Zhou JN, Fu M, Sakamaki T, Albanese C, Li Z, Wu K, Hulit J, Neumeister P, Novikoff PM, Brownlee M, Scherer PE, Jones JG, Whitney KD, **Donehower LA** , Harris EL, Rohan T, Johns DC, Pestell RG. Cyclin D1 repression of peroxisome proliferator-activated receptor gamma expression and transactivation. Mol Cell Biol. 2003 Sep; 23(17):6159-73. PMID: [12917338](//www.ncbi.nlm.nih.gov/pubmed/12917338); PMCID: [PMC180960](//www.ncbi.nlm.nih.gov/pmc/articles/PMC180960).
+
+Citations:
+[92](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12917338/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  97. van Maanen M, Tidwell JK, **Donehower LA** , Sutton RE. Development of an HIV-based cDNA expression cloning system. Mol Ther. 2003 Jul; 8(1):167-73. PMID: [12842440](//www.ncbi.nlm.nih.gov/pubmed/12842440).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12842440/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  98. Sakai H, Tsukamoto T, Yamamoto M, Shirai N, Iidaka T, Hirata A, Yanai T, Masegi T, **Donehower LA** , Tatematsu M. High susceptibility of nullizygous p53 knockout mice to colorectal tumor induction by 1,2-dimethylhydrazine. J Cancer Res Clin Oncol. 2003 Jun; 129(6):335-40. PMID: [12743811](//www.ncbi.nlm.nih.gov/pubmed/12743811).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12743811/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  99. [Lu X](https://profiles.viictr.org/profile/12583180), [Lozano G](https://profiles.viictr.org/profile/12582900), **Donehower LA**. Activities of wildtype and mutant p53 in suppression of homologous recombination as measured by a retroviral vector system. Mutat Res. 2003 Jan 28; 522(1-2):69-83. PMID: [12517413](//www.ncbi.nlm.nih.gov/pubmed/12517413).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12517413/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  100. Jones SN, **Donehower LA**. Functional analysis of tumor suppressor genes in mice. Methods Mol Biol. 2003; 223:283-314. PMID: [12777738](//www.ncbi.nlm.nih.gov/pubmed/12777738).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  101. Dumble ML, **Donehower LA** , [Lu X](https://profiles.viictr.org/profile/12583180). Generation and characterization of p53 mutant mice. Methods Mol Biol. 2003; 234:29-49. PMID: [12824523](//www.ncbi.nlm.nih.gov/pubmed/12824523).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12824523/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  102. Shirai N, Tsukamoto T, Yamamoto M, Iidaka T, Sakai H, Yanai T, Masegi T, **Donehower LA** , Tatematsu M. Elevated susceptibility of the p53 knockout mouse esophagus to methyl-N-amylnitrosamine carcinogenesis. Carcinogenesis. 2002 Sep; 23(9):1541-7. PMID: [12189199](//www.ncbi.nlm.nih.gov/pubmed/12189199).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12189199/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  103. **Donehower LA**. Does p53 affect organismal aging? J Cell Physiol. 2002 Jul; 192(1):23-33. PMID: [12115733](//www.ncbi.nlm.nih.gov/pubmed/12115733).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12115733/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  104. Zheng B, Vogel H, **Donehower LA** , Bradley A. Visual genotyping of a coat color tagged p53 mutant mouse line. Cancer Biol Ther. 2002 Jul-Aug; 1(4):433-5. PMID: [12432262](//www.ncbi.nlm.nih.gov/pubmed/12432262).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12432262/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:Animals
+
+  105. Choi J, Nannenga B, Demidov ON, Bulavin DV, Cooney A, Brayton C, Zhang Y, Mbawuike IN, Bradley A, Appella E, **Donehower LA**. Mice deficient for the wild-type p53-induced phosphatase gene (Wip1) exhibit defects in reproductive organs, immune function, and cell cycle control. Mol Cell Biol. 2002 Feb; 22(4):1094-105. PMID: [11809801](//www.ncbi.nlm.nih.gov/pubmed/11809801); PMCID: [PMC134641](//www.ncbi.nlm.nih.gov/pmc/articles/PMC134641).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11809801/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  106. Tyner SD, Venkatachalam S, Choi J, Jones S, Ghebranious N, Igelmann H, [Lu X](https://profiles.viictr.org/profile/12583180), Soron G, Cooper B, Brayton C, Park SH, [Thompson T](https://profiles.viictr.org/profile/12582753), Karsenty G, Bradley A, **Donehower LA**. p53 mutant mice that display early ageing-associated phenotypes. Nature. 2002 Jan 03; 415(6867):45-53. PMID: [11780111](//www.ncbi.nlm.nih.gov/pubmed/11780111).
+
+Citations:
+[498](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11780111/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  107. Hursting SD, Perkins SN, **Donehower LA** , Davis BJ. Cancer prevention studies in p53-deficient mice. Toxicol Pathol. 2001 Jan-Feb; 29(1):137-41. PMID: [11215677](//www.ncbi.nlm.nih.gov/pubmed/11215677).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11215677/citedby/) Fields:
+
+Pat PathologyTox Toxicology
+
+Translation:Animals
+
+  108. Venkatachalam S, Tyner SD, Pickering CR, Boley S, Recio L, French JE, **Donehower LA**. Is p53 haploinsufficient for tumor suppression? Implications for the p53+/- mouse model in carcinogenicity testing. Toxicol Pathol. 2001; 29 Suppl:147-54. PMID: [11695551](//www.ncbi.nlm.nih.gov/pubmed/11695551).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11695551/citedby/) Fields:
+
+Pat PathologyTox Toxicology
+
+Translation:Animals
+
+  109. French J, Storer RD, **Donehower LA**. The nature of the heterozygous Trp53 knockout model for identification of mutagenic carcinogens. Toxicol Pathol. 2001; 29 Suppl:24-9. PMID: [11695559](//www.ncbi.nlm.nih.gov/pubmed/11695559).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11695559/citedby/) Fields:
+
+Pat PathologyTox Toxicology
+
+Translation:Animals
+
+  110. Cui XS, **Donehower LA**. Differential gene expression in mouse mammary adenocarcinomas in the presence and absence of wild type p53. Oncogene. 2000 Dec 07; 19(52):5988-96. PMID: [11146550](//www.ncbi.nlm.nih.gov/pubmed/11146550).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11146550/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  111. D'Amico M, Hulit J, Amanatullah DF, Zafonte BT, Albanese C, Bouzahzah B, Fu M, Augenlicht LH, **Donehower LA** , Takemaru K, Moon RT, Davis R, Lisanti MP, Shtutman M, Zhurinsky J, Ben-Ze'ev A, Troussard AA, Dedhar S, Pestell RG. The integrin-linked kinase regulates the cyclin D1 gene through glycogen synthase kinase 3beta and cAMP-responsive element-binding protein-dependent pathways. J Biol Chem. 2000 Oct 20; 275(42):32649-57. PMID: [10915780](//www.ncbi.nlm.nih.gov/pubmed/10915780).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10915780/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  112. Wang XJ, Greenhalgh DA, **Donehower LA** , Roop DR. Cooperation between Ha-ras and fos or transforming growth factor alpha overcomes a paradoxic tumor-inhibitory effect of p53 loss in transgenic mouse epidermis. Mol Carcinog. 2000 Oct; 29(2):67-75. PMID: [11074603](//www.ncbi.nlm.nih.gov/pubmed/11074603).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11074603/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  113. Yamamoto M, Tsukamoto T, Sakai H, Shirai N, Ohgaki H, Furihata C, **Donehower LA** , Yoshida K, Tatematsu M. p53 knockout mice (-/-) are more susceptible than (+/-) or (+/+) mice to N-methyl-N-nitrosourea stomach carcinogenesis. Carcinogenesis. 2000 Oct; 21(10):1891-7. PMID: [11023548](//www.ncbi.nlm.nih.gov/pubmed/11023548).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11023548/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  114. Kuntz C, Kinoshita Y, Beal MF, **Donehower LA** , Morrison RS. Absence of p53: no effect in a transgenic mouse model of familial amyotrophic lateral sclerosis. Exp Neurol. 2000 Sep; 165(1):184-90. PMID: [10964497](//www.ncbi.nlm.nih.gov/pubmed/10964497).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10964497/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  115. Chandar N, **Donehower L** , Lanciloti N. Reduction in p53 gene dosage diminishes differentiation capacity of osteoblasts. Anticancer Res. 2000 Jul-Aug; 20(4):2553-9. PMID: [10953326](//www.ncbi.nlm.nih.gov/pubmed/10953326).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10953326/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  116. Liu Q, Guntuku S, Cui XS, Matsuoka S, Cortez D, Tamai K, Luo G, Carattini-Rivera S, DeMayo F, Bradley A, **Donehower LA** , Elledge SJ. Chk1 is an essential kinase that is regulated by Atr and required for the G(2)/M DNA damage checkpoint. Genes Dev. 2000 Jun 15; 14(12):1448-59. PMID: [10859164](//www.ncbi.nlm.nih.gov/pubmed/10859164); PMCID: [PMC316686](//www.ncbi.nlm.nih.gov/pmc/articles/PMC316686).
+
+Citations:
+[725](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10859164/citedby/)
+Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  117. Boley SE, Anderson EE, French JE, **Donehower LA** , Walker DB, Recio L. Loss of p53 in benzene-induced thymic lymphomas in p53+/- mice: evidence of chromosomal recombination. Cancer Res. 2000 Jun 01; 60(11):2831-5. PMID: [10850423](//www.ncbi.nlm.nih.gov/pubmed/10850423).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10850423/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  118. Ohgaki H, Fukuda M, Tohma Y, Huang H, Stoica G, Tatematsu M, **Donehower LA**. Effect of intragastric application of N-methylnitrosourea in p53 knockout mice. Mol Carcinog. 2000 Jun; 28(2):97-101. PMID: [10900466](//www.ncbi.nlm.nih.gov/pubmed/10900466).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10900466/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  119. Halberg RB, Katzung DS, Hoff PD, Moser AR, Cole CE, Lubet RA, **Donehower LA** , Jacoby RF, Dove WF. Tumorigenesis in the multiple intestinal neoplasia mouse: redundancy of negative regulators and specificity of modifiers. Proc Natl Acad Sci U S A. 2000 Mar 28; 97(7):3461-6. PMID: [10716720](//www.ncbi.nlm.nih.gov/pubmed/10716720); PMCID: [PMC16262](//www.ncbi.nlm.nih.gov/pmc/articles/PMC16262).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10716720/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  120. Mussman JG, Horn HF, Carroll PE, Okuda M, Tarapore P, **Donehower LA** , Fukasawa K. Synergistic induction of centrosome hyperamplification by loss of p53 and cyclin E overexpression. Oncogene. 2000 Mar 23; 19(13):1635-46. PMID: [10763820](//www.ncbi.nlm.nih.gov/pubmed/10763820).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10763820/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  121. Choi J, Appella E, **Donehower LA**. The structure and expression of the murine wildtype p53-induced phosphatase 1 (Wip1) gene. Genomics. 2000 Mar 15; 64(3):298-306. PMID: [10756097](//www.ncbi.nlm.nih.gov/pubmed/10756097).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10756097/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  122. Jones JM, Cui XS, Medina D, **Donehower LA**. Heterozygosity of p21WAF1/CIP1 enhances tumor cell proliferation and cyclin D1-associated kinase activity in a murine mammary cancer model. Cell Growth Differ. 1999 Apr; 10(4):213-22. PMID: [10319991](//www.ncbi.nlm.nih.gov/pubmed/10319991).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10319991/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  123. Tyner SD, Choi J, [Laucirica R](https://profiles.viictr.org/profile/266515), Ford RJ, **Donehower LA**. Increased tumor cell proliferation in murine tumors with decreasing dosage of wild-type p53. Mol Carcinog. 1999 Mar; 24(3):197-208. PMID: [10204804](//www.ncbi.nlm.nih.gov/pubmed/10204804).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10204804/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  124. Choi J, **Donehower LA**. p53 in embryonic development: maintaining a fine balance. Cell Mol Life Sci. 1999 Jan; 55(1):38-47. PMID: [10065150](//www.ncbi.nlm.nih.gov/pubmed/10065150); PMCID: [PMC11146796](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11146796).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10065150/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Animals
+
+  125. Ghebranious N, **Donehower LA**. Mouse models in tumor suppression. Oncogene. 1998 Dec 24; 17(25):3385-400. PMID: [9917000](//www.ncbi.nlm.nih.gov/pubmed/9917000).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9917000/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimals
+
+  126. Jones SN, Hancock AR, Vogel H, **Donehower LA** , Bradley A. Overexpression of Mdm2 in mice reveals a p53-independent role for Mdm2 in tumorigenesis. Proc Natl Acad Sci U S A. 1998 Dec 22; 95(26):15608-12. PMID: [9861017](//www.ncbi.nlm.nih.gov/pubmed/9861017); PMCID: [PMC28091](//www.ncbi.nlm.nih.gov/pmc/articles/PMC28091).
+
+Citations:
+[146](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9861017/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  127. Venkatachalam S, Shi YP, Jones SN, Vogel H, Bradley A, Pinkel D, **Donehower LA**. Retention of wild-type p53 in tumors from p53 heterozygous mice: reduction of p53 dosage can promote cancer formation. EMBO J. 1998 Aug 17; 17(16):4657-67. PMID: [9707425](//www.ncbi.nlm.nih.gov/pubmed/9707425); PMCID: [PMC1170795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1170795).
+
+Citations:
+[121](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9707425/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  128. Venkatachalam S, **Donehower LA**. Murine tumor suppressor models. Mutat Res. 1998 May 25; 400(1-2):391-407. PMID: [9685699](//www.ncbi.nlm.nih.gov/pubmed/9685699).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9685699/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  129. Wentz MP, Moore BE, Cloyd MW, [Berget SM](https://profiles.viictr.org/profile/268010), **Donehower LA**. A naturally arising mutation of a potential silencer of exon splicing in human immunodeficiency virus type 1 induces dominant aberrant splicing and arrests virus production. J Virol. 1997 Nov; 71(11):8542-51. PMID: [9343212](//www.ncbi.nlm.nih.gov/pubmed/9343212); PMCID: [PMC192318](//www.ncbi.nlm.nih.gov/pmc/articles/PMC192318).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9343212/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  130. Jones JM, Attardi L, Godley LA, [Laucirica R](https://profiles.viictr.org/profile/266515), Medina D, Jacks T, Varmus HE, **Donehower LA**. Absence of p53 in a mouse mammary tumor model promotes tumor cell proliferation without affecting apoptosis. Cell Growth Differ. 1997 Aug; 8(8):829-38. PMID: [9269892](//www.ncbi.nlm.nih.gov/pubmed/9269892).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9269892/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Animals
+
+  131. Shick L, Carman JH, Choi JK, Somasundaram K, Burrell M, Hill DE, Zeng YX, Wang Y, Wiman KG, Salhany K, Kadesch TR, Monroe JG, **Donehower LA** , el-Deiry WS. Decreased immunoglobulin deposition in tumors and increased immature B cells in p53-null mice. Cell Growth Differ. 1997 Feb; 8(2):121-31. PMID: [9040934](//www.ncbi.nlm.nih.gov/pubmed/9040934).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9040934/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  132. **Donehower LA**. Genetic instability in animal tumorigenesis models. Cancer Surv. 1997; 29:329-52. PMID: [9338107](//www.ncbi.nlm.nih.gov/pubmed/9338107).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9338107/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  133. Jones SN, Sands AT, Hancock AR, Vogel H, **Donehower LA** , Linke SP, Wahl GM, Bradley A. The tumorigenic potential and cell growth characteristics of p53-deficient cells are equivalent in the presence or absence of Mdm2. Proc Natl Acad Sci U S A. 1996 Nov 26; 93(24):14106-11. PMID: [8943068](//www.ncbi.nlm.nih.gov/pubmed/8943068); PMCID: [PMC19502](//www.ncbi.nlm.nih.gov/pmc/articles/PMC19502).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8943068/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  134. Jones SN, Ansari-Lari MA, Hancock AR, Jones WJ, Gibbs RA, **Donehower LA** , Bradley A. Genomic organization of the mouse double minute 2 gene. Gene. 1996 Oct 10; 175(1-2):209-13. PMID: [8917101](//www.ncbi.nlm.nih.gov/pubmed/8917101).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8917101/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  135. **Donehower LA**. The p53-deficient mouse: a model for basic and applied cancer studies. Semin Cancer Biol. 1996 Oct; 7(5):269-78. PMID: [9110404](//www.ncbi.nlm.nih.gov/pubmed/9110404).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9110404/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  136. Greenhalgh DA, Wang XJ, **Donehower LA** , Roop DR. Paradoxical tumor inhibitory effect of p53 loss in transgenic mice expressing epidermal-targeted v-rasHa, v-fos, or human transforming growth factor alpha. Cancer Res. 1996 Oct 01; 56(19):4413-23. PMID: [8813135](//www.ncbi.nlm.nih.gov/pubmed/8813135).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8813135/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCells
+
+  137. Broccoli D, Godley LA, **Donehower LA** , Varmus HE, de Lange T. Telomerase activation in mouse mammary tumors: lack of detectable telomere shortening and evidence for regulation of telomerase RNA with cell proliferation. Mol Cell Biol. 1996 Jul; 16(7):3765-72. PMID: [8668193](//www.ncbi.nlm.nih.gov/pubmed/8668193); PMCID: [PMC231372](//www.ncbi.nlm.nih.gov/pmc/articles/PMC231372).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8668193/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  138. Baxter EW, Blyth K, **Donehower LA** , Cameron ER, Onions DE, Neil JC. Moloney murine leukemia virus-induced lymphomas in p53-deficient mice: overlapping pathways in tumor development? J Virol. 1996 Apr; 70(4):2095-100. PMID: [8642629](//www.ncbi.nlm.nih.gov/pubmed/8642629); PMCID: [PMC190045](//www.ncbi.nlm.nih.gov/pmc/articles/PMC190045).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8642629/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  139. **Donehower LA**. Effects of p53 mutation on tumor progression: recent insights from mouse tumor models. Biochim Biophys Acta. 1996 Mar 18; 1242(3):171-6. PMID: [8603069](//www.ncbi.nlm.nih.gov/pubmed/8603069).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8603069/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Animals
+
+  140. Bogue MA, [Zhu C](https://profiles.viictr.org/profile/12583426), Aguilar-Cordova E, **Donehower LA** , Roth DB. p53 is required for both radiation-induced differentiation and rescue of V(D)J rearrangement in scid mouse thymocytes. Genes Dev. 1996 Mar 01; 10(5):553-65. PMID: [8598286](//www.ncbi.nlm.nih.gov/pubmed/8598286).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8598286/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  141. Morrison RS, Wenzel HJ, Kinoshita Y, Robbins CA, **Donehower LA** , Schwartzkroin PA. Loss of the p53 tumor suppressor gene protects neurons from kainate-induced cell death. J Neurosci. 1996 Feb 15; 16(4):1337-45. PMID: [8778285](//www.ncbi.nlm.nih.gov/pubmed/8778285); PMCID: [PMC6578556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6578556).
+
+Citations:
+[105](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8778285/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  142. **Donehower LA** , Godley LA, [Aldaz CM](https://profiles.viictr.org/profile/12582917), Pyle R, Shi YP, Pinkel D, Gray J, Bradley A, Medina D, Varmus HE. The role of p53 loss in genomic instability and tumor progression in a murine mammary cancer model. Prog Clin Biol Res. 1996; 395:1-11. PMID: [8895979](//www.ncbi.nlm.nih.gov/pubmed/8895979).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8895979/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Animals
+
+  143. Jones SN, Roe AE, **Donehower LA** , Bradley A. Rescue of embryonic lethality in Mdm2-deficient mice by absence of p53. Nature. 1995 Nov 09; 378(6553):206-8. PMID: [7477327](//www.ncbi.nlm.nih.gov/pubmed/7477327).
+
+Citations:
+[509](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7477327/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  144. Kumar TR, **Donehower LA** , Bradley A, [Matzuk MM](https://profiles.viictr.org/profile/266520). Transgenic mouse models for tumour-suppressor genes. J Intern Med. 1995 Sep; 238(3):233-8. PMID: [7673852](//www.ncbi.nlm.nih.gov/pubmed/7673852).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7673852/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Animals
+
+  145. **Donehower LA** , Harvey M, Vogel H, [McArthur MJ](https://profiles.viictr.org/profile/12582643), Montgomery CA, Park SH, Thompson T, Ford RJ, Bradley A. Effects of genetic background on tumorigenesis in p53-deficient mice. Mol Carcinog. 1995 Sep; 14(1):16-22. PMID: [7546219](//www.ncbi.nlm.nih.gov/pubmed/7546219).
+
+Citations:
+[93](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7546219/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimals
+
+  146. Sands AT, Suraokar MB, Sanchez A, Marth JE, **Donehower LA** , Bradley A. p53 deficiency does not affect the accumulation of point mutations in a transgene target. Proc Natl Acad Sci U S A. 1995 Aug 29; 92(18):8517-21. PMID: [7667322](//www.ncbi.nlm.nih.gov/pubmed/7667322); PMCID: [PMC41188](//www.ncbi.nlm.nih.gov/pmc/articles/PMC41188).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7667322/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  147. Yahanda AM, Bruner JM, **Donehower LA** , Morrison RS. Astrocytes derived from p53-deficient mice provide a multistep in vitro model for development of malignant gliomas. Mol Cell Biol. 1995 Aug; 15(8):4249-59. PMID: [7623819](//www.ncbi.nlm.nih.gov/pubmed/7623819); PMCID: [PMC230664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC230664).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7623819/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  148. Ansari-Lari MA, **Donehower LA** , Gibbs RA. Analysis of human immunodeficiency virus type 1 integrase mutants. Virology. 1995 Aug 01; 211(1):332-5. PMID: [7544046](//www.ncbi.nlm.nih.gov/pubmed/7544046).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7544046/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  149. Elson A, Deng C, Campos-Torres J, **Donehower LA** , Leder P. The MMTV/c-myc transgene and p53 null alleles collaborate to induce T-cell lymphomas, but not mammary carcinomas in transgenic mice. Oncogene. 1995 Jul 06; 11(1):181-90. PMID: [7624126](//www.ncbi.nlm.nih.gov/pubmed/7624126).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7624126/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  150. Blyth K, Terry A, O'Hara M, Baxter EW, Campbell M, Stewart M, **Donehower LA** , Onions DE, Neil JC, Cameron ER. Synergy between a human c-myc transgene and p53 null genotype in murine thymic lymphomas: contrasting effects of homozygous and heterozygous p53 loss. Oncogene. 1995 May 04; 10(9):1717-23. PMID: [7753548](//www.ncbi.nlm.nih.gov/pubmed/7753548).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7753548/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  151. Aguilar-Cordova E, [Chinen J](https://profiles.viictr.org/profile/15318057), **Donehower LA** , Harper JW, Rice AP, Butel JS, Belmont JW. Inhibition of HIV-1 by a double transdominant fusion gene. Gene Ther. 1995 May; 2(3):181-6. PMID: [7614248](//www.ncbi.nlm.nih.gov/pubmed/7614248).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7614248/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansCells
+
+  152. Rong S, **Donehower LA** , Hansen MF, [Strong L](https://profiles.viictr.org/profile/12582515), Tainsky M, Jeffers M, Resau JH, Hudson E, Tsarfaty I, Vande Woude GF. Met proto-oncogene product is overexpressed in tumors of p53-deficient mice and tumors of Li-Fraumeni patients. Cancer Res. 1995 May 01; 55(9):1963-70. PMID: [7728766](//www.ncbi.nlm.nih.gov/pubmed/7728766).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7728766/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  153. Paules RS, Levedakou EN, Wilson SJ, Innes CL, Rhodes N, Tlsty TD, Galloway DA, **Donehower LA** , Tainsky MA, Kaufmann WK. Defective G2 checkpoint function in cells from individuals with familial cancer syndromes. Cancer Res. 1995 Apr 15; 55(8):1763-73. PMID: [7712486](//www.ncbi.nlm.nih.gov/pubmed/7712486).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7712486/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  154. Radvanyi F, Blanche M, Abbou C, Buttyan R, **Donehower LA** , Chopin D, Thiery JP, Colombel M. Androgen suppressed apoptosis is modified in p53 deficient mice. Oncogene. 1995 Apr 06; 10(7):1269-74. PMID: [7731676](//www.ncbi.nlm.nih.gov/pubmed/7731676).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7731676/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  155. **Donehower LA** , Godley LA, [Aldaz CM](https://profiles.viictr.org/profile/12582917), Pyle R, Shi YP, Pinkel D, Gray J, Bradley A, Medina D, Varmus HE. Deficiency of p53 accelerates mammary tumorigenesis in Wnt-1 transgenic mice and promotes chromosomal instability. Genes Dev. 1995 Apr 01; 9(7):882-95. PMID: [7705663](//www.ncbi.nlm.nih.gov/pubmed/7705663).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7705663/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  156. [Thompson TC](https://profiles.viictr.org/profile/12582753), Park SH, Timme TL, Ren C, Eastham JA, **Donehower LA** , Bradley A, [Kadmon D](https://profiles.viictr.org/profile/268024), [Yang G](https://profiles.viictr.org/profile/12582752). Loss of p53 function leads to metastasis in ras+myc-initiated mouse prostate cancer. Oncogene. 1995 Mar 02; 10(5):869-79. PMID: [7534899](//www.ncbi.nlm.nih.gov/pubmed/7534899).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7534899/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  157. Harvey M, Vogel H, Lee EY, Bradley A, **Donehower LA**. Mice deficient in both p53 and Rb develop tumors primarily of endocrine origin. Cancer Res. 1995 Mar 01; 55(5):1146-51. PMID: [7867001](//www.ncbi.nlm.nih.gov/pubmed/7867001).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7867001/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  158. Harvey M, Vogel H, Morris D, Bradley A, Bernstein A, **Donehower LA**. A mutant p53 transgene accelerates tumour development in heterozygous but not nullizygous p53-deficient mice. Nat Genet. 1995 Mar; 9(3):305-11. PMID: [7773294](//www.ncbi.nlm.nih.gov/pubmed/7773294).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7773294/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  159. Lee JM, Abrahamson JL, Kandel R, **Donehower LA** , Bernstein A. Susceptibility to radiation-carcinogenesis and accumulation of chromosomal breakage in p53 deficient mice. Oncogene. 1994 Dec; 9(12):3731-6. PMID: [7970733](//www.ncbi.nlm.nih.gov/pubmed/7970733).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7970733/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  160. Marin MC, Hsu B, Meyn RE, **Donehower LA** , [el-Naggar AK](https://profiles.viictr.org/profile/12582532), [McDonnell TJ](https://profiles.viictr.org/profile/12583678). Evidence that p53 and bcl-2 are regulators of a common cell death pathway important for in vivo lymphomagenesis. Oncogene. 1994 Nov; 9(11):3107-12. PMID: [7936633](//www.ncbi.nlm.nih.gov/pubmed/7936633).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7936633/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  161. Hevey M, **Donehower LA**. Complementation of human immunodeficiency virus type 1 vif mutants in some CD4+ T-cell lines. Virus Res. 1994 Sep; 33(3):269-80. PMID: [7527173](//www.ncbi.nlm.nih.gov/pubmed/7527173).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7527173/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  162. Sands A, **Donehower LA** , Bradley A. Gene-targeting and the p53 tumor-suppressor gene. Mutat Res. 1994 Jun 01; 307(2):557-72. PMID: [7514729](//www.ncbi.nlm.nih.gov/pubmed/7514729).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7514729/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  163. Aguilar-Cordova E, [Chinen J](https://profiles.viictr.org/profile/15318057), **Donehower L** , Lewis DE, Belmont JW. A sensitive reporter cell line for HIV-1 tat activity, HIV-1 inhibitors, and T cell activation effects. AIDS Res Hum Retroviruses. 1994 Mar; 10(3):295-301. PMID: [8018390](//www.ncbi.nlm.nih.gov/pubmed/8018390).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8018390/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCells
+
+  164. Jerry DJ, Butel JS, **Donehower LA** , Paulson EJ, Cochran C, Wiseman RW, Medina D. Infrequent p53 mutations in 7,12-dimethylbenz[a]anthracene-induced mammary tumors in BALB/c and p53 hemizygous mice. Mol Carcinog. 1994 Mar; 9(3):175-83. PMID: [8142019](//www.ncbi.nlm.nih.gov/pubmed/8142019).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8142019/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:Animals
+
+  165. Goldsworthy TL, Recio L, Brown K, **Donehower LA** , Mirsalis JC, Tennant RW, Purchase IF. Transgenic animals in toxicology. Fundam Appl Toxicol. 1994 Jan; 22(1):8-19. PMID: [7907301](//www.ncbi.nlm.nih.gov/pubmed/7907301).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7907301/citedby/) Fields:
+
+Tox Toxicology
+
+Translation:Animals
+
+  166. Morrison RS, Yamaguchi F, Saya H, Bruner JM, Yahanda AM, **Donehower LA** , Berger M. Basic fibroblast growth factor and fibroblast growth factor receptor I are implicated in the growth of human astrocytomas. J Neurooncol. 1994; 18(3):207-16. PMID: [7964981](//www.ncbi.nlm.nih.gov/pubmed/7964981).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7964981/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansCells
+
+  167. Harvey M, [McArthur MJ](https://profiles.viictr.org/profile/12582643), Montgomery CA, Butel JS, Bradley A, **Donehower LA**. Spontaneous and carcinogen-induced tumorigenesis in p53-deficient mice. Nat Genet. 1993 Nov; 5(3):225-9. PMID: [8275085](//www.ncbi.nlm.nih.gov/pubmed/8275085).
+
+Citations:
+[157](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8275085/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  168. Rotter V, Schwartz D, Almon E, Goldfinger N, Kapon A, Meshorer A, **Donehower LA** , Levine AJ. Mice with reduced levels of p53 protein exhibit the testicular giant-cell degenerative syndrome. Proc Natl Acad Sci U S A. 1993 Oct 01; 90(19):9075-9. PMID: [8415656](//www.ncbi.nlm.nih.gov/pubmed/8415656); PMCID: [PMC47504](//www.ncbi.nlm.nih.gov/pmc/articles/PMC47504).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8415656/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  169. Kemp CJ, **Donehower LA** , Bradley A, Balmain A. Reduction of p53 gene dosage does not increase initiation or promotion but enhances malignant progression of chemically induced skin tumors. Cell. 1993 Sep 10; 74(5):813-22. PMID: [8374952](//www.ncbi.nlm.nih.gov/pubmed/8374952).
+
+Citations:
+[124](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8374952/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimals
+
+  170. Harvey M, Sands AT, Weiss RS, Hegi ME, Wiseman RW, Pantazis P, Giovanella BC, Tainsky MA, Bradley A, **Donehower LA**. In vitro growth characteristics of embryo fibroblasts isolated from p53-deficient mice. Oncogene. 1993 Sep; 8(9):2457-67. PMID: [8103211](//www.ncbi.nlm.nih.gov/pubmed/8103211).
+
+Citations:
+[151](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8103211/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  171. **Donehower LA** , Bradley A. The tumor suppressor p53. Biochim Biophys Acta. 1993 Aug 23; 1155(2):181-205. PMID: [8357826](//www.ncbi.nlm.nih.gov/pubmed/8357826).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8357826/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansAnimalsCells
+
+  172. Zhang Y, Mukhopadhyay T, **Donehower LA** , Georges RN, Roth JA. Retroviral vector-mediated transduction of K-ras antisense RNA into human lung cancer cells inhibits expression of the malignant phenotype. Hum Gene Ther. 1993 Aug; 4(4):451-60. PMID: [8399492](//www.ncbi.nlm.nih.gov/pubmed/8399492).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8399492/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  173. Harvey M, [McArthur MJ](https://profiles.viictr.org/profile/12582643), Montgomery CA, Bradley A, **Donehower LA**. Genetic background alters the spectrum of tumors that develop in p53-deficient mice. FASEB J. 1993 Jul; 7(10):938-43. PMID: [8344491](//www.ncbi.nlm.nih.gov/pubmed/8344491).
+
+Citations:
+[95](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8344491/citedby/) Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:Animals
+
+  174. Ford RJ, **Donehower LA** , Bohannon RC. Studies on a type D retrovirus isolated from an AIDS patient lymphoma. AIDS Res Hum Retroviruses. 1992 May; 8(5):742-51. PMID: [1381207](//www.ncbi.nlm.nih.gov/pubmed/1381207).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1381207/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCells
+
+  175. **Donehower LA** , Harvey M, Slagle BL, [McArthur MJ](https://profiles.viictr.org/profile/12582643), Montgomery CA, Butel JS, Bradley A. Mice deficient for p53 are developmentally normal but susceptible to spontaneous tumours. Nature. 1992 Mar 19; 356(6366):215-21. PMID: [1552940](//www.ncbi.nlm.nih.gov/pubmed/1552940).
+
+Citations:
+[1466](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1552940/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  176. Bohannon RC, **Donehower LA** , Ford RJ. Isolation of a type D retrovirus from B-cell lymphomas of a patient with AIDS. J Virol. 1991 Nov; 65(11):5663-72. PMID: [1717707](//www.ncbi.nlm.nih.gov/pubmed/1717707); PMCID: [PMC250226](//www.ncbi.nlm.nih.gov/pmc/articles/PMC250226).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1717707/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  177. **Donehower LA** , Bohannon RC, Ford RJ, Gibbs RA. The use of primers from highly conserved pol regions to identify uncharacterized retroviruses by the polymerase chain reaction. J Virol Methods. 1990 Apr; 28(1):33-46. PMID: [1693369](//www.ncbi.nlm.nih.gov/pubmed/1693369).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1693369/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  178. **Donehower LA** , Slagle BL, Wilde M, Darlington G, Butel JS. Identification of a conserved sequence in the non-coding regions of many human genes. Nucleic Acids Res. 1989 Jan 25; 17(2):699-710. PMID: [2536922](//www.ncbi.nlm.nih.gov/pubmed/2536922); PMCID: [PMC331613](//www.ncbi.nlm.nih.gov/pmc/articles/PMC331613).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2536922/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  179. **Donehower LA**. Analysis of mutant Moloney murine leukemia viruses containing linker insertion mutations in the 3' region of pol. J Virol. 1988 Nov; 62(11):3958-64. PMID: [2845117](//www.ncbi.nlm.nih.gov/pubmed/2845117); PMCID: [PMC253822](//www.ncbi.nlm.nih.gov/pmc/articles/PMC253822).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2845117/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  180. Zhou YZ, Slagle BL, **Donehower LA** , vanTuinen P, Ledbetter DH, Butel JS. Structural analysis of a hepatitis B virus genome integrated into chromosome 17p of a human hepatocellular carcinoma. J Virol. 1988 Nov; 62(11):4224-31. PMID: [2845134](//www.ncbi.nlm.nih.gov/pubmed/2845134); PMCID: [PMC253855](//www.ncbi.nlm.nih.gov/pmc/articles/PMC253855).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2845134/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  181. Hagino-Yamagishi K, **Donehower LA** , Varmus HE. Retroviral DNA integrated during infection by an integration-deficient mutant of murine leukemia virus is oligomeric. J Virol. 1987 Jun; 61(6):1964-71. PMID: [2437326](//www.ncbi.nlm.nih.gov/pubmed/2437326); PMCID: [PMC254204](//www.ncbi.nlm.nih.gov/pmc/articles/PMC254204).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2437326/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  182. **Donehower LA**. Research and potential clinical applications of retroviral vectors. Prog Med Virol. 1987; 34:1-32. PMID: [3310104](//www.ncbi.nlm.nih.gov/pubmed/3310104).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3310104/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+  183. Tsichlis PN, **Donehower L** , Hager G, Zeller N, Malavarca R, Astrin S, Skalka AM. Sequence comparison in the crossover region of an oncogenic avian retrovirus recombinant and its nononcogenic parent: genetic regions that control growth rate and oncogenic potential. Mol Cell Biol. 1982 Nov; 2(11):1331-8. PMID: [6298596](//www.ncbi.nlm.nih.gov/pubmed/6298596); PMCID: [PMC369937](//www.ncbi.nlm.nih.gov/pmc/articles/PMC369937).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6298596/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  184. **Donehower LA** , Andre J, Berard DS, Wolford RG, Hager GL. Construction and characterization of molecular clones containing integrated mouse mammary tumor virus sequences. Cold Spring Harb Symp Quant Biol. 1980; 44 Pt 2,:1153-9. PMID: [6253190](//www.ncbi.nlm.nih.gov/pubmed/6253190).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6253190/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  185. Smith RG, **Donehower L** , Gallo RC, Gillespie DH. Rapid purification of 70S RNA from media of cells producing RNA tumor viruses. J Virol. 1975 Jan; 17(1):287-90. PMID: [1206801](//www.ncbi.nlm.nih.gov/pubmed/1206801); PMCID: [PMC515414](//www.ncbi.nlm.nih.gov/pmc/articles/PMC515414).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1206801/citedby/) Fields:
+
+Vir Virology
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 166 publications over 29 distinct years, with a maximum of
+16 publications in
+1995](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|16&cht=bvs&chd=t:50,100,63,25,25,19,75,19,31,50,38,63,31,63,19,50,56,19,13,25,56,44,19,19,25,13,6,6,19,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 8  
+1995| 16  
+1996| 10  
+1997| 4  
+1998| 4  
+1999| 3  
+2000| 12  
+2001| 3  
+2002| 5  
+2003| 8  
+2004| 6  
+2005| 10  
+2006| 5  
+2007| 10  
+2008| 3  
+2009| 8  
+2010| 9  
+2011| 3  
+2012| 2  
+2013| 4  
+2014| 9  
+2015| 7  
+2016| 3  
+2017| 3  
+2018| 4  
+2019| 2  
+2020| 1  
+2021| 1  
+2022| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+DONEHOWER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (769)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Tumor Suppressor Protein p53](https://profiles.viictr.org/profile/245072)
+  * [Phosphoprotein Phosphatases](https://profiles.viictr.org/profile/245110)
+  * [Genes, p53](https://profiles.viictr.org/profile/264292)
+  * [Neoplasms, Experimental](https://profiles.viictr.org/profile/252866)
+  * [Aging](https://profiles.viictr.org/profile/258332)
+
+[Explore](https://profiles.viictr.org/profile/268019/198)
+
+_
+
+Co-Authors (91)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [LU, XIONGBIN](https://profiles.viictr.org/profile/12583180)
+  * [WHEELER, DAVID](https://profiles.viictr.org/profile/266937)
+  * [YUSTEIN, JASON](https://profiles.viictr.org/profile/265958)
+  * [LICHTARGE, OLIVIER](https://profiles.viictr.org/profile/269815)
+  * [LOZANO, GUILLERMINA](https://profiles.viictr.org/profile/12582900)
+
+[Explore](https://profiles.viictr.org/profile/268019/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LOZANO, GUILLERMINA](https://profiles.viictr.org/profile/12582900)
+  * [DEPINHO, RONALD A](https://profiles.viictr.org/profile/12583185)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [ANDREEFF, MICHAEL](https://profiles.viictr.org/profile/12582880)
+
+[Explore](https://profiles.viictr.org/profile/268019/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CONNER, MARGARET](https://profiles.viictr.org/profile/268086)
+  * [LING, PAUL](https://profiles.viictr.org/profile/268320)
+  * [RAMIG, ROBERT](https://profiles.viictr.org/profile/269613)
+  * [SCHAEFER, LAURA](https://profiles.viictr.org/profile/38481400)
+  * [TISZA, MICHAEL](https://profiles.viictr.org/profile/42513162)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CONNER, MARGARET](https://profiles.viictr.org/profile/268086)
+  * [COUCH, ROBERT](https://profiles.viictr.org/profile/267241)
+  * [JAVIER, RONALD](https://profiles.viictr.org/profile/266953)
+  * [KIMATA, JASON](https://profiles.viictr.org/profile/268949)
+  * [RICO-HESSE, REBECCA](https://profiles.viictr.org/profile/267498)
+
+_
+

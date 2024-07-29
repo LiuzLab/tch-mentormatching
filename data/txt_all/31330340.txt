@@ -1,0 +1,224 @@
+## FAEQ AL-MUDARES
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 6621 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=EKo18CvmLMbYU4vs8n7RCraPKl%2bPkzA%3d&rnd=fb34b15f-e549-4248-8377-838aea778471)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=31330340)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Al-Mudares F** , Cantu Gutierrez M, Cantu A, Jiang W, Wang L, Dong X, [Moorthy B](https://profiles.viictr.org/profile/268139), Sajti E, Lingappan K. Loss of growth differentiation factor 15 exacerbates lung injury in neonatal mice. Am J Physiol Lung Cell Mol Physiol. 2023 09 01; 325(3):L314-L326. PMID: [37368978](//www.ncbi.nlm.nih.gov/pubmed/37368978); PMCID: [PMC10625832](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10625832).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular BiologyPhy PhysiologyPul Pulmonary Medicine
+
+Translation:Animals
+
+  2. Almudares F, [Fernandes CJ](https://profiles.viictr.org/profile/269775). Early quantitative capnography to enhance neonatal resuscitation in extremely premature infants. Acta Paediatr. 2023 09; 112(9):2010-2011. PMID: [37170649](//www.ncbi.nlm.nih.gov/pubmed/37170649).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  3. Almudares F, [Hagan J](https://profiles.viictr.org/profile/2560329), Chen X, [Devaraj S](https://profiles.viictr.org/profile/266182), [Moorthy B](https://profiles.viictr.org/profile/268139), Lingappan K. Growth and differentiation factor 15 (GDF15) levels predict adverse respiratory outcomes in premature neonates. Pediatr Pulmonol. 2023 01; 58(1):271-278. PMID: [36205439](//www.ncbi.nlm.nih.gov/pubmed/36205439); PMCID: [PMC9772066](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9772066).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36205439/citedby/) Fields:
+
+Ped PediatricsPul Pulmonary Medicine
+
+Translation:Humans
+
+  4. **Al-Mudares F** , Reddick S, Ren J, Venkatesh A, Zhao C, Lingappan K. Role of Growth Differentiation Factor 15 in Lung Disease and Senescence: Potential Role Across the Lifespan. Front Med (Lausanne). 2020; 7:594137. PMID: [33344478](//www.ncbi.nlm.nih.gov/pubmed/33344478); PMCID: [PMC7744305](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7744305).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33344478/citedby/)
+
+  5. **Al-Mudares F** , [Fernandes CJ](https://profiles.viictr.org/profile/269775). Unilateral neonatal pulmonary interstitial emphysema managed conservatively: A case report. Pediatr Pulmonol. 2021 01; 56(1):83-87. PMID: [33080119](//www.ncbi.nlm.nih.gov/pubmed/33080119).
+
+Citations:  Fields:
+
+Ped PediatricsPul Pulmonary Medicine
+
+Translation:Humans
+
+  6. Stefanak MP, **Al-Mudares F** , El-Metwally D, Jones JW, Kane MA, Bearer CF. High concentrations of urinary ethanol metabolites in neonatal intensive care unit infants. Pediatr Res. 2020 12; 88(6):865-870. PMID: [32563185](//www.ncbi.nlm.nih.gov/pubmed/32563185).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  7. **Al-Mudares F** , [Fernandes CJ](https://profiles.viictr.org/profile/269775). "Coat Hanger" Appearance of the Ribs. N Engl J Med. 2020 Mar 26; 382(13):1257. PMID: [32212521](//www.ncbi.nlm.nih.gov/pubmed/32212521).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32212521/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  8. Falck AJ, Sundararajan S, **Al-Mudares F** , Contag SA, Bearer CF. Fetal exposure to mercury and lead from intrauterine blood transfusions. Pediatr Res. 2019 10; 86(4):510-514. PMID: [31216568](//www.ncbi.nlm.nih.gov/pubmed/31216568).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31216568/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansCells
+
+  9. Elias ME, **Al-Mudares F** , Gonzalez Rangal IE, Espinosa MR. A Cardiac Mass in a Neonate. Glob Pediatr Health. 2017; 4:2333794X17741820. PMID: [29204460](//www.ncbi.nlm.nih.gov/pubmed/29204460); PMCID: [PMC5703092](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5703092).
+
+Citations:
+
+  10. Al-Darzi W, **Al-Mudares F** , Farah A, Ali A, Marzouk D. Knowledge of periconceptional folic acid use among pregnant women at Ain Shams University Hospital, Cairo, Egypt. East Mediterr Health J. 2014 Oct 12; 20(9):561-8. PMID: [25343469](//www.ncbi.nlm.nih.gov/pubmed/25343469).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25343469/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 10 publications over 6 distinct years, with a maximum of 4
+publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,25,0,25,100,0,25,50,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2014| 1  
+2017| 1  
+2019| 1  
+2020| 4  
+2022| 1  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+AL-MUDARES's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (71)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Bronchopulmonary Dysplasia](https://profiles.viictr.org/profile/248102)
+  * [Infant, Extremely Premature](https://profiles.viictr.org/profile/27546802)
+  * [Lung Injury](https://profiles.viictr.org/profile/252745)
+  * [Hyperoxia](https://profiles.viictr.org/profile/256929)
+  * [Resuscitation](https://profiles.viictr.org/profile/261608)
+
+[Explore](https://profiles.viictr.org/profile/31330340/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [FERNANDES, CARACIOLO](https://profiles.viictr.org/profile/269775)
+  * [MOORTHY, BHAGAVATULA](https://profiles.viictr.org/profile/268139)
+  * [DEVARAJ, SRIDEVI](https://profiles.viictr.org/profile/266182)
+  * [HAGAN, JOSEPH](https://profiles.viictr.org/profile/2560329)
+
+[Explore](https://profiles.viictr.org/profile/31330340/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [MOORTHY, BHAGAVATULA](https://profiles.viictr.org/profile/268139)
+  * [SHIVANNA, BINOY](https://profiles.viictr.org/profile/265631)
+  * [PAMMI, MOHAN](https://profiles.viictr.org/profile/270201)
+  * [HAIR, AMY](https://profiles.viictr.org/profile/268745)
+  * [COUROUCLI, XANTHI](https://profiles.viictr.org/profile/266998)
+
+[Explore](https://profiles.viictr.org/profile/31330340/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GEDDIE, GWYNN](https://profiles.viictr.org/profile/269124)
+  * [GERGES, ANN](https://profiles.viictr.org/profile/269243)
+  * [HAIR, AMY](https://profiles.viictr.org/profile/268745)
+  * [ITRIAGO, ELENA](https://profiles.viictr.org/profile/38022052)
+  * [MCKEE-GARRETT, TIFFANY](https://profiles.viictr.org/profile/268347)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

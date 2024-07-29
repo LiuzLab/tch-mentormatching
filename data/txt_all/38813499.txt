@@ -1,0 +1,436 @@
+## NURI FIRAT INCE
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neurosurgery  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=GL4i6EPOMorhCKbj437iKLeBaRSOgg%3d%3d&rnd=48fab0c1-5c32-45c9-98fc-a21df36fa920)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=38813499)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Jensen MA, Schalk G, **Ince N** , Hermes D, Brunner P, Miller KJ. Feasibility of Stereo EEG Based Brain Computer Interfacing in An Adult and Pediatric Cohort. bioRxiv. 2024 Jun 12. PMID: [38915599](//www.ncbi.nlm.nih.gov/pubmed/38915599); PMCID: [PMC11195243](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11195243).
+
+Citations:
+
+  2. Schreiner L, Jordan M, Sieghartsleitner S, Kapeller C, Pretl H, Kamada K, Asman P, **Ince NF** , Miller KJ, Guger C. Mapping of the central sulcus using non-invasive ultra-high-density brain recordings. Sci Rep. 2024 03 19; 14(1):6527. PMID: [38499709](//www.ncbi.nlm.nih.gov/pubmed/38499709); PMCID: [PMC10948849](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10948849).
+
+Citations:  Fields:
+
+Sci Science
+
+  3. Ayyoubi AH, Fazli Besheli B, [Quach MM](https://profiles.viictr.org/profile/269280), Gavvala JR, Goldman AM, Swamy CP, [Bartoli E](https://profiles.viictr.org/profile/23496145), [Curry DJ](https://profiles.viictr.org/profile/265950), [Sheth SA](https://profiles.viictr.org/profile/23479136), Francis DJ, **Ince NF**. Benchmarking signal quality and spatiotemporal distribution of interictal spikes in prolonged human iEEG recordings using CorTec wireless brain interchange. Sci Rep. 2024 02 08; 14(1):2652. PMID: [38332136](//www.ncbi.nlm.nih.gov/pubmed/38332136); PMCID: [PMC10853182](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10853182).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Humans
+
+  4. [Noll KR](https://profiles.viictr.org/profile/17439970), Asman P, Tasnim I, Hall M, Connelly K, Swamy C, Ene C, [Tummala S](https://profiles.viictr.org/profile/12583010), [Grasu RM](https://profiles.viictr.org/profile/12583420), Liu HL, [Kumar VA](https://profiles.viictr.org/profile/12583305), Muir M, [Prinsloo S](https://profiles.viictr.org/profile/12583576), Michener H, [Wefel JS](https://profiles.viictr.org/profile/12582955), **Ince NF** , [Prabhu SS](https://profiles.viictr.org/profile/12583765). Intraoperative language mapping guided by real-time visualization of gamma band modulation electrocorticograms: Case report and proof of concept. Neurooncol Pract. 2024 Feb; 11(1):92-100. PMID: [38222047](//www.ncbi.nlm.nih.gov/pubmed/38222047); PMCID: [PMC10785572](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10785572).
+
+Citations:
+
+  5. Swamy CP, Besheli BF, Branco LRF, [Provenza NR](https://profiles.viictr.org/profile/36136344), [Sheth SA](https://profiles.viictr.org/profile/23479136), [Goodman WK](https://profiles.viictr.org/profile/17873564), [Viswanathan A](https://profiles.viictr.org/profile/267899), **Ince NF**. Pulsation artifact removal from intra-operatively recorded local field potentials using sparse signal processing and data-specific dictionary. Annu Int Conf IEEE Eng Med Biol Soc. 2023 07; 2023:1-4. PMID: [38082947](//www.ncbi.nlm.nih.gov/pubmed/38082947); PMCID: [PMC10746292](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10746292).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38082947/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+  6. Adamek M, Rockhill AP, **Ince NF** , Brunner P, Hermes D. Dynamic Visualization of Gyral and Sulcal Stereoelectroencephalographic Contacts in Humans. Annu Int Conf IEEE Eng Med Biol Soc. 2023 07; 2023:1-4. PMID: [38083418](//www.ncbi.nlm.nih.gov/pubmed/38083418); PMCID: [PMC10760314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10760314).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38083418/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  7. Branco LRF, [Viswanathan A](https://profiles.viictr.org/profile/267899), [Tarakad A](https://profiles.viictr.org/profile/14348244), **Ince NF**. Construction of semi-supervised spatial projections to identify the source of beta- and high frequency oscillations in Parkinson's disease. Int IEEE EMBS Conf Neural Eng. 2023 Apr; 2023. PMID: [37601420](//www.ncbi.nlm.nih.gov/pubmed/37601420); PMCID: [PMC10440159](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10440159).
+
+Citations:
+
+  8. Asman P, Pellizzer G, [Tummala S](https://profiles.viictr.org/profile/12583010), Tasnim I, Bastos D, [Bhavsar S](https://profiles.viictr.org/profile/12583929), [Prabhu S](https://profiles.viictr.org/profile/12583765), **Ince NF**. Long-latency gamma modulation after median nerve stimulation delineates the central sulcus and contrasts the states of consciousness. Clin Neurophysiol. 2023 01; 145:1-10. PMID: [36370685](//www.ncbi.nlm.nih.gov/pubmed/36370685).
+
+Citations:  Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Humans
+
+  9. Besheli BF, Sha Z, Gavvala JR, Gurses C, Karamursel S, [Quach MM](https://profiles.viictr.org/profile/269280), [Curry DJ](https://profiles.viictr.org/profile/265950), [Sheth SA](https://profiles.viictr.org/profile/23479136), Francis DJ, Henry TR, **Ince NF**. A sparse representation strategy to eliminate pseudo-HFO events from intracranial EEG for seizure onset zone localization. J Neural Eng. 2022 08 24; 19(4). PMID: [35931045](//www.ncbi.nlm.nih.gov/pubmed/35931045); PMCID: [PMC9901915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9901915).
+
+Citations:
+
+  10. Hassan AR, Zhao Z, Ferrero JJ, Cea C, Jastrzebska-Perfect P, Myers J, Asman P, **Ince NF** , McKhann G, [Viswanathan A](https://profiles.viictr.org/profile/267899), [Sheth SA](https://profiles.viictr.org/profile/23479136), Khodagholy D, Gelinas JN. Translational Organic Neural Interface Devices at Single Neuron Resolution. Adv Sci (Weinh). 2022 09; 9(27):e2202306. PMID: [35908811](//www.ncbi.nlm.nih.gov/pubmed/35908811); PMCID: [PMC9507374](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9507374).
+
+Citations:
+
+  11. Asman P, [Prabhu S](https://profiles.viictr.org/profile/12583765), [Tummala S](https://profiles.viictr.org/profile/12583010), **Ince NF**. Real-Time Delineation of the Central Sulcus with the Spatial Profile of SSEPs Captured with High-Density Ecog Grid. Annu Int Conf IEEE Eng Med Biol Soc. 2022 07; 2022:4892-4895. PMID: [36085684](//www.ncbi.nlm.nih.gov/pubmed/36085684).
+
+Citations:
+
+  12. Besheli BF, Sha Z, Henry T, Gavvala JR, Gurses C, Karamursel S, **Ince NF**. Elimination of pseudo-HFOs in iEEG using sparse representation and Random Forest classifier. Annu Int Conf IEEE Eng Med Biol Soc. 2022 07; 2022:4888-4891. PMID: [36086345](//www.ncbi.nlm.nih.gov/pubmed/36086345); PMCID: [PMC9867883](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9867883).
+
+Citations:
+
+  13. Velasco S, Branco L, Abosch A, **Ince NF**. The Entropy of Adaptively Segmented Beta Oscillations Predict Motor Improvement in Patients With Parkinson's Disease. IEEE Trans Biomed Eng. 2022 07; 69(7):2333-2341. PMID: [35025735](//www.ncbi.nlm.nih.gov/pubmed/35025735).
+
+Citations:
+
+  14. Asman P, [Prabhu S](https://profiles.viictr.org/profile/12583765), Bastos D, [Tummala S](https://profiles.viictr.org/profile/12583010), [Bhavsar S](https://profiles.viictr.org/profile/12583929), [McHugh TM](https://profiles.viictr.org/profile/17440098), **Ince NF**. Unsupervised machine learning can delineate central sulcus by using the spatiotemporal characteristic of somatosensory evoked potentials. J Neural Eng. 2021 04 29; 18(4). PMID: [33836520](//www.ncbi.nlm.nih.gov/pubmed/33836520); PMCID: [PMC8718352](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8718352).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33836520/citedby/) Fields:
+
+Bio Biomedical EngineeringNeu Neurology
+
+Translation:Humans
+
+  15. Ozturk M, [Viswanathan A](https://profiles.viictr.org/profile/267899), [Sheth SA](https://profiles.viictr.org/profile/23479136), **Ince NF**. Electroceutically induced subthalamic high-frequency oscillations and evoked compound activity may explain the mechanism of therapeutic stimulation in Parkinson's disease. Commun Biol. 2021 03 23; 4(1):393. PMID: [33758361](//www.ncbi.nlm.nih.gov/pubmed/33758361); PMCID: [PMC7988171](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7988171).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33758361/citedby/)
+Translation:Humans
+
+  16. Ozturk M, Telkes I, Jimenez-Shahed J, [Viswanathan A](https://profiles.viictr.org/profile/267899), [Tarakad A](https://profiles.viictr.org/profile/14348244), Kumar S, [Sheth SA](https://profiles.viictr.org/profile/23479136), **Ince NF**. Randomized, Double-Blind Assessment of LFP Versus SUA Guidance in STN-DBS Lead Implantation: A Pilot Study. Front Neurosci. 2020; 14:611. PMID: [32655356](//www.ncbi.nlm.nih.gov/pubmed/32655356); PMCID: [PMC7325925](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7325925).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32655356/citedby/)
+
+  17. Ozturk M, [Kaku H](https://profiles.viictr.org/profile/37567609), Jimenez-Shahed J, [Viswanathan A](https://profiles.viictr.org/profile/267899), [Sheth SA](https://profiles.viictr.org/profile/23479136), Kumar S, **Ince NF**. Subthalamic Single Cell and Oscillatory Neural Dynamics of a Dyskinetic Medicated Patient With Parkinson's Disease. Front Neurosci. 2020; 14:391. PMID: [32390796](//www.ncbi.nlm.nih.gov/pubmed/32390796); PMCID: [PMC7193777](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7193777).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32390796/citedby/)
+
+  18. Jiang T, Pellizzer G, Asman P, Bastos D, [Bhavsar S](https://profiles.viictr.org/profile/12583929), [Tummala S](https://profiles.viictr.org/profile/12583010), [Prabhu S](https://profiles.viictr.org/profile/12583765), **Ince NF**. Power Modulations of ECoG Alpha/Beta and Gamma Bands Correlate With Time-Derivative of Force During Hand Grasp. Front Neurosci. 2020; 14:100. PMID: [32116533](//www.ncbi.nlm.nih.gov/pubmed/32116533); PMCID: [PMC7033626](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7033626).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32116533/citedby/)
+
+  19. [Kaku H](https://profiles.viictr.org/profile/37567609), Ozturk M, [Viswanathan A](https://profiles.viictr.org/profile/267899), Shahed J, [Sheth SA](https://profiles.viictr.org/profile/23479136), Kumar S, **Ince NF**. Unsupervised clustering reveals spatially varying single neuronal firing patterns in the subthalamic nucleus of patients with Parkinson's disease. Clin Park Relat Disord. 2020; 3:100032. PMID: [34316618](//www.ncbi.nlm.nih.gov/pubmed/34316618); PMCID: [PMC8298773](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8298773).
+
+Citations:
+
+  20. Ozturk M, Abosch A, Francis D, Wu J, Jimenez-Shahed J, **Ince NF**. Distinct subthalamic coupling in the ON state describes motor performance in Parkinson's disease. Mov Disord. 2020 01; 35(1):91-100. PMID: [31348550](//www.ncbi.nlm.nih.gov/pubmed/31348550).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31348550/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  21. [Kaku H](https://profiles.viictr.org/profile/37567609), Ozturk M, [Viswanathan A](https://profiles.viictr.org/profile/267899), Jimenez-Shahed J, [Sheth S](https://profiles.viictr.org/profile/23479136), **Ince NF**. Grouping Neuronal Spiking Patterns in the Subthalamic Nucleus of Parkinsonian Patients. Annu Int Conf IEEE Eng Med Biol Soc. 2019 Jul; 2019:4221-4224. PMID: [31946800](//www.ncbi.nlm.nih.gov/pubmed/31946800).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31946800/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansCells
+
+  22. Telkes I, [Viswanathan A](https://profiles.viictr.org/profile/267899), Jimenez-Shahed J, Abosch A, Ozturk M, Gupte A, [Jankovic J](https://profiles.viictr.org/profile/267402), **Ince NF**. Local field potentials of subthalamic nucleus contain electrophysiological footprints of motor subtypes of Parkinson's disease. Proc Natl Acad Sci U S A. 2018 09 04; 115(36):E8567-E8576. PMID: [30131429](//www.ncbi.nlm.nih.gov/pubmed/30131429); PMCID: [PMC6130371](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6130371).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30131429/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCTClinical Trials
+
+  23. Jiang T, Jiang T, Wang T, Mei S, Liu Q, Li Y, Wang X, Prabhu S, Sha Z, **Ince NF**. Investigation of the Influence of ECoG Grid Spatial Density on Decoding Hand Flexion and Extension. Annu Int Conf IEEE Eng Med Biol Soc. 2018 Jul; 2018:3052-3055. PMID: [30441039](//www.ncbi.nlm.nih.gov/pubmed/30441039).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  24. Liu S, Gurses C, Sha Z, [Quach MM](https://profiles.viictr.org/profile/269280), Sencer A, Bebek N, [Curry DJ](https://profiles.viictr.org/profile/265950), [Prabhu S](https://profiles.viictr.org/profile/12583765), [Tummala S](https://profiles.viictr.org/profile/12583010), Henry TR, **Ince NF**. Stereotyped high-frequency oscillations discriminate seizure onset zones and critical functional cortex in focal epilepsy. Brain. 2018 03 01; 141(3):713-730. PMID: [29394328](//www.ncbi.nlm.nih.gov/pubmed/29394328); PMCID: [PMC6715109](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6715109).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29394328/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:Humans
+
+  25. Jiang T, Liu S, Pellizzer G, Aydoseli A, Karamursel S, Sabanci PA, Sencer A, Gurses C, **Ince NF**. Characterization of Hand Clenching in Human Sensorimotor Cortex Using High-, and Ultra-High Frequency Band Modulations of Electrocorticogram. Front Neurosci. 2018; 12:110. PMID: [29535603](//www.ncbi.nlm.nih.gov/pubmed/29535603); PMCID: [PMC5835101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5835101).
+
+Citations:
+
+  26. Potter T, Li S, Nguyen T, Nguyen T, **Ince N** , Zhang Y. Characterization of Volume-Based Changes in Cortical Auditory Evoked Potentials and Prepulse Inhibition. Sci Rep. 2017 09 11; 7(1):11098. PMID: [28894145](//www.ncbi.nlm.nih.gov/pubmed/28894145); PMCID: [PMC5593922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5593922).
+
+Citations:
+
+  27. Thompson JA, Tekriwal A, Felsen G, Ozturk M, Telkes I, Wu J, **Ince NF** , Abosch A. Sleep patterns in Parkinson's disease: direct recordings from the subthalamic nucleus. J Neurol Neurosurg Psychiatry. 2018 01; 89(1):95-104. PMID: [28866626](//www.ncbi.nlm.nih.gov/pubmed/28866626).
+
+Citations:
+
+  28. Siddiqui H, Ray S, Asman P, Ozturk M, **Ince NF**. A portable platform to collect and review behavioral data simultaneously with neurophysiological signals. Annu Int Conf IEEE Eng Med Biol Soc. 2017 Jul; 2017:1784-1787. PMID: [29060234](//www.ncbi.nlm.nih.gov/pubmed/29060234).
+
+Citations:
+
+  29. Liu S, [Quach MM](https://profiles.viictr.org/profile/269280), [Curry DJ](https://profiles.viictr.org/profile/265950), Ummat M, [Seto E](https://profiles.viictr.org/profile/3009512), **Ince NF**. High-frequency oscillations detected in ECoG recordings correlate with cavernous malformation and seizure-free outcome in a child with focal epilepsy: A case report. Epilepsia Open. 2017 06; 2(2):267-272. PMID: [29588956](//www.ncbi.nlm.nih.gov/pubmed/29588956); PMCID: [PMC5719856](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5719856).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29588956/citedby/) Fields:
+
+Neu Neurology
+
+  30. Jiang T, Jiang T, Wang T, Mei S, Liu Q, Li Y, Wang X, Prabhu S, Sha Z, **Ince NF**. Characterization and Decoding the Spatial Patterns of Hand Extension/Flexion using High-Density ECoG. IEEE Trans Neural Syst Rehabil Eng. 2017 04; 25(4):370-379. PMID: [28060708](//www.ncbi.nlm.nih.gov/pubmed/28060708).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28060708/citedby/) Fields:
+
+Bio Biomedical EngineeringPhy Physical and Rehabilitation Me
+
+Translation:Humans
+
+  31. Tekriwal A, Kern DS, Tsai J, **Ince NF** , Wu J, Thompson JA, Abosch A. REM sleep behaviour disorder: prodromal and mechanistic insights for Parkinson's disease. J Neurol Neurosurg Psychiatry. 2017 05; 88(5):445-451. PMID: [27965397](//www.ncbi.nlm.nih.gov/pubmed/27965397).
+
+Citations:
+
+  32. Jimenez-Shahed J, Telkes I, [Viswanathan A](https://profiles.viictr.org/profile/267899), **Ince NF**. GPi Oscillatory Activity Differentiates Tics from the Resting State, Voluntary Movements, and the Unmedicated Parkinsonian State. Front Neurosci. 2016; 10:436. PMID: [27733815](//www.ncbi.nlm.nih.gov/pubmed/27733815); PMCID: [PMC5039204](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5039204).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27733815/citedby/)
+
+  33. Telkes I, Jimenez-Shahed J, [Viswanathan A](https://profiles.viictr.org/profile/267899), Abosch A, **Ince NF**. Prediction of STN-DBS Electrode Implantation Track in Parkinson's Disease by Using Local Field Potentials. Front Neurosci. 2016; 10:198. PMID: [27242404](//www.ncbi.nlm.nih.gov/pubmed/27242404); PMCID: [PMC4860394](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4860394).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27242404/citedby/)
+
+  34. Liu S, Sha Z, Sencer A, Aydoseli A, Bebek N, Abosch A, Henry T, Gurses C, **Ince NF**. Exploring the time-frequency content of high frequency oscillations for automated identification of seizure onset zone in epilepsy. J Neural Eng. 2016 Apr; 13(2):026026. PMID: [26924828](//www.ncbi.nlm.nih.gov/pubmed/26924828).
+
+Citations:
+
+  35. Meloni G, Sen A, Abosch A, **Ince NF**. Spatial distribution of nonlinear interactions in subthalamic nucleus local field potentials in Parkinson'S disease. Annu Int Conf IEEE Eng Med Biol Soc. 2015 Aug; 2015:5557-60. PMID: [26737551](//www.ncbi.nlm.nih.gov/pubmed/26737551).
+
+Citations:
+
+  36. Li D, Jiang T, **Ince NF** , Zhan S, Zhang J, Sha Z, Sun B, Cao C. Resting state cortical oscillations of patients with Parkinson disease and with and without subthalamic deep brain stimulation: a magnetoencephalography study. J Clin Neurophysiol. 2015 Apr; 32(2):109-18. PMID: [25233246](//www.ncbi.nlm.nih.gov/pubmed/25233246).
+
+Citations:
+
+  37. Jiang T, **Ince NF** , Jiang T, Wang T, Mei S, Li Y, Wang X, Sha Z. Local spatial correlation analysis of hand flexion/extension using intraoperative high-density ECoG. Annu Int Conf IEEE Eng Med Biol Soc. 2015; 2015:6190-3. PMID: [26737706](//www.ncbi.nlm.nih.gov/pubmed/26737706).
+
+Citations:
+
+  38. Liu S, **Ince NF** , Abosch A, Henry TR, Sha Z. Investigation of automatically detected high frequency oscillations (HFOs) as an early predictor of seizure onset zone. Annu Int Conf IEEE Eng Med Biol Soc. 2015; 2015:6602-5. PMID: [26737806](//www.ncbi.nlm.nih.gov/pubmed/26737806).
+
+Citations:
+
+  39. Thompson JA, Lanctin D, **Ince NF** , Abosch A. Clinical implications of local field potentials for understanding and treating movement disorders. Stereotact Funct Neurosurg. 2014; 92(4):251-63. PMID: [25170784](//www.ncbi.nlm.nih.gov/pubmed/25170784).
+
+Citations:
+
+  40. Abosch A, Lanctin D, Onaran I, Eberly L, Spaniol M, **Ince NF**. Long-term recordings of local field potentials from implanted deep brain stimulation electrodes. Neurosurgery. 2012 Oct; 71(4):804-14. PMID: [22791039](//www.ncbi.nlm.nih.gov/pubmed/22791039).
+
+Citations:
+
+  41. **Ince NF** , Gupta R, Arica S, Tewfik AH, Ashe J, Pellizzer G. High accuracy decoding of movement target direction in non-human primates based on common spatial patterns of local field potentials. PLoS One. 2010 Dec 21; 5(12):e14384. PMID: [21200434](//www.ncbi.nlm.nih.gov/pubmed/21200434); PMCID: [PMC3006173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3006173).
+
+Citations:
+
+  42. Tzagarakis C, **Ince NF** , Leuthold AC, Pellizzer G. Beta-band activity during motor planning reflects response uncertainty. J Neurosci. 2010 Aug 25; 30(34):11270-7. PMID: [20739547](//www.ncbi.nlm.nih.gov/pubmed/20739547); PMCID: [PMC6633326](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6633326).
+
+Citations:
+
+  43. **Ince NF** , Gupte A, Wichmann T, Ashe J, Henry T, Bebler M, Eberly L, Abosch A. Selection of optimal programming contacts based on local field potential recordings from subthalamic nucleus in patients with Parkinson's disease. Neurosurgery. 2010 Aug; 67(2):390-7. PMID: [20644424](//www.ncbi.nlm.nih.gov/pubmed/20644424); PMCID: [PMC4319368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4319368).
+
+Citations:
+
+  44. Stephane M, **Ince NF** , Kuskowski M, Leuthold A, Tewfik AH, Nelson K, McClannahan K, Fletcher CR, Tadipatri VA. Neural oscillations associated with the primacy and recency effects of verbal working memory. Neurosci Lett. 2010 Apr 12; 473(3):172-7. PMID: [20176084](//www.ncbi.nlm.nih.gov/pubmed/20176084).
+
+Citations:
+
+  45. **Ince NF** , Pellizzer G, Tewfik AH, Nelson K, Leuthold A, McClannahan K, Stephane M. Classification of schizophrenia with spectro-temporo-spatial MEG patterns in working memory. Clin Neurophysiol. 2009 Jun; 120(6):1123-34. PMID: [19467924](//www.ncbi.nlm.nih.gov/pubmed/19467924).
+
+Citations:
+
+  46. Gowreesunker BV, Tewfik AH, Tadipatri VA, **Ince NF** , Ashe J, Pellizzer G. Overcoming measurement time variability in brain machine interface. Annu Int Conf IEEE Eng Med Biol Soc. 2009; 2009:3134-7. PMID: [19963572](//www.ncbi.nlm.nih.gov/pubmed/19963572).
+
+Citations:
+
+  47. **Ince NF** , Tadipatri VA, Tewfik AH, G?ksu F. Denoising of multiscale/multiresolution structural feature dictionaries for rapid training of a brain computer interface. Annu Int Conf IEEE Eng Med Biol Soc. 2009; 2009:21-4. PMID: [19965103](//www.ncbi.nlm.nih.gov/pubmed/19965103).
+
+Citations:
+
+  48. Stephane M, **Ince NF** , Leuthold A, Pellizzer G, Tewfik AH, Surerus C, Kuskowski M, McClannahan K. Temporospatial characterization of brain oscillations (TSCBO) associated with subprocesses of verbal working memory in schizophrenia. Clin EEG Neurosci. 2008 Oct; 39(4):194-202. PMID: [19044218](//www.ncbi.nlm.nih.gov/pubmed/19044218).
+
+Citations:
+
+  49. **Ince NF** , Tadipatri VA, Tewfik AH, G?ksu F. Classification of EEG with structural feature dictionaries in a brain computer interface. Annu Int Conf IEEE Eng Med Biol Soc. 2008; 2008:1001-4. PMID: [19162827](//www.ncbi.nlm.nih.gov/pubmed/19162827).
+
+Citations:
+
+  50. **Ince NF** , Goksu F, Pellizzer G, Tewfik A, Stephane M. Selection of spectro-temporal patterns in multichannel MEG with support vector machines for schizophrenia classification. Annu Int Conf IEEE Eng Med Biol Soc. 2008; 2008:3554-7. PMID: [19163476](//www.ncbi.nlm.nih.gov/pubmed/19163476).
+
+Citations:
+
+  51. Min CH, **Ince NF** , Tewfik AH. Classification of continuously executed early morning activities using wearable wireless sensors. Annu Int Conf IEEE Eng Med Biol Soc. 2008; 2008:5192-5. PMID: [19163887](//www.ncbi.nlm.nih.gov/pubmed/19163887).
+
+Citations:
+
+  52. **Ince NF** , Tewfik AH, Arica S. Extraction subject-specific motor imagery time-frequency patterns for single trial EEG classification. Comput Biol Med. 2007 Apr; 37(4):499-508. PMID: [17010962](//www.ncbi.nlm.nih.gov/pubmed/17010962).
+
+Citations:
+
+  53. **Ince NF** , Arica S, Tewfik A. Classification of single trial motor imagery EEG recordings with subject adapted non-dyadic arbitrary time-frequency tilings. J Neural Eng. 2006 Sep; 3(3):235-44. PMID: [16921207](//www.ncbi.nlm.nih.gov/pubmed/16921207).
+
+Citations:
+
+  54. **Ince NF** , Tewfik AH, Arica S. A space-time-frequency analysis approach for the classification motor imagery EEG recordings in a brain computer interface task. Conf Proc IEEE Eng Med Biol Soc. 2006; 2006:2581-4. PMID: [17946524](//www.ncbi.nlm.nih.gov/pubmed/17946524).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 54 publications over 16 distinct years, with a maximum of
+6 publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,50,0,67,50,67,0,17,0,17,67,67,83,67,50,50,33,100,67,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 3  
+2008| 4  
+2009| 3  
+2010| 4  
+2012| 1  
+2014| 1  
+2015| 4  
+2016| 4  
+2017| 5  
+2018| 4  
+2019| 3  
+2020| 3  
+2021| 2  
+2022| 6  
+2023| 4  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+INCE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (141)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Electroencephalography](https://profiles.viictr.org/profile/262248)
+  * [Motor Cortex](https://profiles.viictr.org/profile/256281)
+  * [Subthalamic Nucleus](https://profiles.viictr.org/profile/245461)
+  * [Electrocorticography](https://profiles.viictr.org/profile/27544484)
+  * [Parkinson Disease](https://profiles.viictr.org/profile/260216)
+
+[Explore](https://profiles.viictr.org/profile/38813499/198)
+
+_
+
+Co-Authors (20)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [VISWANATHAN, ASHWIN](https://profiles.viictr.org/profile/267899)
+  * [SHETH, SAMEER](https://profiles.viictr.org/profile/23479136)
+  * [Kaku, Heet](https://profiles.viictr.org/profile/37567609)
+  * [PRABHU, SUJIT S](https://profiles.viictr.org/profile/12583765)
+  * [TUMMALA, SUDHAKAR](https://profiles.viictr.org/profile/12583010)
+
+[Explore](https://profiles.viictr.org/profile/38813499/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+  * [SHETH, SAMEER](https://profiles.viictr.org/profile/23479136)
+  * [CHANG, EDWARD I-FEI](https://profiles.viictr.org/profile/12583166)
+  * [HANEEF, ZULFI](https://profiles.viictr.org/profile/268515)
+  * [GOODMAN, WAYNE](https://profiles.viictr.org/profile/17873564)
+
+[Explore](https://profiles.viictr.org/profile/38813499/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ANASTAS, JAMIE](https://profiles.viictr.org/profile/33092477)
+  * [DASTAGIRZADA, YOSEF](https://profiles.viictr.org/profile/49466789)
+  * [LANG, FREDERICK](https://profiles.viictr.org/profile/265574)
+  * [PATEL, DAXA](https://profiles.viictr.org/profile/41109795)
+  * [ROBERTSON, CLAUDIA](https://profiles.viictr.org/profile/269529)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqBnbuqhfSUKgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

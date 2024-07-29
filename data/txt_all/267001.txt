@@ -1,0 +1,967 @@
+## GAD SHAULSKY
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Mao06EXFI4a7Q4v4&rnd=756022d6-24a3-4608-a2cc-
+bfd5b841a4b4)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267001)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267001&cachekey=72c62fc4-1c72-43fb-
+aa09-cbdf6afafe5c)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Education, Innovation & Technology  
+Division| Department of Education, Innovation  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Affiliation  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+groups
+
+  * [Dr. Shaulsky's Group](https://profiles.viictr.org/profile/28672289) (Member) 
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+T32GM139534 (SHAULSKY, GAD)Jul 1, 2021 - Jun 30, 2026NIH  
+Genetics & Genomics Training Program  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R35GM118016 (SHAULSKY, GAD)May 12, 2016 - Apr 30, 2021NIH  
+The molecular basis of allorecognition and its roles in development and
+evolution of the social amoeba D. discoideum  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM098276 (SHAULSKY, GAD)May 1, 2012 - Apr 30, 2015NIH  
+The role of kin-recognition in social evolution  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM084992 (SHAULSKY, GAD)Sep 30, 2009 - Aug 31, 2017NIH  
+The Molecular Basis of Allorecognition in Social Amoeba  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21HD055923 (SHAULSKY, GAD)Aug 1, 2007 - Jul 31, 2009NIH  
+Genetic Analysis of Dedifferentiation  
+Role: Principal Investigator  
+  
+* * *  
+  
+P01HD039691 (KUSPA, ADAM)Jun 19, 2001 - Apr 30, 2018NIH  
+Functional Genomics of Dictyostelium  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R21AA012381 (SHAULSKY, GAD)Mar 1, 2000 - Feb 28, 2002NIH  
+MECHANISMS OF ETHANOL TOXICITY IN DICTYOSTELIUM  
+Role: Principal Investigator  
+  
+* * *  
+  
+T32GM008307 (SHAULSKY, GAD)Jul 1, 1990 - Jun 30, 2021NIH  
+Program in Human and Molecular Genetics  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Katoh-Kurasawa M, [Lehmann P](https://profiles.viictr.org/profile/14348440), **Shaulsky G**. The greenbeard gene tgrB1 regulates altruism and cheating in Dictyostelium discoideum. Nat Commun. 2024 May 11; 15(1):3984. PMID: [38734736](//www.ncbi.nlm.nih.gov/pubmed/38734736); PMCID: [PMC11088635](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11088635).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  2. Hirose S, Katoh-Kurasawa M, **Shaulsky G**. Cyclic AMP is dispensable for allorecognition in Dictyostelium cells overexpressing PKA-C. J Cell Sci. 2021 07 15; 134(14). PMID: [34169317](//www.ncbi.nlm.nih.gov/pubmed/34169317); PMCID: [PMC8325953](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8325953).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  3. Katoh-Kurasawa M, Hrovatin K, Hirose S, Webb A, Ho HI, **Shaulsky G** , Zupan B. Transcriptional milestones in Dictyostelium development. Genome Res. 2021 08; 31(8):1498-1511. PMID: [34183452](//www.ncbi.nlm.nih.gov/pubmed/34183452); PMCID: [PMC8327917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8327917).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34183452/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  4. Kundert P, Sarrion-Perdigones A, Gonzalez Y, Katoh-Kurasawa M, Hirose S, [Lehmann P](https://profiles.viictr.org/profile/14348440), [Venken KJT](https://profiles.viictr.org/profile/3010184), **Shaulsky G**. A GoldenBraid cloning system for synthetic biology in social amoebae. Nucleic Acids Res. 2020 05 07; 48(8):4139-4146. PMID: [32232356](//www.ncbi.nlm.nih.gov/pubmed/32232356); PMCID: [PMC7192589](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7192589).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32232356/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  5. Ilenic N, Copar A, Pretnar A, Toplak M, Hartman J, Wang H, Bellazzi R, Garagna S, Zuccotti M, [Park D](https://profiles.viictr.org/profile/3939890), **Shaulsky G** , Godec P, Pancur M, Stra?ar M, Erjavec A, Dem?ar J, Staric A, ?agar L, Petrovic U, Zupan B. Democratized image analytics by visual programming through integration of deep models and small-scale machine learning. Nat Commun. 2019 10 07; 10(1):4551. PMID: [31591416](//www.ncbi.nlm.nih.gov/pubmed/31591416); PMCID: [PMC6779910](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6779910).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31591416/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  6. Tanko V, Policar PG, **Shaulsky G** , Menon V, Lemire A, Parikh A, Stra?ar M, ?agar L, Koko?ar J, Erjavec A, Staric A, Dem?ar J, Zupan B. scOrange-a tool for hands-on training of concepts from single-cell data analytics. Bioinformatics. 2019 07 15; 35(14):i4-i12. PMID: [31510695](//www.ncbi.nlm.nih.gov/pubmed/31510695); PMCID: [PMC6612816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6612816).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31510695/citedby/) Fields:
+
+Com Computational Biology
+
+  7. Chen X, Luck K, Dinh CQ, **Shaulsky G** , [Nelson DR](https://profiles.viictr.org/profile/269694), Gershenzon J, Chen F, Rabe P, Dickschat JS, K?llner TG. A terpene synthase-cytochrome P450 cluster in Dictyostelium discoideum produces a novel trisnorsesquiterpene. Elife. 2019 05 07; 8. PMID: [31063135](//www.ncbi.nlm.nih.gov/pubmed/31063135); PMCID: [PMC6524965](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6524965).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31063135/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  8. Rubin M, Miller AD, Katoh-Kurasawa M, Dinh C, Kuspa A, **Shaulsky G**. Cooperative predation in the social amoebae Dictyostelium discoideum. PLoS One. 2019; 14(1):e0209438. PMID: [30625171](//www.ncbi.nlm.nih.gov/pubmed/30625171); PMCID: [PMC6326426](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6326426).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30625171/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  9. Kuspa A, **Shaulsky G**. (Auto)Biographical reflections on the contributions of William F. Loomis (1940-2016) to Dictyostelium biology. Int J Dev Biol. 2019; 63(8-9-10):343-357. PMID: [31840774](//www.ncbi.nlm.nih.gov/pubmed/31840774).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31840774/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  10. Kundert P, **Shaulsky G**. Cellular allorecognition and its roles in Dictyostelium development and social evolution. Int J Dev Biol. 2019; 63(8-9-10):383-393. PMID: [31840777](//www.ncbi.nlm.nih.gov/pubmed/31840777); PMCID: [PMC6919275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6919275).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31840777/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  11. Chen X, **Shaulsky G** , Jia Q, Gershenzon J, Chen F, K?llner TG, Dickschat JS. Diversity and Functional Evolution of Terpene Synthases in Dictyostelid Social Amoebae. Sci Rep. 2018 09 25; 8(1):14361. PMID: [30254228](//www.ncbi.nlm.nih.gov/pubmed/30254228); PMCID: [PMC6156593](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6156593).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30254228/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  12. Swatson WS, Katoh-Kurasawa M, **Shaulsky G** , Alexander S. Curcumin affects gene expression and reactive oxygen species via a PKA dependent mechanism in Dictyostelium discoideum. PLoS One. 2017; 12(11):e0187562. PMID: [29135990](//www.ncbi.nlm.nih.gov/pubmed/29135990); PMCID: [PMC5685611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5685611).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29135990/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  13. Hirose S, Chen G, Kuspa A, **Shaulsky G**. The polymorphic proteins TgrB1 and TgrC1 function as a ligand-receptor pair in Dictyostelium allorecognition. J Cell Sci. 2017 Dec 01; 130(23):4002-4012. PMID: [29038229](//www.ncbi.nlm.nih.gov/pubmed/29038229); PMCID: [PMC5769593](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5769593).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29038229/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  14. Stajdohar M, Rosengarten RD, Kokosar J, Jeran L, Blenkus D, **Shaulsky G** , [Zupan B](https://profiles.viictr.org/profile/3494054). dictyExpress: a web-based platform for sequence data management and analytics in Dictyostelium and beyond. BMC Bioinformatics. 2017 Jun 02; 18(1):291. PMID: [28578698](//www.ncbi.nlm.nih.gov/pubmed/28578698); PMCID: [PMC5457571](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5457571).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28578698/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  15. Rosengarten RD, Santhanam B, Kokosar J, **Shaulsky G**. The Long Noncoding RNA Transcriptome of Dictyostelium discoideum Development. G3 (Bethesda). 2017 02 09; 7(2):387-398. PMID: [27932387](//www.ncbi.nlm.nih.gov/pubmed/27932387); PMCID: [PMC5295588](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5295588).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27932387/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:AnimalsCells
+
+  16. The polymorphic proteins TgrB1 and TgrC1 function as a ligand-receptor pair in Dictyostelium allorecognition. J Cell Sci. 2017; 130(23):4002-4012.
+
+  17. Chen X, Jia Q, Norris A, Santhanam B, **Shaulsky G** , Gershenzon J, Chen F, K?llner TG, Rabe P, Dickschat JS. Terpene synthase genes in eukaryotes beyond plants and fungi: Occurrence in social amoebae. Proc Natl Acad Sci U S A. 2016 10 25; 113(43):12132-12137. PMID: [27790999](//www.ncbi.nlm.nih.gov/pubmed/27790999); PMCID: [PMC5087028](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5087028).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27790999/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  18. Li CL, Santhanam B, Webb AN, **Shaulsky G** , Zupan B. Gene discovery by chemical mutagenesis and whole-genome sequencing in Dictyostelium. Genome Res. 2016 09; 26(9):1268-76. PMID: [27307293](//www.ncbi.nlm.nih.gov/pubmed/27307293); PMCID: [PMC5052037](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5052037).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27307293/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  19. Katoh-Kurasawa M, Santhanam B, **Shaulsky G**. The GATA transcription factor gene gtaG is required for terminal differentiation in Dictyostelium. J Cell Sci. 2016 04 15; 129(8):1722-1733. PMID: [26962009](//www.ncbi.nlm.nih.gov/pubmed/26962009); PMCID: [PMC4852770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4852770).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26962009/citedby/) Fields:
+
+Cel Cell Biology
+
+  20. Nam EA, Dinh C, Kuspa A, **Shaulsky G** , ?itnik M, Zupan B. Gene Prioritization by Compressive Data Fusion and Chaining. PLoS Comput Biol. 2015 Oct; 11(10):e1004552. PMID: [26465776](//www.ncbi.nlm.nih.gov/pubmed/26465776); PMCID: [PMC4605714](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4605714).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26465776/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  21. Hirose S, Santhanam B, Katoh-Kurosawa M, **Shaulsky G** , Kuspa A. Allorecognition, via TgrB1 and TgrC1, mediates the transition from unicellularity to multicellularity in the social amoeba Dictyostelium discoideum. Development. 2015 Oct 15; 142(20):3561-70. PMID: [26395484](//www.ncbi.nlm.nih.gov/pubmed/26395484); PMCID: [PMC4631765](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4631765).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26395484/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  22. Li CL, Chen G, Webb AN, **Shaulsky G**. Altered N-glycosylation modulates TgrB1- and TgrC1-mediated development but not allorecognition in Dictyostelium. J Cell Sci. 2015 Nov 01; 128(21):3990-6. PMID: [26359303](//www.ncbi.nlm.nih.gov/pubmed/26359303); PMCID: [PMC4647166](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4647166).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26359303/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  23. Santhanam B, Cai H, Devreotes PN, **Shaulsky G** , Katoh-Kurasawa M. The GATA transcription factor GtaC regulates early developmental gene expression dynamics in Dictyostelium. Nat Commun. 2015 Jul 06; 6:7551. PMID: [26144553](//www.ncbi.nlm.nih.gov/pubmed/26144553); PMCID: [PMC4506546](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4506546).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26144553/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  24. Ostrowski EA, Shen Y, Tian X, Sucgang R, Jiang H, Qu J, Katoh-Kurasawa M, Brock DA, Dinh C, Lara-Garduno F, Lee SL, Kovar CL, Dinh HH, Korchina V, Jackson L, Patil S, [Han Y](https://profiles.viictr.org/profile/269818), Chaboub L, **Shaulsky G** , [Muzny DM](https://profiles.viictr.org/profile/268028), [Worley KC](https://profiles.viictr.org/profile/266909), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Richards S](https://profiles.viictr.org/profile/266888), Kuspa A, Strassmann JE, Queller DC. Genomic signatures of cooperation and conflict in the social amoeba. Curr Biol. 2015 Jun 15; 25(12):1661-5. PMID: [26051890](//www.ncbi.nlm.nih.gov/pubmed/26051890); PMCID: [PMC4591038](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4591038).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26051890/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  25. Rosengarten RD, Beltran PR, **Shaulsky G**. A deep coverage Dictyostelium discoideum genomic DNA library replicates stably in Escherichia coli. Genomics. 2015 Oct; 106(4):249-55. PMID: [26028264](//www.ncbi.nlm.nih.gov/pubmed/26028264); PMCID: [PMC4575855](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4575855).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26028264/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  26. Ho HI, **Shaulsky G**. Temporal regulation of kin recognition maintains recognition-cue diversity and suppresses cheating. Nat Commun. 2015 May 28; 6:7144. PMID: [26018043](//www.ncbi.nlm.nih.gov/pubmed/26018043); PMCID: [PMC4448137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4448137).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26018043/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  27. Wang Y, **Shaulsky G**. TgrC1 Has Distinct Functions in Dictyostelium Development and Allorecognition. PLoS One. 2015; 10(4):e0124270. PMID: [25894230](//www.ncbi.nlm.nih.gov/pubmed/25894230); PMCID: [PMC4404348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4404348).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25894230/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  28. Rosengarten RD, Santhanam B, Fuller D, Katoh-Kurasawa M, Loomis WF, [Zupan B](https://profiles.viictr.org/profile/3494054), **Shaulsky G**. Leaps and lulls in the developmental transcriptome of Dictyostelium discoideum. BMC Genomics. 2015 Apr 13; 16:294. PMID: [25887420](//www.ncbi.nlm.nih.gov/pubmed/25887420); PMCID: [PMC4403905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4403905).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25887420/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  29. Miranda ER, Nam EA, Kuspa A, **Shaulsky G**. The ABC transporter, AbcB3, mediates cAMP export in D. discoideum development. Dev Biol. 2015 Jan 15; 397(2):203-11. PMID: [25448698](//www.ncbi.nlm.nih.gov/pubmed/25448698); PMCID: [PMC4277735](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4277735).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25448698/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  30. Yang A, Albu M, Cote AG, Drewe P, Najafabadi HS, Lambert SA, Mann I, Cook K, Zheng H, van Bakel H, Galli M, Lewsey MG, Huang E, Mukherjee T, Chen X, Reece-Hoyes JS, Govindarajan S, **Shaulsky G** , Walhout AJM, Ratsch G, Ecker JR, Hughes TR, Weirauch MT, Montenegro-Montero A, Goity A, Lozano JC, Bouget FY, Larrondo LF. Determination and inference of eukaryotic transcription factor sequence specificity. Cell. 2014 Sep 11; 158(6):1431-1443. PMID: [25215497](//www.ncbi.nlm.nih.gov/pubmed/25215497); PMCID: [PMC4163041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4163041).
+
+Citations:
+[626](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25215497/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  31. Cai H, Katoh-Kurasawa M, Muramoto T, Santhanam B, Long Y, Li L, Ueda M, Iglesias PA, **Shaulsky G** , Devreotes PN. Nucleocytoplasmic shuttling of a GATA transcription factor functions as a development timer. Science. 2014 Mar 21; 343(6177):1249531. PMID: [24653039](//www.ncbi.nlm.nih.gov/pubmed/24653039); PMCID: [PMC4061987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4061987).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24653039/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  32. Miranda ER, Zhuchenko O, Toplak M, Santhanam B, [Zupan B](https://profiles.viictr.org/profile/3494054), Kuspa A, **Shaulsky G**. ABC transporters in Dictyostelium discoideum development. PLoS One. 2013; 8(8):e70040. PMID: [23967067](//www.ncbi.nlm.nih.gov/pubmed/23967067); PMCID: [PMC3743828](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3743828).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23967067/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  33. Ho HI, Hirose S, Kuspa A, **Shaulsky G**. Kin recognition protects cooperators against cheaters. Curr Biol. 2013 Aug 19; 23(16):1590-5. PMID: [23910661](//www.ncbi.nlm.nih.gov/pubmed/23910661); PMCID: [PMC3759992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3759992).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23910661/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  34. Nasser W, Santhanam B, Miranda ER, Parikh A, Juneja K, Rot G, Dinh C, [Chen R](https://profiles.viictr.org/profile/266790), [Zupan B](https://profiles.viictr.org/profile/3494054), **Shaulsky G** , Kuspa A. Bacterial discrimination by dictyostelid amoebae reveals the complexity of ancient interspecies interactions. Curr Biol. 2013 May 20; 23(10):862-72. PMID: [23664307](//www.ncbi.nlm.nih.gov/pubmed/23664307); PMCID: [PMC3914002](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3914002).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23664307/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  35. Santorelli LA, Kuspa A, **Shaulsky G** , Queller DC, Strassmann JE. A new social gene in Dictyostelium discoideum, chtB. BMC Evol Biol. 2013 Jan 09; 13:4. PMID: [23298336](//www.ncbi.nlm.nih.gov/pubmed/23298336); PMCID: [PMC3559258](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3559258).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23298336/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  36. Miranda ER, Rot G, Toplak M, Santhanam B, Curk T, **Shaulsky G** , [Zupan B](https://profiles.viictr.org/profile/3494054). Transcriptional profiling of Dictyostelium with RNA sequencing. Methods Mol Biol. 2013; 983:139-71. PMID: [23494306](//www.ncbi.nlm.nih.gov/pubmed/23494306); PMCID: [PMC3892559](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3892559).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23494306/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  37. Huang E, Talukder S, Hughes TR, Curk T, [Zupan B](https://profiles.viictr.org/profile/3494054), **Shaulsky G** , Katoh-Kurasawa M. BzpF is a CREB-like transcription factor that regulates spore maturation and stability in Dictyostelium. Dev Biol. 2011 Oct 01; 358(1):137-46. PMID: [21810415](//www.ncbi.nlm.nih.gov/pubmed/21810415); PMCID: [PMC3180911](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3180911).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21810415/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  38. Phillips JE, Huang E, **Shaulsky G** , Gomer RH. The putative bZIP transcription factor BzpN slows proliferation and functions in the regulation of cell density by autocrine signals in Dictyostelium. PLoS One. 2011; 6(7):e21765. PMID: [21760904](//www.ncbi.nlm.nih.gov/pubmed/21760904); PMCID: [PMC3131300](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3131300).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21760904/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  39. Hirose S, Benabentos R, Ho HI, Kuspa A, **Shaulsky G**. Self-recognition in social amoebae is mediated by allelic pairs of tiger genes. Science. 2011 Jul 22; 333(6041):467-70. PMID: [21700835](//www.ncbi.nlm.nih.gov/pubmed/21700835); PMCID: [PMC3142563](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3142563).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21700835/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  40. Loomis WF, **Shaulsky G**. Developmental changes in transcriptional profiles. Dev Growth Differ. 2011 May; 53(4):567-75. PMID: [21447097](//www.ncbi.nlm.nih.gov/pubmed/21447097).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21447097/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  41. Sucgang R, Kuo A, Tian X, Salerno W, Parikh A, Feasley CL, Dalin E, Tu H, Huang E, Barry K, Lindquist E, Shapiro H, Bruce D, Schmutz J, Salamov A, Fey P, Gaudet P, Anjard C, Babu MM, Basu S, Bushmanova Y, van der Wel H, Katoh-Kurasawa M, Dinh C, Coutinho PM, Saito T, Elias M, Schaap P, Kay RR, Henrissat B, Eichinger L, Rivero F, Putnam NH, West CM, Loomis WF, Chisholm RL, **Shaulsky G** , Strassmann JE, Queller DC, Kuspa A, Grigoriev IV. Comparative genomics of the social amoebae Dictyostelium discoideum and Dictyostelium purpureum. Genome Biol. 2011; 12(2):R20. PMID: [21356102](//www.ncbi.nlm.nih.gov/pubmed/21356102); PMCID: [PMC3188802](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3188802).
+
+Citations:
+[78](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21356102/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  42. Parikh A, Huang E, Dinh C, [Zupan B](https://profiles.viictr.org/profile/3494054), Kuspa A, Subramanian D, **Shaulsky G**. New components of the Dictyostelium PKA pathway revealed by Bayesian analysis of expression data. BMC Bioinformatics. 2010 Mar 31; 11:163. PMID: [20356373](//www.ncbi.nlm.nih.gov/pubmed/20356373); PMCID: [PMC2873529](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2873529).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20356373/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  43. Parikh A, Miranda ER, Katoh-Kurasawa M, Fuller D, Rot G, Zagar L, Curk T, Sucgang R, [Chen R](https://profiles.viictr.org/profile/266790), [Zupan B](https://profiles.viictr.org/profile/3494054), Loomis WF, Kuspa A, **Shaulsky G**. Conserved developmental transcriptomes in evolutionarily divergent species. Genome Biol. 2010; 11(3):R35. PMID: [20236529](//www.ncbi.nlm.nih.gov/pubmed/20236529); PMCID: [PMC2864575](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2864575).
+
+Citations:
+[110](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20236529/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  44. Khare A, **Shaulsky G**. Cheating by exploitation of developmental prestalk patterning in Dictyostelium discoideum. PLoS Genet. 2010 Feb 26; 6(2):e1000854. PMID: [20195510](//www.ncbi.nlm.nih.gov/pubmed/20195510); PMCID: [PMC2829058](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2829058).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20195510/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  45. Khare A, Santorelli LA, Strassmann JE, Queller DC, Kuspa A, **Shaulsky G**. Cheater-resistance is not futile. Nature. 2009 Oct 15; 461(7266):980-2. PMID: [19794414](//www.ncbi.nlm.nih.gov/pubmed/19794414).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19794414/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  46. Rot G, Parikh A, Curk T, Kuspa A, **Shaulsky G** , [Zupan B](https://profiles.viictr.org/profile/3494054). dictyExpress: a Dictyostelium discoideum gene expression database with an explorative data analysis web-based interface. BMC Bioinformatics. 2009 Aug 25; 10:265. PMID: [19706156](//www.ncbi.nlm.nih.gov/pubmed/19706156); PMCID: [PMC2738683](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2738683).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19706156/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Animals
+
+  47. Ostrowski EA, **Shaulsky G**. Learning to get along despite struggling to get by. Genome Biol. 2009; 10(5):218. PMID: [19519929](//www.ncbi.nlm.nih.gov/pubmed/19519929); PMCID: [PMC2718508](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2718508).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19519929/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  48. Benabentos R, Hirose S, Sucgang R, Curk T, Katoh M, Ostrowski EA, Strassmann JE, Queller DC, [Zupan B](https://profiles.viictr.org/profile/3494054), **Shaulsky G** , Kuspa A. Polymorphic members of the lag gene family mediate kin discrimination in Dictyostelium. Curr Biol. 2009 Apr 14; 19(7):567-72. PMID: [19285397](//www.ncbi.nlm.nih.gov/pubmed/19285397); PMCID: [PMC2694408](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2694408).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19285397/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  49. Ostrowski EA, Katoh M, **Shaulsky G** , Queller DC, Strassmann JE. Kin discrimination increases with genetic distance in a social amoeba. PLoS Biol. 2008 Nov 25; 6(11):e287. PMID: [19067487](//www.ncbi.nlm.nih.gov/pubmed/19067487); PMCID: [PMC2586364](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2586364).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19067487/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  50. Fey P, Gaudet P, Curk T, [Zupan B](https://profiles.viictr.org/profile/3494054), Just EM, Basu S, Merchant SN, Bushmanova YA, **Shaulsky G** , Kibbe WA, Chisholm RL. dictyBase--a Dictyostelium bioinformatics resource update. Nucleic Acids Res. 2009 Jan; 37(Database issue):D515-9. PMID: [18974179](//www.ncbi.nlm.nih.gov/pubmed/18974179); PMCID: [PMC2686522](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2686522).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18974179/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  51. Santorelli LA, Thompson CR, Villegas E, Svetz J, Dinh C, Parikh A, Sucgang R, Kuspa A, Strassmann JE, Queller DC, **Shaulsky G**. Facultative cheater mutants reveal the genetic complexity of cooperation in social amoebae. Nature. 2008 Feb 28; 451(7182):1107-10. PMID: [18272966](//www.ncbi.nlm.nih.gov/pubmed/18272966).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18272966/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  52. Katoh M, Chen G, Roberge E, **Shaulsky G** , Kuspa A. Developmental commitment in Dictyostelium discoideum. Eukaryot Cell. 2007 Nov; 6(11):2038-45. PMID: [17905919](//www.ncbi.nlm.nih.gov/pubmed/17905919); PMCID: [PMC2168402](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2168402).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17905919/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  53. Van Driessche N, Alexander H, Min J, Kuspa A, Alexander S, **Shaulsky G**. Global transcriptional responses to cisplatin in Dictyostelium discoideum identify potential drug targets. Proc Natl Acad Sci U S A. 2007 Sep 25; 104(39):15406-11. PMID: [17878305](//www.ncbi.nlm.nih.gov/pubmed/17878305); PMCID: [PMC2000517](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2000517).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17878305/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  54. **Shaulsky G** , Kessin RH. The cold war of the social amoebae. Curr Biol. 2007 Aug 21; 17(16):R684-92. PMID: [17714662](//www.ncbi.nlm.nih.gov/pubmed/17714662).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17714662/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  55. Mendoza MC, Booth EO, **Shaulsky G** , Firtel RA. MEK1 and protein phosphatase 4 coordinate Dictyostelium development and chemotaxis. Mol Cell Biol. 2007 May; 27(10):3817-27. PMID: [17353263](//www.ncbi.nlm.nih.gov/pubmed/17353263); PMCID: [PMC1899987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1899987).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17353263/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  56. Mehdiabadi NJ, Jack CN, Farnham TT, Platt TG, Kalla SE, **Shaulsky G** , Queller DC, Strassmann JE. Social evolution: kin preference in a social microbe. Nature. 2006 Aug 24; 442(7105):881-2. PMID: [16929288](//www.ncbi.nlm.nih.gov/pubmed/16929288).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16929288/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  57. Khare A, **Shaulsky G**. First among equals: competition between genetically identical cells. Nat Rev Genet. 2006 Jul; 7(7):577-83. PMID: [16702983](//www.ncbi.nlm.nih.gov/pubmed/16702983).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16702983/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  58. Chubb JR, Bloomfield G, Xu Q, Kaller M, Ivens A, Skelton J, Turner BM, Nellen W, **Shaulsky G** , Kay RR, Bickmore WA, Singer RH. Developmental timing in Dictyostelium is regulated by the Set1 histone methyltransferase. Dev Biol. 2006 Apr 15; 292(2):519-32. PMID: [16469305](//www.ncbi.nlm.nih.gov/pubmed/16469305).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16469305/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  59. Huang E, Blagg SL, Keller T, Katoh M, **Shaulsky G** , Thompson CR. bZIP transcription factor interactions regulate DIF responses in Dictyostelium. Development. 2006 Feb; 133(3):449-58. PMID: [16410410](//www.ncbi.nlm.nih.gov/pubmed/16410410); PMCID: [PMC3531922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3531922).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16410410/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  60. Katoh M, Curk T, Xu Q, [Zupan B](https://profiles.viictr.org/profile/3494054), Kuspa A, **Shaulsky G**. Developmentally regulated DNA methylation in Dictyostelium discoideum. Eukaryot Cell. 2006 Jan; 5(1):18-25. PMID: [16400165](//www.ncbi.nlm.nih.gov/pubmed/16400165); PMCID: [PMC1360260](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1360260).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16400165/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  61. Song J, Xu Q, Olsen R, Loomis WF, **Shaulsky G** , Kuspa A, Sucgang R. Comparing the Dictyostelium and Entamoeba genomes reveals an ancient split in the Conosa lineage. PLoS Comput Biol. 2005 Dec; 1(7):e71. PMID: [16362072](//www.ncbi.nlm.nih.gov/pubmed/16362072); PMCID: [PMC1314882](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1314882).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16362072/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansAnimals
+
+  62. Booth EO, Van Driessche N, Zhuchenko O, Kuspa A, **Shaulsky G**. Microarray phenotyping in Dictyostelium reveals a regulon of chemotaxis genes. Bioinformatics. 2005 Dec 15; 21(24):4371-7. PMID: [16234315](//www.ncbi.nlm.nih.gov/pubmed/16234315).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16234315/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  63. Juvan P, Demsar J, **Shaulsky G** , [Zupan B](https://profiles.viictr.org/profile/3494054). GenePath: from mutations to genetic networks and back. Nucleic Acids Res. 2005 Jul 01; 33(Web Server issue):W749-52. PMID: [15980576](//www.ncbi.nlm.nih.gov/pubmed/15980576); PMCID: [PMC1160187](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1160187).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15980576/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  64. Van Driessche N, Demsar J, Booth EO, Hill P, Juvan P, [Zupan B](https://profiles.viictr.org/profile/3494054), Kuspa A, **Shaulsky G**. Epistasis analysis with global transcriptional phenotypes. Nat Genet. 2005 May; 37(5):471-7. PMID: [15821735](//www.ncbi.nlm.nih.gov/pubmed/15821735).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15821735/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  65. Xu Q, **Shaulsky G**. GOAT: An R Tool for Analysing Gene Ontologytrade mark Term Enrichment. Appl Bioinformatics. 2005; 4(4):281-3. PMID: [16309346](//www.ncbi.nlm.nih.gov/pubmed/16309346).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16309346/citedby/) Fields:
+
+Med Medical Informatics
+
+  66. Kreppel L, **Shaulsky G** , Schleicher M, Kimmel AR, Faix J. A rapid and efficient method to generate multiple gene disruptions in Dictyostelium discoideum using a single selectable marker and the Cre-loxP system. Nucleic Acids Res. 2004 Oct 26; 32(19):e143. PMID: [15507682](//www.ncbi.nlm.nih.gov/pubmed/15507682); PMCID: [PMC528815](//www.ncbi.nlm.nih.gov/pmc/articles/PMC528815).
+
+Citations:
+[130](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15507682/citedby/)
+Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  67. Foster KR, **Shaulsky G** , Strassmann JE, Queller DC, Thompson CR. Pleiotropy as a mechanism to stabilize cooperation. Nature. 2004 Oct 07; 431(7009):693-6. PMID: [15470429](//www.ncbi.nlm.nih.gov/pubmed/15470429).
+
+Citations:
+[100](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15470429/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  68. Xu Q, Ibarra M, Mahadeo D, [Shaw C](https://profiles.viictr.org/profile/269433), Huang E, Kuspa A, Cotter D, **Shaulsky G**. Transcriptional transitions during Dictyostelium spore germination. Eukaryot Cell. 2004 Oct; 3(5):1101-10. PMID: [15470238](//www.ncbi.nlm.nih.gov/pubmed/15470238); PMCID: [PMC522591](//www.ncbi.nlm.nih.gov/pmc/articles/PMC522591).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15470238/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  69. Curk T, Demsar J, Xu Q, Leban G, Petrovic U, Bratko I, **Shaulsky G** , [Zupan B](https://profiles.viictr.org/profile/3494054). Microarray data mining with visual programming. Bioinformatics. 2005 Feb 01; 21(3):396-8. PMID: [15308546](//www.ncbi.nlm.nih.gov/pubmed/15308546).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15308546/citedby/) Fields:
+
+Com Computational Biology
+
+  70. Maeda M, [Lu S](https://profiles.viictr.org/profile/12582998), **Shaulsky G** , Miyazaki Y, Kuwayama H, Tanaka Y, Kuspa A, Loomis WF. Periodic signaling controlled by an oscillatory circuit that includes protein kinases ERK2 and PKA. Science. 2004 May 07; 304(5672):875-8. PMID: [15131307](//www.ncbi.nlm.nih.gov/pubmed/15131307).
+
+Citations:
+[74](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15131307/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  71. Chen G, **Shaulsky G** , Kuspa A. Tissue-specific G1-phase cell-cycle arrest prior to terminal differentiation in Dictyostelium. Development. 2004 Jun; 131(11):2619-30. PMID: [15128662](//www.ncbi.nlm.nih.gov/pubmed/15128662).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15128662/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  72. Katoh M, [Shaw C](https://profiles.viictr.org/profile/269433), Xu Q, Van Driessche N, Morio T, Kuwayama H, Obara S, Urushihara H, Tanaka Y, **Shaulsky G**. An orderly retreat: Dedifferentiation is a regulated process. Proc Natl Acad Sci U S A. 2004 May 04; 101(18):7005-10. PMID: [15103019](//www.ncbi.nlm.nih.gov/pubmed/15103019); PMCID: [PMC406456](//www.ncbi.nlm.nih.gov/pmc/articles/PMC406456).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15103019/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  73. Thompson CR, Fu Q, Buhay C, Kay RR, **Shaulsky G**. A bZIP/bRLZ transcription factor required for DIF signaling in Dictyostelium. Development. 2004 Feb; 131(3):513-23. PMID: [14729573](//www.ncbi.nlm.nih.gov/pubmed/14729573).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14729573/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  74. Kibler K, Svetz J, Nguyen TL, [Shaw C](https://profiles.viictr.org/profile/269433), **Shaulsky G**. A cell-adhesion pathway regulates intercellular communication during Dictyostelium development. Dev Biol. 2003 Dec 15; 264(2):506-21. PMID: [14651934](//www.ncbi.nlm.nih.gov/pubmed/14651934).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14651934/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  75. [Zupan B](https://profiles.viictr.org/profile/3494054), Bratko I, Demsar J, Juvan P, Curk T, Borstnik U, Beck JR, Halter J, Kuspa A, **Shaulsky G**. GenePath: a system for inference of genetic networks and proposal of genetic experiments. Artif Intell Med. 2003 Sep-Oct; 29(1-2):107-30. PMID: [12957783](//www.ncbi.nlm.nih.gov/pubmed/12957783).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12957783/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:HumansAnimals
+
+  76. Kibler K, Nguyen TL, Svetz J, Van Driessche N, Ibarra M, Thompson C, [Shaw C](https://profiles.viictr.org/profile/269433), **Shaulsky G**. A novel developmental mechanism in Dictyostelium revealed in a screen for communication mutants. Dev Biol. 2003 Jul 15; 259(2):193-208. PMID: [12871696](//www.ncbi.nlm.nih.gov/pubmed/12871696).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12871696/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  77. Good JR, Cabral M, Sharma S, Yang J, Van Driessche N, [Shaw CA](https://profiles.viictr.org/profile/269433), **Shaulsky G** , Kuspa A. TagA, a putative serine protease/ABC transporter of Dictyostelium that is required for cell fate determination at the onset of development. Development. 2003 Jul; 130(13):2953-65. PMID: [12756178](//www.ncbi.nlm.nih.gov/pubmed/12756178).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12756178/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  78. Sucgang R, Chen G, Liu W, Lindsay R, Lu J, [Muzny D](https://profiles.viictr.org/profile/268028), **Shaulsky G** , Loomis W, Gibbs R, Kuspa A. Sequence and structure of the extrachromosomal palindrome encoding the ribosomal RNA genes in Dictyostelium. Nucleic Acids Res. 2003 May 01; 31(9):2361-8. PMID: [12711681](//www.ncbi.nlm.nih.gov/pubmed/12711681); PMCID: [PMC154234](//www.ncbi.nlm.nih.gov/pmc/articles/PMC154234).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12711681/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  79. [Zupan B](https://profiles.viictr.org/profile/3494054), Demsar J, Bratko I, Juvan P, Halter JA, Kuspa A, **Shaulsky G**. GenePath: a system for automated construction of genetic networks from mutant data. Bioinformatics. 2003 Feb 12; 19(3):383-9. PMID: [12584124](//www.ncbi.nlm.nih.gov/pubmed/12584124).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12584124/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Animals
+
+  80. **Shaulsky G** , Loomis WF. Gene expression patterns in Dictyostelium using microarrays. Protist. 2002 Jun; 153(2):93-8. PMID: [12125760](//www.ncbi.nlm.nih.gov/pubmed/12125760).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12125760/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  81. Van Driessche N, [Shaw C](https://profiles.viictr.org/profile/269433), Katoh M, Morio T, Sucgang R, Ibarra M, Kuwayama H, Saito T, Urushihara H, Maeda M, Takeuchi I, Ochiai H, Eaton W, Tollett J, Halter J, Kuspa A, Tanaka Y, **Shaulsky G**. A transcriptional profile of multicellular development in Dictyostelium discoideum. Development. 2002 Apr; 129(7):1543-52. PMID: [11923193](//www.ncbi.nlm.nih.gov/pubmed/11923193).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11923193/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 81 publications over 20 distinct years, with a maximum of
+9 publications in
+2015](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:0,0,0,0,0,0,0,0,22,67,89,56,56,44,33,44,33,56,0,56,33,100,33,56,11,67,11,22,0,0,11&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 2  
+2003| 6  
+2004| 8  
+2005| 5  
+2006| 5  
+2007| 4  
+2008| 3  
+2009| 4  
+2010| 3  
+2011| 5  
+2013| 5  
+2014| 3  
+2015| 9  
+2016| 3  
+2017| 5  
+2018| 1  
+2019| 6  
+2020| 1  
+2021| 2  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SHAULSKY's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (257)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Dictyostelium](https://profiles.viictr.org/profile/251225)
+  * [Protozoan Proteins](https://profiles.viictr.org/profile/261606)
+  * [Spores, Protozoan](https://profiles.viictr.org/profile/255180)
+  * [Genes, Protozoan](https://profiles.viictr.org/profile/252553)
+  * [Cyclic AMP](https://profiles.viictr.org/profile/261356)
+
+[Explore](https://profiles.viictr.org/profile/267001/198)
+
+_
+
+Co-Authors (14)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ZUPAN, BLAZ](https://profiles.viictr.org/profile/3494054)
+  * [KURASAWA, MARIKO](https://profiles.viictr.org/profile/266309)
+  * [Lehmann, Peter](https://profiles.viictr.org/profile/14348440)
+  * [SHAW, CHAD](https://profiles.viictr.org/profile/269433)
+  * [VENKEN, KOEN](https://profiles.viictr.org/profile/3010184)
+
+[Explore](https://profiles.viictr.org/profile/267001/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZUPAN, BLAZ](https://profiles.viictr.org/profile/3494054)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [SUESS, PATRICK](https://profiles.viictr.org/profile/40252767)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [FARINHOLT, TIMOTHY](https://profiles.viictr.org/profile/1826504)
+
+[Explore](https://profiles.viictr.org/profile/267001/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DANG, WEIWEI](https://profiles.viictr.org/profile/269019)
+  * [GINGRAS, MARIE-CLAUDE](https://profiles.viictr.org/profile/266579)
+  * [HEANEY, JASON](https://profiles.viictr.org/profile/268694)
+  * [KALLA, SARA](https://profiles.viictr.org/profile/35133535)
+  * [ZEMET LAZAR, RONI](https://profiles.viictr.org/profile/29922400)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BACINO, CARLOS](https://profiles.viictr.org/profile/266588)
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [BEKHEIRNIA, MIR REZA](https://profiles.viictr.org/profile/267181)
+  * [SCOTT, DARYL](https://profiles.viictr.org/profile/269153)
+  * [WORLEY, KIM](https://profiles.viictr.org/profile/266909)
+
+_
+

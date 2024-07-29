@@ -1,0 +1,220 @@
+## KEI OKOCHI
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Psychiatry & Behavioral Sciences  
+Address| 6501 Fannin St  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Ha45r0rML4j9T6%2fv43aML7CZ&rnd=fc185a3c-fcd0-44a9-84c0-df8690538e5c)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=38374061)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Barrera K, Stanek A, **Okochi K** , Niewiadomska Z, Mueller C, Ou P, John D, Alfonso AE, Tenner S, Huan C. Acinar cell injury induced by inadequate unfolded protein response in acute pancreatitis. World J Gastrointest Pathophysiol. 2018 Sep 29; 9(2):37-46. PMID: [30283709](//www.ncbi.nlm.nih.gov/pubmed/30283709); PMCID: [PMC6163129](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6163129).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30283709/citedby/)
+
+  2. Parker WE, Orlova KA, Parker WH, Birnbaum JF, Krymskaya VP, Goncharov DA, Baybis M, Helfferich J, **Okochi K** , Strauss KA, Crino PB. Rapamycin prevents seizures after depletion of STRADA in a rare neurodevelopmental disorder. Sci Transl Med. 2013 Apr 24; 5(182):182ra53. PMID: [23616120](//www.ncbi.nlm.nih.gov/pubmed/23616120); PMCID: [PMC3720125](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3720125).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23616120/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  3. Tsai V, Parker WE, Orlova KA, Baybis M, Chi AW, Berg BD, Birnbaum JF, Estevez J, **Okochi K** , Sarnat HB, Flores-Sarnat L, Aronica E, Crino PB. Fetal brain mTOR signaling activation in tuberous sclerosis complex. Cereb Cortex. 2014 Feb; 24(2):315-27. PMID: [23081885](//www.ncbi.nlm.nih.gov/pubmed/23081885); PMCID: [PMC3888364](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3888364).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23081885/citedby/) Fields:
+
+Bra Brain
+
+Translation:HumansAnimalsCells
+
+  4. Ino Y, Kubo T, Kitabata H, Shimamura K, Shiono Y, Orii M, **Okochi K** , Sougawa H, Tanimoto T, Komukai K, Ishibashi K, Takarada S, Nakanishi H, Tanaka A, Kimura K, Hirata K, Mizukoshi M, Imanishi T, Akasaka T. Impact of hinge motion on in-stent restenosis after sirolimus-eluting stent implantation. Circ J. 2011; 75(8):1878-84. PMID: [21628832](//www.ncbi.nlm.nih.gov/pubmed/21628832).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21628832/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:HumansCTClinical Trials
+
+  5. Liu Y, Imanishi T, Ikejima H, Tsujioka H, Ozaki Y, Kuroi A, **Okochi K** , Ishibashi K, Tanimoto T, Ino Y, Kitabata H, Akasaka T. Association between circulating monocyte subsets and in-stent restenosis after coronary stent implantation in patients with ST-elevation myocardial infarction. Circ J. 2010 Nov; 74(12):2585-91. PMID: [20944435](//www.ncbi.nlm.nih.gov/pubmed/20944435).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20944435/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:HumansCells
+
+  6. Kashiwagi M, Kitabata H, Tanaka A, **Okochi K** , Ishibashi K, Komukai K, Tanimoto T, Ino Y, Takarada S, Kubo T, Hirata K, Mizukoshi M, Imanishi T, Akasaka T. Very late clinical cardiac event after BMS implantation: in vivo optical coherence tomography examination. JACC Cardiovasc Imaging. 2010 May; 3(5):525-7. PMID: [20466349](//www.ncbi.nlm.nih.gov/pubmed/20466349).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20466349/citedby/) Fields:
+
+Car CardiologyDia Diagnostic ImagingVas Vascular Diseases
+
+Translation:Humans
+
+  7. Tsujioka H, Imanishi T, Ikejima H, Tanimoto T, Kuroi A, Kashiwagi M, **Okochi K** , Ishibashi K, Komukai K, Ino Y, Kitabata H, Akasaka T. Post-reperfusion enhancement of CD14(+)CD16(-) monocytes and microvascular obstruction in ST-segment elevation acute myocardial infarction. Circ J. 2010 Jun; 74(6):1175-82. PMID: [20453385](//www.ncbi.nlm.nih.gov/pubmed/20453385).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20453385/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:HumansCells
+
+  8. Kataiwa H, Tanaka A, Kitabata H, Matsumoto H, Kashiwagi M, Kuroi A, Ikejima H, Tsujioka H, **Okochi K** , Tanimoto T, Yamano T, Takarada S, Nakamura N, Kubo T, Mizukoshi M, Hirata K, Imanishi T, Akasaka T. Head to head comparison between the conventional balloon occlusion method and the non-occlusion method for optical coherence tomography. Int J Cardiol. 2011 Jan 21; 146(2):186-90. PMID: [19664829](//www.ncbi.nlm.nih.gov/pubmed/19664829).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19664829/citedby/) Fields:
+
+Car Cardiology
+
+Translation:HumansCTClinical Trials
+
+  9. Tsujioka H, Imanishi T, Ikejima H, Kuroi A, Takarada S, Tanimoto T, Kitabata H, **Okochi K** , Arita Y, Ishibashi K, Komukai K, Kataiwa H, Nakamura N, Hirata K, Tanaka A, Akasaka T. Impact of heterogeneity of human peripheral blood monocyte subsets on myocardial salvage in patients with primary acute myocardial infarction. J Am Coll Cardiol. 2009 Jul 07; 54(2):130-8. PMID: [19573729](//www.ncbi.nlm.nih.gov/pubmed/19573729).
+
+Citations:
+[140](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19573729/citedby/)
+Fields:
+
+Car Cardiology
+
+Translation:HumansCells
+
+  10. Kitabata H, Imanishi T, Kubo T, Takarada S, Kashiwagi M, Matsumoto H, Tsujioka H, Ikejima H, Arita Y, **Okochi K** , Kuroi A, Ueno S, Kataiwa H, Tanimoto T, Yamano T, Hirata K, Nakamura N, Tanaka A, Mizukoshi M, Akasaka T. Coronary microvascular resistance index immediately after primary percutaneous coronary intervention as a predictor of the transmural extent of infarction in patients with ST-segment elevation anterior acute myocardial infarction. JACC Cardiovasc Imaging. 2009 Mar; 2(3):263-72. PMID: [19356570](//www.ncbi.nlm.nih.gov/pubmed/19356570).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19356570/citedby/) Fields:
+
+Car CardiologyDia Diagnostic ImagingVas Vascular Diseases
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 10 publications over 6 distinct years, with a maximum of 3
+publications in 2009 and
+2010](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,33,33,33,0,0,0,0,33,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2009| 3  
+2010| 3  
+2011| 1  
+2012| 1  
+2013| 1  
+2018| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+OKOCHI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (85)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Angioplasty, Balloon, Coronary](https://profiles.viictr.org/profile/247843)
+  * [Monocytes](https://profiles.viictr.org/profile/264440)
+  * [Graft Occlusion, Vascular](https://profiles.viictr.org/profile/259033)
+  * [Myocardial Infarction](https://profiles.viictr.org/profile/256795)
+  * [Lipopolysaccharide Receptors](https://profiles.viictr.org/profile/249062)
+
+[Explore](https://profiles.viictr.org/profile/38374061/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BIRNBAUM, YOCHAI](https://profiles.viictr.org/profile/265899)
+  * [FRANGOGIANNIS, NIKOLAOS](https://profiles.viictr.org/profile/266669)
+  * [KLEIMAN, NEAL](https://profiles.viictr.org/profile/267822)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [BALLANTYNE, CHRISTIE](https://profiles.viictr.org/profile/266404)
+
+[Explore](https://profiles.viictr.org/profile/38374061/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRYAN, JENNIFER](https://profiles.viictr.org/profile/21983645)
+  * [GOODMAN, HEATHER](https://profiles.viictr.org/profile/269683)
+  * [HOEFLEIN, BRANDON](https://profiles.viictr.org/profile/37104297)
+  * [STANLEY, MELINDA](https://profiles.viictr.org/profile/269075)
+  * [STEINBERG, TARA](https://profiles.viictr.org/profile/268867)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqBwqdsLc16uFjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

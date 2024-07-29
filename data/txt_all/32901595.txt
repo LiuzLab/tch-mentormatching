@@ -1,0 +1,262 @@
+## JEANINE VAN NOSTRAND
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HK4x72zJJcXDR4HD72jWOLWCIzGIlChMFRg5&rnd=1667f8ce-15a8-432c-a7b9-25608305567e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=32901595)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R35GM146762 (VAN NOSTRAND, JEANINE L)Sep 16, 2022 - Jul 31, 2027NIH  
+The functional role of mTORC1 regulation by AMPK in cellular metabolic
+reprogramming  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+F31CA167917 (FREY, JEANINE L)Mar 1, 2012 - Mar 15, 2017NIH  
+Elucidating the in vivo Role of the p53 Apoptosis-Specific Target Gene Siva  
+Role: Co-Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Oravecz-Wilson K, Lauder E, Taylor A, Maneix L, **Van Nostrand JL** , Sun Y, Li L, Zhao D, Liu C, Reddy P. Autophagy differentially regulates tissue tolerance of distinct target organs in graft-versus-host disease models. J Clin Invest. 2024 Mar 01; 134(5). PMID: [38426503](//www.ncbi.nlm.nih.gov/pubmed/38426503); PMCID: [PMC10904048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10904048).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  2. Hung CM, Lombardo PS, Malik N, Brun SN, Hellberg K, **Van Nostrand JL** , Garcia D, Baumgart J, Diffenderfer K, Asara JM, Shaw RJ. AMPK/ULK1-mediated phosphorylation of Parkin ACT domain mediates an early step in mitophagy. Sci Adv. 2021 04; 7(15). PMID: [33827825](//www.ncbi.nlm.nih.gov/pubmed/33827825); PMCID: [PMC8026119](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8026119).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33827825/citedby/) Fields:
+
+Sci Science
+
+  3. **Van Nostrand JL** , Hellberg K, Luo EC, [Van Nostrand EL](https://profiles.viictr.org/profile/30426460), Dayn A, Yu J, Shokhirev MN, Dayn Y, Yeo GW, Shaw RJ. AMPK regulation of Raptor and TSC2 mediate metformin effects on transcriptional control of anabolism and inflammation. Genes Dev. 2020 10 01; 34(19-20):1330-1344. PMID: [32912901](//www.ncbi.nlm.nih.gov/pubmed/32912901); PMCID: [PMC7528705](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7528705).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32912901/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  4. Bowen ME, McClendon J, Long HK, Sorayya A, **Van Nostrand JL** , Wysocka J, Attardi LD. The Spatiotemporal Pattern and Intensity of p53 Activation Dictates Phenotypic Diversity in p53-Driven Developmental Syndromes. Dev Cell. 2019 07 22; 50(2):212-228.e6. PMID: [31178404](//www.ncbi.nlm.nih.gov/pubmed/31178404); PMCID: [PMC6650355](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6650355).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31178404/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  5. Jacobs SBR, **Van Nostrand JL** , Bowen ME, Baker JC, Attardi LD. Siva plays a critical role in mouse embryonic development. Cell Death Differ. 2020 01; 27(1):297-309. PMID: [31164717](//www.ncbi.nlm.nih.gov/pubmed/31164717); PMCID: [PMC7205994](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7205994).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31164717/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  6. **Van Nostrand JL** , Bowen ME, Vogel H, Barna M, Attardi LD. The p53 family members have distinct roles during mammalian embryonic development. Cell Death Differ. 2017 04; 24(4):575-579. PMID: [28211873](//www.ncbi.nlm.nih.gov/pubmed/28211873); PMCID: [PMC5384018](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5384018).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28211873/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  7. Svensson RU, Parker SJ, Eichner LJ, Kolar MJ, Wallace M, Brun SN, Lombardo PS, **Van Nostrand JL** , Hutchins A, Vera L, Gerken L, Harriman G, Westlin WF, Harwood HJ, Saghatelian A, Kapeller R, Metallo CM, Shaw RJ, Greenwood J, Bhat S. Inhibition of acetyl-CoA carboxylase suppresses fatty acid synthesis and tumor growth of non-small-cell lung cancer in preclinical models. Nat Med. 2016 10; 22(10):1108-1119. PMID: [27643638](//www.ncbi.nlm.nih.gov/pubmed/27643638); PMCID: [PMC5053891](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5053891).
+
+Citations:
+[171](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27643638/citedby/)
+Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  8. Young NP, Kamireddy A, **Van Nostrand JL** , Eichner LJ, Shokhirev MN, Dayn Y, Shaw RJ. AMPK governs lineage specification through Tfeb-dependent regulation of lysosomes. Genes Dev. 2016 Mar 01; 30(5):535-52. PMID: [26944679](//www.ncbi.nlm.nih.gov/pubmed/26944679); PMCID: [PMC4782048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4782048).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26944679/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  9. **Van Nostrand JL** , Mello SS, Jacobs SB, Luong R, Attardi LD, Brisac A. The p53 Target Gene SIVA Enables Non-Small Cell Lung Cancer Development. Cancer Discov. 2015 Jun; 5(6):622-35. PMID: [25813352](//www.ncbi.nlm.nih.gov/pubmed/25813352); PMCID: [PMC4456277](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4456277).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25813352/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  10. **Van Nostrand JL** , Brady CA, Jung H, Fuentes DR, Kozak MM, Johnson TM, Lin CY, Lin CJ, Swiderski DL, Vogel H, Bernstein JA, Chang CP, Wysocka J, Martin DM, Attardi LD, Atti?-Bitach T. Inappropriate p53 activation during development induces features of CHARGE syndrome. Nature. 2014 Oct 09; 514(7521):228-32. PMID: [25119037](//www.ncbi.nlm.nih.gov/pubmed/25119037); PMCID: [PMC4192026](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4192026).
+
+Citations:
+[81](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25119037/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  11. **Van Nostrand JL** , Attardi LD. Guilty as CHARGED: p53's expanding role in disease. Cell Cycle. 2014; 13(24):3798-807. PMID: [25483057](//www.ncbi.nlm.nih.gov/pubmed/25483057); PMCID: [PMC4613992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4613992).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25483057/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 8 distinct years, with a maximum of 2
+publications in 2014 and 2016 and
+2019](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,50,100,50,0,100,50,50,0,0,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2014| 2  
+2015| 1  
+2016| 2  
+2017| 1  
+2019| 2  
+2020| 1  
+2021| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+VAN NOSTRAND's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (99)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Tumor Suppressor Protein p53](https://profiles.viictr.org/profile/245072)
+  * [Regulatory-Associated Protein of mTOR](https://profiles.viictr.org/profile/27545691)
+  * [AMP-Activated Protein Kinases](https://profiles.viictr.org/profile/257419)
+  * [Metformin](https://profiles.viictr.org/profile/256480)
+  * [Apoptosis Regulatory Proteins](https://profiles.viictr.org/profile/260140)
+
+[Explore](https://profiles.viictr.org/profile/32901595/198)
+
+_
+
+Co-Authors (1)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [VAN NOSTRAND, ERIC](https://profiles.viictr.org/profile/30426460)
+
+[Explore](https://profiles.viictr.org/profile/32901595/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LOZANO, GUILLERMINA](https://profiles.viictr.org/profile/12582900)
+  * [ANDREEFF, MICHAEL](https://profiles.viictr.org/profile/12582880)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [HEYMACH, JOHN VICTOR](https://profiles.viictr.org/profile/12582703)
+  * [BEHRINGER, RICHARD R](https://profiles.viictr.org/profile/12582530)
+
+[Explore](https://profiles.viictr.org/profile/32901595/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHANG, ERIC](https://profiles.viictr.org/profile/267726)
+  * [KIM, JEAN](https://profiles.viictr.org/profile/3494074)
+  * [LEWIS, MICHAEL](https://profiles.viictr.org/profile/267000)
+  * [MCCLENDON, LISA](https://profiles.viictr.org/profile/266065)
+  * [MOSES, ROBB](https://profiles.viictr.org/profile/268514)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

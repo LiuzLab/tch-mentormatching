@@ -1,0 +1,404 @@
+## RYAN DHINDSA
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| 6621 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BLIx7yvjKIL7QpzswHnBJ%2fqJIwQ%3d&rnd=09d063e0-065f-4568-891b-e222394001f8)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=35089811)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Mitchell J, Camacho N, Shea P, Stopsack KH, Joseph V, Burren O, **Dhindsa R** , Nag A, Berchuck JE, O'Neill A, Abbasi A, [Zoghbi AW](https://profiles.viictr.org/profile/35020841), Alegre-D?az J, Kuri-Morales P, Berumen J, Tapia-Conyer R, Emberson J, Torres JM, Collins R, Wang Q, Goldstein D, Matakidou A, Haefliger C, Anderson-Dring L, March R, Jobanputra V, Dougherty B, Carss K, Petrovski S, Kantoff PW, Offit K, Mucci LA, Pomerantz M, Fabre MA. Characterising the contribution of rare protein-coding germline variants to prostate cancer risk and severity in 37,184 cases. medRxiv. 2024 May 10. PMID: [38766261](//www.ncbi.nlm.nih.gov/pubmed/38766261); PMCID: [PMC11100931](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11100931).
+
+Citations:
+
+  2. Middleton L, Melas I, Vasavda C, Raies A, Rozemberczki B, **Dhindsa RS** , [Dhindsa JS](https://profiles.viictr.org/profile/48770497), Weido B, Wang Q, Harper AR, Edwards G, Petrovski S, Vitsios D. Phenome-wide identification of therapeutic genetic targets, leveraging knowledge graphs, graph neural networks, and UK Biobank data. Sci Adv. 2024 May 10; 10(19):eadj1424. PMID: [38718126](//www.ncbi.nlm.nih.gov/pubmed/38718126); PMCID: [PMC11078195](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11078195).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Humans
+
+  3. **Dhindsa RS** , Petrovski S. An expanded genomic database for identifying disease-related variants. Nature. 2024 Jan; 625(7993):32-34. PMID: [38057462](//www.ncbi.nlm.nih.gov/pubmed/38057462).
+
+Citations:  Fields:
+
+Sci Science
+
+  4. **Dhindsa RS** , Burren OS, Sun BB, Prins BP, Matelska D, Wheeler E, Mitchell J, Oerton E, Hristova VA, Smith KR, Carss K, Wasilewski S, Harper AR, Paul DS, Fabre MA, Runz H, Viollet C, Challis B, Platt A, AstraZeneca Genomics Initiative, Vitsios D, Ashley EA, Whelan CD, Pangalos MN, Wang Q, Petrovski S. Rare variant associations with plasma protein levels in the UK Biobank. Nature. 2023 Oct; 622(7982):339-347. PMID: [37794183](//www.ncbi.nlm.nih.gov/pubmed/37794183); PMCID: [PMC10567546](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10567546).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37794183/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  5. Dugger SA, **Dhindsa RS** , Sampaio GA, Ressler AK, Rafikian EE, Petri S, Letts VA, Teoh J, Ye J, Colombo S, Peng Y, Yang M, Boland MJ, Frankel WN, Goldstein DB. Neurodevelopmental deficits and cell-type-specific transcriptomic perturbations in a mouse model of HNRNPU haploinsufficiency. PLoS Genet. 2023 Oct; 19(10):e1010952. PMID: [37782669](//www.ncbi.nlm.nih.gov/pubmed/37782669); PMCID: [PMC10569524](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10569524).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37782669/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  6. [Deisseroth CA](https://profiles.viictr.org/profile/37800263), Lee WS, Kim J, [Jeong HH](https://profiles.viictr.org/profile/15317861), **Dhindsa RS** , Wang J, [Zoghbi HY](https://profiles.viictr.org/profile/267945), [Liu Z](https://profiles.viictr.org/profile/266153). Literature-based predictions of Mendelian disease therapies. Am J Hum Genet. 2023 10 05; 110(10):1661-1672. PMID: [37741276](//www.ncbi.nlm.nih.gov/pubmed/37741276); PMCID: [PMC10577072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10577072).
+
+Citations:  Fields:
+
+Gen Genetics
+
+  7. Raies A, Tulodziecka E, Stainer J, Middleton L, **Dhindsa RS** , Hill P, Engkvist O, Harper AR, Petrovski S, Vitsios D. Author Correction: DrugnomeAI is an ensemble machine-learning framework for predicting druggability of candidate drug targets. Commun Biol. 2023 Jul 11; 6(1):710. PMID: [37433831](//www.ncbi.nlm.nih.gov/pubmed/37433831); PMCID: [PMC10336124](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10336124).
+
+Citations:
+
+  8. Wu SR, Butts JC, [Caudill MS](https://profiles.viictr.org/profile/21983716), Revelli JP, **Dhindsa RS** , Durham MA, [Zoghbi HY](https://profiles.viictr.org/profile/267945). Atoh1 drives the heterogeneity of the pontine nuclei neurons and promotes their differentiation. Sci Adv. 2023 06 30; 9(26):eadg1671. PMID: [37390208](//www.ncbi.nlm.nih.gov/pubmed/37390208); PMCID: [PMC10313176](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10313176).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37390208/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  9. Colombo S, Reddy HP, Petri S, Williams DJ, Shalomov B, **Dhindsa RS** , Gelfman S, Krizay D, Bera AK, Yang M, Peng Y, Makinson CD, Boland MJ, Frankel WN, Goldstein DB, Dascal N. Epilepsy in a mouse model of GNB1 encephalopathy arises from altered potassium (GIRK) channel signaling and is alleviated by a GIRK inhibitor. Front Cell Neurosci. 2023; 17:1175895. PMID: [37275776](//www.ncbi.nlm.nih.gov/pubmed/37275776); PMCID: [PMC10232839](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10232839).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37275776/citedby/)
+
+  10. [Villavicencio Gonzalez E](https://profiles.viictr.org/profile/31168779), **Dhindsa RS**. Studying ultra-rare variants in STX1A uncovers a novel neurodevelopmental disorder. Eur J Hum Genet. 2023 09; 31(9):973-974. PMID: [37029317](//www.ncbi.nlm.nih.gov/pubmed/37029317); PMCID: [PMC10474260](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10474260).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37029317/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  11. Nag A, **Dhindsa RS** , Middleton L, Jiang X, Vitsios D, Wigmore E, Allman EL, Reznichenko A, Carss K, Smith KR, Wang Q, Challis B, Paul DS, Harper AR, Petrovski S. Effects of protein-coding variants on blood metabolite measurements and clinical biomarkers in the UK Biobank. Am J Hum Genet. 2023 03 02; 110(3):487-498. PMID: [36809768](//www.ncbi.nlm.nih.gov/pubmed/36809768); PMCID: [PMC10027475](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10027475).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36809768/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  12. **Dhindsa RS** , Wang Q, Vitsios D, Burren OS, Hu F, DiCarlo JE, Kruglyak L, MacArthur DG, Hurles ME, Petrovski S. A minimal role for synonymous variation in human disease. Am J Hum Genet. 2022 12 01; 109(12):2105-2109. PMID: [36459978](//www.ncbi.nlm.nih.gov/pubmed/36459978); PMCID: [PMC9808499](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9808499).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36459978/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  13. Raies A, Tulodziecka E, Stainer J, Middleton L, **Dhindsa RS** , Hill P, Engkvist O, Harper AR, Petrovski S, Vitsios D. DrugnomeAI is an ensemble machine-learning framework for predicting druggability of candidate drug targets. Commun Biol. 2022 11 24; 5(1):1291. PMID: [36434048](//www.ncbi.nlm.nih.gov/pubmed/36434048); PMCID: [PMC9700683](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9700683).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36434048/citedby/)
+Translation:Humans
+
+  14. Nag A, **Dhindsa RS** , Mitchell J, Vasavda C, Harper AR, Vitsios D, Ahnmark A, Bilican B, Madeyski-Bengtson K, Zarrouki B, [Zoghbi AW](https://profiles.viictr.org/profile/35020841), Wang Q, Smith KR, Alegre-D?az J, Kuri-Morales P, Berumen J, Tapia-Conyer R, Emberson J, Torres JM, Collins R, Smith DM, Challis B, Paul DS, Bohlooly-Y M, Snowden M, Baker D, Fritsche-Danielson R, Pangalos MN, Petrovski S. Human genetics uncovers MAP3K15 as an obesity-independent therapeutic target for diabetes. Sci Adv. 2022 11 18; 8(46):eadd5430. PMID: [36383675](//www.ncbi.nlm.nih.gov/pubmed/36383675); PMCID: [PMC9668288](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9668288).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36383675/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  15. Vitsios D, **Dhindsa RS** , Matelska D, Mitchell J, Zou X, Armenia J, Hu F, Wang Q, Sidders B, Harper AR, Petrovski S. Cancer-driving mutations are enriched in genic regions intolerant to germline variation. Sci Adv. 2022 08 26; 8(34):eabo6371. PMID: [36026442](//www.ncbi.nlm.nih.gov/pubmed/36026442); PMCID: [PMC9417173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9417173).
+
+Citations:
+
+  16. **Dhindsa RS** , Copeland BR, [Mustoe AM](https://profiles.viictr.org/profile/28999550), Goldstein DB. Natural Selection Shapes Codon Usage in the Human Genome. Am J Hum Genet. 2022 Aug 04; 109(8):1559. PMID: [35931054](//www.ncbi.nlm.nih.gov/pubmed/35931054); PMCID: [PMC9388379](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9388379).
+
+Citations:
+
+  17. Vasavda C, Xu R, Liew J, Kothari R, **Dhindsa RS** , Semenza ER, Paul BD, Green DP, Sabbagh MF, Shin JY, Yang W, Snowman AM, Albacarys LK, Moghekar A, Pardo-Villamizar CA, Luciano M, Huang J, Bettegowda C, Kwatra SG, Dong X, Lim M, Snyder SH. Identification of the NRF2 transcriptional network as a therapeutic target for trigeminal neuropathic pain. Sci Adv. 2022 Aug 05; 8(31):eabo5633. PMID: [35921423](//www.ncbi.nlm.nih.gov/pubmed/35921423); PMCID: [PMC9348805](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9348805).
+
+Citations:
+
+  18. Hayeck TJ, Turner TN, Mosbruger TL, Shaw GT, Duan Y, Ionita-Laza I, Allen AS, Stong N, Baugh E, **Dhindsa R** , Malakar A, Goldstein D. Ancestry adjustment improves genome-wide estimates of regional intolerance. Genetics. 2022 05 31; 221(2). PMID: [35385101](//www.ncbi.nlm.nih.gov/pubmed/35385101); PMCID: [PMC9157129](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9157129).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  19. Vasavda C, Semenza ER, Liew J, Kothari R, **Dhindsa RS** , Shanmukha S, Lin A, Tokhunts R, Ricco C, Snowman AM, Albacarys L, Barone E, Kornberg MD, Dong X, Paul BD, Snyder SH, Pastore F, Ripoli C, Grassi C. Biliverdin reductase bridges focal adhesion kinase to Src to modulate synaptic signaling. Sci Signal. 2022 05 10; 15(733):eabh3066. PMID: [35536885](//www.ncbi.nlm.nih.gov/pubmed/35536885); PMCID: [PMC9281001](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9281001).
+
+Citations:  Fields:
+
+Cel Cell BiologyPhy PhysiologySci Science
+
+Translation:AnimalsCells
+
+  20. Motelow JE, Stanley KE, Bobbili DR, **Dhindsa RS** , May P, Canadian Epilepsy Network, Epi4K Consortium, Epilepsy Phenome/Genome Project, EpiPGX Consortium, EuroEPINOMICS-CoGIE Consortium, Koko M. Association of ultra-rare coding variants with genetic generalized epilepsy: A case-control whole exome sequencing study. Epilepsia. 2022 03; 63(3):723-735. PMID: [35032048](//www.ncbi.nlm.nih.gov/pubmed/35032048); PMCID: [PMC8891088](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8891088).
+
+Citations:  Fields:
+
+Bra BrainNeu Neurology
+
+Translation:Humans
+
+  21. [Zoghbi AW](https://profiles.viictr.org/profile/35020841), **Dhindsa RS** , Goldberg TE, Mehralizade A, Motelow JE, Wang X, Alkelai A, Harms MB, Lieberman JA, Markx S, Goldstein DB. High-impact rare genetic variants in severe schizophrenia. Proc Natl Acad Sci U S A. 2021 12 21; 118(51). PMID: [34903660](//www.ncbi.nlm.nih.gov/pubmed/34903660); PMCID: [PMC8713775](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8713775).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34903660/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  22. Wang Q, **Dhindsa RS** , Carss K, Harper AR, Nag A, Tachmazidou I, Vitsios D, Deevi SVV, Mackay A, Muthas D, Monkley S, Olsson H, AstraZeneca Genomics Initiative, Wasilewski S, Smith KR, March R, Platt A, Haefliger C, H?hn M, Petrovski S. Rare variant contribution to human disease in 281,104 UK Biobank exomes. Nature. 2021 09; 597(7877):527-532. PMID: [34375979](//www.ncbi.nlm.nih.gov/pubmed/34375979); PMCID: [PMC8458098](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8458098).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34375979/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  23. **Dhindsa RS** , Mattsson J, Nag A, Wang Q, Wain LV, Allen R, Wigmore EM, Ibanez K, Vitsios D, Deevi SVV, Wasilewski S, Karlsson M, Lassi G, Olsson H, Muthas D, Monkley S, Mackay A, Murray L, Young S, Haefliger C, FinnGen Consortium, Maher TM, Belvisi MG, Jenkins G, Molyneaux PL, Platt A, Petrovski S. Identification of a missense variant in SPDL1 associated with idiopathic pulmonary fibrosis. Commun Biol. 2021 03 23; 4(1):392. PMID: [33758299](//www.ncbi.nlm.nih.gov/pubmed/33758299); PMCID: [PMC7988141](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7988141).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33758299/citedby/)
+Translation:Humans
+
+  24. Vitsios D, **Dhindsa RS** , Middleton L, Gussow AB, Petrovski S. Prioritizing non-coding regions based on human genomic constraint and sequence context with deep learning. Nat Commun. 2021 03 08; 12(1):1504. PMID: [33686085](//www.ncbi.nlm.nih.gov/pubmed/33686085); PMCID: [PMC7940646](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7940646).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33686085/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Humans
+
+  25. **Dhindsa RS** , [Zoghbi AW](https://profiles.viictr.org/profile/35020841), Krizay DK, Vasavda C, Goldstein DB. A Transcriptome-Based Drug Discovery Paradigm for Neurodevelopmental Disorders. Ann Neurol. 2021 02; 89(2):199-211. PMID: [33159466](//www.ncbi.nlm.nih.gov/pubmed/33159466); PMCID: [PMC8122510](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8122510).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33159466/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  26. **Dhindsa RS** , Copeland BR, [Mustoe AM](https://profiles.viictr.org/profile/28999550), Goldstein DB. Natural Selection Shapes Codon Usage in the Human Genome. Am J Hum Genet. 2020 07 02; 107(1):83-95. PMID: [32516569](//www.ncbi.nlm.nih.gov/pubmed/32516569); PMCID: [PMC7332603](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7332603).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32516569/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  27. Gelfman S, Wang Q, Lu YF, Hall D, Bostick CD, **Dhindsa R** , Halvorsen M, McSweeney KM, Cotterill E, Edinburgh T, Beaumont MA, Frankel WN, Allen AS, Boland MJ, Goldstein DB, Eglen SJ, Petrovski S. meaRtools: An R package for the analysis of neuronal networks recorded on microelectrode arrays. PLoS Comput Biol. 2018 10; 14(10):e1006506. PMID: [30273353](//www.ncbi.nlm.nih.gov/pubmed/30273353); PMCID: [PMC6181426](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6181426).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30273353/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  28. Gussow AB, Copeland BR, **Dhindsa RS** , Wang Q, Majoros WH, Allen AS, Goldstein DB, Petrovski S. Correction: Orion: Detecting regions of the human non-coding genome that are intolerant to variation using population genetics. PLoS One. 2018; 13(1):e0191298. PMID: [29324863](//www.ncbi.nlm.nih.gov/pubmed/29324863); PMCID: [PMC5764482](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5764482).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+  29. Gussow AB, Copeland BR, **Dhindsa RS** , Wang Q, Majoros WH, Allen AS, Goldstein DB, Petrovski S. Orion: Detecting regions of the human non-coding genome that are intolerant to variation using population genetics. PLoS One. 2017; 12(8):e0181604. PMID: [28797091](//www.ncbi.nlm.nih.gov/pubmed/28797091); PMCID: [PMC5552289](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5552289).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28797091/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  30. **Dhindsa RS** , Goldstein DB. Schizophrenia: From genetics to physiology at last. Nature. 2016 Feb 11; 530(7589):162-3. PMID: [26814972](//www.ncbi.nlm.nih.gov/pubmed/26814972).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26814972/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  31. Shashi V, Petrou S, Schoch K, McSweeney KM, **Dhindsa RS** , Krueger B, Crimian R, Case LE, Khalid R, El-Dairi MA, Jiang YH, Mikati MA, Goldstein DB, Petrovski S. Exome sequencing results in successful riboflavin treatment of a rapidly progressive neurological condition. Cold Spring Harb Mol Case Stud. 2015 Oct; 1(1):a000257. PMID: [27148561](//www.ncbi.nlm.nih.gov/pubmed/27148561); PMCID: [PMC4850896](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4850896).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27148561/citedby/) Fields:
+
+Gen Genetics
+
+  32. **Dhindsa RS** , Goldstein DB. Genetic Discoveries Drive Molecular Analyses and Targeted Therapeutic Options in the Epilepsies. Curr Neurol Neurosci Rep. 2015 Oct; 15(10):70. PMID: [26319171](//www.ncbi.nlm.nih.gov/pubmed/26319171).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26319171/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimals
+
+  33. **Dhindsa RS** , Bradrick SS, Yao X, Heinzen EL, Petrovski S, Krueger BJ, Johnson MR, Frankel WN, Petrou S, Boumil RM, Goldstein DB. Epileptic encephalopathy-causing mutations in DNM1 impair synaptic vesicle endocytosis. Neurol Genet. 2015 Jun; 1(1):e4. PMID: [27066543](//www.ncbi.nlm.nih.gov/pubmed/27066543); PMCID: [PMC4821085](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4821085).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27066543/citedby/)
+
+  34. Zhu X, Xie P, Ruzzo EK, Lu YF, McSweeney KM, Ben-Zeev B, Nissenkorn A, Anikster Y, Oz-Levi D, **Dhindsa RS** , Hitomi Y, Schoch K, Spillmann RC, Heimer G, Marek-Yagel D, Tzadok M, Han Y, Worley G, Goldstein J, Jiang YH, Lancet D, Pras E, Shashi V, McHale D, Need AC, Goldstein DB, Petrovski S. Whole-exome sequencing in undiagnosed genetic diseases: interpreting 119 trios. Genet Med. 2015 Oct; 17(10):774-81. PMID: [25590979](//www.ncbi.nlm.nih.gov/pubmed/25590979); PMCID: [PMC4791490](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4791490).
+
+Citations:
+[149](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25590979/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 34 publications over 9 distinct years, with a maximum of 9
+publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,11,11,22,0,22,44,100,89,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2015| 4  
+2016| 1  
+2017| 1  
+2018| 2  
+2020| 2  
+2021| 4  
+2022| 9  
+2023| 8  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+DHINDSA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (126)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Biological Specimen Banks](https://profiles.viictr.org/profile/244153)
+  * [Neurodevelopmental Disorders](https://profiles.viictr.org/profile/27547544)
+  * [Genetic Variation](https://profiles.viictr.org/profile/258544)
+  * [Blood Proteins](https://profiles.viictr.org/profile/261236)
+  * [Biological Evolution](https://profiles.viictr.org/profile/261628)
+
+[Explore](https://profiles.viictr.org/profile/35089811/198)
+
+_
+
+Co-Authors (9)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [Villavicencio Gonzalez, Esmeralda Isabel](https://profiles.viictr.org/profile/31168779)
+  * [ZOGHBI, ANTHONY](https://profiles.viictr.org/profile/35020841)
+  * [MUSTOE, ANTHONY](https://profiles.viictr.org/profile/28999550)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+
+[Explore](https://profiles.viictr.org/profile/35089811/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [PLON, SHARON](https://profiles.viictr.org/profile/269771)
+
+[Explore](https://profiles.viictr.org/profile/35089811/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRACEY, ARTHUR](https://profiles.viictr.org/profile/270289)
+  * [CURRY, CHOLADDA](https://profiles.viictr.org/profile/268836)
+  * [FINEGOLD, MILTON](https://profiles.viictr.org/profile/269596)
+  * [MARDON, GRAEME](https://profiles.viictr.org/profile/268168)
+  * [SILLITOE, ROY](https://profiles.viictr.org/profile/268552)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

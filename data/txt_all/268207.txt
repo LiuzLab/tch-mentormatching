@@ -1,0 +1,1080 @@
+## MOTONARI UESUGI
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza, N411  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O7418nDAKav3RYKj5X%2fX&rnd=199a1084-b17a-44aa-8829-a2f10ebb2946)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268207)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01CA109277 (UESUGI, MOTONARI)Jun 20, 2005 - May 31, 2008NIH  
+Small-molecule analysis of signaling pathways  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01GM071800 (UESUGI, MOTONARI)Aug 1, 2004 - Jul 31, 2009NIH  
+Synthetic modulators of transcription  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Singh VP, Hirose S, Takemoto M, Farrag AMAS, Sato SI, Honjo T, Chamoto K, **Uesugi M**. Chemoproteomic Identification of Spermidine-Binding Proteins and Antitumor-Immunity Activators. J Am Chem Soc. 2024 Jun 07. PMID: [38848460](//www.ncbi.nlm.nih.gov/pubmed/38848460).
+
+Citations:  Fields:
+
+Che Chemistry
+
+  2. Ochiai T, Inukai T, Akiyama M, Furui K, Ohue M, Matsumori N, Inuki S, **Uesugi M** , Sunazuka T, Kikuchi K, Kakeya H, Sakakibara Y. Variational autoencoder-based chemical latent space for large molecular structures with 3D complexity. Commun Chem. 2023 Nov 16; 6(1):249. PMID: [37973971](//www.ncbi.nlm.nih.gov/pubmed/37973971); PMCID: [PMC10654724](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10654724).
+
+Citations:
+
+  3. Jiang L, Liu S, Jia X, Gong Q, Wen X, Lu W, Yang J, Wu X, Wang X, Suo Y, Li Y, **Uesugi M** , Qu ZB, Tan M, Lu X, Zhou L. ABPP-CoDEL: Activity-Based Proteome Profiling-Guided Discovery of Tyrosine-Targeting Covalent Inhibitors from DNA-Encoded Libraries. J Am Chem Soc. 2023 11 22; 145(46):25283-25292. PMID: [37857329](//www.ncbi.nlm.nih.gov/pubmed/37857329).
+
+Citations:  Fields:
+
+Che Chemistry
+
+  4. Perron A, Mandal S, Chuba TN, Mao D, Singh VP, Noda N, Tan R, Vu HT, Abo M, **Uesugi M**. Small-Molecule Drug Repurposing for Counteracting Phototoxic A2E Aggregation. ACS Chem Biol. 2023 10 20; 18(10):2170-2175. PMID: [37708070](//www.ncbi.nlm.nih.gov/pubmed/37708070).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:Humans
+
+  5. Tanaka K, Suda A, **Uesugi M** , Futaki S, Imanishi M. Xanthine derivatives inhibit FTO in an L-ascorbic acid-dependent manner. Chem Commun (Camb). 2023 Sep 07; 59(72):10809-10812. PMID: [37599611](//www.ncbi.nlm.nih.gov/pubmed/37599611).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37599611/citedby/) Fields:
+
+Che Chemistry
+
+  6. Zhuo SH, Noda N, Hioki K, Jin S, Hayashi T, Hiraga K, Momose H, Li WH, Zhao L, Mizukami T, Ishii KJ, Li YM, **Uesugi M**. Identification of a Self-Assembling Small-Molecule Cancer Vaccine Adjuvant with an Improved Toxicity Profile. J Med Chem. 2023 09 28; 66(18):13266-13279. PMID: [37676021](//www.ncbi.nlm.nih.gov/pubmed/37676021).
+
+Citations:  Fields:
+
+Che Chemistry
+
+Translation:AnimalsCells
+
+  7. Kawagoe F, Mototani S, Mendoza A, Takemoto Y, **Uesugi M** , Kittaka A. Structure-activity relationship studies on vitamin D-based selective SREBP/SCAP inhibitor KK-052. RSC Med Chem. 2023 Oct 18; 14(10):2030-2034. PMID: [37859714](//www.ncbi.nlm.nih.gov/pubmed/37859714); PMCID: [PMC10583829](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10583829).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37859714/citedby/)
+
+  8. Cutrupi AN, Narayanan RK, Perez-Siles G, Grosz BR, Lai K, Boyling A, Ellis M, Lin RCY, Neumann B, Mao D, **Uesugi M** , Nicholson GA, Vucic S, Saporta MA, Kennerson ML. Novel gene-intergenic fusion involving ubiquitin E3 ligase UBE3C causes distal hereditary motor neuropathy. Brain. 2023 03 01; 146(3):880-897. PMID: [36380488](//www.ncbi.nlm.nih.gov/pubmed/36380488); PMCID: [PMC9976978](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9976978).
+
+Citations:  Fields:
+
+Bra BrainNeu Neurology
+
+Translation:HumansAnimals
+
+  9. Jin S, Zhuo SH, Takemoto Y, Li YM, **Uesugi M**. Self-assembling small-molecule adjuvants as antigen nano-carriers. Chem Commun (Camb). 2022 Nov 01; 58(87):12228-12231. PMID: [36254577](//www.ncbi.nlm.nih.gov/pubmed/36254577).
+
+Citations:  Fields:
+
+Che Chemistry
+
+  10. Toh K, Nishio K, Nakagawa R, Egoshi S, Abo M, Perron A, Sato SI, Okumura N, Koizumi N, Dodo K, Sodeoka M, **Uesugi M**. Chemoproteomic Identification of Blue-Light-Damaged Proteins. J Am Chem Soc. 2022 11 09; 144(44):20171-20176. PMID: [36306265](//www.ncbi.nlm.nih.gov/pubmed/36306265).
+
+Citations:  Fields:
+
+Che Chemistry
+
+Translation:HumansAnimalsCells
+
+  11. Nishio K, Toh K, Perron A, Goto M, Abo M, Shimakawa Y, **Uesugi M**. Magnetic Control of Cells by Chemical Fabrication of Melanin. J Am Chem Soc. 2022 09 21; 144(37):16720-16725. PMID: [36094431](//www.ncbi.nlm.nih.gov/pubmed/36094431).
+
+Citations:
+
+  12. Katsuda Y, Sato SI, Inoue M, Tsugawa H, Kamura T, Kida T, Matsumoto R, Asamitsu S, Shioda N, Shiroto S, Oosawatsu Y, Yatsuzuka K, Kitamura Y, Hagihara M, Ihara T, **Uesugi M**. Small molecule-based detection of non-canonical RNA G-quadruplex structures that modulate protein translation. Nucleic Acids Res. 2022 08 12; 50(14):8143-8153. PMID: [35801908](//www.ncbi.nlm.nih.gov/pubmed/35801908); PMCID: [PMC9371906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9371906).
+
+Citations:
+
+  13. Hwang SY, Park S, Jo H, Hee Seo S, Jeon KH, Kim S, Jung AR, Song C, Ahn M, Yeon Kwak S, Lee HJ, **Uesugi M** , Na Y, Kwon Y. Interrupting specific hydrogen bonds between ELF3 and MED23 as an alternative drug resistance-free strategy for HER2-overexpressing cancers. J Adv Res. 2023 05; 47:173-187. PMID: [35963541](//www.ncbi.nlm.nih.gov/pubmed/35963541); PMCID: [PMC10173165](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10173165).
+
+Citations:
+
+  14. Kawamura S, Matsushita Y, Kurosaki S, Tange M, Fujiwara N, Hayata Y, Hayakawa Y, Suzuki N, Hata M, Tsuboi M, Kishikawa T, Kinoshita H, Nakatsuka T, Sato M, Kudo Y, Hoshida Y, Umemura A, Eguchi A, Ikenoue T, Hirata Y, **Uesugi M** , Tateishi R, Tateishi K, Fujishiro M, Koike K, Nakagawa H. Inhibiting SCAP/SREBP exacerbates liver injury and carcinogenesis in murine nonalcoholic steatohepatitis. J Clin Invest. 2022 06 01; 132(11). PMID: [35380992](//www.ncbi.nlm.nih.gov/pubmed/35380992); PMCID: [PMC9151706](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9151706).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35380992/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Animals
+
+  15. Takada K, Hagiwara Y, Togashi M, Kittaka A, Kawagoe F, **Uesugi M** , Nishimoto-Kusunose S, Higashi T. 23,25-Dihydroxyvitamin D<sub>3</sub> is liberated as a major vitamin D<sub>3</sub> metabolite in human urine after treatment with ?-glucuronidase: Quantitative comparison with 24,25-dihydroxyvitamin D<sub>3</sub> by LC/MS/MS. J Steroid Biochem Mol Biol. 2022 Oct; 223:106133. PMID: [35654380](//www.ncbi.nlm.nih.gov/pubmed/35654380).
+
+Citations:  Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+  16. Ado G, Noda N, Vu HT, Perron A, Mahapatra AD, Arista KP, Yoshimura H, Packwood DM, Ishidate F, Sato SI, Ozawa T, **Uesugi M**. Discovery of a phase-separating small molecule that selectively sequesters tubulin in cells. Chem Sci. 2022 May 18; 13(19):5760-5766. PMID: [35694339](//www.ncbi.nlm.nih.gov/pubmed/35694339); PMCID: [PMC9116451](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9116451).
+
+Citations:
+
+  17. Noda N, Jung Y, Ado G, Mizuhata Y, Higuchi M, Ogawa T, Ishidate F, Sato SI, Kurata H, Tokitoh N, **Uesugi M**. Glucose as a Protein-Condensing Cellular Solute. ACS Chem Biol. 2022 03 18; 17(3):567-575. PMID: [35188733](//www.ncbi.nlm.nih.gov/pubmed/35188733).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:Cells
+
+  18. Jung Y, Noda N, Takaya J, Abo M, Toh K, Tajiri K, Cui C, Zhou L, Sato SI, **Uesugi M**. Discovery of Non-Cysteine-Targeting Covalent Inhibitors by Activity-Based Proteomic Screening with a Cysteine-Reactive Probe. ACS Chem Biol. 2022 02 18; 17(2):340-347. PMID: [35076225](//www.ncbi.nlm.nih.gov/pubmed/35076225).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:Cells
+
+  19. Mendoza A, Takemoto Y, Cruzado KT, Masoud SS, Nagata A, Tantipanjaporn A, Okuda S, Kawagoe F, Sakamoto R, Odagi M, Mototani S, Togashi M, Kawatani M, Aono H, Osada H, Nakagawa H, Higashi T, Kittaka A, Nagasawa K, **Uesugi M**. Controlled lipid ?-oxidation and carnitine biosynthesis by a vitamin D metabolite. Cell Chem Biol. 2022 04 21; 29(4):660-669.e12. PMID: [34506728](//www.ncbi.nlm.nih.gov/pubmed/34506728).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34506728/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:AnimalsCells
+
+  20. Takemoto Y, Kadota S, Minami I, Otsuka S, Okuda S, Abo M, Punzalan LL, Shen Y, Shiba Y, **Uesugi M**. Chemical Genetics Reveals a Role of Squalene Synthase in TGF? Signaling and Cardiomyogenesis. Angew Chem Int Ed Engl. 2021 09 27; 60(40):21824-21831. PMID: [34374184](//www.ncbi.nlm.nih.gov/pubmed/34374184).
+
+Citations:  Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  21. Nakashima M, **Uesugi M**. Asian Chemical Biology Initiative (ACBI): Bringing Together Chemical Biologists Within Asia. Chembiochem. 2021 09 14; 22(18):2738-2740. PMID: [34241966](//www.ncbi.nlm.nih.gov/pubmed/34241966).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Humans
+
+  22. Long T, Liu L, Tao Y, Zhang W, Quan J, Zheng J, **Uesugi M** , Yao W, Tian H, Wang H, Hegemann JD. Light-Controlled Tyrosine Nitration of Proteins. Angew Chem Int Ed Engl. 2021 06 07; 60(24):13414-13422. PMID: [33847040](//www.ncbi.nlm.nih.gov/pubmed/33847040).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33847040/citedby/) Fields:
+
+Che Chemistry
+
+Translation:AnimalsCells
+
+  23. Kaufmann M, Schlingmann KP, Berezin L, Molin A, Sheftel J, Vig M, Gallagher JC, Nagata A, Masoud SS, Sakamoto R, Nagasawa K, **Uesugi M** , Kottler ML, Konrad M, Jones G. Differential diagnosis of vitamin D-related hypercalcemia using serum vitamin D metabolite profiling. J Bone Miner Res. 2021 07; 36(7):1340-1350. PMID: [33856702](//www.ncbi.nlm.nih.gov/pubmed/33856702).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33856702/citedby/) Fields:
+
+Met MetabolismOrt Orthopedics
+
+Translation:Humans
+
+  24. Kawagoe F, Mendoza A, Hayata Y, Asano L, Kotake K, Mototani S, Kawamura S, Kurosaki S, Akagi Y, Takemoto Y, Nagasawa K, Nakagawa H, **Uesugi M** , Kittaka A. Discovery of a Vitamin D Receptor-Silent Vitamin D Derivative That Impairs Sterol Regulatory Element-Binding Protein In Vivo. J Med Chem. 2021 05 13; 64(9):5689-5709. PMID: [33899473](//www.ncbi.nlm.nih.gov/pubmed/33899473).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33899473/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansAnimalsCells
+
+  25. Li Q, Meissner TB, Wang F, Du Z, Ma S, Kshirsagar S, Tilburgs T, Buenrostro JD, **Uesugi M** , Strominger JL. ELF3 activated by a superenhancer and an autoregulatory feedback loop is required for high-level HLA-C expression on extravillous trophoblasts. Proc Natl Acad Sci U S A. 2021 03 02; 118(9). PMID: [33622787](//www.ncbi.nlm.nih.gov/pubmed/33622787); PMCID: [PMC7936349](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7936349).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33622787/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  26. Hakariya H, Takashima I, Takemoto M, Noda N, Sato SI, **Uesugi M**. Non-genetic cell-surface modification with a self-assembling molecular glue. Chem Commun (Camb). 2021 Feb 15; 57(12):1470-1473. PMID: [33442714](//www.ncbi.nlm.nih.gov/pubmed/33442714).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33442714/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansAnimalsCells
+
+  27. Jin S, Vu HT, Hioki K, Noda N, Yoshida H, Shimane T, Ishizuka S, Takashima I, Mizuhata Y, Beverly Pe K, Ogawa T, Nishimura N, Packwood D, Tokitoh N, Kurata H, Yamasaki S, Ishii KJ, **Uesugi M**. Discovery of Self-Assembling Small Molecules as Vaccine Adjuvants. Angew Chem Int Ed Engl. 2021 01 11; 60(2):961-969. PMID: [32979004](//www.ncbi.nlm.nih.gov/pubmed/32979004).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32979004/citedby/) Fields:
+
+Che Chemistry
+
+Translation:AnimalsCells
+
+  28. Ito D, Kawazoe Y, Sato A, **Uesugi M** , Hirata H. Identification of the hypertension drug niflumic acid as a glycine receptor inhibitor. Sci Rep. 2020 08 19; 10(1):13999. PMID: [32814817](//www.ncbi.nlm.nih.gov/pubmed/32814817); PMCID: [PMC7438329](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7438329).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32814817/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  29. Furuta T, Mizukami Y, Asano L, Kotake K, Ziegler S, Yoshida H, Watanabe M, Sato SI, Waldmann H, Nishikawa M, **Uesugi M**. Correction to "Nutrient-Based Chemical Library as a Source of Energy Metabolism Modulators". ACS Chem Biol. 2020 08 21; 15(8):2311. PMID: [32697575](//www.ncbi.nlm.nih.gov/pubmed/32697575).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biology
+
+  30. Punzalan LL, Jiang L, Mao D, Mahapatra AD, Sato S, Takemoto Y, Tsujimura M, Kusamori K, Nishikawa M, Zhou L, **Uesugi M**. Chemoproteomic Profiling of a Pharmacophore-Focused Chemical Library. Cell Chem Biol. 2020 06 18; 27(6):708-718.e10. PMID: [32402240](//www.ncbi.nlm.nih.gov/pubmed/32402240).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32402240/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:HumansAnimalsCells
+
+  31. Zhang X, Jiang L, Huang K, Fang C, Li J, Yang J, Li H, Ruan X, Wang P, Mo M, Wu P, Xu Y, Peng C, **Uesugi M** , Ye D, Yu FX, Zhou L. Site-Selective Phosphoglycerate Mutase 1 Acetylation by a Small Molecule. ACS Chem Biol. 2020 03 20; 15(3):632-639. PMID: [32069008](//www.ncbi.nlm.nih.gov/pubmed/32069008).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:HumansCells
+
+  32. Perez-Siles G, Cutrupi A, Ellis M, Kuriakose J, La Fontaine S, Mao D, **Uesugi M** , Takata RI, Speck-Martins CE, Nicholson G, Kennerson ML. Modelling the pathogenesis of X-linked distal hereditary motor neuropathy using patient-derived iPSCs. Dis Model Mech. 2020 01 13; 13(2). PMID: [31969342](//www.ncbi.nlm.nih.gov/pubmed/31969342); PMCID: [PMC6994953](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6994953).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31969342/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  33. Takemoto Y, Mao D, Punzalan LL, Sato SI, **Uesugi M** , G?tze S. Discovery of a Small-Molecule-Dependent Photolytic Peptide. J Am Chem Soc. 2020 01 22; 142(3):1142-1146. PMID: [31899620](//www.ncbi.nlm.nih.gov/pubmed/31899620).
+
+Citations:  Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  34. Nagata A, Akagi Y, Asano L, Kotake K, Kawagoe F, Mendoza A, Masoud SS, Usuda K, Yasui K, Takemoto Y, Kittaka A, Nagasawa K, **Uesugi M**. Synthetic Chemical Probes That Dissect Vitamin D Activities. ACS Chem Biol. 2019 12 20; 14(12):2851-2858. PMID: [31618573](//www.ncbi.nlm.nih.gov/pubmed/31618573).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31618573/citedby/) Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:Humans
+
+  35. Kawagoe F, Mototani S, Yasuda K, Nagasawa K, **Uesugi M** , Sakaki T, Kittaka A. Introduction of fluorine atoms to vitamin D3 side-chain and synthesis of 24,24-difluoro-25-hydroxyvitamin D3. J Steroid Biochem Mol Biol. 2019 12; 195:105477. PMID: [31541729](//www.ncbi.nlm.nih.gov/pubmed/31541729).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31541729/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+  36. Furuta T, Mizukami Y, Asano L, Kotake K, Ziegler S, Yoshida H, Watanabe M, Sato SI, Waldmann H, Nishikawa M, **Uesugi M**. Nutrient-Based Chemical Library as a Source of Energy Metabolism Modulators. ACS Chem Biol. 2019 09 20; 14(9):1860-1865. PMID: [31436407](//www.ncbi.nlm.nih.gov/pubmed/31436407).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:HumansAnimalsCells
+
+  37. Chen IS, Liu C, Tateyama M, Karbat I, **Uesugi M** , Reuveny E, Kubo Y. Non-sedating antihistamines block G-protein-gated inwardly rectifying K+ channels. Br J Pharmacol. 2019 09; 176(17):3161-3179. PMID: [31116876](//www.ncbi.nlm.nih.gov/pubmed/31116876); PMCID: [PMC6692640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6692640).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31116876/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:AnimalsCells
+
+  38. Kawagoe F, Yasuda K, Mototani S, Sugiyama T, **Uesugi M** , Sakaki T, Kittaka A. Synthesis and CYP24A1-Dependent Metabolism of 23-Fluorinated Vitamin D3 Analogues. ACS Omega. 2019 Jun 30; 4(6):11332-11337. PMID: [31460236](//www.ncbi.nlm.nih.gov/pubmed/31460236); PMCID: [PMC6648426](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6648426).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31460236/citedby/)
+
+  39. Nagata A, Akagi Y, Masoud SS, Yamanaka M, Kittaka A, **Uesugi M** , Odagi M, Nagasawa K. Stereoselective Synthesis of Four Calcitriol Lactone Diastereomers at C23 and C25. J Org Chem. 2019 06 21; 84(12):7630-7641. PMID: [30985122](//www.ncbi.nlm.nih.gov/pubmed/30985122).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30985122/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Cells
+
+  40. Takashima I, Kusamori K, Hakariya H, Takashima M, Vu TH, Mizukami Y, Noda N, Takayama Y, Katsuda Y, Sato SI, Takakura Y, Nishikawa M, **Uesugi M**. Multifunctionalization of Cells with a Self-Assembling Molecule to Enhance Cell Engraftment. ACS Chem Biol. 2019 04 19; 14(4):775-783. PMID: [30807095](//www.ncbi.nlm.nih.gov/pubmed/30807095).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:AnimalsCells
+
+  41. Nishikawa Y, Kodama Y, Shiokawa M, Matsumori T, Marui S, Kuriyama K, Kuwada T, Sogabe Y, Kakiuchi N, Tomono T, Mima A, Morita T, Ueda T, Tsuda M, Yamauchi Y, Sakuma Y, Ota Y, Maruno T, Uza N, **Uesugi M** , Kageyama R, Chiba T, Seno H. Hes1 plays an essential role in Kras-driven pancreatic tumorigenesis. Oncogene. 2019 05; 38(22):4283-4296. PMID: [30705405](//www.ncbi.nlm.nih.gov/pubmed/30705405).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30705405/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:AnimalsCells
+
+  42. Kawagoe F, Sugiyama T, Yasuda K, **Uesugi M** , Sakaki T, Kittaka A. Concise synthesis of 23-hydroxylated vitamin D3 metabolites. J Steroid Biochem Mol Biol. 2019 02; 186:161-168. PMID: [30367940](//www.ncbi.nlm.nih.gov/pubmed/30367940).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30367940/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+  43. Ohkanda J, Kusumoto A, Punzalan L, Masuda R, Wang C, Parvatkar P, Akase D, Aida M, **Uesugi M** , Higuchi Y, Kato N. Structural Effects of Fusicoccin upon Upregulation of 14-3-3-Phospholigand Interaction and Cytotoxic Activity. Chemistry. 2018 Oct 26; 24(60):16066-16071. PMID: [30238524](//www.ncbi.nlm.nih.gov/pubmed/30238524).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30238524/citedby/) Fields:
+
+Che Chemistry
+
+  44. Mashimo Y, Yoshioka M, Tokunaga Y, Fockenberg C, Terada S, Koyama Y, Shibata-Seki T, Yoshimoto K, Sakai R, Hakariya H, Liu L, Akaike T, Kobatake E, How SE, **Uesugi M** , Kamei KI, Chen Y. Fabrication of a Multiplexed Artificial Cellular MicroEnvironment Array. J Vis Exp. 2018 09 07; (139). PMID: [30247461](//www.ncbi.nlm.nih.gov/pubmed/30247461); PMCID: [PMC6235102](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6235102).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30247461/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Humans
+
+  45. Li Q, Yoshimura H, Komiya M, Tajiri K, **Uesugi M** , Hata Y, Ozawa T. A robust split-luciferase-based cell fusion screening for discovering myogenesis-promoting molecules. Analyst. 2018 Jul 09; 143(14):3472-3480. PMID: [29944152](//www.ncbi.nlm.nih.gov/pubmed/29944152).
+
+Citations:  Fields:
+
+Che Chemistry Techniques
+
+Translation:AnimalsCells
+
+  46. Yatsuzuka K, Sato SI, Pe KB, Katsuda Y, Takashima I, Watanabe M, **Uesugi M**. Live-cell imaging of multiple endogenous mRNAs permits the direct observation of RNA granule dynamics. Chem Commun (Camb). 2018 Jun 26; 54(52):7151-7154. PMID: [29882951](//www.ncbi.nlm.nih.gov/pubmed/29882951).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29882951/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  47. Perron A, Nishikawa Y, Iwata J, Shimojo H, Takaya J, Kobayashi K, Imayoshi I, Mbenza NM, Takenoya M, Kageyama R, Kodama Y, **Uesugi M**. Small-molecule screening yields a compound that inhibits the cancer-associated transcription factor Hes1 via the PHB2 chaperone. J Biol Chem. 2018 05 25; 293(21):8285-8294. PMID: [29523683](//www.ncbi.nlm.nih.gov/pubmed/29523683); PMCID: [PMC5971435](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5971435).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29523683/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  48. Mao D, Chung XKW, Andoh-Noda T, Qin Y, Sato SI, Takemoto Y, Akamatsu W, Okano H, **Uesugi M**. Chemical decontamination of iPS cell-derived neural cell mixtures. Chem Commun (Camb). 2018 Feb 01; 54(11):1355-1358. PMID: [29350722](//www.ncbi.nlm.nih.gov/pubmed/29350722).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29350722/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansAnimalsCells
+
+  49. Sato SI, Yatsuzuka K, Katsuda Y, **Uesugi M**. Method for Imaging Live-Cell RNA Using an RNA Aptamer and a Fluorescent Probe. Methods Mol Biol. 2018; 1649:305-318. PMID: [29130206](//www.ncbi.nlm.nih.gov/pubmed/29130206).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  50. Kotaka M, Toyoda T, Yasuda K, Kitano Y, Okada C, Ohta A, Watanabe A, **Uesugi M** , Osafune K. Adrenergic receptor agonists induce the differentiation of pluripotent stem cell-derived hepatoblasts into hepatocyte-like cells. Sci Rep. 2017 12 01; 7(1):16734. PMID: [29196668](//www.ncbi.nlm.nih.gov/pubmed/29196668); PMCID: [PMC5711806](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5711806).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29196668/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  51. Ogasawara T, Okano S, Ichimura H, Kadota S, Tanaka Y, Minami I, **Uesugi M** , Wada Y, Saito N, Okada K, Kuwahara K, Shiba Y. Impact of extracellular matrix on engraftment and maturation of pluripotent stem cell-derived cardiomyocytes in a rat myocardial infarct model. Sci Rep. 2017 08 17; 7(1):8630. PMID: [28819182](//www.ncbi.nlm.nih.gov/pubmed/28819182); PMCID: [PMC5561148](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5561148).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28819182/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  52. Chen IS, Tateyama M, Fukata Y, **Uesugi M** , Kubo Y. Ivermectin activates GIRK channels in a PIP2 -dependent, G?? -independent manner and an amino acid residue at the slide helix governs the activation. J Physiol. 2017 09 01; 595(17):5895-5912. PMID: [28715108](//www.ncbi.nlm.nih.gov/pubmed/28715108); PMCID: [PMC5577542](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5577542).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28715108/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  53. Kawagoe F, Sugiyama T, **Uesugi M** , Kittaka A. Recent developments for introducing a hexafluoroisopropanol unit into the Vitamin D side chain. J Steroid Biochem Mol Biol. 2018 03; 177:250-254. PMID: [28716761](//www.ncbi.nlm.nih.gov/pubmed/28716761).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28716761/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+  54. Kamei KI, Mashimo Y, Yoshioka M, Tokunaga Y, Fockenberg C, Terada S, Koyama Y, Nakajima M, Shibata-Seki T, Liu L, Akaike T, Kobatake E, How SE, **Uesugi M** , Chen Y. Microfluidic-Nanofiber Hybrid Array for Screening of Cellular Microenvironments. Small. 2017 05; 13(18). PMID: [28272774](//www.ncbi.nlm.nih.gov/pubmed/28272774).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28272774/citedby/) Fields:
+
+Bio Biomedical EngineeringNan Nanotechnology
+
+Translation:HumansAnimalsCells
+
+  55. Asano L, Watanabe M, Ryoden Y, Usuda K, Yamaguchi T, Khambu B, Takashima M, Sato SI, Sakai J, Nagasawa K, **Uesugi M**. Vitamin D Metabolite, 25-Hydroxyvitamin D, Regulates Lipid Metabolism by Inducing Degradation of SREBP/SCAP. Cell Chem Biol. 2017 Feb 16; 24(2):207-217. PMID: [28132894](//www.ncbi.nlm.nih.gov/pubmed/28132894).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28132894/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:HumansAnimalsCells
+
+  56. Mao D, Ando S, Sato SI, Qin Y, Hirata N, Katsuda Y, Kawase E, Kuo TF, Minami I, Shiba Y, Ueda K, Nakatsuji N, **Uesugi M**. A Synthetic Hybrid Molecule for the Selective Removal of Human Pluripotent Stem Cells from Cell Mixtures. Angew Chem Int Ed Engl. 2017 02 06; 56(7):1765-1770. PMID: [28067441](//www.ncbi.nlm.nih.gov/pubmed/28067441).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28067441/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  57. Katsuda Y, Sato S, Asano L, Morimura Y, Furuta T, Sugiyama H, Hagihara M, **Uesugi M**. A Small Molecule That Represses Translation of G-Quadruplex-Containing mRNA. J Am Chem Soc. 2016 07 27; 138(29):9037-40. PMID: [27410677](//www.ncbi.nlm.nih.gov/pubmed/27410677).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27410677/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Cells
+
+  58. Sakano D, Choi S, Kataoka M, Shiraki N, **Uesugi M** , Kume K, Kume S. Dopamine D2 Receptor-Mediated Regulation of Pancreatic ? Cell Mass. Stem Cell Reports. 2016 07 12; 7(1):95-109. PMID: [27373926](//www.ncbi.nlm.nih.gov/pubmed/27373926); PMCID: [PMC4944721](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4944721).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27373926/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  59. Biswas T, Akagi Y, Usuda K, Yasui K, Shimizu I, Okamoto M, **Uesugi M** , Hosokawa S, Nagasawa K. Synthesis of 24,24-Difluoro-1,3-cis-25-dihydroxy-19-norvitamin D3 Derivatives and Evaluation of Their Vitamin D Receptor-Binding Affinity. Biol Pharm Bull. 2016; 39(8):1387-91. PMID: [27476947](//www.ncbi.nlm.nih.gov/pubmed/27476947).
+
+Citations:  Fields:
+
+Bio BiochemistryPha Pharmacology
+
+  60. Usuda K, Biswas T, Yamaguchi T, Akagi Y, Yasui K, **Uesugi M** , Shimizu I, Hosokawa S, Nagasawa K. Synthesis of Diastereomers of 1,3-cis-25-Dihydroxy-19-norvitamin D3. Chem Pharm Bull (Tokyo). 2016; 64(8):1190-5. PMID: [27477659](//www.ncbi.nlm.nih.gov/pubmed/27477659).
+
+Citations:  Fields:
+
+Che ChemistryPha Pharmacology
+
+Translation:Cells
+
+  61. Matsumoto Y, Ito A, **Uesugi M** , Kittaka A. Efficient N-Acyldopamine Synthesis. Chem Pharm Bull (Tokyo). 2016; 64(7):935-40. PMID: [27373649](//www.ncbi.nlm.nih.gov/pubmed/27373649).
+
+Citations:  Fields:
+
+Che ChemistryPha Pharmacology
+
+Translation:Cells
+
+  62. Takaya J, Mio K, Shiraishi T, Kurokawa T, Otsuka S, Mori Y, **Uesugi M**. A Potent and Site-Selective Agonist of TRPA1. J Am Chem Soc. 2015 Dec 23; 137(50):15859-64. PMID: [26630251](//www.ncbi.nlm.nih.gov/pubmed/26630251).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26630251/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  63. Parvatkar P, Kato N, **Uesugi M** , Sato S, Ohkanda J. Intracellular Generation of a Diterpene-Peptide Conjugate that Inhibits 14-3-3-Mediated Interactions. J Am Chem Soc. 2015 Dec 23; 137(50):15624-7. PMID: [26632868](//www.ncbi.nlm.nih.gov/pubmed/26632868).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26632868/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  64. Sato S, Watanabe M, Katsuda Y, Murata A, Wang DO, **Uesugi M**. Live-cell imaging of endogenous mRNAs with a small molecule. Angew Chem Int Ed Engl. 2015 Feb 02; 54(6):1855-8. PMID: [25537455](//www.ncbi.nlm.nih.gov/pubmed/25537455).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25537455/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Cells
+
+  65. Frisco-Cabanos HL, Watanabe M, Okumura N, Kusamori K, Takemoto N, Takaya J, Sato S, Yamazoe S, Takakura Y, Kinoshita S, Nishikawa M, Koizumi N, **Uesugi M**. Synthetic molecules that protect cells from anoikis and their use in cell transplantation. Angew Chem Int Ed Engl. 2014 Oct 13; 53(42):11208-13. PMID: [25196666](//www.ncbi.nlm.nih.gov/pubmed/25196666).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25196666/citedby/) Fields:
+
+Che Chemistry
+
+Translation:AnimalsCells
+
+  66. Kuo TF, Mao D, Hirata N, Khambu B, Kimura Y, Kawase E, Shimogawa H, Ojika M, Nakatsuji N, Ueda K, **Uesugi M**. Selective elimination of human pluripotent stem cells by a marine natural product derivative. J Am Chem Soc. 2014 Jul 16; 136(28):9798-801. PMID: [24992689](//www.ncbi.nlm.nih.gov/pubmed/24992689).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24992689/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  67. Hirata N, Nakagawa M, Fujibayashi Y, Yamauchi K, Murata A, Minami I, Tomioka M, Kondo T, Kuo TF, Endo H, Inoue H, Sato SI, Ando S, Kawazoe Y, Aiba K, Nagata K, Kawase E, Chang YT, Suemori H, Eto K, Nakauchi H, Yamanaka S, Nakatsuji N, Ueda K, **Uesugi M**. A chemical probe that labels human pluripotent stem cells. Cell Rep. 2014 Mar 27; 6(6):1165-1174. PMID: [24613351](//www.ncbi.nlm.nih.gov/pubmed/24613351).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24613351/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  68. Araoka T, Mae S, Kurose Y, **Uesugi M** , Ohta A, Yamanaka S, Osafune K. Efficient and rapid induction of human iPSCs/ESCs into nephrogenic intermediate mesoderm using small molecule-based differentiation methods. PLoS One. 2014; 9(1):e84881. PMID: [24454758](//www.ncbi.nlm.nih.gov/pubmed/24454758); PMCID: [PMC3893162](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3893162).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24454758/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  69. Sakano D, Shiraki N, Kikawa K, Yamazoe T, Kataoka M, Umeda K, Araki K, Mao D, Matsumoto S, Nakagata N, Andersson O, Stainier D, Endo F, Kume K, **Uesugi M** , Kume S. VMAT2 identified as a regulator of late-stage ?-cell differentiation. Nat Chem Biol. 2014 Feb; 10(2):141-8. PMID: [24316738](//www.ncbi.nlm.nih.gov/pubmed/24316738).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24316738/citedby/) Fields:
+
+Bio BiologyChe Chemistry
+
+Translation:HumansAnimalsCells
+
+  70. Hirayama Y, Yoneda K, Yamagishi K, Chinen T, Usui T, Sumiya E, **Uesugi M** , Kigoshi H, Kita M. Inhibition of microtubule assembly by a complex of actin and antitumor macrolide aplyronine A. J Am Chem Soc. 2013 Dec 04; 135(48):18089-95. PMID: [24228690](//www.ncbi.nlm.nih.gov/pubmed/24228690).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24228690/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  71. Takemoto N, Suehara T, Frisco HL, Sato S, Sezaki T, Kusamori K, Kawazoe Y, Park SM, Yamazoe S, Mizuhata Y, Inoue R, Miller GJ, Hansen SU, Jayson GC, Gardiner JM, Kanaya T, Tokitoh N, Ueda K, Takakura Y, Kioka N, Nishikawa M, **Uesugi M**. Small-molecule-induced clustering of heparan sulfate promotes cell adhesion. J Am Chem Soc. 2013 Jul 31; 135(30):11032-9. PMID: [23822587](//www.ncbi.nlm.nih.gov/pubmed/23822587).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23822587/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansAnimalsCells
+
+  72. Natsume A, Ito M, Katsushima K, Ohka F, Hatanaka A, Shinjo K, Sato S, Takahashi S, Ishikawa Y, Takeuchi I, Shimogawa H, **Uesugi M** , Okano H, Kim SU, Wakabayashi T, Issa JP, Sekido Y, Kondo Y. Chromatin regulator PRC2 is a key regulator of epigenetic plasticity in glioblastoma. Cancer Res. 2013 Jul 15; 73(14):4559-70. PMID: [23720055](//www.ncbi.nlm.nih.gov/pubmed/23720055).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23720055/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  73. Kumagai H, Suemori H, **Uesugi M** , Nakatsuji N, Kawase E. Identification of small molecules that promote human embryonic stem cell self-renewal. Biochem Biophys Res Commun. 2013 May 17; 434(4):710-6. PMID: [23541943](//www.ncbi.nlm.nih.gov/pubmed/23541943).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23541943/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansAnimalsCells
+
+  74. Jung D, Abu-Elheiga L, Ayuzawa R, Gu Z, Shirakawa T, Fujiki Y, Nakatsuji N, Wakil SJ, **Uesugi M**. Mislocalization and inhibition of acetyl-CoA carboxylase 1 by a synthetic small molecule. Biochem J. 2012 Dec 15; 448(3):409-16. PMID: [23067267](//www.ncbi.nlm.nih.gov/pubmed/23067267).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23067267/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  75. Minami I, Yamada K, Otsuji TG, Yamamoto T, Shen Y, Otsuka S, Kadota S, Morone N, Barve M, Asai Y, Tenkova-Heuser T, Heuser JE, **Uesugi M** , Aiba K, Nakatsuji N. A small molecule that promotes cardiac differentiation of human pluripotent stem cells under defined, cytokine- and xeno-free conditions. Cell Rep. 2012 Nov 29; 2(5):1448-60. PMID: [23103164](//www.ncbi.nlm.nih.gov/pubmed/23103164).
+
+Citations:
+[104](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23103164/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  76. **Uesugi M**. [Control and analysis of cells by synthetic small molecules]. Yakugaku Zasshi. 2012; 132(5):575-86. PMID: [22687693](//www.ncbi.nlm.nih.gov/pubmed/22687693).
+
+Citations:  Fields:
+
+Pha PharmacologyPha Pharmacy
+
+Translation:HumansAnimalsCells
+
+  77. Khambu B, **Uesugi M** , Kawazoe Y. Translational repression stabilizes messenger RNA of autophagy-related genes. Genes Cells. 2011 Aug; 16(8):857-67. PMID: [21790910](//www.ncbi.nlm.nih.gov/pubmed/21790910).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21790910/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  78. Kamisuki S, Shirakawa T, Kugimiya A, Abu-Elheiga L, Choo HY, Yamada K, Shimogawa H, Wakil SJ, **Uesugi M**. Synthesis and evaluation of diarylthiazole derivatives that inhibit activation of sterol regulatory element-binding proteins. J Med Chem. 2011 Jul 14; 54(13):4923-7. PMID: [21561152](//www.ncbi.nlm.nih.gov/pubmed/21561152); PMCID: [PMC3136361](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3136361).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21561152/citedby/) Fields:
+
+Che Chemistry
+
+Translation:AnimalsCells
+
+  79. Kawazoe Y, Shimogawa H, Sato A, **Uesugi M**. A mitochondrial surface-specific fluorescent probe activated by bioconversion. Angew Chem Int Ed Engl. 2011 Jun 06; 50(24):5478-81. PMID: [21542076](//www.ncbi.nlm.nih.gov/pubmed/21542076).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21542076/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  80. Murata A, Sato S, Kawazoe Y, **Uesugi M**. Small-molecule fluorescent probes for specific RNA targets. Chem Commun (Camb). 2011 Apr 28; 47(16):4712-4. PMID: [21412566](//www.ncbi.nlm.nih.gov/pubmed/21412566).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21412566/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Cells
+
+  81. Murakami G, Inoue H, Tsukita K, Asai Y, Amagai Y, Aiba K, Shimogawa H, **Uesugi M** , Nakatsuji N, Takahashi R. Chemical library screening identifies a small molecule that downregulates SOD1 transcription for drugs to treat amyotrophic lateral sclerosis. J Biomol Screen. 2011 Apr; 16(4):405-14. PMID: [21364087](//www.ncbi.nlm.nih.gov/pubmed/21364087).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21364087/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  82. Sumiya E, Shimogawa H, Sasaki H, Tsutsumi M, Yoshita K, Ojika M, Suenaga K, **Uesugi M**. Cell-morphology profiling of a natural product library identifies bisebromoamide and miuraenamide A as actin filament stabilizers. ACS Chem Biol. 2011 May 20; 6(5):425-31. PMID: [21322638](//www.ncbi.nlm.nih.gov/pubmed/21322638).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21322638/citedby/) Fields:
+
+Bio BiochemistryBio Biology
+
+Translation:HumansCells
+
+  83. Sato S, Murata A, Orihara T, Shirakawa T, Suenaga K, Kigoshi H, **Uesugi M**. Marine natural product aurilide activates the OPA1-mediated apoptosis by binding to prohibitin. Chem Biol. 2011 Jan 28; 18(1):131-9. PMID: [21276946](//www.ncbi.nlm.nih.gov/pubmed/21276946).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21276946/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:HumansCells
+
+  84. Shirakawa T, Kawazoe Y, Tsujikawa T, Jung D, Sato S, **Uesugi M**. Deactivation of STAT6 through serine 707 phosphorylation by JNK. J Biol Chem. 2011 Feb 04; 286(5):4003-10. PMID: [21123173](//www.ncbi.nlm.nih.gov/pubmed/21123173); PMCID: [PMC3030400](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3030400).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21123173/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  85. Murai R, Yoshida Y, Muraguchi T, Nishimoto E, Morioka Y, Kitayama H, Kondoh S, Kawazoe Y, Hiraoka M, **Uesugi M** , Noda M, Murai R, Yoshida Y, Muraguchi T, Nishimoto E, Morioka Y, Kitayama H, Kondoh S, Kawazoe Y, Hiraoka M, Uesugi M, Noda M. A novel screen using the Reck tumor suppressor gene promoter detects both conventional and metastasis-suppressing anticancer drugs. Oncotarget. 2010 Aug; 1(4):252-264. PMID: [21304177](//www.ncbi.nlm.nih.gov/pubmed/21304177); PMCID: [PMC3248105](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3248105).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21304177/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  86. Sato S, Murata A, Shirakawa T, **Uesugi M**. Biochemical target isolation for novices: affinity-based strategies. Chem Biol. 2010 Jun 25; 17(6):616-23. PMID: [20609411](//www.ncbi.nlm.nih.gov/pubmed/20609411).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20609411/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:HumansAnimalsCells
+
+  87. Hoshino M, Tsujimoto T, Yamazoe S, **Uesugi M** , Terada S. Adhesamine, a new synthetic molecule, accelerates differentiation and prolongs survival of primary cultured mouse hippocampal neurons. Biochem J. 2010 Mar 29; 427(2):297-304. PMID: [20146670](//www.ncbi.nlm.nih.gov/pubmed/20146670).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  88. Kamisuki S, Mao Q, Abu-Elheiga L, Gu Z, Kugimiya A, Kwon Y, Shinohara T, Kawazoe Y, Sato S, Asakura K, Choo HY, Sakai J, Wakil SJ, **Uesugi M**. A small molecule that blocks fat synthesis by inhibiting the activation of SREBP. Chem Biol. 2009 Aug 28; 16(8):882-92. PMID: [19716478](//www.ncbi.nlm.nih.gov/pubmed/19716478).
+
+Citations:
+[104](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19716478/citedby/)
+Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:HumansAnimalsCells
+
+  89. Yamazoe S, Shimogawa H, Sato S, Esko JD, **Uesugi M**. A dumbbell-shaped small molecule that promotes cell adhesion and growth. Chem Biol. 2009 07 31; 16(7):773-82. PMID: [19635414](//www.ncbi.nlm.nih.gov/pubmed/19635414).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19635414/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:HumansCells
+
+  90. Jung D, Shimogawa H, Kwon Y, Mao Q, Sato S, Kamisuki S, Kigoshi H, **Uesugi M**. Wrenchnolol derivative optimized for gene activation in cells. J Am Chem Soc. 2009 Apr 08; 131(13):4774-82. PMID: [19290630](//www.ncbi.nlm.nih.gov/pubmed/19290630).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19290630/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  91. Shinohara T, **Uesugi M**. [In-vivo activation of the p53 pathway by small-molecule antagonists of MDM2]. Tanpakushitsu Kakusan Koso. 2007 Oct; 52(13 Suppl):1816-7. PMID: [18051440](//www.ncbi.nlm.nih.gov/pubmed/18051440).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18051440/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  92. Kamisuki S, **Uesugi M**. [Discovering high-affinity ligands for proteins: SAR by NMR]. Tanpakushitsu Kakusan Koso. 2007 Oct; 52(13 Suppl):1818-9. PMID: [18051441](//www.ncbi.nlm.nih.gov/pubmed/18051441).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  93. Kugimiya A, Takagi J, **Uesugi M**. [Role of LXRs in control of lipogenesis]. Tanpakushitsu Kakusan Koso. 2007 Oct; 52(13 Suppl):1814-5. PMID: [18051439](//www.ncbi.nlm.nih.gov/pubmed/18051439).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18051439/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  94. Sato S, Murata A, **Uesugi M**. [Identification of the cardiac beta-adrenergic receptor protein: solubilization and purification by affinity chromatography]. Tanpakushitsu Kakusan Koso. 2007 Oct; 52(13 Suppl):1782-3. PMID: [18051424](//www.ncbi.nlm.nih.gov/pubmed/18051424).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimals
+
+  95. Sato S, Kwon Y, Kamisuki S, Srivastava N, Mao Q, Kawazoe Y, **Uesugi M**. Polyproline-rod approach to isolating protein targets of bioactive small molecules: isolation of a new target of indomethacin. J Am Chem Soc. 2007 Jan 31; 129(4):873-80. PMID: [17243824](//www.ncbi.nlm.nih.gov/pubmed/17243824).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17243824/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansAnimalsCells
+
+  96. Jung D, Choi Y, **Uesugi M**. Small organic molecules that modulate gene transcription. Drug Discov Today. 2006 May; 11(9-10):452-7. PMID: [16635809](//www.ncbi.nlm.nih.gov/pubmed/16635809).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16635809/citedby/) Fields:
+
+Dru Drug TherapyPha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  97. Choi Y, Shimogawa H, Murakami K, Ramdas L, Zhang W, Qin J, **Uesugi M**. Chemical genetic identification of the IGF-linked pathway that is mediated by STAT6 and MFP2. Chem Biol. 2006 Mar; 13(3):241-9. PMID: [16638529](//www.ncbi.nlm.nih.gov/pubmed/16638529).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16638529/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:AnimalsCells
+
+  98. Sato A, Kawazoe Y, Kamisuki S, **Uesugi M**. Synthesis of synthetic small molecule transcription factors (STF). Nucleic Acids Symp Ser (Oxf). 2006; (50):29-30. PMID: [17150801](//www.ncbi.nlm.nih.gov/pubmed/17150801).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+  99. **Uesugi M**. [Small molecules that control gene expression]. Seikagaku. 2005 Sep; 77(9):1177-80. PMID: [16241004](//www.ncbi.nlm.nih.gov/pubmed/16241004).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  100. Kawazoe Y, **Uesugi M**. [Trends in chemical libraries for chemical genetics]. Tanpakushitsu Kakusan Koso. 2005 Aug; 50(9):1043-8. PMID: [16083041](//www.ncbi.nlm.nih.gov/pubmed/16083041).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  101. Kwon Y, Arndt HD, Mao Q, Choi Y, Kawazoe Y, Dervan PB, **Uesugi M**. Small molecule transcription factor mimic. J Am Chem Soc. 2004 Dec 15; 126(49):15940-1. PMID: [15584709](//www.ncbi.nlm.nih.gov/pubmed/15584709).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15584709/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Humans
+
+  102. **Uesugi M**. Synthetic molecules that modulate transcription and differentiation: hints for future drug discovery. Comb Chem High Throughput Screen. 2004 Nov; 7(7):653-9. PMID: [15578927](//www.ncbi.nlm.nih.gov/pubmed/15578927).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15578927/citedby/) Fields:
+
+Che ChemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  103. Kawazoe Y, Tanaka S, **Uesugi M**. Chemical genetic identification of the histamine H1 receptor as a stimulator of insulin-induced adipogenesis. Chem Biol. 2004 Jul; 11(7):907-13. PMID: [15271349](//www.ncbi.nlm.nih.gov/pubmed/15271349).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15271349/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:AnimalsCells
+
+  104. Shimogawa H, Kwon Y, Mao Q, Kawazoe Y, Choi Y, Asada S, Kigoshi H, **Uesugi M**. A wrench-shaped synthetic molecule that modulates a transcription factor-coactivator interaction. J Am Chem Soc. 2004 Mar 24; 126(11):3461-71. PMID: [15025473](//www.ncbi.nlm.nih.gov/pubmed/15025473).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15025473/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  105. Asada S, Choi Y, **Uesugi M**. A gene-expression inhibitor that targets an alpha-helix-mediated protein interaction. J Am Chem Soc. 2003 Apr 30; 125(17):4992-3. PMID: [12708845](//www.ncbi.nlm.nih.gov/pubmed/12708845).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12708845/citedby/) Fields:
+
+Che Chemistry
+
+Translation:Cells
+
+  106. Choi Y, Kawazoe Y, Murakami K, Misawa H, **Uesugi M**. Identification of bioactive molecules by adipogenesis profiling of organic compounds. J Biol Chem. 2003 Feb 28; 278(9):7320-4. PMID: [12496288](//www.ncbi.nlm.nih.gov/pubmed/12496288).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12496288/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  107. Jabbur JR, Tabor AD, Cheng X, Wang H, **Uesugi M** , [Lozano G](https://profiles.viictr.org/profile/12582900), Zhang W. Mdm-2 binding and TAF(II)31 recruitment is regulated by hydrogen bond disruption between the p53 residues Thr18 and Asp21. Oncogene. 2002 Oct 10; 21(46):7100-13. PMID: [12370832](//www.ncbi.nlm.nih.gov/pubmed/12370832).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12370832/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansCells
+
+  108. Asada S, Choi Y, Yamada M, Wang SC, [Hung MC](https://profiles.viictr.org/profile/12582486), Qin J, **Uesugi M**. External control of Her2 expression and cancer cell growth by targeting a Ras-linked coactivator. Proc Natl Acad Sci U S A. 2002 Oct 01; 99(20):12747-52. PMID: [12242338](//www.ncbi.nlm.nih.gov/pubmed/12242338); PMCID: [PMC130531](//www.ncbi.nlm.nih.gov/pmc/articles/PMC130531).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12242338/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 108 publications over 22 distinct years, with a maximum of
+10 publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|10&cht=bvs&chd=t:0,0,0,0,0,0,0,0,30,10,40,20,30,50,0,30,40,70,30,50,50,20,50,70,80,80,70,80,100,70,10&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 3  
+2003| 1  
+2004| 4  
+2005| 2  
+2006| 3  
+2007| 5  
+2009| 3  
+2010| 4  
+2011| 7  
+2012| 3  
+2013| 5  
+2014| 5  
+2015| 2  
+2016| 5  
+2017| 7  
+2018| 8  
+2019| 8  
+2020| 7  
+2021| 8  
+2022| 10  
+2023| 7  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+UESUGI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (517)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Fluorescent Dyes](https://profiles.viictr.org/profile/251596)
+  * [Small Molecule Libraries](https://profiles.viictr.org/profile/257749)
+  * [Sterol Regulatory Element Binding Proteins](https://profiles.viictr.org/profile/251568)
+  * [Vitamin D](https://profiles.viictr.org/profile/240065)
+  * [Induced Pluripotent Stem Cells](https://profiles.viictr.org/profile/254079)
+
+[Explore](https://profiles.viictr.org/profile/268207/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [LOZANO, GUILLERMINA](https://profiles.viictr.org/profile/12582900)
+
+[Explore](https://profiles.viictr.org/profile/268207/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [CORTES, JORGE E](https://profiles.viictr.org/profile/12582539)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [MATZUK, MARTIN](https://profiles.viictr.org/profile/266520)
+
+[Explore](https://profiles.viictr.org/profile/268207/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [FERREON, JOSEPHINE](https://profiles.viictr.org/profile/8065537)
+  * [JUNG, SUNG](https://profiles.viictr.org/profile/268570)
+  * [LI, XIN](https://profiles.viictr.org/profile/28999564)
+  * [SONG, YONGCHENG](https://profiles.viictr.org/profile/266042)
+  * [WOTRING, VIRGINIA](https://profiles.viictr.org/profile/13152882)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CHEN, MIN](https://profiles.viictr.org/profile/268386)
+  * [DIERICK, HERMAN](https://profiles.viictr.org/profile/265943)
+  * [HOCKENBERRY, MARILYN](https://profiles.viictr.org/profile/268328)
+  * [MCCULLOUGH, LAURENCE](https://profiles.viictr.org/profile/269728)
+  * [YEOMAN, LYNN](https://profiles.viictr.org/profile/269534)
+
+_
+

@@ -1,0 +1,318 @@
+## MICHAEL QUACH
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 6701 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O6Yh9GTEKKv3RYKj5X%2fX&rnd=55e9880e-6682-45a3-95d2-a40118d12803)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269280)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neurology  
+Division| Neurology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Ayyoubi AH, Fazli Besheli B, **Quach MM** , Gavvala JR, Goldman AM, Swamy CP, [Bartoli E](https://profiles.viictr.org/profile/23496145), [Curry DJ](https://profiles.viictr.org/profile/265950), [Sheth SA](https://profiles.viictr.org/profile/23479136), Francis DJ, [Ince NF](https://profiles.viictr.org/profile/38813499). Benchmarking signal quality and spatiotemporal distribution of interictal spikes in prolonged human iEEG recordings using CorTec wireless brain interchange. Sci Rep. 2024 02 08; 14(1):2652. PMID: [38332136](//www.ncbi.nlm.nih.gov/pubmed/38332136); PMCID: [PMC10853182](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10853182).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Humans
+
+  2. Ravindra VM, Ruggieri L, [Gadgil N](https://profiles.viictr.org/profile/36041116), [Addison AP](https://profiles.viictr.org/profile/40200559), Patino I, Gonda DD, Chu J, Whitehead L, [Anderson A](https://profiles.viictr.org/profile/268159), [Diaz-Medina G](https://profiles.viictr.org/profile/268866), Houck K, [Katyayan A](https://profiles.viictr.org/profile/27841666), [Masters L](https://profiles.viictr.org/profile/266634), Nath A, **Quach M** , Riviello JJ, [Seto E](https://profiles.viictr.org/profile/3009512), [Sully KE](https://profiles.viictr.org/profile/27841702), Agurs L, [Sen S](https://profiles.viictr.org/profile/24845276), [Handoko M](https://profiles.viictr.org/profile/31330325), [Coorg R](https://profiles.viictr.org/profile/8183307), [Ali I](https://profiles.viictr.org/profile/7520384), Ikeda D, [Weiner H](https://profiles.viictr.org/profile/17062693), [Curry DJ](https://profiles.viictr.org/profile/265950). An Initial Experience of Completion Hemispherotomy via Magnetic Resonance-Guided Laser Interstitial Therapy. Stereotact Funct Neurosurg. 2023; 101(3):179-187. PMID: [37062282](//www.ncbi.nlm.nih.gov/pubmed/37062282).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  3. Ravindra VM, Karas PJ, Lazaro TT, [Coorg R](https://profiles.viictr.org/profile/8183307), Awad AW, Patino I, [McClernon EE](https://profiles.viictr.org/profile/37805256), Clarke D, Cairampoma Whitehead L, [Anderson A](https://profiles.viictr.org/profile/268159), [Diaz-Medina G](https://profiles.viictr.org/profile/268866), Houck K, [Katyayan A](https://profiles.viictr.org/profile/27841666), [Masters L](https://profiles.viictr.org/profile/266634), Nath A, **Quach M** , Riviello J, [Seto ES](https://profiles.viictr.org/profile/3009512), [Sully K](https://profiles.viictr.org/profile/27841702), Agurs L, [Sen S](https://profiles.viictr.org/profile/24845276), [Handoko M](https://profiles.viictr.org/profile/31330325), LoPresti M, [Ali I](https://profiles.viictr.org/profile/7520384), [Curry DJ](https://profiles.viictr.org/profile/265950), [Weiner HL](https://profiles.viictr.org/profile/17062693). Epilepsy Surgery in Young Children With Tuberous Sclerosis Complex: A Novel Hybrid Multimodal Surgical Approach. Neurosurgery. 2023 02 01; 92(2):398-406. PMID: [36637274](//www.ncbi.nlm.nih.gov/pubmed/36637274).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  4. Besheli BF, Sha Z, Gavvala JR, Gurses C, Karamursel S, **Quach MM** , [Curry DJ](https://profiles.viictr.org/profile/265950), [Sheth SA](https://profiles.viictr.org/profile/23479136), Francis DJ, Henry TR, [Ince NF](https://profiles.viictr.org/profile/38813499). A sparse representation strategy to eliminate pseudo-HFO events from intracranial EEG for seizure onset zone localization. J Neural Eng. 2022 08 24; 19(4). PMID: [35931045](//www.ncbi.nlm.nih.gov/pubmed/35931045); PMCID: [PMC9901915](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9901915).
+
+Citations:
+
+  5. Chourasia N, **Quach M** , Gavvala J. Insular Magnetoencephalography Dipole Clusters in Patients With Refractory Focal Epilepsy. J Clin Neurophysiol. 2021 Nov 01; 38(6):542-546. PMID: [32501951](//www.ncbi.nlm.nih.gov/pubmed/32501951).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32501951/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:Humans
+
+  6. Zhang Q, Hu Y, Potter T, Li R, **Quach M** , Zhang Y. Establishing functional brain networks using a nonlinear partial directed coherence method to predict epileptic seizures. J Neurosci Methods. 2020 01 01; 329:108447. PMID: [31614163](//www.ncbi.nlm.nih.gov/pubmed/31614163).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31614163/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  7. Jimenez-Gomez A, Niu S, Andujar-Perez F, McQuade EA, [Balasa A](https://profiles.viictr.org/profile/37834413), Huss D, [Coorg R](https://profiles.viictr.org/profile/8183307), **Quach M** , Vinson S, [Risen S](https://profiles.viictr.org/profile/15317836), Holder JL. Phenotypic characterization of individuals with SYNGAP1 pathogenic variants reveals a potential correlation between posterior dominant rhythm and developmental progression. J Neurodev Disord. 2019 08 08; 11(1):18. PMID: [31395010](//www.ncbi.nlm.nih.gov/pubmed/31395010); PMCID: [PMC6688356](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6688356).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31395010/citedby/) Fields:
+
+Neu NeurologyPsy Psychiatry
+
+Translation:Humans
+
+  8. Liu S, Gurses C, Sha Z, **Quach MM** , Sencer A, Bebek N, [Curry DJ](https://profiles.viictr.org/profile/265950), [Prabhu S](https://profiles.viictr.org/profile/12583765), [Tummala S](https://profiles.viictr.org/profile/12583010), Henry TR, [Ince NF](https://profiles.viictr.org/profile/38813499). Stereotyped high-frequency oscillations discriminate seizure onset zones and critical functional cortex in focal epilepsy. Brain. 2018 03 01; 141(3):713-730. PMID: [29394328](//www.ncbi.nlm.nih.gov/pubmed/29394328); PMCID: [PMC6715109](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6715109).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29394328/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:Humans
+
+  9. Ali W, Bubolz BA, Nguyen L, [Castro D](https://profiles.viictr.org/profile/265843), [Coss-Bu J](https://profiles.viictr.org/profile/269757), **Quach MM** , [Kennedy CE](https://profiles.viictr.org/profile/267060), Anderson AE, [Lai YC](https://profiles.viictr.org/profile/265585). Epilepsy is associated with ventricular alterations following convulsive status epilepticus in children. Epilepsia Open. 2017 Dec; 2(4):432-440. PMID: [29430560](//www.ncbi.nlm.nih.gov/pubmed/29430560); PMCID: [PMC5800777](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5800777).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29430560/citedby/) Fields:
+
+Neu Neurology
+
+  10. Liu S, **Quach MM** , [Curry DJ](https://profiles.viictr.org/profile/265950), Ummat M, [Seto E](https://profiles.viictr.org/profile/3009512), [Ince NF](https://profiles.viictr.org/profile/38813499). High-frequency oscillations detected in ECoG recordings correlate with cavernous malformation and seizure-free outcome in a child with focal epilepsy: A case report. Epilepsia Open. 2017 06; 2(2):267-272. PMID: [29588956](//www.ncbi.nlm.nih.gov/pubmed/29588956); PMCID: [PMC5719856](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5719856).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29588956/citedby/) Fields:
+
+Neu Neurology
+
+  11. Holder JL, **Quach MM**. The spectrum of epilepsy and electroencephalographic abnormalities due to SHANK3 loss-of-function mutations. Epilepsia. 2016 Oct; 57(10):1651-1659. PMID: [27554343](//www.ncbi.nlm.nih.gov/pubmed/27554343); PMCID: [PMC5547884](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5547884).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27554343/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:HumansCells
+
+  12. Akman CI, Micic V, **Quach M** , Wilfong AA, [Schultz R](https://profiles.viictr.org/profile/267701), Riviello JJ, Chapieski ML. Application of envelope trend to analyze early EEG changes in the frontal regions during intracarotid amobarbital procedure in children. Epilepsy Behav. 2015 Feb; 43:66-73. PMID: [25561380](//www.ncbi.nlm.nih.gov/pubmed/25561380).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25561380/citedby/) Fields:
+
+Beh Behavioral SciencesNeu Neurology
+
+Translation:Humans
+
+  13. Holder JL, Agadi S, Reese W, Rehder C, **Quach MM**. Infantile spasms and hyperekplexia associated with isolated sulfite oxidase deficiency. JAMA Neurol. 2014 Jun; 71(6):782-4. PMID: [24756183](//www.ncbi.nlm.nih.gov/pubmed/24756183).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24756183/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  14. Agadi S, **Quach MM** , [Haneef Z](https://profiles.viictr.org/profile/268515). Vitamin-responsive epileptic encephalopathies in children. Epilepsy Res Treat. 2013; 2013:510529. PMID: [23984056](//www.ncbi.nlm.nih.gov/pubmed/23984056); PMCID: [PMC3745849](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3745849).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23984056/citedby/)
+
+  15. Agadi S, [Sutton VR](https://profiles.viictr.org/profile/269795), **Quach MM** , Riviello JJ. The electroencephalogram in neonatal maple syrup urine disease: a case report. Clin EEG Neurosci. 2012 Jan; 43(1):64-7. PMID: [22423553](//www.ncbi.nlm.nih.gov/pubmed/22423553).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22423553/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:Humans
+
+  16. Campbell IM, Kolodziejska KE, **Quach MM** , Wolf VL, [Cheung SW](https://profiles.viictr.org/profile/268913), [Lalani SR](https://profiles.viictr.org/profile/269910), Ramocki MB, [Stankiewicz P](https://profiles.viictr.org/profile/269299). TGFBR2 deletion in a 20-month-old female with developmental delay and microcephaly. Am J Med Genet A. 2011 Jun; 155A(6):1442-7. PMID: [21567932](//www.ncbi.nlm.nih.gov/pubmed/21567932); PMCID: [PMC3646644](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3646644).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21567932/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  17. Agadi S, Riviello JJ, **Quach MM**. Response to "A graded system to categorize drug-resistant epilepsy". Epilepsia. 2011 Mar; 52(3):653-4. PMID: [21395572](//www.ncbi.nlm.nih.gov/pubmed/21395572).
+
+Citations:  Fields:
+
+Bra BrainNeu Neurology
+
+Translation:Humans
+
+  18. **Quach MM** , Mazin A, Riviello JJ. Newer anticonvulsant medications in pediatric neurology. Curr Treat Options Neurol. 2010 Nov; 12(6):518-28. PMID: [20848327](//www.ncbi.nlm.nih.gov/pubmed/20848327).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20848327/citedby/)
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 18 publications over 14 distinct years, with a maximum of
+2 publications in 2011 and 2017 and 2019 and
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,100,50,50,50,50,50,100,50,100,0,50,100,50,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2010| 1  
+2011| 2  
+2012| 1  
+2013| 1  
+2014| 1  
+2015| 1  
+2016| 1  
+2017| 2  
+2018| 1  
+2019| 2  
+2021| 1  
+2022| 2  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+QUACH's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (84)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Epilepsy](https://profiles.viictr.org/profile/258637)
+  * [Brain Waves](https://profiles.viictr.org/profile/27545915)
+  * [Electroencephalography](https://profiles.viictr.org/profile/262248)
+  * [Seizures](https://profiles.viictr.org/profile/262656)
+  * [Drug Resistant Epilepsy](https://profiles.viictr.org/profile/27544483)
+
+[Explore](https://profiles.viictr.org/profile/269280/198)
+
+_
+
+Co-Authors (35)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HOLDER JR, JIMMY](https://profiles.viictr.org/profile/267458)
+  * [RIVIELLO JR., JAMES](https://profiles.viictr.org/profile/268492)
+  * [INCE, NURI FIRAT](https://profiles.viictr.org/profile/38813499)
+  * [CURRY, DANIEL](https://profiles.viictr.org/profile/265950)
+  * [WEINER, HOWARD](https://profiles.viictr.org/profile/17062693)
+
+[Explore](https://profiles.viictr.org/profile/269280/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HANEEF, ZULFI](https://profiles.viictr.org/profile/268515)
+  * [CHANG, EDWARD I-FEI](https://profiles.viictr.org/profile/12583166)
+  * [NOEBELS, JEFFREY](https://profiles.viictr.org/profile/269703)
+  * [RIVIELLO JR., JAMES](https://profiles.viictr.org/profile/268492)
+  * [WEINER, HOWARD](https://profiles.viictr.org/profile/17062693)
+
+[Explore](https://profiles.viictr.org/profile/269280/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ARAS, SUKRU](https://profiles.viictr.org/profile/41528714)
+  * [LOTZE, TIMOTHY](https://profiles.viictr.org/profile/267050)
+  * [NAYAK, ANURANJITA](https://profiles.viictr.org/profile/8839721)
+  * [PATNIYOT, IRENE](https://profiles.viictr.org/profile/17936044)
+  * [ZHONG, YI](https://profiles.viictr.org/profile/41013847)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BALLESTER ROSADO, CARLOS](https://profiles.viictr.org/profile/3010124)
+  * [CASTRO-REYES, WILFRED](https://profiles.viictr.org/profile/268610)
+  * [DIAZ-MEDINA, GLORIA](https://profiles.viictr.org/profile/268866)
+  * [DUGGAN, DEANNA](https://profiles.viictr.org/profile/265721)
+  * [EMRICK, LISA](https://profiles.viictr.org/profile/3010431)
+
+_
+

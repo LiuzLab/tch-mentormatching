@@ -1,0 +1,535 @@
+## ANDREW SHER
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiology  
+Address| 6621 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F6U082DQbrj9Q53N4njPZLGIMg%3d%3d&rnd=61c7a1da-7eb4-4bca-95ca-27d6f4598fa5)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=14348256)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Heczey A](https://profiles.viictr.org/profile/268789), Xu X, [Courtney AN](https://profiles.viictr.org/profile/9596407), [Tian G](https://profiles.viictr.org/profile/1826488), Barragan GA, Guo L, Amador CM, Ghatwai N, Rathi P, Wood MS, Li Y, Zhang C, Demberg T, Di Pierro EJ, **Sher AC** , Zhang H, Mehta B, Thakkar SG, [Grilley B](https://profiles.viictr.org/profile/266987), Wang T, Weiss BD, Montalbano A, Subramaniam M, Xu C, Sachar C, Wells DK, Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187). Author Correction: Anti-GD2 CAR-NKT cells in relapsed or refractory neuroblastoma: updated phase 1 trial interim results. Nat Med. 2024 Apr; 30(4):1210. PMID: [38195754](//www.ncbi.nlm.nih.gov/pubmed/38195754).
+
+Citations:  Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+  2. Taylor TN, Duruewuru AT, Ditzler MG, Bridges CS, Albar A, Rosenfeld SB, Smith BG, **Sher AC** , [Kan JH](https://profiles.viictr.org/profile/266180). How Reliable Is the Measurement of the Lateral Center Edge Angle on Scoliosis Radiographs for Detecting Acetabular Dysplasia? J Pediatr Orthop. 2024 Jul 01; 44(6):e485-e489. PMID: [38545876](//www.ncbi.nlm.nih.gov/pubmed/38545876).
+
+Citations:  Fields:
+
+Ort OrthopedicsPed Pediatrics
+
+Translation:Humans
+
+  3. [Kaul I](https://profiles.viictr.org/profile/41209084), Burton-Murray H, [Musaad S](https://profiles.viictr.org/profile/28999429), Mirabile Y, [Czyzewski D](https://profiles.viictr.org/profile/269628), van Tilburg MAL, **Sher AC** , Chumpitazi BP, [Shulman RJ](https://profiles.viictr.org/profile/266712). Avoidant/restrictive food intake disorder prevalence is high in children with gastroparesis and functional dyspepsia. Neurogastroenterol Motil. 2024 May; 36(5):e14777. PMID: [38454301](//www.ncbi.nlm.nih.gov/pubmed/38454301); PMCID: [PMC11149999](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11149999).
+
+Citations:  Fields:
+
+Gas GastroenterologyNeu Neurology
+
+Translation:Humans
+
+  4. Salman R, Mertiri L, [Seghers VJ](https://profiles.viictr.org/profile/266968), Schiess DM, Nguyen HN, **Sher AC** , [Sammer MBK](https://profiles.viictr.org/profile/30445201). Ultrasound imaging of bowel obstruction in neonates. J Ultrasound. 2024 Jun; 27(2):407-417. PMID: [38402484](//www.ncbi.nlm.nih.gov/pubmed/38402484); PMCID: [PMC11178722](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11178722).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  5. Schiess DM, [Sammer MBK](https://profiles.viictr.org/profile/30445201), **Sher AC** , El-Ali AM, [Onwuka EA](https://profiles.viictr.org/profile/38304500), Huang X, Staggers KA, Nguyen HN. Impact of Focused Abdominal Ultrasound Utilization on Outcomes for Children With Midgut Volvulus. J Pediatr Surg. 2024 Jun; 59(6):1101-1107. PMID: [38418275](//www.ncbi.nlm.nih.gov/pubmed/38418275).
+
+Citations:  Fields:
+
+Gen General SurgeryPed Pediatrics
+
+Translation:Humans
+
+  6. Salman R, Nguyen HN, **Sher AC** , Hallam K, [Seghers VJ](https://profiles.viictr.org/profile/266968), [Sammer MBK](https://profiles.viictr.org/profile/30445201). Diagnostic performance of artificial intelligence for pediatric pulmonary nodule detection on chest computed tomography: comparison of simulated lower radiation doses. Eur J Pediatr. 2023 Nov; 182(11):5159-5165. PMID: [37698612](//www.ncbi.nlm.nih.gov/pubmed/37698612).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+  7. Taylor TN, Bridges CS, Duruewuru AT, **Sher AC** , Rosenfeld SB, Smith BG, [Kan JH](https://profiles.viictr.org/profile/266180). How Often Do Patients Presenting With Severe Adolescent Idiopathic Scoliosis Have Underlying Hip Dysplasia? J Pediatr Orthop. 2023 Nov-Dec 01; 43(10):e798-e803. PMID: [37694557](//www.ncbi.nlm.nih.gov/pubmed/37694557).
+
+Citations:  Fields:
+
+Ort OrthopedicsPed Pediatrics
+
+Translation:Humans
+
+  8. [Sammer MBK](https://profiles.viictr.org/profile/30445201), Akbari YS, Barth RA, Blumer SL, Dillman JR, Farmakis SG, Gokli A, Iyer R, Joshi A, Kwon JK, **Sher AC** , Taragin BH, Towbin AJ, Wald C, Frush DP, Halabi SS, Otero HJ, Sotardi ST. Use of Artificial Intelligence in Radiology: Impact on Pediatric Patients, a White Paper From the ACR Pediatric AI Workgroup. J Am Coll Radiol. 2023 08; 20(8):730-737. PMID: [37498259](//www.ncbi.nlm.nih.gov/pubmed/37498259).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37498259/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  9. Albar A, **Sher AC** , Rosenfeld S, Ditzler M, Kraus S, [Crowe J](https://profiles.viictr.org/profile/266189), [Sangi-Haghpeykar H](https://profiles.viictr.org/profile/266954), [Kan JH](https://profiles.viictr.org/profile/266180). Improved Identification of Adolescent Hip Dysplasia Using a Screening Method Based on Lateral Center Edge Angle Measurements. Acad Radiol. 2023 10; 30(10):2140-2146. PMID: [37393178](//www.ncbi.nlm.nih.gov/pubmed/37393178).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  10. Mangum R, Reuther J, Sen Baksi K, Gandhi I, Zabriskie RC, Recinos A, Raesz-Martinez R, [Lin FY](https://profiles.viictr.org/profile/1826466), Potter SL, **Sher AC** , [Kralik SF](https://profiles.viictr.org/profile/29494291), [Mohila CA](https://profiles.viictr.org/profile/269940), [Chintagumpala MM](https://profiles.viictr.org/profile/268049), [Muzny D](https://profiles.viictr.org/profile/268028), Hu J, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Fisher KE](https://profiles.viictr.org/profile/8451894), [Bernini JC](https://profiles.viictr.org/profile/269578), Gill J, Griffin TC, Tomlinson GE, Vallance KL, [Plon SE](https://profiles.viictr.org/profile/269771), [Roy A](https://profiles.viictr.org/profile/268647), [Parsons DW](https://profiles.viictr.org/profile/265886). Circulating tumor DNA sequencing of pediatric solid and brain tumor patients: An institutional feasibility study. Pediatr Hematol Oncol. 2023; 40(8):719-738. PMID: [37366551](//www.ncbi.nlm.nih.gov/pubmed/37366551); PMCID: [PMC10592361](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10592361).
+
+Citations:  Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  11. Salman R, Nguyen HN, **Sher AC** , Hallam KA, [Seghers VJ](https://profiles.viictr.org/profile/266968), [Sammer MBK](https://profiles.viictr.org/profile/30445201). Diagnostic performance of artificial intelligence for pediatric pulmonary nodule detection in computed tomography of the chest. Clin Imaging. 2023 Sep; 101:50-55. PMID: [37301051](//www.ncbi.nlm.nih.gov/pubmed/37301051).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  12. [Heczey A](https://profiles.viictr.org/profile/268789), [Xu X](https://profiles.viictr.org/profile/12328491), [Courtney AN](https://profiles.viictr.org/profile/9596407), [Tian G](https://profiles.viictr.org/profile/1826488), Barragan GA, Guo L, Amador CM, Ghatwai N, Rathi P, Wood MS, Li Y, Zhang C, Demberg T, Di Pierro EJ, **Sher AC** , Zhang H, Mehta B, Thakkar SG, [Grilley B](https://profiles.viictr.org/profile/266987), Wang T, Weiss BD, Montalbano A, Subramaniam M, Xu C, Sachar C, Wells DK, Dotti G, [Metelitsa LS](https://profiles.viictr.org/profile/266187). Anti-GD2 CAR-NKT cells in relapsed or refractory neuroblastoma: updated phase 1 trial interim results. Nat Med. 2023 Jun; 29(6):1379-1388. PMID: [37188782](//www.ncbi.nlm.nih.gov/pubmed/37188782).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37188782/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansAnimalsCellsCTClinical Trials
+
+  13. **Sher AC** , [Sammer MBK](https://profiles.viictr.org/profile/30445201). Remote Radiology: Counterpoint-The Case for Presence as a Source of Professional, Educational, and Social Fulfillment. AJR Am J Roentgenol. 2023 07; 221(1):19-20. PMID: [36598099](//www.ncbi.nlm.nih.gov/pubmed/36598099).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  14. [Sammer MBK](https://profiles.viictr.org/profile/30445201), Farmakis SG, **Sher AC** , Taragin BH, Towbin AJ. Re: 'Assessment of an artificial intelligence aid for the detection of appendicular skeletal fractures in children and young adults by senior and junior radiologists'. Pediatr Radiol. 2023 02; 53(2):339-340. PMID: [36477625](//www.ncbi.nlm.nih.gov/pubmed/36477625).
+
+Citations:  Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  15. Febo-Rodriguez L, Chumpitazi BP, [Musaad S](https://profiles.viictr.org/profile/28999429), **Sher AC** , Varni JW, [Shulman RJ](https://profiles.viictr.org/profile/266712). Gastrointestinal Symptoms Profile in Pediatric Patients With Gastroparesis Compared to Healthy Controls. J Pediatr Gastroenterol Nutr. 2022 08 01; 75(2):151-158. PMID: [35653378](//www.ncbi.nlm.nih.gov/pubmed/35653378).
+
+Citations:  Fields:
+
+Gas GastroenterologyNut Nutritional SciencesPed Pediatrics
+
+Translation:Humans
+
+  16. Seghers MC, [Seghers VJ](https://profiles.viictr.org/profile/266968), **Sher AC** , [Jadhav SP](https://profiles.viictr.org/profile/267624), States LJ, Trout AT, Alazraki AL, [Sammer MBK](https://profiles.viictr.org/profile/30445201). Working from home during the COVID-19 pandemic: surveys of the Society for Pediatric Radiology and the Society of Chiefs of Radiology at Children's Hospitals. Pediatr Radiol. 2022 06; 52(7):1242-1254. PMID: [35229184](//www.ncbi.nlm.nih.gov/pubmed/35229184); PMCID: [PMC8885321](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8885321).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35229184/citedby/) Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:HumansPHPublic Health
+
+  17. [Sammer MBK](https://profiles.viictr.org/profile/30445201), [Seghers VJ](https://profiles.viictr.org/profile/266968), **Sher AC**. Re: "Lessons Learned From the Front Lines of Artificial Intelligence Implementation". J Am Coll Radiol. 2022 04; 19(4):499. PMID: [35077684](//www.ncbi.nlm.nih.gov/pubmed/35077684).
+
+Citations:  Fields:
+
+Rad Radiology
+
+  18. Salman R, **Sher AC** , [Sammer MBK](https://profiles.viictr.org/profile/30445201), Rodriguez JR, Shah SR, [Seghers VJ](https://profiles.viictr.org/profile/266968). Ileocolic intussusception in pediatric SARS-CoV-2 patients: experience at a tertiary pediatric center. Pediatr Surg Int. 2022 Mar; 38(3):437-443. PMID: [34999941](//www.ncbi.nlm.nih.gov/pubmed/34999941); PMCID: [PMC8742661](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8742661).
+
+Citations:  Fields:
+
+Gen General SurgeryPed Pediatrics
+
+Translation:HumansCells
+
+  19. Salman R, **Sher AC** , Guillerman RP, [Seghers VJ](https://profiles.viictr.org/profile/266968), Rodriguez JR, [Sangi-Haghpeykar H](https://profiles.viictr.org/profile/266954), [Annapragada AV](https://profiles.viictr.org/profile/269845), [Sammer MBK](https://profiles.viictr.org/profile/30445201). Acute appendicitis and SARS-CoV-2 in children: imaging findings at a tertiary children's hospital during the COVID-19 pandemic. Pediatr Radiol. 2022 03; 52(3):460-467. PMID: [34741178](//www.ncbi.nlm.nih.gov/pubmed/34741178); PMCID: [PMC8570768](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8570768).
+
+Citations:  Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:HumansCellsPHPublic Health
+
+  20. [Seghers VJ](https://profiles.viictr.org/profile/266968), [Somcio R](https://profiles.viictr.org/profile/14348432), **Sher AC** , Paul Guillerman R, [Sammer MBK](https://profiles.viictr.org/profile/30445201), [Kan JH](https://profiles.viictr.org/profile/266180). CT imaging of esophageal foreign bodies in children: a pictorial essay. Jpn J Radiol. 2022 Mar; 40(3):262-270. PMID: [34661860](//www.ncbi.nlm.nih.gov/pubmed/34661860).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  21. Hayatghaibi SE, [Sammer MBK](https://profiles.viictr.org/profile/30445201), Varghese V, [Seghers VJ](https://profiles.viictr.org/profile/266968), **Sher AC**. Prospective cost implications with a clinical decision support system for pediatric emergency head computed tomography. Pediatr Radiol. 2021 12; 51(13):2561-2567. PMID: [34435225](//www.ncbi.nlm.nih.gov/pubmed/34435225); PMCID: [PMC8386893](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8386893).
+
+Citations:  Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  22. Febo-Rodriguez L, Chumpitazi BP, **Sher AC** , [Shulman RJ](https://profiles.viictr.org/profile/266712). Gastric accommodation: Physiology, diagnostic modalities, clinical relevance, and therapies. Neurogastroenterol Motil. 2021 12; 33(12):e14213. PMID: [34337824](//www.ncbi.nlm.nih.gov/pubmed/34337824).
+
+Citations:  Fields:
+
+Gas GastroenterologyNeu Neurology
+
+Translation:Humans
+
+  23. [Sammer MBK](https://profiles.viictr.org/profile/30445201), **Sher AC** , Towbin AJ. Ensuring Adequate Development and Appropriate Use of Artificial Intelligence in Pediatric Medical Imaging. AJR Am J Roentgenol. 2022 01; 218(1):182-183. PMID: [34319165](//www.ncbi.nlm.nih.gov/pubmed/34319165).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34319165/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  24. Whitlock RS, Mehl SC, Larson SK, [Foster JH](https://profiles.viictr.org/profile/1826370), Hicks J, [Nuchtern JG](https://profiles.viictr.org/profile/266271), **Sher AC** , [Vasudevan SA](https://profiles.viictr.org/profile/269879), Naik-Mathuria B. Characteristics of benign neuroblastic tumors: Is surgery always necessary? J Pediatr Surg. 2022 Aug; 57(8):1538-1543. PMID: [34281709](//www.ncbi.nlm.nih.gov/pubmed/34281709).
+
+Citations:  Fields:
+
+Gen General SurgeryPed Pediatrics
+
+Translation:Humans
+
+  25. [Wesson DE](https://profiles.viictr.org/profile/267008), Johnson BL, Barclay C, [Vogel AM](https://profiles.viictr.org/profile/18830402), Chelius DC, [Dimachkieh AL](https://profiles.viictr.org/profile/23478793), [Athanassaki ID](https://profiles.viictr.org/profile/269125), [Karaviti LP](https://profiles.viictr.org/profile/268290), **Sher AC** , Hernandez JA, [Mahmood NF](https://profiles.viictr.org/profile/269285), Mahajan P, [Quintanilla N](https://profiles.viictr.org/profile/269341), Lopez ME. Thyroid surgery outcomes at a children's hospital: The value of a multidisciplinary team approach. J Pediatr Surg. 2022 Apr; 57(4):622-629. PMID: [34301414](//www.ncbi.nlm.nih.gov/pubmed/34301414).
+
+Citations:  Fields:
+
+Gen General SurgeryPed Pediatrics
+
+Translation:Humans
+
+  26. Febo-Rodriguez L, [Shulman RJ](https://profiles.viictr.org/profile/266712), **Sher AC** , Chumpitazi BP. Using Adult Norms for Gastric Emptying Scintigraphy Evaluation in Children. Am J Gastroenterol. 2021 07 01; 116(7):1553. PMID: [34183581](//www.ncbi.nlm.nih.gov/pubmed/34183581).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  27. [Sammer MBK](https://profiles.viictr.org/profile/30445201), [Seghers VJ](https://profiles.viictr.org/profile/266968), Hayatghaibi S, **Sher AC**. Employing a Nudge: Designing a Partially Automated Workflow to Solve the "Plain Film Problem". J Am Coll Radiol. 2021 Aug; 18(8):1139-1142. PMID: [33865754](//www.ncbi.nlm.nih.gov/pubmed/33865754).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  28. [Foster JH](https://profiles.viictr.org/profile/1826370), **Sher A** , [Seghers V](https://profiles.viictr.org/profile/266968), Poston J, Wells D, Delpassand ES, Potter S, Mahajan P, [Venkatramani R](https://profiles.viictr.org/profile/8183321). Peptide receptor radionuclide therapy for treatment of metastatic neuroendocrine tumors in children. Pediatr Blood Cancer. 2021 07; 68(7):e29056. PMID: [33844446](//www.ncbi.nlm.nih.gov/pubmed/33844446).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33844446/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  29. [Sammer MBK](https://profiles.viictr.org/profile/30445201), Stahl A, Ozkan E, **Sher AC**. Implementation of a Software Distribution Intervention to Improve Workload Balance in an Academic Pediatric Radiology Department. J Digit Imaging. 2021 06; 34(3):741-749. PMID: [33835322](//www.ncbi.nlm.nih.gov/pubmed/33835322); PMCID: [PMC8329137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8329137).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingMed Medical InformaticsRad Radiology
+
+Translation:Humans
+
+  30. [Sammer MBK](https://profiles.viictr.org/profile/30445201), [Kan JH](https://profiles.viictr.org/profile/266180), [Somcio R](https://profiles.viictr.org/profile/14348432), **Sher AC** , Hansen CM, Pahlka RB, Guillerman RP, [Seghers VJ](https://profiles.viictr.org/profile/266968). Chest CT for the Diagnosis of Pediatric Esophageal Foreign Bodies. Curr Probl Diagn Radiol. 2021 Sep-Oct; 50(5):566-570. PMID: [33745769](//www.ncbi.nlm.nih.gov/pubmed/33745769).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  31. Namireddy MK, Consul N, **Sher AC**. FDG-Avid Pulmonary Nodules and Tracheobronchial Mural Inflammation in IgG4-Related Disease. Clin Nucl Med. 2021 Feb 01; 46(2):e125-e126. PMID: [33156051](//www.ncbi.nlm.nih.gov/pubmed/33156051).
+
+Citations:  Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Humans
+
+  32. Febo-Rodriguez L, Chumpitazi BP, [Musaad S](https://profiles.viictr.org/profile/28999429), **Sher AC** , [Shulman RJ](https://profiles.viictr.org/profile/266712). Meal-Induced Symptoms in Children with Dyspepsia-Relationships to Sex and the Presence of Gastroparesis. J Pediatr. 2021 04; 231:117-123. PMID: [33359472](//www.ncbi.nlm.nih.gov/pubmed/33359472); PMCID: [PMC8500375](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8500375).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33359472/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansCTClinical Trials
+
+  33. [Ruan W](https://profiles.viictr.org/profile/22016564), Febo-Rodriguez L, Daignault C, Gulati N, [Narine K](https://profiles.viictr.org/profile/27841689), **Sher AC** , [Elghetany MT](https://profiles.viictr.org/profile/266095), Cortes-Santiago N, [Fishman DS](https://profiles.viictr.org/profile/265651), [Olive AP](https://profiles.viictr.org/profile/269661). Endoscopic ultrasound-guided diagnosis of Helicobacter pylori-associated gastric Burkitt's lymphoma in an adolescent patient: a rare case. Clin J Gastroenterol. 2021 Feb; 14(1):88-91. PMID: [33165831](//www.ncbi.nlm.nih.gov/pubmed/33165831); PMCID: [PMC7887014](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7887014).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33165831/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  34. [Sammer MBK](https://profiles.viictr.org/profile/30445201), **Sher AC** , [Huisman TAGM](https://profiles.viictr.org/profile/30445237), [Seghers VJ](https://profiles.viictr.org/profile/266968). Response to the COVID-19 Pandemic: Practical Guide to Rapidly Deploying Home Workstations to Guarantee Radiology Services During Quarantine, Social Distancing, and Stay Home Orders. AJR Am J Roentgenol. 2020 12; 215(6):1417-1420. PMID: [32602344](//www.ncbi.nlm.nih.gov/pubmed/32602344).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32602344/citedby/) Fields:
+
+Rad Radiology
+
+Translation:HumansCellsPHPublic Health
+
+  35. [Sammer MBK](https://profiles.viictr.org/profile/30445201), **Sher AC** , States LJ, Trout AT, [Seghers VJ](https://profiles.viictr.org/profile/266968). Current trends in pediatric nuclear medicine: a Society for Pediatric Radiology membership survey. Pediatr Radiol. 2020 07; 50(8):1139-1147. PMID: [32399687](//www.ncbi.nlm.nih.gov/pubmed/32399687).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32399687/citedby/) Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  36. [Seghers VJ](https://profiles.viictr.org/profile/266968), **Sher AC** , Nguyen HN, Hayatghaibi SE, [Huisman TAGM](https://profiles.viictr.org/profile/30445237), [Sammer MBK](https://profiles.viictr.org/profile/30445201). Development of pediatric academic-community radiology services: lessons learned. Pediatr Radiol. 2020 08; 50(9):1207-1216. PMID: [32358677](//www.ncbi.nlm.nih.gov/pubmed/32358677).
+
+Citations:  Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  37. Ghandour A, **Sher A** , Rassouli N, Dhanantwari A, Rajiah P. Evaluation of Virtual Monoenergetic Images on Pulmonary Vasculature Using the Dual-Layer Detector-Based Spectral Computed Tomography. J Comput Assist Tomogr. 2018 Nov/Dec; 42(6):858-865. PMID: [29659426](//www.ncbi.nlm.nih.gov/pubmed/29659426).
+
+Citations:
+
+  38. Orth R, [McClain K](https://profiles.viictr.org/profile/266880), [Allen C](https://profiles.viictr.org/profile/270283), Hayatghaibi S, [Seghers V](https://profiles.viictr.org/profile/266968), **Sher AC**. PET/MR in the Assessment of Pediatric Histiocytoses: A Comparison to PET/CT. Clin Nucl Med. 2017 Aug; 42(8):582-588. PMID: [28604476](//www.ncbi.nlm.nih.gov/pubmed/28604476).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28604476/citedby/) Fields:
+
+Nuc Nuclear Medicine
+
+Translation:Humans
+
+  39. Paldino MJ, Yang E, Jones JY, [Mahmood N](https://profiles.viictr.org/profile/269285), **Sher A** , Zhang W, Hayatghaibi S, Krishnamurthy R, [Seghers V](https://profiles.viictr.org/profile/266968). Comparison of the diagnostic accuracy of PET/MRI to PET/CT-acquired FDG brain exams for seizure focus detection: a prospective study. Pediatr Radiol. 2017 Oct; 47(11):1500-1507. PMID: [28512714](//www.ncbi.nlm.nih.gov/pubmed/28512714).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28512714/citedby/) Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  40. Potter SL, [Venkatramani R](https://profiles.viictr.org/profile/8183321), Wenderfer S, Graham BH, [Vasudevan SA](https://profiles.viictr.org/profile/269879), **Sher A** , Wu H, [Wheeler DA](https://profiles.viictr.org/profile/266937), Yang Y, [Eng CM](https://profiles.viictr.org/profile/267270), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Roy A](https://profiles.viictr.org/profile/268647), [Plon SE](https://profiles.viictr.org/profile/269771), [Parsons DW](https://profiles.viictr.org/profile/265886). Renal cell carcinoma harboring somatic TSC2 mutations in a child with methylmalonic acidemia. Pediatr Blood Cancer. 2017 05; 64(5). PMID: [27748010](//www.ncbi.nlm.nih.gov/pubmed/27748010); PMCID: [PMC5469213](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5469213).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27748010/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  41. **Sher AC** , [Seghers V](https://profiles.viictr.org/profile/266968), Paldino MJ, Dodge C, Krishnamurthy R, Krishnamurthy R, [Rohren EM](https://profiles.viictr.org/profile/15317848). Assessment of Sequential PET/MRI in Comparison With PET/CT of Pediatric Lymphoma: A Prospective Study. AJR Am J Roentgenol. 2016 Mar; 206(3):623-31. PMID: [26901021](//www.ncbi.nlm.nih.gov/pubmed/26901021).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26901021/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  42. Valls L, Hoimes C, **Sher A** , Hu L, Lee Z, Muzic R, Avril N. Early response monitoring of receptor tyrosine kinase inhibitor therapy in metastatic renal cell carcinoma using [F-18]fluorothymidine-positron emission tomography-magnetic resonance. Semin Roentgenol. 2014 Jul; 49(3):238-41. PMID: [25497908](//www.ncbi.nlm.nih.gov/pubmed/25497908).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25497908/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  43. **Sher A** , Valls L, Muzic RF, Plecha D, Avril N. Whole-body positron emission tomography-magnetic resonance in breast cancer. Semin Roentgenol. 2014 Oct; 49(4):313-20. PMID: [25498228](//www.ncbi.nlm.nih.gov/pubmed/25498228).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25498228/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  44. Nguyen N, Montagnese J, Rogers LR, **Sher A** , Wolansky L. Positron emission tomography-magnetic resonance imaging in the evaluation of brain tumors: current status and future prospects. Semin Roentgenol. 2014 Jul; 49(3):275-89. PMID: [25497912](//www.ncbi.nlm.nih.gov/pubmed/25497912).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25497912/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  45. Fan L, **Sher A** , Kohan A, Vercher-Conejero J, Rajiah P. PET/MRI in lung cancer. Semin Roentgenol. 2014 Oct; 49(4):291-303. PMID: [25498226](//www.ncbi.nlm.nih.gov/pubmed/25498226).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25498226/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  46. **Sher A** , Vercher-Conejero JL, Muzic RF, Avril N, Plecha D. Positron emission tomography/magnetic resonance imaging of the breast. Semin Roentgenol. 2014 Oct; 49(4):304-12. PMID: [25498227](//www.ncbi.nlm.nih.gov/pubmed/25498227).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25498227/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  47. Devlin P, **Sher A** , Rubbert C, Jordan D, Faulhaber P, Avril N, Ros P. Management and organization of positron emission tomography/magnetic resonance imaging. Semin Roentgenol. 2014 Jul; 49(3):271-4. PMID: [25497911](//www.ncbi.nlm.nih.gov/pubmed/25497911).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 47 publications over 9 distinct years, with a maximum of
+13 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|13&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,15,15,8,0,38,100,38,62,38&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2014| 6  
+2016| 2  
+2017| 2  
+2018| 1  
+2020| 5  
+2021| 13  
+2022| 5  
+2023| 8  
+2024| 5  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SHER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (168)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Radiology](https://profiles.viictr.org/profile/259520)
+  * [Artificial Intelligence](https://profiles.viictr.org/profile/246952)
+  * [Positron-Emission Tomography](https://profiles.viictr.org/profile/248540)
+  * [Fluorodeoxyglucose F18](https://profiles.viictr.org/profile/254538)
+  * [Radiology Information Systems](https://profiles.viictr.org/profile/241413)
+
+[Explore](https://profiles.viictr.org/profile/14348256/198)
+
+_
+
+Co-Authors (53)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SAMMER, MARLA](https://profiles.viictr.org/profile/30445201)
+  * [SEGHERS, VICTOR](https://profiles.viictr.org/profile/266968)
+  * [KAN, J](https://profiles.viictr.org/profile/266180)
+  * [SHULMAN, ROBERT](https://profiles.viictr.org/profile/266712)
+  * [ROHREN, ERIC](https://profiles.viictr.org/profile/15317848)
+
+[Explore](https://profiles.viictr.org/profile/14348256/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PARIKH, JAY R](https://profiles.viictr.org/profile/12583232)
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [ELSAYES, KHALED M](https://profiles.viictr.org/profile/12583941)
+  * [SAMMER, MARLA](https://profiles.viictr.org/profile/30445201)
+  * [MACAPINLAC, HOMER A](https://profiles.viictr.org/profile/12582999)
+
+[Explore](https://profiles.viictr.org/profile/14348256/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BEASLEY, CHARLES](https://profiles.viictr.org/profile/266487)
+  * [HEINTZELMAN, DOUGLAS](https://profiles.viictr.org/profile/37338178)
+  * [ROARK, ASHLEY](https://profiles.viictr.org/profile/17704776)
+  * [SAMMER, MARLA](https://profiles.viictr.org/profile/30445201)
+  * [SEPULVEDA, KARLA](https://profiles.viictr.org/profile/266060)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqNFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,495 @@
+## PHILIP BALDWIN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BqM57WzXbqn0Sov66XXiKLeBaRSOgg%3d%3d&rnd=7efbb3a5-f702-4c75-bdbe-
+eddaf31f12b5)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268193)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Van Veen D, Galaz-Montoya JG, Shen L, **Baldwin P** , Chaudhari AS, Lyumkis D, Schmid MF, Chiu W, Pauly J. Missing Wedge Completion via Unsupervised Learning with Coordinate Networks. Int J Mol Sci. 2024 May 17; 25(10). PMID: [38791508](//www.ncbi.nlm.nih.gov/pubmed/38791508); PMCID: [PMC11121946](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11121946).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38791508/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+  2. Van Veen D, Galaz-Montoya JG, Shen L, **Baldwin P** , Chaudhari AS, Lyumkis D, Schmid MF, Chiu W, Pauly J. Missing Wedge Completion via Unsupervised Learning with Coordinate Networks. bioRxiv. 2024 Apr 28. PMID: [38712113](//www.ncbi.nlm.nih.gov/pubmed/38712113); PMCID: [PMC11071277](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11071277).
+
+Citations:
+
+  3. Kleywegt GJ, Adams PD, Butcher SJ, Lawson CL, Rohou A, Rosenthal PB, Subramaniam S, Topf M, Abbott S, **Baldwin PR** , Berrisford JM, Bricogne G, Choudhary P, Croll TI, Danev R, Ganesan SJ, Grant T, Gutmanas A, Henderson R, Heymann JB, Huiskonen JT, Istrate A, Kato T, Lander GC, Lok SM, [Ludtke SJ](https://profiles.viictr.org/profile/270167), Murshudov GN, Pye R, Pintilie GD, Richardson JS, Sachse C, Salih O, Scheres SHW, Schroeder GF, Sorzano COS, Stagg SM, Wang Z, Warshamanage R, Westbrook JD, Winn MD, Young JY, Burley SK, Hoch JC, Kurisu G, Morris K, Patwardhan A, Velankar S. Community recommendations on cryoEM data archiving and validation. IUCrJ. 2024 Mar 01; 11(Pt 2):140-151. PMID: [38358351](//www.ncbi.nlm.nih.gov/pubmed/38358351); PMCID: [PMC10916293](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10916293).
+
+Citations:  Fields:
+
+Che Chemistry
+
+  4. Kleywegt GJ, Adams PD, Butcher SJ, Rohou A, Rosenthal PB, Subramaniam S, Topf M, Abbott S, **Baldwin PR** , Berrisford JM, Bricogne G, Choudhary P, Croll TI, Danev R, Ganesan SJ, Grant T, Gutmanas A, Henderson R, Heymann JB, Huiskonen JT, Istrate A, Kato T, Lander GC, Lok SM, [Ludtke SJ](https://profiles.viictr.org/profile/270167), Pye R, Pintilie GD, Richardson JS, Sachse C, Salih O, Scheres SHW, Sorzano COS, Stagg SM, Wang Z, Warshamanage R, Westbrook JD, Winn MD, Young JY, Burley SK, Hoch JC, Kurisu G, Morris K, Patwardhan A, Velankar S, Lawson CL, Murshudov GN, Schroeder GF. Community recommendations on cryoEM data archiving and validation: Outcomes of a wwPDB/EMDB workshop on cryoEM data management, deposition and validation. ArXiv. 2024 Feb 02. PMID: [38076521](//www.ncbi.nlm.nih.gov/pubmed/38076521); PMCID: [PMC10705588](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10705588).
+
+Citations:
+
+  5. Aiyer S, **Baldwin PR** , Tan SM, Shan Z, Oh J, Mehrani A, Bowman ME, Louie G, Passos DO, ?ordevic-Marquardt S, Mietzsch M, Hull JA, Hoshika S, Barad BA, Grotjahn DA, McKenna R, Agbandje-McKenna M, Benner SA, Noel JAP, Wang D, Tan YZ, Lyumkis D. Overcoming resolution attenuation during tilted cryo-EM data collection. Nat Commun. 2024 Jan 09; 15(1):389. PMID: [38195598](//www.ncbi.nlm.nih.gov/pubmed/38195598); PMCID: [PMC10776679](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10776679).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38195598/citedby/) Fields:
+
+Bio BiologySci Science
+
+  6. Aiyer S, **Baldwin PR** , Tan SM, Shan Z, Oh J, Mehrani A, Bowman ME, Louie G, Passos DO, ?ordevic-Marquardt S, Mietzsch M, Hull JA, Hoshika S, Barad BA, Grotjahn DA, McKenna R, Agbandje-McKenna M, Benner SA, Noel JAP, Wang D, Tan YZ, Lyumkis D. Overcoming Resolution Attenuation During Tilted Cryo-EM Data Collection. bioRxiv. 2023 Jul 15. PMID: [37503021](//www.ncbi.nlm.nih.gov/pubmed/37503021); PMCID: [PMC10369999](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10369999).
+
+Citations:
+
+  7. **Baldwin PR**. Transformations between rotational and translational invariants formulated in reciprocal spaces. J Struct Biol X. 2023; 7:100089. PMID: [37398937](//www.ncbi.nlm.nih.gov/pubmed/37398937); PMCID: [PMC10314203](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10314203).
+
+Citations:
+
+  8. **Baldwin PR** , Lyumkis D. Tools for visualizing and analyzing Fourier space sampling in Cryo-EM. Prog Biophys Mol Biol. 2021 03; 160:53-65. PMID: [32645314](//www.ncbi.nlm.nih.gov/pubmed/32645314); PMCID: [PMC7785567](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7785567).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32645314/citedby/) Fields:
+
+Bio BiophysicsMol Molecular Biology
+
+  9. **Baldwin PR** , Lyumkis D. Non-uniformity of projection distributions attenuates resolution in Cryo-EM. Prog Biophys Mol Biol. 2020 01; 150:160-183. PMID: [31525386](//www.ncbi.nlm.nih.gov/pubmed/31525386); PMCID: [PMC7054125](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7054125).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31525386/citedby/) Fields:
+
+Bio BiophysicsMol Molecular Biology
+
+Translation:Humans
+
+  10. Maldonado M, Molfese DL, Viswanath H, Curtis K, Jones A, Hayes TG, [Marcelli M](https://profiles.viictr.org/profile/266959), [Mediwala S](https://profiles.viictr.org/profile/267067), **Baldwin P** , Garcia JM, [Salas R](https://profiles.viictr.org/profile/267055). The habenula as a novel link between the homeostatic and hedonic pathways in cancer-associated weight loss: a pilot study. J Cachexia Sarcopenia Muscle. 2018 06; 9(3):497-504. PMID: [29575771](//www.ncbi.nlm.nih.gov/pubmed/29575771); PMCID: [PMC5989751](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5989751).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29575771/citedby/) Fields:
+
+Neo NeoplasmsPat Pathology
+
+Translation:Humans
+
+  11. **Baldwin PR** , Tan YZ, Eng ET, Rice WJ, Noble AJ, Negro CJ, Cianfrocco MA, Potter CS, Carragher B. Big data in cryoEM: automated collection, processing and accessibility of EM data. Curr Opin Microbiol. 2018 06; 43:1-8. PMID: [29100109](//www.ncbi.nlm.nih.gov/pubmed/29100109); PMCID: [PMC6067001](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6067001).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29100109/citedby/) Fields:
+
+Mic Microbiology
+
+  12. [Abdallah CG](https://profiles.viictr.org/profile/30909013), Averill CL, [Salas R](https://profiles.viictr.org/profile/267055), [Averill LA](https://profiles.viictr.org/profile/34089577), **Baldwin PR** , Krystal JH, [Mathew SJ](https://profiles.viictr.org/profile/269727), Mathalon DH. Prefrontal Connectivity and Glutamate Transmission: Relevance to Depression Pathophysiology and Ketamine Treatment. Biol Psychiatry Cogn Neurosci Neuroimaging. 2017 Oct; 2(7):566-574. PMID: [29034354](//www.ncbi.nlm.nih.gov/pubmed/29034354); PMCID: [PMC5635826](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5635826).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29034354/citedby/) Fields:
+
+Dia Diagnostic ImagingNeu NeurologyPsy Psychiatry
+
+  13. Qian DC, Molfese DL, Jin JL, Titus AJ, He Y, [Li Y](https://profiles.viictr.org/profile/28999126), Viswanath H, **Baldwin PR** , [Krahe R](https://profiles.viictr.org/profile/12582907), [Salas R](https://profiles.viictr.org/profile/267055), [Amos CI](https://profiles.viictr.org/profile/23372697), Vaissi? M. Genome-wide imaging association study implicates functional activity and glial homeostasis of the caudate in smoking addiction. BMC Genomics. 2017 Sep 19; 18(1):740. PMID: [28927378](//www.ncbi.nlm.nih.gov/pubmed/28927378); PMCID: [PMC5605997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5605997).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28927378/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  14. Curtis K, Viswanath H, Velasquez KM, Molfese DL, Harding MJ, Aramayo E, **Baldwin PR** , Ambrosi E, Madan A, [Patriquin M](https://profiles.viictr.org/profile/8065544), Frueh BC, Fowler JC, [Kosten TR](https://profiles.viictr.org/profile/265715), [Nielsen DA](https://profiles.viictr.org/profile/265975), [Salas R](https://profiles.viictr.org/profile/267055). Increased habenular connectivity in opioid users is associated with an a5 subunit nicotinic receptor genetic variant. Am J Addict. 2017 Oct; 26(7):751-759. PMID: [28857330](//www.ncbi.nlm.nih.gov/pubmed/28857330); PMCID: [PMC5745069](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5745069).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28857330/citedby/) Fields:
+
+Sub Substance-Related Disorders
+
+Translation:Humans
+
+  15. Venta A, [Sharp C](https://profiles.viictr.org/profile/270256), [Patriquin M](https://profiles.viictr.org/profile/8065544), [Salas R](https://profiles.viictr.org/profile/267055), Newlin E, Curtis K, **Baldwin P** , Fowler C, Frueh BC. Amygdala-frontal connectivity predicts internalizing symptom recovery among inpatient adolescents. J Affect Disord. 2018 01 01; 225:453-459. PMID: [28858660](//www.ncbi.nlm.nih.gov/pubmed/28858660).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28858660/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  16. Tan YZ, **Baldwin PR** , Davis JH, Williamson JR, Potter CS, Carragher B, Lyumkis D. Addressing preferred specimen orientation in single-particle cryo-EM through tilting. Nat Methods. 2017 Aug; 14(8):793-796. PMID: [28671674](//www.ncbi.nlm.nih.gov/pubmed/28671674); PMCID: [PMC5533649](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5533649).
+
+Citations:
+[257](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28671674/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+  17. Madan A, Fowler JC, [Patriquin MA](https://profiles.viictr.org/profile/8065544), [Salas R](https://profiles.viictr.org/profile/267055), **Baldwin PR** , Velasquez KM, Viswanath H, Molfese DL, [Sharp C](https://profiles.viictr.org/profile/270256), Allen JG, Hardesty S, [Oldham JM](https://profiles.viictr.org/profile/265615), Frueh BC. A Novel Approach to Identifying a Neuroimaging Biomarker for Patients With Serious Mental Illness. J Neuropsychiatry Clin Neurosci. 2017; 29(3):275-283. PMID: [28238273](//www.ncbi.nlm.nih.gov/pubmed/28238273).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28238273/citedby/) Fields:
+
+Neu NeurologyPsy Psychiatry
+
+Translation:Humans
+
+  18. Gosnell SN, Velasquez KM, Molfese DL, Molfese PJ, Madan A, Fowler JC, Christopher Frueh B, **Baldwin PR** , [Salas R](https://profiles.viictr.org/profile/267055). Prefrontal cortex, temporal cortex, and hippocampus volume are affected in suicidal psychiatric patients. Psychiatry Res Neuroimaging. 2016 Oct 30; 256:50-56. PMID: [27685801](//www.ncbi.nlm.nih.gov/pubmed/27685801); PMCID: [PMC9694115](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9694115).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27685801/citedby/) Fields:
+
+Dia Diagnostic ImagingNeu NeurologyPsy Psychiatry
+
+Translation:Humans
+
+  19. Chen M, **Baldwin PR** , [Ludtke SJ](https://profiles.viictr.org/profile/270167), Baker ML. De Novo modeling in cryo-EM density maps with Pathwalking. J Struct Biol. 2016 12; 196(3):289-298. PMID: [27436409](//www.ncbi.nlm.nih.gov/pubmed/27436409); PMCID: [PMC5118137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5118137).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27436409/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  20. Gu X, Lohrenz T, [Salas R](https://profiles.viictr.org/profile/267055), **Baldwin PR** , Soltani A, Kirk U, [Cinciripini PM](https://profiles.viictr.org/profile/12583243), Montague PR. Belief about Nicotine Modulates Subjective Craving and Insula Activity in Deprived Smokers. Front Psychiatry. 2016; 7:126. PMID: [27468271](//www.ncbi.nlm.nih.gov/pubmed/27468271); PMCID: [PMC4942468](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4942468).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27468271/citedby/)
+
+  21. **Baldwin PR** , Velasquez K, Koenig HG, [Salas R](https://profiles.viictr.org/profile/267055), Boelens PA. Neural correlates of healing prayers, depression and traumatic memories: A preliminary study. Complement Ther Med. 2016 Aug; 27:123-9. PMID: [27515886](//www.ncbi.nlm.nih.gov/pubmed/27515886).
+
+Citations:  Fields:
+
+Com Complementary Therapies
+
+Translation:Humans
+
+  22. Baeza-Loya S, Velasquez KM, Molfese DL, Viswanath H, Curtis KN, Thompson-Lake DG, **Baldwin PR** , Ellmore TM, De La Garza R, [Salas R](https://profiles.viictr.org/profile/267055). Anterior cingulum white matter is altered in tobacco smokers. Am J Addict. 2016 Apr; 25(3):210-4. PMID: [27001211](//www.ncbi.nlm.nih.gov/pubmed/27001211).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27001211/citedby/) Fields:
+
+Sub Substance-Related Disorders
+
+Translation:Humans
+
+  23. Hecksel CW, **Baldwin PR** , Wang E, Weaver SC, Schmid MF, [Ludtke SJ](https://profiles.viictr.org/profile/270167), Chiu W, Galaz-Montoya JG. Alignment algorithms and per-particle CTF correction for single particle cryo-electron tomography. J Struct Biol. 2016 06; 194(3):383-94. PMID: [27016284](//www.ncbi.nlm.nih.gov/pubmed/27016284); PMCID: [PMC4846534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4846534).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27016284/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  24. Bell JM, Chen M, **Baldwin PR** , [Ludtke SJ](https://profiles.viictr.org/profile/270167). High resolution single particle refinement in EMAN2.1. Methods. 2016 05 01; 100:25-34. PMID: [26931650](//www.ncbi.nlm.nih.gov/pubmed/26931650); PMCID: [PMC4848122](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4848122).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26931650/citedby/) Fields:
+
+Bio Biochemistry
+
+  25. Lal TM, **Baldwin PR** , Cai MB, Savjani RR, Eagleman DM, [Ress D](https://profiles.viictr.org/profile/2560306), [Salas R](https://profiles.viictr.org/profile/267055). Real time functional MRI training to decrease motion in imaging studies: Lack of significant improvement. Bull Menninger Clin. 2016; 80(4):348-356. PMID: [27936900](//www.ncbi.nlm.nih.gov/pubmed/27936900).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27936900/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  26. **Baldwin PR** , Curtis KN, [Patriquin MA](https://profiles.viictr.org/profile/8065544), Wolf V, Viswanath H, [Shaw C](https://profiles.viictr.org/profile/269433), Sakai Y, [Salas R](https://profiles.viictr.org/profile/267055). Identifying diagnostically-relevant resting state brain functional connectivity in the ventral posterior complex via genetic data mining in autism spectrum disorder. Autism Res. 2016 05; 9(5):553-62. PMID: [26451751](//www.ncbi.nlm.nih.gov/pubmed/26451751).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26451751/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:HumansAnimals
+
+  27. Viswanath H, Velasquez KM, Thompson-Lake DG, Savjani R, Carter AQ, Eagleman D, **Baldwin PR** , De La Garza R, [Salas R](https://profiles.viictr.org/profile/267055). Alterations in interhemispheric functional and anatomical connectivity are associated with tobacco smoking in humans. Front Hum Neurosci. 2015; 9:116. PMID: [25805986](//www.ncbi.nlm.nih.gov/pubmed/25805986); PMCID: [PMC4353249](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4353249).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25805986/citedby/)
+
+  28. Gu X, Lohrenz T, [Salas R](https://profiles.viictr.org/profile/267055), **Baldwin PR** , Soltani A, Kirk U, [Cinciripini PM](https://profiles.viictr.org/profile/12583243), Montague PR. Belief about nicotine selectively modulates value and reward prediction error signals in smokers. Proc Natl Acad Sci U S A. 2015 Feb 24; 112(8):2539-44. PMID: [25605923](//www.ncbi.nlm.nih.gov/pubmed/25605923); PMCID: [PMC4345562](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4345562).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25605923/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  29. Viswanath H, Velasquez KM, Savjani R, Molfese DL, Curtis K, Molfese PJ, Eagleman DM, **Baldwin PR** , Frueh BC, Fowler JC, [Salas R](https://profiles.viictr.org/profile/267055). Interhemispheric insular and inferior frontal connectivity are associated with substance abuse in a psychiatric population. Neuropharmacology. 2015 May; 92:63-8. PMID: [25592214](//www.ncbi.nlm.nih.gov/pubmed/25592214).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25592214/citedby/) Fields:
+
+Neu NeurologyPha Pharmacology
+
+Translation:Humans
+
+  30. Ridgewell C, Bray A, Curtis K, Velasquez K, **Baldwin PR** , Fowler JC, [Mathew SJ](https://profiles.viictr.org/profile/269727), [Salas R](https://profiles.viictr.org/profile/267055). Enhanced Olfactory Cortex Connectivity in a Patient With PTSD With Olfactory Hallucinations. J Neuropsychiatry Clin Neurosci. 2015; 27(2):e170-1. PMID: [25923873](//www.ncbi.nlm.nih.gov/pubmed/25923873).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25923873/citedby/) Fields:
+
+Neu NeurologyPsy Psychiatry
+
+Translation:Humans
+
+  31. Savjani RR, Velasquez KM, Thompson-Lake DG, **Baldwin PR** , Eagleman DM, De La Garza R, [Salas R](https://profiles.viictr.org/profile/267055). Characterizing white matter changes in cigarette smokers via diffusion tensor imaging. Drug Alcohol Depend. 2014 Dec 01; 145:134-42. PMID: [25457737](//www.ncbi.nlm.nih.gov/pubmed/25457737).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25457737/citedby/) Fields:
+
+Sub Substance-Related Disorders
+
+Translation:Humans
+
+  32. [Abdallah CG](https://profiles.viictr.org/profile/30909013), [Salas R](https://profiles.viictr.org/profile/267055), **Baldwin P** , [Mathew SJ](https://profiles.viictr.org/profile/269727), Jackowski A, Sato JR. Hippocampal volume and the rapid antidepressant effect of ketamine. J Psychopharmacol. 2015 May; 29(5):591-5. PMID: [25122038](//www.ncbi.nlm.nih.gov/pubmed/25122038); PMCID: [PMC4852551](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4852551).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25122038/citedby/) Fields:
+
+Psy Psychopharmacology
+
+Translation:Humans
+
+  33. Viswanath H, Carter AQ, **Baldwin PR** , Molfese DL, [Salas R](https://profiles.viictr.org/profile/267055). The medial habenula: still neglected. Front Hum Neurosci. 2013; 7:931. PMID: [24478666](//www.ncbi.nlm.nih.gov/pubmed/24478666); PMCID: [PMC3894476](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3894476).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24478666/citedby/)
+
+  34. Baeza-Loya S, Viswanath H, Carter A, Molfese DL, Velasquez KM, **Baldwin PR** , Thompson-Lake DG, [Sharp C](https://profiles.viictr.org/profile/270256), Fowler JC, De La Garza R, [Salas R](https://profiles.viictr.org/profile/267055). Perceptions about e-cigarette safety may lead to e-smoking during pregnancy. Bull Menninger Clin. 2014; 78(3):243-52. PMID: [25247743](//www.ncbi.nlm.nih.gov/pubmed/25247743); PMCID: [PMC4458373](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4458373).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25247743/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  35. **Baldwin PR** , Alanis R, [Salas R](https://profiles.viictr.org/profile/267055). The Role of the Habenula in Nicotine Addiction. J Addict Res Ther. 2011 Oct 20; S1(2). PMID: [22493758](//www.ncbi.nlm.nih.gov/pubmed/22493758); PMCID: [PMC3321348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3321348).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22493758/citedby/)
+
+  36. [Salas R](https://profiles.viictr.org/profile/267055), **Baldwin P** , de Biasi M, Montague PR. BOLD Responses to Negative Reward Prediction Errors in Human Habenula. Front Hum Neurosci. 2010; 4:36. PMID: [20485575](//www.ncbi.nlm.nih.gov/pubmed/20485575); PMCID: [PMC2872503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2872503).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20485575/citedby/)
+
+  37. Hohn M, Tang G, Goodyear G, **Baldwin PR** , Huang Z, Penczek PA, Yang C, Glaeser RM, Adams PD, [Ludtke SJ](https://profiles.viictr.org/profile/270167). SPARX, a new environment for Cryo-EM image processing. J Struct Biol. 2007 Jan; 157(1):47-55. PMID: [16931051](//www.ncbi.nlm.nih.gov/pubmed/16931051).
+
+Citations:
+[241](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16931051/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  38. **Baldwin PR** , Penczek PA. The Transform Class in SPARX and EMAN2. J Struct Biol. 2007 Jan; 157(1):250-61. PMID: [16861004](//www.ncbi.nlm.nih.gov/pubmed/16861004).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16861004/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  39. Tang G, Peng L, **Baldwin PR** , Mann DS, Jiang W, Rees I, [Ludtke SJ](https://profiles.viictr.org/profile/270167). EMAN2: an extensible image processing suite for electron microscopy. J Struct Biol. 2007 Jan; 157(1):38-46. PMID: [16859925](//www.ncbi.nlm.nih.gov/pubmed/16859925).
+
+Citations:
+[1584](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16859925/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  40. Pullan L, Mullapudi S, Huang Z, **Baldwin PR** , Chin C, Sun W, Tsujimoto S, Kolodziej SJ, Stoops JK, Lee JC, Waxham MN, Bean AJ, Penczek PA. The endosome-associated protein Hrs is hexameric and controls cargo sorting as a "master molecule". Structure. 2006 Apr; 14(4):661-71. PMID: [16615908](//www.ncbi.nlm.nih.gov/pubmed/16615908).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16615908/citedby/) Fields:
+
+Bio BiochemistryBio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  41. **Baldwin PR** , Penczek PA. Estimating alignment errors in sets of 2-D images. J Struct Biol. 2005 May; 150(2):211-25. PMID: [15866744](//www.ncbi.nlm.nih.gov/pubmed/15866744).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15866744/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  42. Montague PR, McClure SM, **Baldwin PR** , Phillips PE, Budygin EA, Stuber GD, Kilpatrick MR, Wightman RM. Dynamic gain control of dopamine delivery in freely moving animals. J Neurosci. 2004 Feb 18; 24(7):1754-9. PMID: [14973252](//www.ncbi.nlm.nih.gov/pubmed/14973252); PMCID: [PMC6730459](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6730459).
+
+Citations:
+[82](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14973252/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  43. Huang Z, **Baldwin PR** , Mullapudi S, Penczek PA. Automated determination of parameters describing power spectra of micrograph images in electron microscopy. J Struct Biol. 2003 Oct-Nov; 144(1-2):79-94. PMID: [14643211](//www.ncbi.nlm.nih.gov/pubmed/14643211).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14643211/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+  44. [Ludtke SJ](https://profiles.viictr.org/profile/270167), **Baldwin PR** , Chiu W. EMAN: semiautomated software for high-resolution single-particle reconstructions. J Struct Biol. 1999 Dec 01; 128(1):82-97. PMID: [10600563](//www.ncbi.nlm.nih.gov/pubmed/10600563).
+
+Citations:
+[1316](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10600563/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 44 publications over 16 distinct years, with a maximum of
+8 publications in
+2016](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|8&cht=bvs&chd=t:0,0,0,0,0,13,0,0,0,13,13,13,50,0,0,0,13,13,0,0,50,63,100,88,13,13,13,0,0,25,63&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1999| 1  
+2003| 1  
+2004| 1  
+2005| 1  
+2006| 4  
+2010| 1  
+2011| 1  
+2014| 4  
+2015| 5  
+2016| 8  
+2017| 7  
+2018| 1  
+2019| 1  
+2020| 1  
+2023| 2  
+2024| 5  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BALDWIN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (181)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Cryoelectron Microscopy](https://profiles.viictr.org/profile/248518)
+  * [Hemagglutinin Glycoproteins, Influenza Virus](https://profiles.viictr.org/profile/252953)
+  * [Prefrontal Cortex](https://profiles.viictr.org/profile/243891)
+  * [Apoferritins](https://profiles.viictr.org/profile/240459)
+  * [Faith Healing](https://profiles.viictr.org/profile/264731)
+
+[Explore](https://profiles.viictr.org/profile/268193/198)
+
+_
+
+Co-Authors (19)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SALAS, RAMIRO](https://profiles.viictr.org/profile/267055)
+  * [LUDTKE, STEVEN](https://profiles.viictr.org/profile/270167)
+  * [ABDALLAH, CHADI](https://profiles.viictr.org/profile/30909013)
+  * [PATRIQUIN, MICHELLE](https://profiles.viictr.org/profile/8065544)
+  * [SHAW, CHAD](https://profiles.viictr.org/profile/269433)
+
+[Explore](https://profiles.viictr.org/profile/268193/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [LUDTKE, STEVEN](https://profiles.viictr.org/profile/270167)
+  * [STORCH, ERIC](https://profiles.viictr.org/profile/23478906)
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [ABDALLAH, CHADI](https://profiles.viictr.org/profile/30909013)
+  * [SPALLETTA, GIANFRANCO](https://profiles.viictr.org/profile/11312399)
+
+[Explore](https://profiles.viictr.org/profile/268193/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [EICHELE, GREGOR](https://profiles.viictr.org/profile/268289)
+  * [LEE, SUKYEONG](https://profiles.viictr.org/profile/267678)
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [SERYSHEVA, IRINA](https://profiles.viictr.org/profile/266963)
+  * [TSAI, FRANCIS](https://profiles.viictr.org/profile/267524)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

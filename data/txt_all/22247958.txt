@@ -1,0 +1,265 @@
+## H. HODGES
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HuUY7mHAJZjVRIzgrn7GPw%3d%3d&rnd=77651cec-8833-4dd1-9b20-92b54ada0eed)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=22247958)  
+  
+
+Other Positions| Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Center for Precision Environmental Health  
+Division| Center for Precision Env Health  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Affiliation  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+groups
+
+  * [Dr. Shaulsky's Group](https://profiles.viictr.org/profile/28672289) (Member) 
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R35GM137996 (HODGES, HAMILTON COURTNEY)Aug 1, 2020 - May 31, 2025NIH  
+Determinants of genome-wide activity and specificity of SWI/SNF family
+chromatin remodeling  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R00CA187565 (HODGES, HAMILTON COURTNEY)Aug 1, 2017 - Jul 31, 2021NIH  
+Dynamic effects of cancer mutations on the mammalian SWI/SNF ATPase Brg  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Cermakova K](https://profiles.viictr.org/profile/22220432), Demeulemeester J, Lux V, Nedomova M, Goldman SR, Smith EA, Srb P, Hexnerova R, Fabry M, Madlikova M, Horejsi M, De Rijck J, Debyser Z, Adelman K, **Hodges HC** , Veverka V. A ubiquitous disordered protein interaction module orchestrates transcription elongation. Science. 2021 Nov 26; 374(6571):1113-1121. PMID: [34822292](//www.ncbi.nlm.nih.gov/pubmed/34822292); PMCID: [PMC8943916](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8943916).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34822292/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  2. **Hodges H** , Fealko C, Soares N. Autism spectrum disorder: definition, epidemiology, causes, and clinical evaluation. Transl Pediatr. 2020 Feb; 9(Suppl 1):S55-S65. PMID: [32206584](//www.ncbi.nlm.nih.gov/pubmed/32206584); PMCID: [PMC7082249](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7082249).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32206584/citedby/)
+
+  3. **Hodges HC** , Stanton BZ, [Cermakova K](https://profiles.viictr.org/profile/22220432), Chang CY, Miller EL, Kirkland JG, Ku WL, Veverka V, Zhao K, Crabtree GR. Dominant-negative SMARCA4 mutants alter the accessibility landscape of tissue-unrestricted enhancers. Nat Struct Mol Biol. 2018 01; 25(1):61-72. PMID: [29323272](//www.ncbi.nlm.nih.gov/pubmed/29323272); PMCID: [PMC5909405](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5909405).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29323272/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  4. Stanton BZ, **Hodges C** , Calarco JP, Braun SM, Ku WL, Kadoch C, Zhao K, Crabtree GR. Smarca4 ATPase mutations disrupt direct eviction of PRC1 from chromatin. Nat Genet. 2017 Feb; 49(2):282-288. PMID: [27941795](//www.ncbi.nlm.nih.gov/pubmed/27941795); PMCID: [PMC5373480](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5373480).
+
+Citations:
+[88](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27941795/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  5. **Hodges C** , Kirkland JG, Crabtree GR. The Many Roles of BAF (mSWI/SNF) and PBAF Complexes in Cancer. Cold Spring Harb Perspect Med. 2016 08 01; 6(8). PMID: [27413115](//www.ncbi.nlm.nih.gov/pubmed/27413115); PMCID: [PMC4968166](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4968166).
+
+Citations:
+[146](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27413115/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  6. Kadoch C, Hargreaves DC, **Hodges C** , Elias L, Ho L, Ranish J, Crabtree GR. Proteomic and bioinformatic analysis of mammalian SWI/SNF complexes identifies extensive roles in human malignancy. Nat Genet. 2013 Jun; 45(6):592-601. PMID: [23644491](//www.ncbi.nlm.nih.gov/pubmed/23644491); PMCID: [PMC3667980](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3667980).
+
+Citations:
+[549](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23644491/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  7. Hathaway NA, Bell O, **Hodges C** , Miller EL, Neel DS, Crabtree GR. Dynamics and memory of heterochromatin in living cells. Cell. 2012 Jun 22; 149(7):1447-60. PMID: [22704655](//www.ncbi.nlm.nih.gov/pubmed/22704655); PMCID: [PMC3422694](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3422694).
+
+Citations:
+[190](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22704655/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  8. **Hodges C** , Bintu L, Lubkowska L, Kashlev M, Bustamante C. Nucleosomal fluctuations govern the transcription dynamics of RNA polymerase II. Science. 2009 Jul 31; 325(5940):626-8. PMID: [19644123](//www.ncbi.nlm.nih.gov/pubmed/19644123); PMCID: [PMC2775800](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2775800).
+
+Citations:
+[187](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19644123/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  9. Wen JD, Lancaster L, **Hodges C** , Zeri AC, Yoshimura SH, Noller HF, Bustamante C, Tinoco I. Following translation by single ribosomes one codon at a time. Nature. 2008 Apr 03; 452(7187):598-603. PMID: [18327250](//www.ncbi.nlm.nih.gov/pubmed/18327250); PMCID: [PMC2556548](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2556548).
+
+Citations:
+[235](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18327250/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 9 publications over 8 distinct years, with a maximum of 2
+publications in
+2016](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,0,0,50,50,0,0,100,50,0,0,50,50,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2008| 1  
+2009| 1  
+2012| 1  
+2013| 1  
+2016| 2  
+2017| 1  
+2020| 1  
+2021| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HODGES's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (75)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [DNA Helicases](https://profiles.viictr.org/profile/251193)
+  * [Transcription Factors](https://profiles.viictr.org/profile/253750)
+  * [Nuclear Proteins](https://profiles.viictr.org/profile/253088)
+  * [Chromosomal Proteins, Non-Histone](https://profiles.viictr.org/profile/247104)
+  * [Genes, Dominant](https://profiles.viictr.org/profile/247913)
+
+[Explore](https://profiles.viictr.org/profile/22247958/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HARRIS, HOLLY](https://profiles.viictr.org/profile/28999557)
+  * [Cermakova, Katerina](https://profiles.viictr.org/profile/22220432)
+
+[Explore](https://profiles.viictr.org/profile/22247958/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BARTHOLOMEW, BLAINE](https://profiles.viictr.org/profile/12582859)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [CHEN, JUNJIE](https://profiles.viictr.org/profile/12583344)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+
+[Explore](https://profiles.viictr.org/profile/22247958/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHEN, XI](https://profiles.viictr.org/profile/11312407)
+  * [CLARK, JAMES](https://profiles.viictr.org/profile/269463)
+  * [MEDINA, DANIEL](https://profiles.viictr.org/profile/269506)
+  * [OKA, KAZUHIRO](https://profiles.viictr.org/profile/268137)
+  * [RICHARDS, JOANNE](https://profiles.viictr.org/profile/267831)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,270 @@
+## BRYAN NIKOLAI
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=OKI77mnGKav3RYKj5X%2fX&rnd=67fad56e-10bf-46c7-aed0-8e8ed96f961f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=1826673)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Liu H, Hu PW, Dubrulle J, Stossi F, **Nikolai BC** , [Mancini MA](https://profiles.viictr.org/profile/268178), [Rice AP](https://profiles.viictr.org/profile/269748). Identification of celastrol as a novel HIV-1 latency reversal agent by an image-based screen. PLoS One. 2021; 16(4):e0244771. PMID: [33914760](//www.ncbi.nlm.nih.gov/pubmed/33914760); PMCID: [PMC8084242](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8084242).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33914760/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  2. **Nikolai BC** , [Jain P](https://profiles.viictr.org/profile/13152877), Cardenas DL, York B, [Feng Q](https://profiles.viictr.org/profile/267850), [McKenna NJ](https://profiles.viictr.org/profile/268182), [Dasgupta S](https://profiles.viictr.org/profile/3010259), [Lonard DM](https://profiles.viictr.org/profile/269800), [O'Malley BW](https://profiles.viictr.org/profile/269511). Steroid receptor coactivator 3 (SRC-3/AIB1) is enriched and functional in mouse and human Tregs. Sci Rep. 2021 02 09; 11(1):3441. PMID: [33564037](//www.ncbi.nlm.nih.gov/pubmed/33564037); PMCID: [PMC7873281](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7873281).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33564037/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  3. [Dasgupta S](https://profiles.viictr.org/profile/3010259), Rajapakshe K, Zhu B, **Nikolai BC** , [Yi P](https://profiles.viictr.org/profile/267727), [Putluri N](https://profiles.viictr.org/profile/269361), [Choi JM](https://profiles.viictr.org/profile/3010074), Jung SY, [Coarfa C](https://profiles.viictr.org/profile/265668), [Westbrook TF](https://profiles.viictr.org/profile/267742), [Zhang XH](https://profiles.viictr.org/profile/269369), [Foulds CE](https://profiles.viictr.org/profile/267919), [Tsai SY](https://profiles.viictr.org/profile/266552), [Tsai MJ](https://profiles.viictr.org/profile/267651), [O'Malley BW](https://profiles.viictr.org/profile/269511). Metabolic enzyme PFKFB4 activates transcriptional coactivator SRC-3 to drive breast cancer. Nature. 2018 04; 556(7700):249-254. PMID: [29615789](//www.ncbi.nlm.nih.gov/pubmed/29615789); PMCID: [PMC5895503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5895503).
+
+Citations:
+[72](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29615789/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  4. Padmanabhan A, Candelaria N, [Wong KK](https://profiles.viictr.org/profile/12583480), **Nikolai BC** , [Lonard DM](https://profiles.viictr.org/profile/269800), [O'Malley BW](https://profiles.viictr.org/profile/269511), [Richards JS](https://profiles.viictr.org/profile/267831). USP15-dependent lysosomal pathway controls p53-R175H turnover in ovarian cancer cells. Nat Commun. 2018 03 28; 9(1):1270. PMID: [29593334](//www.ncbi.nlm.nih.gov/pubmed/29593334); PMCID: [PMC5871815](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5871815).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29593334/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  5. Saha JM, Liu H, Hu PW, **Nikolai BC** , Wu H, Miao H, [Rice AP](https://profiles.viictr.org/profile/269748). Proteomic Profiling of a Primary CD4+ T Cell Model of HIV-1 Latency Identifies Proteins Whose Differential Expression Correlates with Reactivation of Latent HIV-1. AIDS Res Hum Retroviruses. 2018 01; 34(1):103-110. PMID: [29084447](//www.ncbi.nlm.nih.gov/pubmed/29084447); PMCID: [PMC5771535](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5771535).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29084447/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansCells
+
+  6. Zhang Z, **Nikolai BC** , Gates LA, Jung SY, Siwak EB, He B, [Rice AP](https://profiles.viictr.org/profile/269748), [O'Malley BW](https://profiles.viictr.org/profile/269511), [Feng Q](https://profiles.viictr.org/profile/267850). Crosstalk between histone modifications indicates that inhibition of arginine methyltransferase CARM1 activity reverses HIV latency. Nucleic Acids Res. 2017 Sep 19; 45(16):9348-9360. PMID: [28637181](//www.ncbi.nlm.nih.gov/pubmed/28637181); PMCID: [PMC5766202](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5766202).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28637181/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  7. **Nikolai BC** , [Feng Q](https://profiles.viictr.org/profile/267850). HIV Latency Gets a New Histone Mark. Cell Host Microbe. 2017 May 10; 21(5):549-550. PMID: [28494231](//www.ncbi.nlm.nih.gov/pubmed/28494231); PMCID: [PMC6484844](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6484844).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28494231/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  8. **Nikolai BC** , [Lanz RB](https://profiles.viictr.org/profile/267684), York B, [Dasgupta S](https://profiles.viictr.org/profile/3010259), Mitsiades N, [Creighton CJ](https://profiles.viictr.org/profile/265729), Tsimelzon A, [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), [Lonard DM](https://profiles.viictr.org/profile/269800), Smith CL, [O'Malley BW](https://profiles.viictr.org/profile/269511). HER2 Signaling Drives DNA Anabolism and Proliferation through SRC-3 Phosphorylation and E2F1-Regulated Genes. Cancer Res. 2016 Mar 15; 76(6):1463-75. PMID: [26833126](//www.ncbi.nlm.nih.gov/pubmed/26833126); PMCID: [PMC4794399](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4794399).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26833126/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  9. York B, Reineke EL, **Nikolai BC** , Zhou S, Louet JF, [Chopra AR](https://profiles.viictr.org/profile/7612580), Chen X, Reed G, [Noebels J](https://profiles.viictr.org/profile/269703), [Adesina AM](https://profiles.viictr.org/profile/268657), Yu H, Wong LJ, Tsimelzon A, [Hilsenbeck S](https://profiles.viictr.org/profile/268374), Stevens RD, Wenner BR, Ilkayeva O, [Xu J](https://profiles.viictr.org/profile/266985), Newgard CB, [O'Malley BW](https://profiles.viictr.org/profile/269511), Sagen JV. Ablation of steroid receptor coactivator-3 resembles the human CACT metabolic myopathy. Cell Metab. 2012 May 02; 15(5):752-63. PMID: [22560224](//www.ncbi.nlm.nih.gov/pubmed/22560224); PMCID: [PMC3349072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3349072).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22560224/citedby/) Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansAnimalsCells
+
+  10. York B, Yu C, Liu Z, **Nikolai BC** , Wu RC, [Finegold M](https://profiles.viictr.org/profile/269596), [Xu J](https://profiles.viictr.org/profile/266985), [O'Malley BW](https://profiles.viictr.org/profile/269511), Sagen JV. Reprogramming the posttranslational code of SRC-3 confers a switch in mammalian systems biology. Proc Natl Acad Sci U S A. 2010 Jun 15; 107(24):11122-7. PMID: [20534466](//www.ncbi.nlm.nih.gov/pubmed/20534466); PMCID: [PMC2890746](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2890746).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20534466/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  11. Agarwal S, Harada J, Schreifels J, Lech P, **Nikolai B** , Yamaguchi T, Chanda SK, Somia NV. Isolation, characterization, and genetic complementation of a cellular mutant resistant to retroviral infection. Proc Natl Acad Sci U S A. 2006 Oct 24; 103(43):15933-8. PMID: [17043244](//www.ncbi.nlm.nih.gov/pubmed/17043244); PMCID: [PMC1636844](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1636844).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17043244/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  12. Agarwal S, **Nikolai B** , Yamaguchi T, Lech P, Somia NV. Construction and use of retroviral vectors encoding the toxic gene barnase. Mol Ther. 2006 Oct; 14(4):555-63. PMID: [16814610](//www.ncbi.nlm.nih.gov/pubmed/16814610).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16814610/citedby/) Fields:
+
+Mol Molecular BiologyThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 12 publications over 7 distinct years, with a maximum of 3
+publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,33,0,33,0,0,0,33,100,67,0,0,67,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 2  
+2010| 1  
+2012| 1  
+2016| 1  
+2017| 3  
+2018| 2  
+2021| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+NIKOLAI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (124)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Nuclear Receptor Coactivator 3](https://profiles.viictr.org/profile/246619)
+  * [Virus Latency](https://profiles.viictr.org/profile/250595)
+  * [HIV-1](https://profiles.viictr.org/profile/247997)
+  * [Histone Code](https://profiles.viictr.org/profile/247786)
+  * [T-Lymphocytes, Regulatory](https://profiles.viictr.org/profile/253623)
+
+[Explore](https://profiles.viictr.org/profile/1826673/198)
+
+_
+
+Co-Authors (28)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [FENG, QIN](https://profiles.viictr.org/profile/267850)
+  * [DASGUPTA, SUBHAMOY](https://profiles.viictr.org/profile/3010259)
+  * [RICE, ANDREW](https://profiles.viictr.org/profile/269748)
+  * [LONARD, DAVID](https://profiles.viictr.org/profile/269800)
+
+[Explore](https://profiles.viictr.org/profile/1826673/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [RICE, ANDREW](https://profiles.viictr.org/profile/269748)
+  * [HO, DAVID](https://profiles.viictr.org/profile/267305)
+  * [LONARD, DAVID](https://profiles.viictr.org/profile/269800)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+
+[Explore](https://profiles.viictr.org/profile/1826673/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GRIMM, SANDRA](https://profiles.viictr.org/profile/35589914)
+  * [GUNARATNE, PREETHI](https://profiles.viictr.org/profile/268142)
+  * [JAMRICH, MILAN](https://profiles.viictr.org/profile/269809)
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [SMITH, CAROLYN](https://profiles.viictr.org/profile/266576)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BRINKLEY, BILL R.](https://profiles.viictr.org/profile/267367)
+  * [DASGUPTA, SUBHAMOY](https://profiles.viictr.org/profile/3010259)
+  * [DEMAYO, FRANCESCO](https://profiles.viictr.org/profile/267848)
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [XIA, YAN](https://profiles.viictr.org/profile/3010010)
+
+_
+

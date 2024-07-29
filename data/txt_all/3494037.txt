@@ -1,0 +1,607 @@
+## SEBASTIAN ACOSTA
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1102 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Ba4y4HbTKYr7CK7u72jWK5SOJBzEkiEX&rnd=38bc1ae3-c613-456f-bdcc-7b9031c8440f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3494037)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=3494037&cachekey=d8101adb-
+caf0-4601-9876-33103c135469)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Biography  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+education and training
+
+Rice University, Houston TX| PhD| 05/2014| Computational and Applied
+Mathematics  
+---|---|---|---  
+Brigham Young University, Provo UT| MS| 05/2011| Mathematics  
+Brigham Young University, Provo UT| BS| 05/2009| Mechanical Engineering  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+awards and honors
+
+2017 - 2020| NSF - DMS, Baylor College of Medicine  
+---|---  
+2015 - 2017| AMS-Simons Travel Grant, Baylor College of Medicine  
+2012 - 2013| BP Scholarship Award in Science, Rice University  
+2011| SIAM Summer School on Waves and Imaging  
+2011| Graduate Research Award, BYU Math  
+2010| Graduate Research Fellowship, BYU Math  
+2009| Orson Pratt Prize for most outstanding graduating senior, BYU Math  
+| Brigham Young Bicentennial Scholar, BYU  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+keywords
+
+  * [Biomechanics](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Biomechanics&exactphrase=false)
+  * [Scientific Computing](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Scientific Computing&exactphrase=false)
+  * [Mathematical Modeling](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Mathematical Modeling&exactphrase=false)
+  * [Inverse Problems](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Inverse Problems&exactphrase=false)
+  * [Parameter Identification](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Parameter Identification&exactphrase=false)
+  * [Machine Learning](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Machine Learning&exactphrase=false)
+  * [Statistical Inference](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Statistical Inference&exactphrase=false)
+  * [Optimization](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Optimization&exactphrase=false)
+  * [Differential Equations](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Differential Equations&exactphrase=false)
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+webpage  
+  
+![](https://www.google.com/s2/favicons?domain=http://sites.google.com/site/acostasebastian01/)|
+[google website](http://sites.google.com/site/acostasebastian01/)  
+![](https://www.google.com/s2/favicons?domain=https://www.bcm.edu/people-
+search/sebastian-acosta-17080)| [BCM profile](https://www.bcm.edu/people-
+search/sebastian-acosta-17080)  
+![](https://www.google.com/s2/favicons?domain=https://www.bcm.edu/people-
+search/sebastian-acosta-17080)| [BCM profile](https://www.bcm.edu/people-
+search/sebastian-acosta-17080)  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+1R56HL131574 (Craig Rusin)Jul 1, 2018 - Jul 1, 2023National Institute of
+Health - National Heart Lung and Blood Institute  
+Multi-site validation study of the HLHS arrest predictor  
+Role: Research Faculty  
+---  
+  
+* * *  
+  
+NSF-DMS 1712725 (Sebastian Acosta)Jul 15, 2017 - Jul 15, 2020National Science
+Foundation  
+Collaborative Research: Improved Algorithms for Multiwave Imaging in Complex
+Media: Theory and Computation  
+Role: PI  
+  
+* * *  
+  
+16BGIA27490024 (Craig Rusin)Jan 1, 2016 - Jan 1, 2017American Heart
+Association Beginning-Grant-In-Aid  
+Real-time prediction of acute arrest in infants with single ventricle
+physiology  
+Role: Research Staff  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Gilg S, **Acosta S** , Loomba RS, [Rizk C](https://profiles.viictr.org/profile/27841694), Stapleton GE, [Faraoni D](https://profiles.viictr.org/profile/35020853), [Savorgnan F](https://profiles.viictr.org/profile/17822562). Association between balloon atrial septostomy and prostaglandin E1 therapy until repair of transposition of the great arteries in neonates. Pediatr Investig. 2024 Jun; 8(2):135-138. PMID: [38910849](//www.ncbi.nlm.nih.gov/pubmed/38910849); PMCID: [PMC11193373](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11193373).
+
+Citations:
+
+  2. Elhoff JJ, **Acosta S** , [Flores S](https://profiles.viictr.org/profile/17822551), LaSalle J, Loomba R, McGetrick M, McKinney C, Ostrom M, Pande CK, Schlosser R, Schwab S, [Savorgnan F](https://profiles.viictr.org/profile/17822562). Parental holding of infants improves haemodynamics in the cardiac ICU. Cardiol Young. 2023 Nov 28; 1-6. PMID: [38014584](//www.ncbi.nlm.nih.gov/pubmed/38014584).
+
+Citations:  Fields:
+
+Car CardiologyPed PediatricsVas Vascular Diseases
+
+  3. **Acosta S** , Hassan AM, Gugala Z, Karagoli Z, Hochstetler J, Kiskaddon AL, [Checchia P](https://profiles.viictr.org/profile/267197), [Faraoni D](https://profiles.viictr.org/profile/35020853), Zheng F, [Savorgnan F](https://profiles.viictr.org/profile/17822562). Higher Cumulative Dose of Opioids and Other Sedatives are Associated with Extubation Failure in Norwood Patients. Pediatr Cardiol. 2024 Jan; 45(1):8-13. PMID: [37880385](//www.ncbi.nlm.nih.gov/pubmed/37880385).
+
+Citations:  Fields:
+
+Car CardiologyPed Pediatrics
+
+Translation:Humans
+
+  4. Subramanian D, Vittala A, Chen X, Julien C, **Acosta S** , [Rusin C](https://profiles.viictr.org/profile/268524), [Allen C](https://profiles.viictr.org/profile/270283), Rider N, [Starosolski Z](https://profiles.viictr.org/profile/270164), [Annapragada A](https://profiles.viictr.org/profile/269845), [Devaraj S](https://profiles.viictr.org/profile/266182). Stratification of Pediatric COVID-19 Cases Using Inflammatory Biomarker Profiling and Machine Learning. J Clin Med. 2023 Aug 22; 12(17). PMID: [37685502](//www.ncbi.nlm.nih.gov/pubmed/37685502); PMCID: [PMC10487951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10487951).
+
+Citations:
+
+  5. [Chao H](https://profiles.viictr.org/profile/41109764), **Acosta S** , [Rusin C](https://profiles.viictr.org/profile/268524), [Rhee C](https://profiles.viictr.org/profile/266127). Comparison of Near-Infrared Spectroscopy-Based Cerebral Autoregulatory Indices in Extremely Low Birth Weight Infants. Children (Basel). 2023 Aug 09; 10(8). PMID: [37628360](//www.ncbi.nlm.nih.gov/pubmed/37628360); PMCID: [PMC10453436](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10453436).
+
+Citations:
+
+  6. [Rusin CG](https://profiles.viictr.org/profile/268524), **Acosta SI** , Brady KM, Vu E, Scahill C, Fonseca B, Barrett C, Simsic J, Yates AR, Klepczynski B, Gaynor WJ, [Penny DJ](https://profiles.viictr.org/profile/266148). Automated prediction of cardiorespiratory deterioration in patients with single-ventricle parallel circulation: A?multicenter validation study. JTCVS Open. 2023 Sep; 15:406-411. PMID: [37808061](//www.ncbi.nlm.nih.gov/pubmed/37808061); PMCID: [PMC10556807](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10556807).
+
+Citations:
+
+  7. [Savorgnan F](https://profiles.viictr.org/profile/17822562), Crouthamel DI, Heroy A, Santerre J, **Acosta S**. Markov model for detection of ECG instability prior to cardiac arrest in single-ventricle patients. J Electrocardiol. 2023 Sep-Oct; 80:106-110. PMID: [37311367](//www.ncbi.nlm.nih.gov/pubmed/37311367).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  8. Weld J, Kim E, Chandra P, [Savorgnan F](https://profiles.viictr.org/profile/17822562), **Acosta S** , [Flores S](https://profiles.viictr.org/profile/17822551), Loomba RS. Fluid Overload and AKI After the Norwood Operation: The Correlation and Characterization of Routine Clinical Markers. Pediatr Cardiol. 2023 May 02. PMID: [37129600](//www.ncbi.nlm.nih.gov/pubmed/37129600).
+
+Citations:  Fields:
+
+Car CardiologyPed Pediatrics
+
+  9. Subramanian D, Vittala A, Chen X, Julien C, **Acosta S** , [Rusin C](https://profiles.viictr.org/profile/268524), Allen C, Rider N, [Starosolski Z](https://profiles.viictr.org/profile/270164), [Annapragada A](https://profiles.viictr.org/profile/269845), [Devaraj S](https://profiles.viictr.org/profile/266182). Stratification of Pediatric COVID-19 cases by inflammatory biomarker profiling and machine learning. medRxiv. 2023 Apr 04. PMID: [37066407](//www.ncbi.nlm.nih.gov/pubmed/37066407); PMCID: [PMC10104220](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10104220).
+
+Citations:
+
+  10. Farias JS, Villarreal EG, [Savorgnan F](https://profiles.viictr.org/profile/17822562), **Acosta S** , [Flores S](https://profiles.viictr.org/profile/17822551), Loomba RS. The use of neutrophil-lymphocyte ratio for the prediction of refractory disease and coronary artery lesions in patients with Kawasaki disease. Cardiol Young. 2023 Aug; 33(8):1409-1417. PMID: [37012661](//www.ncbi.nlm.nih.gov/pubmed/37012661).
+
+Citations:  Fields:
+
+Car CardiologyPed PediatricsVas Vascular Diseases
+
+Translation:HumansCells
+
+  11. [Savorgnan F](https://profiles.viictr.org/profile/17822562), Hassan A, [Borges N](https://profiles.viictr.org/profile/6714308), **Acosta S**. Pulse Oximetry and Arterial Saturation Difference in Pediatric COVID-19 Patients: Retrospective Analysis by Race. Pediatr Crit Care Med. 2023 06 01; 24(6):458-462. PMID: [36825900](//www.ncbi.nlm.nih.gov/pubmed/36825900); PMCID: [PMC10226388](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10226388).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  12. Suresh S, **Acosta S** , Ettinger AK, [Savorgnan F](https://profiles.viictr.org/profile/17822562), [Annapragada A](https://profiles.viictr.org/profile/269845), Kannikeswaran N, Sethuraman U. Association of Area Deprivation Index With Severity of COVID-19 in Pediatric Patients: A Multisite Study of Racially and Ethnically Diverse Children. Pediatr Infect Dis J. 2023 06 01; 42(6):e197-e200. PMID: [36854096](//www.ncbi.nlm.nih.gov/pubmed/36854096).
+
+Citations:  Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:Humans
+
+  13. [Savorgnan F](https://profiles.viictr.org/profile/17822562), Loomba RS, [Flores S](https://profiles.viictr.org/profile/17822551), [Rusin CG](https://profiles.viictr.org/profile/268524), Zheng F, Hassan AM, **Acosta S**. Descriptors of Failed Extubation in Norwood Patients Using Physiologic Data Streaming. Pediatr Cardiol. 2023 Feb; 44(2):396-403. PMID: [36562780](//www.ncbi.nlm.nih.gov/pubmed/36562780).
+
+Citations:  Fields:
+
+Car CardiologyPed Pediatrics
+
+Translation:Humans
+
+  14. Loomba RS, Dyamenahalli U, [Savorgnan F](https://profiles.viictr.org/profile/17822562), **Acosta S** , Elhoff JJ, Farias JS, Villarreal E, [Flores S](https://profiles.viictr.org/profile/17822551). The effect of clinical and haemodynamic variables on post-operative length of stay immediately upon admission after biventricular repair with Yasui operation following an earlier Norwood operation. Cardiol Young. 2023 Oct; 33(10):2066-2071. PMID: [36537282](//www.ncbi.nlm.nih.gov/pubmed/36537282).
+
+Citations:  Fields:
+
+Car CardiologyPed PediatricsVas Vascular Diseases
+
+  15. Loomba RS, Dyamenahalli U, [Savorgnan F](https://profiles.viictr.org/profile/17822562), **Acosta S** , Villarreal E, Farias JS, Wong J, [Flores S](https://profiles.viictr.org/profile/17822551). Association of Immediate Postoperative Hemodynamic and Laboratory Values in Predicting Norwood Admission Outcomes. Pediatr Cardiol. 2024 Aug; 45(6):1232-1241. PMID: [36350339](//www.ncbi.nlm.nih.gov/pubmed/36350339).
+
+Citations:  Fields:
+
+Car CardiologyPed Pediatrics
+
+  16. [Savorgnan F](https://profiles.viictr.org/profile/17822562), **Acosta S**. Calcium Chloride Is Given to Sicker Patients During Cardiopulmonary Resuscitation Events. Pediatr Crit Care Med. 2022 11 01; 23(11):938-940. PMID: [36326457](//www.ncbi.nlm.nih.gov/pubmed/36326457).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  17. Hassan AM, **Acosta S** , Zheng F, [Rusin C](https://profiles.viictr.org/profile/268524), [Savorgnan F](https://profiles.viictr.org/profile/17822562). Noninvasive Respiratory Support Does Not Prevent Extubation Failure in High-Risk Norwood Patients. Crit Care Explor. 2022 Oct; 4(10):e0782. PMID: [36311558](//www.ncbi.nlm.nih.gov/pubmed/36311558); PMCID: [PMC9605742](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9605742).
+
+Citations:
+
+  18. [Ahmed M](https://profiles.viictr.org/profile/17822537), **Acosta SI** , Hoffman GM, Tweddell JS, Ghanayem NS. Mathematical analysis of hemoglobin target in univentricular parallel circulation. J Thorac Cardiovasc Surg. 2023 07; 166(1):214-220. PMID: [36357224](//www.ncbi.nlm.nih.gov/pubmed/36357224).
+
+Citations:  Fields:
+
+Car CardiologyGen General SurgeryPul Pulmonary MedicineVas Vascular Diseases
+
+Translation:Humans
+
+  19. [Savorgnan F](https://profiles.viictr.org/profile/17822562), Moreira A, [Moreira A](https://profiles.viictr.org/profile/37847448), [Annapragada A](https://profiles.viictr.org/profile/269845), [Sexson Tejtel SK](https://profiles.viictr.org/profile/267598), [Flores S](https://profiles.viictr.org/profile/17822551), [Rusin CG](https://profiles.viictr.org/profile/268524), [Shekerdemian L](https://profiles.viictr.org/profile/266468), **Acosta S**. Physiologic profile associated with severe multisystem inflammatory syndrome in children: a retrospective study. Pediatr Res. 2023 01; 93(1):102-109. PMID: [35568731](//www.ncbi.nlm.nih.gov/pubmed/35568731); PMCID: [PMC9106980](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9106980).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+  20. [Savorgnan F](https://profiles.viictr.org/profile/17822562), Crouthamel DI, Heroy A, Santerre J, **Acosta S**. Quantification of electrocardiogram instability prior to cardiac arrest in patients with single-ventricle physiology. J Electrocardiol. 2022 Jul-Aug; 73:29-33. PMID: [35580481](//www.ncbi.nlm.nih.gov/pubmed/35580481).
+
+Citations:  Fields:
+
+Car Cardiology
+
+  21. [Savorgnan F](https://profiles.viictr.org/profile/17822562), **Acosta S** , Alali A, [Moreira A](https://profiles.viictr.org/profile/37847448), [Annapragada A](https://profiles.viictr.org/profile/269845), [Rusin CG](https://profiles.viictr.org/profile/268524), [Flores S](https://profiles.viictr.org/profile/17822551), Loomba RS, Moreira A. Social and Demographic Disparities in the Severity of Multisystem Inflammatory Syndrome in Children. Pediatr Infect Dis J. 2022 06 01; 41(6):e256-e258. PMID: [35537132](//www.ncbi.nlm.nih.gov/pubmed/35537132); PMCID: [PMC9083307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9083307).
+
+Citations:  Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:Humans
+
+  22. [Savorgnan F](https://profiles.viictr.org/profile/17822562), [Flores S](https://profiles.viictr.org/profile/17822551), Loomba RS, **Acosta S**. Hemodynamic Response to Fluid Boluses in Patients with Single-Ventricle Parallel Circulation. Pediatr Cardiol. 2022 Dec; 43(8):1784-1791. PMID: [35511283](//www.ncbi.nlm.nih.gov/pubmed/35511283).
+
+Citations:  Fields:
+
+Car CardiologyPed Pediatrics
+
+  23. [Jain PN](https://profiles.viictr.org/profile/8065515), **Acosta S** , [Annapragada A](https://profiles.viictr.org/profile/269845), [Checchia PA](https://profiles.viictr.org/profile/267197), [Moreira A](https://profiles.viictr.org/profile/37847448), [Muscal E](https://profiles.viictr.org/profile/270252), [Sartain SE](https://profiles.viictr.org/profile/3009824), Tejtel SKS, [Vogel TP](https://profiles.viictr.org/profile/18883198), [Shekerdemian L](https://profiles.viictr.org/profile/266468), [Rusin CG](https://profiles.viictr.org/profile/268524). Comparison of Laboratory and Hemodynamic Time Series Data Across Original, Alpha, and Delta Variants in Patients With Multisystem Inflammatory Syndrome in Children. Pediatr Crit Care Med. 2022 08 01; 23(8):e372-e381. PMID: [35507775](//www.ncbi.nlm.nih.gov/pubmed/35507775); PMCID: [PMC9345524](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9345524).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+  24. Alali A, **Acosta S** , [Ahmed M](https://profiles.viictr.org/profile/17822537), [Spinner J](https://profiles.viictr.org/profile/7612568), Akcan-Arikan A, [Morris SA](https://profiles.viictr.org/profile/265727), [Jain PN](https://profiles.viictr.org/profile/8065515). Postoperative physiological parameters associated with severe acute kidney injury after pediatric heart transplant. Pediatr Transplant. 2022 08; 26(5):e14267. PMID: [35279933](//www.ncbi.nlm.nih.gov/pubmed/35279933).
+
+Citations:  Fields:
+
+Ped PediatricsTra Transplantation
+
+Translation:Humans
+
+  25. [Bronicki RA](https://profiles.viictr.org/profile/268531), **Acosta S** , [Savorgnan F](https://profiles.viictr.org/profile/17822562), [Flores S](https://profiles.viictr.org/profile/17822551), [Achuff BJ](https://profiles.viictr.org/profile/15317795), Loomba R, [Ahmed M](https://profiles.viictr.org/profile/17822537), Ghanayem N, [Heinle JS](https://profiles.viictr.org/profile/270156), Asadourian V, Lasa JJ. The acute influence of vasopressin on hemodynamic status and tissue oxygenation following the Norwood procedure. JTCVS Open. 2022 Mar; 9:217-224. PMID: [36003471](//www.ncbi.nlm.nih.gov/pubmed/36003471); PMCID: [PMC9390553](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9390553).
+
+Citations:
+
+  26. Loomba RS, Rausa J, Farias JS, Villarreal EG, **Acosta S** , [Savorgnan F](https://profiles.viictr.org/profile/17822562), [Flores S](https://profiles.viictr.org/profile/17822551). Impact of Medical Interventions and Comorbidities on Norwood Admission for Patients with Hypoplastic Left Heart Syndrome. Pediatr Cardiol. 2022 Feb; 43(2):267-278. PMID: [35034159](//www.ncbi.nlm.nih.gov/pubmed/35034159).
+
+Citations:  Fields:
+
+Car CardiologyPed Pediatrics
+
+Translation:Humans
+
+  27. [Savorgnan F](https://profiles.viictr.org/profile/17822562), [Flores S](https://profiles.viictr.org/profile/17822551), Loomba RS, [Checchia PA](https://profiles.viictr.org/profile/267197), [Bronicki RA](https://profiles.viictr.org/profile/268531), Farias JS, **Acosta S**. Hemodynamic Response to Calcium Chloride Boluses in Single-Ventricle Patients with Parallel Circulation. Pediatr Cardiol. 2022 Mar; 43(3):554-560. PMID: [34652494](//www.ncbi.nlm.nih.gov/pubmed/34652494).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34652494/citedby/) Fields:
+
+Car CardiologyPed Pediatrics
+
+Translation:Humans
+
+  28. [Rusin CG](https://profiles.viictr.org/profile/268524), **Acosta SI** , Vu EL, [Ahmed M](https://profiles.viictr.org/profile/17822537), Brady KM, [Penny DJ](https://profiles.viictr.org/profile/266148). Automated Prediction of Cardiorespiratory Deterioration in Patients With Single Ventricle. J Am Coll Cardiol. 2021 06 29; 77(25):3184-3192. PMID: [34167643](//www.ncbi.nlm.nih.gov/pubmed/34167643); PMCID: [PMC8091451](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8091451).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34167643/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  29. [Savorgnan F](https://profiles.viictr.org/profile/17822562), [Bhat PN](https://profiles.viictr.org/profile/27841697), [Checchia PA](https://profiles.viictr.org/profile/267197), **Acosta S** , [Tume SC](https://profiles.viictr.org/profile/2560324), Lasa JJ, Asadourian V, [Achuff BJ](https://profiles.viictr.org/profile/15317795), [Flores S](https://profiles.viictr.org/profile/17822551), [Ahmed M](https://profiles.viictr.org/profile/17822537), Crouthamel DI, Loomba RS, [Bronicki RA](https://profiles.viictr.org/profile/268531). RBC Transfusion Induced ST Segment Variability Following the Norwood Procedure. Crit Care Explor. 2021 May; 3(5):e0417. PMID: [34036271](//www.ncbi.nlm.nih.gov/pubmed/34036271); PMCID: [PMC8140762](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8140762).
+
+Citations:
+
+  30. **ACOSTA S**. Local on-surface radiation condition for multiple scattering of waves from convex obstacles. Comput. Methods Appl. Mech. Engrg. 2021; 378:113697. [View Publication](https://doi.org/10.1016/j.cma.2021.113697).
+
+  31. [Foughty ZC](https://profiles.viictr.org/profile/37104185), Tavaslioglu O, [Rhee CJ](https://profiles.viictr.org/profile/266127), Elizondo LI, [Rusin CG](https://profiles.viictr.org/profile/268524), [Penny DJ](https://profiles.viictr.org/profile/266148), **Acosta S** , Rios DR. Novel Method of Calculating Pulse Pressure Variation to Predict Fluid Responsiveness to Transfusion in Very Low Birth Weight Infants. J Pediatr. 2021 Jul; 234:265-268.e1. PMID: [33865859](//www.ncbi.nlm.nih.gov/pubmed/33865859); PMCID: [PMC8238876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8238876).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  32. Elizondo LI, Vu EL, Kibler KK, Rios DR, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos D](https://profiles.viictr.org/profile/268201), **Acosta S** , [Rusin C](https://profiles.viictr.org/profile/268524), Brady K, [Rhee CJ](https://profiles.viictr.org/profile/266127). Critical Closing Pressure by Diffuse Correlation Spectroscopy in a Neonatal Piglet Model. Acta Neurochir Suppl. 2021; 131:295-299. PMID: [33839861](//www.ncbi.nlm.nih.gov/pubmed/33839861).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Animals
+
+  33. **ACOSTA S**. Solvability for photoacoustic imaging with idealized piezoelectric sensors. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. 2020; 67(11):2413-2422. [View Publication](https://ieeexplore.ieee.org/document/9125987).
+
+  34. . A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media. Journal of Computational Physics. 2020; 418:109632. [View Publication](https://doi.org/10.1016/j.jcp.2020.109632).
+
+  35. [Ahmed M](https://profiles.viictr.org/profile/17822537), Advani S, [Moreira A](https://profiles.viictr.org/profile/37847448), Zoretic S, Martinez J, Chorath K, **Acosta S** , Naqvi R, Burmeister-Morton F, Burmeister F, Tarriela A, Petershack M, Evans M, Hoang A, Rajasekaran K, Ahuja S, Moreira A. Multisystem inflammatory syndrome in children: A systematic review. EClinicalMedicine. 2020 Sep; 26:100527. PMID: [32923992](//www.ncbi.nlm.nih.gov/pubmed/32923992); PMCID: [PMC7473262](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7473262).
+
+Citations:
+[145](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32923992/citedby/)
+
+  36. Kala S, Dunk C, **Acosta S** , Serghides L. Periconceptional exposure to lopinavir, but not darunavir, impairs decidualization: a potential mechanism leading to poor birth outcomes in HIV-positive pregnancies. Hum Reprod. 2020 08 01; 35(8):1781-1796. PMID: [32712670](//www.ncbi.nlm.nih.gov/pubmed/32712670); PMCID: [PMC7398624](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7398624).
+
+Citations:
+
+  37. Rios DR, [Rhee CJ](https://profiles.viictr.org/profile/266127), Elizondo L, Brady KM, [Rusin CG](https://profiles.viictr.org/profile/268524), **Acosta S**. Creatinine filtration kinetics in critically Ill neonates. Pediatr Res. 2021 03; 89(4):952-957. PMID: [32454515](//www.ncbi.nlm.nih.gov/pubmed/32454515); PMCID: [PMC7688479](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7688479).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  38. **Acosta S** , [Ahmed M](https://profiles.viictr.org/profile/17822537), Yin SM, Brady KM, [Penny DJ](https://profiles.viictr.org/profile/266148), [Rusin CG](https://profiles.viictr.org/profile/268524). A robust Fourier-based method to measure pulse pressure variability. Biomed Signal Process Control. 2020 Jul; 60. PMID: [32719724](//www.ncbi.nlm.nih.gov/pubmed/32719724); PMCID: [PMC7384614](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7384614).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32719724/citedby/)
+
+  39. . High order methods for acoustic scattering: Coupling farfield expansions ABC with deferred-correction methods. Wave Motion. 2020; 95:102529. [View Publication](https://doi.org/10.1016/j.wavemoti.2020.102529).
+
+  40. . Recovery of pressure and wave speed for photoacoustic imaging under a condition of relative uncertainty. Inverse Problems. 2019; 35(11):115013. [View Publication](https://doi.org/10.1088/1361-6420/ab2789).
+
+  41. [Achuff BJ](https://profiles.viictr.org/profile/15317795), [Moffett BS](https://profiles.viictr.org/profile/270140), **Acosta S** , Lasa JJ, [Checchia PA](https://profiles.viictr.org/profile/267197), [Rusin CG](https://profiles.viictr.org/profile/268524). The authors reply. Pediatr Crit Care Med. 2019 10; 20(10):1004-1005. PMID: [31580284](//www.ncbi.nlm.nih.gov/pubmed/31580284).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  42. . Well-posedness for photoacoustic tomography with Fabry-Perot sensors. SIAM J. Imag. Sciences. 2019; 12(4):1669-1685. [View Publication](https://epubs.siam.org/doi/10.1137/19M1248297).
+
+  43. [Achuff BJ](https://profiles.viictr.org/profile/15317795), [Moffett BS](https://profiles.viictr.org/profile/270140), **Acosta S** , Lasa JJ, [Checchia PA](https://profiles.viictr.org/profile/267197), [Rusin CG](https://profiles.viictr.org/profile/268524). Hypotensive Response to IV Acetaminophen in Pediatric Cardiac Patients. Pediatr Crit Care Med. 2019 06; 20(6):527-533. PMID: [30676493](//www.ncbi.nlm.nih.gov/pubmed/30676493).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30676493/citedby/) Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  44. Elizondo LI, Rios DR, Vu E, Kibler K, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos DB](https://profiles.viictr.org/profile/268201), **Acosta S** , [Rusin CG](https://profiles.viictr.org/profile/268524), Kaiser JR, Brady KM, [Rhee CJ](https://profiles.viictr.org/profile/266127). Observed and calculated cerebral critical closing pressure are highly correlated in preterm infants. Pediatr Res. 2019 08; 86(2):242-246. PMID: [31003233](//www.ncbi.nlm.nih.gov/pubmed/31003233); PMCID: [PMC6658334](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6658334).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31003233/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  45. **ACOSTA S** , Palacios B. Thermoacoustic tomography for an integro-differential wave equation modeling attenuation. J. Differential Equations. 2018; 264(3):1984-2010. [View Publication](https://doi.org/10.1016/j.jde.2017.10.012).
+
+  46. [Achuff BJ](https://profiles.viictr.org/profile/15317795), Achuff JC, Park HH, [Moffett B](https://profiles.viictr.org/profile/270140), **Acosta S** , [Rusin CG](https://profiles.viictr.org/profile/268524), [Checchia PA](https://profiles.viictr.org/profile/267197). Epinephrine syringe exchange events in a paediatric cardiovascular ICU: analysing the storm. Cardiol Young. 2018 Mar; 28(3):409-415. PMID: [29198222](//www.ncbi.nlm.nih.gov/pubmed/29198222).
+
+Citations:  Fields:
+
+Car CardiologyPed PediatricsVas Vascular Diseases
+
+Translation:Humans
+
+  47. . A computational study of the Fontan circulation with fenestration or hepatic vein exclusion. Computers in Biology and Medicine. 2017; 89:405-418. [View Publication](https://doi.org/10.1016/j.compbiomed.2017.08.024).
+
+  48. [Penny DJ](https://profiles.viictr.org/profile/266148), Brady KM, [Rusin CG](https://profiles.viictr.org/profile/268524), **Acosta S**. An effective model of cerebrovascular pressure reactivity and blood flow autoregulation. Microvasc Res. 2018 01; 115:34-43. PMID: [28847705](//www.ncbi.nlm.nih.gov/pubmed/28847705).
+
+Citations:  Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  49. **ACOSTA S**. High order surface radiation conditions for time-harmonic waves in exterior domains. Comput. Methods Appl. Mech. Engrg. 2017; 322:296-310. [View Publication](https://doi.org/10.1016/j.cma.2017.04.032).
+
+  50. [Puelz C](https://profiles.viictr.org/profile/31564365), [Penny DJ](https://profiles.viictr.org/profile/266148), Brady KM, [Rusin CG](https://profiles.viictr.org/profile/268524), **Acosta S** , Rivi?re B. Cardiovascular mechanics in the early stages of pulmonary hypertension: a computational study. Biomech Model Mechanobiol. 2017 Dec; 16(6):2093-2112. PMID: [28733923](//www.ncbi.nlm.nih.gov/pubmed/28733923).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28733923/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  51. Villamizar V, **ACOSTA S** , Dastrup B. High order local absorbing boundary conditions for acoustic waves in terms of farfield expansions. Journal of Computational Physics. 2017; 333(3):331-351. [View Publication](http://dx.doi.org/10.1016/j.jcp.2016.12.048).
+
+  52. **ACOSTA S** , Montalto C. Photoacoustic imaging taking into account thermodynamic attenuation. Inverse Problems. 2016; 32(11):115001. [View Publication](https://doi.org/10.1088/0266-5611/32/11/115001).
+
+  53. [Rusin CG](https://profiles.viictr.org/profile/268524), **Acosta SI** , [Shekerdemian LS](https://profiles.viictr.org/profile/266468), Vu EL, [Bavare AC](https://profiles.viictr.org/profile/270074), Myers RB, Patterson LW, Brady KM, [Penny DJ](https://profiles.viictr.org/profile/266148). Prediction of imminent, severe deterioration of children with parallel circulations using real-time processing of physiologic data. J Thorac Cardiovasc Surg. 2016 Jul; 152(1):171-7. PMID: [27174513](//www.ncbi.nlm.nih.gov/pubmed/27174513); PMCID: [PMC4921264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4921264).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27174513/citedby/) Fields:
+
+Car CardiologyGen General SurgeryPul Pulmonary MedicineVas Vascular Diseases
+
+Translation:Humans
+
+  54. **Acosta S** , [Puelz C](https://profiles.viictr.org/profile/31564365), [Penny DJ](https://profiles.viictr.org/profile/266148), [Rusin CG](https://profiles.viictr.org/profile/268524), Rivi?re B. Numerical Method of Characteristics for One-Dimensional Blood Flow. J Comput Phys. 2015 Aug 01; 294:96-109. PMID: [25931614](//www.ncbi.nlm.nih.gov/pubmed/25931614); PMCID: [PMC4410450](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4410450).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25931614/citedby/)
+
+  55. . Multiwave imaging in an enclosure with variable wave speed. Inverse Problems. 2015; 31:065009. [View Publication](http://dx.doi.org/10.1088/0266-5611/31/6/065009).
+
+  56. . A control approach to recover the wave speed (conformal factor) from one measurement. Inverse Problems and Imaging. 2015; 9:301-315. [View Publication](http://dx.doi.org/10.3934/ipi.2015.9.301).
+
+  57. **ACOSTA S**. Recovery of the absorption coefficient in radiative transport from a single measurement. Inverse Problems and Imaging. 2015; 9(2):289-300. [View Publication](http://dx.doi.org/10.3934/ipi.2015.9.289).
+
+  58. **Acosta S** , [Penny DJ](https://profiles.viictr.org/profile/266148), [Rusin CG](https://profiles.viictr.org/profile/268524). An effective model of blood flow in capillary beds. Microvasc Res. 2015 Jul; 100:40-7. PMID: [25936622](//www.ncbi.nlm.nih.gov/pubmed/25936622).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25936622/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:HumansAnimals
+
+  59. . Source estimation with incoherent waves in random waveguides. Inverse Problems. 2015; 31:035013. [View Publication](http://iopscience.iop.org/0266-5611/31/3/035013/).
+
+  60. . On-surface radiation condition for multiple scattering of waves. Comput. Meth. Appl. Mech. Engrg. 2015; 283:1296-1309. [View Publication](http://dx.doi.org/10.1016/j.cma.2014.08.022).
+
+  61. . Time reversal for radiative transport with applications to inverse and control problems. Inverse Problems. 2013; 29:085014. [View Publication](http://iopscience.iop.org/0266-5611/29/8/085014/).
+
+  62. **ACOSTA S** , Chow S, Villamizar V. Contemporary Mathematics. Multifrequency inverse source problem for elastic waves. 2013; 586:1-8. [View Publication](http://dx.doi.org/10.1090/conm/586/11671).
+
+  63. . On the multi-frequency inverse source problem in heterogeneous media. Inverse Problems. 2012; 28:075013. [View Publication](https://doi.org/10.1088/0266-5611/28/7/075013).
+
+  64. Wagner R, **ACOSTA S** , Glasgow S, Su Q, Grobe R. Quantum fluctuations in the dressed vacuum of a bosonic model system. Journal of Physics A: Mathematical and Theoretical. 2012; 45:275303. [View Publication](http://iopscience.iop.org/1751-8121/45/27/275303).
+
+  65. **ACOSTA S** , Villamizar V, Malone B. The DtN nonreflecting boundary condition for multiple scattering problems in the half-plane. Computer Methods in Applied Mechanics and Engineering. 2012; 217-220:1-11. [View Publication](https://doi.org/10.1016/j.cma.2012.01.005).
+
+  66. **ACOSTA S** , Villamizar V. Coupling of Dirichlet-to-Neumann boundary condition and finite difference methods in curvilinear coordinates for multiple scattering. Journal of Computational Physics. 2010; 229(15):5498-5517. [View Publication](https://doi.org/10.1016/j.jcp.2010.04.011).
+
+  67. **ACOSTA S** , Villamizar V. Finite difference on grids with nearly uniform cell area and line spacing for the wave equation on complex domains. Journal of Computational and Applied Mathematics. 2010; 234(6):1970-1979. [View Publication](https://doi.org/10.1016/j.cam.2009.08.048).
+
+  68. Villamizar V, **ACOSTA S**. Generation of smooth grids with line control for scattering from multiple obstacles. Mathematics and Computers in Simulation. 2009; 79(8):2506-2520. [View Publication](https://doi.org/10.1016/j.matcom.2009.01.006).
+
+  69. Villamizar V, **ACOSTA S**. Elliptic grids with nearly uniform cell area and line spacing. Electronic Transactions on Numerical Analysis. 2009; 34:59-75. [View Publication](http://etna.mcs.kent.edu/vol.34.2008-2009/pp59-75.dir/pp59-75.pdf).
+
+  70. **ACOSTA S** , Acosta P. Numerical wave scattering taking account of energy dissipation and media stiffness. SIAM Undergraduate Research Online. 2008; 1(2):100-119. [View Publication](https://www.siam.org/Publications/SIURO/Volume-1-Issue-2).
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 70 publications over 15 distinct years, with a maximum of
+14 publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|14&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14,14,0,21,14,0,50,14,43,7,36,50,43,100,79,7&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2008| 1  
+2009| 2  
+2010| 2  
+2012| 3  
+2013| 2  
+2015| 7  
+2016| 2  
+2017| 6  
+2018| 1  
+2019| 5  
+2020| 7  
+2021| 6  
+2022| 14  
+2023| 11  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ACOSTA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (153)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Hypotension](https://profiles.viictr.org/profile/241192)
+  * [Hemodynamics](https://profiles.viictr.org/profile/253996)
+  * [Norwood Procedures](https://profiles.viictr.org/profile/27545937)
+  * [Heart Arrest](https://profiles.viictr.org/profile/243626)
+  * [Electrocardiography](https://profiles.viictr.org/profile/264964)
+
+[Explore](https://profiles.viictr.org/profile/3494037/198)
+
+_
+
+Co-Authors (36)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SAVORGNAN, FABIO](https://profiles.viictr.org/profile/17822562)
+  * [RUSIN, CRAIG](https://profiles.viictr.org/profile/268524)
+  * [FLORES, SAUL](https://profiles.viictr.org/profile/17822551)
+  * [PENNY, DANIEL](https://profiles.viictr.org/profile/266148)
+  * [RHEE, CHRISTOPHER](https://profiles.viictr.org/profile/266127)
+
+[Explore](https://profiles.viictr.org/profile/3494037/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [SZARPAK, LUKASZ](https://profiles.viictr.org/profile/37104232)
+  * [BIRNBAUM, YOCHAI](https://profiles.viictr.org/profile/265899)
+  * [DEZFULIAN, CAMERON](https://profiles.viictr.org/profile/31673804)
+  * [FLORES, SAUL](https://profiles.viictr.org/profile/17822551)
+  * [SAVORGNAN, FABIO](https://profiles.viictr.org/profile/17822562)
+
+[Explore](https://profiles.viictr.org/profile/3494037/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [NGUYEN, MINH](https://profiles.viictr.org/profile/37976256)
+  * [PARTHIBAN, ANITHA](https://profiles.viictr.org/profile/32127991)
+  * [SANYAHUMBI, AMY](https://profiles.viictr.org/profile/2560304)
+  * [VARGO, THOMAS](https://profiles.viictr.org/profile/267519)
+  * [WILLIS, AMANDA](https://profiles.viictr.org/profile/30445203)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BECKER, JUDITH](https://profiles.viictr.org/profile/268756)
+  * [KHAN, ASRA](https://profiles.viictr.org/profile/268790)
+  * [LIOU, AIMEE](https://profiles.viictr.org/profile/265525)
+  * [MOODIE, DOUGLAS](https://profiles.viictr.org/profile/266118)
+  * [REID, PRISCILA](https://profiles.viictr.org/profile/270031)
+
+_
+

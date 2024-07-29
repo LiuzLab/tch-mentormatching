@@ -1,0 +1,797 @@
+## RICHARD SIFERS
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JLg552DVM6v3RYKj5X%2fX&rnd=45515a90-b610-44fb-8d1b-7ee7685990e0)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269667)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=269667&cachekey=bbb27fd6-86b9-4625-b3b0-44d7588971b1)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Division| Molecular & Cellular Biology  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Huffington Center on Aging  
+Division| Huffington Ctr on Aging  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Affiliation  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+groups
+
+  * [Dr. Shaulsky's Group](https://profiles.viictr.org/profile/28672289) (Member) 
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+K12GM084897 (SMITH, CAROLYN LOUISE)Aug 1, 2008 - Jul 31, 2018NIH  
+Research Education and Career Horizons Program  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R01DK064232 (SIFERS, RICHARD NORMAN)Sep 15, 2004 - Jun 30, 2011NIH  
+Post-translational Surveillance of Genome Expression  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01HL062553 (SIFERS, RICHARD NORMAN)Feb 1, 2000 - Jan 31, 2005NIH  
+PATHOBIOGENESIS OF HERITABLE PULMONARY EMPHYSEMA  
+Role: Principal Investigator  
+  
+* * *  
+  
+R29DK042806 (SIFERS, RICHARD NORMAN)May 1, 1991 - Oct 31, 1996NIH  
+PREGOLGI DEGRADATION OF MUTANT SECRETORY PROTEINS  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32HL007343 (SIFERS, RICHARD NORMAN)Mar 15, 1986NIH  
+ALPHA-1-ANTITRYPSIN DEFICIENCY  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Sifers RN**. Pharmacological management of disease by overcoming structural adversity. Cell Chem Biol. 2023 01 19; 30(1):1-2. PMID: [36669468](//www.ncbi.nlm.nih.gov/pubmed/36669468).
+
+Citations:  Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+  2. Sun AH, Collette JR, **Sifers RN**. The cytoplasmic tail of human mannosidase Man1b1 contributes to catalysis-independent quality control of misfolded alpha1-antitrypsin. Proc Natl Acad Sci U S A. 2020 10 06; 117(40):24825-24836. PMID: [32958677](//www.ncbi.nlm.nih.gov/pubmed/32958677); PMCID: [PMC7547240](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7547240).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32958677/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  3. Bajaj L, Sharma J, di Ronza A, Zhang P, Eblimit A, Pal R, Roman D, Collette JR, Booth C, Chang KT, **Sifers RN** , Jung SY, Weimer JM, Chen R, Schekman RW, Sardiello M. A CLN6-CLN8 complex recruits lysosomal enzymes at the ER for Golgi transfer. J Clin Invest. 2020 08 03; 130(8):4118-4132. PMID: [32597833](//www.ncbi.nlm.nih.gov/pubmed/32597833); PMCID: [PMC7410054](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7410054).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32597833/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  4. Wang L, Adamski CJ, Bondar VV, Craigen E, Collette JR, Pang K, Han K, Jain A, Y Jung S, [Liu Z](https://profiles.viictr.org/profile/266153), **Sifers RN** , Holder JL, [Zoghbi HY](https://profiles.viictr.org/profile/267945). A kinome-wide RNAi screen identifies ERK2 as a druggable regulator of Shank3 stability. Mol Psychiatry. 2020 10; 25(10):2504-2516. PMID: [30696942](//www.ncbi.nlm.nih.gov/pubmed/30696942); PMCID: [PMC6663662](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6663662).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30696942/citedby/) Fields:
+
+Mol Molecular BiologyPsy Psychiatry
+
+Translation:HumansAnimalsCells
+
+  5. di Ronza A, Bajaj L, Sharma J, Sanagasetti D, Lotfi P, Adamski CJ, Collette J, Palmieri M, Amawi A, Popp L, Chang KT, Meschini MC, Leung HE, Segatori L, Simonati A, **Sifers RN** , Santorelli FM, Sardiello M. CLN8 is an endoplasmic reticulum cargo receptor that regulates lysosome biogenesis. Nat Cell Biol. 2018 12; 20(12):1370-1377. PMID: [30397314](//www.ncbi.nlm.nih.gov/pubmed/30397314); PMCID: [PMC6277210](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6277210).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30397314/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  6. Mamrosh JL, Lee JM, Wagner M, Stambrook PJ, Whitby RJ, **Sifers RN** , Wu SP, Tsai MJ, [DeMayo FJ](https://profiles.viictr.org/profile/267848), Moore DD. Correction: Nuclear receptor LRH-1/NR5A2 is required and targetable for liver endoplasmic reticulum stress resolution. Elife. 2015 Jul 24; 4:e10084. PMID: [26205891](//www.ncbi.nlm.nih.gov/pubmed/26205891); PMCID: [PMC4512255](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4512255).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26205891/citedby/) Fields:
+
+Bio Biology
+
+  7. Mamrosh JL, Lee JM, Wagner M, Stambrook PJ, Whitby RJ, **Sifers RN** , Wu SP, Tsai MJ, [Demayo FJ](https://profiles.viictr.org/profile/267848), Moore DD. Nuclear receptor LRH-1/NR5A2 is required and targetable for liver endoplasmic reticulum stress resolution. Elife. 2014 Apr 15; 3:e01694. PMID: [24737860](//www.ncbi.nlm.nih.gov/pubmed/24737860); PMCID: [PMC3987120](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3987120).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24737860/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  8. Iannotti MJ, Figard L, Sokac AM, **Sifers RN**. A Golgi-localized mannosidase (MAN1B1) plays a non-enzymatic gatekeeper role in protein biosynthetic quality control. J Biol Chem. 2014 Apr 25; 289(17):11844-11858. PMID: [24627495](//www.ncbi.nlm.nih.gov/pubmed/24627495); PMCID: [PMC4002091](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4002091).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24627495/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  9. Pan S, Cheng X, Chen H, [Castro PD](https://profiles.viictr.org/profile/268709), [Ittmann MM](https://profiles.viictr.org/profile/269566), Hutson AW, Zapata SK, **Sifers RN**. ERManI is a target of miR-125b and promotes transformation phenotypes in hepatocellular carcinoma (HCC). PLoS One. 2013; 8(8):e72829. PMID: [23940818](//www.ncbi.nlm.nih.gov/pubmed/23940818); PMCID: [PMC3733964](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3733964).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23940818/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  10. **Sifers RN**. Resurrecting the protein fold for disease intervention. Chem Biol. 2013 Mar 21; 20(3):298-300. PMID: [23521788](//www.ncbi.nlm.nih.gov/pubmed/23521788); PMCID: [PMC3658450](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3658450).
+
+Citations:  Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+  11. Pan S, Cheng X, **Sifers RN**. Golgi-situated endoplasmic reticulum a-1, 2-mannosidase contributes to the retrieval of ERAD substrates through a direct interaction with ?-COP. Mol Biol Cell. 2013 Apr; 24(8):1111-21. PMID: [23427261](//www.ncbi.nlm.nih.gov/pubmed/23427261); PMCID: [PMC3623633](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3623633).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23427261/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  12. Fong JJ, Nguyen BL, Bridger R, Medrano EE, Wells L, Pan S, **Sifers RN**. ?-N-Acetylglucosamine (O-GlcNAc) is a novel regulator of mitosis-specific phosphorylations on histone H3. J Biol Chem. 2012 Apr 06; 287(15):12195-203. PMID: [22371497](//www.ncbi.nlm.nih.gov/pubmed/22371497); PMCID: [PMC3320971](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3320971).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22371497/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  13. Pan S, Wang S, Utama B, Huang L, Blok N, [Estes MK](https://profiles.viictr.org/profile/266419), Moremen KW, **Sifers RN**. Golgi localization of ERManI defines spatial separation of the mammalian glycoprotein quality control system. Mol Biol Cell. 2011 Aug 15; 22(16):2810-22. PMID: [21697506](//www.ncbi.nlm.nih.gov/pubmed/21697506); PMCID: [PMC3154878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3154878).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21697506/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  14. Pan S, Iannotti MJ, **Sifers RN**. Analysis of serpin secretion, misfolding, and surveillance in the endoplasmic reticulum. Methods Enzymol. 2011; 499:1-16. PMID: [21683246](//www.ncbi.nlm.nih.gov/pubmed/21683246).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21683246/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  15. **Sifers RN**. Intracellular processing of alpha1-antitrypsin. Proc Am Thorac Soc. 2010 Nov; 7(6):376-80. PMID: [21030516](//www.ncbi.nlm.nih.gov/pubmed/21030516); PMCID: [PMC3136957](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3136957).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21030516/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCells
+
+  16. **Sifers RN**. Medicine. Clearing conformational disease. Science. 2010 Jul 09; 329(5988):154-5. PMID: [20616258](//www.ncbi.nlm.nih.gov/pubmed/20616258).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20616258/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  17. **Sifers RN**. Manipulating proteostasis. Nat Chem Biol. 2010 Jun; 6(6):400-1. PMID: [20479748](//www.ncbi.nlm.nih.gov/pubmed/20479748).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20479748/citedby/) Fields:
+
+Bio BiologyChe Chemistry
+
+Translation:HumansCells
+
+  18. **Sifers RN**. Defining the ERAD connection: assembly required. Cell Cycle. 2009 Dec 15; 8(24):4026-7. PMID: [19959932](//www.ncbi.nlm.nih.gov/pubmed/19959932).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19959932/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  19. Pan S, Huang L, McPherson J, [Muzny D](https://profiles.viictr.org/profile/268028), Rouhani F, Brantly M, Gibbs R, **Sifers RN**. Single nucleotide polymorphism-mediated translational suppression of endoplasmic reticulum mannosidase I modifies the onset of end-stage liver disease in alpha1-antitrypsin deficiency. Hepatology. 2009 Jul; 50(1):275-81. PMID: [19444872](//www.ncbi.nlm.nih.gov/pubmed/19444872); PMCID: [PMC2705478](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2705478).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19444872/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  20. Termine DJ, Moremen KW, **Sifers RN**. The mammalian UPR boosts glycoprotein ERAD by suppressing the proteolytic downregulation of ER mannosidase I. J Cell Sci. 2009 Apr 01; 122(Pt 7):976-84. PMID: [19258393](//www.ncbi.nlm.nih.gov/pubmed/19258393); PMCID: [PMC2720930](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2720930).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19258393/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  21. Pan S, Wang R, Zhou X, Corvera J, Kloc M, **Sifers R** , [Gallick GE](https://profiles.viictr.org/profile/12583655), [Lin SH](https://profiles.viictr.org/profile/12583235), [Kuang J](https://profiles.viictr.org/profile/12583268). Extracellular Alix regulates integrin-mediated cell adhesions and extracellular matrix assembly. EMBO J. 2008 Aug 06; 27(15):2077-90. PMID: [18636094](//www.ncbi.nlm.nih.gov/pubmed/18636094); PMCID: [PMC2516883](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2516883).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18636094/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  22. Mallya M, Phillips RL, Saldanha SA, Gooptu B, Brown SC, Termine DJ, Shirvani AM, Wu Y, **Sifers RN** , Abagyan R, Lomas DA. Small molecules block the polymerization of Z alpha1-antitrypsin and increase the clearance of intracellular aggregates. J Med Chem. 2007 Nov 01; 50(22):5357-63. PMID: [17918823](//www.ncbi.nlm.nih.gov/pubmed/17918823); PMCID: [PMC2631427](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2631427).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17918823/citedby/) Fields:
+
+Che Chemistry
+
+Translation:AnimalsCells
+
+  23. Wu Y, Termine DJ, Swulius MT, Moremen KW, **Sifers RN**. Human endoplasmic reticulum mannosidase I is subject to regulated proteolysis. J Biol Chem. 2007 Feb 16; 282(7):4841-4849. PMID: [17166854](//www.ncbi.nlm.nih.gov/pubmed/17166854); PMCID: [PMC3969733](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3969733).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17166854/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  24. Termine D, Wu Y, Liu Y, **Sifers RN**. Alpha1-antitrypsin as model to assess glycan function in endoplasmic reticulum. Methods. 2005 Apr; 35(4):348-53. PMID: [15804606](//www.ncbi.nlm.nih.gov/pubmed/15804606).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15804606/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  25. Mast SW, Diekman K, Karaveg K, Davis A, **Sifers RN** , Moremen KW. Human EDEM2, a novel homolog of family 47 glycosidases, is involved in ER-associated degradation of glycoproteins. Glycobiology. 2005 Apr; 15(4):421-36. PMID: [15537790](//www.ncbi.nlm.nih.gov/pubmed/15537790).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15537790/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  26. **Sifers RN**. Insights into checkpoint capacity. Nat Struct Mol Biol. 2004 Feb; 11(2):108-9. PMID: [14749767](//www.ncbi.nlm.nih.gov/pubmed/14749767).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14749767/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  27. Wu Y, Swulius MT, Moremen KW, **Sifers RN**. Elucidation of the molecular logic by which misfolded alpha 1-antitrypsin is preferentially selected for degradation. Proc Natl Acad Sci U S A. 2003 Jul 08; 100(14):8229-34. PMID: [12815101](//www.ncbi.nlm.nih.gov/pubmed/12815101); PMCID: [PMC166211](//www.ncbi.nlm.nih.gov/pmc/articles/PMC166211).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12815101/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  28. **Sifers RN**. Cell biology. Protein degradation unlocked. Science. 2003 Feb 28; 299(5611):1330-1. PMID: [12610289](//www.ncbi.nlm.nih.gov/pubmed/12610289).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12610289/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  29. Han B, Luo G, Shi ZZ, Barrios R, Atwood D, Liu W, Habib GM, **Sifers RN** , [Corry DB](https://profiles.viictr.org/profile/269165), Lieberman MW. Gamma-glutamyl leukotrienase, a novel endothelial membrane protein, is specifically responsible for leukotriene D(4) formation in vivo. Am J Pathol. 2002 Aug; 161(2):481-90. PMID: [12163373](//www.ncbi.nlm.nih.gov/pubmed/12163373); PMCID: [PMC1850737](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1850737).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12163373/citedby/) Fields:
+
+Pat Pathology
+
+Translation:AnimalsCells
+
+  30. Cabral CM, Liu Y, Moremen KW, **Sifers RN**. Organizational diversity among distinct glycoprotein endoplasmic reticulum-associated degradation programs. Mol Biol Cell. 2002 Aug; 13(8):2639-50. PMID: [12181335](//www.ncbi.nlm.nih.gov/pubmed/12181335); PMCID: [PMC117931](//www.ncbi.nlm.nih.gov/pmc/articles/PMC117931).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12181335/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  31. Davis RL, Shrimpton AE, Carrell RW, Lomas DA, Gerhard L, Baumann B, Lawrence DA, Yepes M, Kim TS, Ghetti B, Piccardo P, Takao M, Lacbawan F, Muenke M, **Sifers RN** , Bradshaw CB, Kent PF, Collins GH, Larocca D, Holohan PD. Association between conformational mutations in neuroserpin and onset and severity of dementia. Lancet. 2002 Jun 29; 359(9325):2242-7. PMID: [12103288](//www.ncbi.nlm.nih.gov/pubmed/12103288).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12103288/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  32. Cabral CM, Liu Y, **Sifers RN**. Dissecting glycoprotein quality control in the secretory pathway. Trends Biochem Sci. 2001 Oct; 26(10):619-24. PMID: [11590015](//www.ncbi.nlm.nih.gov/pubmed/11590015).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11590015/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  33. Younes M, Pathak M, Finnie D, **Sifers RN** , Liu Y, Schwartz MR. Expression of the neutral amino acids transporter ASCT1 in esophageal carcinomas. Anticancer Res. 2000 Sep-Oct; 20(5C):3775-9. PMID: [11268453](//www.ncbi.nlm.nih.gov/pubmed/11268453).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11268453/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  34. Ran Q, Wadhwa R, Kawai R, Kaul SC, **Sifers RN** , Bick RJ, Smith JR, Pereira-Smith OM. Extramitochondrial localization of mortalin/mthsp70/PBP74/GRP75. Biochem Biophys Res Commun. 2000 Aug 18; 275(1):174-9. PMID: [10944461](//www.ncbi.nlm.nih.gov/pubmed/10944461).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10944461/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansCells
+
+  35. Cabral CM, Choudhury P, Liu Y, **Sifers RN**. Processing by endoplasmic reticulum mannosidases partitions a secretion-impaired glycoprotein into distinct disposal pathways. J Biol Chem. 2000 Aug 11; 275(32):25015-22. PMID: [10827201](//www.ncbi.nlm.nih.gov/pubmed/10827201).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10827201/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  36. Liu Y, Choudhury P, Cabral CM, **Sifers RN**. Oligosaccharide modification in the early secretory pathway directs the selection of a misfolded glycoprotein for degradation by the proteasome. J Biol Chem. 1999 Feb 26; 274(9):5861-7. PMID: [10026209](//www.ncbi.nlm.nih.gov/pubmed/10026209).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10026209/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  37. Choudhury P, Liu Y, Bick RJ, **Sifers RN**. Intracellular association between UDP-glucose:glycoprotein glucosyltransferase and an incompletely folded variant of alpha1-antitrypsin. J Biol Chem. 1997 May 16; 272(20):13446-51. PMID: [9148970](//www.ncbi.nlm.nih.gov/pubmed/9148970).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9148970/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  38. Liu Y, Choudhury P, Cabral CM, **Sifers RN**. Intracellular disposal of incompletely folded human alpha1-antitrypsin involves release from calnexin and post-translational trimming of asparagine-linked oligosaccharides. J Biol Chem. 1997 Mar 21; 272(12):7946-51. PMID: [9065464](//www.ncbi.nlm.nih.gov/pubmed/9065464).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9065464/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  39. **Sifers RN**. Defective protein folding as a cause of disease. Nat Struct Biol. 1995 May; 2(5):355-7. PMID: [7664089](//www.ncbi.nlm.nih.gov/pubmed/7664089).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7664089/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  40. Le A, Steiner JL, Ferrell GA, Shaker JC, **Sifers RN**. Association between calnexin and a secretion-incompetent variant of human alpha 1-antitrypsin. J Biol Chem. 1994 Mar 11; 269(10):7514-9. PMID: [8125971](//www.ncbi.nlm.nih.gov/pubmed/8125971).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8125971/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  41. **Sifers RN** , [Finegold MJ](https://profiles.viictr.org/profile/269596), Woo SL. Molecular biology and genetics of alpha 1-antitrypsin deficiency. Semin Liver Dis. 1992 Aug; 12(3):301-10. PMID: [1439881](//www.ncbi.nlm.nih.gov/pubmed/1439881).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1439881/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansAnimals
+
+  42. **Sifers RN**. Protein transport. Z and the insoluble answer. Nature. 1992 Jun 18; 357(6379):541-2. PMID: [1608463](//www.ncbi.nlm.nih.gov/pubmed/1608463).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1608463/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  43. Le A, Ferrell GA, Dishon DS, Le QQ, **Sifers RN**. Soluble aggregates of the human PiZ alpha 1-antitrypsin variant are degraded within the endoplasmic reticulum by a mechanism sensitive to inhibitors of protein synthesis. J Biol Chem. 1992 Jan 15; 267(2):1072-80. PMID: [1530934](//www.ncbi.nlm.nih.gov/pubmed/1530934).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1530934/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  44. Graham KS, Le A, **Sifers RN**. Accumulation of the insoluble PiZ variant of human alpha 1-antitrypsin within the hepatic endoplasmic reticulum does not elevate the steady-state level of grp78/BiP. J Biol Chem. 1990 Nov 25; 265(33):20463-8. PMID: [2122976](//www.ncbi.nlm.nih.gov/pubmed/2122976).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2122976/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  45. Le A, Graham KS, **Sifers RN**. Intracellular degradation of the transport-impaired human PiZ alpha 1-antitrypsin variant. Biochemical mapping of the degradative event among compartments of the secretory pathway. J Biol Chem. 1990 Aug 15; 265(23):14001-7. PMID: [2380201](//www.ncbi.nlm.nih.gov/pubmed/2380201).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2380201/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  46. **Sifers RN** , Ledley FD, Reed-Fourquet L, Ledbetter DH, Ledbetter SA, Woo SL. Complete cDNA sequence and chromosomal localization of mouse alpha 1-antitrypsin. Genomics. 1990 Jan; 6(1):100-4. PMID: [2303252](//www.ncbi.nlm.nih.gov/pubmed/2303252).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2303252/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  47. **Sifers RN** , [Finegold MJ](https://profiles.viictr.org/profile/269596), Woo SL. Alpha-1-antitrypsin deficiency: accumulation or degradation of mutant variants within the hepatic endoplasmic reticulum. Am J Respir Cell Mol Biol. 1989 Nov; 1(5):341-5. PMID: [2700304](//www.ncbi.nlm.nih.gov/pubmed/2700304).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2700304/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  48. **Sifers RN** , Rogers BB, Hawkins HK, [Finegold MJ](https://profiles.viictr.org/profile/269596), Woo SL. Elevated synthesis of human alpha 1-antitrypsin hinders the secretion of murine alpha 1-antitrypsin from hepatocytes of transgenic mice. J Biol Chem. 1989 Sep 15; 264(26):15696-700. PMID: [2788654](//www.ncbi.nlm.nih.gov/pubmed/2788654).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2788654/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  49. **Sifers RN** , Shen RF, Woo SL. Genetic control of human alpha-1-antitrypsin. Mol Biol Med. 1989 Apr; 6(2):127-35. PMID: [2693888](//www.ncbi.nlm.nih.gov/pubmed/2693888).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2693888/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:HumansAnimals
+
+  50. Carlson JA, Rogers BB, **Sifers RN** , [Finegold MJ](https://profiles.viictr.org/profile/269596), Clift SM, DeMayo FJ, Bullock DW, Woo SL. Accumulation of PiZ alpha 1-antitrypsin causes liver damage in transgenic mice. J Clin Invest. 1989 Apr; 83(4):1183-90. PMID: [2784798](//www.ncbi.nlm.nih.gov/pubmed/2784798); PMCID: [PMC303805](//www.ncbi.nlm.nih.gov/pmc/articles/PMC303805).
+
+Citations:
+[96](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2784798/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimals
+
+  51. Shen RF, Clift SM, DeMayo JL, **Sifers RN** , [Finegold MJ](https://profiles.viictr.org/profile/269596), Woo SL. Tissue-specific regulation of human alpha 1-antitrypsin gene expression in transgenic mice. DNA. 1989 Mar; 8(2):101-8. PMID: [2784378](//www.ncbi.nlm.nih.gov/pubmed/2784378).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2784378/citedby/) Fields:
+
+Bio BiotechnologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  52. **Sifers RN** , Hardick CP, Woo SL. Disruption of the 290-342 salt bridge is not responsible for the secretory defect of the PiZ alpha 1-antitrypsin variant. J Biol Chem. 1989 Feb 15; 264(5):2997-3001. PMID: [2563374](//www.ncbi.nlm.nih.gov/pubmed/2563374).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2563374/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  53. Cohen AB, Woo S, Kelley R, Rosenbloom J, Crystal RG, **Sifers R** , Perlmutter D. Molecular genetics in pulmonary emphysema. Am Rev Respir Dis. 1988 Oct; 138(4):1041-3. PMID: [3264478](//www.ncbi.nlm.nih.gov/pubmed/3264478).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  54. Carlson JA, Rogers BB, **Sifers RN** , Hawkins HK, [Finegold MJ](https://profiles.viictr.org/profile/269596), Woo SL. Multiple tissues express alpha 1-antitrypsin in transgenic mice and man. J Clin Invest. 1988 Jul; 82(1):26-36. PMID: [3260605](//www.ncbi.nlm.nih.gov/pubmed/3260605); PMCID: [PMC303472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC303472).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3260605/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimals
+
+  55. **Sifers RN** , Brashears-Macatee S, Kidd VJ, Muensch H, Woo SL. A frameshift mutation results in a truncated alpha 1-antitrypsin that is retained within the rough endoplasmic reticulum. J Biol Chem. 1988 May 25; 263(15):7330-5. PMID: [3259232](//www.ncbi.nlm.nih.gov/pubmed/3259232).
+
+Citations:
+[91](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3259232/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  56. Bao JJ, Reed-Fourquet L, **Sifers RN** , Kidd VJ, Woo SL. Molecular structure and sequence homology of a gene related to alpha 1-antitrypsin in the human genome. Genomics. 1988 Feb; 2(2):165-73. PMID: [2842251](//www.ncbi.nlm.nih.gov/pubmed/2842251).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2842251/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  57. Bao JJ, **Sifers RN** , Kidd VJ, Ledley FD, Woo SL. Molecular evolution of serpins: homologous structure of the human alpha 1-antichymotrypsin and alpha 1-antitrypsin genes. Biochemistry. 1987 Dec 01; 26(24):7755-9. PMID: [3501319](//www.ncbi.nlm.nih.gov/pubmed/3501319).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3501319/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  58. Shen RF, Li Y, **Sifers RN** , Wang H, Hardick C, [Tsai SY](https://profiles.viictr.org/profile/266552), Woo SL. Tissue-specific expression of the human alpha 1-antitrypsin gene is controlled by multiple cis-regulatory elements. Nucleic Acids Res. 1987 Oct 26; 15(20):8399-415. PMID: [2823229](//www.ncbi.nlm.nih.gov/pubmed/2823229); PMCID: [PMC306367](//www.ncbi.nlm.nih.gov/pmc/articles/PMC306367).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2823229/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  59. **Sifers RN** , Carlson JA, Clift SM, DeMayo FJ, Bullock DW, Woo SL. Tissue specific expression of the human alpha-1-antitrypsin gene in transgenic mice. Nucleic Acids Res. 1987 Feb 25; 15(4):1459-75. PMID: [3029716](//www.ncbi.nlm.nih.gov/pubmed/3029716); PMCID: [PMC340561](//www.ncbi.nlm.nih.gov/pmc/articles/PMC340561).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3029716/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  60. Hejtmancik JF, **Sifers RN** , Ward PA, Harris S, Mansfield T, Cox DW. Prenatal diagnosis of alpha 1-antitrypsin deficiency by restriction fragment length polymorphisms, and comparison with oligonucleotide probe analysis. Lancet. 1986 Oct 04; 2(8510):767-70. PMID: [2876232](//www.ncbi.nlm.nih.gov/pubmed/2876232).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2876232/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  61. **Sifers RN** , Mayes JS, Nordquist RE. Loss of electron-dense lamellar material from Fabry's disease fibroblasts after enzyme replacement. Hum Genet. 1983; 65(1):85-7. PMID: [6315565](//www.ncbi.nlm.nih.gov/pubmed/6315565).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  62. Mayes JS, Cray EL, Dell VA, Scheerer JB, **Sifers RN**. Endocytosis of lysosomal alpha-galactosidase A by cultured fibroblasts from patients with Fabry disease. Am J Hum Genet. 1982 Jul; 34(4):602-10. PMID: [6285697](//www.ncbi.nlm.nih.gov/pubmed/6285697); PMCID: [PMC1685365](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1685365).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6285697/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  63. Mayes JS, Scheerer JB, **Sifers RN** , Donaldson ML. Differential assay for lysosomal alpha-galactosidases in human tissues and its application to Fabry's disease. Clin Chim Acta. 1981 May 05; 112(2):247-51. PMID: [6263521](//www.ncbi.nlm.nih.gov/pubmed/6263521).
+
+Citations:
+[85](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6263521/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 40 publications over 24 distinct years, with a maximum of
+3 publications in 2000 and 2002 and 2009 and 2010 and
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:33,33,0,67,0,33,100,33,100,67,67,33,33,33,33,100,100,67,33,100,67,33,0,0,33,33,67,0,0,33,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 1  
+1995| 1  
+1997| 2  
+1999| 1  
+2000| 3  
+2001| 1  
+2002| 3  
+2003| 2  
+2004| 2  
+2005| 1  
+2006| 1  
+2007| 1  
+2008| 1  
+2009| 3  
+2010| 3  
+2011| 2  
+2012| 1  
+2013| 3  
+2014| 2  
+2015| 1  
+2018| 1  
+2019| 1  
+2020| 2  
+2023| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SIFERS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (301)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [alpha 1-Antitrypsin](https://profiles.viictr.org/profile/240584)
+  * [Mannosidases](https://profiles.viictr.org/profile/250778)
+  * [Endoplasmic Reticulum](https://profiles.viictr.org/profile/247004)
+  * [Protein Folding](https://profiles.viictr.org/profile/243986)
+  * [Glycoproteins](https://profiles.viictr.org/profile/259686)
+
+[Explore](https://profiles.viictr.org/profile/269667/198)
+
+_
+
+Co-Authors (14)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [ITTMANN, MICHAEL](https://profiles.viictr.org/profile/269566)
+  * [CASTRO, PATRICIA](https://profiles.viictr.org/profile/268709)
+  * [ESTES, MARY](https://profiles.viictr.org/profile/266419)
+  * [MUZNY, DONNA](https://profiles.viictr.org/profile/268028)
+
+[Explore](https://profiles.viictr.org/profile/269667/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [ESTES, MARY](https://profiles.viictr.org/profile/266419)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+
+[Explore](https://profiles.viictr.org/profile/269667/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [PANGAS, STEPHANIE](https://profiles.viictr.org/profile/267477)
+  * [SCHWARTZ, MARY](https://profiles.viictr.org/profile/267509)
+  * [SPINLER, JENNIFER](https://profiles.viictr.org/profile/265508)
+  * [YOUENS, KENNETH](https://profiles.viictr.org/profile/41795453)
+  * [YUAN, FEI](https://profiles.viictr.org/profile/37104196)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [ADESINA, ADEKUNLE](https://profiles.viictr.org/profile/268657)
+  * [FAN, YUXIN](https://profiles.viictr.org/profile/265696)
+  * [HAWS, ANDREA](https://profiles.viictr.org/profile/3009567)
+  * [HUTTENBACH, YVE](https://profiles.viictr.org/profile/269545)
+  * [POWELL, SUZANNE](https://profiles.viictr.org/profile/269823)
+
+_
+

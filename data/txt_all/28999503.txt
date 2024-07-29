@@ -1,0 +1,322 @@
+## RACHEL AREY
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BKoz6WDLbqrnQ5bN4njPZLGIMg%3d%3d&rnd=61a70c81-eb23-4b0a-b5f9-20d63639e9a3)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999503)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Center for Precision Environmental Health  
+Division| Center for Precision Env Health  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+F32AG046106 (AREY, RACHEL NICOLE)Mar 15, 2015 - Mar 14, 2018NIH/NIA  
+Identifying postsynaptic regulators of long-term memory in Caenorhabditis
+elegans  
+Role: Principal Investigator  
+---  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Hayden AN](https://profiles.viictr.org/profile/28999395), Brandel KL, Merlau PR, Vijayakumar P, [Leptich EJ](https://profiles.viictr.org/profile/28999398), [Pietryk EW](https://profiles.viictr.org/profile/31189470), [Gaytan ES](https://profiles.viictr.org/profile/40687928), Ni CW, [Chao HT](https://profiles.viictr.org/profile/23478929), Rosenfeld JA, **Arey RN**. Behavioral screening of conserved RNA-binding proteins reveals CEY-1/YBX RNA-binding protein dysfunction leads to impairments in memory and cognition. bioRxiv. 2024 May 02. PMID: [38260399](//www.ncbi.nlm.nih.gov/pubmed/38260399); PMCID: [PMC10802296](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10802296).
+
+Citations:
+
+  2. Hudgins AD, Zhou S, **Arey RN** , Rosenfeld MG, Murphy CT, Suh Y. A systems biology-based identification and in?vivo functional screening of Alzheimer's disease risk genes reveal modulators of memory function. Neuron. 2024 Jul 03; 112(13):2112-2129.e4. PMID: [38692279](//www.ncbi.nlm.nih.gov/pubmed/38692279); PMCID: [PMC11223975](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11223975).
+
+Citations:  Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  3. Brandel-Ankrapp KL, **Arey RN**. Uncovering novel regulators of memory using C. elegans genetic and genomic analysis. Biochem Soc Trans. 2023 02 27; 51(1):161-171. PMID: [36744642](//www.ncbi.nlm.nih.gov/pubmed/36744642); PMCID: [PMC10518207](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10518207).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36744642/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  4. [Hayden AN](https://profiles.viictr.org/profile/28999395), [Leptich EJ](https://profiles.viictr.org/profile/28999398), **Arey RN**. Invited review: Unearthing the mechanisms of age-related neurodegenerative disease using Caenorhabditis elegans. Comp Biochem Physiol A Mol Integr Physiol. 2022 05; 267:111166. PMID: [35176489](//www.ncbi.nlm.nih.gov/pubmed/35176489).
+
+Citations:  Fields:
+
+Mol Molecular BiologyPhy Physiology
+
+Translation:Animals
+
+  5. Logan RW, Ozburn AR, **Arey RN** , Ketchesin KD, Winquist A, Crain A, Tobe BTD, Becker-Krail D, Jarpe MB, Xue X, Zong W, Huo Z, Parekh PK, Zhu X, Fitzgerald E, Zhang H, Oliver-Smith J, DePoy LM, Hildebrand MA, Snyder EY, Tseng GC, McClung CA. Valproate reverses mania-like behaviors in mice via preferential targeting of HDAC2. Mol Psychiatry. 2021 08; 26(8):4066-4084. PMID: [33235333](//www.ncbi.nlm.nih.gov/pubmed/33235333); PMCID: [PMC8141541](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8141541).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33235333/citedby/) Fields:
+
+Mol Molecular BiologyPsy Psychiatry
+
+Translation:HumansAnimalsCells
+
+  6. **Arey RN** , Kaletsky R, Murphy CT. Nervous system-wide profiling of presynaptic mRNAs reveals regulators of associative memory. Sci Rep. 2019 12 30; 9(1):20314. PMID: [31889133](//www.ncbi.nlm.nih.gov/pubmed/31889133); PMCID: [PMC6937282](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6937282).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31889133/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  7. **Arey RN** , Stein GM, Kaletsky R, Kauffman A, Murphy CT. Activation of Gaq Signaling Enhances Memory Consolidation and Slows Cognitive Decline. Neuron. 2018 05 02; 98(3):562-574.e5. PMID: [29656871](//www.ncbi.nlm.nih.gov/pubmed/29656871); PMCID: [PMC5934306](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5934306).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29656871/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  8. Son HG, Seo M, Ham S, Hwang W, Lee D, An SW, Artan M, Seo K, Kaletsky R, **Arey RN** , Ryu Y, Ha CM, Kim YK, Murphy CT, Roh TY, Nam HG, Lee SV. RNA surveillance via nonsense-mediated mRNA decay is crucial for longevity in daf-2/insulin/IGF-1 mutant C. elegans. Nat Commun. 2017 03 09; 8:14749. PMID: [28276441](//www.ncbi.nlm.nih.gov/pubmed/28276441); PMCID: [PMC5347137](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5347137).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28276441/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  9. **Arey RN** , Murphy CT. Conserved regulators of cognitive aging: From worms to humans. Behav Brain Res. 2017 03 30; 322(Pt B):299-310. PMID: [27329151](//www.ncbi.nlm.nih.gov/pubmed/27329151); PMCID: [PMC5164975](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5164975).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27329151/citedby/) Fields:
+
+Beh Behavioral SciencesBra Brain
+
+Translation:HumansAnimals
+
+  10. Li LB, Lei H, **Arey RN** , Li P, Liu J, Murphy CT, Xu XZ, Shen K. The Neuronal Kinesin UNC-104/KIF1A Is a Key Regulator of Synaptic Aging and Insulin Signaling-Regulated Memory. Curr Biol. 2016 Mar 07; 26(5):605-15. PMID: [26877087](//www.ncbi.nlm.nih.gov/pubmed/26877087); PMCID: [PMC4783184](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4783184).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26877087/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  11. Kaletsky R, Lakhina V, **Arey R** , Williams A, Landis J, Ashraf J, Murphy CT. The C. elegans adult neuronal IIS/FOXO transcriptome reveals adult phenotype regulators. Nature. 2016 Jan 07; 529(7584):92-6. PMID: [26675724](//www.ncbi.nlm.nih.gov/pubmed/26675724); PMCID: [PMC4708089](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4708089).
+
+Citations:
+[89](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26675724/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  12. Lakhina V, **Arey RN** , Kaletsky R, Kauffman A, Stein G, Keyes W, Xu D, Murphy CT. Genome-wide functional analysis of CREB/long-term memory-dependent transcription reveals distinct basal and memory gene expression programs. Neuron. 2015 Jan 21; 85(2):330-45. PMID: [25611510](//www.ncbi.nlm.nih.gov/pubmed/25611510); PMCID: [PMC4340687](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4340687).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25611510/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  13. Ozburn AR, Falcon E, Twaddle A, Nugent AL, Gillman AG, Spencer SM, **Arey RN** , Mukherjee S, Lyons-Weiler J, Self DW, McClung CA. Direct regulation of diurnal Drd3 expression and cocaine reward by NPAS2. Biol Psychiatry. 2015 Mar 01; 77(5):425-433. PMID: [25444159](//www.ncbi.nlm.nih.gov/pubmed/25444159); PMCID: [PMC4315729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4315729).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25444159/citedby/) Fields:
+
+Psy PsychiatryPsy Psychophysiology
+
+Translation:AnimalsCells
+
+  14. Ozburn AR, Falcon E, Mukherjee S, Gillman A, **Arey R** , Spencer S, McClung CA. The role of clock in ethanol-related behaviors. Neuropsychopharmacology. 2013 Nov; 38(12):2393-400. PMID: [23722243](//www.ncbi.nlm.nih.gov/pubmed/23722243); PMCID: [PMC3799058](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3799058).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23722243/citedby/) Fields:
+
+Neu NeurologyPsy Psychopharmacology
+
+Translation:Animals
+
+  15. **Arey R** , McClung CA. An inhibitor of casein kinase 1 e/d partially normalizes the manic-like behaviors of the Clock?19 mouse. Behav Pharmacol. 2012 Aug; 23(4):392-6. PMID: [22743604](//www.ncbi.nlm.nih.gov/pubmed/22743604); PMCID: [PMC3673712](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3673712).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22743604/citedby/) Fields:
+
+Beh Behavioral SciencesPha Pharmacology
+
+Translation:Animals
+
+  16. Spencer S, Torres-Altoro MI, Falcon E, **Arey R** , Marvin M, Goldberg M, Bibb JA, McClung CA. A mutation in CLOCK leads to altered dopamine receptor function. J Neurochem. 2012 Oct; 123(1):124-34. PMID: [22757753](//www.ncbi.nlm.nih.gov/pubmed/22757753); PMCID: [PMC3438377](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3438377).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22757753/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  17. Enwright JF, Wald M, Paddock M, Hoffman E, **Arey R** , Edwards S, Spencer S, Nestler EJ, McClung CA. DeltaFosB indirectly regulates Cck promoter activity. Brain Res. 2010 May 06; 1329:10-20. PMID: [20226774](//www.ncbi.nlm.nih.gov/pubmed/20226774); PMCID: [PMC2876727](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2876727).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20226774/citedby/) Fields:
+
+Bra Brain
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 17 publications over 13 distinct years, with a maximum of
+2 publications in 2012 and 2015 and 2016 and
+2024](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,100,50,50,100,100,50,50,50,50,0,50,50,100&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2010| 1  
+2012| 2  
+2013| 1  
+2014| 1  
+2015| 2  
+2016| 2  
+2017| 1  
+2018| 1  
+2019| 1  
+2020| 1  
+2022| 1  
+2023| 1  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+AREY's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (112)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Caenorhabditis elegans](https://profiles.viictr.org/profile/251854)
+  * [Caenorhabditis elegans Proteins](https://profiles.viictr.org/profile/254011)
+  * [Memory](https://profiles.viictr.org/profile/249310)
+  * [CLOCK Proteins](https://profiles.viictr.org/profile/241621)
+  * [Presynaptic Terminals](https://profiles.viictr.org/profile/245711)
+
+[Explore](https://profiles.viictr.org/profile/28999503/198)
+
+_
+
+Co-Authors (5)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [Hayden, Ashley](https://profiles.viictr.org/profile/28999395)
+  * [Leptich, Emily](https://profiles.viictr.org/profile/28999398)
+  * [CHAO, HSIAO-TUAN](https://profiles.viictr.org/profile/23478929)
+  * [Pietryk, Edward](https://profiles.viictr.org/profile/31189470)
+  * [Gaytan, Elizabeth](https://profiles.viictr.org/profile/40687928)
+
+[Explore](https://profiles.viictr.org/profile/28999503/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ARUR, SWATHI](https://profiles.viictr.org/profile/12583161)
+  * [DAVIS, RONALD](https://profiles.viictr.org/profile/268115)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [ZHENG, HUI](https://profiles.viictr.org/profile/269684)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+
+[Explore](https://profiles.viictr.org/profile/28999503/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DACSO, CLIFFORD](https://profiles.viictr.org/profile/266413)
+  * [DI STEFANO, BRUNO](https://profiles.viictr.org/profile/32773507)
+  * [KAMI REDDY, KARTHIK REDDY](https://profiles.viictr.org/profile/28999415)
+  * [LEI, YUNPING](https://profiles.viictr.org/profile/23478772)
+  * [LONARD, DAVID](https://profiles.viictr.org/profile/269800)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,525 @@
+## STEEN PEDERSEN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Integrative Physiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Jq405HfUJYXVRIzgrn7GPw%3d%3d&rnd=8b82e623-1c04-4d6d-9ad9-920450d9e3f9)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266929)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=266929&cachekey=49977a5d-b87e-4dfc-952f-a7c322ad4ee2)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+S10RR027388 (PEDERSEN, STEEN E)Apr 22, 2010 - Apr 21, 2011NIH  
+An Instrument for Lanthanide-Luminescence Lifetime Microscopy  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01HL087099 (PEDERSEN, STEEN E)Apr 1, 2008 - May 30, 2012NIH  
+Regulation of Calcium Channels by Calmodulin  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01NS035212 (PEDERSEN, STEEN E)Jun 1, 1996 - Jun 30, 2004NIH  
+LIGAND BINDING SITES OF THE ACETYLCHOLINE RECEPTOR  
+Role: Principal Investigator  
+  
+* * *  
+  
+K04NS001618 (PEDERSEN, STEEN E)Dec 1, 1992 - Nov 30, 1997NIH  
+STRUCTURE AND FUNCTION OF THE ACETYLCHOLINE RECEPTOR  
+Role: Principal Investigator  
+  
+* * *  
+  
+R29NS028879 (PEDERSEN, STEEN E)Sep 1, 1990 - Dec 31, 1995NIH  
+STRUCTURE OF THE NICOTINIC ACETYLCHOLINE RECEPTOR  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32GM010093 (PEDERSEN, STEEN E)Jun 1, 1985NIH  
+LIGAND BINDING SITES OF THE ACETYLCHOLINE RECEPTOR  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Jensen JB, Just J, Mose M, de Paoli FV, Billeskov TB, Fred RG, Pers TH, **Pedersen SB** , Petersen KK, Bjerre M, Farup J, Jessen N, M?ller AB. Isolation and characterization of muscle stem cells, fibro-adipogenic progenitors, and macrophages from human skeletal muscle biopsies. Am J Physiol Cell Physiol. 2021 08 01; 321(2):C257-C268. PMID: [34106790](//www.ncbi.nlm.nih.gov/pubmed/34106790).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34106790/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:HumansCells
+
+  2. Chen CA, Wang W, **Pedersen SE** , Raman A, Seymour ML, Ruiz FR, Xia A, van der Heijden ME, Wang L, Yin J, Lopez J, Rech ME, Lewis RA, [Wu SM](https://profiles.viictr.org/profile/267834), [Liu Z](https://profiles.viictr.org/profile/266153), [Pereira FA](https://profiles.viictr.org/profile/269546), [Pautler RG](https://profiles.viictr.org/profile/267744), [Zoghbi HY](https://profiles.viictr.org/profile/267945), Schaaf CP. Nr2f1 heterozygous knockout mice recapitulate neurological phenotypes of Bosch-Boonstra-Schaaf optic atrophy syndrome and show impaired hippocampal synaptic plasticity. Hum Mol Genet. 2020 03 27; 29(5):705-715. PMID: [31600777](//www.ncbi.nlm.nih.gov/pubmed/31600777); PMCID: [PMC7104670](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7104670).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31600777/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:Animals
+
+  3. Wong BKY, Murry JB, Ramakrishnan R, He F, [Balasa A](https://profiles.viictr.org/profile/37834413), Stinnett GR, **Pedersen SE** , [Pautler RG](https://profiles.viictr.org/profile/267744), [Van den Veyver IB](https://profiles.viictr.org/profile/266526). Maternal stress in Shank3ex4-9 mice increases pup-directed care and alters brain white matter in male offspring. PLoS One. 2019; 14(11):e0224876. PMID: [31703095](//www.ncbi.nlm.nih.gov/pubmed/31703095); PMCID: [PMC6839842](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6839842).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsPHPublic Health
+
+  4. Bak AM, Frystyk J, Jessen N, H?gild ML, **Pedersen SB** , Rungby J, M?ller N, J?rgensen JOL. Growth hormone signaling and action in obese versus lean human subjects. Am J Physiol Endocrinol Metab. 2019 02 01; 316(2):E333-E344. PMID: [30576246](//www.ncbi.nlm.nih.gov/pubmed/30576246).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30576246/citedby/) Fields:
+
+End EndocrinologyMet MetabolismPhy Physiology
+
+Translation:HumansCells
+
+  5. Perez EC, Rodgers SP, Inoue T, **Pedersen SE** , Leasure JL, [Gaber MW](https://profiles.viictr.org/profile/269276). Olfactory Memory Impairment Differs by Sex in a Rodent Model of Pediatric Radiotherapy. Front Behav Neurosci. 2018; 12:158. PMID: [30116180](//www.ncbi.nlm.nih.gov/pubmed/30116180); PMCID: [PMC6084003](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6084003).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30116180/citedby/)
+
+  6. Sahnoune I, Inoue T, [Kesler SR](https://profiles.viictr.org/profile/17440101), Rodgers SP, Sabek OM, **Pedersen SE** , Zawaski JA, Nelson KH, Ris MD, Leasure JL, [Gaber MW](https://profiles.viictr.org/profile/269276). Exercise ameliorates neurocognitive impairments in a translational model of pediatric radiotherapy. Neuro Oncol. 2018 04 09; 20(5):695-704. PMID: [29121259](//www.ncbi.nlm.nih.gov/pubmed/29121259); PMCID: [PMC5892168](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5892168).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29121259/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:Animals
+
+  7. Cao Z, Balasubramanian A, **Pedersen SE** , Romero J, [Pautler RG](https://profiles.viictr.org/profile/267744), Marrelli SP. TRPV1-mediated Pharmacological Hypothermia Promotes Improved Functional Recovery Following Ischemic Stroke. Sci Rep. 2017 12 15; 7(1):17685. PMID: [29247238](//www.ncbi.nlm.nih.gov/pubmed/29247238); PMCID: [PMC5732157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5732157).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29247238/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  8. Ornstrup MJ, Jessen N, Kj?r TN, Poulsen MM, St?dkilde-J?rgensen H, J?rgensen JOL, Richelsen B, **Pedersen SB**. No Beneficial Effects of Resveratrol on the Metabolic Syndrome: A Randomized Placebo-Controlled Clinical Trial. J Clin Endocrinol Metab. 2017 05 01; 102(5):1642-1651. PMID: [28182820](//www.ncbi.nlm.nih.gov/pubmed/28182820).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28182820/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:Humans
+
+  9. Quick AP, Landstrom AP, Wang Q, Beavers DL, Reynolds JO, Barreto-Torres G, Tran V, Showell J, Philippen LE, [Morris SA](https://profiles.viictr.org/profile/265727), Skapura D, Bos JM, **Pedersen SE** , [Pautler RG](https://profiles.viictr.org/profile/267744), Ackerman MJ, [Wehrens XH](https://profiles.viictr.org/profile/270302). Novel junctophilin-2 mutation A405S is associated with basal septal hypertrophy and diastolic dysfunction. JACC Basic Transl Sci. 2017 Feb; 2(1):56-67. PMID: [28393127](//www.ncbi.nlm.nih.gov/pubmed/28393127); PMCID: [PMC5384575](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5384575).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28393127/citedby/)
+
+  10. [Blesson CS](https://profiles.viictr.org/profile/3010554), Schutt AK, Balakrishnan MP, [Pautler RG](https://profiles.viictr.org/profile/267744), **Pedersen SE** , [Sarkar P](https://profiles.viictr.org/profile/37989525), Gonzales D, Zhu G, [Marini JC](https://profiles.viictr.org/profile/265723), [Chacko SK](https://profiles.viictr.org/profile/269874), Yallampalli U, [Yallampalli C](https://profiles.viictr.org/profile/2560322). Novel lean type 2 diabetic rat model using gestational low-protein programming. Am J Obstet Gynecol. 2016 Apr; 214(4):540.e1-540.e7. PMID: [26874300](//www.ncbi.nlm.nih.gov/pubmed/26874300); PMCID: [PMC4808600](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4808600).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26874300/citedby/) Fields:
+
+Gyn GynecologyObs Obstetrics
+
+Translation:Animals
+
+  11. Dudele A, Poulsen MM, Ebbesen LH, Radko Y, Christensen LP, Jessen N, Lund S, **Pedersen SB** , N?hr MK, Richelsen B. LPS-Enhanced Glucose-Stimulated Insulin Secretion Is Normalized by Resveratrol. PLoS One. 2016; 11(1):e0146840. PMID: [26751381](//www.ncbi.nlm.nih.gov/pubmed/26751381); PMCID: [PMC4709071](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4709071).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26751381/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  12. Wamberg L, **Pedersen SB** , Rejnmark L, Richelsen B. Causes of Vitamin D Deficiency and Effect of Vitamin D Supplementation on Metabolic Complications in Obesity: a Review. Curr Obes Rep. 2015 Dec; 4(4):429-40. PMID: [26353882](//www.ncbi.nlm.nih.gov/pubmed/26353882).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26353882/citedby/) Fields:
+
+Met Metabolism
+
+Translation:Humans
+
+  13. Vestergaard PF, Vendelbo MH, **Pedersen SB** , Juul A, Ringgard S, M?ller N, Jessen N, J?rgensen JO. GH signaling in skeletal muscle and adipose tissue in healthy human subjects: impact of gender and age. Eur J Endocrinol. 2014 Nov; 171(5):623-31. PMID: [25163724](//www.ncbi.nlm.nih.gov/pubmed/25163724).
+
+Citations:
+
+  14. Mallipeddi PL, **Pedersen SE** , Briggs JM. Interactions of acetylcholine binding site residues contributing to nicotinic acetylcholine receptor gating: role of residues Y93, Y190, K145 and D200. J Mol Graph Model. 2013 Jul; 44:145-54. PMID: [23831994](//www.ncbi.nlm.nih.gov/pubmed/23831994).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23831994/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  15. Pietraszek A, Hermansen K, **Pedersen SB** , Langdahl BL, Holst JJ, Gregersen S. Effects of a meal rich in medium-chain saturated fat on postprandial lipemia in relatives of type 2 diabetics. Nutrition. 2013 Jul-Aug; 29(7-8):1000-6. PMID: [23644012](//www.ncbi.nlm.nih.gov/pubmed/23644012).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23644012/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansCells
+
+  16. Hamilton-Dutoit S, Clasen BF, Jessen N, **Pedersen SB** , Poulsen MM, Larsen J?, Paulsen SK, Kj?r TN, Richelsen B. Resveratrol up-regulates hepatic uncoupling protein 2 and prevents development of nonalcoholic fatty liver disease in rats fed a high-fat diet. Nutr Res. 2012 Sep; 32(9):701-8. PMID: [23084643](//www.ncbi.nlm.nih.gov/pubmed/23084643).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23084643/citedby/) Fields:
+
+Nut Nutritional Sciences
+
+Translation:AnimalsCells
+
+  17. Maersk M, Belza A, Ringgaard S, Chabanova E, Thomsen H, **Pedersen SB** , Astrup A, St?dkilde-J?rgensen H, Richelsen B. Sucrose-sweetened beverages increase fat storage in the liver, muscle, and visceral fat depot: a 6-mo randomized intervention study. Am J Clin Nutr. 2012 Feb; 95(2):283-9. PMID: [22205311](//www.ncbi.nlm.nih.gov/pubmed/22205311).
+
+Citations:
+[206](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22205311/citedby/)
+Fields:
+
+Nut Nutritional Sciences
+
+Translation:HumansAnimals
+
+  18. Kampmann U, Christensen B, Nielsen TS, Lund S, Jessen N, **Pedersen SB** , ?rskov L, M?ller N. GLUT4 and UBC9 protein expression is reduced in muscle from type 2 diabetic patients with severe insulin resistance. PLoS One. 2011; 6(11):e27854. PMID: [22114711](//www.ncbi.nlm.nih.gov/pubmed/22114711); PMCID: [PMC3218059](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3218059).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22114711/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  19. Bendsen NT, Stender S, Szecsi PB, **Pedersen SB** , Basu S, Hellgren LI, Newman JW, Larsen TM, Haugaard SB, Astrup A. Effect of industrially produced trans fat on markers of systemic inflammation: evidence from a randomized trial in women. J Lipid Res. 2011 Oct; 52(10):1821-8. PMID: [21795740](//www.ncbi.nlm.nih.gov/pubmed/21795740); PMCID: [PMC3173005](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3173005).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21795740/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  20. Halling DB, Georgiou DK, Black DJ, Yang G, Fallon JL, [Quiocho FA](https://profiles.viictr.org/profile/266875), **Pedersen SE** , [Hamilton SL](https://profiles.viictr.org/profile/269595). Determinants in CaV1 channels that regulate the Ca2+ sensitivity of bound calmodulin. J Biol Chem. 2009 Jul 24; 284(30):20041-51. PMID: [19473981](//www.ncbi.nlm.nih.gov/pubmed/19473981); PMCID: [PMC2740430](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2740430).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19473981/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  21. Bennetzen MF, Nielsen MP, **Pedersen SB** , Richelsen B. Effects on food intake and blood lipids of cannabinoid receptor 1 antagonist treatment in lean rats. Obesity (Silver Spring). 2008 Nov; 16(11):2451-5. PMID: [18719671](//www.ncbi.nlm.nih.gov/pubmed/18719671).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18719671/citedby/) Fields:
+
+Met MetabolismNut Nutritional SciencesPhy Physiology
+
+Translation:Animals
+
+  22. Lihn AS, **Pedersen SB** , Lund S, Richelsen B. The anti-diabetic AMPK activator AICAR reduces IL-6 and IL-8 in human adipose tissue and skeletal muscle cells. Mol Cell Endocrinol. 2008 Sep 24; 292(1-2):36-41. PMID: [18606210](//www.ncbi.nlm.nih.gov/pubmed/18606210).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18606210/citedby/) Fields:
+
+Cel Cell BiologyEnd EndocrinologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  23. Ozsoy HZ, Sivasubramanian N, Wieder ED, **Pedersen S** , Mann DL. Oxidative stress promotes ligand-independent and enhanced ligand-dependent tumor necrosis factor receptor signaling. J Biol Chem. 2008 Aug 22; 283(34):23419-28. PMID: [18544535](//www.ncbi.nlm.nih.gov/pubmed/18544535); PMCID: [PMC2516989](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2516989).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18544535/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  24. Nielsen MP, Bruun JM, Flyvbjerg A, **Pedersen SB** , Paulsen SK, Richelsen B. Upregulation of adipose 11-beta-hydroxysteroid dehydrogenase type 1 expression in ovariectomized rats is due to obesity rather than lack of estrogen. Obesity (Silver Spring). 2008 Apr; 16(4):731-5. PMID: [18379559](//www.ncbi.nlm.nih.gov/pubmed/18379559).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18379559/citedby/) Fields:
+
+Met MetabolismNut Nutritional SciencesPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  25. Zhang X, Andrews JN, **Pedersen SE**. Kinetic modeling and fitting software for interconnected reaction schemes: VisKin. Anal Biochem. 2007 Feb 15; 361(2):153-61. PMID: [17207764](//www.ncbi.nlm.nih.gov/pubmed/17207764); PMCID: [PMC2048535](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2048535).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17207764/citedby/) Fields:
+
+Bio Biochemistry
+
+  26. Meltzer RH, Lurtz MM, [Wensel TG](https://profiles.viictr.org/profile/268119), **Pedersen SE**. Nicotinic acetylcholine receptor channel electrostatics determined by diffusion-enhanced luminescence energy transfer. Biophys J. 2006 Aug 15; 91(4):1315-24. PMID: [16751249](//www.ncbi.nlm.nih.gov/pubmed/16751249); PMCID: [PMC1518635](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1518635).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16751249/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  27. Meltzer RH, Thompson E, Soman KV, Song XZ, Ebalunode JO, [Wensel TG](https://profiles.viictr.org/profile/268119), Briggs JM, **Pedersen SE**. Electrostatic steering at acetylcholine binding sites. Biophys J. 2006 Aug 15; 91(4):1302-14. PMID: [16751247](//www.ncbi.nlm.nih.gov/pubmed/16751247); PMCID: [PMC1518644](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1518644).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16751247/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  28. Meltzer RH, Vila-Carriles W, Ebalunode JO, Briggs JM, **Pedersen SE**. Computed pore potentials of the nicotinic acetylcholine receptor. Biophys J. 2006 Aug 15; 91(4):1325-35. PMID: [16751248](//www.ncbi.nlm.nih.gov/pubmed/16751248); PMCID: [PMC1518625](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1518625).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16751248/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  29. Andreeva IE, Nirthanan S, Cohen JB, **Pedersen SE**. Site specificity of agonist-induced opening and desensitization of the Torpedo californica nicotinic acetylcholine receptor. Biochemistry. 2006 Jan 10; 45(1):195-204. PMID: [16388595](//www.ncbi.nlm.nih.gov/pubmed/16388595).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16388595/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  30. Black DJ, Halling DB, Mandich DV, **Pedersen SE** , Altschuld RA, Hamilton SL. Calmodulin interactions with IQ peptides from voltage-dependent calcium channels. Am J Physiol Cell Physiol. 2005 Mar; 288(3):C669-76. PMID: [15496482](//www.ncbi.nlm.nih.gov/pubmed/15496482).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15496482/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  31. Tang W, Halling DB, Black DJ, Pate P, Zhang JZ, **Pedersen S** , Altschuld RA, Hamilton SL. Apocalmodulin and Ca2+ calmodulin-binding sites on the CaV1.2 channel. Biophys J. 2003 Sep; 85(3):1538-47. PMID: [12944271](//www.ncbi.nlm.nih.gov/pubmed/12944271); PMCID: [PMC1303330](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1303330).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12944271/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:AnimalsCells
+
+  32. **Pedersen SB** , Kristensen K, Richelsen B. Anti-glucocorticoid effects of progesterone in vivo on rat adipose tissue metabolism. Steroids. 2003 Aug; 68(6):543-50. PMID: [12906939](//www.ncbi.nlm.nih.gov/pubmed/12906939).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12906939/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Animals
+
+  33. Song XZ, Andreeva IE, **Pedersen SE**. Site-selective agonist binding to the nicotinic acetylcholine receptor from Torpedo californica. Biochemistry. 2003 Apr 15; 42(14):4197-207. PMID: [12680774](//www.ncbi.nlm.nih.gov/pubmed/12680774).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12680774/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  34. Bruun JM, Nielsen CB, **Pedersen SB** , Flyvbjerg A, Richelsen B. Estrogen reduces pro-inflammatory cytokines in rodent adipose tissue: studies in vivo and in vitro. Horm Metab Res. 2003 Mar; 35(3):142-6. PMID: [12734773](//www.ncbi.nlm.nih.gov/pubmed/12734773).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12734773/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:Animals
+
+  35. Willcockson IU, Hong A, Whisenant RP, Edwards JB, Wang H, Sarkar HK, **Pedersen SE**. Orientation of d-tubocurarine in the muscle nicotinic acetylcholine receptor-binding site. J Biol Chem. 2002 Nov 01; 277(44):42249-58. PMID: [12196523](//www.ncbi.nlm.nih.gov/pubmed/12196523).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12196523/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  36. Din N, Johansen T, **Pedersen SB** , Malml?f K. Growth hormone affects both adiposity and voluntary food intake in old and obese female rats. Eur J Endocrinol. 2002 Jan; 146(1):121-8. PMID: [11751077](//www.ncbi.nlm.nih.gov/pubmed/11751077).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11751077/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansAnimals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 36 publications over 17 distinct years, with a maximum of
+5 publications in
+2006](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,40,80,20,0,100,0,80,20,0,60,20,40,20,20,40,60,60,20,20,20,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 2  
+2003| 4  
+2004| 1  
+2006| 5  
+2008| 4  
+2009| 1  
+2011| 3  
+2012| 1  
+2013| 2  
+2014| 1  
+2015| 1  
+2016| 2  
+2017| 3  
+2018| 3  
+2019| 1  
+2020| 1  
+2021| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+PEDERSEN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (263)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Receptors, Nicotinic](https://profiles.viictr.org/profile/263703)
+  * [Models, Chemical](https://profiles.viictr.org/profile/255610)
+  * [Stilbenes](https://profiles.viictr.org/profile/250034)
+  * [Membrane Potentials](https://profiles.viictr.org/profile/246082)
+  * [Models, Molecular](https://profiles.viictr.org/profile/255643)
+
+[Explore](https://profiles.viictr.org/profile/266929/198)
+
+_
+
+Co-Authors (19)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GABER, MOSTAFA](https://profiles.viictr.org/profile/269276)
+  * [PAUTLER, ROBIA](https://profiles.viictr.org/profile/267744)
+  * [VAN DEN VEYVER, IGNATIA](https://profiles.viictr.org/profile/266526)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+
+[Explore](https://profiles.viictr.org/profile/266929/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BALLANTYNE, CHRISTIE](https://profiles.viictr.org/profile/266404)
+  * [DEVARAJ, SRIDEVI](https://profiles.viictr.org/profile/266182)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [BACHA, FIDA](https://profiles.viictr.org/profile/266181)
+  * [DAVIS, TERESA](https://profiles.viictr.org/profile/268105)
+
+[Explore](https://profiles.viictr.org/profile/266929/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHRISTIANSEN, AUDREY](https://profiles.viictr.org/profile/267604)
+  * [DE GIORGI, MARCO](https://profiles.viictr.org/profile/20777976)
+  * [MARTIN, JAMES](https://profiles.viictr.org/profile/266646)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [WYTHE, JOSHUA](https://profiles.viictr.org/profile/8451896)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9OAoViz93UPhzgPYFlUVlOB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [HAMILTON, SUSAN](https://profiles.viictr.org/profile/269595)
+  * [LARINA, IRINA](https://profiles.viictr.org/profile/270273)
+  * [LEE, CHANG SEOK](https://profiles.viictr.org/profile/3009873)
+  * [POCHE, ROSS](https://profiles.viictr.org/profile/1737888)
+  * [RODNEY JR., GEORGE](https://profiles.viictr.org/profile/267066)
+
+_
+

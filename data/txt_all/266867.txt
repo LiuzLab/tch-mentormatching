@@ -1,0 +1,595 @@
+## ERIC HOLZ
+
+| | Title| Clinical Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Ophthalmology  
+Address| 6565 Fannin, Nc 205  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=M6M%2f7X%2fnIoj4CIrp9Q%3d%3d&rnd=3abf13c4-7f0f-46b7-a774-9548c872e3a4)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266867)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Hamad AE, Moinuddin O, Blair MP, Schechet SA, Shapiro MJ, Quiram PA, Mammo DA, Berrocal AM, Prakhunhungsit S, Cernichiaro-Espinosa LA, Mukai S, Yonekawa Y, Ung C, **Holz ER** , Harper CA, Young RC, Besirli CG, Nagiel A, Lee TC, Gupta MP, Walsh MK, [Khawly JA](https://profiles.viictr.org/profile/266356), Campbell JP, Kychenthal A, Nudleman ED, Robinson JE, Hartnett ME, Calvo CM, Chang EY. Late-Onset Retinal Findings and Complications in Untreated Retinopathy of Prematurity. Ophthalmol Retina. 2020 06; 4(6):602-612. PMID: [32059986](//www.ncbi.nlm.nih.gov/pubmed/32059986); PMCID: [PMC7282927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7282927).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32059986/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  2. Phasukkijwatana N, Vaclavik V, Nagiel A, **Holz ER** , Sarraf D, Nemiroff J. THE SPECTRUM OF AMALRIC TRIANGULAR CHOROIDAL INFARCTION. Retin Cases Brief Rep. 2017 Winter; 11 Suppl 1:S113-S120. PMID: [27780182](//www.ncbi.nlm.nih.gov/pubmed/27780182).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27780182/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  3. Singh R, Reddy DM, Barkmeier AJ, **Holz ER** , Ram R, Carvounis PE. Long-term visual outcomes following lens-sparing vitrectomy for retinopathy of prematurity. Br J Ophthalmol. 2012 Nov; 96(11):1395-8. PMID: [22923456](//www.ncbi.nlm.nih.gov/pubmed/22923456).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22923456/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  4. Barkmeier AJ, Kadikoy H, **Holz ER** , Carvounis PE. Regression of serous macular detachment due to peripheral exudative hemorrhagic chorioretinopathy following intravitreal bevacizumab. Eur J Ophthalmol. 2011 Jul-Aug; 21(4):506-8. PMID: [21240857](//www.ncbi.nlm.nih.gov/pubmed/21240857).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21240857/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  5. Barkmeier AJ, Carvounis PE, **Holz ER**. Long-term observation of exposed scleral exoplant without topical antibiotic prophylaxis. Retin Cases Brief Rep. 2011; 5(1):16-7. PMID: [25389674](//www.ncbi.nlm.nih.gov/pubmed/25389674).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  6. Carvounis PE, Poll J, [Weikert MP](https://profiles.viictr.org/profile/267063), [Wilhelmus K](https://profiles.viictr.org/profile/267314), Lakhanpal RR, **Holz ER**. Refractive outcomes of lens-sparing vitrectomy for retinopathy of prematurity. Arch Ophthalmol. 2010 Jul; 128(7):843-6. PMID: [20625043](//www.ncbi.nlm.nih.gov/pubmed/20625043).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20625043/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  7. Mojumder DK, Concepcion FA, Patel SK, Barkmeier AJ, Carvounis PE, Wilson JH, **Holz ER** , [Wensel TG](https://profiles.viictr.org/profile/268119). Evaluating retinal toxicity of intravitreal caspofungin in the mouse eye. Invest Ophthalmol Vis Sci. 2010 Nov; 51(11):5796-803. PMID: [20505203](//www.ncbi.nlm.nih.gov/pubmed/20505203); PMCID: [PMC2932784](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2932784).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20505203/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  8. **Holz ER**. Refractive outcomes of three-port lens-sparing vitrectomy for retinopathy of prematurity (An AOS Thesis). Trans Am Ophthalmol Soc. 2009 Dec; 107:300-10. PMID: [20126504](//www.ncbi.nlm.nih.gov/pubmed/20126504); PMCID: [PMC2814562](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2814562).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20126504/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  9. Yeh S, Albini TA, Carvounis P, [Paysse EA](https://profiles.viictr.org/profile/268192), **Holz ER** , [Rahman H](https://profiles.viictr.org/profile/24844904). Chorioretinitis and panuveitis in an infant with systemic langerhans cell histiocytosis. Retin Cases Brief Rep. 2009; 3(2):204-6. PMID: [25391076](//www.ncbi.nlm.nih.gov/pubmed/25391076).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  10. Carvounis PE, Kopel AC, Kuhl DP, Heffez J, Pepple K, **Holz ER**. 25-gauge vitrectomy using sulfur hexafluoride and no prone positioning for repair of macular holes. Retina. 2008 Oct; 28(9):1188-92. PMID: [19430387](//www.ncbi.nlm.nih.gov/pubmed/19430387).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19430387/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  11. Yeh S, Lam HY, Albini TA, **Holz ER**. Central retinal vein occlusion in an AIDS patient with presumed Pneumocystis carinii pneumonia. Can J Ophthalmol. 2008 Jun; 43(3):372-3. PMID: [18443615](//www.ncbi.nlm.nih.gov/pubmed/18443615).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  12. Kopel AC, Carvounis PE, [Hamill MB](https://profiles.viictr.org/profile/267261), [Weikert MP](https://profiles.viictr.org/profile/267063), **Holz ER**. Iris-sutured intraocular lenses for ectopia lentis in children. J Cataract Refract Surg. 2008 Apr; 34(4):596-600. PMID: [18361981](//www.ncbi.nlm.nih.gov/pubmed/18361981).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18361981/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  13. Abd-El-Barr MM, Albini TA, Carvounis PE, He F, Manzano RP, [Chevez-Barrios P](https://profiles.viictr.org/profile/269744), [Wensel TG](https://profiles.viictr.org/profile/268119), [Wu SM](https://profiles.viictr.org/profile/267834), **Holz ER**. Safety and pharmokinetics of triamcinolone hexacetonide in rabbit eyes. J Ocul Pharmacol Ther. 2008 Apr; 24(2):197-205. PMID: [18355133](//www.ncbi.nlm.nih.gov/pubmed/18355133).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18355133/citedby/) Fields:
+
+Dru Drug TherapyOph OphthalmologyPha Pharmacology
+
+Translation:Animals
+
+  14. Kopel AC, Carvounis PE, **Holz ER**. Bacillus cereus endophthalmitis following intravitreous bevacizumab injection. Ophthalmic Surg Lasers Imaging. 2008 Mar-Apr; 39(2):153-4. PMID: [18435343](//www.ncbi.nlm.nih.gov/pubmed/18435343).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18435343/citedby/) Fields:
+
+Gen General SurgeryOph Ophthalmology
+
+Translation:HumansCells
+
+  15. Carvounis PE, Albini TA, **Holz ER** , Mieler WF, Kim HH. Photodynamic therapy for bilateral subfoveal choroidal neovascularization complicating stargardt macular dystrophy. Retin Cases Brief Rep. 2008; 2(1):6-8. PMID: [25389603](//www.ncbi.nlm.nih.gov/pubmed/25389603).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  16. Coffee RE, Westfall AC, Davis GH, Mieler WF, **Holz ER**. Symptomatic posterior vitreous detachment and the incidence of delayed retinal breaks: case series and meta-analysis. Am J Ophthalmol. 2007 Sep; 144(3):409-413. PMID: [17583667](//www.ncbi.nlm.nih.gov/pubmed/17583667).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17583667/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  17. Albini TA, Sun RL, **Holz ER** , Khurana RN, Rao NA. Lemon juice and Candida endophthalmitis in crack-cocaine misuse. Br J Ophthalmol. 2007 May; 91(5):702-3. PMID: [17446520](//www.ncbi.nlm.nih.gov/pubmed/17446520); PMCID: [PMC1954783](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1954783).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17446520/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansAnimals
+
+  18. Albini TA, Abd-El-Barr MM, Carvounis PE, Iyer MN, Lakhanpal RR, Pennesi ME, [Chevez-Barrios P](https://profiles.viictr.org/profile/269744), [Wu SM](https://profiles.viictr.org/profile/267834), **Holz ER**. Long-term retinal toxicity of intravitreal commercially available preserved triamcinolone acetonide (Kenalog) in rabbit eyes. Invest Ophthalmol Vis Sci. 2007 Jan; 48(1):390-5. PMID: [17197559](//www.ncbi.nlm.nih.gov/pubmed/17197559).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17197559/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  19. Manzano RP, Carvounis PE, Albini TA, **Holz ER**. Etanercept monotherapy induces complete resolution of cystoid macular edema in a patient with intermediate uveitis. Retin Cases Brief Rep. 2007; 1(4):261-3. PMID: [25390997](//www.ncbi.nlm.nih.gov/pubmed/25390997).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25390997/citedby/) Fields:
+
+Oph Ophthalmology
+
+  20. Carvounis PE, Abd-El-Barr MM, El Barr MA, Albini TA, **Holz ER**. Effects of intravitreous injection of preserved and non-preserved triamcinolone in rabbit retina. Arch Ophthalmol. 2006 Nov; 124(11):1666; author reply 1666-8. PMID: [17102028](//www.ncbi.nlm.nih.gov/pubmed/17102028).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  21. Lakhanpal RR, Sun RL, Albini TA, **Holz ER**. Anatomical success rate after primary three-port lens-sparing vitrectomy in stage 5 retinopathy of prematurity. Retina. 2006 Sep; 26(7):724-8. PMID: [16963842](//www.ncbi.nlm.nih.gov/pubmed/16963842).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16963842/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  22. Lakhanpal RR, Fortun JA, Chan-Kai B, **Holz ER**. Lensectomy and vitrectomy with and without intravitreal triamcinolone acetonide for vascularly active stage 5 retinal detachments in retinopathy of prematurity. Retina. 2006 Sep; 26(7):736-40. PMID: [16963844](//www.ncbi.nlm.nih.gov/pubmed/16963844).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16963844/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  23. Carvounis PE, **Holz ER**. Comment on the publication "Vehicle of triamcinolone acetonide is associated with retinal toxicity and transient increase in lens density" by W. Kai et al. Graefes Arch Clin Exp Ophthalmol. 2007 Jan; 245(1):179-80; author reply 181-2. PMID: [16810508](//www.ncbi.nlm.nih.gov/pubmed/16810508).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  24. [Benz MS](https://profiles.viictr.org/profile/268934), Albini TA, **Holz ER** , Lakhanpal RR, Westfall AC, Iyer MN, Carvounis PE. Short-term course of intraocular pressure after intravitreal injection of triamcinolone acetonide. Ophthalmology. 2006 Jul; 113(7):1174-8. PMID: [16647122](//www.ncbi.nlm.nih.gov/pubmed/16647122).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16647122/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  25. Lakhanpal RR, Sun RL, Albini TA, Coffee R, [Coats DK](https://profiles.viictr.org/profile/268331), **Holz ER**. Visual outcomes after 3-port lens-sparing vitrectomy in stage 4 retinopathy of prematurity. Arch Ophthalmol. 2006 May; 124(5):675-9. PMID: [16682589](//www.ncbi.nlm.nih.gov/pubmed/16682589).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16682589/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  26. Gao H, Pennesi ME, Qiao X, Iyer MN, [Wu SM](https://profiles.viictr.org/profile/267834), **Holz ER** , Mieler WF. Intravitreal moxifloxacin: retinal safety study with electroretinography and histopathology in animal models. Invest Ophthalmol Vis Sci. 2006 Apr; 47(4):1606-11. PMID: [16565399](//www.ncbi.nlm.nih.gov/pubmed/16565399).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16565399/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  27. Albini TA, [Benz MS](https://profiles.viictr.org/profile/268934), Coffee RE, Westfall AC, Lakhanpal RR, McPherson AR, **Holz ER**. Optical coherence tomography of idiopathic juxtafoveolar telangiectasia. Ophthalmic Surg Lasers Imaging. 2006 Mar-Apr; 37(2):120-8. PMID: [16583633](//www.ncbi.nlm.nih.gov/pubmed/16583633).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16583633/citedby/) Fields:
+
+Gen General SurgeryOph Ophthalmology
+
+Translation:Humans
+
+  28. Campochiaro PA, Nguyen QD, Shah SM, Klein ML, **Holz E** , Frank RN, Saperstein DA, Gupta A, Stout JT, Macko J, DiBartolomeo R, Wei LL. Adenoviral vector-delivered pigment epithelium-derived factor for neovascular age-related macular degeneration: results of a phase I clinical trial. Hum Gene Ther. 2006 Feb; 17(2):167-76. PMID: [16454650](//www.ncbi.nlm.nih.gov/pubmed/16454650).
+
+Citations:
+[109](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16454650/citedby/)
+Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:HumansCellsCTClinical Trials
+
+  29. Carvounis PE, **Holz ER**. Management of retinal breaks and conditions predisposing to retinal detachment. Compr Ophthalmol Update. 2006 Jan-Feb; 7(1):13-22. PMID: [16630411](//www.ncbi.nlm.nih.gov/pubmed/16630411).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:HumansAnimals
+
+  30. Iyer MN, He F, [Wensel TG](https://profiles.viictr.org/profile/268119), Mieler WF, [Benz MS](https://profiles.viictr.org/profile/268934), **Holz ER**. Clearance of intravitreal moxifloxacin. Invest Ophthalmol Vis Sci. 2006 Jan; 47(1):317-9. PMID: [16384979](//www.ncbi.nlm.nih.gov/pubmed/16384979).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16384979/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  31. Lakhanpal RR, Davis GH, Sun RL, Albini TA, **Holz ER**. Lens clarity after 3-port lens-sparing vitrectomy in stage 4A and 4B retinal detachments secondary to retinopathy of prematurity. Arch Ophthalmol. 2006 Jan; 124(1):20-3. PMID: [16401780](//www.ncbi.nlm.nih.gov/pubmed/16401780).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16401780/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  32. Lakhanpal RR, Sun RL, Albini TA, **Holz ER**. Anatomic success rate after 3-port lens-sparing vitrectomy in stage 4A or 4B retinopathy of prematurity. Ophthalmology. 2005 Sep; 112(9):1569-73. PMID: [16005974](//www.ncbi.nlm.nih.gov/pubmed/16005974).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16005974/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  33. [Coats DK](https://profiles.viictr.org/profile/268331), Miller AM, [Hussein MA](https://profiles.viictr.org/profile/267967), McCreery KM, **Holz E** , [Paysse EA](https://profiles.viictr.org/profile/268192). Involution of retinopathy of prematurity after laser treatment: factors associated with development of retinal detachment. Am J Ophthalmol. 2005 Aug; 140(2):214-22. PMID: [16086945](//www.ncbi.nlm.nih.gov/pubmed/16086945).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16086945/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  34. Westfall AC, Osborn A, Kuhl D, [Benz MS](https://profiles.viictr.org/profile/268934), Mieler WF, **Holz ER**. Acute endophthalmitis incidence: intravitreal triamcinolone. Arch Ophthalmol. 2005 Aug; 123(8):1075-7. PMID: [16087840](//www.ncbi.nlm.nih.gov/pubmed/16087840).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16087840/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  35. Albini TA, Lakhanpal RR, [Foroozan R](https://profiles.viictr.org/profile/267734), **Holz ER**. Macular hole in cat scratch disease. Am J Ophthalmol. 2005 Jul; 140(1):149-51. PMID: [16038666](//www.ncbi.nlm.nih.gov/pubmed/16038666).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16038666/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  36. **Holz ER**. Reducing endophthalmitis risk factors: where we stand. Am J Ophthalmol. 2005 Jun; 139(6):1097-8. PMID: [15953444](//www.ncbi.nlm.nih.gov/pubmed/15953444).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15953444/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  37. Iyer MN, He F, [Wensel TG](https://profiles.viictr.org/profile/268119), Mieler WF, [Benz MS](https://profiles.viictr.org/profile/268934), **Holz ER**. Intravitreal clearance of moxifloxacin. Trans Am Ophthalmol Soc. 2005; 103:76-81; discussion 81-3. PMID: [17057790](//www.ncbi.nlm.nih.gov/pubmed/17057790); PMCID: [PMC1447561](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1447561).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17057790/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  38. [Gao H](https://profiles.viictr.org/profile/45080791), Pennesi ME, Shah K, Qiao X, Hariprasad SM, Mieler WF, [Wu SM](https://profiles.viictr.org/profile/267834), **Holz ER**. Intravitreal voriconazole: an electroretinographic and histopathologic study. Arch Ophthalmol. 2004 Nov; 122(11):1687-92. PMID: [15534131](//www.ncbi.nlm.nih.gov/pubmed/15534131).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15534131/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  39. [Coats DK](https://profiles.viictr.org/profile/268331), Miller AM, Brady McCreery KM, **Holz ER** , [Paysse EA](https://profiles.viictr.org/profile/268192). Involution of threshold retinopathy of prematurity after diode laser photocoagulation. Ophthalmology. 2004 Oct; 111(10):1894-8. PMID: [15465553](//www.ncbi.nlm.nih.gov/pubmed/15465553).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15465553/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  40. [Gao H](https://profiles.viictr.org/profile/45080791), Qiao X, Gao R, Mieler WF, McPherson AR, **Holz ER**. Intravitreal triamcinolone does not alter basal vascular endothelial growth factor mRNA expression in rat retina. Vision Res. 2004 Feb; 44(4):349-56. PMID: [14659961](//www.ncbi.nlm.nih.gov/pubmed/14659961).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14659961/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  41. Hariprasad SM, Mieler WF, **Holz ER** , Gao H, Kim JE, Chi J, Prince RA. Determination of vitreous, aqueous, and plasma concentration of orally administered voriconazole in humans. Arch Ophthalmol. 2004 Jan; 122(1):42-7. PMID: [14718293](//www.ncbi.nlm.nih.gov/pubmed/14718293).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14718293/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansAnimals
+
+  42. **Holz ER** , Linares L, Mieler WF, Weinberg DV. Exudative complications after photodynamic therapy. Arch Ophthalmol. 2003 Nov; 121(11):1649-52. PMID: [14609931](//www.ncbi.nlm.nih.gov/pubmed/14609931).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14609931/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  43. Hariprasad SM, Mieler WF, **Holz ER**. Vitreous and aqueous penetration of orally administered gatifloxacin in humans. Arch Ophthalmol. 2003 Mar; 121(3):345-50. PMID: [12617704](//www.ncbi.nlm.nih.gov/pubmed/12617704).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12617704/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  44. [Esmaeli B](https://profiles.viictr.org/profile/12583336), **Holz ER** , Ahmadi MA, Krathen RA, [Raad II](https://profiles.viictr.org/profile/12582533). Endogenous endophthalmitis secondary to vancomycin-resistant enterococci infection. Retina. 2003 Feb; 23(1):118-9. PMID: [12652247](//www.ncbi.nlm.nih.gov/pubmed/12652247).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12652247/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  45. [Gao H](https://profiles.viictr.org/profile/45080791), Pennesi M, Shah K, Qiao X, Hariprasad SM, Mieler WF, [Wu SM](https://profiles.viictr.org/profile/267834), **Holz ER**. Safety of intravitreal voriconazole: electroretinographic and histopathologic studies. Trans Am Ophthalmol Soc. 2003; 101:183-9; discussion 189. PMID: [14971576](//www.ncbi.nlm.nih.gov/pubmed/14971576); PMCID: [PMC1358987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1358987).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14971576/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Animals
+
+  46. Schwartz SG, Kuhl DP, McPherson AR, **Holz ER** , Mieler WF. Twenty-year follow-up for scleral buckling. Arch Ophthalmol. 2002 Mar; 120(3):325-9. PMID: [11879136](//www.ncbi.nlm.nih.gov/pubmed/11879136).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11879136/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  47. Schwartz SG, Mieler WF, **Holz ER** , [Esmaeli B](https://profiles.viictr.org/profile/12583336), Ragsdale PS, Font RL. Intravitreal hemoglobin spherulosis: a rare complication of subretinal hemorrhage. Arch Ophthalmol. 2002 Jan; 120(1):85-7. PMID: [11786064](//www.ncbi.nlm.nih.gov/pubmed/11786064).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11786064/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  48. Hariprasad SM, Mieler WF, **Holz ER**. Vitreous penetration of orally administered gatifloxacin in humans. Trans Am Ophthalmol Soc. 2002; 100:153-9. PMID: [12545689](//www.ncbi.nlm.nih.gov/pubmed/12545689); PMCID: [PMC1358958](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1358958).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12545689/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  49. Schwartz SG, **Holz ER** , Mieler WF, Kuhl DP. Retained lens fragments in resident-performed cataract extractions. CLAO J. 2002 Jan; 28(1):44-7. PMID: [11838989](//www.ncbi.nlm.nih.gov/pubmed/11838989).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11838989/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 49 publications over 13 distinct years, with a maximum of
+12 publications in
+2006](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|12&cht=bvs&chd=t:0,0,0,0,0,0,0,0,33,33,33,50,100,33,50,17,17,17,8,0,0,0,0,8,0,8,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 4  
+2003| 4  
+2004| 4  
+2005| 6  
+2006| 12  
+2007| 4  
+2008| 6  
+2009| 2  
+2010| 2  
+2011| 2  
+2012| 1  
+2017| 1  
+2019| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+HOLZ's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (201)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Retinal Detachment](https://profiles.viictr.org/profile/254063)
+  * [Vitrectomy](https://profiles.viictr.org/profile/251205)
+  * [Retinopathy of Prematurity](https://profiles.viictr.org/profile/264190)
+  * [Vitreous Body](https://profiles.viictr.org/profile/255234)
+  * [Triamcinolone Acetonide](https://profiles.viictr.org/profile/240613)
+
+[Explore](https://profiles.viictr.org/profile/266867/198)
+
+_
+
+Co-Authors (16)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GAO, HUA](https://profiles.viictr.org/profile/45080791)
+  * [BENZ, MATTHEW](https://profiles.viictr.org/profile/268934)
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+  * [WU, SAMUEL](https://profiles.viictr.org/profile/267834)
+  * [COATS, DAVID](https://profiles.viictr.org/profile/268331)
+
+[Explore](https://profiles.viictr.org/profile/266867/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [WYKOFF, CHARLES](https://profiles.viictr.org/profile/3939889)
+  * [KOHNEN, THOMAS](https://profiles.viictr.org/profile/267686)
+  * [WENG, CHRISTINA](https://profiles.viictr.org/profile/8183299)
+  * [KOCH, DOUGLAS](https://profiles.viictr.org/profile/267404)
+  * [KONTOYIANNIS, DIMITRIOS P](https://profiles.viictr.org/profile/12582577)
+
+[Explore](https://profiles.viictr.org/profile/266867/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BAIG, IYZA](https://profiles.viictr.org/profile/41528701)
+  * [BLIEDEN, LAUREN](https://profiles.viictr.org/profile/21983618)
+  * [SCHEFLER, AMY](https://profiles.viictr.org/profile/6030334)
+  * [YALAMANCHILI, SUSHMA](https://profiles.viictr.org/profile/39714609)
+  * [YEN, MICHAEL](https://profiles.viictr.org/profile/268782)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiRnbuqhfSUKgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BENZ, MATTHEW](https://profiles.viictr.org/profile/268934)
+  * [CHANG, PETER](https://profiles.viictr.org/profile/269368)
+  * [EDMOND, JANE](https://profiles.viictr.org/profile/267824)
+  * [OU, RICHARD](https://profiles.viictr.org/profile/266793)
+  * [PFLUGFELDER, STEPHEN](https://profiles.viictr.org/profile/266106)
+
+_
+

@@ -1,0 +1,376 @@
+## ANDREW YEE
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1102 BATES  
+Houston, TX 77030  
+  
+ORCID ![ORCID
+Icon](https://profiles.viictr.org/Framework/Images/orcid_16x16\(1\).gif)|
+[0000-0003-0304-6322](http://sandbox.orcid.org/0000-0003-0304-6322)
+[![Additional
+info](https://profiles.viictr.org/Framework/Images/info.png)](https://profiles.viictr.org/about/default.aspx?tab=orcid)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=23478801)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Martinez-Vargas M](https://profiles.viictr.org/profile/18830411), [Courson J](https://profiles.viictr.org/profile/34892544), Gardea L, Sen M, **Yee A** , [Rumbaut R](https://profiles.viictr.org/profile/267369), [Cruz MA](https://profiles.viictr.org/profile/267256). The impact of von Willebrand factor on fibrin formation and structure unveiled with type 3 von Willebrand disease plasma. Blood Coagul Fibrinolysis. 2024 Jul 01; 35(5):256-264. PMID: [38973517](//www.ncbi.nlm.nih.gov/pubmed/38973517); PMCID: [PMC11232922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11232922).
+
+Citations:  Fields:
+
+Hem HematologyVas Vascular Diseases
+
+Translation:HumansCells
+
+  2. **Yee A**. Keeping it together. Blood. 2023 03 23; 141(12):1374-1376. PMID: [36951886](//www.ncbi.nlm.nih.gov/pubmed/36951886).
+
+Citations:  Fields:
+
+Hem Hematology
+
+  3. [Martinez-Vargas M](https://profiles.viictr.org/profile/18830411), [Cebula A](https://profiles.viictr.org/profile/31189478), Brubaker LS, Seshadri N, [Lam FW](https://profiles.viictr.org/profile/269785), [Loor M](https://profiles.viictr.org/profile/23479068), [Rosengart TK](https://profiles.viictr.org/profile/267602), **Yee A** , [Rumbaut RE](https://profiles.viictr.org/profile/267369), [Cruz MA](https://profiles.viictr.org/profile/267256). A novel interaction between extracellular vimentin and fibrinogen in fibrin formation. Thromb Res. 2023 01; 221:97-104. PMID: [36495717](//www.ncbi.nlm.nih.gov/pubmed/36495717); PMCID: [PMC9726209](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9726209).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36495717/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:HumansCells
+
+  4. Haynes LM, Huttinger ZM, **Yee A** , Kretz CA, Siemieniak DR, Lawrence DA, Ginsburg D. Deep mutational scanning and massively parallel kinetics of plasminogen activator inhibitor-1 functional stability to probe its latency transition. J Biol Chem. 2022 12; 298(12):102608. PMID: [36257408](//www.ncbi.nlm.nih.gov/pubmed/36257408); PMCID: [PMC9667310](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9667310).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Humans
+
+  5. Bray M, Guzel MA, [Lam F](https://profiles.viictr.org/profile/269785), **Yee A** , [Cruz MA](https://profiles.viictr.org/profile/267256), [Rumbaut RE](https://profiles.viictr.org/profile/267369). High levels of von Willebrand factor with reduced specific activities in hospitalized patients with or without COVID-19. J Thromb Thrombolysis. 2022 Aug; 54(2):211-216. PMID: [35881214](//www.ncbi.nlm.nih.gov/pubmed/35881214); PMCID: [PMC9314532](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9314532).
+
+Citations:  Fields:
+
+Vas Vascular Diseases
+
+  6. Huttinger ZM, Haynes LM, **Yee A** , Kretz CA, Holding ML, Siemieniak DR, Lawrence DA, Ginsburg D. Deep mutational scanning of the plasminogen activator inhibitor-1 functional landscape. Sci Rep. 2021 09 22; 11(1):18827. PMID: [34552126](//www.ncbi.nlm.nih.gov/pubmed/34552126); PMCID: [PMC8458277](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8458277).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34552126/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  7. **Yee A** , Dai M, Croteau SE, Shavit JA, Pipe SW, Siemieniak D, Meng F, Ginsburg D. Phage display broadly identifies inhibitor-reactive regions in von Willebrand factor. J Thromb Haemost. 2021 11; 19(11):2702-2709. PMID: [34255925](//www.ncbi.nlm.nih.gov/pubmed/34255925); PMCID: [PMC8530901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8530901).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34255925/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  8. Cleuren ACA, van der Ent MA, Jiang H, Hunker KL, **Yee A** , Siemieniak DR, Molema G, Aird WC, Ganesh SK, Ginsburg D. The in vivo endothelial cell translatome is highly heterogeneous across vascular beds. Proc Natl Acad Sci U S A. 2019 11 19; 116(47):23618-23624. PMID: [31712416](//www.ncbi.nlm.nih.gov/pubmed/31712416); PMCID: [PMC6876253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6876253).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31712416/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  9. Asaad Y, Epshtein M, **Yee A** , Korin N. The Flow Dependent Adhesion of von Willebrand Factor (VWF)-A1 Functionalized Nanoparticles in an in Vitro Coronary Stenosis Model. Molecules. 2019 Jul 24; 24(15). PMID: [31344782](//www.ncbi.nlm.nih.gov/pubmed/31344782); PMCID: [PMC6696590](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6696590).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31344782/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  10. Waack U, Warnock M, **Yee A** , Huttinger Z, Smith S, Kumar A, Deroux A, Ginsburg D, Mobley HLT, Lawrence DA, Sandkvist M. CpaA Is a Glycan-Specific Adamalysin-like Protease Secreted by Acinetobacter baumannii That Inactivates Coagulation Factor XII. mBio. 2018 12 18; 9(6). PMID: [30563903](//www.ncbi.nlm.nih.gov/pubmed/30563903); PMCID: [PMC6299215](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6299215).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30563903/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  11. Valladolid C, **Yee A** , [Cruz MA](https://profiles.viictr.org/profile/267256). von Willebrand Factor, Free Hemoglobin and Thrombosis in ECMO. Front Med (Lausanne). 2018; 5:228. PMID: [30175099](//www.ncbi.nlm.nih.gov/pubmed/30175099); PMCID: [PMC6107708](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6107708).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30175099/citedby/)
+
+  12. Kretz CA, Van Esbroeck A, **Yee A** , Ginsburg D, Tomberg K. High throughput protease profiling comprehensively defines active site specificity for thrombin and ADAMTS13. Sci Rep. 2018 02 12; 8(1):2788. PMID: [29434246](//www.ncbi.nlm.nih.gov/pubmed/29434246); PMCID: [PMC5809430](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5809430).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29434246/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  13. Kretz CA, Dai M, Soylemez O, **Yee A** , Desch KC, Siemieniak D, Meng F, Ginsburg D, Tomberg K, Kondrashov FA. Massively parallel enzyme kinetics reveals the substrate recognition landscape of the metalloprotease ADAMTS13. Proc Natl Acad Sci U S A. 2015 Jul 28; 112(30):9328-33. PMID: [26170332](//www.ncbi.nlm.nih.gov/pubmed/26170332); PMCID: [PMC4522773](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4522773).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26170332/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  14. **Yee A** , Oleskie AN, Dosey AM, Kretz CA, Gildersleeve RD, Dutta S, Su M, Ginsburg D, Skiniotis G. Visualization of an N-terminal fragment of von Willebrand factor in complex with factor VIII. Blood. 2015 Aug 20; 126(8):939-42. PMID: [26065653](//www.ncbi.nlm.nih.gov/pubmed/26065653); PMCID: [PMC4543228](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4543228).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26065653/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  15. Desch KC, Kretz C, **Yee A** , Gildersleeve R, Metzger K, Agrawal N, Cheng J, Ginsburg D. Probing ADAMTS13 substrate specificity using phage display. PLoS One. 2015; 10(4):e0122931. PMID: [25849793](//www.ncbi.nlm.nih.gov/pubmed/25849793); PMCID: [PMC4388381](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4388381).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25849793/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  16. **Yee A** , Gildersleeve RD, Gu S, Kretz CA, McGee BM, Carr KM, Pipe SW, Ginsburg D. A von Willebrand factor fragment containing the D'D3 domains is sufficient to stabilize coagulation factor VIII in mice. Blood. 2014 Jul 17; 124(3):445-52. PMID: [24850761](//www.ncbi.nlm.nih.gov/pubmed/24850761); PMCID: [PMC4102715](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4102715).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24850761/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  17. **Yee A** , Kretz CA. Von Willebrand factor: form for function. Semin Thromb Hemost. 2014 Feb; 40(1):17-27. PMID: [24338608](//www.ncbi.nlm.nih.gov/pubmed/24338608).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24338608/citedby/) Fields:
+
+Hem HematologyVas Vascular Diseases
+
+Translation:HumansAnimalsCells
+
+  18. **Yee A** , Tan FL, Ginsburg D. Functional display of platelet-binding VWF fragments on filamentous bacteriophage. PLoS One. 2013; 8(9):e73518. PMID: [24019925](//www.ncbi.nlm.nih.gov/pubmed/24019925); PMCID: [PMC3760814](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3760814).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24019925/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Cells
+
+  19. Baines AC, **Yee A** , McGee BM, Baines JF, Johnsen JM, Staubach F, K?nzel S, B?ckhed F. Expression of the blood-group-related glycosyltransferase B4galnt2 influences the intestinal microbiota in mice. ISME J. 2012 Jul; 6(7):1345-55. PMID: [22278669](//www.ncbi.nlm.nih.gov/pubmed/22278669); PMCID: [PMC3379640](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3379640).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22278669/citedby/) Fields:
+
+Env Environmental HealthMic Microbiology
+
+Translation:AnimalsCells
+
+  20. **Yee A** , Bosworth KA, Conway DE, Eskin SG, McIntire LV. Gene expression of endothelial cells under pulsatile non-reversing vs. steady shear stress; comparison of nitric oxide production. Ann Biomed Eng. 2008 Apr; 36(4):571-9. PMID: [18256937](//www.ncbi.nlm.nih.gov/pubmed/18256937).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18256937/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansCells
+
+  21. Sung HJ, **Yee A** , Eskin SG, McIntire LV. Cyclic strain and motion control produce opposite oxidative responses in two human endothelial cell types. Am J Physiol Cell Physiol. 2007 Jul; 293(1):C87-94. PMID: [17314265](//www.ncbi.nlm.nih.gov/pubmed/17314265).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17314265/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:HumansCells
+
+  22. **Yee A** , Sakurai Y, Eskin SG, McIntire LV. A validated system for simulating common carotid arterial flow in vitro: alteration of endothelial cell response. Ann Biomed Eng. 2006 Apr; 34(4):593-604. PMID: [16565786](//www.ncbi.nlm.nih.gov/pubmed/16565786).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16565786/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Cells
+
+  23. Sung HJ, Eskin SG, Sakurai Y, **Yee A** , Kataoka N, McIntire LV. Oxidative stress produced with cell migration increases synthetic phenotype of vascular smooth muscle cells. Ann Biomed Eng. 2005 Nov; 33(11):1546-54. PMID: [16341922](//www.ncbi.nlm.nih.gov/pubmed/16341922).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16341922/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:AnimalsCells
+
+  24. Frye SR, **Yee A** , Eskin SG, Guerra R, Cong X, McIntire LV. cDNA microarray analysis of endothelial cells subjected to cyclic mechanical strain: importance of motion control. Physiol Genomics. 2005 Mar 21; 21(1):124-30. PMID: [15632272](//www.ncbi.nlm.nih.gov/pubmed/15632272).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15632272/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  25. McIntire LV, Eskin SG, **YEE A**. Mechanical Forces on Cells. In: Ratner BD, Hoffman AS, Schoen FJ, Lemons JE. Biomaterials Science: An Introduction to Materials in Medicine. 2004.
+
+  26. Snyder KL, Nathan CE, **Yee A** , Stenken JA. Diffusion and calibration properties of microdialysis sampling membranes in biological media. Analyst. 2001 Aug; 126(8):1261-8. PMID: [11534590](//www.ncbi.nlm.nih.gov/pubmed/11534590).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11534590/citedby/) Fields:
+
+Che Chemistry Techniques
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 26 publications over 16 distinct years, with a maximum of
+3 publications in 2015 and 2018 and
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,33,0,0,33,67,33,33,33,0,0,0,33,67,33,100,0,0,100,67,0,67,100,33,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2001| 1  
+2004| 1  
+2005| 2  
+2006| 1  
+2007| 1  
+2008| 1  
+2012| 1  
+2013| 2  
+2014| 1  
+2015| 3  
+2018| 3  
+2019| 2  
+2021| 2  
+2022| 3  
+2023| 1  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+YEE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (169)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [von Willebrand Factor](https://profiles.viictr.org/profile/244426)
+  * [Bacteriophages](https://profiles.viictr.org/profile/256863)
+  * [Factor VIII](https://profiles.viictr.org/profile/253050)
+  * [von Willebrand Diseases](https://profiles.viictr.org/profile/247038)
+  * [von Willebrand Disease, Type 3](https://profiles.viictr.org/profile/255676)
+
+[Explore](https://profiles.viictr.org/profile/23478801/198)
+
+_
+
+Co-Authors (8)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [CRUZ, MIGUEL](https://profiles.viictr.org/profile/267256)
+  * [MARTINEZ-VARGAS, MARINA](https://profiles.viictr.org/profile/18830411)
+  * [RUMBAUT, ROLANDO](https://profiles.viictr.org/profile/267369)
+  * [LAM, FONG](https://profiles.viictr.org/profile/269785)
+  * [Courson, Justin](https://profiles.viictr.org/profile/34892544)
+
+[Explore](https://profiles.viictr.org/profile/23478801/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [MOAKE, JOEL](https://profiles.viictr.org/profile/268005)
+  * [CRUZ, MIGUEL](https://profiles.viictr.org/profile/267256)
+  * [RUMBAUT, ROLANDO](https://profiles.viictr.org/profile/267369)
+  * [AFSHAR-KHARGHAN, VAHID](https://profiles.viictr.org/profile/12583895)
+  * [KLEIMAN, NEAL](https://profiles.viictr.org/profile/267822)
+
+[Explore](https://profiles.viictr.org/profile/23478801/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AIREWELE, GLADSTONE](https://profiles.viictr.org/profile/269786)
+  * [ANUM, SHANI](https://profiles.viictr.org/profile/37888844)
+  * [FASIPE, TITILOPE](https://profiles.viictr.org/profile/3009864)
+  * [HURWITZ, RICHARD](https://profiles.viictr.org/profile/266847)
+  * [KIRK, SUSAN](https://profiles.viictr.org/profile/266653)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

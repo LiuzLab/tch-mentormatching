@@ -1,0 +1,320 @@
+## HONGJIE LI
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HqQ%2b5m%2fOJcXZT6%2fv43aML7CZ&rnd=11a9aebb-9f69-4186-b762-e267a6772e3f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=31958890)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=31958890&cachekey=874d3e83-c7ed-413c-ae27-7f4e47c1edb5)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Huffington Center on Aging  
+Division| Huffington Ctr on Aging  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Biography  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+education and training
+
+Stanford University, Stanford, CA| Postdoc| 01/2021| neurobiology, development  
+---|---|---|---  
+University of Rochester, Rochester, NY| PhD| 03/2016| aging, stem cell,
+Drosophila  
+University of Sci. Tech. of China (USTC), Hefei, China| BS| 07/2010| Biology  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+RR200063 (LI, HONGJIE)Jan 4, 2021 - Jan 3, 2026Cancer Prevention and Research
+Institute of Texas (CPRIT)  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+K99AG062746 (LI, HONGJIE)Apr 1, 2019 - Mar 31, 2021NIH  
+Characterizing the assembly and age-related decline of neural circuits in
+Drosophila by single-cell profiling  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Widespread Polymodal Chemosensory Receptor Expression in Drosophila Olfactory Neurons. bioRxiv. 2020.
+
+  2. . Temporal evolution of single-cell transcriptomes of Drosophila olfactory projection neurons. bioRxiv. 2020.
+
+  3. Single-cell transcriptomes of developing and adult olfactory receptor neurons in Drosophila. bioRxiv. 2020.
+
+  4. **Li H**. Single-cell RNA sequencing in Drosophila: Technologies and applications. Wiley Interdiscip Rev Dev Biol. 2021 09; 10(5):e396. PMID: [32940008](//www.ncbi.nlm.nih.gov/pubmed/32940008); PMCID: [PMC7960577](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7960577).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32940008/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  5. Wenderski W, Wang L, Krokhotin A, Walsh JJ, **Li H** , Shoji H, Ghosh S, George RD, Miller EL, Elias L, Gillespie MA, Son EY, Staahl BT, Baek ST, Stanley V, Moncada C, Shipony Z, Linker SB, Marchetto MCN, Gage FH, Chen D, Sultan T, Zaki MS, Ranish JA, Miyakawa T, Luo L, Malenka RC, Crabtree GR, Gleeson JG. Loss of the neural-specific BAF subunit ACTL6B relieves repression of early response genes and causes recessive autism. Proc Natl Acad Sci U S A. 2020 05 05; 117(18):10055-10066. PMID: [32312822](//www.ncbi.nlm.nih.gov/pubmed/32312822); PMCID: [PMC7211998](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7211998).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32312822/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  6. **Li H** , Li T, Horns F, Li J, Xie Q, Xu C, Wu B, Kebschull JM, McLaughlin CN, Kolluru SS, Jones RC, Vacek D, Xie A, Luginbuhl DJ, Quake SR, Luo L. Single-Cell Transcriptomes Reveal Diverse Regulatory Strategies for Olfactory Receptor Expression and Axon Targeting. Curr Biol. 2020 04 06; 30(7):1189-1198.e5. PMID: [32059767](//www.ncbi.nlm.nih.gov/pubmed/32059767); PMCID: [PMC7231479](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7231479).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32059767/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  7. Li J, Han S, **Li H** , Udeshi ND, Svinkina T, Mani DR, Xu C, Guajardo R, Xie Q, Li T, Luginbuhl DJ, Wu B, McLaughlin CN, Xie A, Kaewsapsak P, Quake SR, Carr SA, Ting AY, Luo L. Cell-Surface Proteomic Profiling in the Fly Brain Uncovers Wiring Regulators. Cell. 2020 01 23; 180(2):373-386.e15. PMID: [31955847](//www.ncbi.nlm.nih.gov/pubmed/31955847); PMCID: [PMC7072036](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7072036).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31955847/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  8. Xie Q, Wu B, Li J, Xu C, **Li H** , Luginbuhl DJ, Wang X, Ward A, Luo L. Transsynaptic Fish-lips signaling prevents misconnections between nonsynaptic partner olfactory neurons. Proc Natl Acad Sci U S A. 2019 08 06; 116(32):16068-16073. PMID: [31341080](//www.ncbi.nlm.nih.gov/pubmed/31341080); PMCID: [PMC6689933](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6689933).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31341080/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  9. Tracy Cai X, **Li H** , Safyan A, Gawlik J, Pyrowolakis G, Jasper H. AWD regulates timed activation of BMP signaling in intestinal stem cells to maintain tissue homeostasis. Nat Commun. 2019 07 05; 10(1):2988. PMID: [31278345](//www.ncbi.nlm.nih.gov/pubmed/31278345); PMCID: [PMC6611797](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6611797).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31278345/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  10. Li J, Guajardo R, Xu C, Wu B, **Li H** , Li T, Luginbuhl DJ, Xie X, Luo L. Stepwise wiring of the Drosophila olfactory map requires specific Plexin B levels. Elife. 2018 08 23; 7. PMID: [30136927](//www.ncbi.nlm.nih.gov/pubmed/30136927); PMCID: [PMC6118820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6118820).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30136927/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  11. **Li H** , Shuster SA, Li J, Luo L. Linking neuronal lineage and wiring specificity. Neural Dev. 2018 04 13; 13(1):5. PMID: [29653548](//www.ncbi.nlm.nih.gov/pubmed/29653548); PMCID: [PMC5899351](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5899351).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29653548/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  12. **Li H** , Horns F, Wu B, Xie Q, Li J, Li T, Luginbuhl DJ, Quake SR, Luo L. Classifying Drosophila Olfactory Projection Neuron Subtypes by Single-Cell RNA Sequencing. Cell. 2017 Nov 16; 171(5):1206-1220.e22. PMID: [29149607](//www.ncbi.nlm.nih.gov/pubmed/29149607); PMCID: [PMC6095479](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6095479).
+
+Citations:
+[92](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29149607/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  13. **Li H** , Qi Y, Jasper H. Ubx dynamically regulates Dpp signaling by repressing Dad expression during copper cell regeneration in the adult Drosophila midgut. Dev Biol. 2016 11 15; 419(2):373-381. PMID: [27570230](//www.ncbi.nlm.nih.gov/pubmed/27570230); PMCID: [PMC5681348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5681348).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27570230/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  14. **Li H** , Jasper H. Gastrointestinal stem cells in health and disease: from flies to humans. Dis Model Mech. 2016 05 01; 9(5):487-99. PMID: [27112333](//www.ncbi.nlm.nih.gov/pubmed/27112333); PMCID: [PMC4892664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4892664).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27112333/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  15. **Li H** , Qi Y, Jasper H. Preventing Age-Related Decline of Gut Compartmentalization Limits Microbiota Dysbiosis and Extends Lifespan. Cell Host Microbe. 2016 Feb 10; 19(2):240-53. PMID: [26867182](//www.ncbi.nlm.nih.gov/pubmed/26867182); PMCID: [PMC5106289](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5106289).
+
+Citations:
+[88](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26867182/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:AnimalsCells
+
+  16. Ayyaz A, Jasper H, **Li H**. Haemocytes control stem cell activity in the Drosophila intestine. Nat Cell Biol. 2015 Jun; 17(6):736-48. PMID: [26005834](//www.ncbi.nlm.nih.gov/pubmed/26005834); PMCID: [PMC4449816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4449816).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26005834/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  17. Diet, gut microbiota and obesity. J Nutrition Health Food Sci. 2015.
+
+  18. Hine CM, **Li H** , Xie L, Mao Z, Seluanov A, Gorbunova V. Regulation of Rad51 promoter. Cell Cycle. 2014; 13(13):2038-45. PMID: [24781030](//www.ncbi.nlm.nih.gov/pubmed/24781030); PMCID: [PMC4111695](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4111695).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24781030/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  19. **Li H** , Qi Y, Jasper H. Dpp signaling determines regional stem cell identity in the regenerating adult Drosophila gastrointestinal tract. Cell Rep. 2013 Jul 11; 4(1):10-8. PMID: [23810561](//www.ncbi.nlm.nih.gov/pubmed/23810561); PMCID: [PMC3778028](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3778028).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23810561/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 19 publications over 8 distinct years, with a maximum of 7
+publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,14,29,43,14,29,29,100,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2013| 1  
+2014| 1  
+2015| 2  
+2016| 3  
+2017| 1  
+2018| 2  
+2019| 2  
+2020| 7  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LI's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (115)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Drosophila melanogaster](https://profiles.viictr.org/profile/246028)
+  * [Drosophila Proteins](https://profiles.viictr.org/profile/254034)
+  * [Single-Cell Analysis](https://profiles.viictr.org/profile/27546253)
+  * [Olfactory Receptor Neurons](https://profiles.viictr.org/profile/244335)
+  * [Gastrointestinal Tract](https://profiles.viictr.org/profile/239669)
+
+[Explore](https://profiles.viictr.org/profile/31958890/198)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [DAVIS, RONALD](https://profiles.viictr.org/profile/268115)
+  * [YAMAMOTO, SHINYA](https://profiles.viictr.org/profile/3009536)
+  * [MARDON, GRAEME](https://profiles.viictr.org/profile/268168)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+
+[Explore](https://profiles.viictr.org/profile/31958890/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DAWSON, BRIAN](https://profiles.viictr.org/profile/23478740)
+  * [GLINTON, KEVIN](https://profiles.viictr.org/profile/31330334)
+  * [MILOSAVLJEVIC, ALEKSANDAR](https://profiles.viictr.org/profile/268148)
+  * [ROGERS, JEFFREY](https://profiles.viictr.org/profile/265901)
+  * [SCHERER, STEVEN](https://profiles.viictr.org/profile/266857)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

@@ -1,0 +1,237 @@
+## ELIZABETH ZUNIGA-SANCHEZ
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Ophthalmology  
+Address| 6501 Fannin St  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=E6c5%2b2TFJZ%2f9CLX47nLFK%2fm%2fJh%2bJnyAYMB4vPC7RBnU%3d&rnd=335d2ebe-
+ce35-472e-a627-1e23e3b2dac4)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999558)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Division| Neuroscience  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01EY033037 (ZUNIGA-SANCHEZ, ELIZABETH)Sep 30, 2021 - Jun 30, 2026NIH  
+Deciphering the molecular mechanisms in photoreceptor wiring  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R00EY028200 (ZUNIGA-SANCHEZ, ELIZABETH)Jul 1, 2020 - Jun 30, 2023NIH  
+The regulation of synaptic specificity in the mammalian retina  
+Role: Principal Investigator  
+  
+* * *  
+  
+K99EY028200 (ZUNIGA-SANCHEZ, ELIZABETH)Sep 1, 2017 - Aug 31, 2019NIH  
+The regulation of synaptic specificity in the mammalian retina  
+Role: Principal Investigator  
+  
+* * *  
+  
+F31DE020248 (ZUNIGA-SANCHEZ, ELIZABETH)Sep 18, 2009 - Aug 31, 2013NIH  
+Jagged-Notch and Fgf signaling: patterning the vertebrate upper face  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Perez R](https://profiles.viictr.org/profile/34774524), Park Y, Hirano A, Brecha N, [Frankfort B](https://profiles.viictr.org/profile/268696), **Zuniga-Sanchez E**. Modeling subcellular specificity in the developing retina. Res Sq. 2023 Aug 08. PMID: [37609217](//www.ncbi.nlm.nih.gov/pubmed/37609217); PMCID: [PMC10441513](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10441513).
+
+Citations:
+
+  2. Shyam R, Shu DY, **Zuniga-Sanchez E** , Vasudevan D. Editorial: Molecular mechanisms in ocular development and disease. Front Cell Dev Biol. 2023; 11:1244123. PMID: [37457294](//www.ncbi.nlm.nih.gov/pubmed/37457294); PMCID: [PMC10344605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10344605).
+
+Citations:
+
+  3. Goswami-Sewell D, Bagnetto C, Gomez CC, Anderson JT, Maheshwari A, **Zuniga-Sanchez E**. ?II-Spectrin Is Required for Synaptic Positioning during Retinal Development. J Neurosci. 2023 07 19; 43(29):5277-5289. PMID: [37369589](//www.ncbi.nlm.nih.gov/pubmed/37369589); PMCID: [PMC10359034](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10359034).
+
+Citations:  Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  4. Dai C, Waduge P, Ji L, Huang C, He Y, Tian H, **Zuniga-Sanchez E** , Bhatt A, Pang IH, Su G, [Webster KA](https://profiles.viictr.org/profile/32757285), Li W. Secretogranin III stringently regulates pathological but not physiological angiogenesis in oxygen-induced retinopathy. Cell Mol Life Sci. 2022 Jan 10; 79(1):63. PMID: [35006382](//www.ncbi.nlm.nih.gov/pubmed/35006382); PMCID: [PMC9007175](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9007175).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35006382/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Animals
+
+  5. Pourhoseini S, Goswami-Sewell D, **Zuniga-Sanchez E**. Neurofascin Is a Novel Component of Rod Photoreceptor Synapses in the Outer Retina. Front Neural Circuits. 2021; 15:635849. PMID: [33643000](//www.ncbi.nlm.nih.gov/pubmed/33643000); PMCID: [PMC7902911](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7902911).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33643000/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  6. Veldman MB, Park CS, Eyermann CM, Zhang JY, **Zuniga-Sanchez E** , Hirano AA, Daigle TL, Foster NN, Zhu M, Langfelder P, Lopez IA, Brecha NC, Zipursky SL, Zeng H, Dong HW, Yang XW. Brainwide Genetic Sparse Cell Labeling to Illuminate the Morphology of Neurons and Glia with Cre-Dependent MORF Mice. Neuron. 2020 10 14; 108(1):111-127.e6. PMID: [32795398](//www.ncbi.nlm.nih.gov/pubmed/32795398); PMCID: [PMC7572760](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7572760).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32795398/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  7. Sarin S, **Zuniga-Sanchez E** , Kurmangaliyev YZ, Cousins H, Patel M, Hernandez J, Zhang KX, [Samuel MA](https://profiles.viictr.org/profile/10133659), Morey M, Sanes JR, Zipursky SL. Role for Wnt Signaling in Retinal Neuropil Development: Analysis via RNA-Seq and In?Vivo Somatic CRISPR Mutagenesis. Neuron. 2018 04 04; 98(1):109-126.e8. PMID: [29576390](//www.ncbi.nlm.nih.gov/pubmed/29576390); PMCID: [PMC5930001](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5930001).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29576390/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 7 publications over 5 distinct years, with a maximum of 3
+publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,33,33,33,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2018| 1  
+2020| 1  
+2021| 1  
+2022| 1  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ZUNIGA-SANCHEZ's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (43)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Spectrin](https://profiles.viictr.org/profile/259113)
+  * [Cytoskeletal Proteins](https://profiles.viictr.org/profile/241148)
+  * [Retina](https://profiles.viictr.org/profile/248618)
+  * [Synapses](https://profiles.viictr.org/profile/242376)
+  * [Retinal Neovascularization](https://profiles.viictr.org/profile/244542)
+
+[Explore](https://profiles.viictr.org/profile/28999558/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [Perez, Ross](https://profiles.viictr.org/profile/34774524)
+  * [FRANKFORT, BENJAMIN](https://profiles.viictr.org/profile/268696)
+  * [WEBSTER, KEITH](https://profiles.viictr.org/profile/32757285)
+  * [SAMUEL, MELANIE](https://profiles.viictr.org/profile/10133659)
+
+[Explore](https://profiles.viictr.org/profile/28999558/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [WU, SAMUEL](https://profiles.viictr.org/profile/267834)
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+  * [WYKOFF, CHARLES](https://profiles.viictr.org/profile/3939889)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+
+[Explore](https://profiles.viictr.org/profile/28999558/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [EPNER, LINDA](https://profiles.viictr.org/profile/267987)
+  * [KHANDELWAL, SUMITRA](https://profiles.viictr.org/profile/2619420)
+  * [KHAWLY, JOSEPH](https://profiles.viictr.org/profile/266356)
+  * [KOHNEN, THOMAS](https://profiles.viictr.org/profile/267686)
+  * [KU, CRISTY](https://profiles.viictr.org/profile/41450424)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiRnbuqhfSUKgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

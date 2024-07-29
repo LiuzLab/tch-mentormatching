@@ -1,0 +1,771 @@
+## PETER SAGGAU
+
+| | Title| Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Jrgx5mLGNav3RYKj5X%2fX&rnd=a67729c4-a6e4-4789-accb-
+bd5104410e05)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268285)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R21EB016223 (TOLIAS, ANDREAS)Jul 1, 2013 - Jun 30, 2015NIH  
+ALL-OPTICAL HIGH-THROUGHPUT FUNCTIONAL CONNECTIVITY MAPPING USING ADVANCED
+MICROS  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R21RR025365 (SAGGAU, PETER)Sep 1, 2010 - Aug 31, 2013NIH  
+Super-resolution Workstation for Imaging Live Biological Nanostructure  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01DA028525 (SAGGAU, PETER)Aug 15, 2009 - Jul 31, 2012NIH  
+Optogenetic Tools for in vivo Analysis of Cortical Circuit Plasticity  
+Role: Principal Investigator  
+  
+* * *  
+  
+T32EB006350 (SAGGAU, PETER)Jul 1, 2007 - Jun 30, 2013NIH  
+Training in Theoretical and Computational Neuroscience  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01AG027577 (SAGGAU, PETER)Sep 15, 2005 - Jul 31, 2010NIH  
+Computational and Optical Studies of Neural Input/Output Relationship  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01EB001048 (SAGGAU, PETER)Sep 30, 2002 - Aug 31, 2006NIH  
+Reconstruction &Imaging of Living Nerve Cells  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01NS033147 (SAGGAU, PETER)Aug 1, 1995 - Mar 31, 2004NIH  
+CA++ &PRESYNAPTIC MODULATION--SYNAPTIC TRANSMISSION  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Marchese A, Ricci P, **Saggau P** , Duocastella M. Scan-less microscopy based on acousto-optic encoded illumination. Nanophotonics. 2024 Jan; 13(1):63-73. PMID: [38235070](//www.ncbi.nlm.nih.gov/pubmed/38235070); PMCID: [PMC10790963](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10790963).
+
+Citations:
+
+  2. Liu R, Ball N, Brockill J, Kuan L, Millman D, White C, Leon A, Williams D, Nishiwaki S, de Vries S, Larkin J, Sullivan D, Slaughterbeck C, Farrell C, **Saggau P**. Aberration-free multi-plane imaging of neural activity from the mammalian brain using a fast-switching liquid crystal spatial light modulator. Biomed Opt Express. 2019 Oct 01; 10(10):5059-5080. PMID: [31646030](//www.ncbi.nlm.nih.gov/pubmed/31646030); PMCID: [PMC6788611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6788611).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31646030/citedby/)
+
+  3. Tsyboulski D, Orlova N, Ledochowitsch P, **Saggau P**. Two-photon frequency division multiplexing for functional in vivo imaging: a feasibility study. Opt Express. 2019 Feb 18; 27(4):4488-4503. PMID: [30876067](//www.ncbi.nlm.nih.gov/pubmed/30876067).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30876067/citedby/) Fields:
+
+Bio BiophysicsOph Ophthalmology
+
+Translation:AnimalsCells
+
+  4. Long B, Zhou Z, Cetin A, Ting J, Gwinn R, Tasic B, Daigle T, Lein E, Zeng H, **Saggau P** , Hawrylycz M, Peng H. SmartScope2: Simultaneous Imaging and Reconstruction of Neuronal Morphology. Sci Rep. 2017 08 24; 7(1):9325. PMID: [28839271](//www.ncbi.nlm.nih.gov/pubmed/28839271); PMCID: [PMC5571186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5571186).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28839271/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  5. Tsyboulski D, Orlova N, **Saggau P**. Amplitude modulation of femtosecond laser pulses in the megahertz range for frequency-multiplexed two-photon imaging. Opt Express. 2017 Apr 17; 25(8):9435-9442. PMID: [28437905](//www.ncbi.nlm.nih.gov/pubmed/28437905).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28437905/citedby/) Fields:
+
+Bio BiophysicsOph Ophthalmology
+
+  6. Quast KB, [Ung K](https://profiles.viictr.org/profile/1826394), Froudarakis E, Huang L, Herman I, [Addison AP](https://profiles.viictr.org/profile/40200559), Ortiz-Guzman J, Cordiner K, **Saggau P** , [Tolias AS](https://profiles.viictr.org/profile/265515), [Arenkiel BR](https://profiles.viictr.org/profile/266249). Developmental broadening of inhibitory sensory maps. Nat Neurosci. 2017 02; 20(2):189-199. PMID: [28024159](//www.ncbi.nlm.nih.gov/pubmed/28024159); PMCID: [PMC5510602](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5510602).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28024159/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  7. Huang L, [Ung K](https://profiles.viictr.org/profile/1826394), Garcia I, Quast KB, Cordiner K, **Saggau P** , [Arenkiel BR](https://profiles.viictr.org/profile/266249). Task Learning Promotes Plasticity of Interneuron Connectivity Maps in the Olfactory Bulb. J Neurosci. 2016 08 24; 36(34):8856-71. PMID: [27559168](//www.ncbi.nlm.nih.gov/pubmed/27559168); PMCID: [PMC4995301](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4995301).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27559168/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  8. **Saggau P** , [Arenkiel BR](https://profiles.viictr.org/profile/266249), Soiza-Reilly M. Neural circuits revealed. Front Neural Circuits. 2015; 9:35. PMID: [26283927](//www.ncbi.nlm.nih.gov/pubmed/26283927); PMCID: [PMC4516880](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4516880).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26283927/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  9. Hernandez-Herrera P, Papadakis M, **Saggau P** , Kakadiaris IA, Santamar?a-Pang A. Automatic Morphological Reconstruction of Neurons from Multiphoton and Confocal Microscopy Images Using 3D Tubular Models. Neuroinformatics. 2015 Jul; 13(3):297-320. PMID: [25631538](//www.ncbi.nlm.nih.gov/pubmed/25631538).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25631538/citedby/) Fields:
+
+Med Medical InformaticsNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  10. Jaafari N, Vogt KE, **Saggau P** , Leslie LM, Zecevic D, Canepari M. Combining Membrane Potential Imaging with Other Optical Techniques. Adv Exp Med Biol. 2015; 859:103-25. PMID: [26238050](//www.ncbi.nlm.nih.gov/pubmed/26238050); PMCID: [PMC5675139](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5675139).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26238050/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:AnimalsCells
+
+  11. Reddy GD, Cotton RJ, [Tolias AS](https://profiles.viictr.org/profile/265515), **Saggau P**. Random-Access Multiphoton Microscopy for Fast Three-Dimensional Imaging. Adv Exp Med Biol. 2015; 859:455-72. PMID: [26238064](//www.ncbi.nlm.nih.gov/pubmed/26238064).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26238064/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:AnimalsCells
+
+  12. Matias CM, **Saggau P** , Quinta-Ferreira ME, Dion?sio JC. Activation of group II metabotropic glutamate receptors blocks zinc release from hippocampal mossy fibers. Biol Res. 2014 Dec 18; 47:73. PMID: [25723955](//www.ncbi.nlm.nih.gov/pubmed/25723955); PMCID: [PMC4289587](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4289587).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  13. Froudarakis E, Cotton RJ, Yatsenko D, **Saggau P** , Berens P, Ecker AS, [Sinz FH](https://profiles.viictr.org/profile/11761036), Bethge M, [Tolias AS](https://profiles.viictr.org/profile/265515). Population code in mouse V1 facilitates readout of natural scenes through increased sparseness. Nat Neurosci. 2014 Jun; 17(6):851-7. PMID: [24747577](//www.ncbi.nlm.nih.gov/pubmed/24747577); PMCID: [PMC4106281](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4106281).
+
+Citations:
+[74](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24747577/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  14. Cotton RJ, Froudarakis E, Storer P, **Saggau P** , [Tolias AS](https://profiles.viictr.org/profile/265515). Three-dimensional mapping of microcircuit correlation structure. Front Neural Circuits. 2013; 7:151. PMID: [24133414](//www.ncbi.nlm.nih.gov/pubmed/24133414); PMCID: [PMC3794294](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3794294).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24133414/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  15. Bansal V, **Saggau P**. Digital micromirror devices: principles and applications in imaging. Cold Spring Harb Protoc. 2013 May 01; 2013(5):404-11. PMID: [23637366](//www.ncbi.nlm.nih.gov/pubmed/23637366).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23637366/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+  16. Reddy GD, **Saggau P**. High-speed two-photon imaging. Cold Spring Harb Protoc. 2013 Jan 01; 2013(1). PMID: [23282635](//www.ncbi.nlm.nih.gov/pubmed/23282635).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23282635/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+  17. Losavio BE, Iyer V, Patel S, **Saggau P**. Acousto-optic laser scanning for multi-site photo-stimulation of single neurons in vitro. J Neural Eng. 2010 Aug; 7(4):045002. PMID: [20644249](//www.ncbi.nlm.nih.gov/pubmed/20644249).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20644249/citedby/) Fields:
+
+Bio Biomedical EngineeringNeu Neurology
+
+Translation:AnimalsCells
+
+  18. Matias CM, **Saggau P** , Quinta-Ferreira ME. Blockade of presynaptic K ATP channels reduces the zinc-mediated posttetanic depression at hippocampal mossy fiber synapses. Brain Res. 2010 Mar 12; 1320:22-7. PMID: [20097182](//www.ncbi.nlm.nih.gov/pubmed/20097182).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20097182/citedby/) Fields:
+
+Bra Brain
+
+Translation:AnimalsCells
+
+  19. Yuan T, Gao SS, **Saggau P** , Oghalai JS. Calcium imaging of inner ear hair cells within the cochlear epithelium of mice using two-photon microscopy. J Biomed Opt. 2010 Jan-Feb; 15(1):016002. PMID: [20210449](//www.ncbi.nlm.nih.gov/pubmed/20210449); PMCID: [PMC2821419](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2821419).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20210449/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:AnimalsCells
+
+  20. Losavio BE, Iyer V, **Saggau P**. Two-photon microscope for multisite microphotolysis of caged neurotransmitters in acute brain slices. J Biomed Opt. 2009 Nov-Dec; 14(6):064033. PMID: [20059271](//www.ncbi.nlm.nih.gov/pubmed/20059271); PMCID: [PMC2809696](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2809696).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20059271/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:AnimalsCells
+
+  21. Gliko O, **Saggau P** , [Brownell WE](https://profiles.viictr.org/profile/266983). Compartmentalization of the outer hair cell demonstrated by slow diffusion in the extracisternal space. Biophys J. 2009 Aug 19; 97(4):1215-24. PMID: [19686670](//www.ncbi.nlm.nih.gov/pubmed/19686670); PMCID: [PMC2726316](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2726316).
+
+Citations:  Fields:
+
+Bio Biophysics
+
+Translation:Cells
+
+  22. Mancuso JJ, Larson AM, [Wensel TG](https://profiles.viictr.org/profile/268119), **Saggau P**. Multiphoton adaptation of a commercial low-cost confocal microscope for live tissue imaging. J Biomed Opt. 2009 May-Jun; 14(3):034048. PMID: [19566340](//www.ncbi.nlm.nih.gov/pubmed/19566340); PMCID: [PMC3651892](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3651892).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19566340/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:HumansAnimalsCells
+
+  23. Gliko O, [Brownell WE](https://profiles.viictr.org/profile/266983), **Saggau P**. Fast two-dimensional standing-wave total-internal-reflection fluorescence microscopy using acousto-optic deflectors. Opt Lett. 2009 Mar 15; 34(6):836-8. PMID: [19282949](//www.ncbi.nlm.nih.gov/pubmed/19282949).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19282949/citedby/) Fields:
+
+Oph Ophthalmology
+
+  24. Losavio BE, Liang Y, Kakadiaris IA, Colbert CM, **Saggau P** , Santamar?a-Pang A. Live neuron morphology automatically reconstructed from multiphoton and confocal imaging data. J Neurophysiol. 2008 Oct; 100(4):2422-9. PMID: [18701753](//www.ncbi.nlm.nih.gov/pubmed/18701753).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18701753/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  25. Duemani Reddy G, Kelleher K, Fink R, **Saggau P**. Three-dimensional random access multiphoton microscopy for functional imaging of neuronal activity. Nat Neurosci. 2008 Jun; 11(6):713-20. PMID: [18432198](//www.ncbi.nlm.nih.gov/pubmed/18432198); PMCID: [PMC2747788](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2747788).
+
+Citations:
+[136](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18432198/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  26. Colbert CM, **Saggau P** , Kakadiaris IA, Santamar?a-Pang A. Automatic centerline extraction of irregular tubular structures using probability volumes from multiphoton imaging. Med Image Comput Comput Assist Interv. 2007; 10(Pt 2):486-94. PMID: [18044604](//www.ncbi.nlm.nih.gov/pubmed/18044604).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18044604/citedby/) Fields:
+
+Dia Diagnostic ImagingMed Medical Informatics
+
+Translation:HumansCells
+
+  27. Gliko O, Reddy GD, Anvari B, [Brownell WE](https://profiles.viictr.org/profile/266983), **Saggau P**. Standing wave total internal reflection fluorescence microscopy to measure the size of nanostructures in living cells. J Biomed Opt. 2006 Nov-Dec; 11(6):064013. PMID: [17212536](//www.ncbi.nlm.nih.gov/pubmed/17212536).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17212536/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:Cells
+
+  28. **Saggau P**. New methods and uses for fast optical scanning. Curr Opin Neurobiol. 2006 Oct; 16(5):543-50. PMID: [16962769](//www.ncbi.nlm.nih.gov/pubmed/16962769).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16962769/citedby/) Fields:
+
+Bio BiologyNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  29. Bansal V, Patel S, **Saggau P**. High-speed addressable confocal microscopy for functional imaging of cellular activity. J Biomed Opt. 2006 May-Jun; 11(3):34003. PMID: [16822053](//www.ncbi.nlm.nih.gov/pubmed/16822053).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16822053/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:AnimalsCells
+
+  30. Nakagawa T, Oghalai JS, **Saggau P** , Rabbitt RD, [Brownell WE](https://profiles.viictr.org/profile/266983). Photometric recording of transmembrane potential in outer hair cells. J Neural Eng. 2006 Jun; 3(2):79-86. PMID: [16705263](//www.ncbi.nlm.nih.gov/pubmed/16705263); PMCID: [PMC2716392](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2716392).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16705263/citedby/) Fields:
+
+Bio Biomedical EngineeringNeu Neurology
+
+Translation:AnimalsCells
+
+  31. Losavio BE, Reddy GD, Colbert CM, Kakadiaris IA, **Saggau P**. Combining optical imaging and computational modeling to analyze structure and function of living neurons. Conf Proc IEEE Eng Med Biol Soc. 2006; 2006:668-70. PMID: [17946849](//www.ncbi.nlm.nih.gov/pubmed/17946849).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17946849/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:AnimalsCells
+
+  32. Reddy GD, **Saggau P**. Fast three-dimensional laser scanning scheme using acousto-optic deflectors. J Biomed Opt. 2005 Nov-Dec; 10(6):064038. PMID: [16409103](//www.ncbi.nlm.nih.gov/pubmed/16409103).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16409103/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+  33. Iyer V, Hoogland TM, **Saggau P**. Fast functional imaging of single neurons using random-access multiphoton (RAMP) microscopy. J Neurophysiol. 2006 Jan; 95(1):535-45. PMID: [16221746](//www.ncbi.nlm.nih.gov/pubmed/16221746).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16221746/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  34. Hoogland TM, **Saggau P**. Facilitation of L-type Ca2+ channels in dendritic spines by activation of beta2 adrenergic receptors. J Neurosci. 2004 Sep 29; 24(39):8416-27. PMID: [15456814](//www.ncbi.nlm.nih.gov/pubmed/15456814); PMCID: [PMC6729902](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6729902).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15456814/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  35. Uehara C, Colbert C, **Saggau P** , Kakadiaris I. Towards automatic reconstruction of dendrite morphology from live neurons. Conf Proc IEEE Eng Med Biol Soc. 2004; 2004:1798-801. PMID: [17272057](//www.ncbi.nlm.nih.gov/pubmed/17272057).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17272057/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+  36. Iyer V, Losavio BE, **Saggau P**. Compensation of spatial and temporal dispersion for acousto-optic multiphoton laser-scanning microscopy. J Biomed Opt. 2003 Jul; 8(3):460-71. PMID: [12880352](//www.ncbi.nlm.nih.gov/pubmed/12880352).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12880352/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+  37. McQuiston AR, **Saggau P**. Mu-opioid receptors facilitate the propagation of excitatory activity in rat hippocampal area CA1 by disinhibition of all anatomical layers. J Neurophysiol. 2003 Sep; 90(3):1936-48. PMID: [12750411](//www.ncbi.nlm.nih.gov/pubmed/12750411).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12750411/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:Animals
+
+  38. Levy M, Faas GC, **Saggau P** , [Craigen WJ](https://profiles.viictr.org/profile/267972), Sweatt JD. Mitochondrial regulation of synaptic plasticity in the hippocampus. J Biol Chem. 2003 May 16; 278(20):17727-34. PMID: [12604600](//www.ncbi.nlm.nih.gov/pubmed/12604600).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12604600/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  39. Faas GC, Adwanikar H, Gereau RW, **Saggau P**. Modulation of presynaptic calcium transients by metabotropic glutamate receptor activation: a differential role in acute depression of synaptic transmission and long-term depression. J Neurosci. 2002 Aug 15; 22(16):6885-90. PMID: [12177186](//www.ncbi.nlm.nih.gov/pubmed/12177186); PMCID: [PMC6757876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6757876).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12177186/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  40. Sinha SR, **Saggau P**. Imaging of 4-AP-induced, GABA(A)-dependent spontaneous synchronized activity mediated by the hippocampal interneuron network. J Neurophysiol. 2001 Jul; 86(1):381-91. PMID: [11431518](//www.ncbi.nlm.nih.gov/pubmed/11431518).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11431518/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  41. Godbey WT, Barry MA, **Saggau P** , Wu KK, Mikos AG. Poly(ethylenimine)-mediated transfection: a new paradigm for gene delivery. J Biomed Mater Res. 2000 Sep 05; 51(3):321-8. PMID: [10880073](//www.ncbi.nlm.nih.gov/pubmed/10880073).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10880073/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimalsCells
+
+  42. Xiong ZQ, **Saggau P** , Stringer JL. Activity-dependent intracellular acidification correlates with the duration of seizure activity. J Neurosci. 2000 Feb 15; 20(4):1290-6. PMID: [10662818](//www.ncbi.nlm.nih.gov/pubmed/10662818); PMCID: [PMC6772378](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6772378).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10662818/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  43. Qian J, **Saggau P**. Activity-dependent modulation of K+ currents at presynaptic terminals of mammalian central synapses. J Physiol. 1999 Sep 01; 519 Pt 2:427-37. PMID: [10457060](//www.ncbi.nlm.nih.gov/pubmed/10457060); PMCID: [PMC2269500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2269500).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10457060/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  44. Sinha SR, **Saggau P**. Simultaneous optical recording of membrane potential and intracellular calcium from brain slices. Methods. 1999 Jun; 18(2):204-14, 175. PMID: [10356352](//www.ncbi.nlm.nih.gov/pubmed/10356352).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10356352/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  45. Bullen A, **Saggau P**. High-speed, random-access fluorescence microscopy: II. Fast quantitative measurements with voltage-sensitive dyes. Biophys J. 1999 Apr; 76(4):2272-87. PMID: [10096922](//www.ncbi.nlm.nih.gov/pubmed/10096922); PMCID: [PMC1300200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1300200).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10096922/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:AnimalsCells
+
+  46. **Saggau P** , Gray R, Dani JA. Optical measurements of calcium signals in mammalian presynaptic terminals. Methods Enzymol. 1999; 294:3-19. PMID: [9916220](//www.ncbi.nlm.nih.gov/pubmed/9916220).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9916220/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  47. Qian J, **Saggau P**. Modulation of transmitter release by action potential duration at the hippocampal CA3-CA1 synapse. J Neurophysiol. 1999 Jan; 81(1):288-98. PMID: [9914289](//www.ncbi.nlm.nih.gov/pubmed/9914289).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9914289/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  48. Bullen A, **Saggau P**. Indicators and optical configuration for simultaneous high-resolution recording of membrane potential and intracellular calcium using laser scanning microscopy. Pflugers Arch. 1998 Oct; 436(5):788-96. PMID: [9716714](//www.ncbi.nlm.nih.gov/pubmed/9716714).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9716714/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  49. **Saggau P** , Bullen A, Patel SS. Acousto-optic random-access laser scanning microscopy: fundamentals and applications to optical recording of neuronal activity. Cell Mol Biol (Noisy-le-grand). 1998 Jul; 44(5):827-46. PMID: [9764750](//www.ncbi.nlm.nih.gov/pubmed/9764750).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9764750/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  50. Qian J, Colmers WF, **Saggau P**. Inhibition of synaptic transmission by neuropeptide Y in rat hippocampal area CA1: modulation of presynaptic Ca2+ entry. J Neurosci. 1997 Nov 01; 17(21):8169-77. PMID: [9334392](//www.ncbi.nlm.nih.gov/pubmed/9334392); PMCID: [PMC6573734](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6573734).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9334392/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  51. Qian J, **Saggau P**. Presynaptic inhibition of synaptic transmission in the rat hippocampus by activation of muscarinic receptors: involvement of presynaptic calcium influx. Br J Pharmacol. 1997 Oct; 122(3):511-9. PMID: [9351508](//www.ncbi.nlm.nih.gov/pubmed/9351508); PMCID: [PMC1564959](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1564959).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9351508/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:AnimalsCells
+
+  52. Bullen A, Patel SS, **Saggau P**. High-speed, random-access fluorescence microscopy: I. High-resolution optical recording with voltage-sensitive dyes and ion indicators. Biophys J. 1997 Jul; 73(1):477-91. PMID: [9199810](//www.ncbi.nlm.nih.gov/pubmed/9199810); PMCID: [PMC1180947](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1180947).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9199810/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:AnimalsCells
+
+  53. **Saggau P** , Wu LG. Presynaptic inhibition of elicited neurotransmitter release. Trends Neurosci. 1997 May; 20(5):204-12. PMID: [9141196](//www.ncbi.nlm.nih.gov/pubmed/9141196).
+
+Citations:
+[206](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9141196/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  54. Sinha SR, Wu LG, **Saggau P**. Presynaptic calcium dynamics and transmitter release evoked by single action potentials at mammalian central synapses. Biophys J. 1997 Feb; 72(2 Pt 1):637-51. PMID: [9017193](//www.ncbi.nlm.nih.gov/pubmed/9017193); PMCID: [PMC1185591](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1185591).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9017193/citedby/) Fields:
+
+Bio Biophysics
+
+Translation:AnimalsCells
+
+  55. Sinha SR, Patel SS, **Saggau P**. Simultaneous optical recording of evoked and spontaneous transients of membrane potential and intracellular calcium concentration with high spatio-temporal resolution. J Neurosci Methods. 1995 Aug; 60(1-2):49-60. PMID: [8544487](//www.ncbi.nlm.nih.gov/pubmed/8544487).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8544487/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  56. Wu LG, **Saggau P**. GABAB receptor-mediated presynaptic inhibition in guinea-pig hippocampus is caused by reduction of presynaptic Ca2+ influx. J Physiol. 1995 Jun 15; 485 ( Pt 3):649-57. PMID: [7562607](//www.ncbi.nlm.nih.gov/pubmed/7562607); PMCID: [PMC1158034](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1158034).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7562607/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  57. Wu LG, **Saggau P**. Block of multiple presynaptic calcium channel types by omega-conotoxin-MVIIC at hippocampal CA3 to CA1 synapses. J Neurophysiol. 1995 May; 73(5):1965-72. PMID: [7623094](//www.ncbi.nlm.nih.gov/pubmed/7623094).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7623094/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  58. Wu LG, **Saggau P**. Pharmacological identification of two types of presynaptic voltage-dependent calcium channels at CA3-CA1 synapses of the hippocampus. J Neurosci. 1994 Sep; 14(9):5613-22. PMID: [8083757](//www.ncbi.nlm.nih.gov/pubmed/8083757); PMCID: [PMC6577093](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6577093).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8083757/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  59. Wu LG, **Saggau P**. Adenosine inhibits evoked synaptic transmission primarily by reducing presynaptic calcium influx in area CA1 of hippocampus. Neuron. 1994 May; 12(5):1139-48. PMID: [8185949](//www.ncbi.nlm.nih.gov/pubmed/8185949).
+
+Citations:
+[114](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8185949/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Cells
+
+  60. Colom LV, **Saggau P**. Spontaneous interictal-like activity originates in multiple areas of the CA2-CA3 region of hippocampal slices. J Neurophysiol. 1994 Apr; 71(4):1574-85. PMID: [8035236](//www.ncbi.nlm.nih.gov/pubmed/8035236).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8035236/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  61. Wu LG, **Saggau P**. Presynaptic calcium is increased during normal synaptic transmission and paired-pulse facilitation, but not in long-term potentiation in area CA1 of hippocampus. J Neurosci. 1994 Feb; 14(2):645-54. PMID: [7905515](//www.ncbi.nlm.nih.gov/pubmed/7905515); PMCID: [PMC6576817](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6576817).
+
+Citations:
+[99](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7905515/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  62. Illert M, de la Motte S, Reeh P, **Saggau P** , Fritz N. Pattern of monosynaptic Ia connections in the cat forelimb. J Physiol. 1989 Dec; 419:321-51. PMID: [2533610](//www.ncbi.nlm.nih.gov/pubmed/2533610); PMCID: [PMC1190010](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1190010).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2533610/citedby/) Fields:
+
+Phy Physiology
+
+Translation:AnimalsCells
+
+  63. **Saggau P** , Galvan M, ten Bruggencate G. Long-term potentiation in guinea pig hippocampal slices monitored by optical recording of neuronal activity. Neurosci Lett. 1986 Aug 15; 69(1):53-8. PMID: [3018636](//www.ncbi.nlm.nih.gov/pubmed/3018636).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3018636/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 61 publications over 23 distinct years, with a maximum of
+5 publications in 1997 and 1999 and
+2006](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:80,60,0,100,40,100,40,20,20,60,40,40,100,20,40,80,60,0,0,60,40,80,40,40,0,40,0,0,0,0,20&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 4  
+1995| 3  
+1997| 5  
+1998| 2  
+1999| 5  
+2000| 2  
+2001| 1  
+2002| 1  
+2003| 3  
+2004| 2  
+2005| 2  
+2006| 5  
+2007| 1  
+2008| 2  
+2009| 4  
+2010| 3  
+2013| 3  
+2014| 2  
+2015| 4  
+2016| 2  
+2017| 2  
+2019| 2  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SAGGAU's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (242)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Microscopy, Fluorescence, Multiphoton](https://profiles.viictr.org/profile/254241)
+  * [Microscopy, Confocal](https://profiles.viictr.org/profile/259083)
+  * [Neurons](https://profiles.viictr.org/profile/240409)
+  * [Hippocampus](https://profiles.viictr.org/profile/259857)
+  * [Calcium](https://profiles.viictr.org/profile/253060)
+
+[Explore](https://profiles.viictr.org/profile/268285/198)
+
+_
+
+Co-Authors (8)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ARENKIEL, BENJAMIN](https://profiles.viictr.org/profile/266249)
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+  * [BROWNELL, WILLIAM](https://profiles.viictr.org/profile/266983)
+  * [WENSEL, THEODORE](https://profiles.viictr.org/profile/268119)
+  * [UNG, Kevin](https://profiles.viictr.org/profile/1826394)
+
+[Explore](https://profiles.viictr.org/profile/268285/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [MAGEE, JEFFREY](https://profiles.viictr.org/profile/23478949)
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+  * [NOEBELS, JEFFREY](https://profiles.viictr.org/profile/269703)
+  * [ARENKIEL, BENJAMIN](https://profiles.viictr.org/profile/266249)
+
+[Explore](https://profiles.viictr.org/profile/268285/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DUMAN, JOSEPH](https://profiles.viictr.org/profile/268900)
+  * [JERNG, HENRY](https://profiles.viictr.org/profile/267836)
+  * [PFAFFINGER, PAUL](https://profiles.viictr.org/profile/269751)
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [YAU, JEFFREY](https://profiles.viictr.org/profile/2619366)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiUzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [MOU, XIANG](https://profiles.viictr.org/profile/3010256)
+  * [PATEL, SAUMIL](https://profiles.viictr.org/profile/268256)
+  * [RESS, DAVID](https://profiles.viictr.org/profile/2560306)
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+  * [YAU, JEFFREY](https://profiles.viictr.org/profile/2619366)
+
+_
+

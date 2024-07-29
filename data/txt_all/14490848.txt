@@ -1,0 +1,306 @@
+## QINGLONG MIAO
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neurology  
+Address| 6501 Fannin St  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=B6I%2b5mnILoy7a4bs71vAKbnCIhWf&rnd=a104a1fd-0dd8-445d-b0f5-ad4fb2b67f3a)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=14490848)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Mukherjee A](https://profiles.viictr.org/profile/38880954), [Kadam VD](https://profiles.viictr.org/profile/38266325), **Miao Q** , Zhang W, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Tan Z](https://profiles.viictr.org/profile/32901598), [Teng M](https://profiles.viictr.org/profile/36751796). On-demand modular assembly for expedited PROTAC development. Expert Opin Drug Discov. 2024 Jul; 19(7):769-772. PMID: [38842359](//www.ncbi.nlm.nih.gov/pubmed/38842359).
+
+Citations:  Fields:
+
+Che Chemistry TechniquesPha Pharmacology
+
+Translation:Humans
+
+  2. Keshari S, Shavkunov AS, **Miao Q** , Saha A, Williams CD, Highsmith AM, Pineda JE, Alspach E, Hu KH, Pauken KE, Chen K, Gubin MM. Neoantigen Cancer Vaccines and Different Immune Checkpoint Therapies Each Utilize Both Converging and Distinct Mechanisms that in Combination Enable Synergistic Therapeutic Efficacy. bioRxiv. 2024 Jan 26. PMID: [38187708](//www.ncbi.nlm.nih.gov/pubmed/38187708); PMCID: [PMC10769249](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10769249).
+
+Citations:
+
+  3. **Miao Q** , [Kadam VD](https://profiles.viictr.org/profile/38266325), [Mukherjee A](https://profiles.viictr.org/profile/38880954), [Tan Z](https://profiles.viictr.org/profile/32901598), [Teng M](https://profiles.viictr.org/profile/36751796). Unlocking DCAFs To Catalyze Degrader Development: An Arena for Innovative Approaches. J Med Chem. 2023 Oct 12; 66(19):13369-13383. PMID: [37738232](//www.ncbi.nlm.nih.gov/pubmed/37738232).
+
+Citations:  Fields:
+
+Che Chemistry
+
+  4. Li L, Mohanty V, Dou J, Huang Y, Banerjee PP, **Miao Q** , Lohr JG, Vijaykumar T, Frede J, Knoechel B, Muniz-Feliciano L, Laskowski TJ, Liang S, Moyes JS, Nandivada V, Basar R, Kaplan M, Daher M, Liu E, Li Y, Acharya S, Lin P, Shanley M, Rafei H, [Marin D](https://profiles.viictr.org/profile/12582856), Mielke S, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Chen K, Rezvani K. Loss of metabolic fitness drives tumor resistance after CAR-NK cell therapy and can be overcome by cytokine engineering. Sci Adv. 2023 07 28; 9(30):eadd6997. PMID: [37494448](//www.ncbi.nlm.nih.gov/pubmed/37494448); PMCID: [PMC10371011](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10371011).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37494448/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  5. Dou J, Liang S, Mohanty V, **Miao Q** , Huang Y, Liang Q, [Cheng X](https://profiles.viictr.org/profile/28999199), Kim S, Choi J, Li Y, Li L, Daher M, Basar R, Rezvani K, Chen R, Chen K. Bi-order multimodal integration of single-cell data. Genome Biol. 2022 05 09; 23(1):112. PMID: [35534898](//www.ncbi.nlm.nih.gov/pubmed/35534898); PMCID: [PMC9082907](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9082907).
+
+Citations:  Fields:
+
+Gen Genetics
+
+  6. Salmon AJ, Shavkunov AS, **Miao Q** , Jarjour NN, Keshari S, Esaulova E, Williams CD, Ward JP, Highsmith AM, Taneja R, Chen K, Edelson BT, Gubin MM, Pineda JE. BHLHE40 Regulates the T-Cell Effector Function Required for Tumor Microenvironment Remodeling and Immune Checkpoint Therapy Efficacy. Cancer Immunol Res. 2022 05 03; 10(5):597-611. PMID: [35181783](//www.ncbi.nlm.nih.gov/pubmed/35181783); PMCID: [PMC9164498](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9164498).
+
+Citations:  Fields:
+
+All Allergy and ImmunologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  7. Shaim H, Shanley M, Basar R, Daher M, Gumin J, Zamler DB, Uprety N, Wang F, Huang Y, Gabrusiewicz K, **Miao Q** , Dou J, Alsuliman A, Kerbauy LN, Acharya S, Mohanty V, Mendt M, Li S, Lu J, Wei J, Fowlkes NW, Gokdemir E, Ensley EL, Kaplan M, Kassab C, Li L, Ozcan G, Banerjee PP, Shen Y, Gilbert AL, Jones CM, Bdiwi M, Nunez-Cortes AK, Liu E, Yu J, Imahashi N, Muniz-Feliciano L, Li Y, Hu J, [Draetta G](https://profiles.viictr.org/profile/12583593), [Marin D](https://profiles.viictr.org/profile/12582856), [Yu D](https://profiles.viictr.org/profile/12582518), [Champlin RE](https://profiles.viictr.org/profile/12582508), Chen K, [Lang FF](https://profiles.viictr.org/profile/265574), [Shpall EJ](https://profiles.viictr.org/profile/12582631), [Heimberger AB](https://profiles.viictr.org/profile/12583027), Rezvani K, Mielke S, Eyrich M. Targeting the av integrin/TGF-? axis improves natural killer cell function against glioblastoma stem cells. J Clin Invest. 2021 07 15; 131(14). PMID: [34138753](//www.ncbi.nlm.nih.gov/pubmed/34138753); PMCID: [PMC8279586](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8279586).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34138753/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  8. Basar R, Uprety N, Ensley E, Daher M, Klein K, [Martinez F](https://profiles.viictr.org/profile/12583796), [Aung F](https://profiles.viictr.org/profile/12583531), Shanley M, Hu B, Gokdemir E, Nunez Cortes AK, Mendt M, Reyes Silva F, Acharya S, Laskowski T, Muniz-Feliciano L, Banerjee PP, Li Y, Li S, Melo Garcia L, Lin P, Shaim H, Yates SG, [Marin D](https://profiles.viictr.org/profile/12582856), Kaur I, Rao S, Mak D, Lin A, **Miao Q** , Dou J, Chen K, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Rezvani K. Generation of glucocorticoid-resistant SARS-CoV-2 T?cells for adoptive cell therapy. Cell Rep. 2021 07 20; 36(3):109432. PMID: [34270918](//www.ncbi.nlm.nih.gov/pubmed/34270918); PMCID: [PMC8260499](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8260499).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34270918/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+  9. Liang S, Mohanty V, Dou J, **Miao Q** , Huang Y, M?ft?oglu M, Ding L, [Peng W](https://profiles.viictr.org/profile/12582778), Chen K. Publisher Correction: Single-cell manifold-preserving feature selection for detecting rare cell populations. Nat Comput Sci. 2021 Jun; 1(6):448. PMID: [38217241](//www.ncbi.nlm.nih.gov/pubmed/38217241).
+
+Citations:
+
+  10. Liang S, Mohanty V, Dou J, **Miao Q** , Huang Y, M?ft?oglu M, Ding L, [Peng W](https://profiles.viictr.org/profile/12582778), Chen K. Single-cell manifold-preserving feature selection for detecting rare cell populations. Nat Comput Sci. 2021 May; 1(5):374-384. PMID: [36969355](//www.ncbi.nlm.nih.gov/pubmed/36969355); PMCID: [PMC10035340](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10035340).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36969355/citedby/)
+
+  11. Kerbauy LN, Marin ND, Kaplan M, Banerjee PP, Berrien-Elliott MM, Becker-Hapak M, Basar R, Foster M, Garcia Melo L, Neal CC, McClain E, Daher M, Nunez Cortes AK, Desai S, Inng Lim FW, Mendt MC, Schappe T, Li L, Shaim H, Shanley M, Ensley EL, Uprety N, Wong P, Liu E, Ang SO, Cai R, Nandivada V, Mohanty V, **Miao Q** , Shen Y, Baran N, Fowlkes NW, Chen K, Muniz-Feliciano L, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Nieto YL](https://profiles.viictr.org/profile/12582721), Koch J, Treder M, Fischer W, Okamoto OK, [Shpall EJ](https://profiles.viictr.org/profile/12582631), Fehniger TA, Rezvani K. Combining AFM13, a Bispecific CD30/CD16 Antibody, with Cytokine-Activated Blood and Cord Blood-Derived NK Cells Facilitates CAR-like Responses Against CD30+ Malignancies. Clin Cancer Res. 2021 07 01; 27(13):3744-3756. PMID: [33986022](//www.ncbi.nlm.nih.gov/pubmed/33986022); PMCID: [PMC8254785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8254785).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33986022/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  12. **Miao Q** , Wang F, Dou J, Iqbal R, Muftuoglu M, Basar R, Li L, [Rezvani K](https://profiles.viictr.org/profile/12583611), Chen K. Ab initio spillover compensation in mass cytometry data. Cytometry A. 2021 09; 99(9):899-909. PMID: [33342071](//www.ncbi.nlm.nih.gov/pubmed/33342071); PMCID: [PMC8214634](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8214634).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33342071/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  13. **Miao QL** , Herlitze S, Mark MD, [Noebels JL](https://profiles.viictr.org/profile/269703). Adult loss of Cacna1a in mice recapitulates childhood absence epilepsy by distinct thalamic bursting mechanisms. Brain. 2020 01 01; 143(1):161-174. PMID: [31800012](//www.ncbi.nlm.nih.gov/pubmed/31800012); PMCID: [PMC6935748](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6935748).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31800012/citedby/) Fields:
+
+Bra BrainNeu Neurology
+
+Translation:AnimalsCells
+
+  14. Li L, Chen H, [Marin D](https://profiles.viictr.org/profile/12582856), Xi Y, **Miao Q** , Lv J, Banerjee PP, Shaim H, Daher M, Basar R, Imahashi N, Jimenez J, Hu B, [Mehta RS](https://profiles.viictr.org/profile/20424309), Kerbauy LN, Kaplan M, Mendt M, Ozcan G, Gokdemir E, Hernandez Sanabria M, Li Y, Chen K, Wang J, Muniz-Feliciano L, Zhao WL, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Rezvani K. A novel immature natural killer cell subpopulation predicts relapse after cord blood transplantation. Blood Adv. 2019 12 10; 3(23):4117-4130. PMID: [31821460](//www.ncbi.nlm.nih.gov/pubmed/31821460); PMCID: [PMC6963241](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6963241).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31821460/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  15. Wang X, [Balaji S](https://profiles.viictr.org/profile/16102694), Steen EH, Li H, Rae MM, Blum AJ, **Miao Q** , Butte MJ, Bollyky PL, [Keswani SG](https://profiles.viictr.org/profile/11419586). T Lymphocytes Attenuate Dermal Scarring by Regulating Inflammation, Neovascularization, and Extracellular Matrix Remodeling. Adv Wound Care (New Rochelle). 2019 Nov 01; 8(11):527-537. PMID: [31637099](//www.ncbi.nlm.nih.gov/pubmed/31637099); PMCID: [PMC6798809](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6798809).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31637099/citedby/) Fields:
+
+Tra Traumatology
+
+  16. **Miao Q** , Hill MC, Chen F, Mo Q, Ku AT, [Ramos C](https://profiles.viictr.org/profile/267038), Nguyen H, Sock E, Lefebvre V. SOX11 and SOX4 drive the reactivation of an embryonic gene program during murine wound repair. Nat Commun. 2019 09 06; 10(1):4042. PMID: [31492871](//www.ncbi.nlm.nih.gov/pubmed/31492871); PMCID: [PMC6731344](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6731344).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31492871/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  17. Ku AT, Shaver TM, Rao AS, Howard JM, Rodriguez CN, **Miao Q** , Garcia G, Le D, Yang D, Borowiak M, Cohen DN, Chitsazzadeh V, [Diwan AH](https://profiles.viictr.org/profile/266202), Tsai KY, Nguyen H. TCF7L1 promotes skin tumorigenesis independently of ?-catenin through induction of LCN2. Elife. 2017 05 03; 6. PMID: [28467300](//www.ncbi.nlm.nih.gov/pubmed/28467300); PMCID: [PMC5438253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5438253).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28467300/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimals
+
+  18. Ku AT, **Miao Q** , Nguyen H. Monitoring Wnt/?-Catenin Signaling in Skin. Methods Mol Biol. 2016; 1481:127-40. PMID: [27590159](//www.ncbi.nlm.nih.gov/pubmed/27590159); PMCID: [PMC5373554](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5373554).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27590159/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  19. **Miao Q** , Ku AT, Nishino Y, Howard JM, Rao AS, Shaver TM, Garcia GE, Le DN, [Karlin KL](https://profiles.viictr.org/profile/1826677), [Westbrook TF](https://profiles.viictr.org/profile/267742), Poli V, Nguyen H. Tcf3 promotes cell migration and wound repair through regulation of lipocalin 2. Nat Commun. 2014 Jun 09; 5:4088. PMID: [24909826](//www.ncbi.nlm.nih.gov/pubmed/24909826); PMCID: [PMC4052366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4052366).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24909826/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  20. Leishman E, Howard JM, Garcia GE, **Miao Q** , Ku AT, Dekker JD, Tucker H, Nguyen H. Foxp1 maintains hair follicle stem cell quiescence through regulation of Fgf18. Development. 2013 Sep; 140(18):3809-18. PMID: [23946441](//www.ncbi.nlm.nih.gov/pubmed/23946441); PMCID: [PMC3754479](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3754479).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23946441/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 20 publications over 10 distinct years, with a maximum of
+5 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,0,20,20,0,60,40,100,40,40,40&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2013| 1  
+2014| 1  
+2016| 1  
+2017| 1  
+2019| 3  
+2020| 2  
+2021| 5  
+2022| 2  
+2023| 2  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MIAO's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (99)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Wound Healing](https://profiles.viictr.org/profile/247553)
+  * [Calcium Channels, N-Type](https://profiles.viictr.org/profile/243072)
+  * [Epilepsy, Absence](https://profiles.viictr.org/profile/243676)
+  * [SOXC Transcription Factors](https://profiles.viictr.org/profile/244731)
+  * [Thalamus](https://profiles.viictr.org/profile/258959)
+
+[Explore](https://profiles.viictr.org/profile/14490848/198)
+
+_
+
+Co-Authors (26)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [TENG, MINGXING](https://profiles.viictr.org/profile/36751796)
+  * [NOEBELS, JEFFREY](https://profiles.viictr.org/profile/269703)
+  * [Mukherjee, ayan](https://profiles.viictr.org/profile/38880954)
+  * [TAN, ZHI](https://profiles.viictr.org/profile/32901598)
+  * [Kadam, Vilas](https://profiles.viictr.org/profile/38266325)
+
+[Explore](https://profiles.viictr.org/profile/14490848/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [NOEBELS, JEFFREY](https://profiles.viictr.org/profile/269703)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [KESWANI, SUNDEEP](https://profiles.viictr.org/profile/11419586)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+
+[Explore](https://profiles.viictr.org/profile/14490848/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CUASCUT, FERNANDO](https://profiles.viictr.org/profile/24845174)
+  * [LITVAK, PAUL](https://profiles.viictr.org/profile/22016680)
+  * [MANDEL, JACOB](https://profiles.viictr.org/profile/8183294)
+  * [RIVERA, VICTOR](https://profiles.viictr.org/profile/268173)
+  * [YE, HUI](https://profiles.viictr.org/profile/1826855)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiX0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

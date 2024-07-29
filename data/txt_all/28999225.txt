@@ -1,0 +1,432 @@
+## JASON KARCH
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Integrative Physiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HKoj7muJC4rnRYfN4njPZLGIMg%3d%3d&rnd=ca39540f-1e5e-4e95-9f5d-828b24c4eb6f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999225)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Lahiri SK](https://profiles.viictr.org/profile/19013053), Lu J, Aguilar-Sanchez Y, Li H, Moreira LM, [Hulsurkar MM](https://profiles.viictr.org/profile/22016528), [Mendoza A](https://profiles.viictr.org/profile/24845258), Turkieltaub Paredes MR, Navarro-Garcia JA, Munivez E, [Horist B](https://profiles.viictr.org/profile/34768201), Moore OM, Weninger G, Brandenburg S, Lenz C, Lehnart SE, Sayeed R, Krasopoulos G, Srivastava V, Zhang L, **Karch JM** , Reilly S, [Wehrens XHT](https://profiles.viictr.org/profile/270302), Li H, Lenz C, Zhang L. Targeting calpain-2-mediated junctophilin-2 cleavage delays heart failure progression following myocardial infarction. J Mol Cell Cardiol. 2024 Jul 02; 194:85-95. PMID: [38960317](//www.ncbi.nlm.nih.gov/pubmed/38960317).
+
+Citations:  Fields:
+
+Car CardiologyCel Cell BiologyMol Molecular Biology
+
+  2. [Mendoza A](https://profiles.viictr.org/profile/24845258), Patel P, [Robichaux D](https://profiles.viictr.org/profile/24845189), Ramirez D, **Karch J**. Inhibition of the mPTP and Lipid Peroxidation Is Additively Protective Against I/R Injury. Circ Res. 2024 May 10; 134(10):1292-1305. PMID: [38618716](//www.ncbi.nlm.nih.gov/pubmed/38618716); PMCID: [PMC11081482](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11081482).
+
+Citations:  Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:AnimalsCells
+
+  3. Song J, Wu J, [Robichaux DJ](https://profiles.viictr.org/profile/24845189), Li T, Wang S, Arredondo Sancristobal MJ, [Dong B](https://profiles.viictr.org/profile/3009532), Dobrev D, **Karch J** , Thomas SS, [Li N](https://profiles.viictr.org/profile/267442). A High-Protein Diet Promotes Atrial Arrhythmogenesis via Absent-in-Melanoma 2 Inflammasome. Cells. 2024 01 05; 13(2). PMID: [38247800](//www.ncbi.nlm.nih.gov/pubmed/38247800); PMCID: [PMC10814244](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10814244).
+
+Citations:  Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  4. [Bround MJ](https://profiles.viictr.org/profile/45080796), Havens JR, York AJ, Sargent MA, **Karch J** , Molkentin JD. ANT-dependent MPTP underlies necrotic myofiber death in muscular dystrophy. Sci Adv. 2023 08 25; 9(34):eadi2767. PMID: [37624892](//www.ncbi.nlm.nih.gov/pubmed/37624892); PMCID: [PMC10456852](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10456852).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37624892/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  5. Bernardi P, Gerle C, Halestrap AP, Jonas EA, **Karch J** , Mnatsakanyan N, Pavlov E, Sheu SS, Soukas AA. Identity, structure, and function of the mitochondrial permeability transition pore: controversies, consensus, recent advances, and future directions. Cell Death Differ. 2023 08; 30(8):1869-1885. PMID: [37460667](//www.ncbi.nlm.nih.gov/pubmed/37460667); PMCID: [PMC10406888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10406888).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37460667/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Cells
+
+  6. [Robichaux DJ](https://profiles.viictr.org/profile/24845189), Harata M, Murphy E, **Karch J**. Mitochondrial permeability transition pore-dependent necrosis. J Mol Cell Cardiol. 2023 01; 174:47-55. PMID: [36410526](//www.ncbi.nlm.nih.gov/pubmed/36410526); PMCID: [PMC9868081](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9868081).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36410526/citedby/) Fields:
+
+Car CardiologyCel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  7. [Mendoza A](https://profiles.viictr.org/profile/24845258), **Karch J**. Keeping the beat against time: Mitochondrial fitness in the aging heart. Front Aging. 2022; 3:951417. PMID: [35958271](//www.ncbi.nlm.nih.gov/pubmed/35958271); PMCID: [PMC9360554](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9360554).
+
+Citations:
+
+  8. [Hulsurkar MM](https://profiles.viictr.org/profile/22016528), [Lahiri SK](https://profiles.viictr.org/profile/19013053), **Karch J** , Wang MC, [Wehrens XHT](https://profiles.viictr.org/profile/270302). Targeting calcium-mediated inter-organellar crosstalk in cardiac diseases. Expert Opin Ther Targets. 2022 04; 26(4):303-317. PMID: [35426759](//www.ncbi.nlm.nih.gov/pubmed/35426759); PMCID: [PMC9081256](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9081256).
+
+Citations:  Fields:
+
+The Therapeutics
+
+Translation:HumansCells
+
+  9. [Mendoza AM](https://profiles.viictr.org/profile/24845258), **Karch J**. Simultaneous Acquisition of Mitochondrial Calcium Retention Capacity and Swelling to Measure Permeability Transition Sensitivity. Methods Mol Biol. 2022; 2497:129-140. PMID: [35771440](//www.ncbi.nlm.nih.gov/pubmed/35771440); PMCID: [PMC10263276](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10263276).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  10. Patel P, [Mendoza A](https://profiles.viictr.org/profile/24845258), [Robichaux DJ](https://profiles.viictr.org/profile/24845189), Wang MC, [Wehrens XHT](https://profiles.viictr.org/profile/270302), **Karch J**. Inhibition of the Anti-Apoptotic Bcl-2 Family by BH3 Mimetics Sensitize the Mitochondrial Permeability Transition Pore Through Bax and Bak. Front Cell Dev Biol. 2021; 9:765973. PMID: [34926454](//www.ncbi.nlm.nih.gov/pubmed/34926454); PMCID: [PMC8672142](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8672142).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34926454/citedby/)
+
+  11. Martens MD, Seshadri N, Nguyen L, Chapman D, Henson ES, Xiang B, Falk L, Mendoza A, Rattan S, Field JT, Kawalec P, Gibson SB, Keijzer R, Saleem A, Hatch GM, Doucette CA, **Karch JM** , Dolinsky VW, Dixon IM, West AR, Rampitsch C, Gordon JW. Misoprostol treatment prevents hypoxia-induced cardiac dysfunction through a 14-3-3 and PKA regulatory motif on Bnip3. Cell Death Dis. 2021 11 26; 12(12):1105. PMID: [34824192](//www.ncbi.nlm.nih.gov/pubmed/34824192); PMCID: [PMC8617186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8617186).
+
+Citations:  Fields:
+
+Cel Cell BiologyInt Internal Medicine
+
+Translation:HumansAnimals
+
+  12. Wang Y, Liu H, Sun N, Li J, Peng X, Jia Y, **Karch J** , Yu B, [Wehrens XHT](https://profiles.viictr.org/profile/270302), Tian J. Irisin: A Promising Target for Ischemia-Reperfusion Injury Therapy. Oxid Med Cell Longev. 2021; 2021:5391706. PMID: [34745418](//www.ncbi.nlm.nih.gov/pubmed/34745418); PMCID: [PMC8570861](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8570861).
+
+Citations:  Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansAnimals
+
+  13. Martens MD, **Karch J** , Gordon JW. The molecular mosaic of regulated cell death in the cardiovascular system. Biochim Biophys Acta Mol Basis Dis. 2022 01 01; 1868(1):166297. PMID: [34718119](//www.ncbi.nlm.nih.gov/pubmed/34718119).
+
+Citations:  Fields:
+
+Bio BiochemistryBio BiophysicsGen Genetics
+
+Translation:HumansCells
+
+  14. Chiang DY, [Lahiri S](https://profiles.viictr.org/profile/19013053), Wang G, **Karch J** , Wang MC, Jung SY, Heck AJR, Scholten A, [Wehrens XHT](https://profiles.viictr.org/profile/270302). Phosphorylation-Dependent Interactome of Ryanodine Receptor Type 2 in the Heart. Proteomes. 2021 Jun 07; 9(2). PMID: [34200203](//www.ncbi.nlm.nih.gov/pubmed/34200203); PMCID: [PMC8293434](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8293434).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34200203/citedby/)
+
+  15. Patel P, **Karch J**. Regulation of cell death in the cardiovascular system. Int Rev Cell Mol Biol. 2020; 353:153-209. PMID: [32381175](//www.ncbi.nlm.nih.gov/pubmed/32381175).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32381175/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimals
+
+  16. **Karch J** , [Bround MJ](https://profiles.viictr.org/profile/45080796), Khalil H, Sargent MA, Latchman N, Terada N, Peixoto PM, Molkentin JD. Inhibition of mitochondrial permeability transition by deletion of the ANT family and CypD. Sci Adv. 2019 08; 5(8):eaaw4597. PMID: [31489369](//www.ncbi.nlm.nih.gov/pubmed/31489369); PMCID: [PMC6713508](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6713508).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31489369/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  17. Schips TG, Vanhoutte D, Vo A, Correll RN, Brody MJ, Khalil H, **Karch J** , Tjondrokoesoemo A, Sargent MA, Maillet M, Ross RS, Molkentin JD. Thrombospondin-3 augments injury-induced cardiomyopathy by intracellular integrin inhibition and sarcolemmal instability. Nat Commun. 2019 01 08; 10(1):76. PMID: [30622267](//www.ncbi.nlm.nih.gov/pubmed/30622267); PMCID: [PMC6325143](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6325143).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30622267/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  18. Maliken BD, Kanisicak O, **Karch J** , Khalil H, Fu X, Boyer JG, Prasad V, Zheng Y, Molkentin JD. Gata4-Dependent Differentiation of c-Kit+-Derived Endothelial Cells Underlies Artefactual Cardiomyocyte Regeneration in the Heart. Circulation. 2018 09 04; 138(10):1012-1024. PMID: [29666070](//www.ncbi.nlm.nih.gov/pubmed/29666070); PMCID: [PMC6125755](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6125755).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29666070/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:AnimalsCells
+
+  19. van Berlo JH, Kanisicak O, Maillet M, Vagnozzi RJ, **Karch J** , Lin SJ, Middleton RC, Molkentin JD, Marb?n E. van Berlo et al. reply. Nature. 2018 03 21; 555(7697):E18. PMID: [29565361](//www.ncbi.nlm.nih.gov/pubmed/29565361).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29565361/citedby/) Fields:
+
+Sci Science
+
+  20. **Karch J** , Schips TG, Maliken BD, Brody MJ, Sargent MA, Kanisicak O, Molkentin JD. Autophagic cell death is dependent on lysosomal membrane permeability through Bax and Bak. Elife. 2017 11 17; 6. PMID: [29148970](//www.ncbi.nlm.nih.gov/pubmed/29148970); PMCID: [PMC5697932](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5697932).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29148970/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  21. Khalil H, Kanisicak O, Prasad V, Correll RN, Fu X, Schips T, Vagnozzi RJ, Liu R, Huynh T, Lee SJ, **Karch J** , Molkentin JD. Fibroblast-specific TGF-?-Smad2/3 signaling underlies cardiac fibrosis. J Clin Invest. 2017 Oct 02; 127(10):3770-3783. PMID: [28891814](//www.ncbi.nlm.nih.gov/pubmed/28891814); PMCID: [PMC5617658](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5617658).
+
+Citations:
+[247](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28891814/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  22. Kanisicak O, Khalil H, Ivey MJ, **Karch J** , Maliken BD, Correll RN, Brody MJ, J Lin SC, Aronow BJ, Tallquist MD, Molkentin JD. Genetic lineage tracing defines myofibroblast origin and function in the injured heart. Nat Commun. 2016 07 22; 7:12260. PMID: [27447449](//www.ncbi.nlm.nih.gov/pubmed/27447449); PMCID: [PMC5512625](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5512625).
+
+Citations:
+[306](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27447449/citedby/)
+Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  23. Brody MJ, Schips TG, Vanhoutte D, Kanisicak O, **Karch J** , Maliken BD, Blair NS, Sargent MA, Prasad V, Molkentin JD. Dissection of Thrombospondin-4 Domains Involved in Intracellular Adaptive Endoplasmic Reticulum Stress-Responsive Signaling. Mol Cell Biol. 2016 Jan 01; 36(1):2-12. PMID: [26459760](//www.ncbi.nlm.nih.gov/pubmed/26459760); PMCID: [PMC4702604](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4702604).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26459760/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  24. **Karch J** , Kanisicak O, Brody MJ, Sargent MA, Michael DM, Molkentin JD. Necroptosis Interfaces with MOMP and the MPTP in Mediating Cell Death. PLoS One. 2015; 10(6):e0130520. PMID: [26061004](//www.ncbi.nlm.nih.gov/pubmed/26061004); PMCID: [PMC4465034](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4465034).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26061004/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  25. **Karch J** , Molkentin JD. Regulated necrotic cell death: the passive aggressive side of Bax and Bak. Circ Res. 2015 May 22; 116(11):1800-9. PMID: [25999420](//www.ncbi.nlm.nih.gov/pubmed/25999420); PMCID: [PMC4443748](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4443748).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25999420/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:HumansCells
+
+  26. **Karch J** , Molkentin JD. Identifying the components of the elusive mitochondrial permeability transition pore. Proc Natl Acad Sci U S A. 2014 Jul 22; 111(29):10396-7. PMID: [25002521](//www.ncbi.nlm.nih.gov/pubmed/25002521); PMCID: [PMC4115577](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4115577).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25002521/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  27. Wissing ER, Boyer JG, Kwong JQ, Sargent MA, **Karch J** , McNally EM, Otsu K, Molkentin JD. P38a MAPK underlies muscular dystrophy and myofiber death through a Bax-dependent mechanism. Hum Mol Genet. 2014 Oct 15; 23(20):5452-63. PMID: [24876160](//www.ncbi.nlm.nih.gov/pubmed/24876160); PMCID: [PMC4184390](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4184390).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24876160/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  28. van Berlo JH, Kanisicak O, Maillet M, Vagnozzi RJ, **Karch J** , Lin SC, Middleton RC, Molkentin JD, Marb?n E. c-kit+ cells minimally contribute cardiomyocytes to the heart. Nature. 2014 May 15; 509(7500):337-41. PMID: [24805242](//www.ncbi.nlm.nih.gov/pubmed/24805242); PMCID: [PMC4127035](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4127035).
+
+Citations:
+[369](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24805242/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  29. **Karch J** , Kwong JQ, Burr AR, Sargent MA, Elrod JW, Peixoto PM, Martinez-Caballero S, Osinska H, Cheng EH, Robbins J, Kinnally KW, Molkentin JD. Bax and Bak function as the outer membrane component of the mitochondrial permeability pore in regulating necrotic cell death in mice. Elife. 2013 Aug 27; 2:e00772. PMID: [23991283](//www.ncbi.nlm.nih.gov/pubmed/23991283); PMCID: [PMC3755340](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3755340).
+
+Citations:
+[122](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23991283/citedby/)
+Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  30. **Karch J** , Molkentin JD. Is p53 the long-sought molecular trigger for cyclophilin D-regulated mitochondrial permeability transition pore formation and necrosis? Circ Res. 2012 Oct 26; 111(10):1258-60. PMID: [23104876](//www.ncbi.nlm.nih.gov/pubmed/23104876).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23104876/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+  31. Comstock CES, Augello MA, Schiewer MJ, **Karch J** , Burd CJ, Ertel A, Knudsen ES, Jessen WJ, Aronow BJ, Knudsen KE. Cyclin D1 is a selective modifier of androgen-dependent signaling and androgen receptor function. J Biol Chem. 2011 Mar 11; 286(10):8117-8127. PMID: [21212260](//www.ncbi.nlm.nih.gov/pubmed/21212260); PMCID: [PMC3048698](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3048698).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21212260/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  32. Elrod JW, Wong R, Mishra S, Vagnozzi RJ, Sakthievel B, Goonasekera SA, **Karch J** , Gabel S, Farber J, Force T, Brown JH, Murphy E, Molkentin JD. Cyclophilin D controls mitochondrial pore-dependent Ca(2+) exchange, metabolic flexibility, and propensity for heart failure in mice. J Clin Invest. 2010 Oct; 120(10):3680-7. PMID: [20890047](//www.ncbi.nlm.nih.gov/pubmed/20890047); PMCID: [PMC2947235](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2947235).
+
+Citations:
+[180](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20890047/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  33. Comstock CE, Augello MA, Benito RP, **Karch J** , Tran TH, Utama FE, Tindall EA, Wang Y, Burd CJ, Groh EM, Hoang HN, Giles GG, Severi G, Hayes VM, Henderson BE, Le Marchand L, Kolonel LN, Haiman CA, Baffa R, Gomella LG, Knudsen ES, Rui H, Henshall SM, Sutherland RL, Knudsen KE. Cyclin D1 splice variants: polymorphism, risk, and isoform-specific regulation in prostate cancer. Clin Cancer Res. 2009 Sep 01; 15(17):5338-49. PMID: [19706803](//www.ncbi.nlm.nih.gov/pubmed/19706803); PMCID: [PMC2849314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2849314).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19706803/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 33 publications over 15 distinct years, with a maximum of
+5 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,20,20,20,60,60,20,40,40,60,0,100,80,40,60&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2009| 1  
+2010| 1  
+2011| 1  
+2012| 1  
+2013| 1  
+2014| 3  
+2015| 3  
+2016| 1  
+2017| 2  
+2018| 2  
+2019| 3  
+2021| 5  
+2022| 4  
+2023| 2  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+KARCH's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (142)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Mitochondrial Membrane Transport Proteins](https://profiles.viictr.org/profile/251290)
+  * [bcl-2-Associated X Protein](https://profiles.viictr.org/profile/253547)
+  * [bcl-2 Homologous Antagonist-Killer Protein](https://profiles.viictr.org/profile/261658)
+  * [Myocardial Reperfusion Injury](https://profiles.viictr.org/profile/248268)
+  * [Mitochondria](https://profiles.viictr.org/profile/244812)
+
+[Explore](https://profiles.viictr.org/profile/28999225/198)
+
+_
+
+Co-Authors (9)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [Mendoza, Arielys](https://profiles.viictr.org/profile/24845258)
+  * [Robichaux, Dexter](https://profiles.viictr.org/profile/24845189)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [BROUND, MICHAEL](https://profiles.viictr.org/profile/45080796)
+  * [LAHIRI, SATADRU](https://profiles.viictr.org/profile/19013053)
+
+[Explore](https://profiles.viictr.org/profile/28999225/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [FRANGOGIANNIS, NIKOLAOS](https://profiles.viictr.org/profile/266669)
+  * [BIRNBAUM, YOCHAI](https://profiles.viictr.org/profile/265899)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+
+[Explore](https://profiles.viictr.org/profile/28999225/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DE GIORGI, MARCO](https://profiles.viictr.org/profile/20777976)
+  * [LAGOR, WILLIAM](https://profiles.viictr.org/profile/270145)
+  * [LAHIRI, SATADRU](https://profiles.viictr.org/profile/19013053)
+  * [NEILSON, JOEL](https://profiles.viictr.org/profile/266073)
+  * [WEHRENS, XANDER](https://profiles.viictr.org/profile/270302)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ9OAoViz93UPhzgPYFlUVlOB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+

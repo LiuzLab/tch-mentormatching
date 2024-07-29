@@ -1,0 +1,554 @@
+## OLGA DUDCHENKO
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Gac34CvjNY%2f2Torj63TiKLeBaRSOgg%3d%3d&rnd=ef4cec9f-d4b8-4b12-b94a-8e4316c1ac9c)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3010058)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Khan AW, Garg V, Sun S, Gupta S, **Dudchenko O** , Roorkiwal M, Chitikineni A, Bayer PE, Shi C, Upadhyaya HD, Bohra A, Bharadwaj C, Mir RR, Baruch K, Yang B, Coyne CJ, Bansal KC, Nguyen HT, Ronen G, Aiden EL, Veneklaas E, Siddique KHM, Liu X, Edwards D, Varshney RK. Author Correction: Cicer super-pangenome provides insights into species evolution and agronomic trait loci for crop improvement in chickpea. Nat Genet. 2024 Jun; 56(6):1320. PMID: [38811845](//www.ncbi.nlm.nih.gov/pubmed/38811845).
+
+Citations:  Fields:
+
+Gen Genetics
+
+  2. Khan AW, Garg V, Sun S, Gupta S, **Dudchenko O** , Roorkiwal M, Chitikineni A, Bayer PE, Shi C, Upadhyaya HD, Bohra A, Bharadwaj C, Mir RR, Baruch K, Yang B, Coyne CJ, Bansal KC, Nguyen HT, Ronen G, Aiden EL, Veneklaas E, Siddique KHM, Liu X, Edwards D, Varshney RK. Cicer super-pangenome provides insights into species evolution and agronomic trait loci for crop improvement in chickpea. Nat Genet. 2024 Jun; 56(6):1225-1234. PMID: [38783120](//www.ncbi.nlm.nih.gov/pubmed/38783120).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  3. Moreno JA, **Dudchenko O** , Feigin CY, Mereby SA, Chen Z, Ramos R, Almet AA, Sen H, Brack BJ, Johnson MR, Li S, Wang W, Gaska JM, Ploss A, Weisz D, Omer AD, Yao W, Colaric Z, Kaur P, Leger JS, Nie Q, Mena A, Flanagan JP, Keller G, Sanger T, Ostrow B, Plikus MV, Kvon EZ, Aiden EL, Mallarino R. Emx2 underlies the development and evolution of marsupial gliding membranes. Nature. 2024 May; 629(8010):127-135. PMID: [38658750](//www.ncbi.nlm.nih.gov/pubmed/38658750); PMCID: [PMC11062917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11062917).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  4. Bush J, Webster C, Wegrzyn J, Simon C, Wilcox E, Khan R, Weisz D, **Dudchenko O** , Aiden EL, Frandsen P. Chromosome-Level Genome Assembly and Annotation of a Periodical Cicada Species: Magicicada septendecula. Genome Biol Evol. 2024 01 05; 16(1). PMID: [38190231](//www.ncbi.nlm.nih.gov/pubmed/38190231); PMCID: [PMC10799293](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10799293).
+
+Citations:  Fields:
+
+Bio BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  5. [Adastra PA](https://profiles.viictr.org/profile/22016510), Durand NC, Mitra N, Pulido SG, Mahajan R, Blackburn A, Colaric ZL, Theisen JWM, Weisz D, **Dudchenko O** , Gnirke A, Rao SSP, Kaur P, Aiden EL, [Aiden AP](https://profiles.viictr.org/profile/23478751). A rapid, low-cost, and highly sensitive SARS-CoV-2 diagnostic based on whole-genome sequencing. PLoS One. 2023; 18(11):e0294283. PMID: [38032990](//www.ncbi.nlm.nih.gov/pubmed/38032990); PMCID: [PMC10688730](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10688730).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38032990/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  6. Komissarov A, Kliver S, Houck ML, Perelman PL, Totikov A, Tomarovsky A, **Dudchenko O** , Omer AD, Colaric Z, Weisz D, Aiden EL, Chan S, Hastie A, Ryder OA, Graphodatsky A, Johnson WE, Maldonado JE, Pukazhenthi BS, Marinari PE, Wildt DE, Koepfli KP. Chromosome-length genome assembly and karyotype of the endangered black-footed ferret (Mustela nigripes). J Hered. 2023 08 23; 114(5):539-548. PMID: [37249392](//www.ncbi.nlm.nih.gov/pubmed/37249392); PMCID: [PMC10848218](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10848218).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37249392/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  7. Hu H, Wang P, Angessa TT, Zhang XQ, Chalmers KJ, Zhou G, Hill CB, Jia Y, Simpson C, Fuller J, Saxena A, Al Shamaileh H, Iqbal M, Chapman B, Kaur P, **Dudchenko O** , Aiden EL, Keeble-Gagnere G, Westcott S, Leah D, Tibbits JF, Waugh R, Langridge P, Varshney R, He T, Li C. Genomic signatures of barley breeding for environmental adaptation to the new continents. Plant Biotechnol J. 2023 09; 21(9):1719-1721. PMID: [37497741](//www.ncbi.nlm.nih.gov/pubmed/37497741); PMCID: [PMC10440980](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10440980).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37497741/citedby/) Fields:
+
+Bio BiotechnologyBot Botany
+
+Translation:Animals
+
+  8. Hitz BC, Lee JW, Jolanki O, Kagda MS, Graham K, Sud P, Gabdank I, Strattan JS, Sloan CA, Dreszer T, Rowe LD, Podduturi NR, Malladi VS, Chan ET, Davidson JM, Ho M, Miyasato S, Simison M, Tanaka F, Luo Y, Whaling I, Hong EL, Lee BT, Sandstrom R, Rynes E, Nelson J, Nishida A, Ingersoll A, Buckley M, Frerker M, Kim DS, Boley N, Trout D, Dobin A, Rahmanian S, Wyman D, Balderrama-Gutierrez G, Reese F, Durand NC, **Dudchenko O** , Weisz D, Rao SSP, Blackburn A, [Gkountaroulis D](https://profiles.viictr.org/profile/30142271), Sadr M, Olshansky M, Eliaz Y, Nguyen D, Bochkov I, Shamim MS, Mahajan R, Aiden E, Gingeras T, Heath S, Hirst M, Kent WJ, Kundaje A, Mortazavi A, Wold B, Cherry JM. The ENCODE Uniform Analysis Pipelines. Res Sq. 2023 Jul 19. PMID: [37503119](//www.ncbi.nlm.nih.gov/pubmed/37503119); PMCID: [PMC10371165](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10371165).
+
+Citations:
+
+  9. Harris HL, Gu H, Olshansky M, Wang A, Farabella I, Eliaz Y, Kalluchi A, Krishna A, Jacobs M, Cauer G, Pham M, Rao SSP, **Dudchenko O** , Omer A, Mohajeri K, Kim S, Nichols MH, Davis ES, [Gkountaroulis D](https://profiles.viictr.org/profile/30142271), Udupa D, [Aiden AP](https://profiles.viictr.org/profile/23478751), Corces VG, Phanstiel DH, Noble WS, Nir G, Di Pierro M, Seo JS, Talkowski ME, Aiden EL, Rowley MJ. Chromatin alternates between A and B compartments at kilobase scale for subgenic organization. Nat Commun. 2023 06 06; 14(1):3303. PMID: [37280210](//www.ncbi.nlm.nih.gov/pubmed/37280210); PMCID: [PMC10244318](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10244318).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37280210/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  10. Houck ML, Koepfli KP, Hains T, Khan R, Charter SJ, Fronczek JA, Misuraca AC, Kliver S, Perelman PL, Beklemisheva V, Graphodatsky A, Luo SJ, O'Brien SJ, Lim NT, Chin JSC, Guerra V, Tamazian G, Omer A, Weisz D, Kaemmerer K, Sturgeon G, Gaspard J, Hahn A, McDonough M, Garcia-Trevi?o I, Gentry J, Coke RL, Janecka JE, Harrigan RJ, Tinsman J, Smith TB, Aiden EL, **Dudchenko O**. Chromosome-length genome assemblies and cytogenomic analyses of pangolins reveal remarkable chromosome counts and plasticity. Chromosome Res. 2023 04 12; 31(2):13. PMID: [37043058](//www.ncbi.nlm.nih.gov/pubmed/37043058).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37043058/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  11. Hitz BC, Jin-Wook L, Jolanki O, Kagda MS, Graham K, Sud P, Gabdank I, Strattan JS, Sloan CA, Dreszer T, Rowe LD, Podduturi NR, Malladi VS, Chan ET, Davidson JM, Ho M, Miyasato S, Simison M, Tanaka F, Luo Y, Whaling I, Hong EL, Lee BT, Sandstrom R, Rynes E, Nelson J, Nishida A, Ingersoll A, Buckley M, Frerker M, Kim DS, Boley N, Trout D, Dobin A, Rahmanian S, Wyman D, Balderrama-Gutierrez G, Reese F, Durand NC, **Dudchenko O** , Weisz D, Rao SSP, Blackburn A, [Gkountaroulis D](https://profiles.viictr.org/profile/30142271), Sadr M, Olshansky M, Eliaz Y, Nguyen D, Bochkov I, Shamim MS, Mahajan R, Aiden E, Gingeras T, Heath S, Hirst M, Kent WJ, Kundaje A, Mortazavi A, Wold B, Cherry JM. The ENCODE Uniform Analysis Pipelines. bioRxiv. 2023 Apr 06. PMID: [37066421](//www.ncbi.nlm.nih.gov/pubmed/37066421); PMCID: [PMC10104020](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10104020).
+
+Citations:
+
+  12. Jones BM, Rubin BER, **Dudchenko O** , Kingwell CJ, Traniello IM, Wang ZY, Kapheim KM, Wyman ES, [Adastra PA](https://profiles.viictr.org/profile/22016510), Liu W, Parsons LR, Jackson SR, Goodwin K, Davidson SM, McBride MJ, Webb AE, Omufwoko KS, Van Dorp N, Ot?rola MF, Pham M, Omer AD, Weisz D, Schraiber J, Villanea F, Wcislo WT, Paxton RJ, Hunt BG, Aiden EL, Kocher SD. Convergent and complementary selection shaped gains and losses of eusociality in sweat bees. Nat Ecol Evol. 2023 04; 7(4):557-569. PMID: [36941345](//www.ncbi.nlm.nih.gov/pubmed/36941345).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  13. Ballard JWO, Field MA, Edwards RJ, Wilson LAB, Koungoulos LG, Rosen BD, Chernoff B, **Dudchenko O** , Omer A, Keilwagen J, Skvortsova K, Bogdanovic O, Chan E, Zammit R, Hayes V, Aiden EL. The Australasian dingo archetype: de novo chromosome-length genome assembly, DNA methylome, and cranial morphology. Gigascience. 2023 03 20; 12. PMID: [36994871](//www.ncbi.nlm.nih.gov/pubmed/36994871); PMCID: [PMC10353722](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10353722).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36994871/citedby/) Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:AnimalsCells
+
+  14. Tolman ER, Beatty CD, Bush J, Kohli M, Moreno CM, Ware JL, Weber KS, Khan R, Maheshwari C, Weisz D, **Dudchenko O** , Aiden EL, Frandsen PB. A Chromosome-length Assembly of the Black Petaltail (Tanypteryx hageni) Dragonfly. Genome Biol Evol. 2023 03 03; 15(3). PMID: [36807678](//www.ncbi.nlm.nih.gov/pubmed/36807678); PMCID: [PMC9985156](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9985156).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36807678/citedby/) Fields:
+
+Bio BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  15. Hassan SU, Chua EG, Paz EA, Tay CY, Greeff JC, Palmer DG, **Dudchenko O** , Aiden EL, Martin GB, Kaur P. Chromosome-length genome assembly of Teladorsagia circumcincta - a globally important helminth parasite in livestock. BMC Genomics. 2023 Feb 15; 24(1):74. PMID: [36792983](//www.ncbi.nlm.nih.gov/pubmed/36792983); PMCID: [PMC9933375](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9933375).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  16. Lomsadze A, Britton C, Bruna T, Aryal R, **Dudchenko O** , Sargent DJ, Mead D, Buti M, Cavallini A, Hyt?nen T, Andr?s J, Pham M, Weisz D, Mascagni F, Usai G, Natali L, Bassil N, Fernandez GE, Armour M, Olukolu B, Poorten T, Davik J, Ashrafi H, Aiden EL, Borodovsky M, Worthington M. A chromosome-length genome assembly and annotation of blackberry (Rubus argutus, cv. "Hillquist"). G3 (Bethesda). 2023 02 09; 13(2). PMID: [36331334](//www.ncbi.nlm.nih.gov/pubmed/36331334); PMCID: [PMC9911083](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9911083).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36331334/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:AnimalsCells
+
+  17. Ballard JWO, Field MA, Edwards RJ, Wilson LAB, Koungoulos LG, Rosen BD, Chernoff B, **Dudchenko O** , Omer A, Keilwagen J, Skvortsova K, Bogdanovic O, Chan E, Zammit R, Hayes V, Aiden EL. The Australasian dingo archetype: De novo chromosome-length genome assembly, DNA methylome, and cranial morphology. bioRxiv. 2023 Jan 27. PMID: [36747621](//www.ncbi.nlm.nih.gov/pubmed/36747621); PMCID: [PMC9900879](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9900879).
+
+Citations:
+
+  18. Karawita AC, Cheng Y, Chew KY, Challagulla A, Kraus R, Mueller RC, Tong MZW, Hulme KD, Bielefeldt-Ohmann H, Steele LE, Wu M, Sng J, Noye E, Bruxner TJ, Au GG, Lowther S, Blommaert J, Suh A, McCauley AJ, Kaur P, **Dudchenko O** , Aiden E, Fedrigo O, Formenti G, Mountcastle J, Chow W, Martin FJ, Ogeh DN, Thiaud-Nissen F, Howe K, Tracey A, Smith J, Kuo RI, Renfree MB, Kimura T, Sakoda Y, McDougall M, Spencer HG, Pyne M, Tolf C, Waldenstr?m J, Jarvis ED, Baker ML, Burt DW, Short KR. The swan genome and transcriptome, it is not all black and white. Genome Biol. 2023 01 23; 24(1):13. PMID: [36683094](//www.ncbi.nlm.nih.gov/pubmed/36683094); PMCID: [PMC9867998](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9867998).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36683094/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  19. Contessoto VG, **Dudchenko O** , Aiden EL, Wolynes PG, Onuchic JN, Di Pierro M. Interphase chromosomes of the Aedes aegypti mosquito are liquid crystalline and can sense mechanical cues. Nat Commun. 2023 01 19; 14(1):326. PMID: [36658127](//www.ncbi.nlm.nih.gov/pubmed/36658127); PMCID: [PMC9852290](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9852290).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36658127/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  20. Bursell MG, Dikow RB, Figueir? HV, **Dudchenko O** , Flanagan JP, Aiden EL, Goossens B, Nathan SKSS, Johnson WE, Koepfli KP, Frandsen PB. Whole genome analysis of clouded leopard species reveals an ancient divergence and distinct demographic histories. iScience. 2022 Dec 22; 25(12):105647. PMID: [36590460](//www.ncbi.nlm.nih.gov/pubmed/36590460); PMCID: [PMC9801239](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9801239).
+
+Citations:
+
+  21. Mohajeri K, Yadav R, D'haene E, Boone PM, Erdin S, Gao D, Moyses-Oliveira M, Bhavsar R, Currall BB, O'Keefe K, Burt ND, Lowther C, Lucente D, Salani M, Larson M, Redin C, **Dudchenko O** , Aiden EL, Menten B, Tai DJC, Gusella JF, Vergult S, Talkowski ME. Transcriptional and functional consequences of alterations to MEF2C and its topological organization in neuronal models. Am J Hum Genet. 2022 11 03; 109(11):2049-2067. PMID: [36283406](//www.ncbi.nlm.nih.gov/pubmed/36283406); PMCID: [PMC9674968](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9674968).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36283406/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  22. Garg G, Kamphuis LG, Bayer PE, Kaur P, **Dudchenko O** , Taylor CM, Frick KM, Foley RC, Gao LL, Aiden EL, Edwards D, Singh KB. A pan-genome and chromosome-length reference genome of narrow-leafed lupin (Lupinus angustifolius) reveals genomic diversity and insights into key industry and biological traits. Plant J. 2022 09; 111(5):1252-1266. PMID: [35779281](//www.ncbi.nlm.nih.gov/pubmed/35779281); PMCID: [PMC9544533](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9544533).
+
+Citations:  Fields:
+
+Bot BotanyCel Cell BiologyMol Molecular Biology
+
+  23. Wilder AP, **Dudchenko O** , Curry C, Korody M, Turbek SP, Daly M, Misuraca A, Wang G, Khan R, Weisz D, Fronczek J, Aiden EL, Houck ML, Shier DM, Ryder OA, Steiner CC. A Chromosome-Length Reference Genome for the Endangered Pacific Pocket Mouse Reveals Recent Inbreeding in a Historically Large Population. Genome Biol Evol. 2022 08 03; 14(8). PMID: [35894178](//www.ncbi.nlm.nih.gov/pubmed/35894178); PMCID: [PMC9348616](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9348616).
+
+Citations:  Fields:
+
+Bio BiologyMol Molecular Biology
+
+  24. Mohr DW, Gaughran SJ, Paschall J, Naguib A, Pang AWC, **Dudchenko O** , Aiden EL, Church DM, Scott AF. A Chromosome-Length Assembly of the Hawaiian Monk Seal (Neomonachus schauinslandi): A History of "Genetic Purging" and Genomic Stability. Genes (Basel). 2022 07 18; 13(7). PMID: [35886053](//www.ncbi.nlm.nih.gov/pubmed/35886053); PMCID: [PMC9323584](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9323584).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  25. Robinson JA, Bowie RCK, **Dudchenko O** , Aiden EL, Hendrickson SL, Steiner CC, Ryder OA, Mindell DP, Wall JD. Response to Bakker et al. Curr Biol. 2022 04 25; 32(8):R358-R359. PMID: [35472421](//www.ncbi.nlm.nih.gov/pubmed/35472421).
+
+Citations:  Fields:
+
+Bio Biology
+
+  26. Field MA, Yadav S, **Dudchenko O** , Esvaran M, Rosen BD, Skvortsova K, Edwards RJ, Cochran BJ, Manandhar B, Bustamante S, Rasmussen JA, Melvin RG, Chernoff B, Omer A, Colaric Z, Chan EKF, Minoche AE, Smith TPL, Gilbert MTP, Bogdanovic O, Zammit RA, Thomas T, Aiden EL, Ballard JWO, Keilwagen J. The Australian dingo is an early offshoot of modern breed dogs. Sci Adv. 2022 04 22; 8(16):eabm5944. PMID: [35452284](//www.ncbi.nlm.nih.gov/pubmed/35452284); PMCID: [PMC9032958](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9032958).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Animals
+
+  27. Robledo-Ruiz DA, Gan HM, Kaur P, **Dudchenko O** , Weisz D, Khan R, Lieberman Aiden E, Osipova E, Hiller M, Magrath MJL, Clarke RH, Sunnucks P, Pavlova A, Morales HE. Chromosome-length genome assembly and linkage map of a critically endangered Australian bird: the helmeted honeyeater. Gigascience. 2022 03 29; 11. PMID: [35348671](//www.ncbi.nlm.nih.gov/pubmed/35348671); PMCID: [PMC8963300](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8963300).
+
+Citations:  Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:AnimalsCells
+
+  28. Tigano A, Khan R, Omer AD, Weisz D, **Dudchenko O** , [Multani AS](https://profiles.viictr.org/profile/12582542), Pathak S, Behringer RR, Aiden EL, Fisher H, MacManes MD. Chromosome size affects sequence divergence between species through the interplay of recombination and selection. Evolution. 2022 04; 76(4):782-798. PMID: [35271737](//www.ncbi.nlm.nih.gov/pubmed/35271737); PMCID: [PMC9314927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9314927).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  29. Buti M, Aiden EL, **Dudchenko O** , Sargent DJ, Davik J, R?en D, Lys?e E, Rossman S, Alsheikh M. A chromosome-level genome sequence assembly of the red raspberry (Rubus idaeus L.). PLoS One. 2022; 17(3):e0265096. PMID: [35294470](//www.ncbi.nlm.nih.gov/pubmed/35294470); PMCID: [PMC8926247](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8926247).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35294470/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  30. Stroehlein AJ, Korhonen PK, Lee VV, Ralph SA, Mentink-Kane M, You H, McManus DP, Stothard JR, Kaur P, **Dudchenko O** , Aiden EL, Yang B, Yang H, Emery AM, Webster BL, Brindley PJ, Rollinson D, Chang BCH, Gasser RB, Young ND, Tchuent? LT. Chromosome-level genome of Schistosoma haematobium underpins genome-wide explorations of molecular variation. PLoS Pathog. 2022 02; 18(2):e1010288. PMID: [35167626](//www.ncbi.nlm.nih.gov/pubmed/35167626); PMCID: [PMC8846543](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8846543).
+
+Citations:  Fields:
+
+Mic Microbiology
+
+Translation:AnimalsCells
+
+  31. Lamb S, Taylor AM, Hughes TA, McMillan BR, Larsen RT, Khan R, Weisz D, **Dudchenko O** , Aiden EL, Edelman NB, Frandsen PB. De novo chromosome-length assembly of the mule deer (Odocoileus hemionus) genome. GigaByte. 2021; 2021:gigabyte34. PMID: [36824347](//www.ncbi.nlm.nih.gov/pubmed/36824347); PMCID: [PMC9650288](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9650288).
+
+Citations:
+
+  32. Garg V, **Dudchenko O** , Wang J, Khan AW, Gupta S, Kaur P, Han K, Saxena RK, Kale SM, Pham M, Yu J, Chitikineni A, Zhang Z, Fan G, Lui C, Valluri V, Meng F, Bhandari A, Liu X, Yang T, Chen H, Valliyodan B, Roorkiwal M, Shi C, Yang HB, Durand NC, Pandey MK, Li G, Barmukh R, Wang X, Chen X, Lam HM, Jiang H, Zong X, Liang X, Liu X, Liao B, Guo B, Jackson S, Nguyen HT, Zhuang W, Shubo W, Wang X, Aiden EL, Bennetzen JL, Varshney RK. Chromosome-length genome assemblies of six legume species provide insights into genome organization, evolution, and agronomic traits for crop improvement. J Adv Res. 2022 12; 42:315-329. PMID: [36513421](//www.ncbi.nlm.nih.gov/pubmed/36513421); PMCID: [PMC9788938](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9788938).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36513421/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  33. Van Dam MH, Cabras AA, Henderson JB, Rominger AJ, Omer AD, **Dudchenko O** , Lieberman Aiden E, Lam AW, P?rez Estrada C. The Easter Egg Weevil (Pachyrhynchus) genome reveals syntenic patterns in Coleoptera across 200 million years of evolution. PLoS Genet. 2021 08; 17(8):e1009745. PMID: [34460814](//www.ncbi.nlm.nih.gov/pubmed/34460814); PMCID: [PMC8432895](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8432895).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34460814/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  34. Hoencamp C, **Dudchenko O** , Elbatsh AMO, Brahmachari S, Raaijmakers JA, van Schaik T, van Heesbeen RGHP, van den Broek B, Mhaskar AN, Teunissen H, St Hilaire BG, Weisz D, Omer AD, Pham M, Colaric Z, Yang Z, Rao SSP, Mitra N, Lui C, Yao W, Khan R, Moroz LL, Kohn A, St Leger J, Mena A, Holcroft K, Gambetta MC, Lim F, Farley E, Stein N, Haddad A, Chauss D, [Mutlu AS](https://profiles.viictr.org/profile/1826735), Wang MC, Young ND, Hildebrandt E, Cheng HH, Knight CJ, Burnham TLU, Hovel KA, Beel AJ, Mattei PJ, Kornberg RD, Warren WC, Cary G, Hinman V, Lindblad-Toh K, Di Palma F, Maeshima K, [Multani AS](https://profiles.viictr.org/profile/12582542), Pathak S, Nel-Themaat L, [Behringer RR](https://profiles.viictr.org/profile/12582530), Kaur P, van Steensel B, de Wit E, Di Pierro M, Lieberman Aiden E, Rowland BD, Sede?o Cacciatore ?, Contessoto VG, G?mez-Skarmeta JL, Medema RH, Onuchic JN. 3D genomics across the tree of life reveals condensin II as a determinant of architecture type. Science. 2021 05 28; 372(6545):984-989. PMID: [34045355](//www.ncbi.nlm.nih.gov/pubmed/34045355); PMCID: [PMC8172041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8172041).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34045355/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  35. Colella JP, Tigano A, **Dudchenko O** , Omer AD, Khan R, Bochkov ID, Aiden EL, MacManes MD. Limited Evidence for Parallel Evolution Among Desert-Adapted Peromyscus Deer Mice. J Hered. 2021 05 24; 112(3):286-302. PMID: [33686424](//www.ncbi.nlm.nih.gov/pubmed/33686424); PMCID: [PMC8141686](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8141686).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33686424/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  36. Robinson JA, Bowie RCK, **Dudchenko O** , Aiden EL, Hendrickson SL, Steiner CC, Ryder OA, Mindell DP, Wall JD. Genome-wide diversity in the California condor tracks its prehistoric abundance and decline. Curr Biol. 2021 07 12; 31(13):2939-2946.e5. PMID: [33989525](//www.ncbi.nlm.nih.gov/pubmed/33989525).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33989525/citedby/) Fields:
+
+Bio Biology
+
+Translation:Animals
+
+  37. Kaur P, Lui C, **Dudchenko O** , Nandety RS, Hurgobin B, Pham M, Lieberman Aiden E, Wen J, Mysore K. Delineating the Tnt1 Insertion Landscape of the Model Legume Medicago truncatula cv. R108 at the Hi-C Resolution Using a Chromosome-Length Genome Assembly. Int J Mol Sci. 2021 Apr 21; 22(9). PMID: [33919286](//www.ncbi.nlm.nih.gov/pubmed/33919286); PMCID: [PMC8122578](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8122578).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33919286/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:AnimalsCells
+
+  38. Edwards RJ, Field MA, Ferguson JM, **Dudchenko O** , Rosen BD, Johnson GS, Rice ES, Hillier D, Hammond JM, Towarnicki SG, Omer A, Khan R, Skvortsova K, Bogdanovic O, Zammit RA, Aiden EL, Warren WC, Ballard JWO, Keilwagen J. Chromosome-length genome assembly and structural variations of the primal Basenji dog (Canis lupus familiaris) genome. BMC Genomics. 2021 Mar 16; 22(1):188. PMID: [33726677](//www.ncbi.nlm.nih.gov/pubmed/33726677); PMCID: [PMC7962210](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7962210).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33726677/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  39. Young ND, Stroehlein AJ, Kinkar L, Wang T, Sohn WM, Chang BCH, Kaur P, Weisz D, **Dudchenko O** , Aiden EL, Korhonen PK, Gasser RB. High-quality reference genome for Clonorchis sinensis. Genomics. 2021 05; 113(3):1605-1615. PMID: [33677057](//www.ncbi.nlm.nih.gov/pubmed/33677057).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33677057/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  40. Humble E, Dobrynin P, Senn H, Chuven J, Scott AF, Mohr DW, **Dudchenko O** , Omer AD, Colaric Z, Lieberman Aiden E, Al Dhaheri SS, Wildt D, Oliaji S, Tamazian G, Pukazhenthi B, Ogden R, Koepfli KP. Chromosomal-level genome assembly of the scimitar-horned oryx: Insights into diversity and demography of a species extinct in the wild. Mol Ecol Resour. 2020 Nov; 20(6):1668-1681. PMID: [32365406](//www.ncbi.nlm.nih.gov/pubmed/32365406); PMCID: [PMC10332132](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10332132).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32365406/citedby/) Fields:
+
+Env Environmental HealthMol Molecular Biology
+
+Translation:AnimalsCells
+
+  41. Kenny NJ, McCarthy SA, **Dudchenko O** , James K, Betteridge E, Corton C, Dolucan J, Mead D, Oliver K, Omer AD, Pelan S, Ryan Y, Sims Y, Skelton J, Smith M, Torrance J, Weisz D, Wipat A, Aiden EL, Howe K, Williams ST. The gene-rich genome of the scallop Pecten maximus. Gigascience. 2020 05 01; 9(5). PMID: [32352532](//www.ncbi.nlm.nih.gov/pubmed/32352532); PMCID: [PMC7191990](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7191990).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32352532/citedby/) Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:Animals
+
+  42. Field MA, Rosen BD, **Dudchenko O** , Chan EKF, Minoche AE, Edwards RJ, Barton K, Lyons RJ, Tuipulotu DE, Hayes VM, D Omer A, Colaric Z, Skvortsova K, Bogdanovic O, Smith MA, Aiden EL, Smith TPL, Zammit RA, Ballard JWO, Keilwagen J. Canfam_GSD: De novo chromosome-length genome assembly of the German Shepherd Dog (Canis lupus familiaris) using a combination of long reads, optical mapping, and Hi-C. Gigascience. 2020 04 01; 9(4). PMID: [32236524](//www.ncbi.nlm.nih.gov/pubmed/32236524); PMCID: [PMC7111595](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7111595).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32236524/citedby/) Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:AnimalsCells
+
+  43. Mead D, Hailer F, Chadwick E, Portela Miguez R, Smith M, Corton C, Oliver K, Skelton J, Betteridge E, Doulcan JD, **Dudchenko O** , Omer A, Weisz D, Lieberman Aiden E, McCarthy S, Howe K, Sims Y, Torrance J, Tracey A, Challis R, Durbin R, Blaxter M. The genome sequence of the Eurasian river otter, Lutra lutra Linnaeus 1758. Wellcome Open Res. 2020; 5:33. PMID: [32258427](//www.ncbi.nlm.nih.gov/pubmed/32258427); PMCID: [PMC7097881](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7097881).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32258427/citedby/)
+
+  44. Mead D, Fingland K, Cripps R, Portela Miguez R, Smith M, Corton C, Oliver K, Skelton J, Betteridge E, Dolucan J, **Dudchenko O** , Omer AD, Weisz D, Lieberman Aiden E, Fedrigo O, Mountcastle J, Jarvis E, McCarthy SA, Sims Y, Torrance J, Tracey A, Howe K, Challis R, Durbin R, Blaxter M. The genome sequence of the Eurasian red squirrel, Sciurus vulgaris Linnaeus 1758. Wellcome Open Res. 2020; 5:18. PMID: [32587897](//www.ncbi.nlm.nih.gov/pubmed/32587897); PMCID: [PMC7309416](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7309416).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32587897/citedby/)
+
+  45. Bertioli DJ, Jenkins J, Clevenger J, **Dudchenko O** , Gao D, Leal-Bertioli SCM, Ren L, Farmer AD, Pandey MK, Abernathy B, Agarwal G, Cameron C, Campbell J, Chavarro C, Chitikineni A, Chu Y, Dash S, Guo B, Huang W, Kim KD, Korani W, Lui CG, Pham M, Shin JH, Shirasawa K, Sinharoy S, Sreedasyam A, Weeks NT, Zhang X, Zheng Z, Sun Z, Froenicke L, Aiden EL, Michelmore R, Varshney RK, Holbrook CC, Cannon EKS, Scheffler BE, Grimwood J, Ozias-Akins P, Cannon SB, Jackson SA, Schmutz J, Seijo G, Samoluk SS, Ball?n-Taborda C, El Baidouri M, Lanciano S, Mirouze M, Moretzsohn MC. The genome sequence of segmental allotetraploid peanut Arachis hypogaea. Nat Genet. 2019 05; 51(5):877-884. PMID: [31043755](//www.ncbi.nlm.nih.gov/pubmed/31043755).
+
+Citations:
+[134](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31043755/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  46. Matthews BJ, **Dudchenko O** , Kingan SB, Koren S, Antoshechkin I, Crawford JE, Glassford WJ, Herre M, Redmond SN, Rose NH, Weedall GD, Wu Y, Batra SS, Brito-Sierra CA, Buckingham SD, Campbell CL, Chan S, Cox E, Evans BR, Fansiri T, Filipovic I, Fontaine A, Gloria-Soria A, Hall R, Joardar VS, Jones AK, Kay RGG, Kodali VK, Lee J, Lycett GJ, Mitchell SN, Muehling J, Murphy MR, Omer AD, Partridge FA, Peluso P, [Aiden AP](https://profiles.viictr.org/profile/23478751), Ramasamy V, Roy S, Saavedra-Rodriguez K, Sharan S, Sharma A, Smith ML, Turner J, Weakley AM, Zhao Z, Akbari OS, Black WC, Cao H, Darby AC, Hill CA, Johnston JS, Murphy TD, Raikhel AS, Sattelle DB, Sharakhov IV, White BJ, Zhao L, Aiden EL, Mann RS, Lambrechts L, Powell JR, Sharakhova MV, Tu Z, Robertson HM, McBride CS, Hastie AR, Korlach J, Neafsey DE, Phillippy AM, Vosshall LB, Ra?ic G. Improved reference genome of Aedes aegypti informs arbovirus vector control. Nature. 2018 11; 563(7732):501-507. PMID: [30429615](//www.ncbi.nlm.nih.gov/pubmed/30429615); PMCID: [PMC6421076](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6421076).
+
+Citations:
+[142](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30429615/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCellsPHPublic Health
+
+  47. Larsen PA, Harris RA, Liu Y, Murali SC, Campbell CR, Brown AD, Sullivan BA, Shelton J, Brown SJ, Raveendran M, **Dudchenko O** , Machol I, Durand NC, Shamim MS, Aiden EL, [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), Yoder AD, Rogers J, [Worley KC](https://profiles.viictr.org/profile/266909). Hybrid de novo genome assembly and centromere characterization of the gray mouse lemur (Microcebus murinus). BMC Biol. 2017 Nov 16; 15(1):110. PMID: [29145861](//www.ncbi.nlm.nih.gov/pubmed/29145861); PMCID: [PMC5689209](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5689209).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29145861/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  48. **Dudchenko O** , Batra SS, Omer AD, Nyquist SK, Hoeger M, Durand NC, Shamim MS, Machol I, Lander ES, [Aiden AP](https://profiles.viictr.org/profile/23478751), Aiden EL. De novo assembly of the Aedes aegypti genome using Hi-C yields chromosome-length scaffolds. Science. 2017 04 07; 356(6333):92-95. PMID: [28336562](//www.ncbi.nlm.nih.gov/pubmed/28336562); PMCID: [PMC5635820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5635820).
+
+Citations:
+[407](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28336562/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  49. Darrow EM, Huntley MH, **Dudchenko O** , Stamenova EK, Durand NC, Sun Z, Huang SC, Sanborn AL, Machol I, Shamim M, Seberg AP, Lander ES, Chadwick BP, Aiden EL. Deletion of DXZ4 on the human inactive X chromosome alters higher-order genome architecture. Proc Natl Acad Sci U S A. 2016 08 02; 113(31):E4504-12. PMID: [27432957](//www.ncbi.nlm.nih.gov/pubmed/27432957); PMCID: [PMC4978254](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4978254).
+
+Citations:
+[114](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27432957/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 49 publications over 9 distinct years, with a maximum of
+15 publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|15&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,13,7,7,33,60,73,100,27&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2016| 1  
+2017| 2  
+2018| 1  
+2019| 1  
+2020| 5  
+2021| 9  
+2022| 11  
+2023| 15  
+2024| 4  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+DUDCHENKO's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (168)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Genome](https://profiles.viictr.org/profile/257539)
+  * [Chromosomes](https://profiles.viictr.org/profile/251027)
+  * [Aedes](https://profiles.viictr.org/profile/243898)
+  * [Mammals](https://profiles.viictr.org/profile/247696)
+  * [Genome, Insect](https://profiles.viictr.org/profile/252873)
+
+[Explore](https://profiles.viictr.org/profile/3010058/198)
+
+_
+
+Co-Authors (9)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [AIDEN, AVIVA](https://profiles.viictr.org/profile/23478751)
+  * [Adastra, Per](https://profiles.viictr.org/profile/22016510)
+  * [GKOUNTAROULIS, DIMOS](https://profiles.viictr.org/profile/30142271)
+  * [WORLEY, KIM](https://profiles.viictr.org/profile/266909)
+  * [MULTANI, ASHA S](https://profiles.viictr.org/profile/12582542)
+
+[Explore](https://profiles.viictr.org/profile/3010058/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [WORLEY, KIM](https://profiles.viictr.org/profile/266909)
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [MUZNY, DONNA](https://profiles.viictr.org/profile/268028)
+
+[Explore](https://profiles.viictr.org/profile/3010058/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BAJIC, ALEKSANDAR](https://profiles.viictr.org/profile/3010475)
+  * [IRA, GRZEGORZ](https://profiles.viictr.org/profile/269248)
+  * [MOKRY, JILL](https://profiles.viictr.org/profile/8759805)
+  * [STANKIEWICZ, PAWEL](https://profiles.viictr.org/profile/269299)
+  * [VENNER, ERIC](https://profiles.viictr.org/profile/21983624)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BURRAGE, LINDSAY](https://profiles.viictr.org/profile/3010239)
+  * [QIN, XIANG](https://profiles.viictr.org/profile/267418)
+  * [SCHERER, STEVEN](https://profiles.viictr.org/profile/266857)
+  * [SMITH, JANICE](https://profiles.viictr.org/profile/268567)
+  * [WANG, MENG](https://profiles.viictr.org/profile/266251)
+
+_
+

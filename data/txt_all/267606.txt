@@ -1,0 +1,634 @@
+## NUMAN OEZGUEN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| 1102 BATES  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=GL494GuJD47vQZro7lvAKbnCIhWf&rnd=c4b98d75-af19-4b5a-a853-34e20d22e198)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267606)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267606&cachekey=b65bfbf8-b881-4e4f-9a39-a263a17c21cd)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Oezguen N** , Rider NL, Dowlin M, Singh I. Identifying Region-Specific Allergy Sensitization Clusters to Optimize Diagnosis and Reduce Costs. J Pediatr. 2024 Jul; 270:113999. PMID: [38431194](//www.ncbi.nlm.nih.gov/pubmed/38431194).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  2. Patel H, Harris RA, Qian JH, **Oezguen N** , Watson A, Szigeti RG, Cho S, [Ruan W](https://profiles.viictr.org/profile/22016564), [Britto S](https://profiles.viictr.org/profile/22016565), [Opekun A](https://profiles.viictr.org/profile/267804), [Preidis G](https://profiles.viictr.org/profile/6714426), [Kellermayer R](https://profiles.viictr.org/profile/265522), Kellermayer R. Genetic Variation Between Small Bowel and Colon-Predominant Crohn's Disease. Cell Mol Gastroenterol Hepatol. 2024; 17(6):1069-1071. PMID: [38369131](//www.ncbi.nlm.nih.gov/pubmed/38369131); PMCID: [PMC11127623](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11127623).
+
+Citations:  Fields:
+
+Gas Gastroenterology
+
+  3. [Engevik KA](https://profiles.viictr.org/profile/28999455), Gonzalez H, Daniels C, Stavert RK, **Oezguen N** , Engevik MA, Horvath TD. A high-throughput protocol for measuring solution pH of bacterial cultures using UV-Vis absorption spectrophotometry. STAR Protoc. 2023 Sep 15; 4(3):102540. PMID: [37682718](//www.ncbi.nlm.nih.gov/pubmed/37682718); PMCID: [PMC10493592](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10493592).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37682718/citedby/) Fields:
+
+Bio BiologySci Science
+
+  4. Legere RM, Allegro AR, Affram Y, Silveira BPD, Fridley JL, Wells KM, **Oezguen N** , Burghardt RC, Wright GA, [Pollet J](https://profiles.viictr.org/profile/16102688), Bordin AI, Figueiredo P, Leibowitz JL, Cohen ND. Equine bronchial epithelial cells are susceptible to cell entry with a SARS-CoV-2 pseudovirus but reveal low replication efficiency. Am J Vet Res. 2023 Sep 01; 84(9). PMID: [37442546](//www.ncbi.nlm.nih.gov/pubmed/37442546).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37442546/citedby/) Fields:
+
+Vet Veterinary Medicine
+
+Translation:HumansAnimalsCells
+
+  5. [Hotez PJ](https://profiles.viictr.org/profile/266166), Adhikari R, [Chen WH](https://profiles.viictr.org/profile/23478750), Chen YL, Gillespie P, Islam NY, Keegan B, Tyagi Kundu R, Lee J, Liu Z, [Kimata JT](https://profiles.viictr.org/profile/268949), **Oezguen N** , [Pollet J](https://profiles.viictr.org/profile/16102688), [Poveda C](https://profiles.viictr.org/profile/37834418), Razavi K, [Ronca SE](https://profiles.viictr.org/profile/17678422), [Strych U](https://profiles.viictr.org/profile/8065526), [Thimmiraju SR](https://profiles.viictr.org/profile/35015443), Versteeg L, Villar-Mondragon MJ, Wei J, [Zhan B](https://profiles.viictr.org/profile/266656), [Bottazzi ME](https://profiles.viictr.org/profile/269365). From concept to delivery: a yeast-expressed recombinant protein-based COVID-19 vaccine technology suitable for global access. Expert Rev Vaccines. 2023 Jan-Dec; 22(1):495-500. PMID: [37252854](//www.ncbi.nlm.nih.gov/pubmed/37252854).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37252854/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  6. Horvath TD, Haidacher SJ, Engevik MA, Luck B, [Ruan W](https://profiles.viictr.org/profile/22016564), [Ihekweazu F](https://profiles.viictr.org/profile/268730), Bajaj M, Hoch KM, **Oezguen N** , [Spinler JK](https://profiles.viictr.org/profile/265508), [Versalovic J](https://profiles.viictr.org/profile/269718), [Haag AM](https://profiles.viictr.org/profile/8183325). Interrogation of the mammalian gut-brain axis using LC-MS/MS-based targeted metabolomics with in vitro bacterial and organoid cultures and in vivo gnotobiotic mouse models. Nat Protoc. 2023 02; 18(2):490-529. PMID: [36352124](//www.ncbi.nlm.nih.gov/pubmed/36352124).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36352124/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesSci Science
+
+Translation:AnimalsCells
+
+  7. **Oezguen N** , Yilmaz V, Horvath TD, Akbayir E, Haidacher SJ, Hoch KM, Thapa S, Palacio J, T?rkoglu R, K?rt?nc? M, Engevik MA, [Versalovic J](https://profiles.viictr.org/profile/269718), [Haag AM](https://profiles.viictr.org/profile/8183325), T?z?n E. Serum 3-phenyllactic acid level is reduced in benign multiple sclerosis and is associated with effector B cell ratios. Mult Scler Relat Disord. 2022 Dec; 68:104239. PMID: [36279598](//www.ncbi.nlm.nih.gov/pubmed/36279598).
+
+Citations:  Fields:
+
+Neu Neurology
+
+  8. Horvath TD, [Ihekweazu FD](https://profiles.viictr.org/profile/268730), Haidacher SJ, [Ruan W](https://profiles.viictr.org/profile/22016564), [Engevik KA](https://profiles.viictr.org/profile/28999455), Fultz R, Hoch KM, [Luna RA](https://profiles.viictr.org/profile/268217), **Oezguen N** , [Spinler JK](https://profiles.viictr.org/profile/265508), [Haag AM](https://profiles.viictr.org/profile/8183325), [Versalovic J](https://profiles.viictr.org/profile/269718), Engevik MA. Bacteroides ovatus colonization influences the abundance of intestinal short chain fatty acids and neurotransmitters. iScience. 2022 May 20; 25(5):104158. PMID: [35494230](//www.ncbi.nlm.nih.gov/pubmed/35494230); PMCID: [PMC9038548](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9038548).
+
+Citations:
+
+  9. [Kellermayer R](https://profiles.viictr.org/profile/265522), Wu Q, Nagy-Szakal D, Queliza K, [Ihekweazu FD](https://profiles.viictr.org/profile/268730), [Bocchini CE](https://profiles.viictr.org/profile/267713), Magee AR, **Oezguen N** , [Spinler JK](https://profiles.viictr.org/profile/265508), Hollister EB, [Shulman RJ](https://profiles.viictr.org/profile/266712), [Versalovic J](https://profiles.viictr.org/profile/269718), [Luna RA](https://profiles.viictr.org/profile/268217), [Savidge TC](https://profiles.viictr.org/profile/270090). Fecal Microbiota Transplantation Commonly Failed in Children With Co-Morbidities. J Pediatr Gastroenterol Nutr. 2022 02 01; 74(2):227-235. PMID: [34724447](//www.ncbi.nlm.nih.gov/pubmed/34724447); PMCID: [PMC8799498](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8799498).
+
+Citations:  Fields:
+
+Gas GastroenterologyNut Nutritional SciencesPed Pediatrics
+
+Translation:HumansCells
+
+  10. Thapa S, [Luna RA](https://profiles.viictr.org/profile/268217), Chumpitazi BP, **Oezguen N** , Abdel-Rahman SM, Garg U, [Musaad S](https://profiles.viictr.org/profile/28999429), [Versalovic J](https://profiles.viictr.org/profile/269718), Kearns GL, [Shulman RJ](https://profiles.viictr.org/profile/266712). Peppermint oil effects on the gut microbiome in children with functional abdominal pain. Clin Transl Sci. 2022 04; 15(4):1036-1049. PMID: [35048535](//www.ncbi.nlm.nih.gov/pubmed/35048535); PMCID: [PMC9010253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9010253).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35048535/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  11. Luck B, Horvath TD, [Engevik KA](https://profiles.viictr.org/profile/28999455), [Ruan W](https://profiles.viictr.org/profile/22016564), Haidacher SJ, Hoch KM, **Oezguen N** , [Spinler JK](https://profiles.viictr.org/profile/265508), [Haag AM](https://profiles.viictr.org/profile/8183325), [Versalovic J](https://profiles.viictr.org/profile/269718), Engevik MA. Neurotransmitter Profiles Are Altered in the Gut and Brain of Mice Mono-Associated with Bifidobacterium dentium. Biomolecules. 2021 07 23; 11(8). PMID: [34439760](//www.ncbi.nlm.nih.gov/pubmed/34439760); PMCID: [PMC8392031](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8392031).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34439760/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:AnimalsCells
+
+  12. Gonzales-Luna AJ, [Spinler JK](https://profiles.viictr.org/profile/265508), **Oezguen N** , Khan MAW, [Danhof HA](https://profiles.viictr.org/profile/17622867), Endres BT, Alam MJ, Begum K, Lancaster C, Costa GP, [Savidge TC](https://profiles.viictr.org/profile/270090), Hurdle JG, Britton R, [Garey KW](https://profiles.viictr.org/profile/268841). Systems biology evaluation of refractory Clostridioides difficile infection including multiple failures of fecal microbiota transplantation. Anaerobe. 2021 Aug; 70:102387. PMID: [34044101](//www.ncbi.nlm.nih.gov/pubmed/34044101); PMCID: [PMC8384661](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8384661).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34044101/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  13. Norsigian CJ, [Danhof HA](https://profiles.viictr.org/profile/17622867), Brand CK, **Oezguen N** , [Midani FS](https://profiles.viictr.org/profile/24845342), Palsson BO, [Savidge TC](https://profiles.viictr.org/profile/270090), Britton RA, [Spinler JK](https://profiles.viictr.org/profile/265508), Monk JM. Systems biology analysis of the Clostridioides difficile core-genome contextualizes microenvironmental evolutionary pressures leading to genotypic and phenotypic divergence. NPJ Syst Biol Appl. 2020 10 20; 6(1):31. PMID: [33082337](//www.ncbi.nlm.nih.gov/pubmed/33082337); PMCID: [PMC7576604](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7576604).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33082337/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Cells
+
+  14. [Spinler JK](https://profiles.viictr.org/profile/265508), **Oezguen N** , Runge JK, [Luna RA](https://profiles.viictr.org/profile/268217), Karri V, Yang J, [Hirschi KD](https://profiles.viictr.org/profile/267007). Dietary impact of a plant-derived microRNA on the gut microbiome. ExRNA. 2020; 2. PMID: [33542959](//www.ncbi.nlm.nih.gov/pubmed/33542959); PMCID: [PMC7856875](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7856875).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33542959/citedby/)
+
+  15. Horvath TD, Haidacher SJ, **Oezguen N** , Hoch KM, Auchtung JM, [Haag AM](https://profiles.viictr.org/profile/8183325). Ruggedness testing of liquid chromatography-tandem mass spectrometry system components using microbiome-relevant methods and matrices. J Microbiol Methods. 2020 10; 177:106020. PMID: [32795635](//www.ncbi.nlm.nih.gov/pubmed/32795635).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32795635/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  16. Hall AE, Engevik MA, **Oezguen N** , [Haag A](https://profiles.viictr.org/profile/8183325), [Versalovic J](https://profiles.viictr.org/profile/269718). ClC transporter activity modulates histidine catabolism in Lactobacillus reuteri by altering intracellular pH and membrane potential. Microb Cell Fact. 2019 Dec 12; 18(1):212. PMID: [31830990](//www.ncbi.nlm.nih.gov/pubmed/31830990); PMCID: [PMC6909576](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6909576).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31830990/citedby/) Fields:
+
+Bio BiotechnologyMic Microbiology
+
+Translation:Cells
+
+  17. **Oezguen N** , Yalcinkaya N, Dahdouli M, Hollister EB, [Luna RA](https://profiles.viictr.org/profile/268217), [Savidge TC](https://profiles.viictr.org/profile/270090), K?c?kali CI, T?rkoglu R, K?rt?nc? M, Eraksoy M, T?z?n E. Microbiota stratification identifies disease-specific alterations in neuro-Beh?et's disease and multiple sclerosis. Clin Exp Rheumatol. 2019 Nov-Dec; 37 Suppl 121(6):58-66. PMID: [31172918](//www.ncbi.nlm.nih.gov/pubmed/31172918).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31172918/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:Humans
+
+  18. Hollister EB, **Oezguen N** , Chumpitazi BP, [Luna RA](https://profiles.viictr.org/profile/268217), Weidler EM, Rubio-Gonzales M, Dahdouli M, Cope JL, Mistretta TA, Raza S, Metcalf GA, [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino JF](https://profiles.viictr.org/profile/267058), Heitkemper M, [Savidge TC](https://profiles.viictr.org/profile/270090), [Shulman RJ](https://profiles.viictr.org/profile/266712), [Versalovic J](https://profiles.viictr.org/profile/269718). Leveraging Human Microbiome Features to Diagnose and Stratify Children with Irritable Bowel Syndrome. J Mol Diagn. 2019 05; 21(3):449-461. PMID: [31005411](//www.ncbi.nlm.nih.gov/pubmed/31005411); PMCID: [PMC6504675](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6504675).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31005411/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  19. [Spinler JK](https://profiles.viictr.org/profile/265508), Auchtung J, Brown A, Boonma P, **Oezguen N** , [Luna RA](https://profiles.viictr.org/profile/268217), Runge J, [Versalovic J](https://profiles.viictr.org/profile/269718), Peniche A, Dann SM, [Britton RA](https://profiles.viictr.org/profile/8950240), [Haag A](https://profiles.viictr.org/profile/8183325), [Savidge TC](https://profiles.viictr.org/profile/270090), Ross CL. Next-Generation Probiotics Targeting Clostridium difficile through Precursor-Directed Antimicrobial Biosynthesis. Infect Immun. 2017 10; 85(10). PMID: [28760934](//www.ncbi.nlm.nih.gov/pubmed/28760934); PMCID: [PMC5607411](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5607411).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28760934/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansCells
+
+  20. Labus JS, Hollister EB, Jacobs J, Kirbach K, **Oezguen N** , Gupta A, Acosta J, [Luna RA](https://profiles.viictr.org/profile/268217), Aagaard K, [Versalovic J](https://profiles.viictr.org/profile/269718), [Savidge T](https://profiles.viictr.org/profile/270090), Hsiao E, Tillisch K, Mayer EA. Differences in gut microbial composition correlate with regional brain volumes in irritable bowel syndrome. Microbiome. 2017 05 01; 5(1):49. PMID: [28457228](//www.ncbi.nlm.nih.gov/pubmed/28457228); PMCID: [PMC5410709](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5410709).
+
+Citations:
+[95](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28457228/citedby/) Fields:
+
+Gen GeneticsMic Microbiology
+
+Translation:HumansCells
+
+  21. [Luna RA](https://profiles.viictr.org/profile/268217), **Oezguen N** , Balderas M, Venkatachalam A, Runge JK, [Versalovic J](https://profiles.viictr.org/profile/269718), Veenstra-VanderWeele J, Anderson GM, [Savidge T](https://profiles.viictr.org/profile/270090), Williams KC. Distinct Microbiome-Neuroimmune Signatures Correlate With?Functional Abdominal Pain in Children With Autism Spectrum Disorder. Cell Mol Gastroenterol Hepatol. 2017 Mar; 3(2):218-230. PMID: [28275689](//www.ncbi.nlm.nih.gov/pubmed/28275689); PMCID: [PMC5331780](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5331780).
+
+Citations:
+[94](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28275689/citedby/) Fields:
+
+Gas Gastroenterology
+
+  22. Chen D, **Oezguen N** , Urvil P, Ferguson C, Dann SM, [Savidge TC](https://profiles.viictr.org/profile/270090). Regulation of protein-ligand binding affinity by hydrogen bond pairing. Sci Adv. 2016 03; 2(3):e1501240. PMID: [27051863](//www.ncbi.nlm.nih.gov/pubmed/27051863); PMCID: [PMC4820369](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4820369).
+
+Citations:
+[84](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27051863/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  23. von Mentzer A, Abd El Ghany M, **Oezguen N** , [Savidge T](https://profiles.viictr.org/profile/270090), Dougan G, Svennerholm AM, Joffr? E, Sj?ling ?. Allele variants of enterotoxigenic Escherichia coli heat-labile toxin are globally transmitted and associated with colonization factors. J Bacteriol. 2015 Jan; 197(2):392-403. PMID: [25404692](//www.ncbi.nlm.nih.gov/pubmed/25404692); PMCID: [PMC4272596](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4272596).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25404692/citedby/) Fields:
+
+Bac Bacteriology
+
+  24. Li S, Shi L, Yang Z, Zhang Y, Perez-Cordon G, Huang T, Ramsey J, **Oezguen N** , [Savidge TC](https://profiles.viictr.org/profile/270090), Feng H. Critical roles of Clostridium difficile toxin B enzymatic activities in pathogenesis. Infect Immun. 2015 Feb; 83(2):502-13. PMID: [25404023](//www.ncbi.nlm.nih.gov/pubmed/25404023); PMCID: [PMC4294253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4294253).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25404023/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansAnimalsCells
+
+  25. Endsley MA, Somasunderam AD, Li G, **Oezguen N** , Thiviyanathan V, Murray JL, Rubin DH, Hodge TW, O'Brien WA, Lewis B, Ferguson MR. Nuclear trafficking of the HIV-1 pre-integration complex depends on the ADAM10 intracellular domain. Virology. 2014 Apr; 454-455:60-6. PMID: [24725932](//www.ncbi.nlm.nih.gov/pubmed/24725932); PMCID: [PMC4018752](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4018752).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24725932/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  26. Chumpitazi BP, Hollister EB, **Oezguen N** , Tsai CM, McMeans AR, [Luna RA](https://profiles.viictr.org/profile/268217), [Savidge TC](https://profiles.viictr.org/profile/270090), [Versalovic J](https://profiles.viictr.org/profile/269718), [Shulman RJ](https://profiles.viictr.org/profile/266712). Gut microbiota influences low fermentable substrate diet efficacy in children with irritable bowel syndrome. Gut Microbes. 2014 Mar-Apr; 5(2):165-75. PMID: [24637601](//www.ncbi.nlm.nih.gov/pubmed/24637601); PMCID: [PMC4063841](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4063841).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24637601/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansCells
+
+  27. Hegde ML, Tsutakawa SE, Hegde PM, Holthauzen LM, Li J, **Oezguen N** , Hilser VJ, [Tainer JA](https://profiles.viictr.org/profile/17440132), Mitra S. The disordered C-terminal domain of human DNA glycosylase NEIL1 contributes to its stability via intramolecular interactions. J Mol Biol. 2013 Jul 10; 425(13):2359-71. PMID: [23542007](//www.ncbi.nlm.nih.gov/pubmed/23542007); PMCID: [PMC3779128](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3779128).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23542007/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Cells
+
+  28. Apte-Sengupta S, Negi S, Leonard VH, **Oezguen N** , Navaratnarajah CK, Braun W, Cattaneo R. Base of the measles virus fusion trimer head receives the signal that triggers membrane fusion. J Biol Chem. 2012 Sep 21; 287(39):33026-35. PMID: [22859308](//www.ncbi.nlm.nih.gov/pubmed/22859308); PMCID: [PMC3463363](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3463363).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22859308/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  29. **Oezguen N** , Power TD, Urvil P, Feng H, Pothoulakis C, Stamler JS, Braun W, [Savidge TC](https://profiles.viictr.org/profile/270090). Clostridial toxins: sensing a target in a hostile gut environment. Gut Microbes. 2012 Jan-Feb; 3(1):35-41. PMID: [22356854](//www.ncbi.nlm.nih.gov/pubmed/22356854); PMCID: [PMC3337123](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3337123).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22356854/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansCells
+
+  30. **Oezguen N** , Mantha AK, Izumi T, Schein CH, Mitra S, Braun W. MD simulation and experimental evidence for Mg?+ binding at the B site in human AP endonuclease 1. Bioinformation. 2011; 7(4):184-98. PMID: [22102776](//www.ncbi.nlm.nih.gov/pubmed/22102776); PMCID: [PMC3218521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3218521).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22102776/citedby/)
+
+  31. Bhavnani SK, Victor S, Calhoun WJ, Busse WW, Bleecker E, Castro M, Ju H, Pillai R, **Oezguen N** , Bellala G, Brasier AR. How cytokines co-occur across asthma patients: from bipartite network analysis to a molecular-based classification. J Biomed Inform. 2011 Dec; 44 Suppl 1:S24-S30. PMID: [21986291](//www.ncbi.nlm.nih.gov/pubmed/21986291); PMCID: [PMC3277832](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3277832).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21986291/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  32. **Oezguen N** , Kumar S. Analysis of Cytochrome P450 Conserved Sequence Motifs between Helices E and H: Prediction of Critical Motifs and Residues in Enzyme Functions. J Drug Metab Toxicol. 2011 Aug 30; 2:1000110. PMID: [25426333](//www.ncbi.nlm.nih.gov/pubmed/25426333); PMCID: [PMC4241269](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4241269).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25426333/citedby/)
+
+  33. [Savidge TC](https://profiles.viictr.org/profile/270090), Urvil P, **Oezguen N** , Ali K, Choudhury A, Acharya V, Pinchuk I, Torres AG, English RD, Wiktorowicz JE, Loeffelholz M, Kumar R, Shi L, Nie W, Braun W, Herman B, Hausladen A, Feng H, Stamler JS, Pothoulakis C. Host S-nitrosylation inhibits clostridial small molecule-activated glucosylating toxins. Nat Med. 2011 Aug 21; 17(9):1136-41. PMID: [21857653](//www.ncbi.nlm.nih.gov/pubmed/21857653); PMCID: [PMC3277400](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3277400).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21857653/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  34. Navaratnarajah CK, **Oezguen N** , Rupp L, Kay L, Leonard VH, Braun W, Cattaneo R. The heads of the measles virus attachment protein move to transmit the fusion-triggering signal. Nat Struct Mol Biol. 2011 Feb; 18(2):128-34. PMID: [21217701](//www.ncbi.nlm.nih.gov/pubmed/21217701); PMCID: [PMC3059746](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3059746).
+
+Citations:
+[70](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21217701/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  35. Schein CH, **Oezguen N** , van der Heden van Noort GJ, Filippov DV, Paul A, Kumar E, Braun W. NMR solution structure of poliovirus uridylyated peptide linked to the genome (VPgpU). Peptides. 2010 Aug; 31(8):1441-8. PMID: [20441784](//www.ncbi.nlm.nih.gov/pubmed/20441784); PMCID: [PMC2905501](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2905501).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20441784/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  36. Kumar S, Qiu H, **Oezguen N** , Herlyn H, Halpert JR, Wojnowski L. Ligand diversity of human and chimpanzee CYP3A4: activation of human CYP3A4 by lithocholic acid results from positive selection. Drug Metab Dispos. 2009 Jun; 37(6):1328-33. PMID: [19299527](//www.ncbi.nlm.nih.gov/pubmed/19299527); PMCID: [PMC2683693](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2683693).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19299527/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  37. Ivanciuc O, Schein CH, Garcia T, **Oezguen N** , Negi SS, Braun W. Structural analysis of linear and conformational epitopes of allergens. Regul Toxicol Pharmacol. 2009 Aug; 54(3 Suppl):S11-9. PMID: [19121639](//www.ncbi.nlm.nih.gov/pubmed/19121639); PMCID: [PMC2716428](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2716428).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19121639/citedby/) Fields:
+
+Pha PharmacologyTox Toxicology
+
+Translation:Cells
+
+  38. **Oezguen N** , Zhou B, Negi SS, Ivanciuc O, Schein CH, Labesse G, Braun W. Comprehensive 3D-modeling of allergenic proteins and amino acid composition of potential conformational IgE epitopes. Mol Immunol. 2008 Aug; 45(14):3740-7. PMID: [18621419](//www.ncbi.nlm.nih.gov/pubmed/18621419); PMCID: [PMC2593650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2593650).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18621419/citedby/) Fields:
+
+All Allergy and ImmunologyMol Molecular Biology
+
+Translation:Cells
+
+  39. Leonard VH, Sinn PL, Hodge G, Miest T, Devaux P, **Oezguen N** , Braun W, McCray PB, McChesney MB, Cattaneo R. Measles virus blind to its epithelial cell receptor remains virulent in rhesus monkeys but cannot cross the airway epithelium and is not shed. J Clin Invest. 2008 Jul; 118(7):2448-58. PMID: [18568079](//www.ncbi.nlm.nih.gov/pubmed/18568079); PMCID: [PMC2430500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2430500).
+
+Citations:
+[128](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18568079/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  40. **Oezguen N** , Kumar S, Hindupur A, Braun W, Muralidhara BK, Halpert JR. Identification and analysis of conserved sequence motifs in cytochrome P450 family 2. Functional and structural role of a motif 187RFDYKD192 in CYP2B enzymes. J Biol Chem. 2008 Aug 01; 283(31):21808-16. PMID: [18495666](//www.ncbi.nlm.nih.gov/pubmed/18495666); PMCID: [PMC2490781](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2490781).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18495666/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  41. Mantha AK, **Oezguen N** , Bhakat KK, Izumi T, Braun W, Mitra S. Unusual role of a cysteine residue in substrate binding and activity of human AP-endonuclease 1. J Mol Biol. 2008 May 23; 379(1):28-37. PMID: [18436236](//www.ncbi.nlm.nih.gov/pubmed/18436236); PMCID: [PMC2708089](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2708089).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18436236/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  42. Navaratnarajah CK, Vongpunsawad S, **Oezguen N** , Stehle T, Braun W, Hashiguchi T, Maenaka K, Yanagi Y, Cattaneo R. Dynamic interaction of the measles virus hemagglutinin with its receptor signaling lymphocytic activation molecule (SLAM, CD150). J Biol Chem. 2008 Apr 25; 283(17):11763-71. PMID: [18292085](//www.ncbi.nlm.nih.gov/pubmed/18292085); PMCID: [PMC2431048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2431048).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18292085/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  43. Negi SS, Schein CH, **Oezguen N** , Power TD, Braun W. InterProSurf: a web server for predicting interacting sites on protein surfaces. Bioinformatics. 2007 Dec 15; 23(24):3397-9. PMID: [17933856](//www.ncbi.nlm.nih.gov/pubmed/17933856); PMCID: [PMC2636624](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2636624).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17933856/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Cells
+
+  44. **Oezguen N** , Schein CH, Peddi SR, Power TD, Izumi T, Braun W. A "moving metal mechanism" for substrate cleavage by the DNA repair endonuclease APE-1. Proteins. 2007 Jul 01; 68(1):313-23. PMID: [17427952](//www.ncbi.nlm.nih.gov/pubmed/17427952).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17427952/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  45. Schein CH, Volk DE, **Oezguen N** , Paul A. Novel, structure-based mechanism for uridylylation of the genome-linked peptide (VPg) of picornaviruses. Proteins. 2006 Jun 01; 63(4):719-26. PMID: [16498624](//www.ncbi.nlm.nih.gov/pubmed/16498624).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16498624/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  46. Schein CH, **Oezguen N** , Volk DE, Garimella R, Paul A, Braun W. NMR structure of the viral peptide linked to the genome (VPg) of poliovirus. Peptides. 2006 Jul; 27(7):1676-84. PMID: [16540201](//www.ncbi.nlm.nih.gov/pubmed/16540201); PMCID: [PMC1629084](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1629084).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16540201/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  47. von Messling V, **Oezguen N** , Zheng Q, Vongpunsawad S, Braun W, Cattaneo R. Nearby clusters of hemagglutinin residues sustain SLAM-dependent canine distemper virus entry in peripheral blood mononuclear cells. J Virol. 2005 May; 79(9):5857-62. PMID: [15827201](//www.ncbi.nlm.nih.gov/pubmed/15827201); PMCID: [PMC1082760](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1082760).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15827201/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  48. Schein CH, Zhou B, **Oezguen N** , Mathura VS, Braun W. Molego-based definition of the architecture and specificity of metal-binding sites. Proteins. 2005 Jan 01; 58(1):200-10. PMID: [15505785](//www.ncbi.nlm.nih.gov/pubmed/15505785).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15505785/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  49. Ivanciuc O, **Oezguen N** , Mathura VS, Schein CH, Xu Y, Braun W. Using property based sequence motifs and 3D modeling to determine structure and functional regions of proteins. Curr Med Chem. 2004 Mar; 11(5):583-93. PMID: [15032606](//www.ncbi.nlm.nih.gov/pubmed/15032606).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15032606/citedby/) Fields:
+
+Che Chemistry
+
+Translation:HumansCells
+
+  50. Izumi T, Schein CH, **Oezguen N** , Feng Y, Braun W. Effects of backbone contacts 3' to the abasic site on the cleavage and the product binding by human apurinic/apyrimidinic endonuclease (APE1). Biochemistry. 2004 Jan 27; 43(3):684-9. PMID: [14730972](//www.ncbi.nlm.nih.gov/pubmed/14730972).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14730972/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  51. Vongpunsawad S, Oezgun N, Braun W, Cattaneo R. Selectively receptor-blind measles viruses: Identification of residues necessary for SLAM- or CD46-induced fusion and their localization on a new hemagglutinin structural model. J Virol. 2004 Jan; 78(1):302-13. PMID: [14671112](//www.ncbi.nlm.nih.gov/pubmed/14671112); PMCID: [PMC303414](//www.ncbi.nlm.nih.gov/pmc/articles/PMC303414).
+
+Citations:
+[106](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14671112/citedby/)
+Fields:
+
+Vir Virology
+
+Translation:HumansAnimalsCells
+
+  52. Schein CH, Izumi T, Braun W, Ozg?n N. Total sequence decomposition distinguishes functional modules, "molegos" in apurinic/apyrimidinic endonucleases. BMC Bioinformatics. 2002 Nov 25; 3:37. PMID: [12445335](//www.ncbi.nlm.nih.gov/pubmed/12445335); PMCID: [PMC149231](//www.ncbi.nlm.nih.gov/pmc/articles/PMC149231).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12445335/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansCells
+
+  53. Murtazina D, Puchkaev AV, Schein CH, **Oezguen N** , Braun W, Nanavati A, Pikuleva IA. Membrane-protein interactions contribute to efficient 27-hydroxylation of cholesterol by mitochondrial cytochrome P450 27A1. J Biol Chem. 2002 Oct 04; 277(40):37582-9. PMID: [12124390](//www.ncbi.nlm.nih.gov/pubmed/12124390).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12124390/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  54. **Oezguen N** , Adamian L, Xu Y, Rajarathnam K, Braun W. Automated assignment and 3D structure calculations using combinations of 2D homonuclear and 3D heteronuclear NOESY spectra. J Biomol NMR. 2002 Mar; 22(3):249-63. PMID: [11991354](//www.ncbi.nlm.nih.gov/pubmed/11991354).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11991354/citedby/) Fields:
+
+Mol Molecular BiologyNuc Nuclear Medicine
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 54 publications over 20 distinct years, with a maximum of
+6 publications in
+2008](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,50,0,50,33,33,33,100,17,17,83,33,17,67,0,33,33,0,50,50,33,83,50,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 3  
+2004| 3  
+2005| 2  
+2006| 2  
+2007| 2  
+2008| 6  
+2009| 1  
+2010| 1  
+2011| 5  
+2012| 2  
+2013| 1  
+2014| 4  
+2016| 2  
+2017| 2  
+2019| 3  
+2020| 3  
+2021| 2  
+2022| 5  
+2023| 3  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+OEZGUEN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (295)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Immunoglobulin E](https://profiles.viictr.org/profile/249039)
+  * [Multiple Sclerosis](https://profiles.viictr.org/profile/255794)
+  * [Allergens](https://profiles.viictr.org/profile/250531)
+  * [B-Lymphocyte Subsets](https://profiles.viictr.org/profile/251156)
+  * [Models, Molecular](https://profiles.viictr.org/profile/255643)
+
+[Explore](https://profiles.viictr.org/profile/267606/198)
+
+_
+
+Co-Authors (34)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SAVIDGE, TOR](https://profiles.viictr.org/profile/270090)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [HAAG, ANTHONY](https://profiles.viictr.org/profile/8183325)
+  * [LUNA, RUTH](https://profiles.viictr.org/profile/268217)
+  * [SPINLER, JENNIFER](https://profiles.viictr.org/profile/265508)
+
+[Explore](https://profiles.viictr.org/profile/267606/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [GAREY, KEVIN](https://profiles.viictr.org/profile/268841)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [SAVIDGE, TOR](https://profiles.viictr.org/profile/270090)
+  * [KELLERMAYER, RICHARD](https://profiles.viictr.org/profile/265522)
+
+[Explore](https://profiles.viictr.org/profile/267606/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [HUTTENBACH, YVE](https://profiles.viictr.org/profile/269545)
+  * [LACORAZZA, DANIEL](https://profiles.viictr.org/profile/267876)
+  * [MULDREW, KENNETH](https://profiles.viictr.org/profile/20201893)
+  * [NAGI, CHANDANDEEP](https://profiles.viictr.org/profile/6998780)
+  * [PALANIAPPAN, MURUGESAN](https://profiles.viictr.org/profile/3010392)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [DEVARAJ, SRIDEVI](https://profiles.viictr.org/profile/266182)
+  * [LOPEZ-TERRADA, DOLORES](https://profiles.viictr.org/profile/266283)
+  * [SAVIDGE, TOR](https://profiles.viictr.org/profile/270090)
+  * [YE, YING](https://profiles.viictr.org/profile/266291)
+  * [ZARRIN-KHAMEH, NEDA](https://profiles.viictr.org/profile/269793)
+
+_
+

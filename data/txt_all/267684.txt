@@ -1,0 +1,682 @@
+## RAINER LANZ
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JKcx73%2fnIoj4CIrp9Q%3d%3d&rnd=8368a204-4b19-45e8-a05e-57f5385f5951)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267684)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267684&cachekey=95cb24cd-4d42-4957-9ec1-f8e06b1049ab)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [McClendon LK](https://profiles.viictr.org/profile/266065), **Lanz RB** , Panigrahi A, Gomez K, Bolt MJ, Liu M, Stossi F, [Mancini MA](https://profiles.viictr.org/profile/268178), [Dacso CC](https://profiles.viictr.org/profile/266413), [Lonard DM](https://profiles.viictr.org/profile/269800), [O'Malley BW](https://profiles.viictr.org/profile/269511). Transcriptional coactivation of NRF2 signaling in cardiac fibroblasts promotes resistance to oxidative stress. J Mol Cell Cardiol. 2024 Jul 04; 194:70-84. PMID: [38969334](//www.ncbi.nlm.nih.gov/pubmed/38969334).
+
+Citations:  Fields:
+
+Car CardiologyCel Cell BiologyMol Molecular Biology
+
+  2. Chadchan SB, [Popli P](https://profiles.viictr.org/profile/36746665), [Liao Z](https://profiles.viictr.org/profile/34768175), Andreas E, Dias M, Wang T, Gunderson SJ, Jimenez PT, [Lanza DG](https://profiles.viictr.org/profile/3009682), **Lanz RB** , [Foulds CE](https://profiles.viictr.org/profile/267919), [Monsivais D](https://profiles.viictr.org/profile/3708897), [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Yalamanchili HK](https://profiles.viictr.org/profile/8950236), Jungheim ES, [Heaney JD](https://profiles.viictr.org/profile/268694), [Lydon JP](https://profiles.viictr.org/profile/269737), Moley KH, [O'Malley BW](https://profiles.viictr.org/profile/269511), Kommagani R. A GREB1-steroid receptor feedforward mechanism governs differential GREB1 action in endometrial function and endometriosis. Nat Commun. 2024 Mar 02; 15(1):1947. PMID: [38431630](//www.ncbi.nlm.nih.gov/pubmed/38431630); PMCID: [PMC10908778](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10908778).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimals
+
+  3. Hern?ndez-Garc?a A, [Pendleton KE](https://profiles.viictr.org/profile/31189474), Kim S, Li Y, Kim BJ, Zaveri HP, Jordan VK, Berry AM, [Ljungberg MC](https://profiles.viictr.org/profile/270195), Chen R, **Lanz RB** , [Scott DA](https://profiles.viictr.org/profile/269153). SOX7 deficiency causes ventricular septal defects through its effects on endocardial-to-mesenchymal transition and the expression of Wnt4 and Bmp2. Hum Mol Genet. 2023 06 19; 32(13):2152-2161. PMID: [37000005](//www.ncbi.nlm.nih.gov/pubmed/37000005); PMCID: [PMC10281751](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10281751).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37000005/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:Animals
+
+  4. Han SJ, [Jain P](https://profiles.viictr.org/profile/13152877), [Gilad Y](https://profiles.viictr.org/profile/19118342), Xia Y, Sung N, Park MJ, Dean AM, **Lanz RB** , Xu J, [Dacso CC](https://profiles.viictr.org/profile/266413), [Lonard DM](https://profiles.viictr.org/profile/269800), [O'Malley BW](https://profiles.viictr.org/profile/269511). Steroid receptor coactivator 3 is a key modulator of regulatory T cell-mediated tumor evasion. Proc Natl Acad Sci U S A. 2023 06 06; 120(23):e2221707120. PMID: [37253006](//www.ncbi.nlm.nih.gov/pubmed/37253006); PMCID: [PMC10266015](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10266015).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37253006/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  5. Han SJ, [Jain P](https://profiles.viictr.org/profile/13152877), [Gilad Y](https://profiles.viictr.org/profile/19118342), Xia Y, Sung N, Park MJ, Dean AM, **Lanz RB** , Xu J, [Dacso CC](https://profiles.viictr.org/profile/266413), [Lonard DM](https://profiles.viictr.org/profile/269800), [O'Malley BW](https://profiles.viictr.org/profile/269511). Steroid Receptor Coactivator-3 is a Key Modulator of Regulatory T Cell-Mediated Tumor Evasion. bioRxiv. 2023 Mar 29. PMID: [37034717](//www.ncbi.nlm.nih.gov/pubmed/37034717); PMCID: [PMC10081245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10081245).
+
+Citations:
+
+  6. [Richards JS](https://profiles.viictr.org/profile/267831), Candelaria NR, **Lanz RB**. Polyploid giant cancer cells and ovarian cancer: new insights into mitotic regulators and polyploidy?. Biol Reprod. 2021 08 03; 105(2):305-316. PMID: [34037700](//www.ncbi.nlm.nih.gov/pubmed/34037700); PMCID: [PMC8335353](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8335353).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34037700/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansAnimalsCells
+
+  7. Ding Y, Liu Y, Lee DK, Tong Z, [Yu X](https://profiles.viictr.org/profile/3009724), Li Y, [Xu Y](https://profiles.viictr.org/profile/269314), **Lanz RB** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Xu J. Cell lineage tracing links ERa loss in Erbb2-positive breast cancers to the arising of a highly aggressive breast cancer subtype. Proc Natl Acad Sci U S A. 2021 05 25; 118(21). PMID: [34006643](//www.ncbi.nlm.nih.gov/pubmed/34006643); PMCID: [PMC8166171](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8166171).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34006643/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  8. Wetendorf M, Li R, Wu SP, Liu J, [Creighton CJ](https://profiles.viictr.org/profile/265729), Wang T, Janardhan KS, Willson CJ, **Lanz RB** , [Lydon JP](https://profiles.viictr.org/profile/269737), [DeMayo FJ](https://profiles.viictr.org/profile/267848), Murphy BD. Constitutive expression of progesterone receptor isoforms promotes the development of hormone-dependent ovarian neoplasms. Sci Signal. 2020 10 06; 13(652). PMID: [33023986](//www.ncbi.nlm.nih.gov/pubmed/33023986); PMCID: [PMC10251233](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10251233).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33023986/citedby/) Fields:
+
+Cel Cell BiologyPhy PhysiologySci Science
+
+Translation:HumansAnimalsCells
+
+  9. Szwarc MM, Hai L, [Gibbons WE](https://profiles.viictr.org/profile/265879), Mo Q, **Lanz RB** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Lydon JP](https://profiles.viictr.org/profile/269737). Early growth response 1 transcriptionally primes the human endometrial stromal cell for decidualization. J Steroid Biochem Mol Biol. 2019 05; 189:283-290. PMID: [30711473](//www.ncbi.nlm.nih.gov/pubmed/30711473); PMCID: [PMC6566904](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6566904).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30711473/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  10. Vasquez YM, Wang X, Wetendorf M, Franco HL, Mo Q, Wang T, **Lanz RB** , Young SL, Lessey BA, Spencer TE, [Lydon JP](https://profiles.viictr.org/profile/269737), [DeMayo FJ](https://profiles.viictr.org/profile/267848). FOXO1 regulates uterine epithelial integrity and progesterone receptor expression critical for embryo implantation. PLoS Genet. 2018 11; 14(11):e1007787. PMID: [30452456](//www.ncbi.nlm.nih.gov/pubmed/30452456); PMCID: [PMC6277115](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6277115).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30452456/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  11. Wang X, Li X, Wang T, Wu SP, Jeong JW, Kim TH, Young SL, Lessey BA, **Lanz RB** , [Lydon JP](https://profiles.viictr.org/profile/269737), [DeMayo FJ](https://profiles.viictr.org/profile/267848). SOX17 regulates uterine epithelial-stromal cross-talk acting via a distal enhancer upstream of Ihh. Nat Commun. 2018 10 24; 9(1):4421. PMID: [30356064](//www.ncbi.nlm.nih.gov/pubmed/30356064); PMCID: [PMC6200785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6200785).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30356064/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  12. Szwarc MM, Hai L, [Gibbons WE](https://profiles.viictr.org/profile/265879), White LD, Mo Q, Kommagani R, **Lanz RB** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), [O'Malley BW](https://profiles.viictr.org/profile/269511), [Lydon JP](https://profiles.viictr.org/profile/269737). Retinoid signaling controlled by SRC-2 in decidualization revealed by transcriptomics Reproduction. 2018 10 16; 156(5):387-395. PMID: [30325183](//www.ncbi.nlm.nih.gov/pubmed/30325183); PMCID: [PMC6208442](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6208442).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30325183/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansCells
+
+  13. Szwarc MM, Kommagani R, Putluri V, Dubrulle J, Stossi F, [Mancini MA](https://profiles.viictr.org/profile/268178), [Coarfa C](https://profiles.viictr.org/profile/265668), **Lanz RB** , [Putluri N](https://profiles.viictr.org/profile/269361), [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Lydon JP](https://profiles.viictr.org/profile/269737), [O'Malley BW](https://profiles.viictr.org/profile/269511). Steroid Receptor Coactivator-2 Controls the Pentose Phosphate Pathway through RPIA in Human Endometrial Cancer Cells. Sci Rep. 2018 09 03; 8(1):13134. PMID: [30177747](//www.ncbi.nlm.nih.gov/pubmed/30177747); PMCID: [PMC6120906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6120906).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30177747/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  14. Chen CY, **Lanz RB** , [Walkey CJ](https://profiles.viictr.org/profile/29494097), Chang WH, Lu W, Johnson DL. Maf1 and Repression of RNA Polymerase III-Mediated Transcription Drive Adipocyte Differentiation. Cell Rep. 2018 08 14; 24(7):1852-1864. PMID: [30110641](//www.ncbi.nlm.nih.gov/pubmed/30110641); PMCID: [PMC6138453](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6138453).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30110641/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  15. [Panigrahi AK](https://profiles.viictr.org/profile/265628), [Foulds CE](https://profiles.viictr.org/profile/267919), **Lanz RB** , Hamilton RA, [Yi P](https://profiles.viictr.org/profile/267727), [Lonard DM](https://profiles.viictr.org/profile/269800), [Tsai MJ](https://profiles.viictr.org/profile/267651), [Tsai SY](https://profiles.viictr.org/profile/266552), [O'Malley BW](https://profiles.viictr.org/profile/269511). SRC-3 Coactivator Governs Dynamic Estrogen-Induced Chromatin Looping Interactions during Transcription. Mol Cell. 2018 05 17; 70(4):679-694.e7. PMID: [29775582](//www.ncbi.nlm.nih.gov/pubmed/29775582); PMCID: [PMC5966282](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5966282).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29775582/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  16. Szwarc MM, Hai L, [Gibbons WE](https://profiles.viictr.org/profile/265879), Peavey MC, White LD, Mo Q, [Lonard DM](https://profiles.viictr.org/profile/269800), Kommagani R, **Lanz RB** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Lydon JP](https://profiles.viictr.org/profile/269737). Human endometrial stromal cell decidualization requires transcriptional reprogramming by PLZF. Biol Reprod. 2018 01 01; 98(1):15-27. PMID: [29186366](//www.ncbi.nlm.nih.gov/pubmed/29186366); PMCID: [PMC5819842](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5819842).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29186366/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:HumansCells
+
+  17. Wu RC, Zeng Y, Chen YF, **Lanz RB** , Wu MY. Temporal-Spatial Establishment of Initial Niche for the Primary Spermatogonial Stem Cell Formation Is Determined by an ARID4B Regulatory Network. Stem Cells. 2017 06; 35(6):1554-1565. PMID: [28207192](//www.ncbi.nlm.nih.gov/pubmed/28207192); PMCID: [PMC5743547](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5743547).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28207192/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  18. Wetendorf M, Wu SP, Wang X, [Creighton CJ](https://profiles.viictr.org/profile/265729), Wang T, **Lanz RB** , Blok L, [Tsai SY](https://profiles.viictr.org/profile/266552), [Tsai MJ](https://profiles.viictr.org/profile/267651), [Lydon JP](https://profiles.viictr.org/profile/269737), [DeMayo FJ](https://profiles.viictr.org/profile/267848). Decreased epithelial progesterone receptor A at the window of receptivity is required for preparation of the endometrium for embryo attachment. Biol Reprod. 2017 02 01; 96(2):313-326. PMID: [28203817](//www.ncbi.nlm.nih.gov/pubmed/28203817); PMCID: [PMC6225975](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6225975).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28203817/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:AnimalsCells
+
+  19. Rubel CA, Wu SP, Lin L, Wang T, **Lanz RB** , Li X, Kommagani R, Franco HL, Camper SA, [Tong Q](https://profiles.viictr.org/profile/269140), Jeong JW, [Lydon JP](https://profiles.viictr.org/profile/269737), [DeMayo FJ](https://profiles.viictr.org/profile/267848). A Gata2-Dependent Transcription Network Regulates Uterine Progesterone Responsiveness and Endometrial Function. Cell Rep. 2016 10 25; 17(5):1414-1425. PMID: [27783953](//www.ncbi.nlm.nih.gov/pubmed/27783953); PMCID: [PMC5084852](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5084852).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27783953/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  20. Zhang Z, **Lanz RB** , Xiao L, Wang L, [Hartig SM](https://profiles.viictr.org/profile/268501), [Ittmann MM](https://profiles.viictr.org/profile/269566), [Feng Q](https://profiles.viictr.org/profile/267850), He B. The tumor suppressive miR-200b subfamily is an ERG target gene in human prostate tumors. Oncotarget. 2016 Jun 21; 7(25):37993-38003. PMID: [27191272](//www.ncbi.nlm.nih.gov/pubmed/27191272); PMCID: [PMC5122366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5122366).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27191272/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  21. Xiao L, **Lanz RB** , Frolov A, [Castro PD](https://profiles.viictr.org/profile/268709), Zhang Z, Dong B, Xue W, Jung SY, [Lydon JP](https://profiles.viictr.org/profile/269737), Edwards DP, [Mancini MA](https://profiles.viictr.org/profile/268178), [Feng Q](https://profiles.viictr.org/profile/267850), [Ittmann MM](https://profiles.viictr.org/profile/269566), He B. The Germ Cell Gene TDRD1 as an ERG Target Gene and a Novel Prostate Cancer Biomarker. Prostate. 2016 10; 76(14):1271-84. PMID: [27272765](//www.ncbi.nlm.nih.gov/pubmed/27272765).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27272765/citedby/) Fields:
+
+Uro Urology
+
+Translation:HumansAnimalsCells
+
+  22. Kommagani R, Szwarc MM, Vasquez YM, Peavey MC, Mazur EC, [Gibbons WE](https://profiles.viictr.org/profile/265879), **Lanz RB** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Lydon JP](https://profiles.viictr.org/profile/269737). The Promyelocytic Leukemia Zinc Finger Transcription Factor Is Critical for Human Endometrial Stromal Cell Decidualization. PLoS Genet. 2016 Apr; 12(4):e1005937. PMID: [27035670](//www.ncbi.nlm.nih.gov/pubmed/27035670); PMCID: [PMC4817989](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4817989).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27035670/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  23. [Nikolai BC](https://profiles.viictr.org/profile/1826673), **Lanz RB** , York B, [Dasgupta S](https://profiles.viictr.org/profile/3010259), Mitsiades N, [Creighton CJ](https://profiles.viictr.org/profile/265729), Tsimelzon A, [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), [Lonard DM](https://profiles.viictr.org/profile/269800), Smith CL, [O'Malley BW](https://profiles.viictr.org/profile/269511). HER2 Signaling Drives DNA Anabolism and Proliferation through SRC-3 Phosphorylation and E2F1-Regulated Genes. Cancer Res. 2016 Mar 15; 76(6):1463-75. PMID: [26833126](//www.ncbi.nlm.nih.gov/pubmed/26833126); PMCID: [PMC4794399](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4794399).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26833126/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  24. [Foulds CE](https://profiles.viictr.org/profile/267919), [Panigrahi AK](https://profiles.viictr.org/profile/265628), [Coarfa C](https://profiles.viictr.org/profile/265668), **Lanz RB** , [O'Malley BW](https://profiles.viictr.org/profile/269511). Long Noncoding RNAs as Targets and Regulators of Nuclear Receptors. Curr Top Microbiol Immunol. 2016; 394:143-76. PMID: [26362934](//www.ncbi.nlm.nih.gov/pubmed/26362934).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26362934/citedby/) Fields:
+
+All Allergy and ImmunologyMic Microbiology
+
+Translation:HumansCells
+
+  25. Mazur EC, Vasquez YM, Li X, Kommagani R, Jiang L, [Chen R](https://profiles.viictr.org/profile/266790), **Lanz RB** , Kovanci E, [Gibbons WE](https://profiles.viictr.org/profile/265879), [DeMayo FJ](https://profiles.viictr.org/profile/267848). Progesterone receptor transcriptome and cistrome in decidualized human endometrial stromal cells. Endocrinology. 2015 Jun; 156(6):2239-53. PMID: [25781565](//www.ncbi.nlm.nih.gov/pubmed/25781565); PMCID: [PMC4430623](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4430623).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25781565/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansCells
+
+  26. [Yi P](https://profiles.viictr.org/profile/267727), [Feng Q](https://profiles.viictr.org/profile/267850), [Foulds CE](https://profiles.viictr.org/profile/267919), **Lanz RB** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Wang Z, Pintilie GD, [Ludtke SJ](https://profiles.viictr.org/profile/270167), Schmid MF, Chiu W. Structure of a biologically active estrogen receptor-coactivator complex on DNA. Mol Cell. 2015 Mar 19; 57(6):1047-1058. PMID: [25728767](//www.ncbi.nlm.nih.gov/pubmed/25728767); PMCID: [PMC4369429](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4369429).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25728767/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  27. Vasquez YM, Mazur EC, Li X, Kommagani R, Jiang L, Chen R, **Lanz RB** , Kovanci E, [Gibbons WE](https://profiles.viictr.org/profile/265879), [DeMayo FJ](https://profiles.viictr.org/profile/267848). FOXO1 is required for binding of PR on IRF4, novel transcriptional regulator of endometrial stromal decidualization. Mol Endocrinol. 2015 Mar; 29(3):421-33. PMID: [25584414](//www.ncbi.nlm.nih.gov/pubmed/25584414); PMCID: [PMC4347287](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4347287).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25584414/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  28. He B, **Lanz RB** , [Fiskus W](https://profiles.viictr.org/profile/17440164), Geng C, Yi P, [Hartig SM](https://profiles.viictr.org/profile/268501), Rajapakshe K, Shou J, Wei L, Shah SS, Foley C, Chew SA, Eedunuri VK, Bedoya DJ, [Feng Q](https://profiles.viictr.org/profile/267850), Minami T, Mitsiades CS, Frolov A, [Weigel NL](https://profiles.viictr.org/profile/266556), [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Rosen DG, [Palzkill T](https://profiles.viictr.org/profile/269759), [Ittmann MM](https://profiles.viictr.org/profile/269566), Song Y, [Coarfa C](https://profiles.viictr.org/profile/265668), [O'Malley BW](https://profiles.viictr.org/profile/269511), Mitsiades N. GATA2 facilitates steroid receptor coactivator recruitment to the androgen receptor complex. Proc Natl Acad Sci U S A. 2014 Dec 23; 111(51):18261-6. PMID: [25489091](//www.ncbi.nlm.nih.gov/pubmed/25489091); PMCID: [PMC4280633](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4280633).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25489091/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  29. Qin J, Lee HJ, Wu SP, Lin SC, **Lanz RB** , [Creighton CJ](https://profiles.viictr.org/profile/265729), [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Tsai SY](https://profiles.viictr.org/profile/266552), [Tsai MJ](https://profiles.viictr.org/profile/267651). Androgen deprivation-induced NCoA2 promotes metastatic and castration-resistant prostate cancer. J Clin Invest. 2014 Nov; 124(11):5013-26. PMID: [25295534](//www.ncbi.nlm.nih.gov/pubmed/25295534); PMCID: [PMC4347241](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4347241).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25295534/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  30. Large MJ, Wetendorf M, **Lanz RB** , [Hartig SM](https://profiles.viictr.org/profile/268501), [Creighton CJ](https://profiles.viictr.org/profile/265729), [Mancini MA](https://profiles.viictr.org/profile/268178), Kovanci E, Lee KF, Threadgill DW, [Lydon JP](https://profiles.viictr.org/profile/269737), Jeong JW, [DeMayo FJ](https://profiles.viictr.org/profile/267848). The epidermal growth factor receptor critically regulates endometrial function during early pregnancy. PLoS Genet. 2014 Jun; 10(6):e1004451. PMID: [24945252](//www.ncbi.nlm.nih.gov/pubmed/24945252); PMCID: [PMC4063709](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4063709).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24945252/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  31. [Feng Q](https://profiles.viictr.org/profile/267850), Zhang Z, Shea MJ, [Creighton CJ](https://profiles.viictr.org/profile/265729), [Coarfa C](https://profiles.viictr.org/profile/265668), [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), **Lanz R** , He B, Wang L, Fu X, Nardone A, [Song Y](https://profiles.viictr.org/profile/266042), Bradner J, Mitsiades N, Mitsiades CS, Osborne CK, [Schiff R](https://profiles.viictr.org/profile/269128), [O'Malley BW](https://profiles.viictr.org/profile/269511). An epigenomic approach to therapy for tamoxifen-resistant breast cancer. Cell Res. 2014 Jul; 24(7):809-19. PMID: [24874954](//www.ncbi.nlm.nih.gov/pubmed/24874954); PMCID: [PMC4085766](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4085766).
+
+Citations:
+[96](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24874954/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  32. Hewitt SC, Li L, Grimm SA, Winuthayanon W, Hamilton KJ, Pockette B, Rubel CA, Pedersen LC, Fargo D, **Lanz RB** , [DeMayo FJ](https://profiles.viictr.org/profile/267848), Korach KS, Sch?tz G. Novel DNA motif binding activity observed in vivo with an estrogen receptor a mutant mouse. Mol Endocrinol. 2014 Jun; 28(6):899-911. PMID: [24713037](//www.ncbi.nlm.nih.gov/pubmed/24713037); PMCID: [PMC4042070](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4042070).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24713037/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  33. Stashi E, **Lanz RB** , [Mao J](https://profiles.viictr.org/profile/269646), Michailidis G, Zhu B, Kettner NM, [Putluri N](https://profiles.viictr.org/profile/269361), Reineke EL, Reineke LC, [Dasgupta S](https://profiles.viictr.org/profile/3010259), Dean A, Stevenson CR, Sivasubramanian N, [Sreekumar A](https://profiles.viictr.org/profile/266636), [Demayo F](https://profiles.viictr.org/profile/267848), York B, [Fu L](https://profiles.viictr.org/profile/268379), [O'Malley BW](https://profiles.viictr.org/profile/269511). SRC-2 is an essential coactivator for orchestrating metabolism and circadian rhythm. Cell Rep. 2014 Feb 27; 6(4):633-45. PMID: [24529706](//www.ncbi.nlm.nih.gov/pubmed/24529706); PMCID: [PMC4096300](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4096300).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24529706/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  34. Li X, Large MJ, [Creighton CJ](https://profiles.viictr.org/profile/265729), **Lanz RB** , Jeong JW, Young SL, Lessey BA, Palomino WA, [Tsai SY](https://profiles.viictr.org/profile/266552), [Demayo FJ](https://profiles.viictr.org/profile/267848). COUP-TFII regulates human endometrial stromal genes involved in inflammation. Mol Endocrinol. 2013 Dec; 27(12):2041-54. PMID: [24176914](//www.ncbi.nlm.nih.gov/pubmed/24176914); PMCID: [PMC3857200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3857200).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24176914/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  35. Wu SP, Cheng CM, **Lanz RB** , Wang T, Respress JL, Ather S, Chen W, [Tsai SJ](https://profiles.viictr.org/profile/266552), [Wehrens XH](https://profiles.viictr.org/profile/270302), Tsai MJ, Tsai SY. Atrial identity is determined by a COUP-TFII regulatory network. Dev Cell. 2013 May 28; 25(4):417-26. PMID: [23725765](//www.ncbi.nlm.nih.gov/pubmed/23725765); PMCID: [PMC3687546](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3687546).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23725765/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  36. Redfern AD, Colley SM, Beveridge DJ, Ikeda N, Epis MR, Li X, [Foulds CE](https://profiles.viictr.org/profile/267919), Stuart LM, Barker A, Russell VJ, Ramsay K, Kobelke SJ, Li X, Hatchell EC, Payne C, Giles KM, Messineo A, Gatignol A, **Lanz RB** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Leedman PJ. RNA-induced silencing complex (RISC) Proteins PACT, TRBP, and Dicer are SRA binding nuclear receptor coregulators. Proc Natl Acad Sci U S A. 2013 Apr 16; 110(16):6536-41. PMID: [23550157](//www.ncbi.nlm.nih.gov/pubmed/23550157); PMCID: [PMC3631673](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3631673).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23550157/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  37. [Hartig SM](https://profiles.viictr.org/profile/268501), He B, Newberg JY, Ochsner SA, Loose DS, **Lanz RB** , [McKenna NJ](https://profiles.viictr.org/profile/268182), Buehrer BM, [McGuire SE](https://profiles.viictr.org/profile/12583840), [Marcelli M](https://profiles.viictr.org/profile/266959), [Mancini MA](https://profiles.viictr.org/profile/268178). Feed-forward inhibition of androgen receptor activity by glucocorticoid action in human adipocytes. Chem Biol. 2012 Sep 21; 19(9):1126-41. PMID: [22999881](//www.ncbi.nlm.nih.gov/pubmed/22999881); PMCID: [PMC4259876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4259876).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22999881/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:HumansAnimalsCells
+
+  38. Rubel CA, **Lanz RB** , Kommagani R, Franco HL, [Lydon JP](https://profiles.viictr.org/profile/269737), [DeMayo FJ](https://profiles.viictr.org/profile/267848). Research resource: Genome-wide profiling of progesterone receptor binding in the mouse uterus. Mol Endocrinol. 2012 Aug; 26(8):1428-42. PMID: [22638070](//www.ncbi.nlm.nih.gov/pubmed/22638070); PMCID: [PMC3404303](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3404303).
+
+Citations:
+[71](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22638070/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  39. Mazloom AR, Dannenfelser R, Clark NR, Grigoryan AV, Linder KM, Cardozo TJ, Bond JC, Boran AD, Iyengar R, [Malovannaya A](https://profiles.viictr.org/profile/3010185), **Lanz RB** , Ma'ayan A. Recovering protein-protein and domain-domain interactions from aggregation of IP-MS proteomics of coregulator complexes. PLoS Comput Biol. 2011 Dec; 7(12):e1002319. PMID: [22219718](//www.ncbi.nlm.nih.gov/pubmed/22219718); PMCID: [PMC3248428](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3248428).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22219718/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansAnimalsCells
+
+  40. [Malovannaya A](https://profiles.viictr.org/profile/3010185), **Lanz RB** , Jung SY, Bulynko Y, Le NT, Chan DW, Ding C, Shi Y, Yucer N, Krenciute G, Kim BJ, Li C, [Chen R](https://profiles.viictr.org/profile/266790), Li W, Wang Y, [O'Malley BW](https://profiles.viictr.org/profile/269511), Qin J. Analysis of the human endogenous coregulator complexome. Cell. 2011 May 27; 145(5):787-99. PMID: [21620140](//www.ncbi.nlm.nih.gov/pubmed/21620140); PMCID: [PMC3131083](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3131083).
+
+Citations:
+[207](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21620140/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  41. He B, Kim TH, Kommagani R, [Feng Q](https://profiles.viictr.org/profile/267850), **Lanz RB** , Jeong JW, [DeMayo FJ](https://profiles.viictr.org/profile/267848), Katzenellenbogen BS, [Lydon JP](https://profiles.viictr.org/profile/269737), [O'Malley BW](https://profiles.viictr.org/profile/269511). Estrogen-regulated prohibitin is required for mouse uterine development and adult function. Endocrinology. 2011 Mar; 152(3):1047-56. PMID: [21209023](//www.ncbi.nlm.nih.gov/pubmed/21209023); PMCID: [PMC3040048](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3040048).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21209023/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansAnimalsCells
+
+  42. **Lanz RB** , Bulynko Y, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Labhart P, Wang L, Li W, Qin J, Harper M, [O'Malley BW](https://profiles.viictr.org/profile/269511). Global characterization of transcriptional impact of the SRC-3 coregulator. Mol Endocrinol. 2010 Apr; 24(4):859-72. PMID: [20181721](//www.ncbi.nlm.nih.gov/pubmed/20181721); PMCID: [PMC2852354](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2852354).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20181721/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  43. [Malovannaya A](https://profiles.viictr.org/profile/3010185), Li Y, Bulynko Y, Jung SY, Wang Y, **Lanz RB** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Qin J. Streamlined analysis schema for high-throughput identification of endogenous protein complexes. Proc Natl Acad Sci U S A. 2010 Feb 09; 107(6):2431-6. PMID: [20133760](//www.ncbi.nlm.nih.gov/pubmed/20133760); PMCID: [PMC2823922](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2823922).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20133760/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  44. [McKenna NJ](https://profiles.viictr.org/profile/268182), Cooney AJ, [DeMayo FJ](https://profiles.viictr.org/profile/267848), Downes M, Glass CK, **Lanz RB** , Lazar MA, Mangelsdorf DJ, Moore DD, Qin J, Steffen DL, Tsai MJ, [Tsai SY](https://profiles.viictr.org/profile/266552), Yu R, Margolis RN, Evans RM, [O'Malley BW](https://profiles.viictr.org/profile/269511). Minireview: Evolution of NURSA, the Nuclear Receptor Signaling Atlas. Mol Endocrinol. 2009 Jun; 23(6):740-6. PMID: [19423650](//www.ncbi.nlm.nih.gov/pubmed/19423650); PMCID: [PMC2691684](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2691684).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19423650/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:Cells
+
+  45. [O'Malley BW](https://profiles.viictr.org/profile/269511), Qin J, **Lanz RB**. Cracking the coregulator codes. Curr Opin Cell Biol. 2008 Jun; 20(3):310-5. PMID: [18499426](//www.ncbi.nlm.nih.gov/pubmed/18499426); PMCID: [PMC3647352](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3647352).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18499426/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  46. [Lonard DM](https://profiles.viictr.org/profile/269800), **Lanz RB** , [O'Malley BW](https://profiles.viictr.org/profile/269511). Nuclear receptor coregulators and human disease. Endocr Rev. 2007 Aug; 28(5):575-87. PMID: [17609497](//www.ncbi.nlm.nih.gov/pubmed/17609497).
+
+Citations:
+[135](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17609497/citedby/)
+Fields:
+
+End Endocrinology
+
+Translation:HumansAnimals
+
+  47. Han SJ, Jung SY, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Kim T, **Lanz RB** , Qin J, [O'Malley BW](https://profiles.viictr.org/profile/269511). A scoring system for the follow up study of nuclear receptor coactivator complexes. Nucl Recept Signal. 2006; 4:e014. PMID: [16862220](//www.ncbi.nlm.nih.gov/pubmed/16862220); PMCID: [PMC1513068](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1513068).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16862220/citedby/) Fields:
+
+Bio Biochemistry
+
+  48. Hatchell EC, Colley SM, Beveridge DJ, Epis MR, Stuart LM, Giles KM, Redfern AD, Miles LE, Barker A, MacDonald LM, Arthur PG, Lui JC, Golding JL, McCulloch RK, Metcalf CB, Wilce JA, Wilce MC, **Lanz RB** , [O'Malley BW](https://profiles.viictr.org/profile/269511), Leedman PJ. SLIRP, a small SRA binding protein, is a nuclear receptor corepressor. Mol Cell. 2006 Jun 09; 22(5):657-68. PMID: [16762838](//www.ncbi.nlm.nih.gov/pubmed/16762838).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16762838/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  49. **Lanz RB** , Jericevic Z, Zuercher WJ, Watkins C, Steffen DL, Margolis R, [McKenna NJ](https://profiles.viictr.org/profile/268182). Nuclear Receptor Signaling Atlas (www.nursa.org): hyperlinking the nuclear receptor signaling community. Nucleic Acids Res. 2006 Jan 01; 34(Database issue):D221-6. PMID: [16381851](//www.ncbi.nlm.nih.gov/pubmed/16381851); PMCID: [PMC1347392](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1347392).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16381851/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  50. Vlahopoulos S, Zimmer WE, Jenster G, Belaguli NS, Balk SP, Brinkmann AO, **Lanz RB** , Zoumpourlis VC, [Schwartz RJ](https://profiles.viictr.org/profile/267508). Recruitment of the androgen receptor via serum response factor facilitates expression of a myogenic gene. J Biol Chem. 2005 Mar 04; 280(9):7786-92. PMID: [15623502](//www.ncbi.nlm.nih.gov/pubmed/15623502).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15623502/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  51. Coleman KM, Lam V, Jaber BM, **Lanz RB** , Smith CL. SRA coactivation of estrogen receptor-alpha is phosphorylation-independent, and enhances 4-hydroxytamoxifen agonist activity. Biochem Biophys Res Commun. 2004 Oct 08; 323(1):332-8. PMID: [15351741](//www.ncbi.nlm.nih.gov/pubmed/15351741).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15351741/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansCells
+
+  52. Zhang Z, Burch PE, Cooney AJ, **Lanz RB** , Pereira FA, Wu J, [Gibbs RA](https://profiles.viictr.org/profile/269695), Weinstock G, [Wheeler DA](https://profiles.viictr.org/profile/266937). Genomic analysis of the nuclear receptor family: new insights into structure, regulation, and evolution from the rat genome. Genome Res. 2004 Apr; 14(4):580-90. PMID: [15059999](//www.ncbi.nlm.nih.gov/pubmed/15059999); PMCID: [PMC383302](//www.ncbi.nlm.nih.gov/pmc/articles/PMC383302).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15059999/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  53. Apostolakis EM, **Lanz R** , [O'Malley BW](https://profiles.viictr.org/profile/269511). Pituitary adenylate cyclase-activating peptide: a pivotal modulator of steroid-induced reproductive behavior in female rodents. Mol Endocrinol. 2004 Jan; 18(1):173-83. PMID: [14593074](//www.ncbi.nlm.nih.gov/pubmed/14593074).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14593074/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:Animals
+
+  54. **Lanz RB** , Chua SS, Barron N, [DeMayo F](https://profiles.viictr.org/profile/267848), [O'Malley BW](https://profiles.viictr.org/profile/269511), S?der BM. Steroid receptor RNA activator stimulates proliferation as well as apoptosis in vivo. Mol Cell Biol. 2003 Oct; 23(20):7163-76. PMID: [14517287](//www.ncbi.nlm.nih.gov/pubmed/14517287); PMCID: [PMC230309](//www.ncbi.nlm.nih.gov/pmc/articles/PMC230309).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14517287/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  55. Falender AE, **Lanz R** , Malenfant D, Belanger L, [Richards JS](https://profiles.viictr.org/profile/267831). Differential expression of steroidogenic factor-1 and FTF/LRH-1 in the rodent ovary. Endocrinology. 2003 Aug; 144(8):3598-610. PMID: [12865342](//www.ncbi.nlm.nih.gov/pubmed/12865342).
+
+Citations:
+[60](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12865342/citedby/) Fields:
+
+End Endocrinology
+
+Translation:AnimalsCells
+
+  56. Daufeldt S, **Lanz R** , All?ra A. Membrane-initiated steroid signaling (MISS): genomic steroid action starts at the plasma membrane. J Steroid Biochem Mol Biol. 2003 May; 85(1):9-23. PMID: [12798353](//www.ncbi.nlm.nih.gov/pubmed/12798353).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12798353/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:AnimalsCells
+
+  57. **Lanz RB** , Razani B, Goldberg AD, [O'Malley BW](https://profiles.viictr.org/profile/269511). Distinct RNA motifs are important for coactivation of steroid hormone receptors by steroid receptor RNA activator (SRA). Proc Natl Acad Sci U S A. 2002 Dec 10; 99(25):16081-6. PMID: [12444263](//www.ncbi.nlm.nih.gov/pubmed/12444263); PMCID: [PMC138568](//www.ncbi.nlm.nih.gov/pmc/articles/PMC138568).
+
+Citations:
+[58](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12444263/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 57 publications over 21 distinct years, with a maximum of
+7 publications in
+2018](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,14,57,43,0,43,14,14,14,29,43,29,43,86,43,86,29,100,14,14,29,0,43,29&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 1  
+2003| 4  
+2004| 3  
+2006| 3  
+2007| 1  
+2008| 1  
+2009| 1  
+2010| 2  
+2011| 3  
+2012| 2  
+2013| 3  
+2014| 6  
+2015| 3  
+2016| 6  
+2017| 2  
+2018| 7  
+2019| 1  
+2020| 1  
+2021| 2  
+2023| 3  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LANZ's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (355)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Endometrium](https://profiles.viictr.org/profile/243417)
+  * [Nuclear Receptor Coactivator 3](https://profiles.viictr.org/profile/246619)
+  * [Giant Cells](https://profiles.viictr.org/profile/248309)
+  * [Polyploidy](https://profiles.viictr.org/profile/260098)
+  * [Receptors, Cytoplasmic and Nuclear](https://profiles.viictr.org/profile/262075)
+
+[Explore](https://profiles.viictr.org/profile/267684/198)
+
+_
+
+Co-Authors (58)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [DEMAYO, FRANCESCO](https://profiles.viictr.org/profile/267848)
+  * [LYDON, JOHN](https://profiles.viictr.org/profile/269737)
+  * [RICHARDS, JOANNE](https://profiles.viictr.org/profile/267831)
+  * [MCKENNA, NEIL](https://profiles.viictr.org/profile/268182)
+
+[Explore](https://profiles.viictr.org/profile/267684/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [DEMAYO, FRANCESCO](https://profiles.viictr.org/profile/267848)
+  * [LYDON, JOHN](https://profiles.viictr.org/profile/269737)
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+
+[Explore](https://profiles.viictr.org/profile/267684/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHAN, KEITH](https://profiles.viictr.org/profile/266205)
+  * [PARK, IN YOUNG](https://profiles.viictr.org/profile/18892306)
+  * [SREEKUMAR, ARUN](https://profiles.viictr.org/profile/266636)
+  * [TOVY, AYALA](https://profiles.viictr.org/profile/14490836)
+  * [TSAI, SOPHIA](https://profiles.viictr.org/profile/266552)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [LEWIS, MICHAEL](https://profiles.viictr.org/profile/267000)
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [SCHWARTZ, ROBERT](https://profiles.viictr.org/profile/267508)
+  * [TSAI, SOPHIA](https://profiles.viictr.org/profile/266552)
+  * [WEIGEL, NANCY](https://profiles.viictr.org/profile/266556)
+
+_
+

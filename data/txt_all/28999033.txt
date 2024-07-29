@@ -1,0 +1,715 @@
+## VASANTHI AVADHANULA
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=N70x5W3GLp7VRIzgrn7GPw%3d%3d&rnd=f313a1a3-d4bb-4da9-b734-b88fe6631801)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999033)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Toepfer AP, Amarin JZ, Spieker AJ, Stewart LS, Staat MA, Schlaudecker EP, Weinberg GA, Szilagyi PG, Englund JA, Klein EJ, Michaels MG, Williams JV, Selvarangan R, Harrison CJ, Lively JY, [Piedra PA](https://profiles.viictr.org/profile/268114), Avadhanula V, Rha B, Chappell J, McMorrow M, Moline H, Halasa NB, Toepfer AP, Staat MA, Schlaudecker EP, Michaels MG, Williams JV, Lively JY, Piedra PA, **Avadhanula V** , Rha B, McMorrow M, Moline H. Seasonality, Clinical Characteristics, and Outcomes of Respiratory Syncytial Virus Disease by Subtype Among Children Aged <5 Years: New Vaccine Surveillance Network, United States, 2016-2020. Clin Infect Dis. 2024 May 15; 78(5):1352-1359. PMID: [38366649](//www.ncbi.nlm.nih.gov/pubmed/38366649); PMCID: [PMC11093674](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11093674).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+  2. Bradley CC, Wang C, Gordon AJE, Wen AX, [Luna PN](https://profiles.viictr.org/profile/33265732), [Cooke MB](https://profiles.viictr.org/profile/28999357), Kohrn BF, Kennedy SR, **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), [Lichtarge O](https://profiles.viictr.org/profile/269815), [Shaw CA](https://profiles.viictr.org/profile/269433), [Ronca SE](https://profiles.viictr.org/profile/17678422), [Herman C](https://profiles.viictr.org/profile/269211). Targeted accurate RNA consensus sequencing (tARC-seq) reveals mechanisms of replication error affecting SARS-CoV-2 divergence. Nat Microbiol. 2024 May; 9(5):1382-1392. PMID: [38649410](//www.ncbi.nlm.nih.gov/pubmed/38649410).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38649410/citedby/) Fields:
+
+Mic MicrobiologyPar ParasitologyVir Virology
+
+Translation:HumansCells
+
+  3. Curns AT, Rha B, Lively JY, [Sahni LC](https://profiles.viictr.org/profile/30214978), Englund JA, Weinberg GA, Halasa NB, Staat MA, Selvarangan R, Michaels M, Moline H, Zhou Y, Perez A, Rohlfs C, Hickey R, Lacombe K, McHenry R, Whitaker B, Schuster J, Pulido CG, Strelitz B, Quigley C, Dnp GW, **Avadhanula V** , Stewart LS, Schlaudecker E, Szilagyi PG, Klein EJ, [Boom J](https://profiles.viictr.org/profile/268126), Williams JV, Langley G, Gerber SI, Hall AJ, McMorrow ML, Harrison CJ. Respiratory Syncytial Virus-Associated Hospitalizations Among Children <5 Years Old: 2016 to 2020. Pediatrics. 2024 Mar 01; 153(3). PMID: [38298053](//www.ncbi.nlm.nih.gov/pubmed/38298053).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38298053/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansCells
+
+  4. Edens C, Clopper BR, DeVies J, Benitez A, McKeever ER, Johns D, Wolff B, Selvarangan R, Schuster JE, Weinberg GA, Szilagyi PG, Dawood FS, Radhakrishnan L, Quigley C, [Sahni LC](https://profiles.viictr.org/profile/30214978), Halasa N, Stewart LS, McMorrow ML, Whitaker B, Zerr DM, **Avadhanula V** , Williams JV, Michaels MG, Kite-Powell A, Englund JA, Staat MA, Hartnett K, Moline HL, Cohen AL, Diaz M. Notes from the Field: Reemergence of Mycoplasma pneumoniae Infections in Children and Adolescents After the COVID-19 Pandemic, United States, 2018-2024. MMWR Morb Mortal Wkly Rep. 2024 Feb 22; 73(7):149-151. PMID: [38386615](//www.ncbi.nlm.nih.gov/pubmed/38386615); PMCID: [PMC10899077](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10899077).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38386615/citedby/) Fields:
+
+Pub Public HealthVit Vital Statistics
+
+Translation:HumansPHPublic Health
+
+  5. [Nicholson EG](https://profiles.viictr.org/profile/6714288), **Avadhanula V** , [Sahni LC](https://profiles.viictr.org/profile/30214978), Ferlic-Stark L, Maurer L, [Boom JA](https://profiles.viictr.org/profile/268126), [Piedra PA](https://profiles.viictr.org/profile/268114). Respiratory viral detection in the plasma and cerebrospinal fluid (CSF) of young febrile infants. Influenza Other Respir Viruses. 2024 Feb; 18(2):e13250. PMID: [38314065](//www.ncbi.nlm.nih.gov/pubmed/38314065); PMCID: [PMC10831571](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10831571).
+
+Citations:  Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  6. [Aloisio GM](https://profiles.viictr.org/profile/34493459), [Nagaraj D](https://profiles.viictr.org/profile/37652174), [Murray AM](https://profiles.viictr.org/profile/31189467), [Schultz EM](https://profiles.viictr.org/profile/37567622), McBride T, Aideyan L, [Nicholson EG](https://profiles.viictr.org/profile/6714288), Henke D, Ferlic-Stark L, Rajan A, Kambal A, Johnson HL, Mosa E, Stossi F, [Blutt SE](https://profiles.viictr.org/profile/266310), [Piedra PA](https://profiles.viictr.org/profile/268114), **Avadhanula V**. Pediatric human nose organoids demonstrate greater susceptibility, epithelial responses, and cytotoxicity than adults during RSV infection. bioRxiv. 2024 Feb 01. PMID: [38352333](//www.ncbi.nlm.nih.gov/pubmed/38352333); PMCID: [PMC10862794](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10862794).
+
+Citations:
+
+  7. Ashraf-Uz-Zaman M, Chua TK, Li X, Yao Y, [Moku BK](https://profiles.viictr.org/profile/35825275), [Mishra CB](https://profiles.viictr.org/profile/34584595), **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), [Song Y](https://profiles.viictr.org/profile/266042). Design, Synthesis, X-ray Crystallography, and Biological Activities of Covalent, Non-Peptidic Inhibitors of SARS-CoV-2 Main Protease. ACS Infect Dis. 2024 02 09; 10(2):715-731. PMID: [38192109](//www.ncbi.nlm.nih.gov/pubmed/38192109); PMCID: [PMC10922772](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10922772).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38192109/citedby/) Fields:
+
+Ant Anti-Infective AgentsDru Drug TherapyMic Microbiology
+
+Translation:HumansCells
+
+  8. **Avadhanula V** , Agustinho DP, Menon VK, [Chemaly RF](https://profiles.viictr.org/profile/12583400), [Shah DP](https://profiles.viictr.org/profile/17439980), Qin X, Surathu A, Doddapaneni H, [Muzny DM](https://profiles.viictr.org/profile/268028), Metcalf GA, Cregeen SJ, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), [Piedra PA](https://profiles.viictr.org/profile/268114). Inter and intra-host diversity of RSV in hematopoietic stem cell transplant adults with normal and delayed viral clearance. Virus Evol. 2024; 10(1):vead086. PMID: [38361816](//www.ncbi.nlm.nih.gov/pubmed/38361816); PMCID: [PMC10868550](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10868550).
+
+Citations:
+
+  9. [Tisza M](https://profiles.viictr.org/profile/42513162), [Javornik Cregeen S](https://profiles.viictr.org/profile/31330339), **Avadhanula V** , Zhang P, Ayvaz T, Feliz K, Hoffman KL, Clark JR, Terwilliger A, [Ross MC](https://profiles.viictr.org/profile/1826609), Cormier J, Moreno H, Wang L, Payne K, Henke D, [Troisi C](https://profiles.viictr.org/profile/266717), Wu F, Rios J, Deegan J, Hansen B, Balliew J, Gitter A, Zhang K, Li R, Bauer CX, Mena KD, [Piedra PA](https://profiles.viictr.org/profile/268114), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Maresso AW](https://profiles.viictr.org/profile/269263). Wastewater sequencing reveals community and variant dynamics of the collective human virome. Nat Commun. 2023 10 28; 14(1):6878. PMID: [37898601](//www.ncbi.nlm.nih.gov/pubmed/37898601); PMCID: [PMC10613200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10613200).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37898601/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCellsPHPublic Health
+
+  10. **Avadhanula V** , [Creighton C](https://profiles.viictr.org/profile/265729), Ferlic-Stark L, Sucgang R, Zhang Y, [Nagaraj D](https://profiles.viictr.org/profile/37652174), [Nicholson E](https://profiles.viictr.org/profile/6714288), Rajan A, Menon V, Doddapaneni H, [Muzny D](https://profiles.viictr.org/profile/268028), Metcalf G, Cregeen SJ, Hoffman K, [Gibbs R](https://profiles.viictr.org/profile/269695), [Petrosino J](https://profiles.viictr.org/profile/267058), [Piedra P](https://profiles.viictr.org/profile/268114). Longitudinal host transcriptional responses to SARS-CoV-2 infection in adults with extremely high viral load. Res Sq. 2023 Jun 05. PMID: [37333115](//www.ncbi.nlm.nih.gov/pubmed/37333115); PMCID: [PMC10274945](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10274945).
+
+Citations:
+
+  11. **Avadhanula V** , [Creighton CJ](https://profiles.viictr.org/profile/265729), Ferlic-Stark L, Sucgang R, Zhang Y, [Nagaraj D](https://profiles.viictr.org/profile/37652174), [Nicholson EG](https://profiles.viictr.org/profile/6714288), Rajan A, Menon VK, Doddapaneni H, [Muzny DM](https://profiles.viictr.org/profile/268028), Metcalf G, Cregeen SJJ, Hoffman KL, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino J](https://profiles.viictr.org/profile/267058), [Piedra PA](https://profiles.viictr.org/profile/268114). Longitudinal host transcriptional responses to SARS-CoV-2 infection in adults with extremely high viral load. bioRxiv. 2023 May 25. PMID: [37292999](//www.ncbi.nlm.nih.gov/pubmed/37292999); PMCID: [PMC10245966](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10245966).
+
+Citations:
+
+  12. Rezende W, Ye X, Angelo LS, Carisey AF, **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114). The Efficiency of p27 Cleavage during In Vitro Respiratory Syncytial Virus (RSV) Infection Is Cell Line and RSV Subtype Dependent. J Virol. 2023 05 31; 97(5):e0025423. PMID: [37133390](//www.ncbi.nlm.nih.gov/pubmed/37133390); PMCID: [PMC10231215](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10231215).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37133390/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  13. Clark JR, Terwilliger A, **Avadhanula V** , [Tisza M](https://profiles.viictr.org/profile/42513162), Cormier J, Javornik-Cregeen S, [Ross MC](https://profiles.viictr.org/profile/1826609), Hoffman KL, [Troisi C](https://profiles.viictr.org/profile/266717), Hanson B, [Petrosino J](https://profiles.viictr.org/profile/267058), Balliew J, [Piedra PA](https://profiles.viictr.org/profile/268114), Rios J, Deegan J, Bauer C, Wu F, Mena KD, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Maresso AW](https://profiles.viictr.org/profile/269263). Wastewater pandemic preparedness: Toward an end-to-end pathogen monitoring program. Front Public Health. 2023; 11:1137881. PMID: [37026145](//www.ncbi.nlm.nih.gov/pubmed/37026145); PMCID: [PMC10070845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10070845).
+
+Citations:  Fields:
+
+Pub Public Health
+
+Translation:HumansCellsPHPublic Health
+
+  14. [Sahni LC](https://profiles.viictr.org/profile/30214978), Naioti EA, Olson SM, Campbell AP, Michaels MG, Williams JV, Staat MA, Schlaudecker EP, McNeal MM, Halasa NB, Stewart LS, Chappell JD, Englund JA, Klein EJ, Szilagyi PG, Weinberg GA, Harrison CJ, Selvarangan R, Schuster JE, Azimi PH, Singer MN, **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), Munoz FM, Patel MM, [Boom JA](https://profiles.viictr.org/profile/268126). Sustained Within-season Vaccine Effectiveness Against Influenza-associated Hospitalization in Children: Evidence From the New Vaccine Surveillance Network, 2015-2016 Through 2019-2020. Clin Infect Dis. 2023 02 08; 76(3):e1031-e1039. PMID: [35867698](//www.ncbi.nlm.nih.gov/pubmed/35867698).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+  15. Chen J, Tan S, **Avadhanula V** , Moise L, [Piedra PA](https://profiles.viictr.org/profile/268114), De Groot AS, Bahl J. Diversity and evolution of computationally predicted T cell epitopes against human respiratory syncytial virus. PLoS Comput Biol. 2023 Jan; 19(1):e1010360. PMID: [36626370](//www.ncbi.nlm.nih.gov/pubmed/36626370); PMCID: [PMC9870173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9870173).
+
+Citations:  Fields:
+
+Com Computational Biology
+
+Translation:HumansCells
+
+  16. Piedra FA, Henke D, Rajan A, [Muzny DM](https://profiles.viictr.org/profile/268028), Doddapaneni H, Menon VK, Hoffman KL, [Ross MC](https://profiles.viictr.org/profile/1826609), [Javornik Cregeen SJ](https://profiles.viictr.org/profile/31330339), Metcalf G, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino JF](https://profiles.viictr.org/profile/267058), **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114). Modeling nonsegmented negative-strand RNA virus (NNSV) transcription with ejective polymerase collisions and biased diffusion. Front Mol Biosci. 2022; 9:1095193. PMID: [36699700](//www.ncbi.nlm.nih.gov/pubmed/36699700); PMCID: [PMC9868645](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9868645).
+
+Citations:
+
+  17. Gitter A, Bauer C, Wu F, Ramphul R, Chavarria C, Zhang K, [Petrosino J](https://profiles.viictr.org/profile/267058), Mezzari M, Gallegos G, Terwilliger AL, Clark JR, Feliz K, **Avadhanula V** , Piedra T, Weesner K, [Maresso A](https://profiles.viictr.org/profile/269263), Mena KD. Assessment of a SARS-CoV-2 wastewater monitoring program in El Paso, Texas, from November 2020 to June 2022. Int J Environ Health Res. 2024 Jan; 34(1):564-574. PMID: [36595614](//www.ncbi.nlm.nih.gov/pubmed/36595614).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36595614/citedby/) Fields:
+
+Env Environmental Health
+
+  18. [Keefe JA](https://profiles.viictr.org/profile/35073117), **Avadhanula V** , [Nicholson EG](https://profiles.viictr.org/profile/6714288), [Devaraj S](https://profiles.viictr.org/profile/266182), [Piedra PA](https://profiles.viictr.org/profile/268114), [Bozkurt B](https://profiles.viictr.org/profile/269383), [Wehrens XHT](https://profiles.viictr.org/profile/270302). Abnormalities in cardiac and inflammatory biomarkers in ambulatory subjects after COVID-19 infection. Int J Cardiol Heart Vasc. 2022 Dec; 43:101144. PMID: [36321063](//www.ncbi.nlm.nih.gov/pubmed/36321063); PMCID: [PMC9613792](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9613792).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36321063/citedby/)
+
+  19. Banerjee D, Hassan F, **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), [Boom J](https://profiles.viictr.org/profile/268126), [Sahni LC](https://profiles.viictr.org/profile/30214978), Weinberg GA, Lindstrom S, Rha B, Harrison CJ, Selvarangan R. Comparative analysis of three multiplex platforms for the detection of respiratory viral pathogens. J Clin Virol. 2022 11; 156:105274. PMID: [36099751](//www.ncbi.nlm.nih.gov/pubmed/36099751).
+
+Citations:
+
+  20. Powers KJ, **Avadhanula V** , Patel PR, [Sarkar PK](https://profiles.viictr.org/profile/2560363), [Piedra P](https://profiles.viictr.org/profile/268114), [Zarrin-Khameh N](https://profiles.viictr.org/profile/269793). Whole lung lavage: Treating pulmonary alveolar proteinosis at the time of COVID pandemic. Respir Med Case Rep. 2022; 39:101707. PMID: [35854794](//www.ncbi.nlm.nih.gov/pubmed/35854794); PMCID: [PMC9281412](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9281412).
+
+Citations:
+
+  21. Blunck BN, Angelo LS, Henke D, **Avadhanula V** , Cusick M, Ferlic-Stark L, [Zechiedrich L](https://profiles.viictr.org/profile/267006), [Gilbert BE](https://profiles.viictr.org/profile/269479), [Piedra PA](https://profiles.viictr.org/profile/268114). Adult Memory T Cell Responses to the Respiratory Syncytial Virus Fusion Protein During a Single RSV Season (2018-2019). Front Immunol. 2022; 13:823652. PMID: [35422803](//www.ncbi.nlm.nih.gov/pubmed/35422803); PMCID: [PMC9002099](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9002099).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  22. Rajan A, Aideyan L, McBride T, Robertson M, Johnson HL, [Aloisio GM](https://profiles.viictr.org/profile/34493459), Henke D, [Coarfa C](https://profiles.viictr.org/profile/265668), Stossi F, Menon VK, Doddapaneni H, [Muzny DM](https://profiles.viictr.org/profile/268028), [Javornik Cregeen SJ](https://profiles.viictr.org/profile/31330339), Hoffman KL, [Petrosino J](https://profiles.viictr.org/profile/267058), [Gibbs RA](https://profiles.viictr.org/profile/269695), **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), Piedra FA. Multiple Respiratory Syncytial Virus (RSV) Strains Infecting HEp-2 and A549 Cells Reveal Cell Line-Dependent Differences in Resistance to RSV Infection. J Virol. 2022 04 13; 96(7):e0190421. PMID: [35285685](//www.ncbi.nlm.nih.gov/pubmed/35285685); PMCID: [PMC9006923](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9006923).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35285685/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  23. Dawood FS, Varner M, Munoz F, Stockwell MS, Suyama J, Li DK, Tita A, Mathias L, Shakib JH, [Piedra PA](https://profiles.viictr.org/profile/268114), Gyamfi-Bannerman C, Weissman A, Ferber J, Battarbee AN, Wesley MG, Vorwaller K, Powers E, Gibson M, Bond N, Santarcangelo P, **Avadhanula V** , Newes-Adeyi G, Hunt DR, Subramaniam A, Sanusi A, Boone A, Ogokeh C, Macio I, Odouli R, Thind P, Vargas CY, Almonte C, Galang RR, Shapiro-Mendoza C, Campbell AP. Respiratory Viral Infections and Infection Prevention Practices Among Women With Acute Respiratory Illness During Delivery Hospitalizations During the 2019-2020 Influenza Season. J Infect Dis. 2022 01 05; 225(1):50-54. PMID: [34037764](//www.ncbi.nlm.nih.gov/pubmed/34037764).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  24. Chen J, Qiu X, **Avadhanula V** , Shepard SS, Kim DK, Hixson J, [Piedra PA](https://profiles.viictr.org/profile/268114), Bahl J. Novel and extendable genotyping system for human respiratory syncytial virus based on whole-genome sequence analysis. Influenza Other Respir Viruses. 2022 05; 16(3):492-500. PMID: [34894077](//www.ncbi.nlm.nih.gov/pubmed/34894077); PMCID: [PMC8983899](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8983899).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34894077/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  25. Blunck BN, Aideyan L, Ye X, **Avadhanula V** , Ferlic-Stark L, [Zechiedrich L](https://profiles.viictr.org/profile/267006), [Gilbert BE](https://profiles.viictr.org/profile/269479), [Piedra PA](https://profiles.viictr.org/profile/268114). Antibody responses of healthy adults to the p27 peptide of respiratory syncytial virus fusion protein. Vaccine. 2022 01 24; 40(3):536-543. PMID: [34903371](//www.ncbi.nlm.nih.gov/pubmed/34903371); PMCID: [PMC8755595](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8755595).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  26. Shah MM, Perez A, Lively JY, **Avadhanula V** , [Boom JA](https://profiles.viictr.org/profile/268126), Chappell J, Englund JA, Fregoe W, Halasa NB, Harrison CJ, Hickey RW, Klein EJ, McNeal MM, Michaels MG, Moffatt ME, Otten C, [Sahni LC](https://profiles.viictr.org/profile/30214978), Schlaudecker E, Schuster JE, Selvarangan R, Staat MA, Stewart LS, Weinberg GA, Williams JV, Ng TFF, Routh JA, Gerber SI, McMorrow ML, Rha B, Midgley CM. Enterovirus D68-Associated Acute Respiratory Illness - New Vaccine Surveillance Network, United States, July-November 2018-2020. MMWR Morb Mortal Wkly Rep. 2021 Nov 26; 70(47):1623-1628. PMID: [34818320](//www.ncbi.nlm.nih.gov/pubmed/34818320); PMCID: [PMC8612514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8612514).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34818320/citedby/) Fields:
+
+Pub Public HealthVit Vital Statistics
+
+Translation:HumansCellsPHPublic Health
+
+  27. Ye X, Angelo LS, [Nicholson EG](https://profiles.viictr.org/profile/6714288), Iwuchukwu OP, Cabral de Rezende W, Rajan A, Aideyan LO, McBride TJ, Bond N, Santarcangelo P, Rayford YJ, Ferlic-Stark L, Fragoso S, Momin Z, Liu H, Truong K, Lopez B, [Conner ME](https://profiles.viictr.org/profile/268086), [Rice AP](https://profiles.viictr.org/profile/269748), [Kimata JT](https://profiles.viictr.org/profile/268949), **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114). Serum IgG anti-SARS-CoV-2 Binding Antibody Level Is Strongly Associated With IgA and Functional Antibody Levels in Adults Infected With SARS-CoV-2. Front Immunol. 2021; 12:693462. PMID: [34691016](//www.ncbi.nlm.nih.gov/pubmed/34691016); PMCID: [PMC8531527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8531527).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34691016/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  28. [Farinholt T](https://profiles.viictr.org/profile/1826504), Doddapaneni H, [Qin X](https://profiles.viictr.org/profile/267418), Menon V, [Meng Q](https://profiles.viictr.org/profile/12583622), Metcalf G, Chao H, [Gingras MC](https://profiles.viictr.org/profile/266579), **Avadhanula V** , [Farinholt P](https://profiles.viictr.org/profile/31362084), [Agrawal C](https://profiles.viictr.org/profile/28999316), [Muzny DM](https://profiles.viictr.org/profile/268028), [Piedra PA](https://profiles.viictr.org/profile/268114), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino J](https://profiles.viictr.org/profile/267058). Transmission event of SARS-CoV-2 delta variant reveals multiple vaccine breakthrough infections. BMC Med. 2021 10 01; 19(1):255. PMID: [34593004](//www.ncbi.nlm.nih.gov/pubmed/34593004); PMCID: [PMC8483940](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8483940).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34593004/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  29. [Sahni LC](https://profiles.viictr.org/profile/30214978), **Avadhanula V** , Ortiz CS, Feliz KE, John RE, [Brown CA](https://profiles.viictr.org/profile/1826853), Lively JY, Rha B, Munoz FM, [Piedra PA](https://profiles.viictr.org/profile/268114), Dunn JJ, [Boom JA](https://profiles.viictr.org/profile/268126). Comparison of Mid-Turbinate and Nasopharyngeal Specimens for Molecular Detection of SARS-CoV-2 Among Symptomatic Outpatients at a Pediatric Drive-Through Testing Site. J Pediatric Infect Dis Soc. 2021 Sep 23; 10(8):872-879. PMID: [34173660](//www.ncbi.nlm.nih.gov/pubmed/34173660).
+
+Citations:  Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:HumansCells
+
+  30. Doddapaneni H, Cregeen SJ, Sucgang R, [Meng Q](https://profiles.viictr.org/profile/12583622), [Qin X](https://profiles.viictr.org/profile/267418), **Avadhanula V** , Chao H, Menon V, [Nicholson E](https://profiles.viictr.org/profile/6714288), Henke D, Piedra FA, Rajan A, Momin Z, Kottapalli K, Hoffman KL, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Metcalf G, [Piedra PA](https://profiles.viictr.org/profile/268114), [Muzny DM](https://profiles.viictr.org/profile/268028), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Gibbs RA](https://profiles.viictr.org/profile/269695). Oligonucleotide capture sequencing of the SARS-CoV-2 genome and subgenomic fragments from COVID-19 individuals. PLoS One. 2021; 16(8):e0244468. PMID: [34432798](//www.ncbi.nlm.nih.gov/pubmed/34432798); PMCID: [PMC8386831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8386831).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34432798/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  31. **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114). The Prevention of Common Respiratory Virus Epidemics in 2020-21 during the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Pandemic: An Unexpected Benefit of the Implementation of Public Health Measures. Lancet Reg Health Am. 2021 Oct; 2:100043. PMID: [34430955](//www.ncbi.nlm.nih.gov/pubmed/34430955); PMCID: [PMC8377442](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8377442).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34430955/citedby/)
+
+  32. Rajan A, Weaver AM, [Aloisio GM](https://profiles.viictr.org/profile/34493459), Jelinski J, Johnson HL, Venable SF, McBride T, Aideyan L, Ye X, [Melicoff-Portillo E](https://profiles.viictr.org/profile/2560335), Yerramilli MRK, Zeng XL, Mancini MA, Stossi F, [Maresso AW](https://profiles.viictr.org/profile/269263), [Kotkar SA](https://profiles.viictr.org/profile/31729276), [Estes MK](https://profiles.viictr.org/profile/266419), [Blutt S](https://profiles.viictr.org/profile/266310), **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), Piedra FA. The human nose organoid respiratory virus model: an ex-vivo human challenge model to study RSV and SARS-CoV-2 pathogenesis and evaluate therapeutics. bioRxiv. 2021 Jul 28. PMID: [34341793](//www.ncbi.nlm.nih.gov/pubmed/34341793); PMCID: [PMC8328060](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8328060).
+
+Citations:
+
+  33. [Nicholson EG](https://profiles.viictr.org/profile/6714288), **Avadhanula V** , Fragoso S, Stroh R, Ye X, Bond N, Santarcangelo P, Stroh J, [Piedra PA](https://profiles.viictr.org/profile/268114). SARS-CoV-2 re-infection versus prolonged shedding: A case series. Influenza Other Respir Viruses. 2021 11; 15(6):691-696. PMID: [34085762](//www.ncbi.nlm.nih.gov/pubmed/34085762); PMCID: [PMC8242882](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8242882).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34085762/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCellsPHPublic Health
+
+  34. Salimi V, Viegas M, Trento A, Agoti CN, Anderson LJ, **Avadhanula V** , Bahl J, Bont L, Brister JR, Cane PA, Graham BS, Hatcher EL, Hellferscee O, Henke DM, Hirve S, Jackson S, Keyaerts E, Kragten-Tabatabaie L, Lindstrom S, Nauwelaers I, Nokes DJ, Openshaw PJ, Peret TC, [Piedra PA](https://profiles.viictr.org/profile/268114), Ramaekers K, Rector A, von Gottberg A, Zambon M, Zhang W, Williams TC, Barr IG, Buchholz UJ, Galiano M, Trov?o NS. Proposal for Human Respiratory Syncytial Virus Nomenclature below the Species Level. Emerg Infect Dis. 2021 06; 27(6):1-9. PMID: [34013862](//www.ncbi.nlm.nih.gov/pubmed/34013862); PMCID: [PMC8153853](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8153853).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34013862/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  35. Ye X, Iwuchukwu OP, **Avadhanula V** , Aideyan LO, McBride TJ, Henke DM, Patel KD, Piedra FA, Angelo LS, [Shah DP](https://profiles.viictr.org/profile/17439980), [Chemaly RF](https://profiles.viictr.org/profile/12583400), [Piedra PA](https://profiles.viictr.org/profile/268114). Humoral and Mucosal Antibody Response to RSV Structural Proteins in RSV-Infected Adult Hematopoietic Cell Transplant (HCT) Recipients. Viruses. 2021 05 26; 13(6). PMID: [34073490](//www.ncbi.nlm.nih.gov/pubmed/34073490); PMCID: [PMC8228396](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8228396).
+
+Citations:  Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  36. **Avadhanula V** , [Nicholson EG](https://profiles.viictr.org/profile/6714288), Ferlic-Stark L, Piedra FA, Blunck BN, Fragoso S, Bond NL, Santarcangelo PL, Ye X, McBride TJ, Aideyan LO, Patel KD, Maurer L, Angelo LS, [Piedra PA](https://profiles.viictr.org/profile/268114). Viral Load of Severe Acute Respiratory Syndrome Coronavirus 2 in Adults During the First and Second Wave of Coronavirus Disease 2019 Pandemic in Houston, Texas: The Potential of the Superspreader. J Infect Dis. 2021 05 20; 223(9):1528-1537. PMID: [33585934](//www.ncbi.nlm.nih.gov/pubmed/33585934); PMCID: [PMC7928726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7928726).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33585934/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  37. LaTurner ZW, Zong DM, Kalvapalle P, Gamas KR, Terwilliger A, Crosby T, Ali P, **Avadhanula V** , Santos HH, Weesner K, Hopkins L, [Piedra PA](https://profiles.viictr.org/profile/268114), [Maresso AW](https://profiles.viictr.org/profile/269263), Stadler LB. Evaluating recovery, cost, and throughput of different concentration methods for SARS-CoV-2 wastewater-based epidemiology. Water Res. 2021 Jun 01; 197:117043. PMID: [33784608](//www.ncbi.nlm.nih.gov/pubmed/33784608); PMCID: [PMC7957301](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7957301).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33784608/citedby/) Fields:
+
+Env Environmental HealthTox Toxicology
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  38. Rajan A, Weaver AM, [Aloisio GM](https://profiles.viictr.org/profile/34493459), Jelinski J, Johnson HL, Venable SF, McBride T, Aideyan L, Ye X, [Melicoff-Portillo E](https://profiles.viictr.org/profile/2560335), Yerramilli MRK, Zeng XL, [Mancini MA](https://profiles.viictr.org/profile/268178), Stossi F, [Maresso AW](https://profiles.viictr.org/profile/269263), [Kotkar SA](https://profiles.viictr.org/profile/31729276), [Estes MK](https://profiles.viictr.org/profile/266419), [Blutt S](https://profiles.viictr.org/profile/266310), **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), Piedra FA. The Human Nose Organoid Respiratory Virus Model: an Ex Vivo Human Challenge Model To Study Respiratory Syncytial Virus (RSV) and Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Pathogenesis and Evaluate Therapeutics. mBio. 2021 02 22; 13(1):e0351121. PMID: [35164569](//www.ncbi.nlm.nih.gov/pubmed/35164569); PMCID: [PMC8844923](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8844923).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35164569/citedby/) Fields:
+
+Mic Microbiology
+
+  39. Mansbach JM, Geller RJ, Hasegawa K, [Piedra PA](https://profiles.viictr.org/profile/268114), **Avadhanula V** , Gern JE, Bochkov YA, Espinola JA, Sullivan AF, Camargo CA. Detection of Respiratory Syncytial Virus or Rhinovirus Weeks After Hospitalization for Bronchiolitis and the Risk of Recurrent Wheezing. J Infect Dis. 2021 02 03; 223(2):268-277. PMID: [32564083](//www.ncbi.nlm.nih.gov/pubmed/32564083); PMCID: [PMC7857353](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7857353).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32564083/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  40. Blunck BN, Aideyan L, Ye X, **Avadhanula V** , Ferlic-Stark L, [Zechiedrich L](https://profiles.viictr.org/profile/267006), [Gilbert BE](https://profiles.viictr.org/profile/269479), [Piedra PA](https://profiles.viictr.org/profile/268114). A prospective surveillance study on the kinetics of the humoral immune response to the respiratory syncytial virus fusion protein in adults in Houston, Texas. Vaccine. 2021 02 22; 39(8):1248-1256. PMID: [33509697](//www.ncbi.nlm.nih.gov/pubmed/33509697); PMCID: [PMC8152364](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8152364).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33509697/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  41. Doddapaneni H, Cregeen SJ, Sucgang R, [Meng Q](https://profiles.viictr.org/profile/12583622), [Qin X](https://profiles.viictr.org/profile/267418), **Avadhanula V** , Chao H, Menon V, [Nicholson E](https://profiles.viictr.org/profile/6714288), Henke D, Piedra FA, Rajan A, Momin Z, Kottapalli K, Hoffman KL, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Metcalf G, [Piedra PA](https://profiles.viictr.org/profile/268114), [Muzny DM](https://profiles.viictr.org/profile/268028), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Gibbs RA](https://profiles.viictr.org/profile/269695). Oligonucleotide Capture Sequencing of the SARS-CoV-2 Genome and Subgenomic Fragments from COVID-19 Individuals. bioRxiv. 2020 Dec 11. PMID: [33330863](//www.ncbi.nlm.nih.gov/pubmed/33330863); PMCID: [PMC7743067](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7743067).
+
+Citations:
+
+  42. Rha B, Lively JY, Englund JA, Staat MA, Weinberg GA, Selvarangan R, Halasa NB, Williams JV, [Boom JA](https://profiles.viictr.org/profile/268126), [Sahni LC](https://profiles.viictr.org/profile/30214978), Michaels MG, Stewart LS, Harrison CJ, Szilagyi PG, McNeal MM, Klein EJ, Strelitz B, Lacombe K, Schlaudecker E, Moffatt ME, Schuster JE, Pahud BA, Weddle G, Hickey RW, **Avadhanula V** , Wikswo ME, Hall AJ, Curns AT, Gerber SI, Langley G. Severe Acute Respiratory Syndrome Coronavirus 2 Infections in Children: Multicenter Surveillance, United States, January-March 2020. J Pediatric Infect Dis Soc. 2020 Nov 10; 9(5):609-612. PMID: [32556327](//www.ncbi.nlm.nih.gov/pubmed/32556327); PMCID: [PMC7337823](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7337823).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32556327/citedby/) Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:HumansCellsPHPublic Health
+
+  43. Doddapaneni H, Cregeen SJ, Sucgang R, [Meng Q](https://profiles.viictr.org/profile/12583622), [Qin X](https://profiles.viictr.org/profile/267418), **Avadhanula V** , Chao H, Menon V, [Nicholson E](https://profiles.viictr.org/profile/6714288), Henke D, Piedra FA, Rajan A, Momin Z, Kottapalli K, Hoffman KL, [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007), Metcalf G, [Piedra PA](https://profiles.viictr.org/profile/268114), [Muzny DM](https://profiles.viictr.org/profile/268028), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Gibbs RA](https://profiles.viictr.org/profile/269695). Oligonucleotide capture sequencing of the SARS-CoV-2 genome and subgenomic fragments from COVID-19 individuals. bioRxiv. 2020 Jul 27. PMID: [32766579](//www.ncbi.nlm.nih.gov/pubmed/32766579); PMCID: [PMC7402036](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7402036).
+
+Citations:
+
+  44. Rha B, Curns AT, Lively JY, Campbell AP, Englund JA, [Boom JA](https://profiles.viictr.org/profile/268126), Azimi PH, Weinberg GA, Staat MA, Selvarangan R, Halasa NB, McNeal MM, Klein EJ, Harrison CJ, Williams JV, Szilagyi PG, Singer MN, [Sahni LC](https://profiles.viictr.org/profile/30214978), Figueroa-Downing D, McDaniel D, Prill MM, Whitaker BL, Stewart LS, Schuster JE, Pahud BA, Weddle G, **Avadhanula V** , Munoz FM, [Piedra PA](https://profiles.viictr.org/profile/268114), Payne DC, Langley G, Gerber SI. Respiratory Syncytial Virus-Associated Hospitalizations Among Young Children: 2015-2016. Pediatrics. 2020 07; 146(1). PMID: [32546583](//www.ncbi.nlm.nih.gov/pubmed/32546583).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32546583/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  45. Ye X, Cabral de Rezende W, Iwuchukwu OP, **Avadhanula V** , Ferlic-Stark LL, Patel KD, Piedra FA, [Shah DP](https://profiles.viictr.org/profile/17439980), [Chemaly RF](https://profiles.viictr.org/profile/12583400), [Piedra PA](https://profiles.viictr.org/profile/268114). Antibody Response to the Furin Cleavable Twenty-Seven Amino Acid Peptide (p27) of the Fusion Protein in Respiratory Syncytial Virus (RSV) Infected Adult Hematopoietic Cell Transplant (HCT) Recipients. Vaccines (Basel). 2020 Apr 21; 8(2). PMID: [32326278](//www.ncbi.nlm.nih.gov/pubmed/32326278); PMCID: [PMC7349179](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7349179).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32326278/citedby/)
+
+  46. Fuentes S, Hahn M, Chilcote K, [Chemaly RF](https://profiles.viictr.org/profile/12583400), [Shah DP](https://profiles.viictr.org/profile/17439980), Ye X, **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), Golding H, Khurana S. Antigenic Fingerprinting of Respiratory Syncytial Virus (RSV)-A-Infected Hematopoietic Cell Transplant Recipients Reveals Importance of Mucosal Anti-RSV G Antibodies in Control of RSV Infection in Humans. J Infect Dis. 2020 02 03; 221(4):636-646. PMID: [31745552](//www.ncbi.nlm.nih.gov/pubmed/31745552); PMCID: [PMC7530544](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7530544).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31745552/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  47. Qiu X, Teng MN, **Avadhanula V** , Machado AA, Kim DK, Hixson J, Bahl J, [Piedra PA](https://profiles.viictr.org/profile/268114), Piedra FA. Non-gradient and genotype-dependent patterns of RSV gene expression. PLoS One. 2020; 15(1):e0227558. PMID: [31923213](//www.ncbi.nlm.nih.gov/pubmed/31923213); PMCID: [PMC6953876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6953876).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31923213/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  48. Wang L, [Piedra PA](https://profiles.viictr.org/profile/268114), **Avadhanula V** , Machablishvili A, Thornburg NJ, Peret TCT, Durigon EL, L?pez MR. Duplex real-time RT-PCR assay for detection and subgroup-specific identification of human respiratory syncytial virus. J Virol Methods. 2019 09; 271:113676. PMID: [31181218](//www.ncbi.nlm.nih.gov/pubmed/31181218); PMCID: [PMC7172218](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7172218).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31181218/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  49. Hause AM, **Avadhanula V** , Maccato ML, Pinell PM, Bond N, Santarcangelo P, Ferlic-Stark L, Ye X, Iwuchukwu O, Maurer L, Aideyan L, Dao K, McBride T, [Piedra PA](https://profiles.viictr.org/profile/268114), Munoz FM. Clinical characteristics and outcomes of respiratory syncytial virus infection in pregnant women. Vaccine. 2019 06 06; 37(26):3464-3471. PMID: [31085002](//www.ncbi.nlm.nih.gov/pubmed/31085002); PMCID: [PMC7126758](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7126758).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31085002/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  50. Mansbach JM, Hasegawa K, [Piedra PA](https://profiles.viictr.org/profile/268114), **Avadhanula V** , [Petrosino JF](https://profiles.viictr.org/profile/267058), Sullivan AF, Espinola JA, Camargo CA. Haemophilus-Dominant Nasopharyngeal Microbiota Is Associated With Delayed Clearance of Respiratory Syncytial Virus in Infants Hospitalized for Bronchiolitis. J Infect Dis. 2019 05 05; 219(11):1804-1808. PMID: [30590603](//www.ncbi.nlm.nih.gov/pubmed/30590603); PMCID: [PMC6500556](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6500556).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30590603/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  51. Petrova EV, **Avadhanula V** , Michel S, Gincoo KE, [Piedra PA](https://profiles.viictr.org/profile/268114), [Anandasabapathy S](https://profiles.viictr.org/profile/5866082). Remote Laboratory Management: Respiratory Virus Diagnostics. J Vis Exp. 2019 04 06; (146). PMID: [31009009](//www.ncbi.nlm.nih.gov/pubmed/31009009).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31009009/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansCells
+
+  52. [Nicholson EG](https://profiles.viictr.org/profile/6714288), **Avadhanula V** , Ferlic-Stark L, Patel K, Gincoo KE, [Piedra PA](https://profiles.viictr.org/profile/268114). The Risk of Serious Bacterial Infection in Febrile Infants 0-90 Days of Life With a Respiratory Viral Infection. Pediatr Infect Dis J. 2019 04; 38(4):355-361. PMID: [30882724](//www.ncbi.nlm.nih.gov/pubmed/30882724).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30882724/citedby/) Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:HumansCells
+
+  53. Ye X, Iwuchukwu OP, **Avadhanula V** , Aideyan LO, McBride TJ, Ferlic-Stark LL, Patel KD, Piedra FA, [Shah DP](https://profiles.viictr.org/profile/17439980), [Chemaly RF](https://profiles.viictr.org/profile/12583400), [Piedra PA](https://profiles.viictr.org/profile/268114). Antigenic Site-Specific Competitive Antibody Responses to the Fusion Protein of Respiratory Syncytial Virus Were Associated With Viral Clearance in Hematopoietic Cell Transplantation Adults. Front Immunol. 2019; 10:706. PMID: [30984206](//www.ncbi.nlm.nih.gov/pubmed/30984206); PMCID: [PMC6449644](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6449644).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30984206/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCellsCTClinical Trials
+
+  54. Hause AM, **Avadhanula V** , Maccato ML, Pinell PM, Bond N, Santarcangelo P, Ferlic-Stark L, Munoz FM, [Piedra PA](https://profiles.viictr.org/profile/268114). A Cross-sectional Surveillance Study of the Frequency and Etiology of Acute Respiratory Illness Among Pregnant Women. J Infect Dis. 2018 07 13; 218(4):528-535. PMID: [29741642](//www.ncbi.nlm.nih.gov/pubmed/29741642); PMCID: [PMC7107407](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7107407).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29741642/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  55. Ye X, Iwuchukwu OP, **Avadhanula V** , Aideyan LO, McBride TJ, Ferlic-Stark LL, Patel KD, Piedra FA, [Shah DP](https://profiles.viictr.org/profile/17439980), [Chemaly RF](https://profiles.viictr.org/profile/12583400), [Piedra PA](https://profiles.viictr.org/profile/268114). Comparison of Palivizumab-Like Antibody Binding to Different Conformations of the RSV F Protein in RSV-Infected Adult Hematopoietic Cell Transplant Recipients. J Infect Dis. 2018 03 28; 217(8):1247-1256. PMID: [29365155](//www.ncbi.nlm.nih.gov/pubmed/29365155).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29365155/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  56. Hause AM, Henke DM, **Avadhanula V** , [Shaw CA](https://profiles.viictr.org/profile/269433), Tapia LI, [Piedra PA](https://profiles.viictr.org/profile/268114). Correction: Sequence variability of the respiratory syncytial virus (RSV) fusion gene among contemporary and historical genotypes of RSV/A and RSV/B. PLoS One. 2017; 12(6):e0180623. PMID: [28658276](//www.ncbi.nlm.nih.gov/pubmed/28658276); PMCID: [PMC5489218](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5489218).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+  57. Hause AM, Henke DM, **Avadhanula V** , [Shaw CA](https://profiles.viictr.org/profile/269433), Tapia LI, [Piedra PA](https://profiles.viictr.org/profile/268114). Sequence variability of the respiratory syncytial virus (RSV) fusion gene among contemporary and historical genotypes of RSV/A and RSV/B. PLoS One. 2017; 12(4):e0175792. PMID: [28414749](//www.ncbi.nlm.nih.gov/pubmed/28414749); PMCID: [PMC5393888](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5393888).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28414749/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  58. Torres JP, **Avadhanula V** , [Piedra PA](https://profiles.viictr.org/profile/268114), Espinosa Y, San Mart?n C, Torres AA, Farf?n MJ, Tapia LI. Genomic Loads and Genotypes of Respiratory Syncytial Virus: Viral Factors during Lower Respiratory Tract Infection in Chilean Hospitalized Infants. Int J Mol Sci. 2017 Mar 21; 18(3). PMID: [28335547](//www.ncbi.nlm.nih.gov/pubmed/28335547); PMCID: [PMC5372666](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5372666).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28335547/citedby/) Fields:
+
+Bio BiochemistryChe ChemistryMol Molecular Biology
+
+Translation:HumansCells
+
+  59. Mei M, **Avadhanula V** , Mehta R, Aideyan L, Garofalo RP, [Piedra PA](https://profiles.viictr.org/profile/268114), Piedra FA. The interdependencies of viral load, the innate immune response, and clinical outcome in children presenting to the emergency department with respiratory syncytial virus-associated bronchiolitis. PLoS One. 2017; 12(3):e0172953. PMID: [28267794](//www.ncbi.nlm.nih.gov/pubmed/28267794); PMCID: [PMC5340370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5340370).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28267794/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  60. [Gaglani M](https://profiles.viictr.org/profile/45302198), Pruszynski J, Murthy K, Clipper L, Robertson A, Reis M, Chung JR, [Piedra PA](https://profiles.viictr.org/profile/268114), **Avadhanula V** , Nowalk MP, Zimmerman RK, Jackson ML, Jackson LA, Petrie JG, Ohmit SE, Monto AS, McLean HQ, Belongia EA, Fry AM, Flannery B. Influenza Vaccine Effectiveness Against 2009 Pandemic Influenza A(H1N1) Virus Differed by Vaccine Type During 2013-2014 in the United States. J Infect Dis. 2016 May 15; 213(10):1546-56. PMID: [26743842](//www.ncbi.nlm.nih.gov/pubmed/26743842); PMCID: [PMC4837903](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4837903).
+
+Citations:
+[88](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26743842/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsPHPublic Health
+
+  61. Hasegawa K, Linnemann RW, **Avadhanula V** , Mansbach JM, [Piedra PA](https://profiles.viictr.org/profile/268114), Gern JE, Camargo CA. Detection of respiratory syncytial virus and rhinovirus in healthy infants. BMC Res Notes. 2015 Nov 25; 8:718. PMID: [26608824](//www.ncbi.nlm.nih.gov/pubmed/26608824); PMCID: [PMC4660840](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4660840).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26608824/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansCells
+
+  62. Spencer S, Chung J, Thompson M, [Piedra PA](https://profiles.viictr.org/profile/268114), Jewell A, **Avadhanula V** , Mei M, Jackson ML, Meece J, Sundaram M, Belongia EA, Cross R, Johnson E, Bullotta A, Rinaldo C, [Gaglani M](https://profiles.viictr.org/profile/45302198), Murthy K, Clipper L, Berman L, Flannery B. Factors associated with real-time RT-PCR cycle threshold values among medically attended influenza episodes. J Med Virol. 2016 Apr; 88(4):719-23. PMID: [26334765](//www.ncbi.nlm.nih.gov/pubmed/26334765).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26334765/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  63. **Avadhanula V** , [Chemaly RF](https://profiles.viictr.org/profile/12583400), [Shah DP](https://profiles.viictr.org/profile/17439980), Ghantoji SS, Azzi JM, Aideyan LO, Mei M, [Piedra PA](https://profiles.viictr.org/profile/268114). Infection with novel respiratory syncytial virus genotype Ontario (ON1) in adult hematopoietic cell transplant recipients, Texas, 2011-2013. J Infect Dis. 2015 Feb 15; 211(4):582-9. PMID: [25156562](//www.ncbi.nlm.nih.gov/pubmed/25156562).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25156562/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  64. Mehta R, Scheffler M, Tapia L, Aideyan L, Patel KD, Jewell AM, **Avadhanula V** , Mei M, Garofalo RP, [Piedra PA](https://profiles.viictr.org/profile/268114). Lactate dehydrogenase and caspase activity in nasopharyngeal secretions are predictors of bronchiolitis severity. Influenza Other Respir Viruses. 2014 Nov; 8(6):617-25. PMID: [25132512](//www.ncbi.nlm.nih.gov/pubmed/25132512); PMCID: [PMC4262276](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4262276).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25132512/citedby/) Fields:
+
+Vir Virology
+
+Translation:Humans
+
+  65. Huang Z, Kingsolver MB, **Avadhanula V** , Hardy RW. An antiviral role for antimicrobial peptides during the arthropod response to alphavirus replication. J Virol. 2013 Apr; 87(8):4272-80. PMID: [23365449](//www.ncbi.nlm.nih.gov/pubmed/23365449); PMCID: [PMC3624382](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3624382).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23365449/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCells
+
+  66. **Avadhanula V** , Weasner BP, Hardy GG, Kumar JP, Hardy RW. A novel system for the launch of alphavirus RNA synthesis reveals a role for the Imd pathway in arthropod antiviral response. PLoS Pathog. 2009 Sep; 5(9):e1000582. PMID: [19763182](//www.ncbi.nlm.nih.gov/pubmed/19763182); PMCID: [PMC2738967](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2738967).
+
+Citations:
+[98](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19763182/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:AnimalsCellsPHPublic Health
+
+  67. **Avadhanula V** , Wang Y, Portner A, Adderson E. Nontypeable Haemophilus influenzae and Streptococcus pneumoniae bind respiratory syncytial virus glycoprotein. J Med Microbiol. 2007 Sep; 56(Pt 9):1133-1137. PMID: [17761473](//www.ncbi.nlm.nih.gov/pubmed/17761473).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17761473/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:AnimalsCells
+
+  68. Gutala R, Carvalho-Silva DR, Jin L, Yngvadottir B, **Avadhanula V** , Nanne K, Singh L, Chakraborty R, Tyler-Smith C. A shared Y-chromosomal heritage between Muslims and Hindus in India. Hum Genet. 2006 Nov; 120(4):543-51. PMID: [16951948](//www.ncbi.nlm.nih.gov/pubmed/16951948); PMCID: [PMC2590854](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2590854).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16951948/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  69. **Avadhanula V** , Rodriguez CA, Devincenzo JP, Wang Y, Webby RJ, Ulett GC, Adderson EE. Respiratory viruses augment the adhesion of bacterial pathogens to respiratory epithelium in a viral species- and cell type-dependent manner. J Virol. 2006 Feb; 80(4):1629-36. PMID: [16439519](//www.ncbi.nlm.nih.gov/pubmed/16439519); PMCID: [PMC1367158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1367158).
+
+Citations:
+[139](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16439519/citedby/)
+Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  70. **Avadhanula V** , Rodriguez CA, Ulett GC, Bakaletz LO, Adderson EE. Nontypeable Haemophilus influenzae adheres to intercellular adhesion molecule 1 (ICAM-1) on respiratory epithelial cells and upregulates ICAM-1 expression. Infect Immun. 2006 Feb; 74(2):830-8. PMID: [16428725](//www.ncbi.nlm.nih.gov/pubmed/16428725); PMCID: [PMC1360337](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1360337).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16428725/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansAnimalsCells
+
+  71. Rodriguez CA, **Avadhanula V** , Buscher A, Smith AL, St Geme JW, Adderson EE. Prevalence and distribution of adhesins in invasive non-type b encapsulated Haemophilus influenzae. Infect Immun. 2003 Apr; 71(4):1635-42. PMID: [12654775](//www.ncbi.nlm.nih.gov/pubmed/12654775); PMCID: [PMC152026](//www.ncbi.nlm.nih.gov/pmc/articles/PMC152026).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12654775/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 71 publications over 16 distinct years, with a maximum of
+17 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|17&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,6,0,0,18,6,0,6,0,0,0,6,12,12,6,24,12,35,41,100,35,59,41&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2003| 1  
+2006| 3  
+2007| 1  
+2009| 1  
+2013| 1  
+2014| 2  
+2015| 2  
+2016| 1  
+2017| 4  
+2018| 2  
+2019| 6  
+2020| 7  
+2021| 17  
+2022| 6  
+2023| 10  
+2024| 7  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+AVADHANULA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (244)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Respiratory Syncytial Virus, Human](https://profiles.viictr.org/profile/259655)
+  * [Respiratory Syncytial Virus Infections](https://profiles.viictr.org/profile/249944)
+  * [Viral Load](https://profiles.viictr.org/profile/264561)
+  * [RNA, Viral](https://profiles.viictr.org/profile/247028)
+  * [Viral Fusion Proteins](https://profiles.viictr.org/profile/256053)
+
+[Explore](https://profiles.viictr.org/profile/28999033/198)
+
+_
+
+Co-Authors (57)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [PIEDRA, PEDRO](https://profiles.viictr.org/profile/268114)
+  * [NICHOLSON, ERIN](https://profiles.viictr.org/profile/6714288)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [PETROSINO, JOSEPH](https://profiles.viictr.org/profile/267058)
+  * [ALOISIO, GINA](https://profiles.viictr.org/profile/34493459)
+
+[Explore](https://profiles.viictr.org/profile/28999033/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PIEDRA, PEDRO](https://profiles.viictr.org/profile/268114)
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [CHEMALY, ROY F](https://profiles.viictr.org/profile/12583400)
+  * [MUNOZ-RIVAS, FLOR](https://profiles.viictr.org/profile/267015)
+  * [HO, DAVID](https://profiles.viictr.org/profile/267305)
+
+[Explore](https://profiles.viictr.org/profile/28999033/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [EL SAHLY, HANA](https://profiles.viictr.org/profile/266773)
+  * [JAVORNIK CREGEEN, SARA JOAN](https://profiles.viictr.org/profile/31330339)
+  * [LEMON, KATHERINE](https://profiles.viictr.org/profile/28999551)
+  * [MARRIOTT, SUSAN](https://profiles.viictr.org/profile/268294)
+  * [PIEDRA, PEDRO](https://profiles.viictr.org/profile/268114)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

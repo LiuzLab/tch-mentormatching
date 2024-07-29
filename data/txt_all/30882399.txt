@@ -1,0 +1,1231 @@
+## ELMER BERNSTAM
+
+| | Title| Visiting Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=ZPhisDSRQIn2S8Ho5G4%3d&rnd=e5921a17-a8bf-41ce-b55e-a47707c290e9)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=30882399)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Bernstam EV** , Araya A, Decaro M, Johnson TR. Informatics hygiene to support reuse of routinely collected health care data for evidence-based practice. BMJ Evid Based Med. 2024 Jul 04. PMID: [38964830](//www.ncbi.nlm.nih.gov/pubmed/38964830).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+  2. Campion TR, Craven CK, Dorr DA, **Bernstam EV** , Knosp BM. Understanding enterprise data warehouses to support clinical and translational research: impact, sustainability, demand management, and accessibility. J Am Med Inform Assoc. 2024 Jun 20; 31(7):1522-1528. PMID: [38777803](//www.ncbi.nlm.nih.gov/pubmed/38777803); PMCID: [PMC11187432](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11187432).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38777803/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  3. Tan Y, Dede M, Mohanty V, Dou J, Hill H, **Bernstam E** , Chen K. Forecasting acute kidney injury and resource utilization in ICU patients using longitudinal, multimodal models. J Biomed Inform. 2024 Jun; 154:104648. PMID: [38692464](//www.ncbi.nlm.nih.gov/pubmed/38692464).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  4. Craven CK, Highfield L, Basit M, **Bernstam EV** , Choi BY, Ferrer RL, Gelfond JA, Pruitt SL, Kannan V, Shireman PK, Spratt H, Morales KJT, Wang CP, Wang Z, Zozus MN, Sankary EC, Schmidt S. Erratum: Toward standardization, harmonization, and integration of social determinants of health data: A Texas Clinical and Translational Science Award institutions collaboration - CORRIGENDUM. J Clin Transl Sci. 2024; 8(1):e62. PMID: [38655452](//www.ncbi.nlm.nih.gov/pubmed/38655452); PMCID: [PMC11036420](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11036420).
+
+Citations:
+
+  5. Azhir A, H?gel J, Tian J, Cheng J, Bassett IV, Bell DS, **Bernstam EV** , Farhat MR, Henderson DW, Lau ES, Morris M, Semenov YR, Triant VA, Visweswaran S, Strasser ZH, Klann JG, Murphy SN, Estiri H. Precision Phenotyping for Curating Research Cohorts of Patients with Post-Acute Sequelae of COVID-19 (PASC) as a Diagnosis of Exclusion. medRxiv. 2024 Apr 16. PMID: [38699316](//www.ncbi.nlm.nih.gov/pubmed/38699316); PMCID: [PMC11065031](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11065031).
+
+Citations:
+
+  6. Tan Y, Dede M, Mohanty V, Dou J, Hill H, **Bernstam E** , Chen K. Forecasting Acute Kidney Injury and Resource Utilization in ICU patients using longitudinal, multimodal models. medRxiv. 2024 Mar 15. PMID: [38559064](//www.ncbi.nlm.nih.gov/pubmed/38559064); PMCID: [PMC10980131](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10980131).
+
+Citations:
+
+  7. Craven CK, Highfield L, Basit M, **Bernstam EV** , Choi BY, Ferrer RL, Gelfond JA, Pruitt SL, Kannan V, Shireman PK, Spratt H, Morales KJT, Wang CP, Wang Z, Zozus MN, Sankary EC, Schmidt S. Toward standardization, harmonization, and integration of social determinants of health data: A Texas Clinical and Translational Science Award institutions collaboration. J Clin Transl Sci. 2024; 8(1):e17. PMID: [38384919](//www.ncbi.nlm.nih.gov/pubmed/38384919); PMCID: [PMC10880009](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10880009).
+
+Citations:
+
+  8. Haley LC, Boyd AK, Hebballi NB, Reynolds EW, Smith KG, Scully PT, Nguyen TL, **Bernstam EV** , Li LT. Attitudes on Artificial Intelligence use in Pediatric Care From Parents of Hospitalized Children. J Surg Res. 2024 Mar; 295:158-167. PMID: [38016269](//www.ncbi.nlm.nih.gov/pubmed/38016269).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38016269/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  9. Zhang K, Lincoln JA, Jiang X, **Bernstam EV** , Shams S. Predicting multiple sclerosis severity with multimodal deep neural networks. BMC Med Inform Decis Mak. 2023 11 09; 23(1):255. PMID: [37946182](//www.ncbi.nlm.nih.gov/pubmed/37946182); PMCID: [PMC10634041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10634041).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37946182/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  10. Li LT, Haley LC, Boyd AK, **Bernstam EV**. Technical/Algorithm, Stakeholder, and Society (TASS) barriers to the application of artificial intelligence in medicine: A systematic review. J Biomed Inform. 2023 11; 147:104531. PMID: [37884177](//www.ncbi.nlm.nih.gov/pubmed/37884177).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  11. Deng Y, Gleason LP, Culbertson A, Chen X, **Bernstam EV** , Cullen T, Gouripeddi R, Harle C, Hesse DF, Kean J, Lee J, Magoc T, Meeker D, Ong T, Pathak J, Rosenman M, Rusie LK, Shah AJ, Shi L, Thomas A, Trick WE, Grannis S, Kho A. Evolving availability and standardization of patient attributes for matching. Health Aff Sch. 2023 Oct; 1(4):qxad047. PMID: [38756741](//www.ncbi.nlm.nih.gov/pubmed/38756741); PMCID: [PMC10986191](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10986191).
+
+Citations:
+
+  12. Araya A, Thornton LR, Kwon D, Ferguson GM, Highfield LD, Hwang KO, Holmes HM, **Bernstam EV**. Medication Reconciliation during Transitions of Care Across Institutions: A Quantitative Analysis of Challenges and Opportunities. Appl Clin Inform. 2023 10; 14(5):923-931. PMID: [37726022](//www.ncbi.nlm.nih.gov/pubmed/37726022); PMCID: [PMC10665121](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10665121).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  13. Huang T, Li LT, **Bernstam EV** , Jiang X. Confidence-based laboratory test reduction recommendation algorithm. BMC Med Inform Decis Mak. 2023 05 10; 23(1):93. PMID: [37165369](//www.ncbi.nlm.nih.gov/pubmed/37165369); PMCID: [PMC10173656](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10173656).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  14. Swails JL, **Bernstam EV**. To err is divine? Med Educ. 2023 05; 57(5):389-391. PMID: [36811142](//www.ncbi.nlm.nih.gov/pubmed/36811142).
+
+Citations:  Fields:
+
+Edu Education
+
+  15. Johnson TR, **Bernstam EV**. Why is biomedical informatics hard? A fundamental framework. J Biomed Inform. 2023 04; 140:104327. PMID: [36893995](//www.ncbi.nlm.nih.gov/pubmed/36893995).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  16. Abeysinghe R, Zheng F, **Bernstam EV** , Shi J, Bodenreider O, Cui L. A deep learning approach to identify missing is-a relations in SNOMED CT. J Am Med Inform Assoc. 2023 02 16; 30(3):475-484. PMID: [36539234](//www.ncbi.nlm.nih.gov/pubmed/36539234); PMCID: [PMC9933066](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9933066).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  17. Samuel S, To C, Ling Y, Zhang K, Jiang X, **Bernstam EV**. Enoxaparin may be associated with lower rates of mortality than unfractionated heparin in neurocritical and surgical patients. J Thromb Thrombolysis. 2023 Apr; 55(3):439-448. PMID: [36624202](//www.ncbi.nlm.nih.gov/pubmed/36624202); PMCID: [PMC9838369](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9838369).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36624202/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  18. Yan Q, Kim J, Hall DE, Shinall MC, Reitz KM, Stitzenberg KB, Kao LS, George EL, Youk A, Wang CP, Silverstein JC, **Bernstam EV** , Shireman PK. Association of Frailty and the Expanded Operative Stress Score with Preoperative Acute Serious Conditions, Complications, and Mortality in Males Compared to Females: A Retrospective Observational Study. Ann Surg. 2023 02 01; 277(2):e294-e304. PMID: [34183515](//www.ncbi.nlm.nih.gov/pubmed/34183515); PMCID: [PMC8709872](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8709872).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34183515/citedby/) Fields:
+
+Gen General Surgery
+
+  19. **Bernstam EV** , Applegate RJ, Yu A, Chaudhari D, Liu T, Coda A, Leshin J. Real-World Matching Performance of Deidentified Record-Linking Tokens. Appl Clin Inform. 2022 08; 13(4):865-873. PMID: [35896508](//www.ncbi.nlm.nih.gov/pubmed/35896508); PMCID: [PMC9474266](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9474266).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  20. Hamilton JE, Blanco E, Selek S, Wirfel KL, **Bernstam EV** , Velligan D, Gudala M, Roberts K. Patient and Provider Perspectives on Medication Non-adherence Among Patients with Depression and/or Diabetes in Diverse Community Settings - A Qualitative Analysis. Patient Prefer Adherence. 2022; 16:1581-1594. PMID: [35795010](//www.ncbi.nlm.nih.gov/pubmed/35795010); PMCID: [PMC9252600](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9252600).
+
+Citations:
+
+  21. Mower J, **Bernstam E** , Xu H, Myneni S, Subramanian D, Cohen T. Improving Pharmacovigilance Signal Detection from Clinical Notes with Locality Sensitive Neural Concept Embeddings. AMIA Jt Summits Transl Sci Proc. 2022; 2022:349-358. PMID: [35854716](//www.ncbi.nlm.nih.gov/pubmed/35854716); PMCID: [PMC9285153](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9285153).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  22. **Bernstam EV** , Warner JL, Krauss JC, Ambinder E, Rubinstein WS, Komatsoulis G, Miller RS, Chen JL. Quantitating and assessing interoperability between electronic health records. J Am Med Inform Assoc. 2022 04 13; 29(5):753-760. PMID: [35015861](//www.ncbi.nlm.nih.gov/pubmed/35015861); PMCID: [PMC9006690](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9006690).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35015861/citedby/) Fields:
+
+Med Medical Informatics
+
+  23. Kumar A, Goodrum H, Kim A, Stender C, Roberts K, **Bernstam EV**. Closing the loop: automatically identifying abnormal imaging results in scanned documents. J Am Med Inform Assoc. 2022 04 13; 29(5):831-840. PMID: [35146510](//www.ncbi.nlm.nih.gov/pubmed/35146510); PMCID: [PMC9714594](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9714594).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  24. Holcomb J, Oliveira LC, Highfield L, Hwang KO, Giancardo L, **Bernstam EV**. Predicting health-related social needs in Medicaid and Medicare populations using machine learning. Sci Rep. 2022 03 16; 12(1):4554. PMID: [35296719](//www.ncbi.nlm.nih.gov/pubmed/35296719); PMCID: [PMC8927567](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8927567).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35296719/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansPHPublic Health
+
+  25. Knosp BM, Craven CK, Dorr DA, **Bernstam EV** , Campion TR. Understanding enterprise data warehouses to support clinical and translational research: enterprise information technology relationships, data governance, workforce, and cloud computing. J Am Med Inform Assoc. 2022 03 15; 29(4):671-676. PMID: [35289370](//www.ncbi.nlm.nih.gov/pubmed/35289370); PMCID: [PMC8922193](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8922193).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35289370/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  26. Pfaff ER, Girvin AT, Gabriel DL, Kostka K, Morris M, Palchuk MB, Lehmann HP, Amor B, Bissell M, Bradwell KR, Gold S, Hong SS, Loomba J, Manna A, McMurry JA, Niehaus E, Qureshi N, Walden A, Zhang XT, Zhu RL, Moffitt RA, Haendel MA, Chute CG, N3C Consortium, Adams WG, Al-Shukri S, Anzalone A, Baghal A, Bennett TD, **Bernstam EV** , Bissell MM, Bush B, Campion TR, Castro V, Chang J, Chaudhari DD, Chen W, Chu S, Cimino JJ, Crandall KA, Crooks M, Davies SJD, DiPalazzo J, Dorr D, Eckrich D, Eltinge SE, Fort DG, Golovko G, Gupta S, Haendel MA, Hajagos JG, Hanauer DA, Harnett BM, Horswell R, Huang N, Johnson SG, Kahn M, Khanipov K, Kieler C, Luzuriaga KR, Maidlow S, Martinez A, Mathew J, McClay JC, McMahan G, Melancon B, Meystre S, Miele L, Morizono H, Pablo R, Patel L, Phuong J, Popham DJ, Pulgarin C, Santos C, Sarkar IN, Sazo N, Setoguchi S, Soby S, Surampalli S, Suver C, Vangala UMR, Visweswaran S, Oehsen JV, Walters KM, Wiley L, Williams DA, Zai A. Synergies between centralized and federated approaches to data quality: a report from the national COVID cohort collaborative. J Am Med Inform Assoc. 2022 03 15; 29(4):609-618. PMID: [34590684](//www.ncbi.nlm.nih.gov/pubmed/34590684); PMCID: [PMC8500110](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8500110).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34590684/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  27. Li LT, Huang T, **Bernstam EV** , Jiang X. External Validation of a Laboratory Prediction Algorithm for the Reduction of Unnecessary Labs in the Critical Care Setting. Am J Med. 2022 06; 135(6):769-774. PMID: [35114179](//www.ncbi.nlm.nih.gov/pubmed/35114179).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  28. Swails JL, Gadgil MA, Goodrum H, Gupta R, Rahbar MH, **Bernstam EV**. Role of faculty characteristics in failing to fail in clinical clerkships. Med Educ. 2022 06; 56(6):634-640. PMID: [34983083](//www.ncbi.nlm.nih.gov/pubmed/34983083).
+
+Citations:  Fields:
+
+Edu Education
+
+Translation:Humans
+
+  29. Schorer AE, Moldwin R, Koskimaki J, **Bernstam EV** , Venepalli NK, Miller RS, Chen JL. Chasm Between Cancer Quality Measures and Electronic Health Record Data Quality. JCO Clin Cancer Inform. 2022 01; 6:e2100128. PMID: [34985912](//www.ncbi.nlm.nih.gov/pubmed/34985912); PMCID: [PMC9848533](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9848533).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  30. **Bernstam EV** , Shireman PK, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), N Zozus M, Jiang X, Brimhall BB, Windham AK, Schmidt S, Visweswaran S, Ye Y, Goodrum H, Ling Y, Barapatre S, Becich MJ. Artificial intelligence in clinical and translational science: Successes, challenges and opportunities. Clin Transl Sci. 2022 02; 15(2):309-321. PMID: [34706145](//www.ncbi.nlm.nih.gov/pubmed/34706145); PMCID: [PMC8841416](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8841416).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34706145/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  31. Ali FS, DaVee T, **Bernstam EV** , Kao LS, Wandling M, Hussain MR, Rashtak S, Ramireddy S, Guha S, Thosani N. Cost-effectiveness analysis of optimal diagnostic strategy for patients with symptomatic cholelithiasis with intermediate probability for choledocholithiasis. Gastrointest Endosc. 2022 Feb; 95(2):327-338. PMID: [34499905](//www.ncbi.nlm.nih.gov/pubmed/34499905).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingGas GastroenterologyThe Therapeutics
+
+Translation:Humans
+
+  32. Dong X, Zhou Y, Shu XO, **Bernstam EV** , Stern R, Aronoff DM, Xu H, Lipworth L. Comprehensive Characterization of COVID-19 Patients with Repeatedly Positive SARS-CoV-2 Tests Using a Large U.S. Electronic Health Record Database. Microbiol Spectr. 2021 09 03; 9(1):e0032721. PMID: [34406805](//www.ncbi.nlm.nih.gov/pubmed/34406805); PMCID: [PMC8552669](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8552669).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34406805/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  33. Diaz-Garelli F, Johnson TR, Rahbar MH, **Bernstam EV**. Exploring the Hazards of Scaling Up Clinical Data Analyses: A Drug Side Effect Discovery Case Report. AMIA Jt Summits Transl Sci Proc. 2021; 2021:180-189. PMID: [34457132](//www.ncbi.nlm.nih.gov/pubmed/34457132); PMCID: [PMC8378643](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8378643).
+
+Citations:  Translation:Humans
+
+  34. Malec SA, Wei P, **Bernstam EV** , Boyce RD, Cohen T. Using computable knowledge mined from the literature to elucidate confounders for EHR-based pharmacovigilance. J Biomed Inform. 2021 05; 117:103719. PMID: [33716168](//www.ncbi.nlm.nih.gov/pubmed/33716168); PMCID: [PMC8559730](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8559730).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33716168/citedby/) Fields:
+
+Med Medical Informatics
+
+  35. Si Y, **Bernstam EV** , Roberts K. Generalized and transferable patient language representation for phenotyping with limited data. J Biomed Inform. 2021 04; 116:103726. PMID: [33711541](//www.ncbi.nlm.nih.gov/pubmed/33711541).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  36. Chandran A, Rashtak S, Patil P, Gottlieb A, **Bernstam E** , Guha S, Ramireddy S, Badillo R, DaVee RT, Kao LS, Thosani N. Comparing diagnostic accuracy of current practice guidelines in predicting choledocholithiasis: outcomes from a large healthcare system comprising both academic and community settings. Gastrointest Endosc. 2021 06; 93(6):1351-1359. PMID: [33160977](//www.ncbi.nlm.nih.gov/pubmed/33160977).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33160977/citedby/) Fields:
+
+Dia Diagnostic ImagingGas GastroenterologyThe Therapeutics
+
+Translation:Humans
+
+  37. Raisaro JL, Marino F, Troncoso-Pastoriza J, Beau-Lejdstrom R, Bellazzi R, Murphy R, **Bernstam EV** , Wang H, Bucalo M, Chen Y, Gottlieb A, Harmanci A, Kim M, Kim Y, Klann J, Klersy C, Malin BA, Prasser F, Scudeller L, Torkamani A, Vaucher J, Puppala M, Wong STC, Frenkel-Morgenstern M, Xu H, Musa BM, Habib AG, Cohen T, Wilcox A, Salihu HM, Sofia H, Jiang X, Hubaux JP, M?an M. SCOR: A secure international informatics infrastructure to investigate COVID-19. J Am Med Inform Assoc. 2020 11 01; 27(11):1721-1726. PMID: [32918447](//www.ncbi.nlm.nih.gov/pubmed/32918447); PMCID: [PMC7454652](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7454652).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32918447/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:HumansPHPublic Health
+
+  38. Seligson ND, Warner JL, Dalton WS, Martin D, Miller RS, Patt D, Kehl KL, Palchuk MB, Alterovitz G, Wiley LK, Huang M, Shen F, Wang Y, Nguyen KA, Wong AF, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), **Bernstam EV** , Chen JL. Recommendations for patient similarity classes: results of the AMIA 2019 workshop on defining patient similarity. J Am Med Inform Assoc. 2020 11 01; 27(11):1808-1812. PMID: [32885823](//www.ncbi.nlm.nih.gov/pubmed/32885823); PMCID: [PMC7671612](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7671612).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32885823/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  39. Goodrum H, Roberts K, **Bernstam EV**. Automatic classification of scanned electronic health record documents. Int J Med Inform. 2020 12; 144:104302. PMID: [33091829](//www.ncbi.nlm.nih.gov/pubmed/33091829); PMCID: [PMC7731898](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7731898).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33091829/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  40. Yu L, Li L, **Bernstam E** , Jiang X. A deep learning solution to recommend laboratory reduction strategies in ICU. Int J Med Inform. 2020 12; 144:104282. PMID: [33010730](//www.ncbi.nlm.nih.gov/pubmed/33010730); PMCID: [PMC10777357](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10777357).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33010730/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  41. Araya A, Zeng J, Johnson A, Shufean MA, Rodon J, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), **Bernstam EV**. Rate of change in investigational treatment options: An analysis of reports from a large precision oncology decision support effort. Int J Med Inform. 2020 11; 143:104261. PMID: [32889387](//www.ncbi.nlm.nih.gov/pubmed/32889387); PMCID: [PMC9131704](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9131704).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32889387/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  42. Barak-Corren Y, Castro VM, Nock MK, Mandl KD, Madsen EM, Seiger A, Adams WG, Applegate RJ, **Bernstam EV** , Klann JG, McCarthy EP, Murphy SN, Natter M, Ostasiewski B, Patibandla N, Rosenthal GE, Silva GS, Wei K, Weber GM, Weiler SR, Reis BY, Smoller JW. Validation of an Electronic Health Record-Based Suicide Risk Prediction Modeling Approach Across Multiple Health Care Systems. JAMA Netw Open. 2020 03 02; 3(3):e201262. PMID: [32211868](//www.ncbi.nlm.nih.gov/pubmed/32211868); PMCID: [PMC11136522](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11136522).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32211868/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  43. Yu L, Zhang Q, **Bernstam EV** , Jiang X. Predict or draw blood: An integrated method to reduce lab tests. J Biomed Inform. 2020 04; 104:103394. PMID: [32113004](//www.ncbi.nlm.nih.gov/pubmed/32113004).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32113004/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  44. Datta S, **Bernstam EV** , Roberts K. A frame semantic overview of NLP-based information extraction for cancer-related EHR notes. J Biomed Inform. 2019 12; 100:103301. PMID: [31589927](//www.ncbi.nlm.nih.gov/pubmed/31589927).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31589927/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  45. Arango NP, Brusco L, Shaw KRM, Chen K, [Eterovic AK](https://profiles.viictr.org/profile/12582750), Holla V, Johnson A, Litzenburger B, Khotskaya YB, Sanchez N, Bailey A, Zheng X, Horombe C, Kopetz S, Farhangfar CJ, [Routbort M](https://profiles.viictr.org/profile/12583448), [Broaddus R](https://profiles.viictr.org/profile/12582588), **Bernstam EV** , [Mendelsohn J](https://profiles.viictr.org/profile/12582942), [Mills GB](https://profiles.viictr.org/profile/12582930), [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Correction: A feasibility study of returning clinically actionable somatic genomic alterations identified in a research laboratory. Oncotarget. 2019 Aug 27; 10(50):5254. PMID: [31497255](//www.ncbi.nlm.nih.gov/pubmed/31497255); PMCID: [PMC6718259](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6718259).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+  46. Diaz-Garelli JF, **Bernstam EV** , Lee M, Hwang KO, Rahbar MH, Johnson TR. DataGauge: A Practical Process for Systematically Designing and Implementing Quality Assessments of Repurposed Clinical Data. EGEMS (Wash DC). 2019 Jul 25; 7(1):32. PMID: [31367649](//www.ncbi.nlm.nih.gov/pubmed/31367649); PMCID: [PMC6659577](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6659577).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31367649/citedby/)
+
+  47. Zeng J, Shufean MA, Khotskaya Y, Yang D, Kahle M, Johnson A, Holla V, Mills Shaw KR, **Bernstam EV** , [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), S?nchez N. OCTANE: Oncology Clinical Trial Annotation Engine. JCO Clin Cancer Inform. 2019 07; 3:1-11. PMID: [31265323](//www.ncbi.nlm.nih.gov/pubmed/31265323); PMCID: [PMC6873935](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6873935).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31265323/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  48. Estiri H, Klann JG, Weiler SR, Alema-Mensah E, Joseph Applegate R, Lozinski G, Patibandla N, Wei K, Adams WG, Natter MD, Ofili EO, Ostasiewski B, Quarshie A, Rosenthal GE, **Bernstam EV** , Mandl KD, Murphy SN. A federated EHR network data completeness tracking system. J Am Med Inform Assoc. 2019 07 01; 26(7):637-645. PMID: [30925587](//www.ncbi.nlm.nih.gov/pubmed/30925587); PMCID: [PMC6586954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6586954).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30925587/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  49. Chang JT, Volk DE, Gorenstein DG, Steffen D, **Bernstam EV**. Bioinformatics service center projects go beyond service. J Biomed Inform. 2019 06; 94:103192. PMID: [31048074](//www.ncbi.nlm.nih.gov/pubmed/31048074); PMCID: [PMC6785826](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6785826).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  50. [George GC](https://profiles.viictr.org/profile/17440030), Iwuanyanwu EC, Buford AS, [Piha-Paul SA](https://profiles.viictr.org/profile/12582720), [Subbiah V](https://profiles.viictr.org/profile/12582766), [Fu S](https://profiles.viictr.org/profile/12583682), [Karp DD](https://profiles.viictr.org/profile/12583392), [Pant S](https://profiles.viictr.org/profile/18883252), Hinojosa CO, [Hess KR](https://profiles.viictr.org/profile/12582910), [Cleeland CS](https://profiles.viictr.org/profile/12583700), **Bernstam EV** , [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), [Hong DS](https://profiles.viictr.org/profile/12583776). Cancer-Related Internet Use and Its Association With Patient Decision Making and Trust in Physicians Among Patients in an Early Drug Development Clinic: A Questionnaire-Based Cross-Sectional Observational Study. J Med Internet Res. 2019 03 14; 21(3):e10348. PMID: [30869638](//www.ncbi.nlm.nih.gov/pubmed/30869638); PMCID: [PMC6437608](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6437608).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30869638/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  51. Guerrero SC, Sridhar S, Edmonds C, Solis CF, Zhang J, McPherson DD, **Bernstam EV**. Access to Routinely Collected Clinical Data for Research: A Process Implemented at an Academic Medical Center. Clin Transl Sci. 2019 05; 12(3):231-235. PMID: [30657248](//www.ncbi.nlm.nih.gov/pubmed/30657248); PMCID: [PMC6510377](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6510377).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30657248/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  52. Fathiamini S, Johnson AM, Zeng J, Holla V, Sanchez NS, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), **Bernstam EV** , Cohen T. Rapamycin?-?mTOR?+?BRAF?=?? Using relational similarity to find therapeutically relevant drug-gene relationships in unstructured text. J Biomed Inform. 2019 02; 90:103094. PMID: [30615938](//www.ncbi.nlm.nih.gov/pubmed/30615938); PMCID: [PMC6386529](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6386529).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  53. [George GC](https://profiles.viictr.org/profile/17440030), Buford A, Hess K, [Piha-Paul SA](https://profiles.viictr.org/profile/12582720), Zinner R, [Subbiah V](https://profiles.viictr.org/profile/12582766), Hinojosa C, [Cleeland CS](https://profiles.viictr.org/profile/12583700), [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), **Bernstam EV** , [Hong DS](https://profiles.viictr.org/profile/12583776). Cancer-Related Internet Use and Online Social Networking Among Patients in an Early-Phase Clinical Trials Clinic at a Comprehensive Cancer Center. JCO Clin Cancer Inform. 2018 12; 2:1-14. PMID: [30652565](//www.ncbi.nlm.nih.gov/pubmed/30652565); PMCID: [PMC6874009](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6874009).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30652565/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  54. Payne PRO, **Bernstam EV** , Starren JB. Biomedical informatics meets data science: current state and future directions for interaction. JAMIA Open. 2018 Oct; 1(2):136-141. PMID: [31984327](//www.ncbi.nlm.nih.gov/pubmed/31984327); PMCID: [PMC6951903](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6951903).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31984327/citedby/)
+
+  55. Kurnit KC, Dumbrava EEI, Litzenburger B, Khotskaya YB, Johnson AM, Yap TA, Rodon J, Zeng J, Shufean MA, Bailey AM, Holla V, [Mendelsohn J](https://profiles.viictr.org/profile/12582942), Shaw KM, **Bernstam EV** , [Mills GB](https://profiles.viictr.org/profile/12582930), [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), S?nchez NS. Precision Oncology Decision Support: Current Approaches and Strategies for the Future. Clin Cancer Res. 2018 06 15; 24(12):2719-2731. PMID: [29420224](//www.ncbi.nlm.nih.gov/pubmed/29420224); PMCID: [PMC6004235](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6004235).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29420224/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  56. Brusco LL, Wathoo C, Mills Shaw KR, Holla VR, Bailey AM, Johnson AM, Khotskaya YB, Litzenburger BC, Sanchez NS, Zeng J, **Bernstam EV** , [Eng C](https://profiles.viictr.org/profile/12583785), [Kee BK](https://profiles.viictr.org/profile/12583557), [Amaria RN](https://profiles.viictr.org/profile/12583996), [Routbort MJ](https://profiles.viictr.org/profile/12583448), [Mills GB](https://profiles.viictr.org/profile/12582930), [Mendelsohn J](https://profiles.viictr.org/profile/12582942), [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Physician interpretation of genomic test results and treatment selection. Cancer. 2018 03 01; 124(5):966-972. PMID: [29165790](//www.ncbi.nlm.nih.gov/pubmed/29165790); PMCID: [PMC5821595](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5821595).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29165790/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  57. Kurnit KC, Bailey AM, Zeng J, Johnson AM, Shufean MA, Brusco L, Litzenburger BC, Khotskaya YB, Holla V, Simpson A, [Mills GB](https://profiles.viictr.org/profile/12582930), [Mendelsohn J](https://profiles.viictr.org/profile/12582942), **Bernstam E** , Shaw K, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), S?nchez NS. "Personalized Cancer Therapy": A Publicly Available Precision Oncology Resource. Cancer Res. 2017 11 01; 77(21):e123-e126. PMID: [29092956](//www.ncbi.nlm.nih.gov/pubmed/29092956); PMCID: [PMC5774617](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5774617).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29092956/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  58. Weber GM, Adams WG, **Bernstam EV** , Bickel JP, Fox KP, Marsolo K, Raghavan VA, Turchin A, Zhou X, Murphy SN, Mandl KD. Biases introduced by filtering electronic health records for patients with "complete data". J Am Med Inform Assoc. 2017 Nov 01; 24(6):1134-1141. PMID: [29016972](//www.ncbi.nlm.nih.gov/pubmed/29016972); PMCID: [PMC6080680](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6080680).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29016972/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  59. Hughes KS, Ambinder EP, Hess GP, Yu PP, **Bernstam EV** , [Routbort MJ](https://profiles.viictr.org/profile/12583448), Clemenceau JR, Hamm JT, Febbo PG, Domchek SM, Chen JL, Warner JL, OPO Workshop Members. Identifying Health Information Technology Needs of Oncologists to Facilitate the Adoption of Genomic Medicine: Recommendations From the 2016 American Society of Clinical Oncology Omics and Precision Oncology Workshop. J Clin Oncol. 2017 Sep 20; 35(27):3153-3159. PMID: [28737972](//www.ncbi.nlm.nih.gov/pubmed/28737972).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28737972/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  60. Arango NP, Brusco L, Mills Shaw KR, Chen K, [Eterovic AK](https://profiles.viictr.org/profile/12582750), Holla V, Johnson A, Litzenburger B, Khotskaya YB, Sanchez N, Bailey A, Zheng X, Horombe C, Kopetz S, Farhangfar CJ, [Routbort M](https://profiles.viictr.org/profile/12583448), [Broaddus R](https://profiles.viictr.org/profile/12582588), **Bernstam EV** , [Mendelsohn J](https://profiles.viictr.org/profile/12582942), [Mills GB](https://profiles.viictr.org/profile/12582930), [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). A feasibility study of returning clinically actionable somatic genomic alterations identified in a research laboratory. Oncotarget. 2017 Jun 27; 8(26):41806-41814. PMID: [28415679](//www.ncbi.nlm.nih.gov/pubmed/28415679); PMCID: [PMC5522029](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5522029).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28415679/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  61. Culbertson A, Goel S, Madden MB, Safaeinili N, Jackson KL, Carton T, Waitman R, Liu M, Krishnamurthy A, Hall L, Cappella N, Visweswaran S, Becich MJ, Applegate R, **Bernstam E** , Rothman R, Matheny M, Lipori G, Bian J, Hogan W, Bell D, Martin A, Grannis S, Klann J, Sutphen R, O'Hara AB, Kho A. The Building Blocks of Interoperability. A Multisite Analysis of Patient Demographic Attributes Available for Matching. Appl Clin Inform. 2017 04 05; 8(2):322-336. PMID: [28378025](//www.ncbi.nlm.nih.gov/pubmed/28378025); PMCID: [PMC6241737](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6241737).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28378025/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  62. Malec SA, Wei P, Xu H, **Bernstam EV** , Myneni S, Cohen T. Literature-Based Discovery of Confounding in Observational Clinical Data. AMIA Annu Symp Proc. 2016; 2016:1920-1929. PMID: [28269951](//www.ncbi.nlm.nih.gov/pubmed/28269951); PMCID: [PMC5333204](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5333204).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28269951/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  63. Patt DA, **Bernstam EV** , Mandel JC, Kreda DA, Warner JL. More Medicine, Fewer Clicks: How Informatics Can Actually Help Your Practice. Am Soc Clin Oncol Educ Book. 2017; 37:450-459. PMID: [28561658](//www.ncbi.nlm.nih.gov/pubmed/28561658).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28561658/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  64. Frey LJ, **Bernstam EV** , Denny JC. Precision medicine informatics. J Am Med Inform Assoc. 2016 07; 23(4):668-70. PMID: [27274018](//www.ncbi.nlm.nih.gov/pubmed/27274018); PMCID: [PMC4926751](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4926751).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27274018/citedby/) Fields:
+
+Med Medical Informatics
+
+  65. Fathiamini S, Johnson AM, Zeng J, Araya A, Holla V, Bailey AM, Litzenburger BC, Sanchez NS, Khotskaya Y, Xu H, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), **Bernstam EV** , Cohen T. Automated identification of molecular effects of drugs (AIMED). J Am Med Inform Assoc. 2016 07; 23(4):758-65. PMID: [27107438](//www.ncbi.nlm.nih.gov/pubmed/27107438); PMCID: [PMC4926748](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4926748).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27107438/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  66. Xu J, Lee HJ, Zeng J, Wu Y, Zhang Y, Huang LC, Johnson A, Holla V, Bailey AM, Cohen T, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), **Bernstam EV** , Xu H. Extracting genetic alteration information for personalized cancer therapy from ClinicalTrials.gov. J Am Med Inform Assoc. 2016 07; 23(4):750-7. PMID: [27013523](//www.ncbi.nlm.nih.gov/pubmed/27013523); PMCID: [PMC4926744](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4926744).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27013523/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  67. Yu Z, **Bernstam E** , Cohen T, Wallace BC, Johnson TR. Improving the utility of MeSH? terms using the TopicalMeSH representation. J Biomed Inform. 2016 06; 61:77-86. PMID: [27001195](//www.ncbi.nlm.nih.gov/pubmed/27001195); PMCID: [PMC4893983](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4893983).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27001195/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  68. Rogith D, Yusuf RA, Hovick SR, Fellman BM, [Peterson SK](https://profiles.viictr.org/profile/12582556), Burton-Chase AM, Li Y, **Bernstam EV** , [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Patient knowledge and information-seeking about personalized cancer therapy. Int J Med Inform. 2016 Apr; 88:52-7. PMID: [26878762](//www.ncbi.nlm.nih.gov/pubmed/26878762); PMCID: [PMC4789765](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4789765).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26878762/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  69. Joffe E, Pettigrew EJ, Herskovic JR, Bearden CF, **Bernstam EV**. Expert guided natural language processing using one-class classification. J Am Med Inform Assoc. 2015 Sep; 22(5):962-6. PMID: [26063744](//www.ncbi.nlm.nih.gov/pubmed/26063744); PMCID: [PMC4986669](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4986669).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26063744/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  70. [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), Johnson A, Holla V, Bailey AM, Brusco L, [Chen K](https://profiles.viictr.org/profile/12583189), [Routbort M](https://profiles.viictr.org/profile/12583448), [Patel KP](https://profiles.viictr.org/profile/12583921), Zeng J, [Kopetz S](https://profiles.viictr.org/profile/12583445), [Davies MA](https://profiles.viictr.org/profile/12583712), [Piha-Paul SA](https://profiles.viictr.org/profile/12582720), [Hong DS](https://profiles.viictr.org/profile/12583776), [Eterovic AK](https://profiles.viictr.org/profile/12582750), [Tsimberidou AM](https://profiles.viictr.org/profile/12583722), [Broaddus R](https://profiles.viictr.org/profile/12582588), **Bernstam EV** , Shaw KR, [Mendelsohn J](https://profiles.viictr.org/profile/12582942), [Mills GB](https://profiles.viictr.org/profile/12582930). A decision support framework for genomically informed investigational cancer therapy. J Natl Cancer Inst. 2015 Jul; 107(7). PMID: [25863335](//www.ncbi.nlm.nih.gov/pubmed/25863335); PMCID: [PMC4651038](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4651038).
+
+Citations:
+[91](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25863335/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  71. Chen G, Zhao J, Cohen T, Tao C, Sun J, Xu H, **Bernstam EV** , Lawson A, Zeng J, Johnson AM, Holla V, Bailey AM, Lara-Guerra H, Litzenburger B, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), Jim Zheng W. Using Ontology Fingerprints to disambiguate gene name entities in the biomedical literature. Database (Oxford). 2015; 2015:bav034. PMID: [25858285](//www.ncbi.nlm.nih.gov/pubmed/25858285); PMCID: [PMC4390608](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4390608).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25858285/citedby/) Fields:
+
+Com Computational Biology
+
+  72. Diaz-Garelli JF, **Bernstam EV** , Rahbar MH, Johnson T. Rediscovering drug side effects: the impact of analytical assumptions on the detection of associations in EHR data. AMIA Jt Summits Transl Sci Proc. 2015; 2015:51-5. PMID: [26306235](//www.ncbi.nlm.nih.gov/pubmed/26306235); PMCID: [PMC4525264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4525264).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26306235/citedby/)
+
+  73. Brennan PF, Valdez R, Alexander G, Arora S, **Bernstam EV** , Edmunds M, Kirienko N, Martin RD, Sim I, Skiba D, Rosenbloom T. Patient-centered care, collaboration, communication, and coordination: a report from AMIA's 2013 Policy Meeting. J Am Med Inform Assoc. 2015 Apr; 22(e1):e2-6. PMID: [25359545](//www.ncbi.nlm.nih.gov/pubmed/25359545).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25359545/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  74. Yusuf RA, Rogith D, Hovick SR, [Peterson SK](https://profiles.viictr.org/profile/12582556), Burton-Chase AM, Fellman BM, [Li Y](https://profiles.viictr.org/profile/12583431), McKinney C, **Bernstam EV** , [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Attitudes toward molecular testing for personalized cancer therapy. Cancer. 2015 Jan 15; 121(2):243-50. PMID: [25209923](//www.ncbi.nlm.nih.gov/pubmed/25209923); PMCID: [PMC4293219](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4293219).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25209923/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  75. Walji MF, Kalenderian E, Stark PC, White JM, Kookal KK, Phan D, Tran D, **Bernstam EV** , Ramoni R. BigMouth: a multi-institutional dental data repository. J Am Med Inform Assoc. 2014 Nov-Dec; 21(6):1136-40. PMID: [24993547](//www.ncbi.nlm.nih.gov/pubmed/24993547); PMCID: [PMC4215035](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215035).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24993547/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  76. Mandl KD, Kohane IS, McFadden D, Weber GM, Natter M, Mandel J, Schneeweiss S, Weiler S, Klann JG, Bickel J, Adams WG, Ge Y, Zhou X, Perkins J, Marsolo K, **Bernstam E** , Showalter J, Quarshie A, Ofili E, Murphy SN, Hripcsak G. Scalable Collaborative Infrastructure for a Learning Healthcare System (SCILHS): architecture. J Am Med Inform Assoc. 2014 Jul-Aug; 21(4):615-20. PMID: [24821734](//www.ncbi.nlm.nih.gov/pubmed/24821734); PMCID: [PMC4078286](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4078286).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24821734/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  77. Rogith D, Yusuf RA, Hovick SR, [Peterson SK](https://profiles.viictr.org/profile/12582556), Burton-Chase AM, [Li Y](https://profiles.viictr.org/profile/12583431), [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), **Bernstam EV**. Attitudes regarding privacy of genomic information in personalized cancer therapy. J Am Med Inform Assoc. 2014 Oct; 21(e2):e320-5. PMID: [24737606](//www.ncbi.nlm.nih.gov/pubmed/24737606); PMCID: [PMC4173182](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4173182).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24737606/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  78. Zeng J, Wu Y, Bailey A, Johnson A, Holla V, **Bernstam EV** , Xu H, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Adapting a natural language processing tool to facilitate clinical trial curation for personalized cancer therapy. AMIA Jt Summits Transl Sci Proc. 2014; 2014:126-31. PMID: [25717412](//www.ncbi.nlm.nih.gov/pubmed/25717412); PMCID: [PMC4333699](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4333699).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25717412/citedby/)
+
+  79. Joffe E, Turley JP, Hwang KO, Johnson TR, Johnson CW, **Bernstam EV**. Errors in after-hours phone consultations: a simulation study. BMJ Qual Saf. 2014 May; 23(5):398-405. PMID: [24336576](//www.ncbi.nlm.nih.gov/pubmed/24336576).
+
+Citations:  Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  80. **Bernstam EV** , Tenenbaum JD, Kuperman GJ. Preserving an integrated view of informatics. J Am Med Inform Assoc. 2014 Feb; 21(e1):e178-9. PMID: [24287170](//www.ncbi.nlm.nih.gov/pubmed/24287170); PMCID: [PMC3957406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3957406).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24287170/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  81. Plaisant C, Chao T, Wu J, Hettinger AZ, Herskovic JR, Johnson TR, **Bernstam EV** , Markowitz E, Powsner S, Shneiderman B. Twinlist: novel user interface designs for medication reconciliation. AMIA Annu Symp Proc. 2013; 2013:1150-9. PMID: [24551399](//www.ncbi.nlm.nih.gov/pubmed/24551399); PMCID: [PMC3900136](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3900136).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24551399/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  82. Joffe E, Byrne MJ, Reeder P, Herskovic JR, Johnson CW, McCoy AB, **Bernstam EV**. Optimized dual threshold entity resolution for electronic health record databases--training set size and active learning. AMIA Annu Symp Proc. 2013; 2013:721-30. PMID: [24551372](//www.ncbi.nlm.nih.gov/pubmed/24551372); PMCID: [PMC3900213](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3900213).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24551372/citedby/) Fields:
+
+Med Medical Informatics
+
+  83. Joffe E, Turley JP, Hwang KO, Johnson TR, Johnson CW, **Bernstam EV**. Evaluation of a problem-specific SBAR tool to improve after-hours nurse-physician phone communication: a randomized trial. Jt Comm J Qual Patient Saf. 2013 Nov; 39(11):495-501. PMID: [24294677](//www.ncbi.nlm.nih.gov/pubmed/24294677).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24294677/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  84. Hersh WR, Cimino J, Payne PR, Embi P, Logan J, Weiner M, **Bernstam EV** , Lehmann H, Hripcsak G, Hartzog T, Saltz J. Recommendations for the use of operational electronic health record data in comparative effectiveness research. EGEMS (Wash DC). 2013; 1(1):1018. PMID: [25848563](//www.ncbi.nlm.nih.gov/pubmed/25848563); PMCID: [PMC4371471](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4371471).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25848563/citedby/)
+
+  85. Blair DR, Lyttle CS, Mortensen JM, Bearden CF, Jensen AB, Khiabanian H, Melamed R, Rabadan R, **Bernstam EV** , Jensen LJ, Nicolae D, Shah NH, Grossman RL, Cox NJ, White KP, Rzhetsky A, Brunak S. A nondegenerate code of deleterious variants in Mendelian loci contributes to complex disease risk. Cell. 2013 Sep 26; 155(1):70-80. PMID: [24074861](//www.ncbi.nlm.nih.gov/pubmed/24074861); PMCID: [PMC3844554](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3844554).
+
+Citations:
+[121](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24074861/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:Humans
+
+  86. Hersh WR, Weiner MG, Embi PJ, Logan JR, Payne PR, **Bernstam EV** , Lehmann HP, Hripcsak G, Hartzog TH, Cimino JJ, Saltz JH. Caveats for the use of operational electronic health record data in comparative effectiveness research. Med Care. 2013 Aug; 51(8 Suppl 3):S30-7. PMID: [23774517](//www.ncbi.nlm.nih.gov/pubmed/23774517); PMCID: [PMC3748381](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3748381).
+
+Citations:
+[222](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23774517/citedby/)
+Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  87. Johnson TR, Markowitz E, **Bernstam EV** , Herskovic JR, Thimbleby H. SYFSA: a framework for systematic yet flexible systems analysis. J Biomed Inform. 2013 Aug; 46(4):665-75. PMID: [23727053](//www.ncbi.nlm.nih.gov/pubmed/23727053); PMCID: [PMC3775005](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3775005).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  88. Hassan B, **Bernstam E** , Hines OJ, Simeone DM, Weber SM, Geller DA, Evers BM, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Career track of Society of University Surgeons Resident Research Award recipients. J Surg Res. 2013 Nov; 185(1):92-6. PMID: [23751805](//www.ncbi.nlm.nih.gov/pubmed/23751805); PMCID: [PMC4346242](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4346242).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23751805/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  89. Joffe E, Byrne MJ, Reeder P, Herskovic JR, Johnson CW, McCoy AB, [Sittig DF](https://profiles.viictr.org/profile/266234), **Bernstam EV**. A benchmark comparison of deterministic and probabilistic methods for defining manual review datasets in duplicate records reconciliation. J Am Med Inform Assoc. 2014 Jan-Feb; 21(1):97-104. PMID: [23703827](//www.ncbi.nlm.nih.gov/pubmed/23703827); PMCID: [PMC3912727](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3912727).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23703827/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  90. McCoy AB, Wright A, Kahn MG, Shapiro JS, **Bernstam EV** , [Sittig DF](https://profiles.viictr.org/profile/266234). Matching identifiers in electronic health records: implications for duplicate records and patient safety. BMJ Qual Saf. 2013 Mar; 22(3):219-24. PMID: [23362505](//www.ncbi.nlm.nih.gov/pubmed/23362505).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23362505/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  91. Wahle M, Widdows D, Herskovic JR, **Bernstam EV** , Cohen T. Deterministic binary vectors for efficient automated indexing of MEDLINE/PubMed abstracts. AMIA Annu Symp Proc. 2012; 2012:940-9. PMID: [23304369](//www.ncbi.nlm.nih.gov/pubmed/23304369); PMCID: [PMC3540485](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3540485).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23304369/citedby/) Fields:
+
+Med Medical Informatics
+
+  92. Joffe E, Bearden CF, Byrne MJ, **Bernstam EV**. Duplicate patient records--implication for missed laboratory results. AMIA Annu Symp Proc. 2012; 2012:1269-75. PMID: [23304405](//www.ncbi.nlm.nih.gov/pubmed/23304405); PMCID: [PMC3540536](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3540536).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23304405/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  93. Herskovic JR, Subramanian D, Cohen T, Bozzo-Silva PA, Bearden CF, **Bernstam EV**. Graph-based signal integration for high-throughput phenotyping. BMC Bioinformatics. 2012; 13 Suppl 13:S2. PMID: [23320851](//www.ncbi.nlm.nih.gov/pubmed/23320851); PMCID: [PMC3426800](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3426800).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23320851/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Humans
+
+  94. Payne TH, Bates DW, Berner ES, **Bernstam EV** , Covvey HD, Frisse ME, Graf T, Greenes RA, Hoffer EP, Kuperman G, Lehmann HP, Liang L, Middleton B, Omenn GS, Ozbolt J. Healthcare information technology and economics. J Am Med Inform Assoc. 2013 Mar-Apr; 20(2):212-7. PMID: [22781191](//www.ncbi.nlm.nih.gov/pubmed/22781191); PMCID: [PMC3638175](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3638175).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22781191/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  95. Joffe E, Havakuk O, Herskovic JR, Patel VL, **Bernstam EV**. Collaborative knowledge acquisition for the design of context-aware alert systems. J Am Med Inform Assoc. 2012 Nov-Dec; 19(6):988-94. PMID: [22744961](//www.ncbi.nlm.nih.gov/pubmed/22744961); PMCID: [PMC3534462](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3534462).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22744961/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  96. Saitwal H, Qing D, Jones S, **Bernstam EV** , Chute CG, Johnson TR. Cross-terminology mapping challenges: a demonstration using medication terminological systems. J Biomed Inform. 2012 Aug; 45(4):613-25. PMID: [22750536](//www.ncbi.nlm.nih.gov/pubmed/22750536); PMCID: [PMC4398308](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4398308).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22750536/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  97. Mandl KD, Mandel JC, Murphy SN, **Bernstam EV** , Ramoni RL, Kreda DA, McCoy JM, Adida B, Kohane IS. The SMART Platform: early experience enabling substitutable applications for electronic health records. J Am Med Inform Assoc. 2012 Jul-Aug; 19(4):597-603. PMID: [22427539](//www.ncbi.nlm.nih.gov/pubmed/22427539); PMCID: [PMC3384120](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3384120).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22427539/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  98. Hwang KO, Etchegaray JM, Sciamanna CN, **Bernstam EV** , Thomas EJ. Structural social support predicts functional social support in an online weight loss programme. Health Expect. 2014 Jun; 17(3):345-52. PMID: [22212418](//www.ncbi.nlm.nih.gov/pubmed/22212418); PMCID: [PMC5060736](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5060736).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22212418/citedby/) Fields:
+
+Hea Health Services ResearchPub Public Health
+
+Translation:Humans
+
+  99. Markowitz E, **Bernstam EV** , Herskovic J, Zhang J, Shneiderman B, Plaisant C, Johnson TR. Medication Reconciliation: Work Domain Ontology, prototype development, and a predictive model. AMIA Annu Symp Proc. 2011; 2011:878-87. PMID: [22195146](//www.ncbi.nlm.nih.gov/pubmed/22195146); PMCID: [PMC3243117](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3243117).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22195146/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  100. Silva PA, **Bernstam EV** , Markowitz E, Johnson TR, Zhang J, Herskovic JR. Automated medication reconciliation and complexity of care transitions. AMIA Annu Symp Proc. 2011; 2011:1252-60. PMID: [22195186](//www.ncbi.nlm.nih.gov/pubmed/22195186); PMCID: [PMC3243161](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3243161).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22195186/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  101. Goodwin JC, Johnson TR, Cohen T, Herskovic JR, **Bernstam EV**. Predicting biomedical document access as a function of past use. J Am Med Inform Assoc. 2012 May-Jun; 19(3):473-8. PMID: [21917645](//www.ncbi.nlm.nih.gov/pubmed/21917645); PMCID: [PMC3341785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3341785).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21917645/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  102. Herskovic JR, Cohen T, Subramanian D, Iyengar MS, Smith JW, **Bernstam EV**. MEDRank: using graph-based concept ranking to index biomedical texts. Int J Med Inform. 2011 Jun; 80(6):431-41. PMID: [21439897](//www.ncbi.nlm.nih.gov/pubmed/21439897); PMCID: [PMC3090689](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3090689).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21439897/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  103. Hwang KO, Ottenbacher AJ, Lucke JF, Etchegaray JM, Graham AL, Thomas EJ, **Bernstam EV**. Measuring social support for weight loss in an internet weight loss community. J Health Commun. 2011 Feb; 16(2):198-211. PMID: [21181600](//www.ncbi.nlm.nih.gov/pubmed/21181600).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21181600/citedby/) Fields:
+
+Hea Health ServicesPub Public Health
+
+Translation:Humans
+
+  104. Hwang KO, Ottenbacher AJ, Green AP, Cannon-Diehl MR, Richardson O, **Bernstam EV** , Thomas EJ. Social support in an Internet weight loss community. Int J Med Inform. 2010 Jan; 79(1):5-13. PMID: [19945338](//www.ncbi.nlm.nih.gov/pubmed/19945338); PMCID: [PMC3060773](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3060773).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19945338/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  105. Hwang KO, Hamadah AM, Johnson CW, Thomas EJ, Goodrick GK, **Bernstam EV**. Screening for obstructive sleep apnea on the internet: randomized trial. Am J Med. 2009 Oct; 122(10):961.e1-6. PMID: [19786163](//www.ncbi.nlm.nih.gov/pubmed/19786163); PMCID: [PMC3063127](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3063127).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19786163/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  106. Nelson S, Hwang KO, **Bernstam EV**. Comparing clinician knowledge and online information regarding Alli (Orlistat). Int J Med Inform. 2009 Nov; 78(11):772-7. PMID: [19716762](//www.ncbi.nlm.nih.gov/pubmed/19716762); PMCID: [PMC2757524](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2757524).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19716762/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  107. Willcockson IU, Johnson CW, Hersh W, **Bernstam EV**. Predictors of student success in graduate biomedical informatics training: introductory course and program success. J Am Med Inform Assoc. 2009 Nov-Dec; 16(6):837-46. PMID: [19717804](//www.ncbi.nlm.nih.gov/pubmed/19717804); PMCID: [PMC3002135](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3002135).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19717804/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  108. **Bernstam EV** , Smith JW, Johnson TR. What is biomedical informatics? J Biomed Inform. 2010 Feb; 43(1):104-10. PMID: [19683067](//www.ncbi.nlm.nih.gov/pubmed/19683067); PMCID: [PMC2814957](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2814957).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19683067/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:HumansAnimals
+
+  109. **Bernstam EV** , Hersh WR, Johnson SB, Chute CG, Nguyen H, Sim I, Nahm M, Weiner MG, Miller P, DiLaura RP, Overcash M, Lehmann HP, Eichmann D, Athey BD, Scheuermann RH, Anderson N, Starren J, Harris PA, Smith JW, Barbour E, Silverstein JC, Krusch DA, Nagarajan R, Becich MJ, CTSA Biomedical Informatics Key Function Committee. Synergies and distinctions between computational disciplines in biomedical research: perspective from the Clinical andTranslational Science Award programs. Acad Med. 2009 Jul; 84(7):964-70. PMID: [19550198](//www.ncbi.nlm.nih.gov/pubmed/19550198); PMCID: [PMC2884382](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2884382).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19550198/citedby/) Fields:
+
+Edu Education
+
+Translation:Humans
+
+  110. **Bernstam EV** , Hersh WR, Sim I, Eichmann D, Silverstein JC, Smith JW, Becich MJ. Unintended consequences of health information technology: a need for biomedical informatics. J Biomed Inform. 2010 Oct; 43(5):828-30. PMID: [19508898](//www.ncbi.nlm.nih.gov/pubmed/19508898); PMCID: [PMC2891863](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2891863).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19508898/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  111. Mirhaji P, Zhu M, Vagnoni M, **Bernstam EV** , Zhang J, Smith JW. Ontology driven integration platform for clinical and translational research. BMC Bioinformatics. 2009 Feb 05; 10 Suppl 2:S2. PMID: [19208190](//www.ncbi.nlm.nih.gov/pubmed/19208190); PMCID: [PMC2646248](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2646248).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19208190/citedby/) Fields:
+
+Com Computational Biology
+
+  112. Hwang KO, Childs JH, Goodrick GK, Aboughali WA, Thomas EJ, Johnson CW, Yu SC, **Bernstam EV**. Explanations for unsuccessful weight loss among bariatric surgery candidates. Obes Surg. 2009 Oct; 19(10):1377-83. PMID: [18542846](//www.ncbi.nlm.nih.gov/pubmed/18542846); PMCID: [PMC3063089](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3063089).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18542846/citedby/) Fields:
+
+Gen General SurgeryMet Metabolism
+
+Translation:Humans
+
+  113. **Bernstam EV** , Walji MF, Sagaram S, Sagaram D, Johnson CW, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Commonly cited website quality criteria are not effective at identifying inaccurate online information about breast cancer. Cancer. 2008 Mar 15; 112(6):1206-13. PMID: [18266210](//www.ncbi.nlm.nih.gov/pubmed/18266210).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18266210/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  114. Hwang KO, Farheen K, Johnson CW, Thomas EJ, Barnes AS, **Bernstam EV**. Quality of weight loss advice on internet forums. Am J Med. 2007 Jul; 120(7):604-9. PMID: [17602934](//www.ncbi.nlm.nih.gov/pubmed/17602934); PMCID: [PMC1995087](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1995087).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17602934/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  115. **Bernstam EV** , Pancheri KK, Johnson CM, Johnson TR, Thomas EJ, Turley JP. Reasons for after-hours calls by hospital floor nurses to on-call physicians. Jt Comm J Qual Patient Saf. 2007 Jun; 33(6):342-9. PMID: [17566544](//www.ncbi.nlm.nih.gov/pubmed/17566544).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17566544/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  116. Herskovic JR, Tanaka LY, Hersh W, **Bernstam EV**. A day in the life of PubMed: analysis of a typical day's query log. J Am Med Inform Assoc. 2007 Mar-Apr; 14(2):212-20. PMID: [17213501](//www.ncbi.nlm.nih.gov/pubmed/17213501); PMCID: [PMC2213463](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2213463).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17213501/citedby/) Fields:
+
+Med Medical Informatics
+
+  117. [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), Walji M, Sagaram S, Sagaram D, **Bernstam E**. Currency of online breast cancer information. Stud Health Technol Inform. 2007; 129(Pt 2):973-6. PMID: [17911860](//www.ncbi.nlm.nih.gov/pubmed/17911860).
+
+Citations:  Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  118. Smith-Akin KA, Bearden CF, Pittenger ST, **Bernstam EV**. Toward a veterinary informatics research agenda: an analysis of the PubMed-indexed literature. Int J Med Inform. 2007 Apr; 76(4):306-12. PMID: [16569509](//www.ncbi.nlm.nih.gov/pubmed/16569509).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16569509/citedby/) Fields:
+
+Med Medical Informatics
+
+  119. Edmonson SR, Smith-Akin KA, **Bernstam EV**. Context, automated decision support, and clinical practice guidelines: does the literature apply to the United States practice environment? Int J Med Inform. 2007 Jan; 76(1):34-41. PMID: [16524767](//www.ncbi.nlm.nih.gov/pubmed/16524767).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16524767/citedby/) Fields:
+
+Med Medical Informatics
+
+  120. Esquivel A, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), **Bernstam EV**. Accuracy and self correction of information received from an internet breast cancer list: content analysis. BMJ. 2006 Apr 22; 332(7547):939-42. PMID: [16513686](//www.ncbi.nlm.nih.gov/pubmed/16513686); PMCID: [PMC1444809](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1444809).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16513686/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  121. Herskovic JR, Iyengar MS, **Bernstam EV**. Using hit curves to compare search algorithm performance. J Biomed Inform. 2007 Apr; 40(2):93-9. PMID: [16469545](//www.ncbi.nlm.nih.gov/pubmed/16469545).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16469545/citedby/) Fields:
+
+Med Medical Informatics
+
+  122. **Bernstam EV** , Herskovic JR, Aphinyanaphongs Y, Aliferis CF, Sriram MG, Hersh WR. Using citation data to improve retrieval from MEDLINE. J Am Med Inform Assoc. 2006 Jan-Feb; 13(1):96-105. PMID: [16221938](//www.ncbi.nlm.nih.gov/pubmed/16221938); PMCID: [PMC1380202](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1380202).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16221938/citedby/) Fields:
+
+Med Medical Informatics
+
+  123. Walji M, Sagaram S, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), Johnson CW, **Bernstam EV**. Searching for cancer-related information online: unintended retrieval of complementary and alternative medicine information. Int J Med Inform. 2005 Aug; 74(7-8):685-93. PMID: [16027034](//www.ncbi.nlm.nih.gov/pubmed/16027034).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16027034/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  124. **Bernstam EV** , Sagaram S, Walji M, Johnson CW, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Usability of quality measures for online health information: Can commonly used technical quality criteria be reliably assessed? Int J Med Inform. 2005 Aug; 74(7-8):675-83. PMID: [16043090](//www.ncbi.nlm.nih.gov/pubmed/16043090).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16043090/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  125. **Bernstam EV** , Shelton DM, Walji M, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329). Instruments to assess the quality of health information on the World Wide Web: what can our patients actually use? Int J Med Inform. 2005 Jan; 74(1):13-9. PMID: [15626632](//www.ncbi.nlm.nih.gov/pubmed/15626632).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15626632/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  126. Herskovic JR, **Bernstam EV**. Using incomplete citation data for MEDLINE results ranking. AMIA Annu Symp Proc. 2005; 316-20. PMID: [16779053](//www.ncbi.nlm.nih.gov/pubmed/16779053); PMCID: [PMC1560575](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1560575).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16779053/citedby/) Fields:
+
+Med Medical Informatics
+
+  127. Walji M, Johnson-Throop K, Johnson T, **Bernstam E** , Zhang J. Persuasive email messages for patient communication. AMIA Annu Symp Proc. 2005; 1148. PMID: [16779434](//www.ncbi.nlm.nih.gov/pubmed/16779434); PMCID: [PMC1560687](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1560687).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  128. Walji M, Sagaram S, Sagaram D, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), Johnson C, Mirza NQ, **Bernstam EV**. Efficacy of quality criteria to identify potentially harmful information: a cross-sectional survey of complementary and alternative medicine web sites. J Med Internet Res. 2004 Jun 29; 6(2):e21. PMID: [15249270](//www.ncbi.nlm.nih.gov/pubmed/15249270); PMCID: [PMC1550600](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1550600).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15249270/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  129. Sagaram S, Walji M, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), Johnson C, **Bernstam E**. Inter-observer agreement for quality measures applied to online health information. Stud Health Technol Inform. 2004; 107(Pt 2):1308-12. PMID: [15361026](//www.ncbi.nlm.nih.gov/pubmed/15361026).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15361026/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  130. Walji M, Sagaram S, [Meric-Bernstam F](https://profiles.viictr.org/profile/12583329), Johnson C, **Bernstam E**. Cancer-related complementary and alternative medicine online: factors affecting information retrieval. Stud Health Technol Inform. 2004; 107(Pt 2):1318-22. PMID: [15361028](//www.ncbi.nlm.nih.gov/pubmed/15361028).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15361028/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  131. Meric F, **Bernstam EV** , Mirza NQ, [Hunt KK](https://profiles.viictr.org/profile/12582914), Ames FC, [Ross MI](https://profiles.viictr.org/profile/12583252), [Kuerer HM](https://profiles.viictr.org/profile/12582567), Pollock RE, Musen MA, Singletary SE. Breast cancer on the world wide web: cross sectional survey of quality of information and popularity of websites. BMJ. 2002 Mar 09; 324(7337):577-81. PMID: [11884322](//www.ncbi.nlm.nih.gov/pubmed/11884322); PMCID: [PMC78995](//www.ncbi.nlm.nih.gov/pmc/articles/PMC78995).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11884322/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  132. Michea YF, Pancheri K, Gong Y, **Bernstam E**. Comparing communication technology on Chinese, English, and Spanish diabetes web sites. Proc AMIA Symp. 2002; 523-7. PMID: [12463879](//www.ncbi.nlm.nih.gov/pubmed/12463879); PMCID: [PMC2244504](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2244504).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  133. Sagaram S, Walji M, **Bernstam E**. Evaluating the prevalence, content and readability of complementary and alternative medicine (CAM) web pages on the internet. Proc AMIA Symp. 2002; 672-6. PMID: [12463909](//www.ncbi.nlm.nih.gov/pubmed/12463909); PMCID: [PMC2244422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2244422).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12463909/citedby/) Fields:
+
+Med Medical Informatics
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 133 publications over 21 distinct years, with a maximum of
+12 publications in
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|12&cht=bvs&chd=t:0,0,0,0,0,0,0,0,25,0,25,50,33,33,17,67,0,42,67,100,50,33,42,67,25,75,67,50,92,92,58&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 3  
+2004| 3  
+2005| 6  
+2006| 4  
+2007| 4  
+2008| 2  
+2009| 8  
+2011| 5  
+2012| 8  
+2013| 12  
+2014| 6  
+2015| 4  
+2016| 5  
+2017| 8  
+2018| 3  
+2019| 9  
+2020| 8  
+2021| 6  
+2022| 11  
+2023| 11  
+2024| 7  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BERNSTAM's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (344)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Medical Informatics](https://profiles.viictr.org/profile/259017)
+  * [Electronic Health Records](https://profiles.viictr.org/profile/243092)
+  * [Internet](https://profiles.viictr.org/profile/250971)
+  * [Information Storage and Retrieval](https://profiles.viictr.org/profile/251122)
+  * [Artificial Intelligence](https://profiles.viictr.org/profile/246952)
+
+[Explore](https://profiles.viictr.org/profile/30882399/198)
+
+_
+
+Co-Authors (29)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [MERIC-BERNSTAM, FUNDA](https://profiles.viictr.org/profile/12583329)
+  * [HONG, DAVID SANGHYUN](https://profiles.viictr.org/profile/12583776)
+  * [GEORGE, GOLDY C](https://profiles.viictr.org/profile/17440030)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [MENDELSOHN, JOHN](https://profiles.viictr.org/profile/12582942)
+
+[Explore](https://profiles.viictr.org/profile/30882399/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BATES, DAVID](https://profiles.viictr.org/profile/265690)
+  * [SITTIG, DEAN](https://profiles.viictr.org/profile/266234)
+  * [SINGH, HARDEEP](https://profiles.viictr.org/profile/269397)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [MERIC-BERNSTAM, FUNDA](https://profiles.viictr.org/profile/12583329)
+
+[Explore](https://profiles.viictr.org/profile/30882399/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DAHLSTROM, KRISTINA](https://profiles.viictr.org/profile/35420581)
+  * [LI, YAFANG](https://profiles.viictr.org/profile/28999126)
+  * [THRIFT, AARON](https://profiles.viictr.org/profile/9909036)
+  * [TUNA, MUSAFFE](https://profiles.viictr.org/profile/34509756)
+  * [WHITWORTH, KRISTINA](https://profiles.viictr.org/profile/30364461)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

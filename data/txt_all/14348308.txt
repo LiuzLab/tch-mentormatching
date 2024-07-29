@@ -1,0 +1,276 @@
+## THOMAS FOGARTY III
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 6621 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=MKQ34HfTOav3RYKj5X%2fX&rnd=db282b78-7d60-45e6-8a2a-da18a5480f63)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=14348308)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=14348308&cachekey=51e79980-f5b2-40a9-9e04-50f8c3ee3fdc)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Biography  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+education and training
+
+George Washington University, Washington, DC| BS| 05/2007| Emergency Medical
+Services Management  
+---|---|---|---  
+George Washington University , Washington, DC | MD| 05/2012| Medicine  
+Baylor College of Medicine, Houston, TX| Board Certification| 06/2015|
+Pediatrics  
+Baylor College of Medicine, Houston, TX| Board Certification| 06/2018|
+Pediatric Critical Care Medicine  
+Baylor College of Medicine, Houston, TX| Board Certification| 12/2019|
+Clinical Informatics  
+Epic, Verona, WI| | 04/2020| Physician Builder  
+Epic, Verona, WI| | 06/2020| Cognitive Computing Badge  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+awards and honors
+
+2012| Gold Humanism Honor Society, George Washington University  
+---|---  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+overview
+
+I am a pediatric intensivist with clinical informatics experience focused in
+data/analytics. I am currently Associate Medical Information Officer for
+Analytics & Data Governance at Texas Children's Hospital and Associate Chief
+Quality Officer for Pediatrics.  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+keywords
+
+  * [Informatics](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Informatics&exactphrase=false)
+  * [Data Science](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Data Science&exactphrase=false)
+  * [CPR](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=CPR&exactphrase=false)
+  * [Resuscitation](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Resuscitation&exactphrase=false)
+  * [Mechanical Ventilation](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Mechanical Ventilation&exactphrase=false)
+  * [Machine Learning](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Machine Learning&exactphrase=false)
+  * [Extracorporeal Life Support](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Extracorporeal Life Support&exactphrase=false)
+  * [Prediction Modeling](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Prediction Modeling&exactphrase=false)
+  * [ECMO Treatment](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=ECMO Treatment&exactphrase=false)
+  * [Computational Modeling, Patient-Specific](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Computational Modeling, Patient-Specific&exactphrase=false)
+  * [Computational Intelligence](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Computational Intelligence&exactphrase=false)
+  * [ECG](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=ECG&exactphrase=false)
+  * [Time Series](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Time Series&exactphrase=false)
+  * [Artificial Intelligence](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=Artificial Intelligence&exactphrase=false)
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+(Fogarty, Thomas)Jun 1, 2019Texas Children's Hospital  
+Development of a Platform for Choose Your Own Adventure Style Medical
+Education  
+Role Description: This grant is to develop an innovative education platform
+for post-graduate medical education using gamification.  
+Role: Co-Investigator  
+---  
+  
+* * *  
+  
+1R01NS133142-01 (Raman, Lakshmi)NIH  
+Predicting ECMO NeuroLogICal Injuries using mAchiNe Learning (PELICAN)  
+Role Description: Evaluate clinical and high resolution data in ECMO patients
+to predict neurological injury.  
+Role: Site Co-Lead  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Dennee A, Fogarty TP, [Howard TS](https://profiles.viictr.org/profile/17411509), Hunter RB. Sinus Arrest Related to Dexmedetomidine Infusion in an Infant; a Case Report and Review of Current Literature. J Pharm Pract. 2023 Aug 04; 8971900231193558. PMID: [37540811](//www.ncbi.nlm.nih.gov/pubmed/37540811).
+
+Citations:  Fields:
+
+Pha Pharmacy
+
+  2. Boguniewicz J, Demmler-Harrison GJ, [Lotze TE](https://profiles.viictr.org/profile/267050), [Jarjour IT](https://profiles.viictr.org/profile/270288), [Whitehead WE](https://profiles.viictr.org/profile/265750), Frontiero J, [Dutta A](https://profiles.viictr.org/profile/8183291), Fogarty T, Hunter JV, Ogunbona OB, [Pareek AV](https://profiles.viictr.org/profile/49466761), Cameron LH. Management of Extensive Central Nervous System Cladophialophora bantiana Infection in a 9-Year-Old Child. Pediatr Infect Dis J. 2022 11 01; 41(11):e481-e486. PMID: [36102704](//www.ncbi.nlm.nih.gov/pubmed/36102704).
+
+Citations:
+
+  3. [Thadani S](https://profiles.viictr.org/profile/24845162), Fogarty T, Mottes T, [Price JF](https://profiles.viictr.org/profile/268360), [Srivaths P](https://profiles.viictr.org/profile/265653), Bell C, Akcan-Arikan A. Hemodynamic instability during connection to continuous kidney replacement therapy in critically ill pediatric patients. Pediatr Nephrol. 2022 09; 37(9):2167-2177. PMID: [35118547](//www.ncbi.nlm.nih.gov/pubmed/35118547).
+
+Citations:  Fields:
+
+Nep NephrologyPed Pediatrics
+
+Translation:Humans
+
+  4. Mian MUM, [Kennedy C](https://profiles.viictr.org/profile/267060), Fogarty T, Naeem B, [Lam F](https://profiles.viictr.org/profile/269785), [Coss-Bu J](https://profiles.viictr.org/profile/269757), Arikan AA, [Nguyen T](https://profiles.viictr.org/profile/267765), [Bashir D](https://profiles.viictr.org/profile/6714450), [Virk M](https://profiles.viictr.org/profile/17873552), [Harpavat S](https://profiles.viictr.org/profile/270008), [Raynor T](https://profiles.viictr.org/profile/3009788), [Rana AA](https://profiles.viictr.org/profile/5714599), Goss J, [Leung D](https://profiles.viictr.org/profile/268208), [Desai MS](https://profiles.viictr.org/profile/269157). The use of tracheostomy to support critically ill children receiving orthotopic liver transplantation: a single-center experience. Pediatr Transplant. 2022 Feb; 26(1):e14140. PMID: [34523781](//www.ncbi.nlm.nih.gov/pubmed/34523781).
+
+Citations:  Fields:
+
+Ped PediatricsTra Transplantation
+
+Translation:Humans
+
+  5. . HEMODYNAMIC IMPACT OF CONTINUOUS RENAL REPLACEMENT THERAPY FILTER CHANGE IN PEDIATRIC PATIENTS. Pediatric Critical Care Medicine. 2021; 22(1):138.
+
+  6. Hemodynamic Signature of Pediatric Septic AKI. Critical Care Medicine. 2021; 1(49):627. [View Publication](https://journals.lww.com/ccmjournal/Citation/2021/01001/1245__Hemodynamic_Signature_of_Pediatric_Septic.1213.aspx).
+
+  7. . Tracheostomy to Support Critically Ill Children After Liver Transplant: A Single-Center Experience. Critical Care Medicine. 2021; 49(1):289. [View Publication](https://journals.lww.com/ccmjournal/Citation/2021/01001/591__Tracheostomy_to_Support_Critically_Ill.559.aspx).
+
+  8. . Worsening Outcomes in Malnourished Children With Organ Dysfunction Admitted to the PICU. Critical Care Medicine. 2021; 49(1):287. [View Publication](https://journals.lww.com/ccmjournal/Citation/2021/01001/588__Worsening_Outcomes_in_Malnourished_Children.556.aspx).
+
+  9. . ACUTE MALNUTRITION AND OUTCOMES IN CRITICALLY ILL CHILDREN. Critical Care Medicine. 2020; 48(1):204. [View Publication](https://journals.lww.com/ccmjournal/Citation/2020/01001/447__ACUTE_MALNUTRITION_AND_OUTCOMES_IN_CRITICALLY.411.aspx).
+
+  10. Hemodynamic Events during Continuous Renal Replacement Therapy Filter Change in Children. Critical Care Medicine. 2020; 48(1):693. [View Publication](https://journals.lww.com/ccmjournal/Citation/2020/01001/1433__HEMODYNAMIC_EVENTS_DURING_CONTINUOUS_RENAL.1389.aspx).
+
+  11. . Hyperoxia in Cyanotic Congenital Heart Disease Patients on Veno-Arterial Extracorporeal Life Support is Associated with Increased Mortality. ELSO Annual Conference, Scottsdale, AZ. 2018.
+
+  12. . Nutritional Status and Organ Dysfunction in Critically Ill Children. European Society for Intensive Care Medicine. 
+
+  13. . Body Mass Index (BMI) and Outcomes in Critically Ill Children. European Society for Intensive Care Medicine. 
+
+  14. Hemodynamic Impact of Continuous Renal Replacement Therapy Filter Change in Pediatric Patients. WFPCCS. 
+
+  15. . Carbon dioxide production derived resting energy expenditure in pediatric continuous renal replacement therapy (CRRT). 
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 5 distinct years, with a maximum of 5
+publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,40,100,40,20,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2018| 1  
+2020| 2  
+2021| 5  
+2022| 2  
+2023| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+FOGARTY III's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (28)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Cerebral Ventriculitis](https://profiles.viictr.org/profile/27546033)
+  * [Phaeohyphomycosis](https://profiles.viictr.org/profile/27546538)
+  * [Central Nervous System Infections](https://profiles.viictr.org/profile/254962)
+  * [Hypotension](https://profiles.viictr.org/profile/241192)
+  * [Multiple Organ Failure](https://profiles.viictr.org/profile/252945)
+
+[Explore](https://profiles.viictr.org/profile/14348308/198)
+
+_
+
+Co-Authors (22)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [AKCAN ARIKAN, AYSE](https://profiles.viictr.org/profile/267462)
+  * [THADANI, SAMEER](https://profiles.viictr.org/profile/24845162)
+  * [DESAI, MORESHWAR](https://profiles.viictr.org/profile/269157)
+  * [HOWARD, TAYLOR](https://profiles.viictr.org/profile/17411509)
+  * [JARJOUR, IMAD](https://profiles.viictr.org/profile/270288)
+
+[Explore](https://profiles.viictr.org/profile/14348308/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [AKCAN ARIKAN, AYSE](https://profiles.viictr.org/profile/267462)
+  * [RANA, ABBAS](https://profiles.viictr.org/profile/5714599)
+  * [KONTOYIANNIS, DIMITRIOS P](https://profiles.viictr.org/profile/12582577)
+  * [PATIDAR, KAVISH](https://profiles.viictr.org/profile/39888265)
+  * [CHOLANKERIL, GEORGE](https://profiles.viictr.org/profile/31882597)
+
+[Explore](https://profiles.viictr.org/profile/14348308/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ANDERS, MARC](https://profiles.viictr.org/profile/11931801)
+  * [BORGES, NIRICA](https://profiles.viictr.org/profile/6714308)
+  * [DOLAN, KRISTIN](https://profiles.viictr.org/profile/22016553)
+  * [PETERSEN, PAMELA](https://profiles.viictr.org/profile/27841661)
+  * [RAZAVI, ASMA](https://profiles.viictr.org/profile/7612561)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

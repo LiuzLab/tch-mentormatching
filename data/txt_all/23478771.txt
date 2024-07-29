@@ -1,0 +1,575 @@
+## ROBERT CABRERA
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Cellular Biology  
+Address| 6501 Fannin St  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BKQy5HfTbqj0RJ3o8nriKLeBaRSOgg%3d%3d&rnd=8e7e2640-492e-4d99-83ff-9d3d3550c1e3)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=23478771)  
+  
+
+Other Positions| Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Center for Precision Environmental Health  
+Division| Center for Precision Env Health  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R21MH122252 (CABRERA, ROBERT M)Sep 24, 2019 - Jul 31, 2021NIH/NIMH  
+Pathogenic Linking of HIV Integrase Inhibitors, Folate Receptors, and Cerebral
+Folate Deficiency  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01HD100229 (CABRERA, ROBERT M)Sep 18, 2019 - Jul 31, 2024NIH  
+Plausible Causative Mechanism for Dolutegravir Developmental Toxicity  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Caiaffa CD, Tukeman G, Delgado CZ, Ambekar YS, Mekonnen TT, Singh M, Rodriguez V, Ricco E, [Kraushaar D](https://profiles.viictr.org/profile/29494110), Aglyamov SR, Scarcelli G, [Larin KV](https://profiles.viictr.org/profile/266154), [Finnell RH](https://profiles.viictr.org/profile/22247959), **Cabrera RM**. Dolutegravir induces FOLR1 expression during brain organoid development. Front Mol Neurosci. 2024; 17:1394058. PMID: [38828282](//www.ncbi.nlm.nih.gov/pubmed/38828282); PMCID: [PMC11140035](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11140035).
+
+Citations:
+
+  2. Tukeman GL, Wei H, Lin YL, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), [Finnell RH](https://profiles.viictr.org/profile/22247959), **Cabrera RM**. Dolutegravir-induced neural tube defects in mice are folate responsive. AIDS. 2024 03 15; 38(4):439-446. PMID: [37382903](//www.ncbi.nlm.nih.gov/pubmed/37382903); PMCID: [PMC10755062](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10755062).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37382903/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansAnimals
+
+  3. Han X, Cao X, **Cabrera RM** , Ramirez PAP, Lin YL, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), Zhang C, [Finnell RH](https://profiles.viictr.org/profile/22247959), Lei Y. Folate regulation of planar cell polarity pathway and F-actin through folate receptor alpha. FASEB J. 2024 01; 38(1):e23346. PMID: [38095297](//www.ncbi.nlm.nih.gov/pubmed/38095297); PMCID: [PMC10754249](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10754249).
+
+Citations:  Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  4. Cao X, Xu J, Lin YL, **Cabrera RM** , Chen Q, Zhang C, [Steele JW](https://profiles.viictr.org/profile/31259000), Han X, Gross SS, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), [Lupski JR](https://profiles.viictr.org/profile/268099), Li W, Wang H, [Finnell RH](https://profiles.viictr.org/profile/22247959), [Lei Y](https://profiles.viictr.org/profile/23478772). Excess folic acid intake increases DNA de novo point mutations. Cell Discov. 2023 Feb 28; 9(1):22. PMID: [36849450](//www.ncbi.nlm.nih.gov/pubmed/36849450); PMCID: [PMC9970956](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9970956).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36849450/citedby/)
+
+  5. Han X, Cao X, **Cabrera RM** , Pimienta Ramirez PA, Zhang C, Ramaekers VT, [Finnell RH](https://profiles.viictr.org/profile/22247959), [Lei Y](https://profiles.viictr.org/profile/23478772). KDM6B Variants May Contribute to the Pathophysiology of Human Cerebral Folate Deficiency. Biology (Basel). 2022 Dec 31; 12(1). PMID: [36671766](//www.ncbi.nlm.nih.gov/pubmed/36671766); PMCID: [PMC9855468](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9855468).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36671766/citedby/)
+
+  6. Han X, Cao X, Aguiar-Pulido V, Yang W, Karki M, Ramirez PAP, **Cabrera RM** , Lin YL, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), Shaw GM, Ross ME, Zhang C, [Finnell RH](https://profiles.viictr.org/profile/22247959), [Lei Y](https://profiles.viictr.org/profile/23478772). CIC missense variants contribute to susceptibility for spina bifida. Hum Mutat. 2022 12; 43(12):2021-2032. PMID: [36054333](//www.ncbi.nlm.nih.gov/pubmed/36054333); PMCID: [PMC9772115](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9772115).
+
+Citations:
+
+  7. Palacios AM, Feiner RA, **Cabrera RM**. Characterization of folic acid, 5-methyltetrahydrofolate and synthetic folinic acid in the high-affinity folate transporters: impact on pregnancy and development. Reprod Dev Med. 2023 Jun; 7(2):102-107. PMID: [37313449](//www.ncbi.nlm.nih.gov/pubmed/37313449); PMCID: [PMC10259187](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10259187).
+
+Citations:
+
+  8. [Steele JW](https://profiles.viictr.org/profile/31259000), Lin YL, Chen N, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), Chen Q, Attarwala N, Venkatesalu M, **Cabrera RM** , Gross SS, [Finnell RH](https://profiles.viictr.org/profile/22247959). Embryonic Hypotaurine Levels Contribute to Strain-Dependent Susceptibility in Mouse Models of Valproate-Induced Neural Tube Defects. Front Cell Dev Biol. 2022; 10:832492. PMID: [35265619](//www.ncbi.nlm.nih.gov/pubmed/35265619); PMCID: [PMC8898900](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8898900).
+
+Citations:
+
+  9. [Finnell RH](https://profiles.viictr.org/profile/22247959), Caiaffa CD, Kim SE, [Lei Y](https://profiles.viictr.org/profile/23478772), [Steele J](https://profiles.viictr.org/profile/31259000), Cao X, Tukeman G, Lin YL, **Cabrera RM** , [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769). Gene Environment Interactions in the Etiology of Neural Tube Defects. Front Genet. 2021; 12:659612. PMID: [34040637](//www.ncbi.nlm.nih.gov/pubmed/34040637); PMCID: [PMC8143787](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8143787).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34040637/citedby/)
+
+  10. Tian T, Lai X, Xiang K, Han X, Yin S, **Cabrera RM** , [Steele JW](https://profiles.viictr.org/profile/31259000), [Lei Y](https://profiles.viictr.org/profile/23478772), Cao X, [Finnell RH](https://profiles.viictr.org/profile/22247959), Wang L, Ren A. Hypermethylation of PI3K-AKT signalling pathway genes is associated with human neural tube defects. Epigenetics. 2022 Jan-Feb; 17(2):133-146. PMID: [33491544](//www.ncbi.nlm.nih.gov/pubmed/33491544); PMCID: [PMC8865305](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8865305).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  11. Tian T, Cao X, Kim SE, Lin YL, [Steele JW](https://profiles.viictr.org/profile/31259000), **Cabrera RM** , Karki M, Yang W, Marini NJ, Hoffman EN, Han X, Hu C, Wang L, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), Shaw GM, Ren A, [Finnell RH](https://profiles.viictr.org/profile/22247959), [Lei Y](https://profiles.viictr.org/profile/23478772). FKBP8 variants are risk factors for spina bifida. Hum Mol Genet. 2020 11 04; 29(18):3132-3144. PMID: [32969478](//www.ncbi.nlm.nih.gov/pubmed/32969478); PMCID: [PMC7645715](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7645715).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32969478/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimals
+
+  12. Cao X, Kim SE, **Cabrera RM** , [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), Zhu H, Parker M, Lin Y, [Steele JW](https://profiles.viictr.org/profile/31259000), Han X, [Finnell RH](https://profiles.viictr.org/profile/22247959), [Lei Y](https://profiles.viictr.org/profile/23478772), Wolf A, Ramaekers VT, Steinfeld R. CIC de novo loss of function variants contribute to cerebral folate deficiency by downregulating FOLR1 expression. J Med Genet. 2021 07; 58(7):484-494. PMID: [32820034](//www.ncbi.nlm.nih.gov/pubmed/32820034); PMCID: [PMC7895856](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7895856).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32820034/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  13. Taiwo TE, Cao X, **Cabrera RM** , [Lei Y](https://profiles.viictr.org/profile/23478772), [Finnell RH](https://profiles.viictr.org/profile/22247959). Approaches to studying the genomic architecture of complex birth defects. Prenat Diagn. 2020 08; 40(9):1047-1055. PMID: [32468575](//www.ncbi.nlm.nih.gov/pubmed/32468575); PMCID: [PMC8117178](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8117178).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32468575/citedby/) Fields:
+
+Obs Obstetrics
+
+Translation:HumansAnimals
+
+  14. **Cabrera RM** , Linda Lin Y, Law E, Kim J, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769). The teratogenic effects of sertraline in mice. Birth Defects Res. 2020 08; 112(13):1014-1024. PMID: [32077266](//www.ncbi.nlm.nih.gov/pubmed/32077266).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32077266/citedby/) Fields:
+
+Emb EmbryologyTer TeratologyTox Toxicology
+
+Translation:HumansAnimals
+
+  15. Cao X, Tian T, [Steele JW](https://profiles.viictr.org/profile/31259000), **Cabrera RM** , Aguiar-Pulido V, Wadhwa S, Bhavani N, Bi P, Gargurevich NH, Hoffman EN, Cai CQ, Marini NJ, Yang W, Shaw GM, Ross ME, [Finnell RH](https://profiles.viictr.org/profile/22247959), [Lei Y](https://profiles.viictr.org/profile/23478772). Loss of RAD9B impairs early neural development and contributes to the risk for human spina bifida. Hum Mutat. 2020 04; 41(4):786-799. PMID: [31898828](//www.ncbi.nlm.nih.gov/pubmed/31898828); PMCID: [PMC7185173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7185173).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31898828/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  16. Katz TA, [Grimm SL](https://profiles.viictr.org/profile/35589914), Kaushal A, Dong J, Jangid RK, Bertocchio JP, [Guan Y](https://profiles.viictr.org/profile/24845231), Robertson MJ, **Cabrera RM** , [Finegold MJ](https://profiles.viictr.org/profile/269596), [Foulds CE](https://profiles.viictr.org/profile/267919), [Coarfa C](https://profiles.viictr.org/profile/265668), [Walker CL](https://profiles.viictr.org/profile/17873538), Trevi?o LS, Gait?n AV. Hepatic Tumor Formation in Adult Mice Developmentally Exposed to Organotin. Environ Health Perspect. 2020 01; 128(1):17010. PMID: [31939706](//www.ncbi.nlm.nih.gov/pubmed/31939706); PMCID: [PMC7015627](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7015627).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31939706/citedby/) Fields:
+
+Env Environmental Health
+
+Translation:HumansAnimals
+
+  17. **Cabrera RM** , Souder JP, [Steele JW](https://profiles.viictr.org/profile/31259000), Yeo L, Tukeman G, [Gorelick DA](https://profiles.viictr.org/profile/23478773), [Finnell RH](https://profiles.viictr.org/profile/22247959). The antagonism of folate receptor by dolutegravir: developmental toxicity reduction by supplemental folic acid. AIDS. 2019 11 01; 33(13):1967-1976. PMID: [31259764](//www.ncbi.nlm.nih.gov/pubmed/31259764); PMCID: [PMC6774845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6774845).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31259764/citedby/) Fields:
+
+Acq Acquired Immunodeficiency Synd
+
+Translation:HumansAnimalsCells
+
+  18. [Steele JW](https://profiles.viictr.org/profile/31259000), Bayliss S, Bayliss J, Lin YL, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), **Cabrera RM** , Asfaw YG, Cummings TJ, [Finnell RH](https://profiles.viictr.org/profile/22247959), George TM. Heritable spina bifida in sheep: A potential model for fetal repair of myelomeningocele. J Pediatr Surg. 2020 Mar; 55(3):475-481. PMID: [31301886](//www.ncbi.nlm.nih.gov/pubmed/31301886); PMCID: [PMC6935438](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6935438).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31301886/citedby/) Fields:
+
+Gen General SurgeryPed Pediatrics
+
+Translation:Animals
+
+  19. Lin YL, Bialer M, **Cabrera RM** , [Finnell RH](https://profiles.viictr.org/profile/22247959), [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769). Teratogenicity of valproic acid and its constitutional isomer, amide derivative valnoctamide in mice. Birth Defects Res. 2019 08 15; 111(14):1013-1023. PMID: [30325584](//www.ncbi.nlm.nih.gov/pubmed/30325584).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30325584/citedby/) Fields:
+
+Emb EmbryologyTer TeratologyTox Toxicology
+
+Translation:Animals
+
+  20. Conde-Vancells J, Vazquez-Chantada M, McCollum CW, Bondesson M, Kalasekar SM, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), **Cabrera RM** , [Finnell RH](https://profiles.viictr.org/profile/22247959), Gustafsson J?. Combining mouse embryonic stem cells and zebrafish embryos to evaluate developmental toxicity of chemical exposure. Reprod Toxicol. 2018 10; 81:220-228. PMID: [30103011](//www.ncbi.nlm.nih.gov/pubmed/30103011).
+
+Citations:  Fields:
+
+Emb EmbryologyRep Reproductive MedicineTox Toxicology
+
+Translation:AnimalsCells
+
+  21. Dong Y, Wang L, [Lei Y](https://profiles.viictr.org/profile/23478772), Yang N, **Cabrera RM** , [Finnell RH](https://profiles.viictr.org/profile/22247959), Ren A. Gene variants in the folate pathway are associated with increased levels of folate receptor autoantibodies. Birth Defects Res. 2018 07 17; 110(12):973-981. PMID: [29732742](//www.ncbi.nlm.nih.gov/pubmed/29732742); PMCID: [PMC6276117](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6276117).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29732742/citedby/) Fields:
+
+Emb EmbryologyTer TeratologyTox Toxicology
+
+Translation:Humans
+
+  22. Kim J, [Lei Y](https://profiles.viictr.org/profile/23478772), Guo J, Kim SE, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), **Cabrera RM** , Lin YL, Nilsson TK, Zhang T, Ren A, Wang L, Yuan Z, Zheng YF, Wang HY, [Finnell RH](https://profiles.viictr.org/profile/22247959). Formate rescues neural tube defects caused by mutations in Slc25a32. Proc Natl Acad Sci U S A. 2018 05 01; 115(18):4690-4695. PMID: [29666258](//www.ncbi.nlm.nih.gov/pubmed/29666258); PMCID: [PMC5939102](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5939102).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29666258/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  23. Vichier-Guerre C, Parker M, Pomerantz Y, [Finnell RH](https://profiles.viictr.org/profile/22247959), **Cabrera RM**. Impact of selective serotonin reuptake inhibitors on neural crest stem cell formation. Toxicol Lett. 2017 Nov 05; 281:20-25. PMID: [28844482](//www.ncbi.nlm.nih.gov/pubmed/28844482).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28844482/citedby/) Fields:
+
+Tox Toxicology
+
+Translation:HumansCells
+
+  24. Yang N, Wang L, [Finnell RH](https://profiles.viictr.org/profile/22247959), Li Z, Jin L, Zhang L, **Cabrera RM** , Ye R, Ren A. Corrigendum for: Levels of folate receptor autoantibodies in maternal and cord blood and risk of neural tube defects in a Chinese population, 106:685-695 (10.1002/bdra.23517). Birth Defects Res A Clin Mol Teratol. 2016 12; 106(12):1062. PMID: [28000437](//www.ncbi.nlm.nih.gov/pubmed/28000437).
+
+Citations:  Fields:
+
+Ter Teratology
+
+  25. Wilkerson JL, Ghosh S, Mustafa M, Abdullah RA, Niphakis MJ, **Cabrera R** , Maldonado RL, Cravatt BF, Lichtman AH. The endocannabinoid hydrolysis inhibitor SA-57: Intrinsic antinociceptive effects, augmented morphine-induced antinociception, and attenuated heroin seeking behavior in mice. Neuropharmacology. 2017 03 01; 114:156-167. PMID: [27890602](//www.ncbi.nlm.nih.gov/pubmed/27890602); PMCID: [PMC5289715](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5289715).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27890602/citedby/) Fields:
+
+Neu NeurologyPha Pharmacology
+
+Translation:AnimalsCells
+
+  26. McCollum CW, Conde-Vancells J, Hans C, Vazquez-Chantada M, Kleinstreuer N, Tal T, Knudsen T, Shah SS, Merchant FA, [Finnell RH](https://profiles.viictr.org/profile/22247959), **Cabrera R** , Bondesson M, Gustafsson J?. Identification of vascular disruptor compounds by analysis in zebrafish embryos and mouse embryonic endothelial cells. Reprod Toxicol. 2017 06; 70:60-69. PMID: [27838387](//www.ncbi.nlm.nih.gov/pubmed/27838387); PMCID: [PMC5425326](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5425326).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27838387/citedby/) Fields:
+
+Emb EmbryologyRep Reproductive MedicineTox Toxicology
+
+Translation:AnimalsCells
+
+  27. Yang N, Wang L, [Finnell RH](https://profiles.viictr.org/profile/22247959), Li Z, Jin L, Zhang L, **Cabrera RM** , Ye R, Ren A. Levels of folate receptor autoantibodies in maternal and cord blood and risk of neural tube defects in a Chinese population. Birth Defects Res A Clin Mol Teratol. 2016 Aug; 106(8):685-95. PMID: [27166990](//www.ncbi.nlm.nih.gov/pubmed/27166990); PMCID: [PMC4983204](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4983204).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27166990/citedby/) Fields:
+
+Ter Teratology
+
+Translation:Humans
+
+  28. Denny KJ, Kelly CF, Kumar V, Witham KL, **Cabrera RM** , [Finnell RH](https://profiles.viictr.org/profile/22247959), Taylor SM, Jeanes A, Woodruff TM. Autoantibodies against homocysteinylated protein in a mouse model of folate deficiency-induced neural tube defects. Birth Defects Res A Clin Mol Teratol. 2016 Mar; 106(3):201-7. PMID: [26900104](//www.ncbi.nlm.nih.gov/pubmed/26900104); PMCID: [PMC4801756](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4801756).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26900104/citedby/) Fields:
+
+Ter Teratology
+
+Translation:HumansAnimalsCells
+
+  29. **Cabrera R** , Maldonado R, Rodr?guez-Arias M, Montagud-Romero S, Rubio-Araiz A, Aguilar MA, Mart?n-Garc?a E, Porcu F, Colado MI, Mi?arro J. Effects of repeated social defeat on adolescent mice on cocaine-induced CPP and self-administration in adulthood: integrity of the blood-brain barrier. Addict Biol. 2017 Jan; 22(1):129-141. PMID: [26374627](//www.ncbi.nlm.nih.gov/pubmed/26374627).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26374627/citedby/) Fields:
+
+Sub Substance-Related Disorders
+
+Translation:Animals
+
+  30. **Cabrera RM** , Kur E, Mecklenburg N, Willnow TE, Hammes A. LRP2 mediates folate uptake in the developing neural tube. J Cell Sci. 2014 May 15; 127(Pt 10):2261-8. PMID: [24639464](//www.ncbi.nlm.nih.gov/pubmed/24639464).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24639464/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:Animals
+
+  31. Gulvady AA, Ciolino HP, **Cabrera RM** , Jolly CA. Resveratrol inhibits the deleterious effects of diet-induced obesity on thymic function. J Nutr Biochem. 2013 Sep; 24(9):1625-33. PMID: [23561698](//www.ncbi.nlm.nih.gov/pubmed/23561698).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23561698/citedby/) Fields:
+
+Bio BiochemistryNut Nutritional Sciences
+
+Translation:AnimalsCells
+
+  32. Lai SC, Nakayama Y, Sequeira JM, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), **Cabrera RM** , [Finnell RH](https://profiles.viictr.org/profile/22247959), Bottiglieri T, Quadros EV. The transcobalamin receptor knockout mouse: a model for vitamin B12 deficiency in the central nervous system. FASEB J. 2013 Jun; 27(6):2468-75. PMID: [23430977](//www.ncbi.nlm.nih.gov/pubmed/23430977); PMCID: [PMC3659357](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3659357).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23430977/citedby/) Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:HumansAnimals
+
+  33. Wang X, **Cabrera RM** , Li Y, Miller DS, [Finnell RH](https://profiles.viictr.org/profile/22247959). Functional regulation of P-glycoprotein at the blood-brain barrier in proton-coupled folate transporter (PCFT) mutant mice. FASEB J. 2013 Mar; 27(3):1167-75. PMID: [23212123](//www.ncbi.nlm.nih.gov/pubmed/23212123); PMCID: [PMC3574287](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3574287).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23212123/citedby/) Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  34. Gulvady AA, Murphy EJ, Ciolino HP, **Cabrera RM** , Jolly CA. Glycerol-3-phosphate acyltransferase-1 gene ablation results in altered thymocyte lipid content and reduces thymic T cell production in mice. Lipids. 2013 Jan; 48(1):3-12. PMID: [23179391](//www.ncbi.nlm.nih.gov/pubmed/23179391).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23179391/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  35. **Cabrera RM** , [Finnell RH](https://profiles.viictr.org/profile/22247959), Zhu H, Shaw GM, [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769). Transcriptional analyses of two mouse models of spina bifida. Birth Defects Res A Clin Mol Teratol. 2012 Oct; 94(10):782-9. PMID: [23024056](//www.ncbi.nlm.nih.gov/pubmed/23024056); PMCID: [PMC3505988](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3505988).
+
+Citations:  Fields:
+
+Ter Teratology
+
+Translation:HumansAnimalsCells
+
+  36. Gallego X, Molas S, Amador-Arjona A, Marks MJ, Murtra P, **Cabrera R** , Maldonado R, Estivill X, Dierssen M, Robles N, Armengol L, Fern?ndez-Montes RD, Gratac?s M, Pumarola M, Sabri? J. Overexpression of the CHRNA5/A3/B4 genomic cluster in mice increases the sensitivity to nicotine and modifies its reinforcing effects. Amino Acids. 2012 Aug; 43(2):897-909. PMID: [22101982](//www.ncbi.nlm.nih.gov/pubmed/22101982).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22101982/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  37. Salojin KV, **Cabrera RM** , Sun W, Chang WC, Lin C, Duncan L, Platt KA, Read R, Vogel P, Liu Q, [Finnell RH](https://profiles.viictr.org/profile/22247959), Oravecz T. A mouse model of hereditary folate malabsorption: deletion of the PCFT gene leads to systemic folate deficiency. Blood. 2011 May 05; 117(18):4895-904. PMID: [21346251](//www.ncbi.nlm.nih.gov/pubmed/21346251).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21346251/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  38. Bille C, Pedersen DA, Andersen AM, Mansilla MA, Murray JC, Christensen K, Ballard JL, Gorman EB, **Cabrera RM** , [Finnell RH](https://profiles.viictr.org/profile/22247959). Autoantibodies to folate receptor alpha during early pregnancy and risk of oral clefts in Denmark. Pediatr Res. 2010 Mar; 67(3):274-9. PMID: [19952865](//www.ncbi.nlm.nih.gov/pubmed/19952865); PMCID: [PMC2909840](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2909840).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19952865/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  39. Jakubowski H, [Finnell RH](https://profiles.viictr.org/profile/22247959), **Cabrera RM** , Wang H, Gupta S, Kruger WD, Kraus JP, Shih DM, Perla-Kaj?n J. Genetic or nutritional disorders in homocysteine or folate metabolism increase protein N-homocysteinylation in mice. FASEB J. 2009 Jun; 23(6):1721-7. PMID: [19204075](//www.ncbi.nlm.nih.gov/pubmed/19204075); PMCID: [PMC3221610](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3221610).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19204075/citedby/) Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:HumansAnimals
+
+  40. **Cabrera RM** , Shaw GM, Ballard JL, Carmichael SL, Yang W, Lammer EJ, [Finnell RH](https://profiles.viictr.org/profile/22247959). Autoantibodies to folate receptor during pregnancy and neural tube defect risk. J Reprod Immunol. 2008 Oct; 79(1):85-92. PMID: [18804286](//www.ncbi.nlm.nih.gov/pubmed/18804286); PMCID: [PMC3998370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3998370).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18804286/citedby/) Fields:
+
+All Allergy and ImmunologyRep Reproductive Medicine
+
+Translation:Humans
+
+  41. Zhu H, **Cabrera RM** , [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), Bozinov D, Wang D, Schwartz RJ, [Finnell RH](https://profiles.viictr.org/profile/22247959). Differentially expressed genes in embryonic cardiac tissues of mice lacking Folr1 gene activity. BMC Dev Biol. 2007 Nov 20; 7:128. PMID: [18028541](//www.ncbi.nlm.nih.gov/pubmed/18028541); PMCID: [PMC2206038](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2206038).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18028541/citedby/) Fields:
+
+Emb Embryology
+
+Translation:Animals
+
+  42. [Wlodarczyk BJ](https://profiles.viictr.org/profile/23478769), **Cabrera RM** , Hill DS, Bozinov D, Zhu H, [Finnell RH](https://profiles.viictr.org/profile/22247959). Arsenic-induced gene expression changes in the neural tube of folate transport defective mouse embryos. Neurotoxicology. 2006 Jul; 27(4):547-57. PMID: [16620997](//www.ncbi.nlm.nih.gov/pubmed/16620997).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16620997/citedby/) Fields:
+
+Env Environmental HealthNeu NeurologyTox Toxicology
+
+Translation:Animals
+
+  43. Massa V, **Cabrera RM** , Menegola E, Giavini E, [Finnell RH](https://profiles.viictr.org/profile/22247959). Valproic acid-induced skeletal malformations: associated gene expression cascades. Pharmacogenet Genomics. 2005 Nov; 15(11):787-800. PMID: [16220111](//www.ncbi.nlm.nih.gov/pubmed/16220111).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16220111/citedby/) Fields:
+
+Gen GeneticsPha Pharmacology
+
+Translation:HumansAnimals
+
+  44. **Cabrera RM** , Hill DS, Etheredge AJ, [Finnell RH](https://profiles.viictr.org/profile/22247959). Investigations into the etiology of neural tube defects. Birth Defects Res C Embryo Today. 2004 Dec; 72(4):330-44. PMID: [15662706](//www.ncbi.nlm.nih.gov/pubmed/15662706).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15662706/citedby/) Fields:
+
+Emb EmbryologyTer Teratology
+
+Translation:Humans
+
+  45. Spiegelstein O, **Cabrera RM** , Bozinov D, [Wlodarczyk B](https://profiles.viictr.org/profile/23478769), [Finnell RH](https://profiles.viictr.org/profile/22247959). Folate-regulated changes in gene expression in the anterior neural tube of folate binding protein-1 (Folbp1)-deficient murine embryos. Neurochem Res. 2004 Jun; 29(6):1105-12. PMID: [15176467](//www.ncbi.nlm.nih.gov/pubmed/15176467).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15176467/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  46. Lundberg YW, **Cabrera RM** , Greer KA, Zhao J, Garg R, [Finnell RH](https://profiles.viictr.org/profile/22247959). Mapping a chromosomal locus for valproic acid-induced exencephaly in mice. Mamm Genome. 2004 May; 15(5):361-9. PMID: [15170225](//www.ncbi.nlm.nih.gov/pubmed/15170225).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15170225/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsPHPublic Health
+
+  47. [Finnell RH](https://profiles.viictr.org/profile/22247959), Junker WM, Wadman LK, **Cabrera RM**. Gene expression profiling within the developing neural tube. Neurochem Res. 2002 Oct; 27(10):1165-80. PMID: [12462415](//www.ncbi.nlm.nih.gov/pubmed/12462415).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12462415/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:Animals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 47 publications over 22 distinct years, with a maximum of
+6 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,17,0,50,17,17,17,17,17,17,33,50,33,17,17,83,17,67,33,100,33,67,17,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 1  
+2004| 3  
+2005| 1  
+2006| 1  
+2007| 1  
+2008| 1  
+2009| 1  
+2010| 1  
+2011| 2  
+2012| 3  
+2013| 2  
+2014| 1  
+2015| 1  
+2016| 5  
+2017| 1  
+2018| 4  
+2019| 2  
+2020| 6  
+2021| 2  
+2022| 4  
+2023| 1  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+CABRERA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (270)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Neural Tube Defects](https://profiles.viictr.org/profile/241074)
+  * [Folic Acid](https://profiles.viictr.org/profile/243359)
+  * [Folate Receptor 1](https://profiles.viictr.org/profile/27546223)
+  * [Oxazines](https://profiles.viictr.org/profile/249312)
+  * [Pyridones](https://profiles.viictr.org/profile/263447)
+
+[Explore](https://profiles.viictr.org/profile/23478771/198)
+
+_
+
+Co-Authors (14)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [FINNELL, RICHARD](https://profiles.viictr.org/profile/22247959)
+  * [WLODARCZYK, BOGDAN](https://profiles.viictr.org/profile/23478769)
+  * [LEI, YUNPING](https://profiles.viictr.org/profile/23478772)
+  * [STEELE, JOHN](https://profiles.viictr.org/profile/31259000)
+  * [LARIN, KIRILL](https://profiles.viictr.org/profile/266154)
+
+[Explore](https://profiles.viictr.org/profile/23478771/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [FINNELL, RICHARD](https://profiles.viictr.org/profile/22247959)
+  * [SANZ CORTES, MAGDALENA](https://profiles.viictr.org/profile/11931798)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [WLODARCZYK, BOGDAN](https://profiles.viictr.org/profile/23478769)
+  * [LUPO, PHILIP](https://profiles.viictr.org/profile/270034)
+
+[Explore](https://profiles.viictr.org/profile/23478771/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AGOULNIK, IRINA](https://profiles.viictr.org/profile/269792)
+  * [HUANG, SHIXIA](https://profiles.viictr.org/profile/267743)
+  * [PARK, IN YOUNG](https://profiles.viictr.org/profile/18892306)
+  * [ROSEN, JEFFREY](https://profiles.viictr.org/profile/267640)
+  * [SLAUGHTER, BARBARA](https://profiles.viictr.org/profile/269616)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EtFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

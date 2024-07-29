@@ -1,0 +1,2461 @@
+## DEAN SITTIG
+
+| | Title| Adjunct Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 2450 Holcombe Blvd., Ste. 01y  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JaIk9WzAQIn2S8Ho5G4%3d&rnd=1c188b72-5b93-47ed-b6fa-3333bf4ab2bb)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266234)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+T32HS017586 (SITTIG, DEAN F.)Jul 1, 2008 - Jun 29, 2014AHRQ  
+AHRQ Training Program in Patient Safety and Quality  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R29LM005284 (SITTIG, DEAN F)Jun 1, 1991 - Aug 31, 1998NIH/NLM  
+INTELLIGENT REAL TIME INFORMATION SYNTHESIS FOR MONITORS  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Sittig DF** , Boxwala A, Wright A, Zott C, Gauthreaux NA, Swiger J, Lomotan EA, Dullabh P. Patient-centered clinical decision support challenges and opportunities identified from workflow execution models. J Am Med Inform Assoc. 2024 Aug 01; 31(8):1682-1692. PMID: [38907738](//www.ncbi.nlm.nih.gov/pubmed/38907738).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  2. Kato D, Lucas J, **Sittig DF**. Implementation of a health information technology safety classification system in the Veterans Health Administration's Informatics Patient Safety Office. J Am Med Inform Assoc. 2024 Jun 20; 31(7):1588-1595. PMID: [38758666](//www.ncbi.nlm.nih.gov/pubmed/38758666); PMCID: [PMC11187429](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11187429).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  3. Liu S, McCoy AB, Peterson JF, Lasko TA, **Sittig DF** , Nelson SD, Andrews J, Patterson L, Cobb CM, Mulherin D, Morton CT, Wright A. Leveraging explainable artificial intelligence to optimize clinical decision support. J Am Med Inform Assoc. 2024 Apr 03; 31(4):968-974. PMID: [38383050](//www.ncbi.nlm.nih.gov/pubmed/38383050); PMCID: [PMC10990514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10990514).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38383050/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  4. **Sittig DF** , Yackel EE, [Singh H](https://profiles.viictr.org/profile/269397). Five Strategies for a Safer EHR Modernization Journey. J Gen Intern Med. 2023 10; 38(Suppl 4):940-942. PMID: [37798588](//www.ncbi.nlm.nih.gov/pubmed/37798588); PMCID: [PMC10593716](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10593716).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  5. Shenvi E, Boxwala A, **Sittig D** , Zott C, Lomotan E, Swiger J, Dullabh P. Visualization of Patient-Generated Health Data: A Scoping Review of Dashboard Designs. Appl Clin Inform. 2023 10; 14(5):913-922. PMID: [37704021](//www.ncbi.nlm.nih.gov/pubmed/37704021); PMCID: [PMC10665122](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10665122).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  6. **Sittig DF** , Boxwala A, Wright A, Zott C, Desai P, Dhopeshwarkar R, Swiger J, Lomotan EA, Dobes A, Dullabh P. A lifecycle framework illustrates eight stages necessary for realizing the benefits of patient-centered clinical decision support. J Am Med Inform Assoc. 2023 08 18; 30(9):1583-1589. PMID: [37414544](//www.ncbi.nlm.nih.gov/pubmed/37414544); PMCID: [PMC10436138](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10436138).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37414544/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  7. Murphy DR, [Zimolzak AJ](https://profiles.viictr.org/profile/28999218), Upadhyay DK, Wei L, Jolly P, Offner A, **Sittig DF** , Korukonda S, Rekha RM, [Singh H](https://profiles.viictr.org/profile/269397). Developing electronic clinical quality measures to assess the cancer diagnostic process. J Am Med Inform Assoc. 2023 08 18; 30(9):1526-1531. PMID: [37257883](//www.ncbi.nlm.nih.gov/pubmed/37257883); PMCID: [PMC10436145](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10436145).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  8. **Sittig DF** , Wright A. A guide to mitigating audit log-related risk in medical professional liability cases. J Healthc Risk Manag. 2023 Oct; 43(2):37-47. PMID: [37486791](//www.ncbi.nlm.nih.gov/pubmed/37486791).
+
+Citations:  Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  9. Liu S, Wright AP, Patterson BL, Wanderer JP, Turer RW, Nelson SD, McCoy AB, **Sittig DF** , Wright A. Using AI-generated suggestions from ChatGPT to optimize clinical decision support. J Am Med Inform Assoc. 2023 06 20; 30(7):1237-1245. PMID: [37087108](//www.ncbi.nlm.nih.gov/pubmed/37087108); PMCID: [PMC10280357](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10280357).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37087108/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  10. Goli R, Hubig N, Min H, Gong Y, **Sittig DF** , Rennert L, Robinson D, Biondich P, Wright A, N?hr C, Law T, Faxvaag A, Weaver A, Gimbel R, Jing X. Keyphrase Identification Using Minimal Labeled Data with Hierarchical Context and Transfer Learning. medRxiv. 2023 May 26. PMID: [37292830](//www.ncbi.nlm.nih.gov/pubmed/37292830); PMCID: [PMC10246160](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10246160).
+
+Citations:
+
+  11. Wright A, Schreiber R, Bates DW, Aaron S, Ai A, Cholan RA, Desai A, Divo M, Dorr DA, Hickman TT, Hussain S, Just S, Koh B, Lipsitz S, Mcevoy D, Rosenbloom T, Russo E, Ting DY, Weitkamp A, **Sittig DF**. A multi-site randomized trial of a clinical decision support intervention to improve problem list completeness. J Am Med Inform Assoc. 2023 04 19; 30(5):899-906. PMID: [36806929](//www.ncbi.nlm.nih.gov/pubmed/36806929); PMCID: [PMC10114117](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10114117).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36806929/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  12. Liu S, Wright AP, Patterson BL, Wanderer JP, Turer RW, Nelson SD, McCoy AB, **Sittig DF** , Wright A. Assessing the Value of ChatGPT for Clinical Decision Support Optimization. medRxiv. 2023 Feb 23. PMID: [36865144](//www.ncbi.nlm.nih.gov/pubmed/36865144); PMCID: [PMC9980251](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9980251).
+
+Citations:
+
+  13. **Sittig DF** , Wright A. Identifying a Clinical Informatics or Electronic Health Record Expert Witness for Medical Professional Liability Cases. Appl Clin Inform. 2023 03; 14(2):290-295. PMID: [36706791](//www.ncbi.nlm.nih.gov/pubmed/36706791); PMCID: [PMC10033222](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10033222).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  14. Morris AH, Horvat C, Stagg B, Grainger DW, Lanspa M, Orme J, Clemmer TP, Weaver LK, Thomas FO, Grissom CK, Hirshberg E, East TD, Wallace CJ, Young MP, **Sittig DF** , Suchyta M, Pearl JE, Pesenti A, Bombino M, Beck E, Sward KA, Weir C, Phansalkar S, Bernard GR, Thompson BT, Brower R, Truwit J, Steingrub J, Hiten RD, Willson DF, Zimmerman JJ, Nadkarni V, Randolph AG, Curley MAQ, Newth CJL, Lacroix J, Agus MSD, Lee KH, deBoisblanc BP, Moore FA, Evans RS, Sorenson DK, Wong A, Boland MV, Dere WH, Crandall A, Facelli J, Huff SM, Haug PJ, Pielmeier U, Rees SE, Karbing DS, Andreassen S, Fan E, Goldring RM, Berger KI, Oppenheimer BW, Ely EW, Pickering BW, Schoenfeld DA, Tocino I, Gonnering RS, Pronovost PJ, Savitz LA, Dreyfuss D, Slutsky AS, Crapo JD, Pinsky MR, James B, Berwick DM. Computer clinical decision support that automates personalized clinical care: a challenging but needed healthcare delivery strategy. J Am Med Inform Assoc. 2022 12 13; 30(1):178-194. PMID: [36125018](//www.ncbi.nlm.nih.gov/pubmed/36125018); PMCID: [PMC9748596](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9748596).
+
+Citations:
+
+  15. **Sittig DF** , Sherman JD, Eckelman MJ, Draper A, [Singh H](https://profiles.viictr.org/profile/269397). i-CLIMATE: a "clinical climate informatics" action framework to reduce environmental pollution from healthcare. J Am Med Inform Assoc. 2022 11 14; 29(12):2153-2160. PMID: [35997550](//www.ncbi.nlm.nih.gov/pubmed/35997550); PMCID: [PMC9667163](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9667163).
+
+Citations:
+
+  16. Wright A, Nelson S, Rubins D, Schreiber R, **Sittig DF**. Clinical decision support malfunctions related to medication routes: a case series. J Am Med Inform Assoc. 2022 10 07; 29(11):1972-1975. PMID: [36040207](//www.ncbi.nlm.nih.gov/pubmed/36040207); PMCID: [PMC9552204](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9552204).
+
+Citations:
+
+  17. Cram P, Cram E, Antos J, **Sittig DF** , Anand A, Li Y. Changes in Availability of and Prices for Shoppable Services at US News and World Report Honor Roll Hospitals: a Longitudinal Cross-Sectional Study. J Gen Intern Med. 2023 02; 38(2):542-544. PMID: [35790664](//www.ncbi.nlm.nih.gov/pubmed/35790664); PMCID: [PMC9905366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9905366).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+  18. [Zimolzak AJ](https://profiles.viictr.org/profile/28999218), [Singh H](https://profiles.viictr.org/profile/269397), [Murphy DR](https://profiles.viictr.org/profile/267187), Wei L, Memon SA, Upadhyay DK, Korukonda S, Zubkoff L, **Sittig DF**. Translating electronic health record-based patient safety algorithms from research to clinical practice at multiple sites. BMJ Health Care Inform. 2022 Jul; 29(1). PMID: [35851287](//www.ncbi.nlm.nih.gov/pubmed/35851287); PMCID: [PMC9289019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9289019).
+
+Citations:  Fields:
+
+Med Medical InformaticsPub Public Health
+
+Translation:Humans
+
+  19. Dullabh P, Sandberg SF, Heaney-Huls K, Hovey LS, Lobach DF, Boxwala A, Desai PJ, Berliner E, Dymek C, Harrison MI, Swiger J, **Sittig DF**. Challenges and opportunities for advancing patient-centered clinical decision support: findings from a horizon scan. J Am Med Inform Assoc. 2022 06 14; 29(7):1233-1243. PMID: [35534996](//www.ncbi.nlm.nih.gov/pubmed/35534996); PMCID: [PMC9196686](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9196686).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  20. Dullabh P, Heaney-Huls K, Hovey L, Sandberg S, Lobach DF, Boxwala A, Desai P, **Sittig DF**. The Technology Landscape of Patient-Centered Clinical Decision Support - Where Are We and What Is Needed? Stud Health Technol Inform. 2022 Jun 06; 290:350-353. PMID: [35673033](//www.ncbi.nlm.nih.gov/pubmed/35673033).
+
+Citations:  Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  21. Jing X, Indani A, Hubig N, Min H, Gong Y, Cimino JJ, **Sittig DF** , Rennert L, Robinson D, Biondich P, Wright A, Law T, Faxvaag A, Gimbel R, N?hr C. A Systematic Approach to Configuring MetaMap for Optimal Performance. Methods Inf Med. 2022 12; 61(S 02):e51-e63. PMID: [35613942](//www.ncbi.nlm.nih.gov/pubmed/35613942); PMCID: [PMC9788913](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9788913).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+  22. Cifra CL, Tigges CR, Miller SL, Curl N, Monson CD, Dukes KC, Reisinger HS, Pennathur PR, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Reporting Outcomes of Pediatric Intensive Care Unit Patients to Referring Physicians via an Electronic Health Record-Based Feedback System. Appl Clin Inform. 2022 03; 13(2):495-503. PMID: [35545126](//www.ncbi.nlm.nih.gov/pubmed/35545126); PMCID: [PMC9095343](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9095343).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  23. Dullabh P, Heaney-Huls K, Lobach DF, Hovey LS, Sandberg SF, Desai PJ, Lomotan E, Swiger J, Harrison MI, Dymek C, **Sittig DF** , Boxwala A. The technical landscape for patient-centered CDS: progress, gaps, and challenges. J Am Med Inform Assoc. 2022 05 11; 29(6):1101-1105. PMID: [35263437](//www.ncbi.nlm.nih.gov/pubmed/35263437); PMCID: [PMC9093031](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9093031).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35263437/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  24. **Sittig DF** , Lakhani P, [Singh H](https://profiles.viictr.org/profile/269397). Applying requisite imagination to safeguard electronic health record transitions. J Am Med Inform Assoc. 2022 04 13; 29(5):1014-1018. PMID: [35022741](//www.ncbi.nlm.nih.gov/pubmed/35022741); PMCID: [PMC9006683](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9006683).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35022741/citedby/) Fields:
+
+Med Medical Informatics
+
+  25. **Sittig DF** , Petersen C, Downs SM, Lehmann JS, Lehmann CU. Thank You for a Successful 2021! Appl Clin Inform. 2022 01; 13(1):304-314. PMID: [35263801](//www.ncbi.nlm.nih.gov/pubmed/35263801); PMCID: [PMC8906992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8906992).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35263801/citedby/) Fields:
+
+Med Medical Informatics
+
+  26. **Sittig DF** , Sengstack P, [Singh H](https://profiles.viictr.org/profile/269397). Guidelines for US Hospitals and Clinicians on Assessment of Electronic Health Record Safety Using SAFER Guides. JAMA. 2022 Feb 22; 327(8):719-720. PMID: [35129591](//www.ncbi.nlm.nih.gov/pubmed/35129591).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  27. Keebler JR, Rosen MA, **Sittig DF** , Thomas E, Salas E. Human Factors and Ergonomics in Healthcare: Industry Demands and a Path Forward. Hum Factors. 2022 02; 64(1):250-258. PMID: [35000407](//www.ncbi.nlm.nih.gov/pubmed/35000407).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35000407/citedby/) Fields:
+
+Psy Psychology
+
+Translation:Humans
+
+  28. Keebler JR, Salas E, Rosen MA, **Sittig DF** , Thomas E. Preface: Special Issue on Human Factors in Healthcare. Hum Factors. 2022 02; 64(1):5. PMID: [34986657](//www.ncbi.nlm.nih.gov/pubmed/34986657).
+
+Citations:  Fields:
+
+Psy Psychology
+
+Translation:Humans
+
+  29. El-Kareh R, **Sittig DF**. Enhancing Diagnosis Through Technology: Decision Support, Artificial Intelligence, and Beyond. Crit Care Clin. 2022 Jan; 38(1):129-139. PMID: [34794627](//www.ncbi.nlm.nih.gov/pubmed/34794627); PMCID: [PMC8608279](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8608279).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  30. Cram P, Cram E, Antos J, **Sittig DF** , Anand A, Li Y. Availability of prices for shoppable services on hospital internet sites. Am J Manag Care. 2021 12 01; 27(12):e426-e428. PMID: [34889585](//www.ncbi.nlm.nih.gov/pubmed/34889585).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34889585/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  31. Mahajan P, Mollen C, Alpern ER, Baird-Cox K, Boothman RC, Chamberlain JM, Cosby K, Epstein HM, Gegenheimer-Holmes J, Gerardi M, [Giardina TD](https://profiles.viictr.org/profile/23478744), Patel VL, Ruddy R, Saleem J, Shaw KN, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). An Operational Framework to Study Diagnostic Errors in Emergency Departments: Findings From A Consensus Panel. J Patient Saf. 2021 12 01; 17(8):570-575. PMID: [31790012](//www.ncbi.nlm.nih.gov/pubmed/31790012).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31790012/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  32. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Policies to Promote Shared Responsibility for Safer Electronic Health Records. JAMA. 2021 Oct 19; 326(15):1477-1478. PMID: [34505867](//www.ncbi.nlm.nih.gov/pubmed/34505867).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34505867/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  33. [Murphy DR](https://profiles.viictr.org/profile/267187), Savoy A, Satterly T, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Dashboards for visual display of patient safety data: a systematic review. BMJ Health Care Inform. 2021 Oct; 28(1). PMID: [34615664](//www.ncbi.nlm.nih.gov/pubmed/34615664); PMCID: [PMC8496385](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8496385).
+
+Citations:  Fields:
+
+Med Medical InformaticsPub Public Health
+
+Translation:Humans
+
+  34. Vaghani V, Wei L, Mushtaq U, **Sittig DF** , [Bradford A](https://profiles.viictr.org/profile/17936048), [Singh H](https://profiles.viictr.org/profile/269397). Validation of an electronic trigger to measure missed diagnosis of stroke in emergency departments. J Am Med Inform Assoc. 2021 09 18; 28(10):2202-2211. PMID: [34279630](//www.ncbi.nlm.nih.gov/pubmed/34279630); PMCID: [PMC8449630](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8449630).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34279630/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  35. D'Amore JD, McCrary LK, Denson J, Li C, Vitale CJ, Tokachichu P, **Sittig DF** , McCoy AB, Wright A. Clinical data sharing improves quality measurement and patient safety. J Am Med Inform Assoc. 2021 07 14; 28(7):1534-1542. PMID: [33712850](//www.ncbi.nlm.nih.gov/pubmed/33712850); PMCID: [PMC8279795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8279795).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33712850/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  36. Morris AH, Stagg B, Lanspa M, Orme J, Clemmer TP, Weaver LK, Thomas F, Grissom CK, Hirshberg E, East TD, Wallace CJ, Young MP, **Sittig DF** , Pesenti A, Bombino M, Beck E, Sward KA, Weir C, Phansalkar SS, Bernard GR, Taylor Thompson B, Brower R, Truwit JD, Steingrub J, Duncan Hite R, Willson DF, Zimmerman JJ, Nadkarni VM, Randolph A, Curley MAQ, Newth CJL, Agus MSD, Lee KH, deBoisblanc BP, Scott Evans R, Sorenson DK, Wong A, Boland MV, Grainger DW, Dere WH, Crandall AS, Facelli JC, Huff SM, Haug PJ, Pielmeier U, Rees SE, Karbing DS, Andreassen S, Fan E, Goldring RM, Berger KI, Oppenheimer BW, Wesley Ely E, Gajic O, Pickering B, Schoenfeld DA, Tocino I, Gonnering RS, Pronovost PJ, Savitz LA, Slutsky AS, Crapo JD, Angus D, Pinsky MR, James B, Berwick D, Lacroix J, Dreyfuss D. Enabling a learning healthcare system with automated computer protocols that produce replicable and personalized clinician actions. J Am Med Inform Assoc. 2021 06 12; 28(6):1330-1344. PMID: [33594410](//www.ncbi.nlm.nih.gov/pubmed/33594410); PMCID: [PMC8661391](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8661391).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33594410/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  37. Lehmann CU, Lehmann JS, Petersen C, **Sittig DF**. To Applied Clinical Informatics Authors and Reviewers: Thank You for All Your Help! Appl Clin Inform. 2021 03; 12(2):417-424. PMID: [33979875](//www.ncbi.nlm.nih.gov/pubmed/33979875); PMCID: [PMC8116172](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8116172).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33979875/citedby/) Fields:
+
+Med Medical Informatics
+
+  38. Cifra CL, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Bridging the feedback gap: a sociotechnical approach to informing clinicians of patients' subsequent clinical course and outcomes. BMJ Qual Saf. 2021 07; 30(7):591-597. PMID: [33958442](//www.ncbi.nlm.nih.gov/pubmed/33958442); PMCID: [PMC8237185](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8237185).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33958442/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  39. Petersen C, Smith J, Freimuth RR, Goodman KW, Jackson GP, Kannry J, Liu H, Madhavan S, **Sittig DF** , Wright A. Recommendations for the safe, effective use of adaptive CDS in the US healthcare system: an AMIA position paper. J Am Med Inform Assoc. 2021 03 18; 28(4):677-684. PMID: [33447854](//www.ncbi.nlm.nih.gov/pubmed/33447854); PMCID: [PMC7973467](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7973467).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33447854/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  40. Wright A, Aaron S, McCoy AB, El-Kareh R, Fort D, Kassakian SZ, Longhurst CA, Malhotra S, McEvoy DS, Monsen CB, Schreiber R, Weitkamp AO, Willett DL, **Sittig DF**. Algorithmic Detection of Boolean Logic Errors in Clinical Decision Support Statements. Appl Clin Inform. 2021 01; 12(1):182-189. PMID: [33694144](//www.ncbi.nlm.nih.gov/pubmed/33694144); PMCID: [PMC7946596](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7946596).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  41. Tajgardoon M, Cooper GF, King AJ, Clermont G, Hochheiser H, Hauskrecht M, **Sittig DF** , Visweswaran S. Modeling physician variability to prioritize relevant medical record information. JAMIA Open. 2020 Dec; 3(4):602-610. PMID: [33623894](//www.ncbi.nlm.nih.gov/pubmed/33623894); PMCID: [PMC7886572](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7886572).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33623894/citedby/)
+
+  42. Rogith D, Satterly T, [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF** , Russo E, Smith MW, Roosan D, Bhise V, [Murphy DR](https://profiles.viictr.org/profile/267187). Application of Human Factors Methods to Understand Missed Follow-up of Abnormal Test Results. Appl Clin Inform. 2020 10; 11(5):692-698. PMID: [33086395](//www.ncbi.nlm.nih.gov/pubmed/33086395); PMCID: [PMC7577780](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7577780).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33086395/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  43. [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF** , Gandhi TK. Fighting a common enemy: a catalyst to close intractable safety gaps. BMJ Qual Saf. 2021 02; 30(2):141-145. PMID: [32675326](//www.ncbi.nlm.nih.gov/pubmed/32675326); PMCID: [PMC7841492](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7841492).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32675326/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  44. **Sittig DF** , Ash JS, Wright A, Chase D, Gebhardt E, Russo EM, Tercek C, Mohan V, [Singh H](https://profiles.viictr.org/profile/269397). How can we partner with electronic health record vendors on the complex journey to safer health care? J Healthc Risk Manag. 2020 Oct; 40(2):34-43. PMID: [32648286](//www.ncbi.nlm.nih.gov/pubmed/32648286).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32648286/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  45. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). COVID-19 and the Need for a National Health Information Technology Infrastructure. JAMA. 2020 06 16; 323(23):2373-2374. PMID: [32421178](//www.ncbi.nlm.nih.gov/pubmed/32421178).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32421178/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCellsPHPublic Health
+
+  46. [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF**. A Sociotechnical Framework for Safety-Related Electronic Health Record Research Reporting: The SAFER Reporting Framework. Ann Intern Med. 2020 06 02; 172(11 Suppl):S92-S100. PMID: [32479184](//www.ncbi.nlm.nih.gov/pubmed/32479184).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32479184/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  47. Powell L, **Sittig DF** , Chrouser K, [Singh H](https://profiles.viictr.org/profile/269397). Assessment of Health Information Technology-Related Outpatient Diagnostic Delays in the US Veterans Affairs Health Care System: A Qualitative Study of Aggregated Root Cause Analysis Data. JAMA Netw Open. 2020 06 01; 3(6):e206752. PMID: [32584406](//www.ncbi.nlm.nih.gov/pubmed/32584406); PMCID: [PMC7317596](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7317596).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32584406/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  48. King AJ, Cooper GF, Clermont G, Hochheiser H, Hauskrecht M, **Sittig DF** , Visweswaran S. Leveraging Eye Tracking to Prioritize Relevant Medical Record Data: Comparative Machine Learning Study. J Med Internet Res. 2020 04 02; 22(4):e15876. PMID: [32238342](//www.ncbi.nlm.nih.gov/pubmed/32238342); PMCID: [PMC7163414](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7163414).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32238342/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  49. McCoy AB, **Sittig DF** , Lin J, Wright A. Identification and Ranking of Biomedical Informatics Researcher Citation Statistics through a Google Scholar Scraper. AMIA Annu Symp Proc. 2019; 2019:655-663. PMID: [32308860](//www.ncbi.nlm.nih.gov/pubmed/32308860); PMCID: [PMC7153158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7153158).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  50. Brunner MC, Sheehan SE, Yanke EM, **Sittig DF** , Safdar N, Hill B, Lee KS, Orwin JF, Vanness DJ, Hildebrand CJ, Bruno MA, Erickson TJ, Zea R, Moberg DP. Joint Design with Providers of Clinical Decision Support for Value-Based Advanced Shoulder Imaging. Appl Clin Inform. 2020 01; 11(1):142-152. PMID: [32074651](//www.ncbi.nlm.nih.gov/pubmed/32074651); PMCID: [PMC7030958](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7030958).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32074651/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  51. Sheehan SE, Safdar N, [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF** , Bruno MA, Keller K, Kinnard S, Brunner MC. Detection and Remediation of Misidentification Errors in Radiology Examination Ordering. Appl Clin Inform. 2020 01; 11(1):79-87. PMID: [31995835](//www.ncbi.nlm.nih.gov/pubmed/31995835); PMCID: [PMC6989264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6989264).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  52. Dullabh P, Hovey L, Heaney-Huls K, Rajendran N, Wright A, **Sittig DF**. Application Programming Interfaces in Health Care: Findings from a Current-State Sociotechnical Assessment. Appl Clin Inform. 2020 01; 11(1):59-69. PMID: [31968383](//www.ncbi.nlm.nih.gov/pubmed/31968383); PMCID: [PMC6976305](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6976305).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31968383/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  53. King AJ, Cooper GF, Clermont G, Hochheiser H, Hauskrecht M, **Sittig DF** , Visweswaran S. Using machine learning to selectively highlight patient information. J Biomed Inform. 2019 12; 100:103327. PMID: [31676461](//www.ncbi.nlm.nih.gov/pubmed/31676461); PMCID: [PMC6932869](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6932869).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31676461/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  54. [Murphy DR](https://profiles.viictr.org/profile/267187), [Giardina TD](https://profiles.viictr.org/profile/23478744), Satterly T, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). An Exploration of Barriers, Facilitators, and Suggestions for Improving Electronic Health Record Inbox-Related Usability: A Qualitative Analysis. JAMA Netw Open. 2019 10 02; 2(10):e1912638. PMID: [31584683](//www.ncbi.nlm.nih.gov/pubmed/31584683); PMCID: [PMC6784746](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6784746).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31584683/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  55. Wright A, McEvoy DS, Aaron S, McCoy AB, Amato MG, Kim H, Ai A, Cimino JJ, Desai BR, El-Kareh R, Galanter W, Longhurst CA, Malhotra S, Radecki RP, Samal L, Schreiber R, Shelov E, Sirajuddin AM, **Sittig DF**. Structured override reasons for drug-drug interaction alerts in electronic health records. J Am Med Inform Assoc. 2019 10 01; 26(10):934-942. PMID: [31329891](//www.ncbi.nlm.nih.gov/pubmed/31329891); PMCID: [PMC6748816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6748816).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31329891/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  56. McCoy AB, Wright A, **Sittig DF**. Multi-Institutional, Large-Scale, International Applied Clinical Informatics Research Through the Clinical Informatics Research Collaborative (CIRCLE). Stud Health Technol Inform. 2019 Aug 21; 264:1730-1731. PMID: [31438315](//www.ncbi.nlm.nih.gov/pubmed/31438315).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31438315/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  57. Dullabh P, Hovey L, Heaney-Huls K, Rajendran N, Wright A, **Sittig DF**. Application Programming Interfaces (APIs) in Health Care: Findings from a Current-State Assessment. Stud Health Technol Inform. 2019 Aug 09; 265:201-206. PMID: [31431599](//www.ncbi.nlm.nih.gov/pubmed/31431599).
+
+Citations:  Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  58. [Murphy DR](https://profiles.viictr.org/profile/267187), Satterly T, [Giardina TD](https://profiles.viictr.org/profile/23478744), **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Practicing Clinicians' Recommendations to Reduce Burden from the Electronic Health Record Inbox: a Mixed-Methods Study. J Gen Intern Med. 2019 09; 34(9):1825-1832. PMID: [31292905](//www.ncbi.nlm.nih.gov/pubmed/31292905); PMCID: [PMC6712240](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6712240).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31292905/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  59. [Murphy DR](https://profiles.viictr.org/profile/267187), Satterly T, Rogith D, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Barriers and facilitators impacting reliability of the electronic health record-facilitated total testing process. Int J Med Inform. 2019 07; 127:102-108. PMID: [31128821](//www.ncbi.nlm.nih.gov/pubmed/31128821).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31128821/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  60. Ash JS, [Singh H](https://profiles.viictr.org/profile/269397), Wright A, Chase D, **Sittig DF**. Essential activities for electronic health record safety: A qualitative study. Health Informatics J. 2020 12; 26(4):3140-3151. PMID: [30848694](//www.ncbi.nlm.nih.gov/pubmed/30848694).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30848694/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  61. **Sittig DF** , Wright A, Coiera E, Magrabi F, Ratwani R, [Bates DW](https://profiles.viictr.org/profile/265690), [Singh H](https://profiles.viictr.org/profile/269397). Current challenges in health information technology-related patient safety. Health Informatics J. 2020 03; 26(1):181-189. PMID: [30537881](//www.ncbi.nlm.nih.gov/pubmed/30537881); PMCID: [PMC7510167](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7510167).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30537881/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  62. Wright A, Wright AP, Aaron S, **Sittig DF**. Smashing the strict hierarchy: three cases of clinical decision support malfunctions involving carvedilol. J Am Med Inform Assoc. 2018 11 01; 25(11):1552-1555. PMID: [30060109](//www.ncbi.nlm.nih.gov/pubmed/30060109); PMCID: [PMC6213087](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6213087).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30060109/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  63. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), **Sittig DF** , [Meeks DW](https://profiles.viictr.org/profile/3009812), Thomas EJ, [Singh H](https://profiles.viictr.org/profile/269397). Application of electronic trigger tools to identify targets for improving diagnostic safety. BMJ Qual Saf. 2019 02; 28(2):151-159. PMID: [30291180](//www.ncbi.nlm.nih.gov/pubmed/30291180); PMCID: [PMC6365920](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6365920).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30291180/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  64. Wright A, Ash JS, Aaron S, Ai A, Hickman TT, Wiesen JF, Galanter W, McCoy AB, Schreiber R, Longhurst CA, **Sittig DF**. Best practices for preventing malfunctions in rule-based clinical decision support alerts and reminders: Results of a Delphi study. Int J Med Inform. 2018 10; 118:78-85. PMID: [30153926](//www.ncbi.nlm.nih.gov/pubmed/30153926); PMCID: [PMC6128667](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6128667).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30153926/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  65. **Sittig DF** , Salimi M, Aiyagari R, Banas C, Clay B, Gibson KA, Goel A, Hines R, Longhurst CA, Mishra V, Sirajuddin AM, Satterly T, [Singh H](https://profiles.viictr.org/profile/269397). Adherence to recommended electronic health record safety practices across eight health care organizations. J Am Med Inform Assoc. 2018 07 01; 25(7):913-918. PMID: [29701854](//www.ncbi.nlm.nih.gov/pubmed/29701854); PMCID: [PMC7647041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7647041).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29701854/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  66. Nystrom DT, [Singh H](https://profiles.viictr.org/profile/269397), Baldwin J, **Sittig DF** , [Giardina TD](https://profiles.viictr.org/profile/23478744). Methods for Patient-Centered Interface Design of Test Result Display in Online Portals. EGEMS (Wash DC). 2018 Jun 26; 6(1):15. PMID: [30094287](//www.ncbi.nlm.nih.gov/pubmed/30094287); PMCID: [PMC6078112](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6078112).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30094287/citedby/)
+
+  67. D'Amore JD, Li C, McCrary L, Niloff JM, **Sittig DF** , McCoy AB, Wright A. Using Clinical Data Standards to Measure Quality: A New Approach. Appl Clin Inform. 2018 04; 9(2):422-431. PMID: [29898468](//www.ncbi.nlm.nih.gov/pubmed/29898468); PMCID: [PMC5999523](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5999523).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29898468/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  68. Krousel-Wood M, McCoy AB, Ahia C, Holt EW, Trapani DN, Luo Q, Price-Haywood EG, Thomas EJ, **Sittig DF** , Milani RV. Implementing electronic health records (EHRs): health care provider perceptions before and after transition from a local basic EHR to a commercial comprehensive EHR. J Am Med Inform Assoc. 2018 06 01; 25(6):618-626. PMID: [29036503](//www.ncbi.nlm.nih.gov/pubmed/29036503); PMCID: [PMC7646958](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7646958).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29036503/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  69. McEvoy D, Barnett ML, **Sittig DF** , Aaron S, Mehrotra A, Wright A. Changes in hospital bond ratings after the transition to a new electronic health record. J Am Med Inform Assoc. 2018 05 01; 25(5):572-574. PMID: [29471362](//www.ncbi.nlm.nih.gov/pubmed/29471362); PMCID: [PMC7647018](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7647018).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29471362/citedby/) Fields:
+
+Med Medical Informatics
+
+  70. Tolley CL, Forde NE, Coffey KL, **Sittig DF** , Ash JS, Husband AK, [Bates DW](https://profiles.viictr.org/profile/265690), Slight SP. Factors contributing to medication errors made when using computerized order entry in pediatrics: a systematic review. J Am Med Inform Assoc. 2018 05 01; 25(5):575-584. PMID: [29088436](//www.ncbi.nlm.nih.gov/pubmed/29088436); PMCID: [PMC7646858](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7646858).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29088436/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  71. Wright A, Ai A, Ash J, Wiesen JF, Hickman TT, Aaron S, McEvoy D, Borkowsky S, Dissanayake PI, Embi P, Galanter W, Harper J, Kassakian SZ, Ramoni R, Schreiber R, Sirajuddin A, [Bates DW](https://profiles.viictr.org/profile/265690), **Sittig DF**. Clinical decision support alert malfunctions: analysis and empirically derived taxonomy. J Am Med Inform Assoc. 2018 05 01; 25(5):496-506. PMID: [29045651](//www.ncbi.nlm.nih.gov/pubmed/29045651); PMCID: [PMC6019061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6019061).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29045651/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  72. Bhise V, Rajan SS, **Sittig DF** , Vaghani V, Morgan RO, Khanna A, [Singh H](https://profiles.viictr.org/profile/269397). Electronic health record reviews to measure diagnostic uncertainty in primary care. J Eval Clin Pract. 2018 06; 24(3):545-551. PMID: [29675888](//www.ncbi.nlm.nih.gov/pubmed/29675888).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29675888/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  73. [Giardina TD](https://profiles.viictr.org/profile/23478744), Baldwin J, Nystrom DT, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Patient perceptions of receiving test results via online portals: a mixed-methods study. J Am Med Inform Assoc. 2018 04 01; 25(4):440-446. PMID: [29240899](//www.ncbi.nlm.nih.gov/pubmed/29240899); PMCID: [PMC5885801](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5885801).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29240899/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  74. Liu S, Wright A, **Sittig DF** , Hauskrecht M. Change-Point Detection for Monitoring Clinical Decision Support Systems with a Multi-Process Dynamic Linear Model. Proceedings (IEEE Int Conf Bioinformatics Biomed). 2017 Nov; 2017:569-572. PMID: [29302379](//www.ncbi.nlm.nih.gov/pubmed/29302379); PMCID: [PMC5749419](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5749419).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29302379/citedby/)
+
+  75. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AND](https://profiles.viictr.org/profile/8556649), Vaghani V, Russo E, **Sittig DF** , Wei L, Wu L, [Singh H](https://profiles.viictr.org/profile/269397). Electronic Triggers to Identify Delays in Follow-Up of Mammography: Harnessing the Power of Big Data in Health?Care. J Am Coll Radiol. 2018 02; 15(2):287-295. PMID: [29102539](//www.ncbi.nlm.nih.gov/pubmed/29102539).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29102539/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  76. Singh J, **Sittig DF**. Accuracy of Heart Rate Monitoring by Some Wrist-Worn Activity Trackers. Ann Intern Med. 2017 10 17; 167(8):607. PMID: [29049769](//www.ncbi.nlm.nih.gov/pubmed/29049769).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  77. Bhise V, **Sittig DF** , Vaghani V, Wei L, Baldwin J, [Singh H](https://profiles.viictr.org/profile/269397). An electronic trigger based on care escalation to identify preventable adverse events in hospitalised patients. BMJ Qual Saf. 2018 03; 27(3):241-246. PMID: [28935832](//www.ncbi.nlm.nih.gov/pubmed/28935832); PMCID: [PMC5867429](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5867429).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28935832/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  78. Bhise V, Rajan SS, **Sittig DF** , Morgan RO, Chaudhary P, [Singh H](https://profiles.viictr.org/profile/269397). Defining and Measuring Diagnostic Uncertainty in Medicine: A Systematic Review. J Gen Intern Med. 2018 01; 33(1):103-115. PMID: [28936618](//www.ncbi.nlm.nih.gov/pubmed/28936618); PMCID: [PMC5756158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5756158).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28936618/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  79. Schreiber R, **Sittig DF** , Ash J, Wright A. Orders on file but no labs drawn: investigation of machine and human errors caused by an interface idiosyncrasy. J Am Med Inform Assoc. 2017 Sep 01; 24(5):958-963. PMID: [28339629](//www.ncbi.nlm.nih.gov/pubmed/28339629); PMCID: [PMC6080845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6080845).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28339629/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  80. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Toward More Proactive Approaches to Safety in the Electronic Health Record Era. Jt Comm J Qual Patient Saf. 2017 10; 43(10):540-547. PMID: [28942779](//www.ncbi.nlm.nih.gov/pubmed/28942779); PMCID: [PMC8136246](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8136246).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28942779/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  81. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AND](https://profiles.viictr.org/profile/8556649), Vaghani V, Russo E, **Sittig DF** , Wei L, Wu L, [Singh H](https://profiles.viictr.org/profile/269397). Development and Validation of Trigger Algorithms to Identify Delays in Diagnostic Evaluation of Gastroenterological Cancer. Clin Gastroenterol Hepatol. 2018 Jan; 16(1):90-98. PMID: [28804030](//www.ncbi.nlm.nih.gov/pubmed/28804030).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28804030/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:Humans
+
+  82. **Sittig DF** , Belmont E, [Singh H](https://profiles.viictr.org/profile/269397). Improving the safety of health information technology requires shared responsibility: It is time we all step up. Healthc (Amst). 2018 Mar; 6(1):7-12. PMID: [28716376](//www.ncbi.nlm.nih.gov/pubmed/28716376).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28716376/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  83. Labkoff SE, **Sittig DF**. Who Watches the Watchers. Working Towards Safety for EHR Knowledge Resources. Appl Clin Inform. 2017 06 28; 8(2):680-685. PMID: [28657638](//www.ncbi.nlm.nih.gov/pubmed/28657638); PMCID: [PMC6241753](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6241753).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28657638/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  84. Lei J, Wen D, Zhang X, Li J, Lan H, Meng Q, **Sittig DF**. Enabling Health Reform through Regional Health Information Exchange: A Model Study from China. J Healthc Eng. 2017; 2017:1053403. PMID: [29065565](//www.ncbi.nlm.nih.gov/pubmed/29065565); PMCID: [PMC5387839](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5387839).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29065565/citedby/) Fields:
+
+Bio Biomedical EngineeringHea Health Services
+
+Translation:Humans
+
+  85. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), Vaghani V, Russo E, **Sittig DF** , Richards KA, Wei L, Wu L, [Singh H](https://profiles.viictr.org/profile/269397). Application of Electronic Algorithms to Improve Diagnostic Evaluation for Bladder Cancer. Appl Clin Inform. 2017 03 22; 8(1):279-290. PMID: [28326433](//www.ncbi.nlm.nih.gov/pubmed/28326433); PMCID: [PMC5373770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5373770).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28326433/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  86. McEvoy DS, **Sittig DF** , Hickman TT, Aaron S, Ai A, Amato M, Bauer DW, Fraser GM, Harper J, Kennemer A, Krall MA, Lehmann CU, Malhotra S, [Murphy DR](https://profiles.viictr.org/profile/267187), O'Kelley B, Samal L, Schreiber R, [Singh H](https://profiles.viictr.org/profile/269397), Thomas EJ, Vartian CV, Westmorland J, McCoy AB, Wright A. Variation in high-priority drug-drug interaction alerts across institutions and electronic health records. J Am Med Inform Assoc. 2017 03 01; 24(2):331-338. PMID: [27570216](//www.ncbi.nlm.nih.gov/pubmed/27570216); PMCID: [PMC5391726](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5391726).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27570216/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  87. Brown CL, Mulcaster HL, Triffitt KL, **Sittig DF** , Ash JS, Reygate K, Husband AK, [Bates DW](https://profiles.viictr.org/profile/265690), Slight SP. A systematic review of the types and causes of prescribing errors generated from using computerized provider order entry systems in primary and secondary care. J Am Med Inform Assoc. 2017 Mar 01; 24(2):432-440. PMID: [27582471](//www.ncbi.nlm.nih.gov/pubmed/27582471); PMCID: [PMC7651904](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7651904).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27582471/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  88. Menon S, [Singh H](https://profiles.viictr.org/profile/269397), [Giardina TD](https://profiles.viictr.org/profile/23478744), Rayburn WL, Davis BP, Russo EM, **Sittig DF**. Safety huddles to proactively identify and address electronic health record safety. J Am Med Inform Assoc. 2017 Mar 01; 24(2):261-267. PMID: [28031286](//www.ncbi.nlm.nih.gov/pubmed/28031286); PMCID: [PMC5391729](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5391729).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28031286/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  89. [Meyer AND](https://profiles.viictr.org/profile/8556649), [Murphy DR](https://profiles.viictr.org/profile/267187), Al-Mutairi A, **Sittig DF** , Wei L, Russo E, [Singh H](https://profiles.viictr.org/profile/269397). Electronic Detection of Delayed Test Result Follow-Up in Patients with Hypothyroidism. J Gen Intern Med. 2017 Jul; 32(7):753-759. PMID: [28138875](//www.ncbi.nlm.nih.gov/pubmed/28138875); PMCID: [PMC5481223](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5481223).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28138875/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  90. Miller DG, **Sittig DF**. Underperforming Big Ideas in Biomedical Research. JAMA. 2017 01 17; 317(3):321-322. PMID: [28114546](//www.ncbi.nlm.nih.gov/pubmed/28114546).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28114546/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  91. Lei J, Wen D, Zhang X, Li J, Lan H, Meng Q, **Sittig DF**. Enabling Health Reform through Regional Health Information Exchange: A Model Study from China J Healthc Eng. 2017; (2017). PMID: [29068625](//www.ncbi.nlm.nih.gov/pubmed/29068625).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringHea Health Services
+
+  92. Wright A, Hickman TT, McEvoy D, Aaron S, Ai A, Ash JS, Andersen JM, Ramoni R, Hauskrecht M, Embi P, Schreiber R, **Sittig DF** , [Bates DW](https://profiles.viictr.org/profile/265690). Methods for Detecting Malfunctions in Clinical Decision Support Systems. Stud Health Technol Inform. 2017; 245:1385. PMID: [29295464](//www.ncbi.nlm.nih.gov/pubmed/29295464).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29295464/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  93. Cohen DJ, Keller SR, Hayes GR, Dorr DA, Ash JS, **Sittig DF**. Integrating Patient-Generated Health Data Into Clinical Care Settings or Clinical Decision-Making: Lessons Learned From Project HealthDesign. JMIR Hum Factors. 2016 Oct 19; 3(2):e26. PMID: [27760726](//www.ncbi.nlm.nih.gov/pubmed/27760726); PMCID: [PMC5093296](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5093296).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27760726/citedby/)
+
+  94. Baldwin JL, [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF** , [Giardina TD](https://profiles.viictr.org/profile/23478744). Patient portals and health apps: Pitfalls, promises, and what one might learn from the other. Healthc (Amst). 2017 Sep; 5(3):81-85. PMID: [27720139](//www.ncbi.nlm.nih.gov/pubmed/27720139); PMCID: [PMC8386919](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8386919).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27720139/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  95. Gulati R, Mikhail O, Morgan RO, **Sittig DF**. Vision Statement Quality and Organizational Performance in U.S. Hospitals. J Healthc Manag. 2016 Sep/Oct; 61(5):335-350. PMID: [28319971](//www.ncbi.nlm.nih.gov/pubmed/28319971).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28319971/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+  96. [Murphy DR](https://profiles.viictr.org/profile/267187), **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Electronic Health Records Quantify Previously Existing Phenomenon-Physicians Spend Hours Coordinating Care-Reply. JAMA Intern Med. 2016 08 01; 176(8):1235-6. PMID: [27479680](//www.ncbi.nlm.nih.gov/pubmed/27479680).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  97. Russo E, **Sittig DF** , [Murphy DR](https://profiles.viictr.org/profile/267187), [Singh H](https://profiles.viictr.org/profile/269397). Challenges in patient safety improvement research in the era of electronic health records. Healthc (Amst). 2016 Dec; 4(4):285-290. PMID: [27473472](//www.ncbi.nlm.nih.gov/pubmed/27473472).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27473472/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  98. Gadd CS, Williamson JJ, Steen EB, Andriole KP, Delaney C, Gumpper K, LaVenture M, Rosendale D, **Sittig DF** , Thyvalikakath T, Turner P, Fridsma DB. Eligibility requirements for advanced health informatics certification. J Am Med Inform Assoc. 2016 07; 23(4):851-4. PMID: [27358328](//www.ncbi.nlm.nih.gov/pubmed/27358328); PMCID: [PMC9397509](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9397509).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27358328/citedby/) Fields:
+
+Med Medical Informatics
+
+  99. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). A Socio-Technical Approach to Preventing, Mitigating, and Recovering from Ransomware Attacks. Appl Clin Inform. 2016; 7(2):624-32. PMID: [27437066](//www.ncbi.nlm.nih.gov/pubmed/27437066); PMCID: [PMC4941865](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4941865).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27437066/citedby/) Fields:
+
+Med Medical Informatics
+
+  100. Menon S, [Murphy DR](https://profiles.viictr.org/profile/267187), [Singh H](https://profiles.viictr.org/profile/269397), [Meyer AN](https://profiles.viictr.org/profile/8556649), **Sittig DF**. Workarounds and Test Results Follow-up in Electronic Health Record-Based Primary Care. Appl Clin Inform. 2016; 7(2):543-59. PMID: [27437060](//www.ncbi.nlm.nih.gov/pubmed/27437060); PMCID: [PMC4941859](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4941859).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27437060/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  101. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), Bhise V, Russo E, **Sittig DF** , Wei L, Wu L, [Singh H](https://profiles.viictr.org/profile/269397). Computerized Triggers of Big Data to Detect?Delays in Follow-up of Chest Imaging?Results. Chest. 2016 09; 150(3):613-20. PMID: [27178786](//www.ncbi.nlm.nih.gov/pubmed/27178786).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27178786/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  102. Sheehan SE, Coburn JA, [Singh H](https://profiles.viictr.org/profile/269397), Vanness DJ, **Sittig DF** , Moberg DP, Safdar N, Lee KS, Brunner MC. Reducing Unnecessary Shoulder MRI Examinations Within a Capitated Health Care System: A Potential Role for Shoulder Ultrasound. J Am Coll Radiol. 2016 Jul; 13(7):780-7. PMID: [27162045](//www.ncbi.nlm.nih.gov/pubmed/27162045).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27162045/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  103. Wright A, Aaron S, **Sittig DF**. Testing electronic health records in the "production" environment: an essential step in the journey to a safe and effective health care system. J Am Med Inform Assoc. 2017 01; 24(1):188-192. PMID: [27107450](//www.ncbi.nlm.nih.gov/pubmed/27107450); PMCID: [PMC5201179](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5201179).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27107450/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  104. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), Russo E, **Sittig DF** , Wei L, [Singh H](https://profiles.viictr.org/profile/269397). The Burden of Inbox Notifications in Commercial Electronic Health Records. JAMA Intern Med. 2016 Apr; 176(4):559-60. PMID: [26974737](//www.ncbi.nlm.nih.gov/pubmed/26974737); PMCID: [PMC4860883](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4860883).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26974737/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  105. Wright A, Hickman TT, McEvoy D, Aaron S, Ai A, Andersen JM, Hussain S, Ramoni R, Fiskio J, **Sittig DF** , [Bates DW](https://profiles.viictr.org/profile/265690). Analysis of clinical decision support system malfunctions: a case series and survey. J Am Med Inform Assoc. 2016 11; 23(6):1068-1076. PMID: [27026616](//www.ncbi.nlm.nih.gov/pubmed/27026616); PMCID: [PMC5070518](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5070518).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27026616/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  106. [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF**. Measuring and improving patient safety through health information technology: The Health IT Safety Framework. BMJ Qual Saf. 2016 Apr; 25(4):226-32. PMID: [26369894](//www.ncbi.nlm.nih.gov/pubmed/26369894); PMCID: [PMC4819641](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4819641).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26369894/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  107. Wright A, **Sittig DF** , Ash JS, Erickson JL, Hickman TT, Paterno M, Gebhardt E, McMullen C, Tsurikova R, Dixon BE, Fraser G, Simonaitis L, Sonnenberg FA, Middleton B. Lessons learned from implementing service-oriented clinical decision support at four sites: A qualitative study. Int J Med Inform. 2015 Nov; 84(11):901-11. PMID: [26343972](//www.ncbi.nlm.nih.gov/pubmed/26343972).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26343972/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  108. Wright A, McCoy AB, Hickman TT, Hilaire DS, Borbolla D, Bowes WA, Dixon WG, Dorr DA, Krall M, Malholtra S, [Bates DW](https://profiles.viictr.org/profile/265690), **Sittig DF**. Problem list completeness in electronic health records: A multi-site study and assessment of success factors. Int J Med Inform. 2015 Oct; 84(10):784-90. PMID: [26228650](//www.ncbi.nlm.nih.gov/pubmed/26228650); PMCID: [PMC4549158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4549158).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26228650/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  109. McCoy AB, Wright A, **Sittig DF**. Cross-vendor evaluation of key user-defined clinical decision support capabilities: a scenario-based assessment of certified electronic health records with guidelines for future development. J Am Med Inform Assoc. 2015 Sep; 22(5):1081-8. PMID: [26104739](//www.ncbi.nlm.nih.gov/pubmed/26104739); PMCID: [PMC5009930](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5009930).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26104739/citedby/) Fields:
+
+Med Medical Informatics
+
+  110. **Sittig DF** , Wright A. What makes an EHR "open" or interoperable? J Am Med Inform Assoc. 2015 Sep; 22(5):1099-101. PMID: [26078411](//www.ncbi.nlm.nih.gov/pubmed/26078411).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26078411/citedby/) Fields:
+
+Med Medical Informatics
+
+  111. Hazlehurst BL, Kurtz SE, Masica A, Stevens VJ, McBurnie MA, Puro JE, Vijayadeva V, Au DH, Brannon ED, **Sittig DF**. CER Hub: An informatics platform for conducting comparative effectiveness research using multi-institutional, heterogeneous, electronic clinical data. Int J Med Inform. 2015 Oct; 84(10):763-73. PMID: [26138036](//www.ncbi.nlm.nih.gov/pubmed/26138036).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26138036/citedby/) Fields:
+
+Med Medical Informatics
+
+  112. Ash JS, **Sittig DF** , McMullen CK, Wright A, Bunce A, Mohan V, Cohen DJ, Middleton B. Multiple perspectives on clinical decision support: a qualitative study of fifteen clinical and vendor organizations. BMC Med Inform Decis Mak. 2015 Apr 24; 15:35. PMID: [25903564](//www.ncbi.nlm.nih.gov/pubmed/25903564); PMCID: [PMC4447027](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4447027).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25903564/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  113. **Sittig DF** , [Murphy DR](https://profiles.viictr.org/profile/267187), Smith MW, Russo E, Wright A, [Singh H](https://profiles.viictr.org/profile/269397). Graphical display of diagnostic test results in electronic health records: a comparison of 8 systems. J Am Med Inform Assoc. 2015 Jul; 22(4):900-4. PMID: [25792704](//www.ncbi.nlm.nih.gov/pubmed/25792704); PMCID: [PMC4482275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4482275).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25792704/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  114. [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF**. Setting the record straight on measuring diagnostic errors. Reply to: 'Bad assumptions on primary care diagnostic errors' by Dr Richard Young. BMJ Qual Saf. 2015 May; 24(5):345-8. PMID: [25784768](//www.ncbi.nlm.nih.gov/pubmed/25784768).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25784768/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  115. [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF**. Advancing the science of measurement of diagnostic errors in healthcare: the Safer Dx framework. BMJ Qual Saf. 2015 Feb; 24(2):103-10. PMID: [25589094](//www.ncbi.nlm.nih.gov/pubmed/25589094); PMCID: [PMC4316850](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4316850).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25589094/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  116. Campos F, Luna D, **Sittig DF** , Bernaldo de Quir?s FG. Design, Implementation and Evaluation of an Architecture based on the CDA R2 Document Repository to Provide Support to the Contingency Plan. Stud Health Technol Inform. 2015; 216:173-7. PMID: [26262033](//www.ncbi.nlm.nih.gov/pubmed/26262033).
+
+Citations:  Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  117. **Sittig DF** , McCoy AB, Wright A, Lin J. Developing an Open-Source Bibliometric Ranking Website Using Google Scholar Citation Profiles for Researchers in the Field of Biomedical Informatics. Stud Health Technol Inform. 2015; 216:1004. PMID: [26262305](//www.ncbi.nlm.nih.gov/pubmed/26262305).
+
+Citations:  Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  118. Cohen DJ, Keller SR, Hayes GR, Dorr DA, Ash JS, **Sittig DF**. Developing a model for understanding patient collection of observations of daily living: A qualitative meta-synthesis of the Project HealthDesign Program. Pers Ubiquitous Comput. 2015 Jan 01; 19(1):91-102. PMID: [26949381](//www.ncbi.nlm.nih.gov/pubmed/26949381); PMCID: [PMC4774561](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4774561).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26949381/citedby/)
+
+  119. Menon S, Smith MW, **Sittig DF** , Petersen NJ, [Hysong SJ](https://profiles.viictr.org/profile/270308), Espadas D, Modi V, [Singh H](https://profiles.viictr.org/profile/269397). How context affects electronic health record-based test result follow-up: a mixed-methods evaluation. BMJ Open. 2014 Nov 11; 4(11):e005985. PMID: [25387758](//www.ncbi.nlm.nih.gov/pubmed/25387758); PMCID: [PMC4244393](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4244393).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25387758/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  120. [Hysong SJ](https://profiles.viictr.org/profile/270308), Spitzmuller C, Espadas D, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Electronic alerts and clinician turnover: the influence of user acceptance. Am J Manag Care. 2014 Nov; 20(11 Spec No. 17):SP520-30. PMID: [25811826](//www.ncbi.nlm.nih.gov/pubmed/25811826).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25811826/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  121. Upadhyay DK, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Ebola US Patient Zero: lessons on misdiagnosis and effective use of electronic health records. Diagnosis (Berl). 2014; 1(4):283-287. PMID: [26705511](//www.ncbi.nlm.nih.gov/pubmed/26705511); PMCID: [PMC4687403](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4687403).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26705511/citedby/) Fields:
+
+Med Medicine (General)
+
+  122. **Sittig DF** , Classen DC, [Singh H](https://profiles.viictr.org/profile/269397). Patient safety goals for the proposed Federal Health Information Technology Safety Center. J Am Med Inform Assoc. 2015 Mar; 22(2):472-8. PMID: [25332353](//www.ncbi.nlm.nih.gov/pubmed/25332353).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25332353/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:HumansPHPublic Health
+
+  123. Wright AP, Wright AT, McCoy AB, **Sittig DF**. The use of sequential pattern mining to predict next prescribed medications. J Biomed Inform. 2015 Feb; 53:73-80. PMID: [25236952](//www.ncbi.nlm.nih.gov/pubmed/25236952).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25236952/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  124. Walker GV, Awan M, Tao R, [Koay EJ](https://profiles.viictr.org/profile/12583138), Boehling NS, Grant JD, **Sittig DF** , [Gunn GB](https://profiles.viictr.org/profile/12582981), [Garden AS](https://profiles.viictr.org/profile/12583644), [Phan J](https://profiles.viictr.org/profile/12583879), [Morrison WH](https://profiles.viictr.org/profile/12583247), [Rosenthal DI](https://profiles.viictr.org/profile/12582628), Mohamed AS, [Fuller CD](https://profiles.viictr.org/profile/12583188). Prospective randomized double-blind study of atlas-based organ-at-risk autosegmentation-assisted radiation planning in head and neck cancer. Radiother Oncol. 2014 Sep; 112(3):321-5. PMID: [25216572](//www.ncbi.nlm.nih.gov/pubmed/25216572); PMCID: [PMC4252740](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4252740).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25216572/citedby/) Fields:
+
+Neo NeoplasmsRad Radiotherapy
+
+Translation:Humans
+
+  125. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Which electronic health record is better: A or B? Realities of comparing the effectiveness of electronic health records. J Comp Eff Res. 2014 Sep; 3(5):447-50. PMID: [25350794](//www.ncbi.nlm.nih.gov/pubmed/25350794).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25350794/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  126. Vartian CV, [Singh H](https://profiles.viictr.org/profile/269397), Russo E, **Sittig DF**. Development and field testing of a self-assessment guide for computer-based provider order entry. J Healthc Manag. 2014 Sep-Oct; 59(5):338-52. PMID: [25647953](//www.ncbi.nlm.nih.gov/pubmed/25647953).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25647953/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  127. Smith MW, Ash JS, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Resilient Practices in Maintaining Safety of Health Information Technologies. J Cogn Eng Decis Mak. 2014 Sep; 8(3):265-282. PMID: [25866492](//www.ncbi.nlm.nih.gov/pubmed/25866492); PMCID: [PMC4361460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4361460).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25866492/citedby/)
+
+  128. **Sittig DF** , Gonzalez D, [Singh H](https://profiles.viictr.org/profile/269397). Contingency planning for electronic health record-based care continuity: a survey of recommended practices. Int J Med Inform. 2014 Nov; 83(11):797-804. PMID: [25200197](//www.ncbi.nlm.nih.gov/pubmed/25200197).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25200197/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:PHPublic Health
+
+  129. [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF**. Were my diagnosis and treatment correct? No news is not necessarily good news. J Gen Intern Med. 2014 Aug; 29(8):1087-9. PMID: [24839058](//www.ncbi.nlm.nih.gov/pubmed/24839058); PMCID: [PMC4099464](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4099464).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24839058/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  130. [Meeks DW](https://profiles.viictr.org/profile/3009812), Smith MW, Taylor L, **Sittig DF** , Scott JM, [Singh H](https://profiles.viictr.org/profile/269397). An analysis of electronic health record-related patient safety concerns. J Am Med Inform Assoc. 2014 Nov-Dec; 21(6):1053-9. PMID: [24951796](//www.ncbi.nlm.nih.gov/pubmed/24951796); PMCID: [PMC4215044](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215044).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24951796/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  131. Wright A, **Sittig DF** , McGowan J, Ash JS, Weed LL. Bringing science to medicine: an interview with Larry Weed, inventor of the problem-oriented medical record. J Am Med Inform Assoc. 2014 Nov-Dec; 21(6):964-8. PMID: [24872343](//www.ncbi.nlm.nih.gov/pubmed/24872343); PMCID: [PMC4215056](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215056).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24872343/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  132. **Sittig DF** , Ash JS, [Singh H](https://profiles.viictr.org/profile/269397). The SAFER guides: empowering organizations to improve the safety and effectiveness of electronic health records. Am J Manag Care. 2014 May; 20(5):418-23. PMID: [25181570](//www.ncbi.nlm.nih.gov/pubmed/25181570).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25181570/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  133. Walker GV, Johnson J, Edwards T, Gatilao RA, Hayden SE, Riley BA, **Sittig DF** , [Gillin M](https://profiles.viictr.org/profile/12583406), [Ibbott G](https://profiles.viictr.org/profile/12582611), [Buchholz TA](https://profiles.viictr.org/profile/12582569), [Das P](https://profiles.viictr.org/profile/12583051). Factors associated with radiation therapy incidents in a large academic institution. Pract Radiat Oncol. 2015 Jan-Feb; 5(1):21-7. PMID: [25413430](//www.ncbi.nlm.nih.gov/pubmed/25413430).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25413430/citedby/) Fields:
+
+Neo NeoplasmsRad Radiotherapy
+
+Translation:HumansPHPublic Health
+
+  134. **Sittig DF** , Ash JS, [Singh H](https://profiles.viictr.org/profile/269397). ONC issues guides for SAFER EHRs. J AHIMA. 2014 Apr; 85(4):50-2. PMID: [24834557](//www.ncbi.nlm.nih.gov/pubmed/24834557).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24834557/citedby/) Fields:
+
+Hea Health ServicesMed Medical Informatics
+
+Translation:Humans
+
+  135. McCoy AB, Thomas EJ, Krousel-Wood M, **Sittig DF**. Clinical decision support alert appropriateness: a review and proposal for improvement. Ochsner J. 2014; 14(2):195-202. PMID: [24940129](//www.ncbi.nlm.nih.gov/pubmed/24940129); PMCID: [PMC4052586](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4052586).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24940129/citedby/)
+
+  136. Menon S, [Singh H](https://profiles.viictr.org/profile/269397), [Meyer AN](https://profiles.viictr.org/profile/8556649), Belmont E, **Sittig DF**. Electronic health record-related safety concerns: a cross-sectional survey. J Healthc Risk Manag. 2014; 34(1):14-26. PMID: [25070253](//www.ncbi.nlm.nih.gov/pubmed/25070253).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25070253/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  137. Wright A, Feblowitz J, Samal L, McCoy AB, **Sittig DF**. The Medicare Electronic Health Record Incentive Program: provider performance on core and menu measures. Health Serv Res. 2014 Feb; 49(1 Pt 2):325-46. PMID: [24359554](//www.ncbi.nlm.nih.gov/pubmed/24359554); PMCID: [PMC3925405](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3925405).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24359554/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  138. McCoy AB, Wright A, Rogith D, Fathiamini S, Ottenbacher AJ, **Sittig DF**. Development of a clinician reputation metric to identify appropriate problem-medication pairs in a crowdsourced knowledge base. J Biomed Inform. 2014 Apr; 48:66-72. PMID: [24321170](//www.ncbi.nlm.nih.gov/pubmed/24321170); PMCID: [PMC4026169](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4026169).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24321170/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  139. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397), Longhurst CA. Rights and responsibilities of electronic health records (EHR) users caring for children. Arch Argent Pediatr. 2013 12; 111(6):468-71. PMID: [24196758](//www.ncbi.nlm.nih.gov/pubmed/24196758).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24196758/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  140. Davis Giardina T, Menon S, Parrish DE, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Patient access to medical records and healthcare outcomes: a systematic review. J Am Med Inform Assoc. 2014 Jul-Aug; 21(4):737-41. PMID: [24154835](//www.ncbi.nlm.nih.gov/pubmed/24154835); PMCID: [PMC4078277](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4078277).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24154835/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  141. Lei J, Guan P, Gao K, Lu X, Chen Y, Li Y, Meng Q, Zhang J, **Sittig DF** , Zheng K. Characteristics of health IT outage and suggested risk management strategies: an analysis of historical incident reports in China. Int J Med Inform. 2014 Feb; 83(2):122-30. PMID: [24246272](//www.ncbi.nlm.nih.gov/pubmed/24246272).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24246272/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  142. [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF**. Toward electronic medical record alerts that consume less physician time--reply. JAMA Intern Med. 2013 Oct 14; 173(18):1756. PMID: [24126782](//www.ncbi.nlm.nih.gov/pubmed/24126782).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24126782/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  143. [Meeks DW](https://profiles.viictr.org/profile/3009812), Takian A, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397), Barber N. Exploring the sociotechnical intersection of patient safety and electronic health record implementation. J Am Med Inform Assoc. 2014 Feb; 21(e1):e28-34. PMID: [24052536](//www.ncbi.nlm.nih.gov/pubmed/24052536); PMCID: [PMC3957388](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3957388).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24052536/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  144. Wright A, Ash JS, Erickson JL, Wasserman J, Bunce A, Stanescu A, St Hilaire D, Panzenhagen M, Gebhardt E, McMullen C, Middleton B, **Sittig DF**. A qualitative study of the activities performed by people involved in clinical decision support: recommended practices for success. J Am Med Inform Assoc. 2014 May-Jun; 21(3):464-72. PMID: [23999670](//www.ncbi.nlm.nih.gov/pubmed/23999670); PMCID: [PMC3994853](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3994853).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23999670/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  145. Klann JG, McCoy AB, Wright A, Wattanasin N, **Sittig DF** , Murphy SN. Health care transformation through collaboration on open-source informatics projects: integrating a medical applications platform, research data repository, and patient summarization. Interact J Med Res. 2013 May 30; 2(1):e11. PMID: [23722634](//www.ncbi.nlm.nih.gov/pubmed/23722634); PMCID: [PMC3668611](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3668611).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23722634/citedby/)
+
+  146. Joffe E, Byrne MJ, Reeder P, Herskovic JR, Johnson CW, McCoy AB, **Sittig DF** , [Bernstam EV](https://profiles.viictr.org/profile/30882399). A benchmark comparison of deterministic and probabilistic methods for defining manual review datasets in duplicate records reconciliation. J Am Med Inform Assoc. 2014 Jan-Feb; 21(1):97-104. PMID: [23703827](//www.ncbi.nlm.nih.gov/pubmed/23703827); PMCID: [PMC3912727](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3912727).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23703827/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  147. Lanham HJ, **Sittig DF** , Leykum LK, Parchman ML, Pugh JA, McDaniel RR. Understanding differences in electronic health record (EHR) use: linking individual physicians' perceptions of uncertainty and EHR use patterns in ambulatory care. J Am Med Inform Assoc. 2014 Jan-Feb; 21(1):73-81. PMID: [23698256](//www.ncbi.nlm.nih.gov/pubmed/23698256); PMCID: [PMC3912724](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3912724).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23698256/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  148. [Singh H](https://profiles.viictr.org/profile/269397), Spitzmueller C, Petersen NJ, Sawhney MK, **Sittig DF**. Information overload and missed test results in electronic health record-based settings. JAMA Intern Med. 2013 Apr 22; 173(8):702-4. PMID: [23460235](//www.ncbi.nlm.nih.gov/pubmed/23460235); PMCID: [PMC3822526](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3822526).
+
+Citations:
+[77](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23460235/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  149. Jones JB, Stewart WF, Darer JD, **Sittig DF**. Beyond the threshold: real-time use of evidence in practice. BMC Med Inform Decis Mak. 2013 Apr 15; 13:47. PMID: [23587225](//www.ncbi.nlm.nih.gov/pubmed/23587225); PMCID: [PMC3639800](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3639800).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23587225/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  150. [Singh H](https://profiles.viictr.org/profile/269397), Ash JS, **Sittig DF**. Safety Assurance Factors for Electronic Health Record Resilience (SAFER): study protocol. BMC Med Inform Decis Mak. 2013 Apr 12; 13:46. PMID: [23587208](//www.ncbi.nlm.nih.gov/pubmed/23587208); PMCID: [PMC3639028](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3639028).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23587208/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  151. Wright A, McCoy AB, Henkin S, Kale A, **Sittig DF**. Use of a support vector machine for categorizing free-text notes: assessment of accuracy across two institutions. J Am Med Inform Assoc. 2013 Sep-Oct; 20(5):887-90. PMID: [23543111](//www.ncbi.nlm.nih.gov/pubmed/23543111); PMCID: [PMC3756266](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3756266).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23543111/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  152. McCoy AB, Melton GB, Wright A, **Sittig DF**. Clinical decision support for colon and rectal surgery: an overview. Clin Colon Rectal Surg. 2013 Mar; 26(1):23-30. PMID: [24436644](//www.ncbi.nlm.nih.gov/pubmed/24436644); PMCID: [PMC3699146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3699146).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24436644/citedby/)
+
+  153. Wright A, Henkin S, Feblowitz J, McCoy AB, Bates DW, **Sittig DF**. Early results of the meaningful use program for electronic health records. N Engl J Med. 2013 Feb 21; 368(8):779-80. PMID: [23425186](//www.ncbi.nlm.nih.gov/pubmed/23425186).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23425186/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  154. McCoy AB, Wright A, Kahn MG, Shapiro JS, [Bernstam EV](https://profiles.viictr.org/profile/30882399), **Sittig DF**. Matching identifiers in electronic health records: implications for duplicate records and patient safety. BMJ Qual Saf. 2013 Mar; 22(3):219-24. PMID: [23362505](//www.ncbi.nlm.nih.gov/pubmed/23362505).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23362505/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  155. **Sittig DF** , Kahol K, [Singh H](https://profiles.viictr.org/profile/269397). Sociotechnical evaluation of the safety and effectiveness of point-of-care mobile computing devices: a case study conducted in India. Stud Health Technol Inform. 2013; 192:515-9. PMID: [23920608](//www.ncbi.nlm.nih.gov/pubmed/23920608).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23920608/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  156. Lei J, Guan P, Gao K, Lu X, **Sittig D**. Investigating incidents of EHR failures in China: analysis of search engine reports. Stud Health Technol Inform. 2013; 192:1210. PMID: [23920984](//www.ncbi.nlm.nih.gov/pubmed/23920984).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23920984/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  157. McCoy AB, **Sittig DF** , Wright A. Comparison of clinical knowledge bases for summarization of electronic health records. Stud Health Technol Inform. 2013; 192:1217. PMID: [23920991](//www.ncbi.nlm.nih.gov/pubmed/23920991).
+
+Citations:  Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  158. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). A red-flag-based approach to risk management of EHR-related safety concerns. J Healthc Risk Manag. 2013; 33(2):21-6. PMID: [24078205](//www.ncbi.nlm.nih.gov/pubmed/24078205).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24078205/citedby/) Fields:
+
+Hea Health ServicesHos Hospitals
+
+Translation:Humans
+
+  159. [Singh H](https://profiles.viictr.org/profile/269397), Spitzmueller C, Petersen NJ, Sawhney MK, Smith MW, [Murphy DR](https://profiles.viictr.org/profile/267187), Espadas D, Laxmisan A, **Sittig DF**. Primary care practitioners' views on test result management in EHR-enabled health systems: a national survey. J Am Med Inform Assoc. 2013 Jul-Aug; 20(4):727-35. PMID: [23268489](//www.ncbi.nlm.nih.gov/pubmed/23268489); PMCID: [PMC3721157](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3721157).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23268489/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  160. Magrabi F, Aarts J, Nohr C, Baker M, Harrison S, Pelayo S, Talmon J, **Sittig DF** , Coiera E. A comparative review of patient safety initiatives for national health information technology. Int J Med Inform. 2013 May; 82(5):e139-48. PMID: [23266061](//www.ncbi.nlm.nih.gov/pubmed/23266061).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23266061/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  161. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Electronic health records and national patient-safety goals. N Engl J Med. 2012 Nov 08; 367(19):1854-60. PMID: [23134389](//www.ncbi.nlm.nih.gov/pubmed/23134389); PMCID: [PMC3690003](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3690003).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23134389/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  162. Radecki RP, McCoy AB, Sirajuddin AM, Murphy RE, **Sittig DF**. Effectiveness of bar coded medication alerts for elevated potassium. AMIA Annu Symp Proc. 2012; 2012:1360-5. PMID: [23304415](//www.ncbi.nlm.nih.gov/pubmed/23304415); PMCID: [PMC3540424](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3540424).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  163. Laxmisan A, **Sittig DF** , Pietz K, Espadas D, [Krishnan B](https://profiles.viictr.org/profile/268034), [Singh H](https://profiles.viictr.org/profile/269397). Effectiveness of an electronic health record-based intervention to improve follow-up of abnormal pathology results: a retrospective record analysis. Med Care. 2012 Oct; 50(10):898-904. PMID: [22929995](//www.ncbi.nlm.nih.gov/pubmed/22929995); PMCID: [PMC3444625](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3444625).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22929995/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  164. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Improving test result follow-up through electronic health records requires more than just an alert. J Gen Intern Med. 2012 Oct; 27(10):1235-7. PMID: [22790618](//www.ncbi.nlm.nih.gov/pubmed/22790618); PMCID: [PMC3445682](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3445682).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22790618/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  165. **Sittig DF** , [Murphy DR](https://profiles.viictr.org/profile/267187), [Singh H](https://profiles.viictr.org/profile/269397), Esquivel A. Improving the effectiveness of electronic health record-based referral processes. BMC Med Inform Decis Mak. 2012 Sep 13; 12:107. PMID: [22973874](//www.ncbi.nlm.nih.gov/pubmed/22973874); PMCID: [PMC3492108](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3492108).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22973874/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  166. **Sittig DF** , Hazlehurst BL. Informatics grand challenges in multi-institutional comparative effectiveness research. J Comp Eff Res. 2012 Sep; 1(5):373-6. PMID: [24236411](//www.ncbi.nlm.nih.gov/pubmed/24236411).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24236411/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  167. Wright A, Feblowitz JC, Pang JE, Carpenter JD, Krall MA, Middleton B, **Sittig DF**. Use of order sets in inpatient computerized provider order entry systems: a comparative analysis of usage patterns at seven sites. Int J Med Inform. 2012 Nov; 81(11):733-45. PMID: [22819199](//www.ncbi.nlm.nih.gov/pubmed/22819199); PMCID: [PMC3466359](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3466359).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22819199/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  168. **Sittig DF** , Hazlehurst BL, Brown J, Murphy S, Rosenman M, Tarczy-Hornoch P, Wilcox AB. A survey of informatics platforms that enable distributed comparative effectiveness research using multi-institutional heterogenous clinical data. Med Care. 2012 Jul; 50 Suppl:S49-59. PMID: [22692259](//www.ncbi.nlm.nih.gov/pubmed/22692259); PMCID: [PMC3415281](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3415281).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22692259/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  169. Ash JS, McCormack JL, **Sittig DF** , Wright A, McMullen C, [Bates DW](https://profiles.viictr.org/profile/265690). Standard practices for computerized clinical decision support in community hospitals: a national survey. J Am Med Inform Assoc. 2012 Nov-Dec; 19(6):980-7. PMID: [22707744](//www.ncbi.nlm.nih.gov/pubmed/22707744); PMCID: [PMC3486730](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3486730).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22707744/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  170. McCoy AB, Wright A, Laxmisan A, Ottosen MJ, McCoy JA, Butten D, **Sittig DF**. Development and evaluation of a crowdsourcing methodology for knowledge base construction: identifying relationships between clinical problems and medications. J Am Med Inform Assoc. 2012 Sep-Oct; 19(5):713-8. PMID: [22582202](//www.ncbi.nlm.nih.gov/pubmed/22582202); PMCID: [PMC3422843](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3422843).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22582202/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  171. Blagev DP, Hirshberg EL, Sward K, Thompson BT, Brower R, Truwit J, Hite D, Steingrub J, Orme JF, Clemmer TP, Weaver LK, Thomas F, Grissom CK, Sorenson D, **Sittig DF** , Wallace CJ, East TD, Warner HR, Morris AH. The evolution of eProtocols that enable reproducible clinical research and care methods. J Clin Monit Comput. 2012 Aug; 26(4):305-17. PMID: [22491960](//www.ncbi.nlm.nih.gov/pubmed/22491960).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22491960/citedby/) Fields:
+
+Med Medical InformaticsMed Medicine (General)
+
+Translation:Humans
+
+  172. D'Amore JD, **Sittig DF** , Ness RB. How the continuity of care document can advance medical research and public health. Am J Public Health. 2012 May; 102(5):e1-4. PMID: [22420795](//www.ncbi.nlm.nih.gov/pubmed/22420795); PMCID: [PMC3483927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3483927).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22420795/citedby/) Fields:
+
+Pub Public Health
+
+Translation:HumansPHPublic Health
+
+  173. Laxmisan A, McCoy AB, Wright A, **Sittig DF**. Clinical Summarization Capabilities of Commercially-available and Internally-developed Electronic Health Records. Appl Clin Inform. 2012 Feb 22; 3(1):80-93. PMID: [22468161](//www.ncbi.nlm.nih.gov/pubmed/22468161); PMCID: [PMC3316473](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3316473).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22468161/citedby/) Fields:
+
+Med Medical Informatics
+
+  174. Ash JS, **Sittig DF** , Guappone KP, Dykstra RH, Richardson J, Wright A, Carpenter J, McMullen C, Shapiro M, Bunce A, Middleton B. Recommended practices for computerized clinical decision support and knowledge management in community settings: a qualitative study. BMC Med Inform Decis Mak. 2012 Feb 14; 12:6. PMID: [22333210](//www.ncbi.nlm.nih.gov/pubmed/22333210); PMCID: [PMC3334687](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3334687).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22333210/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  175. [Murphy DR](https://profiles.viictr.org/profile/267187), Reis B, [Kadiyala H](https://profiles.viictr.org/profile/267245), [Hirani K](https://profiles.viictr.org/profile/265551), **Sittig DF** , Khan MM, [Singh H](https://profiles.viictr.org/profile/269397). Electronic health record-based messages to primary care providers: valuable information or just noise? Arch Intern Med. 2012 Feb 13; 172(3):283-5. PMID: [22332167](//www.ncbi.nlm.nih.gov/pubmed/22332167).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22332167/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  176. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Rights and responsibilities of users of electronic health records. CMAJ. 2012 Sep 18; 184(13):1479-83. PMID: [22331971](//www.ncbi.nlm.nih.gov/pubmed/22331971); PMCID: [PMC3447016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3447016).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22331971/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  177. [Murphy DR](https://profiles.viictr.org/profile/267187), Reis B, **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Notifications received by primary care practitioners in electronic health records: a taxonomy and time analysis. Am J Med. 2012 Feb; 125(2):209.e1-7. PMID: [22269625](//www.ncbi.nlm.nih.gov/pubmed/22269625).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22269625/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  178. McCoy AB, Ottenbacher AJ, **Sittig DF** , Etchegaray JM. Understanding evidence-based research methods: challenges and considerations in the analysis of survey data. HERD. 2012; 5(4):142-5. PMID: [23224813](//www.ncbi.nlm.nih.gov/pubmed/23224813).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  179. Etchegaray JM, Ottenbacher AJ, **Sittig DF** , McCoy AB. Understanding Evidence-Based Research Methods: Survey Analysis, t-Tests, and Odds Ratios. HERD. 2012; 6(1):143-7. PMID: [23224848](//www.ncbi.nlm.nih.gov/pubmed/23224848).
+
+Citations:  Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  180. [Singh H](https://profiles.viictr.org/profile/269397), Classen DC, **Sittig DF**. Creating an oversight infrastructure for electronic health record-related patient safety hazards. J Patient Saf. 2011 Dec; 7(4):169-74. PMID: [22080284](//www.ncbi.nlm.nih.gov/pubmed/22080284); PMCID: [PMC3677059](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3677059).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22080284/citedby/) Fields:
+
+Hea Health Services
+
+Translation:HumansPHPublic Health
+
+  181. Ash JS, **Sittig DF** , McMullen CK, McCormack JL, Wright A, Bunce A, Wasserman J, Mohan V, Cohen DJ, Shapiro M, Middleton B. Studying the vendor perspective on clinical decision support. AMIA Annu Symp Proc. 2011; 2011:80-7. PMID: [22195058](//www.ncbi.nlm.nih.gov/pubmed/22195058); PMCID: [PMC3243293](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3243293).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22195058/citedby/) Fields:
+
+Med Medical Informatics
+
+  182. D'Amore JD, **Sittig DF** , Wright A, Iyengar MS, Ness RB. The promise of the CCD: challenges and opportunity for quality improvement and population health. AMIA Annu Symp Proc. 2011; 2011:285-94. PMID: [22195080](//www.ncbi.nlm.nih.gov/pubmed/22195080); PMCID: [PMC3243208](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3243208).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22195080/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  183. McCoy AB, Wright A, Laxmisan A, [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF**. A prototype knowledge base and SMART app to facilitate organization of patient medications by clinical problems. AMIA Annu Symp Proc. 2011; 2011:888-94. PMID: [22195147](//www.ncbi.nlm.nih.gov/pubmed/22195147); PMCID: [PMC3243226](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3243226).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22195147/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  184. Wright A, Feblowitz J, McCoy AB, **Sittig DF**. Comparative analysis of the VA/Kaiser and NLM CORE problem subsets: an empirical study based on problem frequency. AMIA Annu Symp Proc. 2011; 2011:1532-40. PMID: [22195218](//www.ncbi.nlm.nih.gov/pubmed/22195218); PMCID: [PMC3243236](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3243236).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22195218/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  185. Selvan MS, **Sittig DF** , Thomas EJ, Arnold CC, Murphy RE, Shabot MM. Improving erythropoietin-stimulating agent administration in a multihospital system through quality improvement initiatives: a pre-post comparison study. J Patient Saf. 2011 Sep; 7(3):127-32. PMID: [21716129](//www.ncbi.nlm.nih.gov/pubmed/21716129).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21716129/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  186. **Sittig DF** , Ash JS. On the importance of using a multidimensional sociotechnical model to study health information technology. Ann Fam Med. 2011 Sep-Oct; 9(5):390-1. PMID: [21911756](//www.ncbi.nlm.nih.gov/pubmed/21911756); PMCID: [PMC3185480](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3185480).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21911756/citedby/) Fields:
+
+Pri Primary Health Care
+
+Translation:Humans
+
+  187. [Hysong SJ](https://profiles.viictr.org/profile/270308), Esquivel A, **Sittig DF** , Paul LA, Espadas D, Singh S, [Singh H](https://profiles.viictr.org/profile/269397). Towards successful coordination of electronic health record based-referrals: a qualitative analysis. Implement Sci. 2011 Jul 27; 6:84. PMID: [21794109](//www.ncbi.nlm.nih.gov/pubmed/21794109); PMCID: [PMC3199858](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3199858).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21794109/citedby/) Fields:
+
+Hea Health Services Research
+
+Translation:Humans
+
+  188. [Singh H](https://profiles.viictr.org/profile/269397), **Sittig DF**. Defining health information technology-related errors: new developments since to err is human. Arch Intern Med. 2011 Jul 25; 171(14):1281-4. PMID: [21788544](//www.ncbi.nlm.nih.gov/pubmed/21788544); PMCID: [PMC3677061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3677061).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21788544/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  189. Radecki RP, **Sittig DF**. Application of electronic health records to the Joint Commission's 2011 National Patient Safety Goals. JAMA. 2011 Jul 06; 306(1):92-3. PMID: [21730246](//www.ncbi.nlm.nih.gov/pubmed/21730246).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21730246/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  190. Ash JS, **Sittig DF** , Wright A, McMullen C, Shapiro M, Bunce A, Middleton B. Clinical decision support in small community practice settings: a case study. J Am Med Inform Assoc. 2011 Nov-Dec; 18(6):879-82. PMID: [21504995](//www.ncbi.nlm.nih.gov/pubmed/21504995); PMCID: [PMC3197983](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3197983).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21504995/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  191. [Hysong SJ](https://profiles.viictr.org/profile/270308), Sawhney MK, Wilson L, **Sittig DF** , Esquivel A, Singh S, [Singh H](https://profiles.viictr.org/profile/269397). Understanding the management of electronic test result notifications in the outpatient setting. BMC Med Inform Decis Mak. 2011 Apr 12; 11:22. PMID: [21486478](//www.ncbi.nlm.nih.gov/pubmed/21486478); PMCID: [PMC3100236](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3100236).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21486478/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  192. Feblowitz JC, Wright A, [Singh H](https://profiles.viictr.org/profile/269397), Samal L, **Sittig DF**. Summarization of clinical information: a conceptual model. J Biomed Inform. 2011 Aug; 44(4):688-99. PMID: [21440086](//www.ncbi.nlm.nih.gov/pubmed/21440086).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21440086/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  193. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Legal, ethical, and financial dilemmas in electronic health record adoption and use. Pediatrics. 2011 Apr; 127(4):e1042-7. PMID: [21422090](//www.ncbi.nlm.nih.gov/pubmed/21422090); PMCID: [PMC3065078](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3065078).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21422090/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  194. Wright A, **Sittig DF** , Ash JS, Feblowitz J, Meltzer S, McMullen C, Guappone K, Carpenter J, Richardson J, Simonaitis L, Evans RS, Nichol WP, Middleton B. Development and evaluation of a comprehensive clinical decision support taxonomy: comparison of front-end tools in commercial and internally developed electronic health record systems. J Am Med Inform Assoc. 2011 May 01; 18(3):232-42. PMID: [21415065](//www.ncbi.nlm.nih.gov/pubmed/21415065); PMCID: [PMC3078666](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3078666).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21415065/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  195. **Sittig DF** , Wright A, Meltzer S, Simonaitis L, Evans RS, Nichol WP, Ash JS, Middleton B. Comparison of clinical knowledge management capabilities of commercially-available and leading internally-developed electronic health records. BMC Med Inform Decis Mak. 2011 Feb 17; 11:13. PMID: [21329520](//www.ncbi.nlm.nih.gov/pubmed/21329520); PMCID: [PMC3063202](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3063202).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21329520/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  196. Wright A, **Sittig DF** , Ash JS, [Bates DW](https://profiles.viictr.org/profile/265690), Feblowitz J, Fraser G, Maviglia SM, McMullen C, Nichol WP, Pang JE, Starmer J, Middleton B. Governance for clinical decision support: case studies and recommended practices from leading institutions. J Am Med Inform Assoc. 2011 Mar-Apr; 18(2):187-94. PMID: [21252052](//www.ncbi.nlm.nih.gov/pubmed/21252052); PMCID: [PMC3116253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3116253).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21252052/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  197. Myers RB, Jones SL, **Sittig DF**. Review of Reported Clinical Information System Adverse Events in US Food and Drug Administration Databases. Appl Clin Inform. 2011; 2(1):63-74. PMID: [21938265](//www.ncbi.nlm.nih.gov/pubmed/21938265); PMCID: [PMC3175794](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3175794).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21938265/citedby/) Fields:
+
+Med Medical Informatics
+
+  198. Devine EB, Williams EC, Martin DP, **Sittig DF** , Tarczy-Hornoch P, Payne TH, Sullivan SD. Prescriber and staff perceptions of an electronic prescribing system in primary care: a qualitative assessment. BMC Med Inform Decis Mak. 2010 Nov 19; 10:72. PMID: [21087524](//www.ncbi.nlm.nih.gov/pubmed/21087524); PMCID: [PMC2996338](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2996338).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21087524/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  199. Richardson JE, Ash JS, **Sittig DF** , Bunce A, Carpenter J, Dykstra RH, Guappone K, McMullen CK, Shapiro M, Wright A. Multiple perspectives on the meaning of clinical decision support. AMIA Annu Symp Proc. 2010 Nov 13; 2010:672-6. PMID: [21347063](//www.ncbi.nlm.nih.gov/pubmed/21347063); PMCID: [PMC3041408](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3041408).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21347063/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  200. Wright A, **Sittig DF** , Carpenter JD, Krall MA, Pang JE, Middleton B. Order sets in computerized physician order entry systems: an analysis of seven sites. AMIA Annu Symp Proc. 2010 Nov 13; 2010:892-6. PMID: [21347107](//www.ncbi.nlm.nih.gov/pubmed/21347107); PMCID: [PMC3041397](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3041397).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21347107/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  201. Richardson JE, Ash JS, **Sittig DF** , Bunce A, Carpenter J, Dykstra RH, Guappone K, McCormack J, McMullen CK, Shapiro M, Wright A, Middleton B. Multiple perspectives on the meaning of clinical decision support. AMIA Annu Symp Proc. 2010 Nov 13; 2010:1427-31. PMID: [21347119](//www.ncbi.nlm.nih.gov/pubmed/21347119); PMCID: [PMC3041401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3041401).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21347119/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  202. Campbell EM, **Sittig DF** , Chapman WW, Hazlehurst BL, Cohen AM. Understanding Inter-rater Disagreement: A Mixed Methods Approach. AMIA Annu Symp Proc. 2010 Nov 13; 2010:81-5. PMID: [21346945](//www.ncbi.nlm.nih.gov/pubmed/21346945); PMCID: [PMC3041314](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3041314).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21346945/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  203. **Sittig DF** , Joe JC. Toward a statewide health information technology center (abbreviated version). South Med J. 2010 Nov; 103(11):1111-4. PMID: [20890248](//www.ncbi.nlm.nih.gov/pubmed/20890248).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20890248/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  204. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). A new sociotechnical model for studying health information technology in complex adaptive healthcare systems. Qual Saf Health Care. 2010 Oct; 19 Suppl 3:i68-74. PMID: [20959322](//www.ncbi.nlm.nih.gov/pubmed/20959322); PMCID: [PMC3120130](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3120130).
+
+Citations:
+[195](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20959322/citedby/)
+Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  205. [Singh H](https://profiles.viictr.org/profile/269397), Esquivel A, **Sittig DF** , [Murphy D](https://profiles.viictr.org/profile/267187), [Kadiyala H](https://profiles.viictr.org/profile/267245), Schiesser R, Espadas D, [Petersen LA](https://profiles.viictr.org/profile/266681). Follow-up actions on electronic referral communication in a multispecialty outpatient setting. J Gen Intern Med. 2011 Jan; 26(1):64-9. PMID: [20848235](//www.ncbi.nlm.nih.gov/pubmed/20848235); PMCID: [PMC3024094](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3024094).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20848235/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  206. [Singh H](https://profiles.viictr.org/profile/269397), Wilson L, Reis B, Sawhney MK, Espadas D, **Sittig DF**. Ten strategies to improve management of abnormal test result alerts in the electronic health record. J Patient Saf. 2010 Jun; 6(2):121-3. PMID: [20563228](//www.ncbi.nlm.nih.gov/pubmed/20563228); PMCID: [PMC2885732](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2885732).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20563228/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  207. [Singh H](https://profiles.viictr.org/profile/269397), Thomas EJ, **Sittig DF** , Wilson L, Espadas D, Khan MM, [Petersen LA](https://profiles.viictr.org/profile/266681). Notification of abnormal lab test results in an electronic medical record: do any safety concerns remain? Am J Med. 2010 Mar; 123(3):238-44. PMID: [20193832](//www.ncbi.nlm.nih.gov/pubmed/20193832); PMCID: [PMC2878665](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2878665).
+
+Citations:
+[74](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20193832/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  208. **Sittig DF** , Classen DC. Safe electronic health record use requires a comprehensive monitoring and evaluation framework. JAMA. 2010 Feb 03; 303(5):450-1. PMID: [20124542](//www.ncbi.nlm.nih.gov/pubmed/20124542); PMCID: [PMC2965782](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2965782).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20124542/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  209. [Hysong SJ](https://profiles.viictr.org/profile/270308), Sawhney MK, Wilson L, **Sittig DF** , Espadas D, Davis T, [Singh H](https://profiles.viictr.org/profile/269397). Provider management strategies of abnormal test result alerts: a cognitive task analysis. J Am Med Inform Assoc. 2010 Jan-Feb; 17(1):71-7. PMID: [20064805](//www.ncbi.nlm.nih.gov/pubmed/20064805); PMCID: [PMC2995633](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2995633).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20064805/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  210. Ash JS, **Sittig DF** , Dykstra R, Wright A, McMullen C, Richardson J, Middleton B. Identifying best practices for clinical decision support and knowledge management in the field. Stud Health Technol Inform. 2010; 160(Pt 2):806-10. PMID: [20841797](//www.ncbi.nlm.nih.gov/pubmed/20841797); PMCID: [PMC7646228](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7646228).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20841797/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  211. [Singh H](https://profiles.viictr.org/profile/269397), Wilson L, [Petersen LA](https://profiles.viictr.org/profile/266681), Sawhney MK, Reis B, Espadas D, **Sittig DF**. Improving follow-up of abnormal cancer screens using electronic health records: trust but verify test result communication. BMC Med Inform Decis Mak. 2009 Dec 09; 9:49. PMID: [20003236](//www.ncbi.nlm.nih.gov/pubmed/20003236); PMCID: [PMC2797509](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2797509).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20003236/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  212. Dykstra RH, Ash JS, Campbell E, **Sittig DF** , Guappone K, Carpenter J, Richardson J, Wright A, McMullen C. Persistent paper: the myth of "going paperless". AMIA Annu Symp Proc. 2009 Nov 14; 2009:158-62. PMID: [20351841](//www.ncbi.nlm.nih.gov/pubmed/20351841); PMCID: [PMC2815440](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2815440).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20351841/citedby/) Fields:
+
+Med Medical Informatics
+
+  213. **Sittig DF** , Wright A, Ash JS, Middleton B. A set of preliminary standards recommended for achieving a national repository of clinical decision support interventions. AMIA Annu Symp Proc. 2009 Nov 14; 2009:614-8. PMID: [20351928](//www.ncbi.nlm.nih.gov/pubmed/20351928); PMCID: [PMC2815391](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2815391).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20351928/citedby/) Fields:
+
+Med Medical Informatics
+
+  214. **Sittig DF** , Wright A, Simonaitis L, Carpenter JD, Allen GO, Doebbeling BN, Sirajuddin AM, Ash JS, Middleton B. The state of the art in clinical knowledge management: an inventory of tools and techniques. Int J Med Inform. 2010 Jan; 79(1):44-57. PMID: [19828364](//www.ncbi.nlm.nih.gov/pubmed/19828364); PMCID: [PMC2895508](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2895508).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19828364/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  215. [Singh H](https://profiles.viictr.org/profile/269397), Thomas EJ, Mani S, **Sittig D** , Arora H, Espadas D, Khan MM, [Petersen LA](https://profiles.viictr.org/profile/266681). Timely follow-up of abnormal diagnostic imaging test results in an outpatient setting: are electronic medical records achieving their potential? Arch Intern Med. 2009 Sep 28; 169(17):1578-86. PMID: [19786677](//www.ncbi.nlm.nih.gov/pubmed/19786677); PMCID: [PMC2919821](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2919821).
+
+Citations:
+[92](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19786677/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  216. [Hysong SJ](https://profiles.viictr.org/profile/270308), Sawhney MK, Wilson L, **Sittig DF** , Esquivel A, Watford M, Davis T, Espadas D, [Singh H](https://profiles.viictr.org/profile/269397). Improving outpatient safety through effective electronic communication: a study protocol. Implement Sci. 2009 Sep 25; 4:62. PMID: [19781075](//www.ncbi.nlm.nih.gov/pubmed/19781075); PMCID: [PMC2761849](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2761849).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19781075/citedby/) Fields:
+
+Hea Health Services Research
+
+  217. **Sittig DF** , [Singh H](https://profiles.viictr.org/profile/269397). Eight rights of safe electronic health record use. JAMA. 2009 Sep 09; 302(10):1111-3. PMID: [19738098](//www.ncbi.nlm.nih.gov/pubmed/19738098).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19738098/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  218. **Sittig DF** , Teich JM, Osheroff JA, [Singh H](https://profiles.viictr.org/profile/269397). Improving clinical quality indicators through electronic health records: it takes more than just a reminder. Pediatrics. 2009 Jul; 124(1):375-7. PMID: [19564321](//www.ncbi.nlm.nih.gov/pubmed/19564321); PMCID: [PMC3095847](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3095847).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19564321/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:HumansPHPublic Health
+
+  219. Wright A, **Sittig DF** , Ash JS, Sharma S, Pang JE, Middleton B. Clinical decision support capabilities of commercially-available clinical information systems. J Am Med Inform Assoc. 2009 Sep-Oct; 16(5):637-44. PMID: [19567796](//www.ncbi.nlm.nih.gov/pubmed/19567796); PMCID: [PMC2744714](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2744714).
+
+Citations:
+[55](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19567796/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  220. Sirajuddin AM, Osheroff JA, **Sittig DF** , Chuo J, Velasco F, Collins DA. Implementation pearls from a new guidebook on improving medication use and outcomes with clinical decision support. Effective CDS is essential for addressing healthcare performance improvement imperatives. J Healthc Inf Manag. 2009; 23(4):38-45. PMID: [19894486](//www.ncbi.nlm.nih.gov/pubmed/19894486); PMCID: [PMC3316472](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3316472).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19894486/citedby/) Fields:
+
+Hea Health ServicesMed Medical Informatics
+
+Translation:Humans
+
+  221. Campbell EM, Guappone KP, **Sittig DF** , Dykstra RH, Ash JS. Computerized provider order entry adoption: implications for clinical workflow. J Gen Intern Med. 2009 Jan; 24(1):21-6. PMID: [19020942](//www.ncbi.nlm.nih.gov/pubmed/19020942); PMCID: [PMC2607519](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2607519).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19020942/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  222. Guappone K, Ash JS, **Sittig DF**. Field evaluation of commercial Computerized Provider Order Entry systems in community hospitals. AMIA Annu Symp Proc. 2008 Nov 06; 263-7. PMID: [18998909](//www.ncbi.nlm.nih.gov/pubmed/18998909); PMCID: [PMC2655948](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2655948).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18998909/citedby/) Fields:
+
+Med Medical Informatics
+
+  223. Bedrick SD, **Sittig DF**. A scientific collaboration tool built on the facebook platform. AMIA Annu Symp Proc. 2008 Nov 06; 41-5. PMID: [18999247](//www.ncbi.nlm.nih.gov/pubmed/18999247); PMCID: [PMC2656030](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2656030).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18999247/citedby/) Fields:
+
+Med Medical Informatics
+
+  224. **Sittig DF** , Sittig DF. A socio-technical model of health information technology-related e-iatrogenesis. AMIA Annu Symp Proc. 2008 Nov 06; 1209-10. PMID: [18998788](//www.ncbi.nlm.nih.gov/pubmed/18998788).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18998788/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  225. Ash JS, **Sittig DF** , McMullen CK, Guappone K, Dykstra R, Carpenter J. A rapid assessment process for clinical informatics interventions. AMIA Annu Symp Proc. 2008 Nov 06; 26-30. PMID: [18999075](//www.ncbi.nlm.nih.gov/pubmed/18999075); PMCID: [PMC2656056](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2656056).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18999075/citedby/) Fields:
+
+Med Medical Informatics
+
+  226. Wright A, [Bates DW](https://profiles.viictr.org/profile/265690), Middleton B, Hongsermeier T, Kashyap V, Thomas SM, **Sittig DF**. Creating and sharing clinical decision support content with Web 2.0: Issues and examples. J Biomed Inform. 2009 Apr; 42(2):334-46. PMID: [18935982](//www.ncbi.nlm.nih.gov/pubmed/18935982).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18935982/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  227. Ash JS, **Sittig DF** , Dykstra R, Campbell E, Guappone K. The unintended consequences of computerized provider order entry: findings from a mixed methods exploration. Int J Med Inform. 2009 Apr; 78 Suppl 1:S69-76. PMID: [18786852](//www.ncbi.nlm.nih.gov/pubmed/18786852); PMCID: [PMC2683676](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2683676).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18786852/citedby/) Fields:
+
+Med Medical Informatics
+
+  228. [Wang SJ](https://profiles.viictr.org/profile/12583906), Fuller CD, Kim JS, **Sittig DF** , Thomas CR, Ravdin PM. Prediction model for estimating the survival benefit of adjuvant radiotherapy for gallbladder cancer. J Clin Oncol. 2008 May 01; 26(13):2112-7. PMID: [18378567](//www.ncbi.nlm.nih.gov/pubmed/18378567).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18378567/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  229. Wright A, **Sittig DF**. A framework and model for evaluating clinical decision support architectures. J Biomed Inform. 2008 Dec; 41(6):982-90. PMID: [18462999](//www.ncbi.nlm.nih.gov/pubmed/18462999); PMCID: [PMC2638589](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2638589).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18462999/citedby/) Fields:
+
+Med Medical Informatics
+
+  230. Wright A, **Sittig DF**. A four-phase model of the evolution of clinical decision support architectures. Int J Med Inform. 2008 Oct; 77(10):641-9. PMID: [18353713](//www.ncbi.nlm.nih.gov/pubmed/18353713); PMCID: [PMC2627782](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2627782).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18353713/citedby/) Fields:
+
+Med Medical Informatics
+
+  231. Wright A, **Sittig DF**. SANDS: a service-oriented architecture for clinical decision support in a National Health Information Network. J Biomed Inform. 2008 Dec; 41(6):962-81. PMID: [18434256](//www.ncbi.nlm.nih.gov/pubmed/18434256); PMCID: [PMC2676864](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2676864).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18434256/citedby/) Fields:
+
+Med Medical Informatics
+
+  232. Campbell EM, **Sittig DF** , Guappone KP, Dykstra RH, Ash JS. Overdependence on technology: an unintended adverse consequence of computerized provider order entry. AMIA Annu Symp Proc. 2007 Oct 11; 94-8. PMID: [18693805](//www.ncbi.nlm.nih.gov/pubmed/18693805); PMCID: [PMC2710605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2710605).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18693805/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  233. Ash JS, **Sittig DF** , Campbell EM, Guappone KP, Dykstra RH. Some unintended consequences of clinical decision support systems. AMIA Annu Symp Proc. 2007 Oct 11; 26-30. PMID: [18693791](//www.ncbi.nlm.nih.gov/pubmed/18693791); PMCID: [PMC2813668](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2813668).
+
+Citations:
+[122](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18693791/citedby/)
+Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  234. Wright A, **Sittig DF**. SANDS: an architecture for clinical decision support in a National Health Information Network. AMIA Annu Symp Proc. 2007 Oct 11; 816-20. PMID: [18693950](//www.ncbi.nlm.nih.gov/pubmed/18693950); PMCID: [PMC2655879](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2655879).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18693950/citedby/) Fields:
+
+Med Medical Informatics
+
+  235. Jenders RA, Osheroff JA, **Sittig DF** , Pifer EA, Teich JM. Recommendations for clinical decision support deployment: synthesis of a roundtable of medical directors of information systems. AMIA Annu Symp Proc. 2007 Oct 11; 359-63. PMID: [18693858](//www.ncbi.nlm.nih.gov/pubmed/18693858); PMCID: [PMC2655795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2655795).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18693858/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  236. **Sittig DF** , Campbell E, Guappone K, Dykstra R, Ash JS. Recommendations for monitoring and evaluation of in-patient Computer-based Provider Order Entry systems: results of a Delphi survey. AMIA Annu Symp Proc. 2007 Oct 11; 671-5. PMID: [18693921](//www.ncbi.nlm.nih.gov/pubmed/18693921); PMCID: [PMC2655851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2655851).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18693921/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  237. **Sittig DF** , Ash JS, Guappone KP, Campbell EM, Dykstra RH. Assessing the anticipated consequences of Computer-based Provider Order Entry at three community hospitals using an open-ended, semi-structured survey instrument. Int J Med Inform. 2008 Jul; 77(7):440-7. PMID: [17931963](//www.ncbi.nlm.nih.gov/pubmed/17931963); PMCID: [PMC2668516](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2668516).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17931963/citedby/) Fields:
+
+Med Medical Informatics
+
+  238. Wang SJ, Emery R, [Fuller CD](https://profiles.viictr.org/profile/12583188), Kim JS, **Sittig DF** , Thomas CR. Conditional survival in gastric cancer: a SEER database analysis. Gastric Cancer. 2007; 10(3):153-8. PMID: [17922092](//www.ncbi.nlm.nih.gov/pubmed/17922092).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17922092/citedby/) Fields:
+
+Gas GastroenterologyNeo Neoplasms
+
+Translation:Humans
+
+  239. **Sittig DF** , Wright A, Osheroff JA, Middleton B, Teich JM, Ash JS, Campbell E, Bates DW. Grand challenges in clinical decision support. J Biomed Inform. 2008 Apr; 41(2):387-92. PMID: [18029232](//www.ncbi.nlm.nih.gov/pubmed/18029232); PMCID: [PMC2660274](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2660274).
+
+Citations:
+[182](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18029232/citedby/)
+Fields:
+
+Med Medical Informatics
+
+  240. Leonard KJ, **Sittig DF**. Improving information technology adoption and implementation through the identification of appropriate benefits: creating IMPROVE-IT. J Med Internet Res. 2007 May 04; 9(2):e9. PMID: [17513287](//www.ncbi.nlm.nih.gov/pubmed/17513287); PMCID: [PMC1874717](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1874717).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17513287/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  241. Wright A, **Sittig DF**. Encryption characteristics of two USB-based personal health record devices. J Am Med Inform Assoc. 2007 Jul-Aug; 14(4):397-9. PMID: [17460132](//www.ncbi.nlm.nih.gov/pubmed/17460132); PMCID: [PMC2244899](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2244899).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17460132/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  242. Ash JS, **Sittig DF** , Poon EG, Guappone K, Campbell E, Dykstra RH. The extent and importance of unintended consequences related to computerized provider order entry. J Am Med Inform Assoc. 2007 Jul-Aug; 14(4):415-23. PMID: [17460127](//www.ncbi.nlm.nih.gov/pubmed/17460127); PMCID: [PMC2244906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2244906).
+
+Citations:
+[147](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17460127/citedby/)
+Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  243. Wright A, **Sittig DF**. Security threat posed by USB-based personal health records. Ann Intern Med. 2007 Feb 20; 146(4):314-5. PMID: [17310061](//www.ncbi.nlm.nih.gov/pubmed/17310061).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17310061/citedby/) Fields:
+
+Int Internal Medicine
+
+  244. Ash JS, **Sittig DF** , Dykstra R, Campbell E, Guappone K. Exploring the unintended consequences of computerized physician order entry. Stud Health Technol Inform. 2007; 129(Pt 1):198-202. PMID: [17911706](//www.ncbi.nlm.nih.gov/pubmed/17911706).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17911706/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  245. Thompson DI, Osheroff J, Classen D, **Sittig DF**. A review of methods to estimate the benefits of electronic medical records in hospitals and the need for a national benefits database. J Healthc Inf Manag. 2007; 21(1):62-8. PMID: [17299927](//www.ncbi.nlm.nih.gov/pubmed/17299927).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17299927/citedby/) Fields:
+
+Hea Health ServicesMed Medical Informatics
+
+  246. **Sittig DF** , Guappone K, Campbell EM, Dykstra RH, Ash JS. A survey of U.S.A. acute care hospitals' computer-based provider order entry system infusion levels. Stud Health Technol Inform. 2007; 129(Pt 1):252-6. PMID: [17911717](//www.ncbi.nlm.nih.gov/pubmed/17911717).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17911717/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+  247. **Sittig DF**. Potential impact of advanced clinical information technology on cancer care in 2015. Cancer Causes Control. 2006 Aug; 17(6):813-20. PMID: [16783609](//www.ncbi.nlm.nih.gov/pubmed/16783609).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16783609/citedby/) Fields:
+
+Epi EpidemiologyNeo Neoplasms
+
+  248. **Sittig DF** , Ash JS, Zhang J, Osheroff JA, Shabot MM. Lessons from "Unexpected increased mortality after implementation of a commercially sold computerized physician order entry system". Pediatrics. 2006 Aug; 118(2):797-801. PMID: [16882838](//www.ncbi.nlm.nih.gov/pubmed/16882838).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16882838/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  249. **Sittig DF** , Ash JS, Ledley RS. The story behind the development of the first whole-body computerized tomography scanner as told by Robert S. Ledley. J Am Med Inform Assoc. 2006 Sep-Oct; 13(5):465-9. PMID: [16799115](//www.ncbi.nlm.nih.gov/pubmed/16799115); PMCID: [PMC1561796](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1561796).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16799115/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  250. Campbell EM, **Sittig DF** , Ash JS, Guappone KP, Dykstra RH. Types of unintended consequences related to computerized provider order entry. J Am Med Inform Assoc. 2006 Sep-Oct; 13(5):547-56. PMID: [16799128](//www.ncbi.nlm.nih.gov/pubmed/16799128); PMCID: [PMC1561794](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1561794).
+
+Citations:
+[231](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16799128/citedby/)
+Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  251. Ash JS, **Sittig DF** , Dykstra RH, Guappone K, Carpenter JD, Seshadri V. Categorizing the unintended sociotechnical consequences of computerized provider order entry. Int J Med Inform. 2007 Jun; 76 Suppl 1:S21-7. PMID: [16793330](//www.ncbi.nlm.nih.gov/pubmed/16793330).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16793330/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  252. Smith DH, Perrin N, Feldstein A, Yang X, Kuang D, Simon SR, **Sittig DF** , Platt R, Soumerai SB. The impact of prescribing safety alerts for elderly persons in an electronic medical record: an interrupted time series evaluation. Arch Intern Med. 2006 May 22; 166(10):1098-104. PMID: [16717172](//www.ncbi.nlm.nih.gov/pubmed/16717172).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16717172/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  253. Feldstein AC, Smith DH, Perrin N, Yang X, Simon SR, Krall M, **Sittig DF** , Ditmer D, Platt R, Soumerai SB. Reducing warfarin medication interactions: an interrupted time series evaluation. Arch Intern Med. 2006 May 08; 166(9):1009-15. PMID: [16682575](//www.ncbi.nlm.nih.gov/pubmed/16682575).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16682575/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  254. **Sittig DF** , Krall MA, Dykstra RH, Russell A, Chin HL. A survey of factors affecting clinician acceptance of clinical decision support. BMC Med Inform Decis Mak. 2006 Feb 01; 6:6. PMID: [16451720](//www.ncbi.nlm.nih.gov/pubmed/16451720); PMCID: [PMC1403751](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1403751).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16451720/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  255. Ash JS, **Sittig DF** , Campbell E, Guappone K, Dykstra RH. An unintended consequence of CPOE implementation: shifts in power, control, and autonomy. AMIA Annu Symp Proc. 2006; 11-5. PMID: [17238293](//www.ncbi.nlm.nih.gov/pubmed/17238293); PMCID: [PMC1839304](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1839304).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17238293/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  256. Wright A, **Sittig DF**. Automated development of order sets and corollary orders by data mining in an ambulatory computerized physician order entry system. AMIA Annu Symp Proc. 2006; 819-23. PMID: [17238455](//www.ncbi.nlm.nih.gov/pubmed/17238455); PMCID: [PMC1839652](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1839652).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17238455/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  257. Hazlehurst B, **Sittig DF** , Stevens VJ, Smith KS, Hollis JF, Vogt TM, Winickoff JP, Glasgow R, Palen TE, Rigotti NA. Natural language processing in the electronic medical record: assessing clinician adherence to tobacco treatment guidelines. Am J Prev Med. 2005 Dec; 29(5):434-9. PMID: [16376707](//www.ncbi.nlm.nih.gov/pubmed/16376707).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16376707/citedby/) Fields:
+
+Pub Public Health
+
+  258. Ash JS, **Sittig DF** , Seshadri V, Dykstra RH, Carpenter JD, Stavri PZ. Adding insight: a qualitative cross-site study of physician order entry. Int J Med Inform. 2005 Aug; 74(7-8):623-8. PMID: [15964780](//www.ncbi.nlm.nih.gov/pubmed/15964780); PMCID: [PMC1524826](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1524826).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15964780/citedby/) Fields:
+
+Med Medical Informatics
+
+  259. **Sittig DF** , Shiffman RN, Leonard K, Friedman C, Rudolph B, Hripcsak G, Adams LL, Kleinman LC, Kaushal R. A draft framework for measuring progress towards the development of a National Health Information Infrastructure. BMC Med Inform Decis Mak. 2005 Jun 13; 5:14. PMID: [15953388](//www.ncbi.nlm.nih.gov/pubmed/15953388); PMCID: [PMC1177954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1177954).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15953388/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  260. Hazlehurst B, Frost HR, **Sittig DF** , Stevens VJ. MediClass: A system for detecting and classifying encounter-based clinical events in any electronic medical record. J Am Med Inform Assoc. 2005 Sep-Oct; 12(5):517-29. PMID: [15905485](//www.ncbi.nlm.nih.gov/pubmed/15905485); PMCID: [PMC1205600](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1205600).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15905485/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  261. **Sittig DF** , Krall M, Kaalaas-Sittig J, Ash JS. Emotional aspects of computer-based provider order entry: a qualitative study. J Am Med Inform Assoc. 2005 Sep-Oct; 12(5):561-7. PMID: [15905478](//www.ncbi.nlm.nih.gov/pubmed/15905478); PMCID: [PMC1205605](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1205605).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15905478/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  262. Teich JM, Osheroff JA, Pifer EA, **Sittig DF** , Jenders RA, CDS Expert Review Panel. Clinical decision support in electronic prescribing: recommendations and an action plan: report of the joint clinical decision support workgroup. J Am Med Inform Assoc. 2005 Jul-Aug; 12(4):365-76. PMID: [15802474](//www.ncbi.nlm.nih.gov/pubmed/15802474); PMCID: [PMC1174880](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1174880).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15802474/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  263. Ash JS, Chin HL, **Sittig DF** , Dykstra RH. Ambulatory computerized physician order entry implementation. AMIA Annu Symp Proc. 2005; 11-5. PMID: [16778992](//www.ncbi.nlm.nih.gov/pubmed/16778992); PMCID: [PMC1560502](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1560502).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16778992/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  264. Feldstein A, Simon SR, Schneider J, Krall M, Laferriere D, Smith DH, **Sittig DF** , Soumerai SB. How to design computerized alerts to safe prescribing practices. Jt Comm J Qual Saf. 2004 Nov; 30(11):602-13. PMID: [15565759](//www.ncbi.nlm.nih.gov/pubmed/15565759).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15565759/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  265. **Sittig DF**. Potential impact of advanced clinical information technology on healthcare in 2015. Stud Health Technol Inform. 2004; 107(Pt 2):1379-82. PMID: [15361041](//www.ncbi.nlm.nih.gov/pubmed/15361041).
+
+Citations:  Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  266. Ash JS, **Sittig DF** , Seshadri V, Dykstra RH, Carpenter JD, Stavri PZ. Adding insight: a qualitative cross-site study of physician order entry. Stud Health Technol Inform. 2004; 107(Pt 2):1013-7. PMID: [15360965](//www.ncbi.nlm.nih.gov/pubmed/15360965).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15360965/citedby/) Fields:
+
+Hea Health Services ResearchMed Medical InformaticsTec Technology
+
+Translation:Humans
+
+  267. **Sittig DF**. Results of a content analysis of electronic messages (email) sent between patients and their physicians. BMC Med Inform Decis Mak. 2003 Oct 01; 3:11. PMID: [14519206](//www.ncbi.nlm.nih.gov/pubmed/14519206); PMCID: [PMC270029](//www.ncbi.nlm.nih.gov/pmc/articles/PMC270029).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14519206/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  268. Hazlehurst B, McMullen C, Gorman P, **Sittig D**. How the ICU follows orders: care delivery as a complex activity system. AMIA Annu Symp Proc. 2003; 284-8. PMID: [14728179](//www.ncbi.nlm.nih.gov/pubmed/14728179); PMCID: [PMC1480222](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1480222).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14728179/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  269. Neely AN, **Sittig DF**. Basic microbiologic and infection control information to reduce the potential transmission of pathogens to patients via computer hardware. J Am Med Inform Assoc. 2002 Sep-Oct; 9(5):500-8. PMID: [12223502](//www.ncbi.nlm.nih.gov/pubmed/12223502); PMCID: [PMC346637](//www.ncbi.nlm.nih.gov/pmc/articles/PMC346637).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12223502/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:HumansPHPublic Health
+
+  270. **Sittig DF**. Personal health records on the internet: a snapshot of the pioneers at the end of the 20th Century. Int J Med Inform. 2002 Apr; 65(1):1-6. PMID: [11904243](//www.ncbi.nlm.nih.gov/pubmed/11904243).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11904243/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  271. Krall MA, **Sittig DF**. Clinician's assessments of outpatient electronic medical record alert and reminder usability and usefulness requirements. Proc AMIA Symp. 2002; 400-4. PMID: [12463855](//www.ncbi.nlm.nih.gov/pubmed/12463855); PMCID: [PMC2244227](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2244227).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12463855/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 271 publications over 23 distinct years, with a maximum of
+22 publications in
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|22&cht=bvs&chd=t:0,0,0,0,0,0,0,0,14,9,14,32,45,68,50,45,59,82,95,100,82,59,59,86,59,36,55,50,73,45,14&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 3  
+2003| 2  
+2004| 3  
+2005| 7  
+2006| 10  
+2007| 15  
+2008| 11  
+2009| 10  
+2010| 13  
+2011| 18  
+2012| 21  
+2013| 22  
+2014| 18  
+2015| 13  
+2016| 13  
+2017| 19  
+2018| 13  
+2019| 8  
+2020| 12  
+2021| 11  
+2022| 16  
+2023| 10  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SITTIG's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (484)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Electronic Health Records](https://profiles.viictr.org/profile/243092)
+  * [Decision Support Systems, Clinical](https://profiles.viictr.org/profile/254418)
+  * [Medical Informatics](https://profiles.viictr.org/profile/259017)
+  * [Patient Safety](https://profiles.viictr.org/profile/27546678)
+  * [Medical Order Entry Systems](https://profiles.viictr.org/profile/244216)
+
+[Explore](https://profiles.viictr.org/profile/266234/198)
+
+_
+
+Co-Authors (27)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SINGH, HARDEEP](https://profiles.viictr.org/profile/269397)
+  * [MURPHY, DANIEL](https://profiles.viictr.org/profile/267187)
+  * [BATES, DAVID](https://profiles.viictr.org/profile/265690)
+  * [ZIMOLZAK, ANDREW](https://profiles.viictr.org/profile/28999218)
+  * [GIARDINA, TRABER](https://profiles.viictr.org/profile/23478744)
+
+[Explore](https://profiles.viictr.org/profile/266234/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BATES, DAVID](https://profiles.viictr.org/profile/265690)
+  * [SINGH, HARDEEP](https://profiles.viictr.org/profile/269397)
+  * [BERNSTAM, ELMER](https://profiles.viictr.org/profile/30882399)
+  * [MURPHY, DANIEL](https://profiles.viictr.org/profile/267187)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+
+[Explore](https://profiles.viictr.org/profile/266234/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [HORSTMAN, MOLLY](https://profiles.viictr.org/profile/3009768)
+  * [KRAMER, JENNIFER](https://profiles.viictr.org/profile/269156)
+  * [SANSGIRY, SHUBHADA](https://profiles.viictr.org/profile/265828)
+  * [SINGH, HARDEEP](https://profiles.viictr.org/profile/269397)
+  * [ZIMOLZAK, ANDREW](https://profiles.viictr.org/profile/28999218)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [EL-SERAG, HASHEM](https://profiles.viictr.org/profile/269175)
+  * [HO, VIVIAN](https://profiles.viictr.org/profile/269213)
+  * [SANSGIRY, SHUBHADA](https://profiles.viictr.org/profile/265828)
+  * [WHITE, DONNA](https://profiles.viictr.org/profile/268770)
+
+_
+

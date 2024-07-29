@@ -1,0 +1,857 @@
+## MIRJANA MALETIC-SAVATIC
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 1250 MOURSUND STREET  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O6o85HHOI5jVRIzgrn7GPw%3d%3d&rnd=2eebf541-5f66-4627-a72e-188c83844994)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=266043)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neurology  
+Division| Neurology  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Division| Neuroscience  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01MH130356 (SAHIN, MUSTAFA)Mar 10, 2023 - Feb 29, 2028NIH  
+Effects of 16p11.2 copy number variation on neuronal development and pathology  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R01AG076942 (MALETIC-SAVATIC, MIRJANA)Jun 1, 2022 - Feb 28, 2027NIH  
+Using MR Spectroscopy to Measure Mammalian Neurogenesis in Vivo  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM120033 (MALETIC-SAVATIC, MIRJANA)Jan 1, 2017 - Dec 31, 2021NIH  
+Advanced Computational Approaches for NMR Data-mining  
+Role: Principal Investigator  
+  
+* * *  
+  
+R21NS053875 (MALETIC-SAVATIC, MIRJANA)Sep 15, 2006 - Nov 30, 2008NIH  
+Identification and tracking of neural stem cells in vivo: a metabolomic
+approach  
+Role: Principal Investigator  
+  
+* * *  
+  
+K08NS044276 (MALETIC-SAVATIC, MIRJANA)Jul 5, 2002 - Jun 30, 2007NIH  
+Activity-dependent control: neural progenitor cell fate  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Khalil SM](https://profiles.viictr.org/profile/36016651), Qin X, Hakenjos JM, Wang J, [Hu Z](https://profiles.viictr.org/profile/267903), Liu X, Wang J, **Maletic-Savatic M** , [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Matzuk MM](https://profiles.viictr.org/profile/266520), Li F. MALDI Imaging Mass Spectrometry Visualizes the Distribution of Antidepressant Duloxetine and Its Major Metabolites in Mouse Brain, Liver, Kidney, and Spleen Tissues. Drug Metab Dispos. 2024 Jun 17; 52(7):673-680. PMID: [38658163](//www.ncbi.nlm.nih.gov/pubmed/38658163); PMCID: [PMC11185819](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11185819).
+
+Citations:  Fields:
+
+Pha Pharmacology
+
+Translation:Animals
+
+  2. Sandoval SO, [Cappuccio G](https://profiles.viictr.org/profile/34797934), Kruth K, [Osenberg S](https://profiles.viictr.org/profile/24845305), [Khalil SM](https://profiles.viictr.org/profile/36016651), M?ndez-Albelo NM, Padmanabhan K, Wang D, Niciu MJ, Bhattacharyya A, Stein JL, Sousa AMM, Waxman EA, Buttermore ED, Whye D, Sirois CL, Cross-IDDRC Human Stem Cell Consortium, Williams A, **Maletic-Savatic M** , Zhao X. Rigor and reproducibility in human brain organoid research: Where we are and where we need to go. Stem Cell Reports. 2024 Jun 11; 19(6):796-816. PMID: [38759644](//www.ncbi.nlm.nih.gov/pubmed/38759644).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:Humans
+
+  3. [Khalil SM](https://profiles.viictr.org/profile/36016651), [MacKenzie KR](https://profiles.viictr.org/profile/15318040), **Maletic-Savatic M** , Li F. Metabolic bioactivation of antidepressants: advance and underlying hepatotoxicity. Drug Metab Rev. 2024 Feb-May; 56(2):97-126. PMID: [38311829](//www.ncbi.nlm.nih.gov/pubmed/38311829); PMCID: [PMC11118075](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11118075).
+
+Citations:  Fields:
+
+Pha Pharmacology
+
+  4. Allison K, **Maletic-Savatic M** , [Pehlivan D](https://profiles.viictr.org/profile/27841639). MECP2-related disorders while gene-based therapies are on the horizon. Front Genet. 2024; 15:1332469. PMID: [38410154](//www.ncbi.nlm.nih.gov/pubmed/38410154); PMCID: [PMC10895005](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10895005).
+
+Citations:
+
+  5. Jonnakuti VS, Wagner EJ, **Maletic-Savatic M** , [Liu Z](https://profiles.viictr.org/profile/266153), [Yalamanchili HK](https://profiles.viictr.org/profile/8950236). PolyAMiner-Bulk is a deep learning-based algorithm that decodes alternative polyadenylation dynamics from bulk RNA-seq data. Cell Rep Methods. 2024 Feb 26; 4(2):100707. PMID: [38325383](//www.ncbi.nlm.nih.gov/pubmed/38325383); PMCID: [PMC10921021](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10921021).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38325383/citedby/)
+Translation:HumansCells
+
+  6. [Guan F](https://profiles.viictr.org/profile/17440055), Zhao L, Bronk JK, **Maletic-Savatic M** , [Grosshans DR](https://profiles.viictr.org/profile/12583839), Carlson DJ. Editorial: Advances in the biological effects of ionizing radiation. Front Oncol. 2023; 13:1352771. PMID: [38234403](//www.ncbi.nlm.nih.gov/pubmed/38234403); PMCID: [PMC10793655](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10793655).
+
+Citations:
+
+  7. [Mendonca D](https://profiles.viictr.org/profile/37560956), [Cappuccio G](https://profiles.viictr.org/profile/34797934), Sheppard J, Delacruz M, Bengtsson J, Carvalho CMB, [Bajic A](https://profiles.viictr.org/profile/3010475), Park H, Kim JJ, Jafar-Nejad P, Coquery C, [Pehlivan D](https://profiles.viictr.org/profile/27841639), [Suter B](https://profiles.viictr.org/profile/268438), **Maletic-Savatic M**. Generation of five induced pluripotent stem cell lines from patients with MECP2 Duplication Syndrome. Stem Cell Res. 2024 02; 74:103292. PMID: [38154383](//www.ncbi.nlm.nih.gov/pubmed/38154383); PMCID: [PMC10898976](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10898976).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  8. Han X, Wang W, Ma LH, Ai-Ramahi I, [Botas J](https://profiles.viictr.org/profile/269750), [MacKenzie K](https://profiles.viictr.org/profile/15318040), Allen GI, [Young DW](https://profiles.viictr.org/profile/5099690), [Liu Z](https://profiles.viictr.org/profile/266153), **Maletic-Savatic M**. SPA-STOCSY: an automated tool for identifying annotated and non-annotated metabolites in high-throughput NMR spectra. Bioinformatics. 2023 10 03; 39(10). PMID: [37792497](//www.ncbi.nlm.nih.gov/pubmed/37792497); PMCID: [PMC10568371](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10568371).
+
+Citations:  Fields:
+
+Com Computational Biology
+
+Translation:HumansAnimals
+
+  9. [Cappuccio G](https://profiles.viictr.org/profile/34797934), [Khalil SM](https://profiles.viictr.org/profile/36016651), [Osenberg S](https://profiles.viictr.org/profile/24845305), Li F, **Maletic-Savatic M**. Mass spectrometry imaging as an emerging tool for studying metabolism in human brain organoids. Front Mol Biosci. 2023; 10:1181965. PMID: [37304070](//www.ncbi.nlm.nih.gov/pubmed/37304070); PMCID: [PMC10251497](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10251497).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37304070/citedby/)
+
+  10. Wang W, Ma LH, **Maletic-Savatic M** , [Liu Z](https://profiles.viictr.org/profile/266153). NMRQNet: a deep learning approach for automatic identification and quantification of metabolites using Nuclear Magnetic Resonance (NMR) in human plasma samples. bioRxiv. 2023 Mar 02. PMID: [36909516](//www.ncbi.nlm.nih.gov/pubmed/36909516); PMCID: [PMC10002723](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10002723).
+
+Citations:
+
+  11. Han X, Wang W, Ma LH, [Al-Ramahi I](https://profiles.viictr.org/profile/3009798), [Botas J](https://profiles.viictr.org/profile/269750), [MacKenzie K](https://profiles.viictr.org/profile/15318040), Allen GI, [Young DW](https://profiles.viictr.org/profile/5099690), [Liu Z](https://profiles.viictr.org/profile/266153), **Maletic-Savatic M**. SPA-STOCSY: An Automated Tool for Identification of Annotated and Non-Annotated Metabolites in High-Throughput NMR Spectra. bioRxiv. 2023 Feb 22. PMID: [36865102](//www.ncbi.nlm.nih.gov/pubmed/36865102); PMCID: [PMC9980041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9980041).
+
+Citations:
+
+  12. Jonnakuti VS, Wagner EJ, **Maletic-Savatic M** , [Liu Z](https://profiles.viictr.org/profile/266153), [Yalamanchili HK](https://profiles.viictr.org/profile/8950236). PolyAMiner-Bulk: A Machine Learning Based Bioinformatics Algorithm to Infer and Decode Alternative Polyadenylation Dynamics from bulk RNA-seq data. bioRxiv. 2023 Jan 24. PMID: [36747700](//www.ncbi.nlm.nih.gov/pubmed/36747700); PMCID: [PMC9900750](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9900750).
+
+Citations:
+
+  13. Sun J, [Osenberg S](https://profiles.viictr.org/profile/24845305), Irwin A, Ma LH, Lee N, Xiang Y, Li F, Wan YW, Park IH, **Maletic-Savatic M** , Ballas N. Mutations in the transcriptional regulator MeCP2 severely impact key cellular and molecular signatures of human astrocytes during maturation. Cell Rep. 2023 01 31; 42(1):111942. PMID: [36640327](//www.ncbi.nlm.nih.gov/pubmed/36640327); PMCID: [PMC10857774](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10857774).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36640327/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  14. Wang L, **Maletic-Savatic M** , [Liu Z](https://profiles.viictr.org/profile/266153). Region-specific denoising identifies spatial co-expression patterns and intra-tissue heterogeneity in spatially resolved transcriptomics data. Nat Commun. 2022 11 14; 13(1):6912. PMID: [36376296](//www.ncbi.nlm.nih.gov/pubmed/36376296); PMCID: [PMC9663444](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9663444).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36376296/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Cells
+
+  15. [Bokhari RS](https://profiles.viictr.org/profile/40515002), Beheshti A, [Blutt SE](https://profiles.viictr.org/profile/266310), Bowles DE, Brenner D, Britton R, Bronk L, Cao X, Chatterjee A, Clay DE, Courtney C, Fox DT, [Gaber MW](https://profiles.viictr.org/profile/269276), Gerecht S, Grabham P, [Grosshans D](https://profiles.viictr.org/profile/12583839), [Guan F](https://profiles.viictr.org/profile/17440055), Jezuit EA, Kirsch DG, Liu Z, **Maletic-Savatic M** , Miller KM, Montague RA, Nagpal P, [Osenberg S](https://profiles.viictr.org/profile/24845305), [Parkitny L](https://profiles.viictr.org/profile/28999289), Pierce NA, Porada C, [Rosenberg SM](https://profiles.viictr.org/profile/268344), Sargunas P, Sharma S, Spangler J, Tavakol DN, Thomas D, Vunjak-Novakovic G, Wang C, Whitcomb L, [Young DW](https://profiles.viictr.org/profile/5099690), [Donoviel D](https://profiles.viictr.org/profile/267178). Looking on the horizon; potential and unique approaches to developing radiation countermeasures for deep space travel. Life Sci Space Res (Amst). 2022 Nov; 35:105-112. PMID: [36336356](//www.ncbi.nlm.nih.gov/pubmed/36336356).
+
+Citations:  Fields:
+
+Aer Aerospace MedicineSci Science
+
+Translation:HumansAnimalsPHPublic Health
+
+  16. McNerlin C, [Guan F](https://profiles.viictr.org/profile/17440055), Bronk L, Lei K, [Grosshans D](https://profiles.viictr.org/profile/12583839), [Young DW](https://profiles.viictr.org/profile/5099690), [Gaber MW](https://profiles.viictr.org/profile/269276), **Maletic-Savatic M**. Targeting hippocampal neurogenesis to protect astronauts' cognition and mood from decline due to space radiation effects. Life Sci Space Res (Amst). 2022 Nov; 35:170-179. PMID: [36336363](//www.ncbi.nlm.nih.gov/pubmed/36336363).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36336363/citedby/) Fields:
+
+Aer Aerospace MedicineSci Science
+
+Translation:HumansPHPublic Health
+
+  17. Spruill ML, **Maletic-Savatic M** , Martin H, Li F, Liu X. Spatial analysis of drug absorption, distribution, metabolism, and toxicology using mass spectrometry imaging. Biochem Pharmacol. 2022 07; 201:115080. PMID: [35561842](//www.ncbi.nlm.nih.gov/pubmed/35561842); PMCID: [PMC9744413](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9744413).
+
+Citations:  Fields:
+
+Bio BiochemistryPha Pharmacology
+
+  18. Kandel P, Semerci F, [Mishra R](https://profiles.viictr.org/profile/31422903), Choi W, [Bajic A](https://profiles.viictr.org/profile/3010475), Baluya D, Ma L, Chen K, Cao AC, Phongmekhin T, Matinyan N, [Chamakuri S](https://profiles.viictr.org/profile/12402364), Raji IO, Chang L, Fuentes-Prior P, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), Benn CL, [Venken K](https://profiles.viictr.org/profile/3010184), Moore DD, [Young DW](https://profiles.viictr.org/profile/5099690), **Maletic-Savatic M** , Jim?nez-Panizo A, Est?banez-Perpi?? E. Oleic acid is an endogenous ligand of TLX/NR2E1 that triggers hippocampal neurogenesis. Proc Natl Acad Sci U S A. 2022 03 29; 119(13):e2023784119. PMID: [35333654](//www.ncbi.nlm.nih.gov/pubmed/35333654); PMCID: [PMC9060471](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9060471).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35333654/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  19. Manganas LN, [Osenberg S](https://profiles.viictr.org/profile/24845305), Semerci F, Tosun M, [Mishra R](https://profiles.viictr.org/profile/31422903), [Parkitny L](https://profiles.viictr.org/profile/28999289), Encinas JM, **Maletic-Savatic M** , Dur? I. Author Correction: BASP1 labels neural stem cells in the neurogenic niches of mammalian brain. Sci Rep. 2021 Oct 04; 11(1):20008. PMID: [34608270](//www.ncbi.nlm.nih.gov/pubmed/34608270); PMCID: [PMC8490396](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8490396).
+
+Citations:  Fields:
+
+Sci Science
+
+  20. [Parkitny L](https://profiles.viictr.org/profile/28999289), **Maletic-Savatic M**. Glial PAMPering and DAMPening of Adult Hippocampal Neurogenesis. Brain Sci. 2021 Sep 29; 11(10). PMID: [34679362](//www.ncbi.nlm.nih.gov/pubmed/34679362); PMCID: [PMC8533961](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8533961).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34679362/citedby/)
+
+  21. Manganas LN, [Osenberg S](https://profiles.viictr.org/profile/24845305), Semerci F, Tosun M, [Mishra R](https://profiles.viictr.org/profile/31422903), [Parkitny L](https://profiles.viictr.org/profile/28999289), Encinas JM, **Maletic-Savatic M** , Dur? I. BASP1 labels neural stem cells in the neurogenic niches of mammalian brain. Sci Rep. 2021 03 10; 11(1):5546. PMID: [33692421](//www.ncbi.nlm.nih.gov/pubmed/33692421); PMCID: [PMC7970918](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7970918).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  22. Semerci F, [Parkitny L](https://profiles.viictr.org/profile/28999289), **Maletic-Savatic M**. Mouse Models for Studying Hippocampal Adult Neural Stem Cell Biology. Methods Mol Biol. 2021; 2224:61-74. PMID: [33606206](//www.ncbi.nlm.nih.gov/pubmed/33606206).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33606206/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  23. [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Zhao M](https://profiles.viictr.org/profile/20424285), Barzi M, [Wang J](https://profiles.viictr.org/profile/266173), [Bissig KD](https://profiles.viictr.org/profile/266494), **Maletic-Savatic M** , Jung SY, Li F. Metabolic profiling of norepinephrine reuptake inhibitor atomoxetine. Eur J Pharm Sci. 2020 Oct 01; 153:105488. PMID: [32712217](//www.ncbi.nlm.nih.gov/pubmed/32712217); PMCID: [PMC7506503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7506503).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32712217/citedby/) Fields:
+
+Che ChemistryPha Pharmacology
+
+Translation:AnimalsCells
+
+  24. Diaz-Aparicio I, Sierra-Torre V, Plaza-Zabala A, Beccari S, Huguet P, Abiega O, Alberdi E, Matute C, Bernales I, Otrokocsi L, Sperlagh B, Happonen KE, Lemke G, **Maletic-Savatic M** , Valero J, Sierra A, Paris I, Rodr?guez-Iglesias N, M?rquez-Ropero M, Schulz A. Microglia Actively Remodel Adult Hippocampal Neurogenesis through the Phagocytosis Secretome. J Neurosci. 2020 02 12; 40(7):1453-1482. PMID: [31896673](//www.ncbi.nlm.nih.gov/pubmed/31896673); PMCID: [PMC7044727](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7044727).
+
+Citations:
+[82](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31896673/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  25. Lucassen PJ, Fitzsimons CP, Salta E, **Maletic-Savatic M**. Adult neurogenesis, human after all (again): Classic, optimized, and future approaches. Behav Brain Res. 2020 03 02; 381:112458. PMID: [31899214](//www.ncbi.nlm.nih.gov/pubmed/31899214).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31899214/citedby/) Fields:
+
+Beh Behavioral SciencesBra Brain
+
+Translation:HumansCells
+
+  26. Chen K, Baluya D, Tosun M, [Li F](https://profiles.viictr.org/profile/4897356), **Maletic-Savatic M**. Imaging Mass Spectrometry: A New Tool to Assess Molecular Underpinnings of Neurodegeneration. Metabolites. 2019 Jul 10; 9(7). PMID: [31295847](//www.ncbi.nlm.nih.gov/pubmed/31295847); PMCID: [PMC6681116](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6681116).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31295847/citedby/)
+
+  27. Lucassen PJ, van Dam AM, Kandel P, Bielefeld P, Korosi A, Fitzsimons CP, **Maletic-Savatic M**. The orphan nuclear receptor TLX: an emerging master regulator of cross-talk between microglia and neural precursor cells. Neuronal Signal. 2019 06; 3(2):NS20180208. PMID: [32271856](//www.ncbi.nlm.nih.gov/pubmed/32271856); PMCID: [PMC7104320](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7104320).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32271856/citedby/)
+
+  28. Tosun M, Semerci F, **Maletic-Savatic M**. Heterogeneity of Stem Cells in the Hippocampus. Adv Exp Med Biol. 2019; 1169:31-53. PMID: [31487017](//www.ncbi.nlm.nih.gov/pubmed/31487017).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31487017/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  29. Choi WT, Tosun M, [Jeong HH](https://profiles.viictr.org/profile/15317861), Karakas C, Semerci F, [Liu Z](https://profiles.viictr.org/profile/266153), **Maletic-Savatic M**. Metabolomics of mammalian brain reveals regional differences. BMC Syst Biol. 2018 12 21; 12(Suppl 8):127. PMID: [30577853](//www.ncbi.nlm.nih.gov/pubmed/30577853); PMCID: [PMC6302375](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6302375).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30577853/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:Animals
+
+  30. Jiang X, Zhang C, Chen J, Choi S, Zhou Y, [Zhao M](https://profiles.viictr.org/profile/20424285), Song X, Chen X, **Maletic-Savatic M** , [Palzkill T](https://profiles.viictr.org/profile/269759), Moore D, Wang MC, [Wang J](https://profiles.viictr.org/profile/266173). Quantitative Real-Time Imaging of Glutathione with Subcellular Resolution. Antioxid Redox Signal. 2019 06 01; 30(16):1900-1910. PMID: [30358421](//www.ncbi.nlm.nih.gov/pubmed/30358421); PMCID: [PMC6486671](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6486671).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30358421/citedby/) Fields:
+
+Met Metabolism
+
+Translation:HumansCells
+
+  31. Kadur Lakshminarasimha Murthy P, Srinivasan T, Bochter MS, Xi R, Varanko AK, Tung KL, Semerci F, Xu K, **Maletic-Savatic M** , Cole SE, Shen X. Radical and lunatic fringes modulate notch ligands to support mammalian intestinal homeostasis. Elife. 2018 04 09; 7. PMID: [29629872](//www.ncbi.nlm.nih.gov/pubmed/29629872); PMCID: [PMC5896954](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5896954).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29629872/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  32. Tang C, Chen K, [Bajic A](https://profiles.viictr.org/profile/3010475), Choi WT, Baluya DL, **Maletic-Savatic M**. Analytical Platforms and Techniques to Study Stem Cell Metabolism. Methods Mol Biol. 2018; 1842:265-281. PMID: [30196417](//www.ncbi.nlm.nih.gov/pubmed/30196417).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30196417/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  33. Beccari S, Valero J, **Maletic-Savatic M** , Sierra A. A simulation model of neuroprogenitor proliferation dynamics predicts age-related loss of hippocampal neurogenesis but not astrogenesis. Sci Rep. 2017 11 28; 7(1):16528. PMID: [29184142](//www.ncbi.nlm.nih.gov/pubmed/29184142); PMCID: [PMC5705784](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5705784).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29184142/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  34. [Gandy K](https://profiles.viictr.org/profile/17936072), Kim S, [Sharp C](https://profiles.viictr.org/profile/270256), [Dindo L](https://profiles.viictr.org/profile/9193085), **Maletic-Savatic M** , [Calarge C](https://profiles.viictr.org/profile/8759807). Pattern Separation: A Potential Marker of Impaired Hippocampal Adult Neurogenesis in Major Depressive Disorder. Front Neurosci. 2017; 11:571. PMID: [29123464](//www.ncbi.nlm.nih.gov/pubmed/29123464); PMCID: [PMC5662616](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5662616).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29123464/citedby/)
+
+  35. Jiang X, Chen J, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang C, Song X, Carroll SL, Cai ZL, Tang M, Xue M, Cheng N, Schaaf CP, Li F, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Ferreon ACM](https://profiles.viictr.org/profile/8065525), Xia F, Wang MC, **Maletic-Savatic M** , Wang J. Corrigendum: Quantitative real-time imaging of glutathione. Nat Commun. 2017 10 03; 8:16163. PMID: [28972204](//www.ncbi.nlm.nih.gov/pubmed/28972204); PMCID: [PMC5628253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5628253).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28972204/citedby/) Fields:
+
+Bio BiologySci Science
+
+  36. Li B, Sierra A, Deudero JJ, Semerci F, Laitman A, Kimmel M, **Maletic-Savatic M**. Multitype Bellman-Harris branching model provides biological predictors of early stages of adult hippocampal neurogenesis. BMC Syst Biol. 2017 Oct 03; 11(Suppl 5):90. PMID: [28984196](//www.ncbi.nlm.nih.gov/pubmed/28984196); PMCID: [PMC5629620](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5629620).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28984196/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:HumansAnimals
+
+  37. Liu L, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Putluri N](https://profiles.viictr.org/profile/269361), **Maletic-Savatic M** , [Bellen HJ](https://profiles.viictr.org/profile/268278). The Glia-Neuron Lactate Shuttle and Elevated ROS Promote Lipid Synthesis in Neurons and Lipid Droplet Accumulation in Glia via APOE/D. Cell Metab. 2017 Nov 07; 26(5):719-737.e6. PMID: [28965825](//www.ncbi.nlm.nih.gov/pubmed/28965825); PMCID: [PMC5677551](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5677551).
+
+Citations:
+[131](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28965825/citedby/)
+Fields:
+
+Cel Cell BiologyMet Metabolism
+
+Translation:HumansAnimalsCells
+
+  38. Jiang X, Chen J, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang C, Song X, Carroll SL, [Cai ZL](https://profiles.viictr.org/profile/8684236), Tang M, [Xue M](https://profiles.viictr.org/profile/7520380), [Cheng N](https://profiles.viictr.org/profile/266565), Schaaf CP, [Li F](https://profiles.viictr.org/profile/4897356), [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Ferreon ACM](https://profiles.viictr.org/profile/8065525), [Xia F](https://profiles.viictr.org/profile/3009907), Wang MC, **Maletic-Savatic M** , [Wang J](https://profiles.viictr.org/profile/266173). Quantitative real-time imaging of glutathione. Nat Commun. 2017 07 13; 8:16087. PMID: [28703127](//www.ncbi.nlm.nih.gov/pubmed/28703127); PMCID: [PMC5511354](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5511354).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28703127/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  39. Semerci F, Choi WT, [Bajic A](https://profiles.viictr.org/profile/3010475), Thakkar A, Encinas JM, Depreux F, Segil N, [Groves AK](https://profiles.viictr.org/profile/265955), **Maletic-Savatic M**. Lunatic fringe-mediated Notch signaling regulates adult hippocampal neural stem cell maintenance. Elife. 2017 07 12; 6. PMID: [28699891](//www.ncbi.nlm.nih.gov/pubmed/28699891); PMCID: [PMC5531831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5531831).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28699891/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  40. **Maletic-Savatic M**. A question of fate. PLoS Biol. 2017 05; 15(5):e2002329. PMID: [28505150](//www.ncbi.nlm.nih.gov/pubmed/28505150); PMCID: [PMC5432065](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5432065).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  41. Bielefeld P, Sierra A, Encinas JM, **Maletic-Savatic M** , Anderson A, Fitzsimons CP. A Standardized Protocol for Stereotaxic Intrahippocampal Administration of Kainic Acid Combined with Electroencephalographic Seizure Monitoring in Mice. Front Neurosci. 2017; 11:160. PMID: [28405182](//www.ncbi.nlm.nih.gov/pubmed/28405182); PMCID: [PMC5370320](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5370320).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28405182/citedby/)
+
+  42. Basch ML, Brown RM, Jen HI, Semerci F, Depreux F, Zhang H, Norton CR, Gridley T, Cole SE, Doetzlhofer A, **Maletic-Savatic M** , Segil N, Groves AK, Edlund RK. Fine-tuning of Notch signaling sets the boundary of the organ of Corti and establishes sensory cell fates. Elife. 2016 12 14; 5. PMID: [27966429](//www.ncbi.nlm.nih.gov/pubmed/27966429); PMCID: [PMC5215100](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5215100).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27966429/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  43. Cvoro A, [Bajic A](https://profiles.viictr.org/profile/3010475), Zhang A, Simon M, Golic I, Sieglaff DH, **Maletic-Savatic M** , Korac A, Webb P. Ligand Independent and Subtype-Selective Actions of Thyroid Hormone Receptors in Human Adipose Derived Stem Cells. PLoS One. 2016; 11(10):e0164407. PMID: [27732649](//www.ncbi.nlm.nih.gov/pubmed/27732649); PMCID: [PMC5061422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5061422).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27732649/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  44. Abiega O, Beccari S, Diaz-Aparicio I, Nadjar A, Leyrolle Q, Valero J, Savage JC, Hui CW, Deudero JJ, Brewster AL, Anderson AE, Zaldumbide L, Galbarriatu L, Marinas A, Vivanco MD, Matute C, **Maletic-Savatic M** , Encinas JM, Sierra A, Lay? S, G?mez-Nicola D, Domercq M, P?rez-Samart?n A, S?nchez-Zafra V, Paris I, Tremblay M?. Correction: Neuronal Hyperactivity Disturbs ATP Microgradients, Impairs Microglial Motility, and Reduces Phagocytic Receptor Expression Triggering Apoptosis/Microglial Phagocytosis Uncoupling. PLoS Biol. 2016 09; 14(9):e1002554. PMID: [27649285](//www.ncbi.nlm.nih.gov/pubmed/27649285); PMCID: [PMC5029941](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5029941).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27649285/citedby/) Fields:
+
+Bio Biology
+
+  45. Abiega O, Beccari S, Diaz-Aparicio I, Nadjar A, Leyrolle Q, Valero J, Savage JC, Hui CW, Deudero JJ, Brewster AL, Anderson AE, Zaldumbide L, Galbarriatu L, Marinas A, Vivanco MD, Matute C, **Maletic-Savatic M** , Encinas JM, Sierra A, Lay? S, G?mez-Nicola D, Domercq M, P?rez-Samart?n A, S?nchez-Zafra V, Paris I, Tremblay M?. Correction: Neuronal Hyperactivity Disturbs ATP Microgradients, Impairs Microglial Motility, and Reduces Phagocytic Receptor Expression Triggering Apoptosis/Microglial Phagocytosis Uncoupling. PLoS Biol. 2016 Jun; 14(6):e1002508. PMID: [27362865](//www.ncbi.nlm.nih.gov/pubmed/27362865); PMCID: [PMC4928863](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4928863).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27362865/citedby/) Fields:
+
+Bio Biology
+
+  46. Semerci F, **Maletic-Savatic M**. Transgenic mouse models for studying adult neurogenesis. Front Biol (Beijing). 2016 Jun; 11(3):151-167. PMID: [28473846](//www.ncbi.nlm.nih.gov/pubmed/28473846); PMCID: [PMC5412727](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5412727).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28473846/citedby/)
+
+  47. Abiega O, Beccari S, Diaz-Aparicio I, Valero J, Deudero JJ, Brewster AL, Anderson AE, Zaldumbide L, Galbarriatu L, Marinas A, Vivanco Md, Matute C, Encinas JM, Sierra A, Nadjar A, Lay? S, Leyrolle Q, G?mez-Nicola D, Domercq M, P?rez-Samart?n A, S?nchez-Zafra V, Paris I, Savage JC, Hui CW, Tremblay M?, **Maletic-Savatic M**. Neuronal Hyperactivity Disturbs ATP Microgradients, Impairs Microglial Motility, and Reduces Phagocytic Receptor Expression Triggering Apoptosis/Microglial Phagocytosis Uncoupling. PLoS Biol. 2016 05; 14(5):e1002466. PMID: [27228556](//www.ncbi.nlm.nih.gov/pubmed/27228556); PMCID: [PMC4881984](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4881984).
+
+Citations:
+[75](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27228556/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  48. Zhang X, Tang Y, **Maletic-Savatic M** , Sheng J, Zhang X, Zhu Y, Zhang T, Wang J, Tong S, Wang J, Li Y. Altered neuronal spontaneous activity correlates with glutamate concentration in medial prefrontal cortex of major depressed females: An fMRI-MRS study. J Affect Disord. 2016 Sep 01; 201:153-61. PMID: [27235818](//www.ncbi.nlm.nih.gov/pubmed/27235818).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27235818/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:HumansCells
+
+  49. Pati S, Muthuraju S, Hadi RA, Huat TJ, Singh S, **Maletic-Savatic M** , Abdullah JM, Jaafar H. Neurogenic plasticity of mesenchymal stem cell, an alluring cellular replacement for traumatic brain injury. Curr Stem Cell Res Ther. 2016; 11(2):149-57. PMID: [26763886](//www.ncbi.nlm.nih.gov/pubmed/26763886).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26763886/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  50. Hasan KM, Mwangi B, Cao B, Keser Z, Tustison NJ, Kochunov P, Frye RE, Savatic M, Soares J. Entorhinal Cortex Thickness across the Human Lifespan. J Neuroimaging. 2016 05; 26(3):278-82. PMID: [26565394](//www.ncbi.nlm.nih.gov/pubmed/26565394); PMCID: [PMC4826319](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4826319).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26565394/citedby/) Fields:
+
+Dia Diagnostic ImagingNeu Neurology
+
+Translation:Humans
+
+  51. Botas A, Campbell HM, Han X, **Maletic-Savatic M**. Metabolomics of neurodegenerative diseases. Int Rev Neurobiol. 2015; 122:53-80. PMID: [26358890](//www.ncbi.nlm.nih.gov/pubmed/26358890).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26358890/citedby/) Fields:
+
+Bio BiologyNeu Neurology
+
+Translation:Humans
+
+  52. Erramuzpe A, Encinas JM, Sierra A, **Maletic-Savatic M** , Brewster AL, Anderson AE, Stramaglia S, Cortes JM. Longitudinal variations of brain functional connectivity: A case report study based on a mouse model of epilepsy. F1000Res. 2015; 4:144. PMID: [26167275](//www.ncbi.nlm.nih.gov/pubmed/26167275); PMCID: [PMC4482210](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4482210).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26167275/citedby/) Fields:
+
+Sci Science
+
+  53. Aelvoet SA, Abiega O, Deudero JJ, Brewster AL, Bernales I, Anderson AE, Baekelandt V, **Maletic-Savatic M** , Sierra A, Mart?n-Su?rez S, Valc?rcel-Mart?n R, Pascual-Brazo J, Encinas JM. Neuronal hyperactivity accelerates depletion of neural stem cells and impairs hippocampal neurogenesis. Cell Stem Cell. 2015 May 07; 16(5):488-503. PMID: [25957904](//www.ncbi.nlm.nih.gov/pubmed/25957904); PMCID: [PMC4443499](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4443499).
+
+Citations:
+[102](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25957904/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  54. Arnold JM, Choi WT, [Sreekumar A](https://profiles.viictr.org/profile/266636), **Maletic-Savatic M**. Analytical strategies for studying stem cell metabolism. Front Biol (Beijing). 2015 Apr; 10(2):141-153. PMID: [26213533](//www.ncbi.nlm.nih.gov/pubmed/26213533); PMCID: [PMC4512307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4512307).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26213533/citedby/)
+
+  55. Zhu Y, Fan Q, Han X, Zhang H, Chen J, Wang Z, Zhang Z, Tan L, Xiao Z, Tong S, **Maletic-Savatic M** , Li Y. Decreased thalamic glutamate level in unmedicated adult obsessive-compulsive disorder patients detected by proton magnetic resonance spectroscopy. J Affect Disord. 2015 Jun 01; 178:193-200. PMID: [25819113](//www.ncbi.nlm.nih.gov/pubmed/25819113).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25819113/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:HumansCells
+
+  56. Pati S, Supeno NE, Muthuraju S, Abdul Hadi R, Ghani AR, Idris FM, **Maletic-Savatic M** , Abdullah JM, Jaafar H. MicroRNA profiling reveals unique miRNA signatures in IGF-1 treated embryonic striatal stem cell fate decisions in striatal neurogenesis in vitro. Biomed Res Int. 2014; 2014:503162. PMID: [25254208](//www.ncbi.nlm.nih.gov/pubmed/25254208); PMCID: [PMC4165568](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4165568).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25254208/citedby/) Fields:
+
+Bio BiotechnologyMed Medicine (General)
+
+Translation:HumansCells
+
+  57. Shetty AN, Chiang S, **Maletic-Savatic M** , Kasprian G, Vannucci M, Lee W. Spatial Mapping of Translational Diffusion Coefficients Using Diffusion Tensor Imaging: A Mathematical Description. Concepts Magn Reson Part A Bridg Educ Res. 2014 Jan; 43(1):1-27. PMID: [27441031](//www.ncbi.nlm.nih.gov/pubmed/27441031); PMCID: [PMC4948124](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4948124).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27441031/citedby/)
+
+  58. Abraham AB, Bronstein R, Reddy AS, **Maletic-Savatic M** , Aguirre A, Tsirka SE. Aberrant neural stem cell proliferation and increased adult neurogenesis in mice lacking chromatin protein HMGB2. PLoS One. 2013; 8(12):e84838. PMID: [24391977](//www.ncbi.nlm.nih.gov/pubmed/24391977); PMCID: [PMC3877347](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3877347).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24391977/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  59. Peterson C, Vannucci M, Karakas C, Choi W, Ma L, **Maletic-Savatic M**. Inferring metabolic networks using the Bayesian adaptive graphical lasso with informative priors. Stat Interface. 2013 Oct 01; 6(4):547-558. PMID: [24533172](//www.ncbi.nlm.nih.gov/pubmed/24533172); PMCID: [PMC3922235](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3922235).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24533172/citedby/)
+
+  60. Allen GI, Peterson C, Vannucci M, **Maletic-Savatic M**. Regularized Partial Least Squares with an Application to NMR Spectroscopy. Stat Anal Data Min. 2013 Aug 01; 6(4):302-314. PMID: [24511361](//www.ncbi.nlm.nih.gov/pubmed/24511361); PMCID: [PMC3914316](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3914316).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24511361/citedby/)
+
+  61. Wiszniewski W, Hunter JV, [Hanchard NA](https://profiles.viictr.org/profile/268451), Willer JR, [Shaw C](https://profiles.viictr.org/profile/269433), Tian Q, [Illner A](https://profiles.viictr.org/profile/265624), Wang X, [Cheung SW](https://profiles.viictr.org/profile/268913), Patel A, Campbell IM, Gelowani V, Hixson P, Ester AR, Azamian MS, [Potocki L](https://profiles.viictr.org/profile/268316), Zapata G, Hernandez PP, Ramocki MB, Santos-Cortez RL, Wang G, [York MK](https://profiles.viictr.org/profile/267546), Justice MJ, [Chu ZD](https://profiles.viictr.org/profile/267724), Bader PI, Omo-Griffith L, Madduri NS, Scharer G, Crawford HP, Yanatatsaneejit P, Eifert A, Kerr J, [Bacino CA](https://profiles.viictr.org/profile/266588), Franklin AI, Goin-Kochel RP, Simpson G, Immken L, Haque ME, Stosic M, Williams MD, Morgan TM, Pruthi S, Omary R, Boyadjiev SA, Win KK, Thida A, Hurles M, Hibberd ML, Khor CC, Van Vinh Chau N, Gallagher TE, Mutirangura A, [Stankiewicz P](https://profiles.viictr.org/profile/269299), Beaudet AL, **Maletic-Savatic M** , Rosenfeld JA, Shaffer LG, Davis EE, [Belmont JW](https://profiles.viictr.org/profile/267229), Dunstan S, Simmons CP, [Bonnen PE](https://profiles.viictr.org/profile/268755), Leal SM, Katsanis N, [Lupski JR](https://profiles.viictr.org/profile/268099), [Lalani SR](https://profiles.viictr.org/profile/269910). TM4SF20 ancestral deletion and susceptibility to a pediatric disorder of early language delay and cerebral white matter hyperintensities. Am J Hum Genet. 2013 Aug 08; 93(2):197-210. PMID: [23810381](//www.ncbi.nlm.nih.gov/pubmed/23810381); PMCID: [PMC3738832](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3738832).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23810381/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  62. Vingara LK, Yu HJ, Wagshul ME, Serafin D, Christodoulou C, Krupp LB, **Maletic-Savatic M** , Pelczer I. Metabolomic approach to human brain spectroscopy identifies associations between clinical features and the frontal lobe metabolome in multiple sclerosis. Neuroimage. 2013 Nov 15; 82:586-94. PMID: [23751863](//www.ncbi.nlm.nih.gov/pubmed/23751863); PMCID: [PMC3975905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3975905).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23751863/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  63. Abraham AB, Bronstein R, Chen EI, Koller A, Ronfani L, **Maletic-Savatic M** , Tsirka SE. Members of the high mobility group B protein family are dynamically expressed in embryonic neural stem cells. Proteome Sci. 2013 Apr 27; 11(1):18. PMID: [23621913](//www.ncbi.nlm.nih.gov/pubmed/23621913); PMCID: [PMC3708756](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3708756).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23621913/citedby/)
+
+  64. Valenzuela M, Bartres-Faz D, Bullmore E, Fjell A, Maletic-Savetic M, Martins R, Solowij N, Y?cel M. More thinking about less data: a perspective from the 2nd Provence Summer Workshop. Mol Psychiatry. 2013 May; 18(5):524-5. PMID: [23478747](//www.ncbi.nlm.nih.gov/pubmed/23478747).
+
+Citations:  Fields:
+
+Mol Molecular BiologyPsy Psychiatry
+
+Translation:Humans
+
+  65. Yu HJ, Christodoulou C, Bhise V, Greenblatt D, Patel Y, Serafin D, **Maletic-Savatic M** , Krupp LB, Wagshul ME. Multiple white matter tract abnormalities underlie cognitive impairment in RRMS. Neuroimage. 2012 Feb 15; 59(4):3713-22. PMID: [22062194](//www.ncbi.nlm.nih.gov/pubmed/22062194).
+
+Citations:
+[54](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22062194/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  66. Allen GI, **Maletic-Savatic M**. Sparse non-negative generalized PCA with applications to metabolomics. Bioinformatics. 2011 Nov 01; 27(21):3029-35. PMID: [21930672](//www.ncbi.nlm.nih.gov/pubmed/21930672); PMCID: [PMC3198582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3198582).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21930672/citedby/) Fields:
+
+Com Computational Biology
+
+  67. Sierra A, Encinas JM, **Maletic-Savatic M**. Adult human neurogenesis: from microscopy to magnetic resonance imaging. Front Neurosci. 2011; 5:47. PMID: [21519376](//www.ncbi.nlm.nih.gov/pubmed/21519376); PMCID: [PMC3075882](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3075882).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21519376/citedby/)
+
+  68. Ma LH, Li Y, Djuric PM, **Maletic-Savatic M**. Systems biology approach to imaging of neural stem cells. Methods Mol Biol. 2011; 711:421-34. PMID: [21279615](//www.ncbi.nlm.nih.gov/pubmed/21279615); PMCID: [PMC3975906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3975906).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21279615/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  69. Sierra A, Encinas JM, Deudero JJ, Chancey JH, Enikolopov G, Overstreet-Wadiche LS, Tsirka SE, **Maletic-Savatic M**. Microglia shape adult hippocampal neurogenesis through apoptosis-coupled phagocytosis. Cell Stem Cell. 2010 Oct 08; 7(4):483-95. PMID: [20887954](//www.ncbi.nlm.nih.gov/pubmed/20887954); PMCID: [PMC4008496](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4008496).
+
+Citations:
+[597](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20887954/citedby/)
+Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  70. Malinow R, Hayashi Y, **Maletic-Savatic M** , Zaman SH, Poncer JC, Shi SH, Osten P, Seidenman K, Esteban JA. Introduction of green fluorescent protein (GFP) into hippocampal neurons through viral infection. Cold Spring Harb Protoc. 2010 Apr; 2010(4):pdb.prot5406. PMID: [20360360](//www.ncbi.nlm.nih.gov/pubmed/20360360); PMCID: [PMC3923632](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3923632).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20360360/citedby/) Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:Cells
+
+  71. **Maletic-Savatic M** , Vingara LK, Manganas LN, Li Y, Zhang S, Sierra A, Hazel R, Smith D, Wagshul ME, Henn F, Krupp L, Enikolopov G, Benveniste H, Djuric PM, Pelczer I. Metabolomics of neural progenitor cells: a novel approach to biomarker discovery. Cold Spring Harb Symp Quant Biol. 2008; 73:389-401. PMID: [19022759](//www.ncbi.nlm.nih.gov/pubmed/19022759); PMCID: [PMC4037147](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4037147).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19022759/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  72. Djuric PM, Benveniste H, Wagshul ME, Henn F, Enikolopov G, **Maletic-Savatic M**. Response to Comments on "Magnetic Resonance Spectroscopy Identifies Neural Progenitor Cells in the Live Human Brain". Science. 2008 Aug 01; 321(5889):640. PMID: [26380846](//www.ncbi.nlm.nih.gov/pubmed/26380846); PMCID: [PMC4576718](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4576718).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26380846/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  73. Manganas LN, Zhang X, Li Y, Hazel RD, Smith SD, Wagshul ME, Henn F, Benveniste H, Djuric PM, Enikolopov G, **Maletic-Savatic M**. Magnetic resonance spectroscopy identifies neural progenitor cells in the live human brain. Science. 2007 Nov 09; 318(5852):980-5. PMID: [17991865](//www.ncbi.nlm.nih.gov/pubmed/17991865); PMCID: [PMC4039561](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4039561).
+
+Citations:
+[164](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17991865/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  74. Mignone JL, Roig-Lopez JL, Fedtsova N, Schones DE, Manganas LN, **Maletic-Savatic M** , Keyes WM, Mills AA, Gleiberman A, Zhang MQ, Enikolopov G. Neural potential of a stem cell population in the hair follicle. Cell Cycle. 2007 Sep 01; 6(17):2161-70. PMID: [17873521](//www.ncbi.nlm.nih.gov/pubmed/17873521); PMCID: [PMC3789384](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3789384).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17873521/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  75. Manganas LN, **Maletic-Savatic M**. Stem cell therapy for central nervous system demyelinating disease. Curr Neurol Neurosci Rep. 2005 May; 5(3):225-31. PMID: [15865888](//www.ncbi.nlm.nih.gov/pubmed/15865888); PMCID: [PMC4031751](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4031751).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15865888/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  76. Nasr JT, Gabis L, Savatic M, Andriola MR. The Electroencephalogram in Children with Developmental Dysphasia. Epilepsy Behav. 2001 Apr; 2(2):115-118. PMID: [12609193](//www.ncbi.nlm.nih.gov/pubmed/12609193).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12609193/citedby/) Fields:
+
+Beh Behavioral SciencesNeu Neurology
+
+  77. Mainen ZF, **Maletic-Savatic M** , Shi SH, Hayashi Y, Malinow R, Svoboda K. Two-photon imaging in living brain slices. Methods. 1999 Jun; 18(2):231-9, 181. PMID: [10356355](//www.ncbi.nlm.nih.gov/pubmed/10356355).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10356355/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  78. **Maletic-Savatic M** , Malinow R, Svoboda K. Rapid dendritic morphogenesis in CA1 hippocampal dendrites induced by synaptic activity. Science. 1999 Mar 19; 283(5409):1923-7. PMID: [10082466](//www.ncbi.nlm.nih.gov/pubmed/10082466).
+
+Citations:
+[384](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10082466/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  79. **Maletic-Savatic M** , Koothan T, Malinow R. Calcium-evoked dendritic exocytosis in cultured hippocampal neurons. Part II: mediation by calcium/calmodulin-dependent protein kinase II. J Neurosci. 1998 Sep 01; 18(17):6814-21. PMID: [9712652](//www.ncbi.nlm.nih.gov/pubmed/9712652); PMCID: [PMC6792974](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6792974).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9712652/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  80. **Maletic-Savatic M** , Malinow R. Calcium-evoked dendritic exocytosis in cultured hippocampal neurons. Part I: trans-Golgi network-derived organelles undergo regulated exocytosis. J Neurosci. 1998 Sep 01; 18(17):6803-13. PMID: [9712651](//www.ncbi.nlm.nih.gov/pubmed/9712651); PMCID: [PMC6792980](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6792980).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9712651/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  81. **Maletic-Savatic M** , Lenn NJ, Trimmer JS. Differential spatiotemporal expression of K+ channel polypeptides in rat hippocampal neurons developing in situ and in vitro. J Neurosci. 1995 May; 15(5 Pt 2):3840-51. PMID: [7751950](//www.ncbi.nlm.nih.gov/pubmed/7751950); PMCID: [PMC6578199](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6578199).
+
+Citations:
+[111](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7751950/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  82. Petrovchich I, Sosinsky A, Konde A, Archibald A, Henderson D, **MALETIC-SAVATIC M** , Milanovic S . Metabolomics in Schizophrenia and Major Depressive Disorder. 3(11):222-231. .
+
+  83. Bielefeld P, Sierra A, Encinas JM, **MALETIC-SAVATIC M** , Anderson A. A, Fitzsimons CP. . Standardized Protocol for Stereotaxic Intrahippocampal Administration of Kainic Acid Combined with Electroencephalographic Seizure Monitoring in Mice. Front Neurosci. (11):160.
+
+  84. **MALETIC-SAVATIC M** , Valenzuela M . Front Biol. Adult neurogenesis in Provence: Where history meets science. 3(11):149-150.
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 81 publications over 21 distinct years, with a maximum of
+9 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:0,11,0,0,22,22,0,11,0,0,0,11,0,22,22,0,22,44,0,78,22,67,89,100,44,44,22,44,56,78,67&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1995| 1  
+1998| 2  
+1999| 2  
+2001| 1  
+2005| 1  
+2007| 2  
+2008| 2  
+2010| 2  
+2011| 4  
+2013| 7  
+2014| 2  
+2015| 6  
+2016| 8  
+2017| 9  
+2018| 4  
+2019| 4  
+2020| 2  
+2021| 4  
+2022| 5  
+2023| 7  
+2024| 6  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MALETIC-SAVATIC's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (289)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Hippocampus](https://profiles.viictr.org/profile/259857)
+  * [Neural Stem Cells](https://profiles.viictr.org/profile/27546208)
+  * [Neurogenesis](https://profiles.viictr.org/profile/246517)
+  * [Metabolomics](https://profiles.viictr.org/profile/249610)
+  * [Neurons](https://profiles.viictr.org/profile/240409)
+
+[Explore](https://profiles.viictr.org/profile/266043/198)
+
+_
+
+Co-Authors (59)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [Cappuccio, Gerarda](https://profiles.viictr.org/profile/34797934)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [PARKITNY, LUKE](https://profiles.viictr.org/profile/28999289)
+  * [Mendonca, Danielle](https://profiles.viictr.org/profile/37560956)
+  * [MACKENZIE, KEVIN](https://profiles.viictr.org/profile/15318040)
+
+[Explore](https://profiles.viictr.org/profile/266043/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [SPALLETTA, GIANFRANCO](https://profiles.viictr.org/profile/11312399)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [SWANN, JOHN](https://profiles.viictr.org/profile/268300)
+  * [ALKADHI, KARIM](https://profiles.viictr.org/profile/267582)
+
+[Explore](https://profiles.viictr.org/profile/266043/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ABID, FARIDA](https://profiles.viictr.org/profile/269881)
+  * [DICARLO, SHANNON](https://profiles.viictr.org/profile/8065534)
+  * [EMRICK, LISA](https://profiles.viictr.org/profile/3010431)
+  * [SEN, SONALI](https://profiles.viictr.org/profile/24845276)
+  * [SHUKLA, NIKITA](https://profiles.viictr.org/profile/24844909)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [ANDERSON, ANNE](https://profiles.viictr.org/profile/268159)
+  * [LIU, ZHANDONG](https://profiles.viictr.org/profile/266153)
+  * [SWANN, JOHN](https://profiles.viictr.org/profile/268300)
+  * [TANG, JIANRONG](https://profiles.viictr.org/profile/267756)
+
+_
+

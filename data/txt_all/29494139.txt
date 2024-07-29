@@ -1,0 +1,202 @@
+## JULIE VOELLER
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 333 NORTH SANTA ROSA ST.  
+San Antonio, TX 78207  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=IKQ17WnCMqv3RYKj5X%2fX&rnd=c19dec75-8f1f-41b8-8293-23a8561523f2)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=29494139)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Voeller J** , [DeNapoli T](https://profiles.viictr.org/profile/7612577), Griffin TC. Two pediatric oncologic cases of hypereosinophilic syndrome and review of the literature. Cancer Rep (Hoboken). 2022 11; 5(11):e1710. PMID: [36241191](//www.ncbi.nlm.nih.gov/pubmed/36241191); PMCID: [PMC9675375](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9675375).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36241191/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  2. Pillai R, Nugent K, [Wolfe AD](https://profiles.viictr.org/profile/8065524), **Voeller J**. Acute Right Arm Swelling in a 6-month-old Girl. Pediatr Rev. 2022 09 01; 43(9):517-520. PMID: [36045153](//www.ncbi.nlm.nih.gov/pubmed/36045153).
+
+Citations:
+
+  3. Blegen K, Ortiz-Romero SE, Juarez O, **Voeller J**. Clinical impact of selumetinib on pediatric elephantiasis neuromatosa. Pediatr Dermatol. 2022 Sep; 39(5):764-766. PMID: [35739628](//www.ncbi.nlm.nih.gov/pubmed/35739628); PMCID: [PMC9796138](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9796138).
+
+Citations:  Fields:
+
+Der DermatologyPed Pediatrics
+
+  4. Sybouts EH, Brown AD, Falcon-Cantrill MG, Thomas MH, [DeNapoli T](https://profiles.viictr.org/profile/7612577), **Voeller J** , Chen Y, Tomlinson GE, Bishop AJR. Bloom syndrome in a Mexican American family with rhabdomyosarcoma: evidence of a Mexican founder mutation. Cold Spring Harb Mol Case Stud. 2021 04; 7(2). PMID: [33832920](//www.ncbi.nlm.nih.gov/pubmed/33832920); PMCID: [PMC8040734](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8040734).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  5. Yu Q, Zhong X, Chen B, Feng Y, Ma M, Diamond CA, **Voeller JS** , Kim M, DeSantes KB, Capitini CM, Patel NJ, Hoover-Regan ML, Burke MJ, Janko K, Puccetti DM, Ikonomidou C, Li L. Isobaric Labeling Strategy Utilizing 4-Plex N,N-Dimethyl Leucine (DiLeu) Tags Reveals Proteomic Changes Induced by Chemotherapy in Cerebrospinal Fluid of Children with B-Cell Acute Lymphoblastic Leukemia. J Proteome Res. 2020 07 02; 19(7):2606-2616. PMID: [32396724](//www.ncbi.nlm.nih.gov/pubmed/32396724); PMCID: [PMC7334086](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7334086).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32396724/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  6. **Voeller J** , Erbe AK, Slowinski J, Rasmussen K, Carlson PM, Hoefges A, VandenHeuvel S, Stuckwisch A, Wang X, Gillies SD, Patel RB, Farrel A, Rokita JL, Maris J, Hank JA, Morris ZS, Rakhmilevich AL, Sondel PM. Combined innate and adaptive immunotherapy overcomes resistance of immunologically cold syngeneic murine neuroblastoma to checkpoint inhibition. J Immunother Cancer. 2019 12 06; 7(1):344. PMID: [31810498](//www.ncbi.nlm.nih.gov/pubmed/31810498); PMCID: [PMC6898936](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6898936).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31810498/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:AnimalsCells
+
+  7. **Voeller J** , Sondel PM. Advances in Anti-GD2 Immunotherapy for Treatment of High-risk Neuroblastoma. J Pediatr Hematol Oncol. 2019 04; 41(3):163-169. PMID: [30897608](//www.ncbi.nlm.nih.gov/pubmed/30897608); PMCID: [PMC6430125](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6430125).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30897608/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:Humans
+
+  8. **Voeller J** , Ikonomidou C, Brucker J, Diamond C, Frierdich S, Patel N. Autoimmune Ataxia During Maintenance Therapy for Acute Lymphoblastic Leukemia. Child Neurol Open. 2018; 5:2329048X18819235. PMID: [30574519](//www.ncbi.nlm.nih.gov/pubmed/30574519); PMCID: [PMC6295710](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6295710).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 8 publications over 5 distinct years, with a maximum of 3
+publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,67,33,33,100,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2018| 1  
+2019| 2  
+2020| 1  
+2021| 1  
+2022| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+VOELLER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (57)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Neuroblastoma](https://profiles.viictr.org/profile/264265)
+  * [Elephantiasis](https://profiles.viictr.org/profile/260185)
+  * [Neurofibroma, Plexiform](https://profiles.viictr.org/profile/252878)
+  * [Hypereosinophilic Syndrome](https://profiles.viictr.org/profile/241150)
+  * [Arm](https://profiles.viictr.org/profile/259804)
+
+[Explore](https://profiles.viictr.org/profile/29494139/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [DENAPOLI, THOMAS](https://profiles.viictr.org/profile/7612577)
+  * [WOLFE, ADAM](https://profiles.viictr.org/profile/8065524)
+
+[Explore](https://profiles.viictr.org/profile/29494139/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+  * [JABBOUR, ELIAS JOSEPH](https://profiles.viictr.org/profile/12583425)
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [FOSTER, JENNIFER](https://profiles.viictr.org/profile/1826370)
+  * [NUCHTERN, JED](https://profiles.viictr.org/profile/266271)
+
+[Explore](https://profiles.viictr.org/profile/29494139/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ALLISON, KRISTIN](https://profiles.viictr.org/profile/41209098)
+  * [ANDREANSKY, MARTIN](https://profiles.viictr.org/profile/28999321)
+  * [CHEEK, NADIA](https://profiles.viictr.org/profile/7373266)
+  * [PRASANNAN, LATHA](https://profiles.viictr.org/profile/38200619)
+  * [WOLFE, ADAM](https://profiles.viictr.org/profile/8065524)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

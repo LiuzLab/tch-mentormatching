@@ -1,0 +1,266 @@
+## KRISTEN KARLIN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O64182fVJZLVRIzgrn7GPw%3d%3d&rnd=77ed2a11-b6b4-4a8c-9ae1-a7e28fe9a02f)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=1826677)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Therapeutic Innovation Center  
+Division| Therapeutic Innovation Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Arabzade A, Zhao Y, Varadharajan S, Chen HC, Jessa S, Rivas B, Stuckert AJ, Solis M, [Kardian A](https://profiles.viictr.org/profile/28999343), Tlais D, Golbourn BJ, Stanton AJ, Chan YS, Olson C, **Karlin KL** , Kong K, Kupp R, Hu B, Injac SG, Ngo M, Wang PR, Sahm F, Kawauchi D, Pfister SM, Lin CY, Hodges HC, Singh I, [Westbrook TF](https://profiles.viictr.org/profile/267742), [Chintagumpala MM](https://profiles.viictr.org/profile/268049), [Blaney SM](https://profiles.viictr.org/profile/268174), [Parsons DW](https://profiles.viictr.org/profile/265886), Pajtler KW, Agnihotri S, Gilbertson RJ, [Yi J](https://profiles.viictr.org/profile/15317815), Jabado N, Kleinman CL, Bertrand KC, [Deneen B](https://profiles.viictr.org/profile/266334), Mack SC, De Le?n LA. ZFTA-RELA Dictates Oncogenic Transcriptional Programs to Drive Aggressive Supratentorial Ependymoma. Cancer Discov. 2021 09; 11(9):2200-2215. PMID: [33741710](//www.ncbi.nlm.nih.gov/pubmed/33741710); PMCID: [PMC8418998](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8418998).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33741710/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Animals
+
+  2. Bowling EA, Wang JH, Gong F, Wu W, Neill NJ, Kim IS, Tyagi S, Orellana M, Kurley SJ, Chung HC, Hsu TY, Dubrulle J, Saltzman AB, Li H, [Meena JK](https://profiles.viictr.org/profile/15318052), Canlas GM, [Chamakuri S](https://profiles.viictr.org/profile/12402364), Singh S, Simon LM, Olson CM, Dobrolecki LE, [Lewis MT](https://profiles.viictr.org/profile/267000), Zhang B, Golding I, [Rosen JM](https://profiles.viictr.org/profile/267640), [Young DW](https://profiles.viictr.org/profile/5099690), [Malovannaya A](https://profiles.viictr.org/profile/3010185), Stossi F, [Miles G](https://profiles.viictr.org/profile/18892308), Ellis MJ, Yu L, Buonamici S, Lin CY, **Karlin KL** , [Zhang XH](https://profiles.viictr.org/profile/269369), [Westbrook TF](https://profiles.viictr.org/profile/267742), Dominguez-Vida?a R. Spliceosome-targeted therapies trigger an antiviral immune response in triple-negative breast cancer. Cell. 2021 01 21; 184(2):384-403.e21. PMID: [33450205](//www.ncbi.nlm.nih.gov/pubmed/33450205); PMCID: [PMC8635244](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8635244).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33450205/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  3. Doyle SK, Freeman DB, Lee C, Leifer BS, Jagannathan S, Kabinger F, Struntz NB, Urgiles J, Stagg RA, Curtin BH, Mikochik PJ, Hopkins TD, Gao H, Branch JR, Xin H, Westover L, Bignan GC, Rupnow BA, **Karlin KL** , Olson CM, [Westbrook TF](https://profiles.viictr.org/profile/267742), Vacca J, Wilfong CM, Trotter BW, Saffran DC, Bischofberger N, Russo JW, Hickson I, Bischoff JR, Gottardis MM, Balk SP, Lin CY, Pop MS, Koehler AN, Richters A, Koren JV, Chatterjee D, Mathea S, Knapp S. Modulating Androgen Receptor-Driven Transcription in Prostate Cancer with Selective CDK9 Inhibitors. Cell Chem Biol. 2021 02 18; 28(2):134-147.e14. PMID: [33086052](//www.ncbi.nlm.nih.gov/pubmed/33086052).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33086052/citedby/) Fields:
+
+Bio BiochemistryBio BiologyChe Chemistry
+
+Translation:AnimalsCells
+
+  4. Mowery CT, Reyes JM, Cabal-Hierro L, Higby KJ, **Karlin KL** , Wang JH, Kimmerling RJ, Cejas P, Lim K, Li H, Furusawa T, Long HW, Pellman D, Bustin M, Manalis SR, [Westbrook TF](https://profiles.viictr.org/profile/267742), Lin CY, Lane AA, Chapuy B. Trisomy of a Down Syndrome Critical Region Globally Amplifies Transcription via HMGN1 Overexpression. Cell Rep. 2018 11 13; 25(7):1898-1911.e5. PMID: [30428356](//www.ncbi.nlm.nih.gov/pubmed/30428356); PMCID: [PMC6321629](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6321629).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30428356/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  5. Zeid R, Lawlor MA, Poon E, Reyes JM, Fulciniti M, Lopez MA, Scott TG, Nabet B, Erb MA, Winter GE, Jacobson Z, Polaski DR, **Karlin KL** , Hirsch RA, Munshi NP, [Westbrook TF](https://profiles.viictr.org/profile/267742), Chesler L, Lin CY, Bradner JE. Enhancer invasion shapes MYCN-dependent transcriptional amplification in neuroblastoma. Nat Genet. 2018 04; 50(4):515-523. PMID: [29379199](//www.ncbi.nlm.nih.gov/pubmed/29379199); PMCID: [PMC6310397](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6310397).
+
+Citations:
+[75](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29379199/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  6. Mahamdallie SS, Hanks S, **Karlin KL** , Zachariou A, Perdeaux ER, Ruark E, [Shaw CA](https://profiles.viictr.org/profile/269433), Renwick A, Ramsay E, Yost S, Elliott A, Birch J, Capra M, Gray J, Hale J, Kingston J, Levitt G, McLean T, Sheridan E, Renwick A, Seal S, Stiller C, Sebire N, [Westbrook TF](https://profiles.viictr.org/profile/267742), Rahman N. Corrigendum: Mutations in the transcriptional repressor REST predispose to Wilms tumor. Nat Genet. 2016 Apr; 48(4):473. PMID: [27023775](//www.ncbi.nlm.nih.gov/pubmed/27023775).
+
+Citations:  Fields:
+
+Gen Genetics
+
+  7. Mahamdallie SS, Hanks S, **Karlin KL** , Zachariou A, Perdeaux ER, Ruark E, [Shaw CA](https://profiles.viictr.org/profile/269433), Renwick A, Ramsay E, Yost S, Elliott A, Birch J, Capra M, Gray J, Hale J, Kingston J, Levitt G, McLean T, Sheridan E, Renwick A, Seal S, Stiller C, Sebire N, [Westbrook TF](https://profiles.viictr.org/profile/267742), Rahman N. Mutations in the transcriptional repressor REST predispose to Wilms tumor. Nat Genet. 2015 Dec; 47(12):1471-4. PMID: [26551668](//www.ncbi.nlm.nih.gov/pubmed/26551668).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26551668/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  8. Hsu TY, Simon LM, Neill NJ, Marcotte R, Sayad A, Bland CS, [Echeverria GV](https://profiles.viictr.org/profile/29680397), Sun T, Kurley SJ, Tyagi S, **Karlin KL** , Hartman JD, Renwick A, Scorsone K, Bernardi RJ, Skinner SO, Jain A, Orellana M, Lagisetti C, Golding I, Jung SY, [Neilson JR](https://profiles.viictr.org/profile/266073), [Zhang XH](https://profiles.viictr.org/profile/269369), [Cooper TA](https://profiles.viictr.org/profile/269742), Webb TR, Neel BG, [Shaw CA](https://profiles.viictr.org/profile/269433), [Westbrook TF](https://profiles.viictr.org/profile/267742), Dominguez-Vida?a R. The spliceosome is a therapeutic vulnerability in MYC-driven cancer. Nature. 2015 Sep 17; 525(7569):384-8. PMID: [26331541](//www.ncbi.nlm.nih.gov/pubmed/26331541); PMCID: [PMC4831063](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4831063).
+
+Citations:
+[211](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26331541/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  9. **Karlin KL** , Mondal G, Hartman JK, Tyagi S, Kurley SJ, Bland CS, Hsu TY, Renwick A, Fang JE, Migliaccio I, Callaway C, Nair A, Dominguez-Vidana R, Nguyen DX, Osborne CK, [Schiff R](https://profiles.viictr.org/profile/269128), Yu-Lee LY, Jung SY, Edwards DP, [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), [Rosen JM](https://profiles.viictr.org/profile/267640), [Zhang XH](https://profiles.viictr.org/profile/269369), [Shaw CA](https://profiles.viictr.org/profile/269433), Couch FJ, [Westbrook TF](https://profiles.viictr.org/profile/267742). The oncogenic STP axis promotes triple-negative breast cancer via degradation of the REST tumor suppressor. Cell Rep. 2014 Nov 20; 9(4):1318-32. PMID: [25453754](//www.ncbi.nlm.nih.gov/pubmed/25453754); PMCID: [PMC4427000](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4427000).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25453754/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  10. Fu X, [Creighton CJ](https://profiles.viictr.org/profile/265729), Biswal NC, Kumar V, Shea M, Herrera S, [Contreras A](https://profiles.viictr.org/profile/12582874), [Gutierrez C](https://profiles.viictr.org/profile/265496), Wang T, Nanda S, Giuliano M, Morrison G, Nardone A, **Karlin KL** , [Westbrook TF](https://profiles.viictr.org/profile/267742), Heiser LM, Anur P, Spellman P, Guichard SM, Smith PD, Davies BR, Klinowska T, Lee AV, [Mills GB](https://profiles.viictr.org/profile/12582930), [Rimawi MF](https://profiles.viictr.org/profile/269416), [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Gray JW, Joshi A, Osborne CK, [Schiff R](https://profiles.viictr.org/profile/269128). Overcoming endocrine resistance due to reduced PTEN levels in estrogen receptor-positive breast cancer by co-targeting mammalian target of rapamycin, protein kinase B, or mitogen-activated protein kinase kinase. Breast Cancer Res. 2014 Sep 11; 16(5):430. PMID: [25212826](//www.ncbi.nlm.nih.gov/pubmed/25212826); PMCID: [PMC4303114](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4303114).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25212826/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  11. [Miao Q](https://profiles.viictr.org/profile/14490848), Ku AT, Nishino Y, Howard JM, Rao AS, Shaver TM, Garcia GE, Le DN, **Karlin KL** , [Westbrook TF](https://profiles.viictr.org/profile/267742), Poli V, Nguyen H. Tcf3 promotes cell migration and wound repair through regulation of lipocalin 2. Nat Commun. 2014 Jun 09; 5:4088. PMID: [24909826](//www.ncbi.nlm.nih.gov/pubmed/24909826); PMCID: [PMC4052366](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4052366).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24909826/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 6 distinct years, with a maximum of 3
+publications in
+2014](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,67,33,0,67,0,33,67,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2014| 3  
+2015| 2  
+2016| 1  
+2018| 2  
+2020| 1  
+2021| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+KARLIN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (119)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Repressor Proteins](https://profiles.viictr.org/profile/262308)
+  * [Triple Negative Breast Neoplasms](https://profiles.viictr.org/profile/27547273)
+  * [Spliceosomes](https://profiles.viictr.org/profile/257404)
+  * [Transcription, Genetic](https://profiles.viictr.org/profile/259024)
+  * [Supratentorial Neoplasms](https://profiles.viictr.org/profile/241144)
+
+[Explore](https://profiles.viictr.org/profile/1826677/198)
+
+_
+
+Co-Authors (27)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [WESTBROOK, THOMAS](https://profiles.viictr.org/profile/267742)
+  * [SCHIFF, RACHEL](https://profiles.viictr.org/profile/269128)
+  * [SHAW, CHAD](https://profiles.viictr.org/profile/269433)
+  * [ZHANG, XIANG](https://profiles.viictr.org/profile/269369)
+  * [ROSEN, JEFFREY](https://profiles.viictr.org/profile/267640)
+
+[Explore](https://profiles.viictr.org/profile/1826677/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [UENO, NAOTO T](https://profiles.viictr.org/profile/12582890)
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [DEPINHO, RONALD A](https://profiles.viictr.org/profile/12583185)
+
+[Explore](https://profiles.viictr.org/profile/1826677/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BERGET, SUSAN](https://profiles.viictr.org/profile/268010)
+  * [QUIOCHO, FLORANTE](https://profiles.viictr.org/profile/266875)
+  * [ROBERTSON, MICHAEL](https://profiles.viictr.org/profile/43582143)
+  * [SAZER, SHELLEY](https://profiles.viictr.org/profile/268145)
+  * [TSAI, FRANCIS](https://profiles.viictr.org/profile/267524)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BERGET, SUSAN](https://profiles.viictr.org/profile/268010)
+  * [KIM, CHOEL](https://profiles.viictr.org/profile/266336)
+  * [REDDY, R](https://profiles.viictr.org/profile/267427)
+  * [SONG, YONGCHENG](https://profiles.viictr.org/profile/266042)
+  * [STRINGER, JANET](https://profiles.viictr.org/profile/268147)
+
+_
+

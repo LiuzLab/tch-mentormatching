@@ -1,0 +1,493 @@
+## JACOB REIMER
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=JK457GDVQIn2S8Ho5G4%3d&rnd=a138c637-654b-457b-ac2f-cd34c00675b2)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3010234)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01NS136027 (ST-PIERRE, FRANCOIS)Apr 17, 2024 - Mar 31, 2029NIH  
+Red-shifted voltage indicators for two-photon all-optical physiology and
+multi-spectral imaging  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R56AG080735 (REIMER, JACOB)Sep 15, 2023 - Aug 31, 2024NIH  
+The Dynamic Neuromodulome in Alzheimer's Disease and Aging  
+Role: Principal Investigator  
+  
+* * *  
+  
+R34NS132045 (REIMER, JACOB)Apr 17, 2023 - Mar 31, 2025NIH  
+Validation and Optimization of Two-Photon Dendritic Voltage Imaging in Vivo  
+Role: Principal Investigator  
+  
+* * *  
+  
+F31NS060384 (REIMER, JACOB JACOB)Mar 1, 2008 - Feb 28, 2010NIH  
+Effect of oscillations on coding and connectivity in monkey sensorimotor
+cortex  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Fu J, Shrinivasan S, Ponder K, Muhammad T, [Ding Z](https://profiles.viictr.org/profile/24845227), Wang E, Ding Z, [Tran DT](https://profiles.viictr.org/profile/24845011), Fahey PG, Papadopoulos S, Patel S, Reimer J, Ecker AS, [Pitkow X](https://profiles.viictr.org/profile/2619384), Haefner RM, [Sinz FH](https://profiles.viictr.org/profile/11761036), Franke K, Tolias AS, Fu J, Shrinivasan S, Baroni L, Ding Z, Fahey PG, Pierzchlewicz P, [Ponder K](https://profiles.viictr.org/profile/40152178), Froebe R, Ntanavara L, Muhammad T, Willeke KF, Wang E, Ding Z, Tran DT, Papadopoulos S, Patel S, **Reimer J** , Ecker AS, Pitkow X, Antolik J, Sinz FH, Haefner RM, [Tolias AS](https://profiles.viictr.org/profile/265515), Franke K. Pattern completion and disruption characterize contextual modulation in the visual cortex. bioRxiv. 2024 May 09. PMID: [36993321](//www.ncbi.nlm.nih.gov/pubmed/36993321); PMCID: [PMC10054952](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10054952).
+
+Citations:
+
+  2. Celii B, Papadopoulos S, Ding Z, Fahey PG, Wang E, Papadopoulos C, Kunin AB, Patel S, Bae JA, Bodor AL, Brittain D, Buchanan J, Bumbarger DJ, Castro MA, Cobos E, Dorkenwald S, Elabbady L, Halageri A, Jia Z, Jordan C, Kapner D, Kemnitz N, Kinn S, Lee K, Li K, Lu R, Macrina T, Mahalingam G, Mitchell E, Mondal SS, Mu S, Nehoran B, Popovych S, Schneider-Mizell CM, Silversmith W, Takeno M, Torres R, Turner NL, Wong W, Wu J, Yu SC, Yin W, Xenes D, Kitchell LM, Rivlin PK, Rose VA, Bishop CA, Wester B, Froudarakis E, Walker EY, [Sinz F](https://profiles.viictr.org/profile/11761036), Seung HS, Collman F, da Costa NM, Reid RC, [Pitkow X](https://profiles.viictr.org/profile/2619384), [Tolias AS](https://profiles.viictr.org/profile/265515), **Reimer J** , Papadopoulos S. NEURD: automated proofreading and feature extraction for connectomics. bioRxiv. 2024 Apr 27. PMID: [36993282](//www.ncbi.nlm.nih.gov/pubmed/36993282); PMCID: [PMC10055177](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10055177).
+
+Citations:
+
+  3. [Neyhart E](https://profiles.viictr.org/profile/24845002), [Zhou N](https://profiles.viictr.org/profile/28999320), Munn BR, Law RG, Smith C, Mridha ZH, Blanco FA, Li G, Li Y, [McGinley MJ](https://profiles.viictr.org/profile/18830398), Shine JM, **Reimer J**. Cortical acetylcholine dynamics are predicted by cholinergic axon activity and behavior state. bioRxiv. 2024 Feb 01. PMID: [38352527](//www.ncbi.nlm.nih.gov/pubmed/38352527); PMCID: [PMC10862699](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10862699).
+
+Citations:
+
+  4. MICrONS Consortium, Brittain D, Bumbarger DJ, Kapner D, Kinn S, Seshamani S, Suckow S, Torres R, Yin W, Castro MA, Halageri A, Jia Z, Jordan C, Kemnitz N, Lee K, Li K, Lu R, Mitchell E, Mondal SS, Mu S, Nehoran B, Popovych S, Silversmith W, Wong W, Wu J, **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515), Schneider-Mizell CM, Bodor AL, Buchanan J, Elabbady L, Gamlin C, Mahalingam G, Takeno M, Dorkenwald S, Bae JA, Macrina T, Turner NL, Seung HS, Reid RC, Collman F, Ma?arico da Costa N. Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex. bioRxiv. 2024 Jan 06. PMID: [36747710](//www.ncbi.nlm.nih.gov/pubmed/36747710); PMCID: [PMC9900837](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9900837).
+
+Citations:
+
+  5. Ling D, Moss EH, Smith CL, Kroeger R, **Reimer J** , Raman B, [Arenkiel BR](https://profiles.viictr.org/profile/266249). Conserved neural dynamics and computations across species in olfaction. bioRxiv. 2023 Apr 24. PMID: [37162844](//www.ncbi.nlm.nih.gov/pubmed/37162844); PMCID: [PMC10168254](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10168254).
+
+Citations:
+
+  6. Wang EY, Fahey PG, [Ponder K](https://profiles.viictr.org/profile/40152178), [Ding Z](https://profiles.viictr.org/profile/24845227), Chang A, Muhammad T, Patel S, Ding Z, [Tran D](https://profiles.viictr.org/profile/24845011), Fu J, Papadopoulos S, Franke K, Ecker AS, **Reimer J** , [Pitkow X](https://profiles.viictr.org/profile/2619384), [Sinz FH](https://profiles.viictr.org/profile/11761036), [Tolias AS](https://profiles.viictr.org/profile/265515). Towards a Foundation Model of the Mouse Visual Cortex. bioRxiv. 2023 Apr 21. PMID: [36993435](//www.ncbi.nlm.nih.gov/pubmed/36993435); PMCID: [PMC10055288](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10055288).
+
+Citations:
+
+  7. [Ding Z](https://profiles.viictr.org/profile/24845227), Fahey PG, Papadopoulos S, Wang EY, Celii B, Papadopoulos C, Kunin AB, Chang A, Fu J, Ding Z, Patel S, [Ponder K](https://profiles.viictr.org/profile/40152178), Muhammad T, Bae JA, Bodor AL, Brittain D, Buchanan J, Bumbarger DJ, Castro MA, Cobos E, Dorkenwald S, Elabbady L, Halageri A, Jia Z, Jordan C, Kapner D, Kemnitz N, Kinn S, Lee K, Li K, Lu R, Macrina T, Mahalingam G, Mitchell E, Mondal SS, Mu S, Nehoran B, Popovych S, Schneider-Mizell CM, Silversmith W, Takeno M, Torres R, Turner NL, Wong W, Wu J, Yin W, Yu SC, Froudarakis E, [Sinz F](https://profiles.viictr.org/profile/11761036), Seung HS, Collman F, da Costa NM, Reid RC, Walker EY, [Pitkow X](https://profiles.viictr.org/profile/2619384), **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515). Functional connectomics reveals general wiring rule in mouse visual cortex. bioRxiv. 2023 Mar 30. PMID: [36993398](//www.ncbi.nlm.nih.gov/pubmed/36993398); PMCID: [PMC10054929](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10054929).
+
+Citations:
+
+  8. Ding Z, [Tran DT](https://profiles.viictr.org/profile/24845011), [Ponder K](https://profiles.viictr.org/profile/40152178), Cobos E, [Ding Z](https://profiles.viictr.org/profile/24845227), Fahey PG, Wang E, Muhammad T, Fu J, Cadena SA, Papadopoulos S, Patel S, Franke K, **Reimer J** , [Sinz FH](https://profiles.viictr.org/profile/11761036), Ecker AS, [Pitkow X](https://profiles.viictr.org/profile/2619384), [Tolias AS](https://profiles.viictr.org/profile/265515). Bipartite invariance in mouse primary visual cortex. bioRxiv. 2023 Mar 16. PMID: [36993218](//www.ncbi.nlm.nih.gov/pubmed/36993218); PMCID: [PMC10055119](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10055119).
+
+Citations:
+
+  9. Dorkenwald S, Turner NL, Macrina T, Lee K, Lu R, Wu J, Bodor AL, Bleckert AA, Brittain D, Kemnitz N, Silversmith WM, Ih D, Zung J, Zlateski A, Tartavull I, Yu SC, Popovych S, Wong W, Castro M, Jordan CS, Wilson AM, Froudarakis E, Buchanan J, Takeno MM, Torres R, Mahalingam G, Collman F, Schneider-Mizell CM, Bumbarger DJ, Li Y, Becker L, Suckow S, **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515), Macarico da Costa N, Reid RC, Seung HS. Binary and analog variation of synapses between cortical pyramidal neurons. Elife. 2022 11 16; 11. PMID: [36382887](//www.ncbi.nlm.nih.gov/pubmed/36382887); PMCID: [PMC9704804](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9704804).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36382887/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  10. Shen S, [Jiang X](https://profiles.viictr.org/profile/268555), Scala F, Fu J, Fahey P, Kobak D, Tan Z, [Zhou N](https://profiles.viictr.org/profile/28999320), **Reimer J** , [Sinz F](https://profiles.viictr.org/profile/11761036), [Tolias AS](https://profiles.viictr.org/profile/265515). Distinct organization of two cortico-cortical feedback pathways. Nat Commun. 2022 10 27; 13(1):6389. PMID: [36302912](//www.ncbi.nlm.nih.gov/pubmed/36302912); PMCID: [PMC9613627](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9613627).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36302912/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  11. Franke K, Willeke KF, Ponder K, Galdamez M, Zhou N, Muhammad T, Patel S, Froudarakis E, **Reimer J** , [Sinz FH](https://profiles.viictr.org/profile/11761036), [Tolias AS](https://profiles.viictr.org/profile/265515). State-dependent pupil dilation rapidly shifts visual feature selectivity. Nature. 2022 10; 610(7930):128-134. PMID: [36171291](//www.ncbi.nlm.nih.gov/pubmed/36171291); PMCID: [PMC10635574](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10635574).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36171291/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  12. Liu Z, Lu X, Villette V, Gou Y, Colbert KL, Lai S, Guan S, [Land MA](https://profiles.viictr.org/profile/30364463), Lee J, Assefa T, Zollinger DR, Korympidou MM, Vlasits AL, Pang MM, Su S, Cai C, Froudarakis E, Zhou N, Patel SS, Smith CL, Ayon A, Bizouard P, Bradley J, Franke K, Clandinin TR, Giovannucci A, [Tolias AS](https://profiles.viictr.org/profile/265515), **Reimer J** , Dieudonn? S, St-Pierre F. Sustained deep-tissue voltage recording using a fast indicator evolved for two-photon microscopy. Cell. 2022 09 01; 185(18):3408-3425.e29. PMID: [35985322](//www.ncbi.nlm.nih.gov/pubmed/35985322); PMCID: [PMC9563101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9563101).
+
+Citations:
+
+  13. Turner NL, Macrina T, Bae JA, Yang R, Wilson AM, Schneider-Mizell C, Lee K, Lu R, Wu J, Bodor AL, Bleckert AA, Brittain D, Froudarakis E, Dorkenwald S, Collman F, Kemnitz N, Ih D, Silversmith WM, Zung J, Zlateski A, Tartavull I, Yu SC, Popovych S, Mu S, Wong W, Jordan CS, Castro M, Buchanan J, Bumbarger DJ, Takeno M, Torres R, Mahalingam G, Elabbady L, Li Y, Cobos E, Zhou P, Suckow S, Becker L, Paninski L, Polleux F, **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515), Reid RC, Seung HS, da Costa NM. Reconstruction of neocortex: Organelles, compartments, cells, circuits, and activity. Cell. 2022 03 17; 185(6):1082-1100.e24. PMID: [35216674](//www.ncbi.nlm.nih.gov/pubmed/35216674); PMCID: [PMC9337909](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9337909).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  14. Schneider-Mizell CM, Bodor AL, Collman F, Brittain D, Bleckert A, Dorkenwald S, Turner NL, Macrina T, Lee K, Lu R, Wu J, Zhuang J, Nandi A, Hu B, Buchanan J, Takeno MM, Torres R, Mahalingam G, Bumbarger DJ, Li Y, Chartrand T, Kemnitz N, Silversmith WM, Ih D, Zung J, Zlateski A, Tartavull I, Popovych S, Wong W, Castro M, Jordan CS, Froudarakis E, Becker L, Suckow S, **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515), Anastassiou CA, Seung HS, Reid RC, Costa NMD. Structure and function of axo-axonic inhibition. Elife. 2021 12 01; 10. PMID: [34851292](//www.ncbi.nlm.nih.gov/pubmed/34851292); PMCID: [PMC8758143](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8758143).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34851292/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  15. Shemesh OA, Linghu C, Piatkevich KD, Goodwin D, Celiker OT, Gritton HJ, Romano MF, Gao R, Yu CJ, Tseng HA, Bensussen S, Narayan S, Yang CT, Freifeld L, Siciliano CA, Gupta I, Wang J, Pak N, Yoon YG, Ullmann JFP, Guner-Ataman B, Noamany H, Sheinkopf ZR, Park WM, Asano S, Keating AE, Trimmer JS, **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515), Bear MF, Tye KM, Han X, Ahrens MB, Boyden ES. Precision Calcium Imaging of Dense Neural Populations via a Cell-Body-Targeted Calcium Indicator. Neuron. 2020 08 05; 107(3):470-486.e11. PMID: [32592656](//www.ncbi.nlm.nih.gov/pubmed/32592656); PMCID: [PMC7415598](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7415598).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32592656/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  16. Walker EY, [Sinz FH](https://profiles.viictr.org/profile/11761036), Cobos E, Muhammad T, Froudarakis E, Fahey PG, Ecker AS, **Reimer J** , [Pitkow X](https://profiles.viictr.org/profile/2619384), [Tolias AS](https://profiles.viictr.org/profile/265515). Inception loops discover what excites neurons most using deep predictive models. Nat Neurosci. 2019 12; 22(12):2060-2065. PMID: [31686023](//www.ncbi.nlm.nih.gov/pubmed/31686023).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31686023/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  17. [Pitkow X](https://profiles.viictr.org/profile/2619384), **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515), [Sinz FH](https://profiles.viictr.org/profile/11761036), Bethge M. Engineering a Less Artificial Intelligence. Neuron. 2019 09 25; 103(6):967-979. PMID: [31557461](//www.ncbi.nlm.nih.gov/pubmed/31557461).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31557461/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  18. Froudarakis E, Fahey PG, **Reimer J** , Smirnakis SM, Tehovnik EJ, [Tolias AS](https://profiles.viictr.org/profile/265515). The Visual Cortex in Context. Annu Rev Vis Sci. 2019 09 15; 5:317-339. PMID: [31525143](//www.ncbi.nlm.nih.gov/pubmed/31525143); PMCID: [PMC7485906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7485906).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31525143/citedby/) Fields:
+
+Neu NeurologyOph Ophthalmology
+
+Translation:HumansAnimals
+
+  19. Egbert JR, Fahey PG, **Reimer J** , Owen CM, Evsikov AV, Nikolaev VO, Griesbeck O, [Ray RS](https://profiles.viictr.org/profile/267456), [Tolias AS](https://profiles.viictr.org/profile/265515), Jaffe LA. Follicle-stimulating hormone and luteinizing hormone increase Ca2+ in the granulosa cells of mouse ovarian follicles?. Biol Reprod. 2019 08 01; 101(2):433-444. PMID: [31087036](//www.ncbi.nlm.nih.gov/pubmed/31087036); PMCID: [PMC7302518](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7302518).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31087036/citedby/) Fields:
+
+Rep Reproductive Medicine
+
+Translation:AnimalsCells
+
+  20. Wang H, [Dewell RB](https://profiles.viictr.org/profile/3009865), Ehrengruber MU, Segev E, **Reimer J** , Roukes ML, [Gabbiani F](https://profiles.viictr.org/profile/266193). Optogenetic manipulation of medullary neurons in the locust optic lobe. J Neurophysiol. 2018 10 01; 120(4):2049-2058. PMID: [30110231](//www.ncbi.nlm.nih.gov/pubmed/30110231); PMCID: [PMC6230808](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6230808).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30110231/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  21. Freeman J, Deneux T, Speiser A, Macke JH, Turaga SC, Mineault P, Rupprecht P, Gerhard S, Friedrich RW, Friedrich J, Paninski L, Pachitariu M, Harris KD, Bolte B, Machado TA, Ringach D, Stone J, Sofroniew NJ, **Reimer J** , Froudarakis E, Theis L, [Tolias AS](https://profiles.viictr.org/profile/265515), Berens P, Chenkov N, McColgan T, Rogerson LE, Euler T, Rom?n Ros?n M, Bethge M. Community-based benchmarking improves spike rate inference from two-photon calcium imaging data. PLoS Comput Biol. 2018 05; 14(5):e1006157. PMID: [29782491](//www.ncbi.nlm.nih.gov/pubmed/29782491); PMCID: [PMC5997358](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5997358).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29782491/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  22. Ouzounov DG, Wang T, Wang M, Feng DD, Horton NG, Cheng YT, **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515), Nishimura N, Xu C, Cruz-Hern?ndez JC. In vivo three-photon imaging of activity of GCaMP6-labeled neurons deep in intact mouse brain. Nat Methods. 2017 Apr; 14(4):388-390. PMID: [28218900](//www.ncbi.nlm.nih.gov/pubmed/28218900); PMCID: [PMC6441362](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6441362).
+
+Citations:
+[153](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28218900/citedby/)
+Fields:
+
+Cli Clinical Laboratory Techniques
+
+Translation:AnimalsCells
+
+  23. Segev E, **Reimer J** , Moreaux LC, Fowler TM, Chi D, Sacher WD, Lo M, Deisseroth K, [Tolias AS](https://profiles.viictr.org/profile/265515), Faraon A, Roukes ML. Patterned photostimulation via visible-wavelength photonic probes for deep brain optogenetics. Neurophotonics. 2017 Jan; 4(1):011002. PMID: [27990451](//www.ncbi.nlm.nih.gov/pubmed/27990451); PMCID: [PMC5136672](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5136672).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27990451/citedby/)
+
+  24. **Reimer J** , [McGinley MJ](https://profiles.viictr.org/profile/18830398), Liu Y, Rodenkirch C, Wang Q, McCormick DA, [Tolias AS](https://profiles.viictr.org/profile/265515). Pupil fluctuations track rapid changes in adrenergic and cholinergic activity in cortex. Nat Commun. 2016 11 08; 7:13289. PMID: [27824036](//www.ncbi.nlm.nih.gov/pubmed/27824036); PMCID: [PMC5105162](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5105162).
+
+Citations:
+[228](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27824036/citedby/)
+Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimalsCells
+
+  25. [Jiang X](https://profiles.viictr.org/profile/268555), Shen S, [Sinz F](https://profiles.viictr.org/profile/11761036), **Reimer J** , Cadwell CR, Patel S, Denfield GH, Froudarakis E, Li S, Walker E, Berens P, Ecker AS, [Tolias AS](https://profiles.viictr.org/profile/265515). Response to Comment on "Principles of connectivity among morphologically defined cell types in adult neocortex". Science. 2016 09 09; 353(6304):1108. PMID: [27609883](//www.ncbi.nlm.nih.gov/pubmed/27609883).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27609883/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  26. Denfield GH, Fahey PG, **Reimer J** , [Tolias AS](https://profiles.viictr.org/profile/265515). Investigating the Limits of Neurovascular Coupling. Neuron. 2016 Sep 07; 91(5):954-956. PMID: [27608758](//www.ncbi.nlm.nih.gov/pubmed/27608758).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27608758/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  27. Froudarakis E, **Reimer J** , Theis L, Berens P, Rom?n Ros?n M, Baden T, Euler T, [Tolias AS](https://profiles.viictr.org/profile/265515), Bethge M. Benchmarking Spike Rate Inference in Population Calcium Imaging. Neuron. 2016 05 04; 90(3):471-82. PMID: [27151639](//www.ncbi.nlm.nih.gov/pubmed/27151639); PMCID: [PMC4888799](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4888799).
+
+Citations:
+[62](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27151639/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  28. Cadwell CR, Palasantza A, [Jiang X](https://profiles.viictr.org/profile/268555), Berens P, Deng Q, Yilmaz M, **Reimer J** , Shen S, [Tolias KF](https://profiles.viictr.org/profile/265514), Sandberg R, [Tolias AS](https://profiles.viictr.org/profile/265515), Bethge M. Electrophysiological, transcriptomic and morphologic profiling of single neurons using Patch-seq. Nat Biotechnol. 2016 Feb; 34(2):199-203. PMID: [26689543](//www.ncbi.nlm.nih.gov/pubmed/26689543); PMCID: [PMC4840019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4840019).
+
+Citations:
+[183](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26689543/citedby/)
+Fields:
+
+Bio Biotechnology
+
+Translation:AnimalsCells
+
+  29. [McGinley MJ](https://profiles.viictr.org/profile/18830398), Vinck M, **Reimer J** , Batista-Brito R, Zagha E, Cadwell CR, [Tolias AS](https://profiles.viictr.org/profile/265515), Cardin JA, McCormick DA. Waking State: Rapid Variations Modulate Neural and Behavioral Responses. Neuron. 2015 Sep 23; 87(6):1143-1161. PMID: [26402600](//www.ncbi.nlm.nih.gov/pubmed/26402600); PMCID: [PMC4718218](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4718218).
+
+Citations:
+[253](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26402600/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  30. **Reimer J** , Froudarakis E, Cadwell CR, Yatsenko D, Denfield GH, [Tolias AS](https://profiles.viictr.org/profile/265515). Pupil fluctuations track fast switching of cortical states during quiet wakefulness. Neuron. 2014 Oct 22; 84(2):355-62. PMID: [25374359](//www.ncbi.nlm.nih.gov/pubmed/25374359); PMCID: [PMC4323337](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4323337).
+
+Citations:
+[247](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25374359/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  31. Stevenson IH, London BM, Oby ER, Sachs NA, **Reimer J** , Englitz B, David SV, Shamma SA, Blanche TJ, Mizuseki K, Zandvakili A, Hatsopoulos NG, Miller LE, Kording KP. Functional connectivity and tuning curves in populations of simultaneously recorded neurons. PLoS Comput Biol. 2012; 8(11):e1002775. PMID: [23166484](//www.ncbi.nlm.nih.gov/pubmed/23166484); PMCID: [PMC3499254](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3499254).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23166484/citedby/) Fields:
+
+Com Computational Biology
+
+Translation:AnimalsCells
+
+  32. Stevenson IH, Cherian A, London BM, Sachs NA, Lindberg E, **Reimer J** , Slutzky MW, Hatsopoulos NG, Miller LE, Kording KP. Statistical assessment of the stability of neural movement representations. J Neurophysiol. 2011 Aug; 106(2):764-74. PMID: [21613593](//www.ncbi.nlm.nih.gov/pubmed/21613593); PMCID: [PMC3154833](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3154833).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21613593/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:AnimalsCells
+
+  33. **Reimer J** , Hatsopoulos NG. Periodicity and evoked responses in motor cortex. J Neurosci. 2010 Aug 25; 30(34):11506-15. PMID: [20739573](//www.ncbi.nlm.nih.gov/pubmed/20739573); PMCID: [PMC2952881](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2952881).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20739573/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Animals
+
+  34. Saleh M, **Reimer J** , Penn R, Ojakangas CL, Hatsopoulos NG. Fast and slow oscillations in human primary motor cortex predict oncoming behaviorally relevant cues. Neuron. 2010 Feb 25; 65(4):461-71. PMID: [20188651](//www.ncbi.nlm.nih.gov/pubmed/20188651); PMCID: [PMC3199221](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3199221).
+
+Citations:
+[103](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20188651/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:HumansCells
+
+  35. Fagg AH, Hatsopoulos NG, London BM, **Reimer J** , Solla SA, Wang D, Miller LE. Toward a biomimetic, bidirectional, brain machine interface. Annu Int Conf IEEE Eng Med Biol Soc. 2009; 2009:3376-80. PMID: [19963797](//www.ncbi.nlm.nih.gov/pubmed/19963797).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19963797/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansCells
+
+  36. **Reimer J** , Hatsopoulos NG. The problem of parametric neural coding in the motor system. Adv Exp Med Biol. 2009; 629:243-59. PMID: [19227503](//www.ncbi.nlm.nih.gov/pubmed/19227503); PMCID: [PMC4480635](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4480635).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19227503/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:AnimalsCells
+
+  37. Tkach D, **Reimer J** , Hatsopoulos NG. Congruent activity during action and action observation in motor cortex. J Neurosci. 2007 Nov 28; 27(48):13241-50. PMID: [18045918](//www.ncbi.nlm.nih.gov/pubmed/18045918); PMCID: [PMC6673404](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6673404).
+
+Citations:
+[100](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18045918/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 37 publications over 16 distinct years, with a maximum of
+5 publications in 2016 and
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,40,40,20,20,0,20,40,100,20,40,80,20,20,100,80,80&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2009| 2  
+2010| 2  
+2011| 1  
+2012| 1  
+2014| 1  
+2015| 2  
+2016| 5  
+2017| 1  
+2018| 2  
+2019| 4  
+2020| 1  
+2021| 1  
+2022| 5  
+2023| 4  
+2024| 4  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+REIMER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (141)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Pupil](https://profiles.viictr.org/profile/251652)
+  * [Motor Cortex](https://profiles.viictr.org/profile/256281)
+  * [Neurons](https://profiles.viictr.org/profile/240409)
+  * [Visual Cortex](https://profiles.viictr.org/profile/260831)
+  * [Pyramidal Cells](https://profiles.viictr.org/profile/263053)
+
+[Explore](https://profiles.viictr.org/profile/3010234/198)
+
+_
+
+Co-Authors (16)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+  * [Neyhart, Erin](https://profiles.viictr.org/profile/24845002)
+  * [SINZ, FABIAN](https://profiles.viictr.org/profile/11761036)
+  * [PITKOW, ZACHARY](https://profiles.viictr.org/profile/2619384)
+  * [MCGINLEY, MATTHEW](https://profiles.viictr.org/profile/18830398)
+
+[Explore](https://profiles.viictr.org/profile/3010234/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+  * [MAGEE, JEFFREY](https://profiles.viictr.org/profile/23478949)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [CHANG, EDWARD I-FEI](https://profiles.viictr.org/profile/12583166)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+
+[Explore](https://profiles.viictr.org/profile/3010234/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CAUDILL, MATTHEW](https://profiles.viictr.org/profile/21983716)
+  * [JIANG, XIAOLONG](https://profiles.viictr.org/profile/268555)
+  * [MOU, XIANG](https://profiles.viictr.org/profile/3010256)
+  * [SAMUEL, MELANIE](https://profiles.viictr.org/profile/10133659)
+  * [TOLIAS, ANDREAS](https://profiles.viictr.org/profile/265515)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiUzI97aYVbjGjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [DEWELL, RICHARD](https://profiles.viictr.org/profile/3009865)
+  * [DUMAN, JOSEPH](https://profiles.viictr.org/profile/268900)
+  * [JIANG, XIAOLONG](https://profiles.viictr.org/profile/268555)
+  * [RASBAND, MATTHEW](https://profiles.viictr.org/profile/265764)
+  * [SAGGAU, PETER](https://profiles.viictr.org/profile/268285)
+
+_
+

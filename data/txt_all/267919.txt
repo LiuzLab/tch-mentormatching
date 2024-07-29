@@ -1,0 +1,466 @@
+## CHARLES FOULDS
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=MKQl7WHUQIn2S8Ho5G4%3d&rnd=8d914129-cddb-4d99-8546-390bc2ca8cba)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267919)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267919&cachekey=fec15d94-1b08-4bee-a2c1-6794d3098f24)  
+  
+
+Other Positions| Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Breast Center  
+Division| Breast Cancer Center  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Chen A, Kim BJ, Mitra A, Vollert CT, [Lei JT](https://profiles.viictr.org/profile/6998694), Fandino D, [Anurag M](https://profiles.viictr.org/profile/15619466), Holt MV, Gou X, Pilcher JB, Goetz MP, Northfelt DW, [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Marshall CG, Hyer ML, Papp R, Yin SY, De Angelis C, [Schiff R](https://profiles.viictr.org/profile/269128), [Fuqua SAW](https://profiles.viictr.org/profile/269832), Ma CX, **Foulds CE** , Ellis MJ. PKMYT1 is a Marker of Treatment Response and a Therapeutic Target for CDK4/6 Inhibitor-Resistance in ER+ Breast Cancer. Mol Cancer Ther. 2024 May 23. PMID: [38781103](//www.ncbi.nlm.nih.gov/pubmed/38781103).
+
+Citations:  Fields:
+
+Ant Antineoplastic Agents
+
+  2. Chadchan SB, [Popli P](https://profiles.viictr.org/profile/36746665), [Liao Z](https://profiles.viictr.org/profile/34768175), Andreas E, Dias M, Wang T, Gunderson SJ, Jimenez PT, [Lanza DG](https://profiles.viictr.org/profile/3009682), [Lanz RB](https://profiles.viictr.org/profile/267684), **Foulds CE** , [Monsivais D](https://profiles.viictr.org/profile/3708897), [DeMayo FJ](https://profiles.viictr.org/profile/267848), [Yalamanchili HK](https://profiles.viictr.org/profile/8950236), Jungheim ES, [Heaney JD](https://profiles.viictr.org/profile/268694), [Lydon JP](https://profiles.viictr.org/profile/269737), Moley KH, [O'Malley BW](https://profiles.viictr.org/profile/269511), Kommagani R. A GREB1-steroid receptor feedforward mechanism governs differential GREB1 action in endometrial function and endometriosis. Nat Commun. 2024 Mar 02; 15(1):1947. PMID: [38431630](//www.ncbi.nlm.nih.gov/pubmed/38431630); PMCID: [PMC10908778](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10908778).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:HumansAnimals
+
+  3. Gou X, Kim BJ, [Anurag M](https://profiles.viictr.org/profile/15619466), [Lei JT](https://profiles.viictr.org/profile/6998694), Young MN, Holt MV, Fandino D, Vollert CT, Singh P, Alzubi MA, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Dobrolecki LE, Lewis MT, Li S, **Foulds CE** , Ellis MJ. Kinome Reprogramming Is a Targetable Vulnerability in ESR1 Fusion-Driven Breast Cancer. Cancer Res. 2023 10 02; 83(19):3237-3251. PMID: [37071495](//www.ncbi.nlm.nih.gov/pubmed/37071495); PMCID: [PMC10543968](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10543968).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimals
+
+  4. Gu G, Tian L, [Herzog SK](https://profiles.viictr.org/profile/24845254), Rechoum Y, Gelsomino L, Gao M, Du L, Kim JA, Dustin D, Lo HC, Beyer AR, Edwards DG, Gonzalez T, Tsimelzon A, Huang HJ, Fernandez NM, [Grimm SL](https://profiles.viictr.org/profile/35589914), [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Liu D, Xu J, Alaniz A, Li S, [Mills GB](https://profiles.viictr.org/profile/12582930), [Janku F](https://profiles.viictr.org/profile/12583149), Kittler R, Zhang XH, [Coarfa C](https://profiles.viictr.org/profile/265668), **Foulds CE** , [Symmans WF](https://profiles.viictr.org/profile/12583744), [Fuqua SAW](https://profiles.viictr.org/profile/269832), And? S. Correction to: Hormonal modulation of ESR1 mutant metastasis. Oncogene. 2022 Jan; 41(3):460. PMID: [34782721](//www.ncbi.nlm.nih.gov/pubmed/34782721).
+
+Citations:  Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+  5. Gou X, [Anurag M](https://profiles.viictr.org/profile/15619466), [Lei JT](https://profiles.viictr.org/profile/6998694), Kim BJ, Singh P, Seker S, Fandino D, Han A, Rehman S, Hu J, Korchina V, Doddapaneni H, Dobrolecki LE, Mitsiades N, [Lewis MT](https://profiles.viictr.org/profile/267000), Welm AL, Li S, Lee AV, Robinson DR, **Foulds CE** , Ellis MJ. Transcriptional Reprogramming Differentiates Active from Inactive ESR1 Fusions in Endocrine Therapy-Refractory Metastatic Breast Cancer. Cancer Res. 2021 12 15; 81(24):6259-6272. PMID: [34711608](//www.ncbi.nlm.nih.gov/pubmed/34711608); PMCID: [PMC9234971](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9234971).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  6. Gu G, Tian L, [Herzog SK](https://profiles.viictr.org/profile/24845254), Rechoum Y, Gelsomino L, Gao M, Du L, Kim JA, Dustin D, Lo HC, Beyer AR, Edwards DG, Gonzalez T, Tsimelzon A, Huang HJ, Fernandez NM, [Grimm SL](https://profiles.viictr.org/profile/35589914), [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Liu D, Xu J, Alaniz A, Li S, [Mills GB](https://profiles.viictr.org/profile/12582930), [Janku F](https://profiles.viictr.org/profile/12583149), Kittler R, [Zhang XH](https://profiles.viictr.org/profile/269369), [Coarfa C](https://profiles.viictr.org/profile/265668), **Foulds CE** , [Symmans WF](https://profiles.viictr.org/profile/12583744), [Fuqua SAW](https://profiles.viictr.org/profile/269832), And? S. Hormonal modulation of ESR1 mutant metastasis. Oncogene. 2021 02; 40(5):997-1011. PMID: [33323970](//www.ncbi.nlm.nih.gov/pubmed/33323970); PMCID: [PMC8020875](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8020875).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33323970/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  7. Abderrahman B, [Maximov PY](https://profiles.viictr.org/profile/17440124), Curpan RF, Fanning SW, Hanspal JS, [Fan P](https://profiles.viictr.org/profile/17440128), **Foulds CE** , Chen Y, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Jain A, Xiong R, Greene GL, Tonetti DA, Thatcher GRJ, Jordan VC. Rapid Induction of the Unfolded Protein Response and Apoptosis by Estrogen Mimic TTC-352 for the Treatment of Endocrine-Resistant Breast Cancer. Mol Cancer Ther. 2021 01; 20(1):11-25. PMID: [33177154](//www.ncbi.nlm.nih.gov/pubmed/33177154); PMCID: [PMC7790886](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7790886).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33177154/citedby/) Fields:
+
+Ant Antineoplastic Agents
+
+Translation:HumansCells
+
+  8. Yu X, [Yi P](https://profiles.viictr.org/profile/267727), Hamilton RA, Shen H, Chen M, **Foulds CE** , [Mancini MA](https://profiles.viictr.org/profile/268178), [Ludtke SJ](https://profiles.viictr.org/profile/270167), Wang Z, [O'Malley BW](https://profiles.viictr.org/profile/269511). Structural Insights of Transcriptionally Active, Full-Length Androgen Receptor Coactivator Complexes. Mol Cell. 2020 09 03; 79(5):812-823.e4. PMID: [32668201](//www.ncbi.nlm.nih.gov/pubmed/32668201); PMCID: [PMC7483370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7483370).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32668201/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  9. Dong J, Kaushal A, Katz TA, Jangid RK, Robertson MJ, [Grimm SL](https://profiles.viictr.org/profile/35589914), Ambati CSR, Putluri V, Cox AR, [Kim KH](https://profiles.viictr.org/profile/3009715), May TD, Gallo MR, Moore DD, [Hartig SM](https://profiles.viictr.org/profile/268501), **Foulds CE** , [Putluri N](https://profiles.viictr.org/profile/269361), [Coarfa C](https://profiles.viictr.org/profile/265668), [Walker CL](https://profiles.viictr.org/profile/17873538), Trevi?o LS. Epigenome environment interactions accelerate epigenomic aging and unlock metabolically restricted epigenetic reprogramming in adulthood. Nat Commun. 2020 05 08; 11(1):2316. PMID: [32385268](//www.ncbi.nlm.nih.gov/pubmed/32385268); PMCID: [PMC7210260](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7210260).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32385268/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  10. [Maximov PY](https://profiles.viictr.org/profile/17440124), Abderrahman B, Hawsawi YM, Chen Y, **Foulds CE** , Jain A, [Malovannaya A](https://profiles.viictr.org/profile/3010185), [Fan P](https://profiles.viictr.org/profile/17440128), Curpan RF, Han R, Fanning SW, [Broom BM](https://profiles.viictr.org/profile/12583825), Quintana Rincon DM, Greenland JA, Greene GL, Jordan VC. The Structure-Function Relationship of Angular Estrogens and Estrogen Receptor Alpha to Initiate Estrogen-Induced Apoptosis in Breast Cancer Cells. Mol Pharmacol. 2020 07; 98(1):24-37. PMID: [32362585](//www.ncbi.nlm.nih.gov/pubmed/32362585); PMCID: [PMC7294906](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7294906).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32362585/citedby/) Fields:
+
+Mol Molecular BiologyPha Pharmacology
+
+Translation:HumansCells
+
+  11. [Zheng ZY](https://profiles.viictr.org/profile/3010160), [Anurag M](https://profiles.viictr.org/profile/15619466), [Lei JT](https://profiles.viictr.org/profile/6998694), Cao J, Singh P, Peng J, Kennedy H, Nguyen NC, Chen Y, Lavere P, Li J, Du XH, Cakar B, Song W, Kim BJ, Shi J, Seker S, Chan DW, Zhao GQ, Chen X, Banks KC, Lanman RB, Shafaee MN, [Zhang XH](https://profiles.viictr.org/profile/269369), Vasaikar S, Zhang B, [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Li W, **Foulds CE** , Ellis MJ, Chang EC. Neurofibromin Is an Estrogen Receptor-a Transcriptional Co-repressor in Breast Cancer. Cancer Cell. 2020 03 16; 37(3):387-402.e7. PMID: [32142667](//www.ncbi.nlm.nih.gov/pubmed/32142667); PMCID: [PMC7286719](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7286719).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32142667/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  12. Katz TA, [Grimm SL](https://profiles.viictr.org/profile/35589914), Kaushal A, Dong J, Jangid RK, Bertocchio JP, [Guan Y](https://profiles.viictr.org/profile/24845231), Robertson MJ, [Cabrera RM](https://profiles.viictr.org/profile/23478771), [Finegold MJ](https://profiles.viictr.org/profile/269596), **Foulds CE** , [Coarfa C](https://profiles.viictr.org/profile/265668), [Walker CL](https://profiles.viictr.org/profile/17873538), Trevi?o LS, Gait?n AV. Hepatic Tumor Formation in Adult Mice Developmentally Exposed to Organotin. Environ Health Perspect. 2020 01; 128(1):17010. PMID: [31939706](//www.ncbi.nlm.nih.gov/pubmed/31939706); PMCID: [PMC7015627](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7015627).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31939706/citedby/) Fields:
+
+Env Environmental Health
+
+Translation:HumansAnimals
+
+  13. Stossi F, Dandekar RD, Johnson H, Lavere P, **Foulds CE** , [Mancini MG](https://profiles.viictr.org/profile/268178), Mancini MA. Tributyltin chloride (TBT) induces RXRA down-regulation and lipid accumulation in human liver cells. PLoS One. 2019; 14(11):e0224405. PMID: [31710612](//www.ncbi.nlm.nih.gov/pubmed/31710612); PMCID: [PMC6844554](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6844554).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31710612/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  14. Ochsner SA, Abraham D, Martin K, Ding W, McOwiti A, Kankanamge W, Wang Z, Andreano K, Hamilton RA, Chen Y, Hamilton A, Gantner ML, Dehart M, Qu S, [Hilsenbeck SG](https://profiles.viictr.org/profile/268374), Becnel LB, Bridges D, Ma'ayan A, Huss JM, Stossi F, **Foulds CE** , Kralli A, [McDonnell DP](https://profiles.viictr.org/profile/268070), [McKenna NJ](https://profiles.viictr.org/profile/268182). The Signaling Pathways Project, an integrated 'omics knowledgebase for mammalian cellular signaling pathways. Sci Data. 2019 10 31; 6(1):252. PMID: [31672983](//www.ncbi.nlm.nih.gov/pubmed/31672983); PMCID: [PMC6823428](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6823428).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31672983/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  15. [Cheng D](https://profiles.viictr.org/profile/12583015), Vemulapalli V, [Lu Y](https://profiles.viictr.org/profile/12582781), Shen J, Aoyagi S, Fry CJ, Yang Y, **Foulds CE** , Stossi F, [Mancini MA](https://profiles.viictr.org/profile/268178), [O'Malley BW](https://profiles.viictr.org/profile/269511), [Walker CL](https://profiles.viictr.org/profile/17873538), Boyer TG, [Bedford MT](https://profiles.viictr.org/profile/12582989), Trevi?o LS. CARM1 methylates MED12 to regulate its RNA-binding ability. Life Sci Alliance. 2018 Oct; 1(5):e201800117. PMID: [30456381](//www.ncbi.nlm.nih.gov/pubmed/30456381); PMCID: [PMC6238599](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6238599).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30456381/citedby/) Fields:
+
+Bio BiochemistryCel Cell BiologyMol Molecular Biology
+
+  16. **Foulds CE**. Disrupting a negative feedback loop drives endocrine therapy-resistant breast cancer. Proc Natl Acad Sci U S A. 2018 08 14; 115(33):8236-8238. PMID: [30082387](//www.ncbi.nlm.nih.gov/pubmed/30082387); PMCID: [PMC6099889](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6099889).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30082387/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  17. [Panigrahi AK](https://profiles.viictr.org/profile/265628), **Foulds CE** , [Lanz RB](https://profiles.viictr.org/profile/267684), Hamilton RA, [Yi P](https://profiles.viictr.org/profile/267727), [Lonard DM](https://profiles.viictr.org/profile/269800), [Tsai MJ](https://profiles.viictr.org/profile/267651), [Tsai SY](https://profiles.viictr.org/profile/266552), [O'Malley BW](https://profiles.viictr.org/profile/269511). SRC-3 Coactivator Governs Dynamic Estrogen-Induced Chromatin Looping Interactions during Transcription. Mol Cell. 2018 05 17; 70(4):679-694.e7. PMID: [29775582](//www.ncbi.nlm.nih.gov/pubmed/29775582); PMCID: [PMC5966282](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5966282).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29775582/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  18. Gates LA, Gu G, Chen Y, Rohira AD, [Lei JT](https://profiles.viictr.org/profile/6998694), Hamilton RA, Yu Y, [Lonard DM](https://profiles.viictr.org/profile/269800), [Wang J](https://profiles.viictr.org/profile/266173), Wang SP, Edwards DG, Lavere PF, Shao J, [Yi P](https://profiles.viictr.org/profile/267727), Jain A, Jung SY, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Li S, Shao J, Roeder RG, Ellis MJ, Qin J, [Fuqua SAW](https://profiles.viictr.org/profile/269832), [O'Malley BW](https://profiles.viictr.org/profile/269511), **Foulds CE**. Proteomic profiling identifies key coactivators utilized by mutant ERa proteins as potential new therapeutic targets. Oncogene. 2018 08; 37(33):4581-4598. PMID: [29748621](//www.ncbi.nlm.nih.gov/pubmed/29748621); PMCID: [PMC6095836](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6095836).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29748621/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansCells
+
+  19. [Dasgupta S](https://profiles.viictr.org/profile/3010259), Rajapakshe K, Zhu B, [Nikolai BC](https://profiles.viictr.org/profile/1826673), [Yi P](https://profiles.viictr.org/profile/267727), [Putluri N](https://profiles.viictr.org/profile/269361), [Choi JM](https://profiles.viictr.org/profile/3010074), Jung SY, [Coarfa C](https://profiles.viictr.org/profile/265668), [Westbrook TF](https://profiles.viictr.org/profile/267742), [Zhang XH](https://profiles.viictr.org/profile/269369), **Foulds CE** , [Tsai SY](https://profiles.viictr.org/profile/266552), [Tsai MJ](https://profiles.viictr.org/profile/267651), [O'Malley BW](https://profiles.viictr.org/profile/269511). Metabolic enzyme PFKFB4 activates transcriptional coactivator SRC-3 to drive breast cancer. Nature. 2018 04; 556(7700):249-254. PMID: [29615789](//www.ncbi.nlm.nih.gov/pubmed/29615789); PMCID: [PMC5895503](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5895503).
+
+Citations:
+[72](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29615789/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  20. Gates LA, **Foulds CE** , [O'Malley BW](https://profiles.viictr.org/profile/269511). Histone Marks in the 'Driver's Seat': Functional Roles in Steering the Transcription Cycle. Trends Biochem Sci. 2017 12; 42(12):977-989. PMID: [29122461](//www.ncbi.nlm.nih.gov/pubmed/29122461); PMCID: [PMC5701853](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5701853).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29122461/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  21. [Yi P](https://profiles.viictr.org/profile/267727), Wang Z, [Feng Q](https://profiles.viictr.org/profile/267850), [Chou CK](https://profiles.viictr.org/profile/12583804), Pintilie GD, Shen H, **Foulds CE** , Fan G, [Serysheva I](https://profiles.viictr.org/profile/266963), [Ludtke SJ](https://profiles.viictr.org/profile/270167), Schmid MF, [Hung MC](https://profiles.viictr.org/profile/12582486), Chiu W, [O'Malley BW](https://profiles.viictr.org/profile/269511). Structural and Functional Impacts of ER Coactivator Sequential Recruitment. Mol Cell. 2017 Sep 07; 67(5):733-743.e4. PMID: [28844863](//www.ncbi.nlm.nih.gov/pubmed/28844863); PMCID: [PMC5657569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5657569).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28844863/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  22. Gates LA, Shi J, Rohira AD, Feng Q, Zhu B, [Bedford MT](https://profiles.viictr.org/profile/12582989), Sagum CA, Jung SY, Qin J, [Tsai MJ](https://profiles.viictr.org/profile/267651), [Tsai SY](https://profiles.viictr.org/profile/266552), Li W, **Foulds CE** , [O'Malley BW](https://profiles.viictr.org/profile/269511). Acetylation on histone H3 lysine 9 mediates a switch from transcription initiation to elongation. J Biol Chem. 2017 09 01; 292(35):14456-14472. PMID: [28717009](//www.ncbi.nlm.nih.gov/pubmed/28717009); PMCID: [PMC5582839](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5582839).
+
+Citations:
+[72](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28717009/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  23. **Foulds CE** , York B, [Walker CL](https://profiles.viictr.org/profile/17873538), Trevi?o LS. Endocrine-disrupting chemicals and fatty liver disease. Nat Rev Endocrinol. 2017 08; 13(8):445-457. PMID: [28524171](//www.ncbi.nlm.nih.gov/pubmed/28524171); PMCID: [PMC5657429](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5657429).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28524171/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansAnimals
+
+  24. Wang Q, Trevino LS, Wong RL, Medvedovic M, Chen J, Ho SM, Shen J, **Foulds CE** , [Coarfa C](https://profiles.viictr.org/profile/265668), [O'Malley BW](https://profiles.viictr.org/profile/269511), Shilatifard A, [Walker CL](https://profiles.viictr.org/profile/17873538). Reprogramming of the Epigenome by MLL1 Links Early-Life Environmental Exposures to Prostate Cancer Risk. Mol Endocrinol. 2016 Aug; 30(8):856-71. PMID: [27219490](//www.ncbi.nlm.nih.gov/pubmed/27219490); PMCID: [PMC4965842](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4965842).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27219490/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  25. **Foulds CE** , [Panigrahi AK](https://profiles.viictr.org/profile/265628), [Coarfa C](https://profiles.viictr.org/profile/265668), [Lanz RB](https://profiles.viictr.org/profile/267684), [O'Malley BW](https://profiles.viictr.org/profile/269511). Long Noncoding RNAs as Targets and Regulators of Nuclear Receptors. Curr Top Microbiol Immunol. 2016; 394:143-76. PMID: [26362934](//www.ncbi.nlm.nih.gov/pubmed/26362934).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26362934/citedby/) Fields:
+
+All Allergy and ImmunologyMic Microbiology
+
+Translation:HumansCells
+
+  26. [Han SJ](https://profiles.viictr.org/profile/267027), Begum K, **Foulds CE** , Hamilton RA, Bailey S, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Chan D, Qin J, [O'Malley BW](https://profiles.viictr.org/profile/269511). The Dual Estrogen Receptor a Inhibitory Effects of the Tissue-Selective Estrogen Complex for Endometrial and Breast Safety. Mol Pharmacol. 2016 Jan; 89(1):14-26. PMID: [26487511](//www.ncbi.nlm.nih.gov/pubmed/26487511); PMCID: [PMC4702103](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4702103).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26487511/citedby/) Fields:
+
+Mol Molecular BiologyPha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  27. Fleet T, Zhang B, Lin F, Zhu B, [Dasgupta S](https://profiles.viictr.org/profile/3010259), Stashi E, Tackett B, [Thevananther S](https://profiles.viictr.org/profile/269571), Rajapakshe KI, Gonzales N, Dean A, [Mao J](https://profiles.viictr.org/profile/269646), Timchenko N, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Qin J, [Coarfa C](https://profiles.viictr.org/profile/265668), [DeMayo F](https://profiles.viictr.org/profile/267848), [Dacso CC](https://profiles.viictr.org/profile/266413), **Foulds CE** , [O'Malley BW](https://profiles.viictr.org/profile/269511), York B. SRC-2 orchestrates polygenic inputs for fine-tuning glucose homeostasis. Proc Natl Acad Sci U S A. 2015 Nov 03; 112(44):E6068-77. PMID: [26487680](//www.ncbi.nlm.nih.gov/pubmed/26487680); PMCID: [PMC4640775](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4640775).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26487680/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  28. [Yi P](https://profiles.viictr.org/profile/267727), [Feng Q](https://profiles.viictr.org/profile/267850), **Foulds CE** , [Lanz RB](https://profiles.viictr.org/profile/267684), [O'Malley BW](https://profiles.viictr.org/profile/269511), Wang Z, Pintilie GD, [Ludtke SJ](https://profiles.viictr.org/profile/270167), Schmid MF, Chiu W. Structure of a biologically active estrogen receptor-coactivator complex on DNA. Mol Cell. 2015 Mar 19; 57(6):1047-1058. PMID: [25728767](//www.ncbi.nlm.nih.gov/pubmed/25728767); PMCID: [PMC4369429](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4369429).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25728767/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  29. **Foulds CE** , [Feng Q](https://profiles.viictr.org/profile/267850), Ding C, Bailey S, Hunsaker TL, [Malovannaya A](https://profiles.viictr.org/profile/3010185), Hamilton RA, Gates LA, Zhang Z, Li C, Chan D, Bajaj A, Callaway CG, Edwards DP, [Lonard DM](https://profiles.viictr.org/profile/269800), [Tsai SY](https://profiles.viictr.org/profile/266552), Tsai MJ, Qin J, [O'Malley BW](https://profiles.viictr.org/profile/269511). Proteomic analysis of coregulators bound to ERa on DNA and nucleosomes reveals coregulator dynamics. Mol Cell. 2013 Jul 25; 51(2):185-99. PMID: [23850489](//www.ncbi.nlm.nih.gov/pubmed/23850489); PMCID: [PMC3900250](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3900250).
+
+Citations:
+[73](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23850489/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  30. Redfern AD, Colley SM, Beveridge DJ, Ikeda N, Epis MR, Li X, **Foulds CE** , Stuart LM, Barker A, Russell VJ, Ramsay K, Kobelke SJ, Li X, Hatchell EC, Payne C, Giles KM, Messineo A, Gatignol A, [Lanz RB](https://profiles.viictr.org/profile/267684), [O'Malley BW](https://profiles.viictr.org/profile/269511), Leedman PJ. RNA-induced silencing complex (RISC) Proteins PACT, TRBP, and Dicer are SRA binding nuclear receptor coregulators. Proc Natl Acad Sci U S A. 2013 Apr 16; 110(16):6536-41. PMID: [23550157](//www.ncbi.nlm.nih.gov/pubmed/23550157); PMCID: [PMC3631673](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3631673).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23550157/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  31. Long W, **Foulds CE** , Qin J, Liu J, Ding C, [Lonard DM](https://profiles.viictr.org/profile/269800), Solis LM, [Wistuba II](https://profiles.viictr.org/profile/12583798), [Tsai SY](https://profiles.viictr.org/profile/266552), [Tsai MJ](https://profiles.viictr.org/profile/267651), [O'Malley BW](https://profiles.viictr.org/profile/269511). ERK3 signals through SRC-3 coactivator to promote human lung cancer cell invasion. J Clin Invest. 2012 May; 122(5):1869-80. PMID: [22505454](//www.ncbi.nlm.nih.gov/pubmed/22505454); PMCID: [PMC3336992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3336992).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22505454/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  32. **Foulds CE** , Tsimelzon A, Long W, Le A, [Tsai SY](https://profiles.viictr.org/profile/266552), Tsai MJ, [O'Malley BW](https://profiles.viictr.org/profile/269511). Research resource: expression profiling reveals unexpected targets and functions of the human steroid receptor RNA activator (SRA) gene. Mol Endocrinol. 2010 May; 24(5):1090-105. PMID: [20219889](//www.ncbi.nlm.nih.gov/pubmed/20219889); PMCID: [PMC2870939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2870939).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20219889/citedby/) Fields:
+
+End EndocrinologyMol Molecular Biology
+
+Translation:HumansCells
+
+  33. **Foulds CE** , Nelson ML, Blaszczak AG, Graves BJ. Ras/mitogen-activated protein kinase signaling activates Ets-1 and Ets-2 by CBP/p300 recruitment. Mol Cell Biol. 2004 Dec; 24(24):10954-64. PMID: [15572696](//www.ncbi.nlm.nih.gov/pubmed/15572696); PMCID: [PMC533975](//www.ncbi.nlm.nih.gov/pmc/articles/PMC533975).
+
+Citations:
+[101](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15572696/citedby/)
+Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 33 publications over 14 distinct years, with a maximum of
+7 publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,14,0,14,29,0,43,29,57,71,29,100,14,14,14,29&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 1  
+2010| 1  
+2012| 1  
+2013| 2  
+2015| 3  
+2016| 2  
+2017| 4  
+2018| 5  
+2019| 2  
+2020| 7  
+2021| 1  
+2022| 1  
+2023| 1  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+FOULDS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (221)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Estrogen Receptor alpha](https://profiles.viictr.org/profile/265080)
+  * [Nuclear Receptor Coactivator 3](https://profiles.viictr.org/profile/246619)
+  * [Endocrine Disruptors](https://profiles.viictr.org/profile/258503)
+  * [Breast Neoplasms](https://profiles.viictr.org/profile/256408)
+  * [E1A-Associated p300 Protein](https://profiles.viictr.org/profile/246600)
+
+[Explore](https://profiles.viictr.org/profile/267919/198)
+
+_
+
+Co-Authors (62)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [YI, PING](https://profiles.viictr.org/profile/267727)
+  * [MALOVANNAYA, ANNA](https://profiles.viictr.org/profile/3010185)
+  * [COARFA, CRISTIAN](https://profiles.viictr.org/profile/265668)
+  * [WALKER, CHERYL](https://profiles.viictr.org/profile/17873538)
+
+[Explore](https://profiles.viictr.org/profile/267919/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [O'MALLEY, BERT](https://profiles.viictr.org/profile/269511)
+  * [CALIN, GEORGE A](https://profiles.viictr.org/profile/12583509)
+  * [HUNG, MIEN-CHIE](https://profiles.viictr.org/profile/12582486)
+  * [MILLS, GORDON B](https://profiles.viictr.org/profile/12582930)
+  * [FUQUA, SUZANNE](https://profiles.viictr.org/profile/269832)
+
+[Explore](https://profiles.viictr.org/profile/267919/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [HO, SHIUH-RONG](https://profiles.viictr.org/profile/3009889)
+  * [LIN, WEEI-CHIN](https://profiles.viictr.org/profile/266112)
+  * [MAKAWITA, SHALINI](https://profiles.viictr.org/profile/35241224)
+  * [MICHAEL, BINU](https://profiles.viictr.org/profile/268573)
+  * [SABICHI, ANITA](https://profiles.viictr.org/profile/269948)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [HARTIG, SEAN](https://profiles.viictr.org/profile/268501)
+  * [MEANS, ANTHONY](https://profiles.viictr.org/profile/269994)
+  * [XIN, LI](https://profiles.viictr.org/profile/265825)
+  * [YANG, FENG](https://profiles.viictr.org/profile/265773)
+  * [YI, PING](https://profiles.viictr.org/profile/267727)
+
+_
+

@@ -1,0 +1,1863 @@
+## ALEJANDRO ARROLIGA
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 2401 S 31st St  
+Temple, TX 76508  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F6c162TJJJn6CK7%2f8nTOI7ONBxOJmmsHFAk%3d&rnd=689c1646-1c68-47bc-a088-c69424acc2d0)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=35747113)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Danesh V](https://profiles.viictr.org/profile/39702883), Tellson A, Boehm LM, Stevens AB, Ogola GO, Shrestha A, Cho J, Jimenez EJ, **Arroliga AC**. Exploring the Association of Metabolic Syndrome with In-Hospital Survival of Older Patients Hospitalized with COVID-19: Beyond Chronological Age. J Gen Intern Med. 2024 Apr 08. PMID: [38587729](//www.ncbi.nlm.nih.gov/pubmed/38587729).
+
+Citations:  Fields:
+
+Int Internal Medicine
+
+  2. Matthay MA, Arabi Y, **Arroliga AC** , Bernard G, Bersten AD, Brochard LJ, Calfee CS, Combes A, Daniel BM, Ferguson ND, Gong MN, Gotts JE, Herridge MS, Laffey JG, Liu KD, Machado FR, Martin TR, McAuley DF, Mercat A, Moss M, Mularski RA, Pesenti A, Qiu H, Ramakrishnan N, Ranieri VM, Riviello ED, Rubin E, Slutsky AS, Thompson BT, Twagirumugabe T, Ware LB, Wick KD. A New Global Definition of Acute Respiratory Distress Syndrome. Am J Respir Crit Care Med. 2024 Jan 01; 209(1):37-47. PMID: [37487152](//www.ncbi.nlm.nih.gov/pubmed/37487152); PMCID: [PMC10870872](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10870872).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37487152/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  3. White BAA, Fleshman JW, Picchioni A, Hammonds KP, Gentry L, Bird ET, **Arroliga AC** , Papaconstantinou HT. Using an Educational Intervention to Map our Surgical Teams' Function, Emotional Intelligence, Communication and Conflict Styles. J Surg Educ. 2023 09; 80(9):1277-1286. PMID: [37391307](//www.ncbi.nlm.nih.gov/pubmed/37391307).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  4. Liou AA, Anderson B, Whitehurst C, Roman S, Beltran C, Acton T, Foster J, Nwokem O, Mogri I, Hammonds K, White HD, **Arroliga AC** , [Ghamande S](https://profiles.viictr.org/profile/37888855). The role of the RAPID score in surgical planning for empyema. J Thorac Dis. 2023 Mar 31; 15(3):985-993. PMID: [37065558](//www.ncbi.nlm.nih.gov/pubmed/37065558); PMCID: [PMC10089882](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10089882).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37065558/citedby/)
+
+  5. White HD, [Danesh V](https://profiles.viictr.org/profile/39702883), Ogola GO, Jimenez EJ, **Arroliga AC**. Quantifying oxygen supply and demand during the COVID-19 pandemic: An integrated health system perspective. Intensive Crit Care Nurs. 2023 04; 75:103374. PMID: [36528459](//www.ncbi.nlm.nih.gov/pubmed/36528459); PMCID: [PMC9742205](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9742205).
+
+Citations:  Fields:
+
+Cri Critical CareNur Nursing
+
+Translation:HumansPHPublic Health
+
+  6. White BAA, [Regner J](https://profiles.viictr.org/profile/41415748), **Arroliga AC**. Personality inventories enable dialogue, awareness, and growth for emotionally intelligent leadership. Proc (Bayl Univ Med Cent). 2023; 36(1):59-60. PMID: [36578628](//www.ncbi.nlm.nih.gov/pubmed/36578628); PMCID: [PMC9762820](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9762820).
+
+Citations:
+
+  7. [Danesh V](https://profiles.viictr.org/profile/39702883), **Arroliga AC** , Bourgeois JA, Boehm LM, McNeal MJ, Widmer AJ, McNeal TM, [Kesler SR](https://profiles.viictr.org/profile/17440101). Symptom Clusters Seen in Adult COVID-19 Recovery Clinic Care Seekers. J Gen Intern Med. 2023 02; 38(2):442-449. PMID: [36376627](//www.ncbi.nlm.nih.gov/pubmed/36376627); PMCID: [PMC9663188](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9663188).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36376627/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  8. [Danesh V](https://profiles.viictr.org/profile/39702883), White HD, Tecson KM, Widmer RJ, Priest EL, Modrykamien A, Ogola GO, Liao IC, Bomar J, Vazquez A, Jimenez EJ, **Arroliga AC**. Daily Oxygenation Support for Patients Hospitalized With SARS-CoV-2 in an Integrated Health System. Respir Care. 2023 04; 68(4):497-504. PMID: [36220192](//www.ncbi.nlm.nih.gov/pubmed/36220192); PMCID: [PMC10173121](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10173121).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCells
+
+  9. [Danesh V](https://profiles.viictr.org/profile/39702883), Boehm LM, Cuevas H, **Arroliga AC** , Stevens AB. Peer-delivered motivational interviewing intervention for post-intensive care syndrome: A pilot of peer mentor training feasibility. PM R. 2023 06; 15(6):805-807. PMID: [35909367](//www.ncbi.nlm.nih.gov/pubmed/35909367); PMCID: [PMC9889566](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9889566).
+
+Citations:
+
+  10. Adair White BA, Picchioni A, Gentry L, Malek AJ, Mrdutt MM, Fleshman JW, Bird ET, **Arroliga AC** , Papaconstantinou HT. Closing the educational gap in surgery: Teaching team communication and conflict management. Am J Surg. 2022 Dec; 224(6):1488-1491. PMID: [36123187](//www.ncbi.nlm.nih.gov/pubmed/36123187).
+
+Citations:
+
+  11. Russell DW, Casey JD, Gibbs KW, [Ghamande S](https://profiles.viictr.org/profile/37888855), Dargin JM, Vonderhaar DJ, Joffe AM, Khan A, Prekker ME, Brewer JM, Dutta S, Landsperger JS, White HD, Robison SW, Wozniak JM, Stempek S, Barnes CR, Krol OF, **Arroliga AC** , [Lat T](https://profiles.viictr.org/profile/38068263), Gandotra S, Gulati S, Bentov I, Walters AM, Dischert KM, Nonas S, Driver BE, Wang L, Lindsell CJ, Self WH, Rice TW, Janz DR, Semler MW, PREPARE II Investigators and the Pragmatic Critical Care Research Group. Effect of Fluid Bolus Administration on Cardiovascular Collapse Among Critically Ill Patients Undergoing Tracheal Intubation: A Randomized Clinical Trial. JAMA. 2022 07 19; 328(3):270-279. PMID: [35707974](//www.ncbi.nlm.nih.gov/pubmed/35707974); PMCID: [PMC9204618](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9204618).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35707974/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  12. Brust KB, Papineni V, Columbus C, **Arroliga AC**. COVID-19-from emerging global threat to ongoing pandemic crisis. Proc (Bayl Univ Med Cent). 2022; 35(4):468-475. PMID: [35754606](//www.ncbi.nlm.nih.gov/pubmed/35754606); PMCID: [PMC9196727](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9196727).
+
+Citations:
+
+  13. [Ghamande S](https://profiles.viictr.org/profile/37888855), Shaver C, Murthy K, Raiyani C, White HD, [Lat T](https://profiles.viictr.org/profile/38068263), **Arroliga AC** , Wyatt D, Talbot HK, Martin ET, Monto AS, Zimmerman RK, Middleton DB, Silveira FP, Ferdinands JM, Patel MM, [Gaglani M](https://profiles.viictr.org/profile/45302198). Vaccine Effectiveness Against Acute Respiratory Illness Hospitalizations for Influenza-Associated Pneumonia During the 2015-2016 to 2017-2018 Seasons: US Hospitalized Adult Influenza Vaccine Effectiveness Network (HAIVEN). Clin Infect Dis. 2022 04 28; 74(8):1329-1337. PMID: [34320171](//www.ncbi.nlm.nih.gov/pubmed/34320171); PMCID: [PMC9049268](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9049268).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsPHPublic Health
+
+  14. [Danesh V](https://profiles.viictr.org/profile/39702883), Boehm LM, Eaton TL, **Arroliga AC** , Mayer KP, [Kesler SR](https://profiles.viictr.org/profile/17440101), Bakhru RN, Baram M, Bellinghausen AL, Biehl M, Dangayach NS, Goldstein NM, Hoehn KS, Islam M, Jagpal S, Johnson AB, Jolley SE, Kloos JA, Mahoney EJ, Maley JH, Martin SF, McSparron JI, Mery M, Saft H, Santhosh L, Schwab K, Villalba D, Sevin CM, Montgomery AA. Characteristics of Post-ICU and Post-COVID Recovery Clinics in 29 U.S. Health Systems. Crit Care Explor. 2022 Mar; 4(3):e0658. PMID: [35291316](//www.ncbi.nlm.nih.gov/pubmed/35291316); PMCID: [PMC8913088](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8913088).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35291316/citedby/)
+
+  15. Squiers JJ, [Ghamande S](https://profiles.viictr.org/profile/37888855), Qiu T, Robinson C, Bertschy C, **Arroliga AC** , Peters W. Universal preprocedural SARS-CoV-2 testing protocol within a large healthcare system. Br J Surg. 2021 10 23; 108(10):e326-e327. PMID: [34370820](//www.ncbi.nlm.nih.gov/pubmed/34370820).
+
+Citations:  Fields:
+
+Gen General Surgery
+
+Translation:HumansPHPublic Health
+
+  16. [Mutnal MB](https://profiles.viictr.org/profile/45106439), Johnson S, Mohamed N, Abddelgader R, Morales L, Volz M, Walker K, **Arroliga AC** , Rao A. Surveillance genome sequencing reveals multiple SARS-CoV-2 variants circulating in central Texas, USA, with a predominance of delta variant and review of vaccine breakthrough cases. J Med Virol. 2022 03; 94(3):937-944. PMID: [34596257](//www.ncbi.nlm.nih.gov/pubmed/34596257); PMCID: [PMC8661622](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8661622).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34596257/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCellsPHPublic Health
+
+  17. [Danesh V](https://profiles.viictr.org/profile/39702883), **Arroliga AC** , Bourgeois JA, Widmer AJ, McNeal MJ, McNeal TM. Post-acute sequelae of COVID-19 in adults referred to COVID recovery clinic services in an integrated health system in Texas. Proc (Bayl Univ Med Cent). 2021; 34(6):645-648. PMID: [34732978](//www.ncbi.nlm.nih.gov/pubmed/34732978); PMCID: [PMC8545149](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8545149).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34732978/citedby/)
+
+  18. Arroliga ME, Dhanani K, **Arroliga AC** , Huddleston PS, Trahan J, Aguilar T, Weldon D. Allergic reactions and adverse events associated with administration of mRNA-based vaccines. A health-care system experience. Allergy Asthma Proc. 2021 Sep 01; 42(5):395-399. PMID: [34474708](//www.ncbi.nlm.nih.gov/pubmed/34474708).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34474708/citedby/) Fields:
+
+All Allergy and ImmunologyPul Pulmonary Medicine
+
+Translation:Humans
+
+  19. Dewsnap MA, **Arroliga AC** , Adair-White BA. The lived experience of medical training and emotional intelligence. Proc (Bayl Univ Med Cent). 2021; 34(6):744-747. PMID: [34744303](//www.ncbi.nlm.nih.gov/pubmed/34744303); PMCID: [PMC8548072](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8548072).
+
+Citations:
+
+  20. Tatham KC, Ferguson ND, Zhou Q, Hand L, Austin P, Taneja R, **Arroliga AC** , Sanchez JF, Jimenez EJ, Staub BP, Kho ME, Mullaly A, Arabi YM, Meade MO, Dom?nguez-Cherit JG. Evolution of practice patterns in the management of acute respiratory distress syndrome: A secondary analysis of two successive randomized controlled trials. J Crit Care. 2021 Oct; 65:274-281. PMID: [34280657](//www.ncbi.nlm.nih.gov/pubmed/34280657); PMCID: [PMC8255112](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8255112).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34280657/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  21. Howell AC, Havens L, Swinford W, **Arroliga AC**. Effectiveness of personal protective equipment-Yes, the buck and virus can stop here. Infect Control Hosp Epidemiol. 2022 05; 43(5):683-684. PMID: [33602377](//www.ncbi.nlm.nih.gov/pubmed/33602377); PMCID: [PMC8632444](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8632444).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33602377/citedby/) Fields:
+
+Com Communicable DiseasesEpi EpidemiologyHos HospitalsNur Nursing
+
+Translation:HumansPHPublic Health
+
+  22. [Danesh V](https://profiles.viictr.org/profile/39702883), Hecht J, Hao R, Boehm L, Jimenez EJ, **Arroliga AC** , Sanghi S, Stevens A. Peer Support for Post Intensive Care Syndrome Self-Management (PS-PICS): Study protocol for peer mentor training. J Adv Nurs. 2021 Apr; 77(4):2092-2101. PMID: [33432618](//www.ncbi.nlm.nih.gov/pubmed/33432618); PMCID: [PMC8138945](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8138945).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33432618/citedby/) Fields:
+
+Nur Nursing
+
+Translation:Humans
+
+  23. McGraw M, White HD, Zolfaghari K, Hochhalter A, **Arroliga A** , [Boethel C](https://profiles.viictr.org/profile/41712671). Corticosteroid Dosing and Glucose Levels in COPD Patients Are Not Associated with Increased Readmissions. Chronic Obstr Pulm Dis. 2021 Jan; 8(1). PMID: [33238088](//www.ncbi.nlm.nih.gov/pubmed/33238088); PMCID: [PMC8047620](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8047620).
+
+Citations:
+
+  24. White BAA, White HD, Bledsoe C, Hendricks R, **Arroliga AC**. Conflict Management Education in the Intensive Care Unit. Am J Crit Care. 2020 11 01; 29(6):e135-e138. PMID: [33130869](//www.ncbi.nlm.nih.gov/pubmed/33130869).
+
+Citations:  Fields:
+
+Cri Critical CareNur Nursing
+
+Translation:Humans
+
+  25. Nguyen NN, [Mutnal MB](https://profiles.viictr.org/profile/45106439), Gomez RR, Pham HN, Nguyen LT, Koss W, Rao A, **Arroliga AC** , Wang L, Wang D, Hua Y, Powell PR, Chen L, McCormack CC, Linz WJ, Mohammad AA. Correlation of ELISA method with three other automated serological tests for the detection of anti-SARS-CoV-2 antibodies. PLoS One. 2020; 15(10):e0240076. PMID: [33022019](//www.ncbi.nlm.nih.gov/pubmed/33022019); PMCID: [PMC7537879](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7537879).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33022019/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCellsPHPublic Health
+
+  26. [Danesh V](https://profiles.viictr.org/profile/39702883), **Arroliga A**. Hospital characteristics and COVID-19: Hidden figures in COVID-19 risk models. Heart Lung. 2020 Nov - Dec; 49(6):873-874. PMID: [32988647](//www.ncbi.nlm.nih.gov/pubmed/32988647); PMCID: [PMC7500893](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7500893).
+
+Citations:  Fields:
+
+Car CardiologyCri Critical CarePul Pulmonary Medicine
+
+  27. White BAA, Johnson J, **Arroliga AC** , Couchman G. Ad hoc teams and telemedicine during COVID-19. Proc (Bayl Univ Med Cent). 2020 Sep 08; 33(4):696-698. PMID: [33100575](//www.ncbi.nlm.nih.gov/pubmed/33100575); PMCID: [PMC7549959](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7549959).
+
+Citations:
+
+  28. Aslam W, Mathew NE, Brito V, Jones S, **Arroliga AC** , [Ghamande S](https://profiles.viictr.org/profile/37888855), Shaver C. Impact of Inappropriate Antibiotic Therapy in Vancomycin-Resistant Enterococcus Bacteremia. Am J Ther. 2020 Sep 04; 28(4):e388-e396. PMID: [32909964](//www.ncbi.nlm.nih.gov/pubmed/32909964).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32909964/citedby/) Fields:
+
+The Therapeutics
+
+Translation:HumansCells
+
+  29. Shrank WH, Caveney B, Miller S, Medows RM, **Arroliga A** , Doga B, Ban K, Muldoon S, Seiden JM, Tong I, Chaguturu S, Wohlgemuth JG. A Simple Algorithm for Return to Workplace Employer Antibody Testing. Popul Health Manag. 2020 10; 23(5):346-349. PMID: [32857015](//www.ncbi.nlm.nih.gov/pubmed/32857015).
+
+Citations:  Fields:
+
+Hea Health ServicesPub Public Health
+
+Translation:HumansPHPublic Health
+
+  30. [Mutnal MB](https://profiles.viictr.org/profile/45106439), **Arroliga AC** , Walker K, Mohammad A, Brigmon MM, Beaver RM, [Midturi JK](https://profiles.viictr.org/profile/40068938), Rao A. Early trends for SARS-CoV-2 infection in central and north Texas and impact on other circulating respiratory viruses. J Med Virol. 2020 10; 92(10):2130-2138. PMID: [32410236](//www.ncbi.nlm.nih.gov/pubmed/32410236); PMCID: [PMC7273053](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7273053).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32410236/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCellsPHPublic Health
+
+  31. Hayek AJ, Scott V, Yau P, Zolfaghari K, Goldwater M, Almquist J, **Arroliga AC** , [Ghamande S](https://profiles.viictr.org/profile/37888855). Bedside risk stratification for mortality in patients with acute respiratory failure treated with noninvasive ventilation. Proc (Bayl Univ Med Cent). 2020 Apr; 33(2):172-177. PMID: [32313455](//www.ncbi.nlm.nih.gov/pubmed/32313455); PMCID: [PMC7156003](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7156003).
+
+Citations:
+
+  32. Columbus C, Brust KB, **Arroliga AC**. 2019 novel coronavirus: an emerging global threat. Proc (Bayl Univ Med Cent). 2020 Apr; 33(2):209-212. PMID: [32313463](//www.ncbi.nlm.nih.gov/pubmed/32313463); PMCID: [PMC7155966](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7155966).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32313463/citedby/)
+
+  33. Colbert CY, French JC, **Arroliga AC** , Bierer SB. Best practice versus actual practice: an audit of survey pretesting practices reported in a sample of medical education journals. Med Educ Online. 2019 Dec; 24(1):1673596. PMID: [31671286](//www.ncbi.nlm.nih.gov/pubmed/31671286); PMCID: [PMC6830238](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6830238).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31671286/citedby/) Fields:
+
+Edu Education
+
+Translation:Humans
+
+  34. White BAA, White HD, **Arroliga AC**. Historical Trajectory and Implications of Duty-Hours in Graduate Medical Education. J Leg Med. 2019 Oct-Dec; 39(4):417-426. PMID: [31940249](//www.ncbi.nlm.nih.gov/pubmed/31940249).
+
+Citations:  Fields:
+
+Jur Jurisprudence
+
+Translation:Humans
+
+  35. Tlayjeh H, Arabi YM, Ferguson ND, Zhou Q, **Arroliga A** , [Danesh V](https://profiles.viictr.org/profile/39702883), Jimenez E, Mullaly A, Staub B, Meade MO, Canadian Critical Care Trials Group, Lamontagne F, Dominguez-Cherit G. Body Mass Index and Mortality in Subjects With ARDS: Post-hoc Analysis of the OSCILLATE Trial. Respir Care. 2019 Sep; 64(9):1042-1048. PMID: [31138733](//www.ncbi.nlm.nih.gov/pubmed/31138733).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31138733/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  36. Myers JD, **Arroliga AC** , White BAA, [Janek H](https://profiles.viictr.org/profile/41660734), Wesson DE. The graduate medical educational enterprise. Proc (Bayl Univ Med Cent). 2019 Jul; 32(3):449-451. PMID: [31384219](//www.ncbi.nlm.nih.gov/pubmed/31384219); PMCID: [PMC6650235](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6650235).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31384219/citedby/)
+
+  37. White BAA, Walker J, **Arroliga AC**. Avoiding organizational silence and creating team dialogue. Proc (Bayl Univ Med Cent). 2019 Jul; 32(3):446-448. PMID: [31384218](//www.ncbi.nlm.nih.gov/pubmed/31384218); PMCID: [PMC6650248](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6650248).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31384218/citedby/)
+
+  38. White BAA, Bledsoe C, Hendricks R, **Arroliga AC**. A leadership education framework addressing relationship management, burnout, and team trust. Proc (Bayl Univ Med Cent). 2019 Apr; 32(2):298-300. PMID: [31191160](//www.ncbi.nlm.nih.gov/pubmed/31191160); PMCID: [PMC6541093](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6541093).
+
+Citations:
+
+  39. Lipatov K, Kurian KK, Shaver C, White HD, [Ghamande S](https://profiles.viictr.org/profile/37888855), **Arroliga AC** , Surani S. Early vs late oral nutrition in patients with diabetic ketoacidosis admitted to a medical intensive care unit. World J Diabetes. 2019 Jan 15; 10(1):57-62. PMID: [30697371](//www.ncbi.nlm.nih.gov/pubmed/30697371); PMCID: [PMC6347656](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6347656).
+
+Citations:
+
+  40. Henry C, Zaizafoun M, Stock E, [Ghamande S](https://profiles.viictr.org/profile/37888855), **Arroliga AC** , White HD. Impact of angiotensin-converting enzyme inhibitors and statins on viral pneumonia. Proc (Bayl Univ Med Cent). 2018 Oct; 31(4):419-423. PMID: [30948970](//www.ncbi.nlm.nih.gov/pubmed/30948970); PMCID: [PMC6414001](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6414001).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30948970/citedby/)
+
+  41. White BAA, Eklund A, McNeal T, Hochhalter A, **Arroliga AC**. Facilitators and barriers to ad hoc team performance. Proc (Bayl Univ Med Cent). 2018 Jul; 31(3):380-384. PMID: [29904320](//www.ncbi.nlm.nih.gov/pubmed/29904320); PMCID: [PMC5997057](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5997057).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29904320/citedby/)
+
+  42. White HD, [Vazquez-Sandoval A](https://profiles.viictr.org/profile/37888859), Quiroga PF, Song J, Jones SF, **Arroliga AC**. Utility of venous blood gases in severe sepsis and septic shock. Proc (Bayl Univ Med Cent). 2018 Jul; 31(3):269-275. PMID: [29904286](//www.ncbi.nlm.nih.gov/pubmed/29904286); PMCID: [PMC5997042](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5997042).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29904286/citedby/)
+
+  43. Castro-Lainez MT, Sierra-Hoffman M, LLompart-Zeno J, Adams R, Howell A, Hoffman-Roberts H, Fader R, **Arroliga AC** , Jinadatha C. Talaromyces marneffei infection in a non-HIV non-endemic population. IDCases. 2018; 12:21-24. PMID: [29942740](//www.ncbi.nlm.nih.gov/pubmed/29942740); PMCID: [PMC6010951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6010951).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29942740/citedby/)
+
+  44. White HD, [Ghamande S](https://profiles.viictr.org/profile/37888855), **Arroliga AC**. Therapeutic Hypothermia for Acute Respiratory Distress Syndrome. Crit Care Med. 2017 11; 45(11):e1202-e1203. PMID: [29028729](//www.ncbi.nlm.nih.gov/pubmed/29028729).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29028729/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  45. White HD, White BAA, [Ghamande S](https://profiles.viictr.org/profile/37888855), **Arroliga AC**. Combining Efforts for Positive Progress in the Graduate Medical Education Match Process. Ann Am Thorac Soc. 2017 08; 14(8):1357-1358. PMID: [28723255](//www.ncbi.nlm.nih.gov/pubmed/28723255).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+  46. Hayek AJ, White HD, [Ghamande S](https://profiles.viictr.org/profile/37888855), Spradley C, **Arroliga AC**. Is Therapeutic Hypothermia for Acute Respiratory Distress Syndrome the Future? J Intensive Care Med. 2017 Aug; 32(7):460-464. PMID: [28343415](//www.ncbi.nlm.nih.gov/pubmed/28343415).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28343415/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:HumansCells
+
+  47. Garmon EH, Stock EM, **Arroliga AC** , Bean-Lijewski JD. Effects of training on resident physician emergency airway management skills. Can J Anaesth. 2017 Jul; 64(7):777-779. PMID: [28247240](//www.ncbi.nlm.nih.gov/pubmed/28247240).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28247240/citedby/) Fields:
+
+Ane Anesthesiology
+
+Translation:Humans
+
+  48. Henry C, [Boethel C](https://profiles.viictr.org/profile/41712671), Copeland LA, [Ghamande S](https://profiles.viictr.org/profile/37888855), **Arroliga AC** , White HD. Clinical Utility of Testing for Legionella Pneumonia in Central Texas. Ann Am Thorac Soc. 2017 Jan; 14(1):65-69. PMID: [27739904](//www.ncbi.nlm.nih.gov/pubmed/27739904).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27739904/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCells
+
+  49. Arroliga ME, [Vazquez-Sandoval A](https://profiles.viictr.org/profile/37888859), Dvoracek J, **Arroliga AC**. Penicillin skin testing is a safe method to guide ?-lactam administration in the intensive care unit. Ann Allergy Asthma Immunol. 2016 Jan; 116(1):86-7. PMID: [26596409](//www.ncbi.nlm.nih.gov/pubmed/26596409).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26596409/citedby/) Fields:
+
+All Allergy and ImmunologyPul Pulmonary Medicine
+
+Translation:Humans
+
+  50. White HD, Henry C, Stock EM, **Arroliga AC** , [Ghamande S](https://profiles.viictr.org/profile/37888855). Predicting Long-Term Outcomes in Pleural Infections. RAPID Score for Risk Stratification. Ann Am Thorac Soc. 2015 Sep; 12(9):1310-6. PMID: [26193196](//www.ncbi.nlm.nih.gov/pubmed/26193196).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26193196/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  51. **Arroliga AC** , Kaneko-Wada Fde J, Dom?nguez-Cherit G, Colmenares-V?squez AM, Santana-Mart?nez P, Guti?rrez-Mej?a J. [The process of death in the intensive care unit (ICU). From a medical, thanatological and legislative point of view]. Gac Med Mex. 2015 Sep-Oct; 151(5):628-34. PMID: [26526477](//www.ncbi.nlm.nih.gov/pubmed/26526477).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  52. Frutos-Vivar F, **Arroliga AC** , Abraira V, Thille AW, Brochard L, Davies AR, Amin P, Du B, Raymondos K, Rios F, Violi DA, Maggiore SM, Soares MA, Abroug F, Hurtado J, Kuiper MA, Moreno RP, Zeggwagh AA, Jibaja M, Soto L, D'Empaire G, Matamis D, Koh Y, Anzueto A, Ferguson ND, Muriel A, Pe?uelas O, Nin N, Gonz?lez M, B?low HH, Villag?mez AJ, Esteban A. Impact of sedation and analgesia during noninvasive positive pressure ventilation on outcome: a marginal structural model causal analysis. Intensive Care Med. 2015 Sep; 41(9):1586-600. PMID: [25971392](//www.ncbi.nlm.nih.gov/pubmed/25971392).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25971392/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  53. [Midturi JK](https://profiles.viictr.org/profile/40068938), Narasimhan A, Barnett T, Sodek J, Schreier W, Barnett J, Wheeler C, Barton L, Stock EM, **Arroliga AC**. A successful multifaceted strategy to improve hand hygiene compliance rates. Am J Infect Control. 2015 May 01; 43(5):533-6. PMID: [25769618](//www.ncbi.nlm.nih.gov/pubmed/25769618).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25769618/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansPHPublic Health
+
+  54. **Arroliga AC** , Velazco JF, [Midturi JK](https://profiles.viictr.org/profile/40068938), [Ghamande SA](https://profiles.viictr.org/profile/37888855). Back to the future: a-hemolysin activity on blood agar to predict ventilator-associated pneumonia caused by Staphylococcus aureus. Am J Respir Crit Care Med. 2014 Nov 15; 190(10):1086-8. PMID: [25398106](//www.ncbi.nlm.nih.gov/pubmed/25398106).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398106/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansAnimalsCells
+
+  55. Colbert CY, Graham L, West C, White BA, **Arroliga AC** , Myers JD, Ogden PE, Archer J, Mohammad ZT, Clark J. Teaching metacognitive skills: helping your physician trainees in the quest to 'know what they don't know'. Am J Med. 2015 Mar; 128(3):318-24. PMID: [25446293](//www.ncbi.nlm.nih.gov/pubmed/25446293).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25446293/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  56. Duggal A, Mireles-Cabodevila E, Krishnan S, **Arroliga AC**. Acute respiratory distress syndrome: Implications of recent studies. Cleve Clin J Med. 2014 Nov; 81(11):683-90. PMID: [25368219](//www.ncbi.nlm.nih.gov/pubmed/25368219).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25368219/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  57. Sanchez JF, [Ghamande SA](https://profiles.viictr.org/profile/37888855), [Midturi JK](https://profiles.viictr.org/profile/40068938), **Arroliga AC**. Invasive diagnostic strategies in immunosuppressed patients with acute respiratory distress syndrome. Clin Chest Med. 2014 Dec; 35(4):697-712. PMID: [25453419](//www.ncbi.nlm.nih.gov/pubmed/25453419).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25453419/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  58. Myers JD, Cable CT, **Arroliga AC**. The reply. Am J Med. 2014 Aug; 127(8):e35. PMID: [25107401](//www.ncbi.nlm.nih.gov/pubmed/25107401).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  59. [Boethel CD](https://profiles.viictr.org/profile/41712671), [Ghamande SA](https://profiles.viictr.org/profile/37888855), Fader RC, **Arroliga AC**. Caution is needed concerning location of legionella testing, as 1 size (method) does not fit all. Clin Infect Dis. 2014 Nov 15; 59(10):1505. PMID: [25073891](//www.ncbi.nlm.nih.gov/pubmed/25073891).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  60. Moran J, Colbert CY, Song J, Mathews J, **Arroliga AC** , Varghees S, Hull J, Reddy S. Screening for novel risk factors related to peripherally inserted central catheter-associated complications. J Hosp Med. 2014 Aug; 9(8):481-9. PMID: [24911379](//www.ncbi.nlm.nih.gov/pubmed/24911379).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24911379/citedby/) Fields:
+
+Hos Hospitals
+
+Translation:Humans
+
+  61. **Arroliga AC** , Huber C, Myers JD, Dieckert JP, Wesson D. Leadership in health care for the 21st century: challenges and opportunities. Am J Med. 2014 Mar; 127(3):246-9. PMID: [24280177](//www.ncbi.nlm.nih.gov/pubmed/24280177).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24280177/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  62. Colbert CY, Diaz-Guzman E, Myers JD, **Arroliga AC**. How to interpret surveys in medical research: a practical approach. Cleve Clin J Med. 2013 Jul; 80(7):423-35. PMID: [23821685](//www.ncbi.nlm.nih.gov/pubmed/23821685).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23821685/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  63. Wei C, Henderson H, Spradley C, Li L, Kim IK, Kumar S, Hong N, **Arroliga AC** , Gupta S. Circulating miRNAs as potential marker for pulmonary hypertension. PLoS One. 2013; 8(5):e64396. PMID: [23717609](//www.ncbi.nlm.nih.gov/pubmed/23717609); PMCID: [PMC3662705](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3662705).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23717609/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  64. White HD, White BA, Song J, Fader R, Quiroga P, **Arroliga AC**. Pleural infections: a 9-year review of bacteriology, case characteristics and mortality. Am J Med Sci. 2013 May; 345(5):349-54. PMID: [23044652](//www.ncbi.nlm.nih.gov/pubmed/23044652).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23044652/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  65. [Ghamande SA](https://profiles.viictr.org/profile/37888855), **Arroliga AC** , Ciceri DP. Let's make endotracheal intubation in the intensive care unit safe: difficult or not, the MACOCHA score is a good start. Am J Respir Crit Care Med. 2013 Apr 15; 187(8):789-90. PMID: [23586377](//www.ncbi.nlm.nih.gov/pubmed/23586377).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23586377/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  66. Moran J, Colbert CY, Song J, Hull J, Rajan S, Varghees S, **Arroliga AC** , Reddy SP. Residents examine factors associated with 30-day, same-cause hospital readmissions on an internal medicine service. Am J Med Qual. 2013 Nov-Dec; 28(6):492-501. PMID: [23550215](//www.ncbi.nlm.nih.gov/pubmed/23550215).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23550215/citedby/) Fields:
+
+Hea Health Services
+
+Translation:Humans
+
+  67. Ferguson ND, Cook DJ, Guyatt GH, Mehta S, Hand L, Austin P, Zhou Q, Matte A, Walter SD, Lamontagne F, Granton JT, Arabi YM, **Arroliga AC** , Stewart TE, Slutsky AS, Meade MO, OSCILLATE Trial Investigators, Canadian Critical Care Trials Group. High-frequency oscillation in early acute respiratory distress syndrome. N Engl J Med. 2013 Feb 28; 368(9):795-805. PMID: [23339639](//www.ncbi.nlm.nih.gov/pubmed/23339639).
+
+Citations:
+[257](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23339639/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  68. Mireles-Cabodevila E, Diaz-Guzman E, **Arroliga AC** , Chatburn RL. Human versus Computer Controlled Selection of Ventilator Settings: An Evaluation of Adaptive Support Ventilation and Mid-Frequency Ventilation. Crit Care Res Pract. 2012; 2012:204314. PMID: [23119152](//www.ncbi.nlm.nih.gov/pubmed/23119152); PMCID: [PMC3478732](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3478732).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23119152/citedby/)
+
+  69. Tonelli MR, Curtis JR, Guntupalli KK, Rubenfeld GD, **Arroliga AC** , Brochard L, Douglas IS, Gutterman DD, Hall JR, Kavanagh BP, Mancebo J, Misak CJ, Simpson SQ, Slutsky AS, Suffredini AF, Thompson BT, Ware LB, Wheeler AP, Levy MM, ACCP/ATS/SCCM Working Group. An official multi-society statement: the role of clinical research results in the practice of critical care medicine. Am J Respir Crit Care Med. 2012 May 15; 185(10):1117-24. PMID: [22589312](//www.ncbi.nlm.nih.gov/pubmed/22589312).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22589312/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  70. Diaz-Guzman E, Colbert CY, Mannino DM, Davenport DL, **Arroliga AC**. 24/7 in-house intensivist coverage and fellowship education: a cross-sectional survey of academic medical centers in the United States. Chest. 2012 Apr; 141(4):959-966. PMID: [22207677](//www.ncbi.nlm.nih.gov/pubmed/22207677).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22207677/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  71. **Arroliga AC** , Pollard CL, Wilde CD, Pellizzari SJ, Chebbo A, Song J, Ordner J, Cormier S, Meyer T. Reduction in the incidence of ventilator-associated pneumonia: a multidisciplinary approach. Respir Care. 2012 May; 57(5):688-96. PMID: [22153578](//www.ncbi.nlm.nih.gov/pubmed/22153578).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22153578/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  72. Jones SF, **Arroliga AC** , Papazian L, Azoulay E. Thank God it's Friday!: achieving balance between continuity of care and intensivist burnout. Am J Respir Crit Care Med. 2011 Oct 01; 184(7):749-50. PMID: [21965009](//www.ncbi.nlm.nih.gov/pubmed/21965009).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21965009/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  73. Diaz-Guzman E, Sanchez J, **Arroliga AC**. Update in intensive care medicine: studies that challenged our practice in the last 5 years. Cleve Clin J Med. 2011 Oct; 78(10):665-74. PMID: [21968473](//www.ncbi.nlm.nih.gov/pubmed/21968473).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  74. Sanchez JF, Le L, **Arroliga AC**. How tifacogin could not captivate severe community-acquired pneumonia. Am J Respir Crit Care Med. 2011 Jun 01; 183(11):1449-50. PMID: [21642255](//www.ncbi.nlm.nih.gov/pubmed/21642255).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21642255/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  75. White HD, White BA, [Boethel C](https://profiles.viictr.org/profile/41712671), **Arroliga AC**. Pancoast's syndrome secondary to infectious etiologies: a not so uncommon occurrence. Am J Med Sci. 2011 Apr; 341(4):333-6. PMID: [21030854](//www.ncbi.nlm.nih.gov/pubmed/21030854).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21030854/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  76. **Arroliga AC** , Sanchez J, Sikka P. Monitoring the ill: Is this another measurement or will it change outcomes? Crit Care Med. 2011 Jan; 39(1):202-3. PMID: [21178538](//www.ncbi.nlm.nih.gov/pubmed/21178538).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  77. Fraser TG, Fatica C, Scarpelli M, **Arroliga AC** , Guzman J, Shrestha NK, Hixson E, Rosenblatt M, Gordon SM, Procop GW. Decrease in Staphylococcus aureus colonization and hospital-acquired infection in a medical intensive care unit after institution of an active surveillance and decolonization program. Infect Control Hosp Epidemiol. 2010 Aug; 31(8):779-83. PMID: [20594110](//www.ncbi.nlm.nih.gov/pubmed/20594110).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20594110/citedby/) Fields:
+
+Com Communicable DiseasesEpi EpidemiologyHos HospitalsNur Nursing
+
+Translation:HumansCellsPHPublic Health
+
+  78. Restrepo MI, Anzueto A, **Arroliga AC** , Afessa B, Atkinson MJ, Ho NJ, Schinner R, Bracken RL, Kollef MH. Economic burden of ventilator-associated pneumonia based on total resource utilization. Infect Control Hosp Epidemiol. 2010 May; 31(5):509-15. PMID: [20302428](//www.ncbi.nlm.nih.gov/pubmed/20302428).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20302428/citedby/) Fields:
+
+Com Communicable DiseasesEpi EpidemiologyHos HospitalsNur Nursing
+
+Translation:Humans
+
+  79. Finklea JD, Khan G, Thomas S, Song J, Myers D, **Arroliga AC**. Predictors of mortality in hospitalized patients with acute exacerbation of bronchiectasis. Respir Med. 2010 Jun; 104(6):816-21. PMID: [20363606](//www.ncbi.nlm.nih.gov/pubmed/20363606).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20363606/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  80. Rello J, Afessa B, Anzueto A, **Arroliga AC** , Olson ME, Restrepo MI, Talsma SS, Bracken RL, Kollef MH. Activity of a silver-coated endotracheal tube in preclinical models of ventilator-associated pneumonia and a study after extubation. Crit Care Med. 2010 Apr; 38(4):1135-40. PMID: [20081533](//www.ncbi.nlm.nih.gov/pubmed/20081533).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20081533/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  81. Bosques FJ, **Arroliga AC** , Galindo-Galindo JO, Garza-Gonzalez E, Rios-Licea MM. Quadruplex real-time quantitative PCR assay for the detection of pathogens related to late-onset ventilator-associated pneumonia: a preliminary report. J Microbiol Methods. 2010 Jun; 81(3):232-4. PMID: [20353803](//www.ncbi.nlm.nih.gov/pubmed/20353803).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20353803/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCells
+
+  82. **Arroliga AC** , Frutos-Vivar F, Raymondos K, Esteban A, Putensen C, Hurtado J, Desmery P, Tomicic V, Abroug F, Arabi Y, Moreno R, Anzueto A, Ferguson ND, Gonz?lez M, Apeztegu?a C, Elizalde J. Airway pressure release ventilation versus assist-control ventilation: a comparative propensity score and international cohort study. Intensive Care Med. 2010 May; 36(5):817-27. PMID: [20229042](//www.ncbi.nlm.nih.gov/pubmed/20229042).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20229042/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  83. Diaz-Guzman E, Mireles-Cabodevila E, Heresi GA, Bauer SR, **Arroliga AC**. A comparison of methohexital versus etomidate for endotracheal intubation of critically ill patients. Am J Crit Care. 2010 Jan; 19(1):48-54. PMID: [20045848](//www.ncbi.nlm.nih.gov/pubmed/20045848).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20045848/citedby/) Fields:
+
+Cri Critical CareNur Nursing
+
+Translation:Humans
+
+  84. **Arroliga AC** , Guntupalli KK, Beaver JS, Langholff W, Marino K, Kelly K. Pharmacokinetics and pharmacodynamics of six epoetin alfa dosing regimens in anemic critically ill patients without acute blood loss. Crit Care Med. 2009 Apr; 37(4):1299-307. PMID: [19242343](//www.ncbi.nlm.nih.gov/pubmed/19242343).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19242343/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  85. Masri FA, Comhair SA, Dostanic-Larson I, Kaneko FT, Dweik RA, **Arroliga AC** , Erzurum SC. Deficiency of lung antioxidants in idiopathic pulmonary arterial hypertension. Clin Transl Sci. 2008 Sep; 1(2):99-106. PMID: [20443830](//www.ncbi.nlm.nih.gov/pubmed/20443830); PMCID: [PMC5439561](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5439561).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20443830/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  86. Kollef MH, Afessa B, Anzueto A, Veremakis C, Kerr KM, Margolis BD, Craven DE, Roberts PR, **Arroliga AC** , Hubmayr RD, Restrepo MI, Auger WR, Schinner R, NASCENT Investigation Group. Silver-coated endotracheal tubes and incidence of ventilator-associated pneumonia: the NASCENT randomized trial. JAMA. 2008 Aug 20; 300(7):805-13. PMID: [18714060](//www.ncbi.nlm.nih.gov/pubmed/18714060).
+
+Citations:
+[101](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18714060/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  87. Khan G, Spradley C, **Arroliga AC**. Objective rather than subjective evaluation of prognosis in patients on prolonged mechanical ventilation: the ProVent score. Crit Care Med. 2008 Jul; 36(7):2200-1. PMID: [18594231](//www.ncbi.nlm.nih.gov/pubmed/18594231).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  88. **Arroliga AC** , Thompson BT, Ancukiewicz M, Gonzales JP, [Guntupalli KK](https://profiles.viictr.org/profile/266913), Park PK, Wiedemann HP, Anzueto A, Acute Respiratory Distress Syndrome Network. Use of sedatives, opioids, and neuromuscular blocking agents in patients with acute lung injury and acute respiratory distress syndrome. Crit Care Med. 2008 Apr; 36(4):1083-8. PMID: [18401254](//www.ncbi.nlm.nih.gov/pubmed/18401254).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18401254/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  89. Galindo-Galindo J, Folch E, Guerrero A, Bosques F, Mercado R, **Arroliga AC** , Leo A. Comparison of bronchoscopic bronchoalveolar lavage vs blind lavage with a modified nasogastric tube in the etiologic diagnosis of ventilator-associated pneumonia. Med Intensiva. 2008 Apr; 32(3):115-20. PMID: [18381016](//www.ncbi.nlm.nih.gov/pubmed/18381016).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18381016/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  90. O'Meara D, Mireles-Cabodevila E, Frame F, Hummell AC, Hammel J, Dweik RA, **Arroliga AC**. Evaluation of delivery of enteral nutrition in critically ill patients receiving mechanical ventilation. Am J Crit Care. 2008 Jan; 17(1):53-61. PMID: [18158390](//www.ncbi.nlm.nih.gov/pubmed/18158390).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18158390/citedby/) Fields:
+
+Cri Critical CareNur Nursing
+
+Translation:Humans
+
+  91. Murthy SC, **Arroliga AC** , Walts PA, Feng J, Yared JP, Lytle BW, Blackstone EH. Ventilatory dependency after cardiovascular surgery. J Thorac Cardiovasc Surg. 2007 Aug; 134(2):484-90. PMID: [17662794](//www.ncbi.nlm.nih.gov/pubmed/17662794).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17662794/citedby/) Fields:
+
+Car CardiologyGen General SurgeryPul Pulmonary MedicineVas Vascular Diseases
+
+Translation:Humans
+
+  92. Calfee CS, Budev MM, Matthay MA, Church G, Brady S, Uchida T, Ishizaka A, Lara A, Ranes JL, deCamp MM, **Arroliga AC**. Plasma receptor for advanced glycation end-products predicts duration of ICU stay and mechanical ventilation in patients after lung transplantation. J Heart Lung Transplant. 2007 Jul; 26(7):675-80. PMID: [17613396](//www.ncbi.nlm.nih.gov/pubmed/17613396); PMCID: [PMC2741136](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2741136).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17613396/citedby/) Fields:
+
+Car CardiologyPul Pulmonary MedicineTra Transplantation
+
+Translation:Humans
+
+  93. del Real GA, Rose ME, Ramirez-Atamoros MT, Hammel J, Gordon SM, **Arroliga AC** , Arroliga ME. Penicillin skin testing in patients with a history of beta-lactam allergy. Ann Allergy Asthma Immunol. 2007 Apr; 98(4):355-9. PMID: [17458432](//www.ncbi.nlm.nih.gov/pubmed/17458432).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17458432/citedby/) Fields:
+
+All Allergy and ImmunologyPul Pulmonary Medicine
+
+Translation:Humans
+
+  94. Minai OA, Rigelsky C, Eng C, **Arroliga AC** , Stoller JK. Long-term outcome in a patient with pulmonary hypertension and hereditary hemorrhagic telangiectasia. Chest. 2007 Apr; 131(4):984-7. PMID: [17426199](//www.ncbi.nlm.nih.gov/pubmed/17426199).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17426199/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  95. Xu W, Koeck T, Lara AR, Neumann D, DiFilippo FP, Koo M, Janocha AJ, Masri FA, **Arroliga AC** , Jennings C, Dweik RA, Tuder RM, Stuehr DJ, Erzurum SC. Alterations of cellular bioenergetics in pulmonary artery endothelial cells. Proc Natl Acad Sci U S A. 2007 Jan 23; 104(4):1342-7. PMID: [17227868](//www.ncbi.nlm.nih.gov/pubmed/17227868); PMCID: [PMC1783136](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1783136).
+
+Citations:
+[187](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17227868/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  96. Minai OA, Pandya CM, Golish JA, Avecillas JF, McCarthy K, Marlow S, **Arroliga AC**. Predictors of nocturnal oxygen desaturation in pulmonary arterial hypertension. Chest. 2007 Jan; 131(1):109-17. PMID: [17218563](//www.ncbi.nlm.nih.gov/pubmed/17218563).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17218563/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  97. Avecillas JF, Freire AX, **Arroliga AC**. Clinical epidemiology of acute lung injury and acute respiratory distress syndrome: incidence, diagnosis, and outcomes. Clin Chest Med. 2006 Dec; 27(4):549-57; abstract vii. PMID: [17085244](//www.ncbi.nlm.nih.gov/pubmed/17085244).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17085244/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  98. Heresi GA, **Arroliga AC** , Wiedemann HP, Weidemann HP, Matthay MA. Pulmonary artery catheter and fluid management in acute lung injury and the acute respiratory distress syndrome. Clin Chest Med. 2006 Dec; 27(4):627-35; abstract ix. PMID: [17085251](//www.ncbi.nlm.nih.gov/pubmed/17085251).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17085251/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  99. Ranes JL, Gordon SM, Chen P, Fatica C, Hammel J, Gonzales JP, **Arroliga AC**. Predictors of long-term mortality in patients with ventilator-associated pneumonia. Am J Med. 2006 Oct; 119(10):897.e13-9. PMID: [17000224](//www.ncbi.nlm.nih.gov/pubmed/17000224).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17000224/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  100. Minai OA, **Arroliga AC**. Long-term results after addition of sildenafil in idiopathic PAH patients on bosentan. South Med J. 2006 Aug; 99(8):880-3. PMID: [16929886](//www.ncbi.nlm.nih.gov/pubmed/16929886).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16929886/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  101. Walts PA, Murthy SC, **Arroliga AC** , Yared JP, Rajeswaran J, Rice TW, Lytle BW, Blackstone EH. Tracheostomy after cardiovascular surgery: an assessment of long-term outcome. J Thorac Cardiovasc Surg. 2006 Apr; 131(4):830-7. PMID: [16580441](//www.ncbi.nlm.nih.gov/pubmed/16580441).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16580441/citedby/) Fields:
+
+Car CardiologyGen General SurgeryPul Pulmonary MedicineVas Vascular Diseases
+
+Translation:Humans
+
+  102. Minai OA, Venkateshiah SB, **Arroliga AC**. Surgical intervention in patients with moderate to severe pulmonary arterial hypertension. Conn Med. 2006 Apr; 70(4):239-43. PMID: [16768070](//www.ncbi.nlm.nih.gov/pubmed/16768070).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16768070/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  103. Santacruz JF, Diaz Guzman Zavala E, **Arroliga AC**. Update in ARDS management: recent randomized controlled trials that changed our practice. Cleve Clin J Med. 2006 Mar; 73(3):217-9, 223-5, 229 passim. PMID: [16548446](//www.ncbi.nlm.nih.gov/pubmed/16548446).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  104. **Arroliga A** , Griswold S. "Frequent fliers" do not receive a free trip in the emergency department. Chest. 2005 Dec; 128(6):4051-2. PMID: [16354885](//www.ncbi.nlm.nih.gov/pubmed/16354885).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16354885/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  105. Budev MM, **Arroliga AC** , Falcone T. Ovarian hyperstimulation syndrome. Crit Care Med. 2005 Oct; 33(10 Suppl):S301-6. PMID: [16215351](//www.ncbi.nlm.nih.gov/pubmed/16215351).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16215351/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  106. Budev MM, **Arroliga AC** , Emery S. Exacerbation of underlying pulmonary disease in pregnancy. Crit Care Med. 2005 Oct; 33(10 Suppl):S313-8. PMID: [16215353](//www.ncbi.nlm.nih.gov/pubmed/16215353).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16215353/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  107. **Arroliga AC** , Diaz-Guzman E, Wiedemann HP. Severe acute respiratory syndrome, pulmonary function tests, and quality of life: lessons learned. Chest. 2005 Sep; 128(3):1088-9. PMID: [16162688](//www.ncbi.nlm.nih.gov/pubmed/16162688); PMCID: [PMC7130419](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7130419).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16162688/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  108. Mughal MM, Culver DA, Minai OA, **Arroliga AC**. Auto-positive end-expiratory pressure: mechanisms and treatment. Cleve Clin J Med. 2005 Sep; 72(9):801-9. PMID: [16193827](//www.ncbi.nlm.nih.gov/pubmed/16193827).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16193827/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  109. **Arroliga A** , Frutos-Vivar F, Hall J, Esteban A, Soto L, Anzueto A, International Mechanical Ventilation Study Group, Apeztegu?a C. Use of sedatives and neuromuscular blockers in a cohort of patients receiving mechanical ventilation. Chest. 2005 Aug; 128(2):496-506. PMID: [16100131](//www.ncbi.nlm.nih.gov/pubmed/16100131).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16100131/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  110. Mazzone PJ, Chagoya JC, **Arroliga AC**. Cause and effect in lung cancer: fueling the fire. Chest. 2005 Jul; 128(1):6-8. PMID: [16002905](//www.ncbi.nlm.nih.gov/pubmed/16002905).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16002905/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  111. Mazzone PJ, **Arroliga AC**. Lung cancer: Preoperative pulmonary evaluation of the lung resection candidate. Am J Med. 2005 Jun; 118(6):578-83. PMID: [15922686](//www.ncbi.nlm.nih.gov/pubmed/15922686).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15922686/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  112. Castillo JR, Gordon SM, **Arroliga AC**. Cross-transmission in the intensive care unit: one piece of the puzzle. Crit Care Med. 2005 May; 33(5):1147-8. PMID: [15891354](//www.ncbi.nlm.nih.gov/pubmed/15891354).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:HumansPHPublic Health
+
+  113. Ghamra ZW, **Arroliga AC**. Volumetric capnography in acute respiratory distress syndrome: is the era of day-to-day monitoring finally here? Respir Care. 2005 Apr; 50(4):457-8. PMID: [15807906](//www.ncbi.nlm.nih.gov/pubmed/15807906).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  114. Stoller JK, Tomashefski J, Crystal RG, **Arroliga A** , Strange C, Killian DN, Schluchter MD, Wiedemann HP. Mortality in individuals with severe deficiency of alpha1-antitrypsin: findings from the National Heart, Lung, and Blood Institute Registry. Chest. 2005 Apr; 127(4):1196-204. PMID: [15821195](//www.ncbi.nlm.nih.gov/pubmed/15821195).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15821195/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  115. Rizvi K, Deboisblanc BP, Truwit JD, Dhillon G, **Arroliga A** , Fuchs BD, [Guntupalli KK](https://profiles.viictr.org/profile/266913), Hite D, Hayden D, NIH/NHLBI ARDS Clinical Trials Network. Effect of airway pressure display on interobserver agreement in the assessment of vascular pressures in patients with acute lung injury and acute respiratory distress syndrome. Crit Care Med. 2005 Jan; 33(1):98-103; discussion 243-4. PMID: [15644654](//www.ncbi.nlm.nih.gov/pubmed/15644654).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15644654/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:HumansCTClinical Trials
+
+  116. Mazzone PJ, **Arroliga AC**. How many ways can we say that cigarette smoking is bad for you? Chest. 2004 Dec; 126(6):1717-8. PMID: [15596659](//www.ncbi.nlm.nih.gov/pubmed/15596659).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15596659/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  117. Gildea TR, Cook WC, Nelson DR, Aggarwal A, Carey W, Younossi ZM, **Arroliga AC**. Predictors of long-term mortality in patients with cirrhosis of the liver admitted to a medical ICU. Chest. 2004 Nov; 126(5):1598-603. PMID: [15539733](//www.ncbi.nlm.nih.gov/pubmed/15539733).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15539733/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  118. Avecillas JF, Falcone T, **Arroliga AC**. Ovarian hyperstimulation syndrome. Crit Care Clin. 2004 Oct; 20(4):679-95, ix. PMID: [15388196](//www.ncbi.nlm.nih.gov/pubmed/15388196).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15388196/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  119. Machado RF, Londhe Nerkar MV, Dweik RA, Hammel J, Janocha A, Pyle J, Laskowski D, Jennings C, **Arroliga AC** , Erzurum SC. Nitric oxide and pulmonary arterial pressures in pulmonary hypertension. Free Radic Biol Med. 2004 Oct 01; 37(7):1010-7. PMID: [15336317](//www.ncbi.nlm.nih.gov/pubmed/15336317).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15336317/citedby/) Fields:
+
+Bio BiochemistryMed Medicine (General)
+
+Translation:Humans
+
+  120. Xu W, Kaneko FT, Zheng S, Comhair SA, Janocha AJ, Goggans T, Thunnissen FB, Farver C, Hazen SL, Jennings C, Dweik RA, **Arroliga AC** , Erzurum SC. Increased arginase II and decreased NO synthesis in endothelial cells of patients with pulmonary arterial hypertension. FASEB J. 2004 Nov; 18(14):1746-8. PMID: [15364894](//www.ncbi.nlm.nih.gov/pubmed/15364894).
+
+Citations:
+[162](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15364894/citedby/)
+Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:HumansCells
+
+  121. Mazzone PJ, Mekhail T, **Arroliga AC**. Is lung cancer in the nonsmoker a different disease? Chest. 2004 Aug; 126(2):326-9. PMID: [15302708](//www.ncbi.nlm.nih.gov/pubmed/15302708).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  122. Bramstedt KA, **Arroliga AC**. On the dilemma of enigmatic refusal of life-saving therapy. Chest. 2004 Aug; 126(2):630-3. PMID: [15302754](//www.ncbi.nlm.nih.gov/pubmed/15302754).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15302754/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  123. **Arroliga AC** , Shehab N, McCarthy K, Gonzales JP. Relationship of continuous infusion lorazepam to serum propylene glycol concentration in critically ill adults. Crit Care Med. 2004 Aug; 32(8):1709-14. PMID: [15286548](//www.ncbi.nlm.nih.gov/pubmed/15286548).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15286548/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:HumansCTClinical Trials
+
+  124. Ghamra ZW, Dweik RA, **Arroliga AC**. Hypothyroidism and pulmonary arterial hypertension. Am J Med. 2004 Mar 01; 116(5):354-5. PMID: [14984825](//www.ncbi.nlm.nih.gov/pubmed/14984825).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14984825/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  125. Budev MM, Minai OA, **Arroliga AC**. Overview of treprostinil sodium for the treatment of pulmonary arterial hypertension. Drugs Today (Barc). 2004 Mar; 40(3):225-34. PMID: [15148531](//www.ncbi.nlm.nih.gov/pubmed/15148531).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15148531/citedby/) Fields:
+
+Dru Drug Therapy
+
+Translation:Humans
+
+  126. Woods JC, Mion LC, Connor JT, Viray F, Jahan L, Huber C, McHugh R, Gonzales JP, Stoller JK, **Arroliga AC**. Severe agitation among ventilated medical intensive care unit patients: frequency, characteristics and outcomes. Intensive Care Med. 2004 Jun; 30(6):1066-72. PMID: [14966671](//www.ncbi.nlm.nih.gov/pubmed/14966671).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14966671/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  127. **Arroliga AC** , Budev MM, Gordon SM. Do as we say, not as we do: healthcare workers and hand hygiene. Crit Care Med. 2004 Feb; 32(2):592-3. PMID: [14758187](//www.ncbi.nlm.nih.gov/pubmed/14758187).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:HumansPHPublic Health
+
+  128. Jain P, Sandur S, Meli Y, **Arroliga AC** , Stoller JK, Mehta AC. Role of flexible bronchoscopy in immunocompromised patients with lung infiltrates. Chest. 2004 Feb; 125(2):712-22. PMID: [14769756](//www.ncbi.nlm.nih.gov/pubmed/14769756).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14769756/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  129. Wiedemann HP, **Arroliga AC** , Komara JJ. Emerging systemic pharmacologic approaches in acute respiratory distress syndrome. Respir Care Clin N Am. 2003 Dec; 9(4):419-35. PMID: [14984064](//www.ncbi.nlm.nih.gov/pubmed/14984064).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14984064/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  130. Avecillas JF, Mazzone P, **Arroliga AC**. A rational approach to the evaluation and treatment of the infected patient in the intensive care unit. Clin Chest Med. 2003 Dec; 24(4):645-69. PMID: [14710696](//www.ncbi.nlm.nih.gov/pubmed/14710696).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14710696/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  131. Aggarwal A, Ong JP, Goormastic M, Nelson DR, **Arroliga AC** , Farquhar L, Mayes J, Younossi ZM. Survival and resource utilization in liver transplant recipients: the impact of admission to the intensive care unit. Transplant Proc. 2003 Dec; 35(8):2998-3002. PMID: [14697960](//www.ncbi.nlm.nih.gov/pubmed/14697960).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14697960/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:Humans
+
+  132. Mazzone PJ, **Arroliga AC**. Endocrine paraneoplastic syndromes in lung cancer. Curr Opin Pulm Med. 2003 Jul; 9(4):313-20. PMID: [12806246](//www.ncbi.nlm.nih.gov/pubmed/12806246).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12806246/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  133. **Arroliga AC** , Sandur S, Jacobsen DW, Tewari S, Mustafa M, Mascha EJ, Robinson K. Association between hyperhomocysteinemia and primary pulmonary hypertension. Respir Med. 2003 Jul; 97(7):825-9. PMID: [12854633](//www.ncbi.nlm.nih.gov/pubmed/12854633).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12854633/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  134. Budev MM, **Arroliga AC** , Wiedemann HP, Matthay RA. Cor pulmonale: an overview. Semin Respir Crit Care Med. 2003 Jun; 24(3):233-44. PMID: [16088545](//www.ncbi.nlm.nih.gov/pubmed/16088545).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16088545/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+  135. Stoller JK, Orens DK, Fatica C, Elliott M, Kester L, Woods J, Hoffman-Hogg L, Karafa MT, **Arroliga AC**. Weekly versus daily changes of in-line suction catheters: impact on rates of ventilator-associated pneumonia and associated costs. Respir Care. 2003 05; 48(5):494-9. PMID: [12729466](//www.ncbi.nlm.nih.gov/pubmed/12729466).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12729466/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  136. Arroliga ME, Radojicic C, Gordon SM, Popovich MJ, Bashour CA, Melton AL, **Arroliga AC**. A prospective observational study of the effect of penicillin skin testing on antibiotic use in the intensive care unit. Infect Control Hosp Epidemiol. 2003 May; 24(5):347-50. PMID: [12785408](//www.ncbi.nlm.nih.gov/pubmed/12785408).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12785408/citedby/) Fields:
+
+Com Communicable DiseasesEpi EpidemiologyHos HospitalsNur Nursing
+
+Translation:Humans
+
+  137. Vassilopoulos D, Niles JL, Villa-Forte A, **Arroliga AC** , Sullivan EJ, Merkel PA, Hoffman GS. Prevalence of antineutrophil cytoplasmic antibodies in patients with various pulmonary diseases or multiorgan dysfunction. Arthritis Rheum. 2003 Apr 15; 49(2):151-5. PMID: [12687504](//www.ncbi.nlm.nih.gov/pubmed/12687504).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12687504/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:HumansCTClinical Trials
+
+  138. Budev MM, **Arroliga AC** , Jennings CA. Diagnosis and evaluation of pulmonary hypertension. Cleve Clin J Med. 2003 Apr; 70 Suppl 1:S9-17. PMID: [12716138](//www.ncbi.nlm.nih.gov/pubmed/12716138).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12716138/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  139. Gildea TR, **Arroliga AC** , Minai OA. Treatments and strategies to optimize the comprehensive management of patients with pulmonary arterial hypertension. Cleve Clin J Med. 2003 Apr; 70 Suppl 1:S18-27. PMID: [12716139](//www.ncbi.nlm.nih.gov/pubmed/12716139).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  140. Ong JP, Aggarwal A, Krieger D, Easley KA, Karafa MT, Van Lente F, **Arroliga AC** , Mullen KD. Correlation between ammonia levels and the severity of hepatic encephalopathy. Am J Med. 2003 Feb 15; 114(3):188-93. PMID: [12637132](//www.ncbi.nlm.nih.gov/pubmed/12637132).
+
+Citations:
+[147](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12637132/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:HumansCTClinical Trials
+
+  141. Pietrantoni C, Minai OA, Yu NC, Maurer JR, Haug MT, Mehta AC, **Arroliga AC**. Respiratory failure and sepsis are the major causes of ICU admissions and mortality in survivors of lung transplants. Chest. 2003 Feb; 123(2):504-9. PMID: [12576373](//www.ncbi.nlm.nih.gov/pubmed/12576373).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12576373/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  142. Hajj-Ali RA, [Ghamande S](https://profiles.viictr.org/profile/37888855), Calabrese LH, **Arroliga AC**. Central nervous system vasculitis in the intensive care unit. Crit Care Clin. 2002 Oct; 18(4):897-914. PMID: [12418446](//www.ncbi.nlm.nih.gov/pubmed/12418446).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12418446/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  143. **Arroliga AC** , Newman S, Longworth DL, Stoller JK. Metaphorical medicine: using metaphors to enhance communication with patients who have pulmonary disease. Ann Intern Med. 2002 Sep 03; 137(5 Part 1):376-9. PMID: [12204044](//www.ncbi.nlm.nih.gov/pubmed/12204044).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12204044/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  144. [Ghamande S](https://profiles.viictr.org/profile/37888855), Rafanan A, Dweik R, **Arroliga AC** , Mehta AC. Role of transbronchial needle aspiration in patients receiving mechanical ventilation. Chest. 2002 Sep; 122(3):985-9. PMID: [12226044](//www.ncbi.nlm.nih.gov/pubmed/12226044).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12226044/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  145. Raychaudhuri B, Bonfield TL, Malur A, Hague K, Kavuru MS, **Arroliga AC** , Thomassen MJ. Circulating monocytes from patients with primary pulmonary hypertension are hyporesponsive. Clin Immunol. 2002 Aug; 104(2):191-8. PMID: [12165280](//www.ncbi.nlm.nih.gov/pubmed/12165280).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12165280/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  146. Raychaudhuri B, Malur A, Bonfield TL, Abraham S, Schilz RJ, Farver CF, Kavuru MS, **Arroliga AC** , Thomassen MJ. The prostacyclin analogue treprostinil blocks NFkappaB nuclear translocation in human alveolar macrophages. J Biol Chem. 2002 Sep 06; 277(36):33344-8. PMID: [12082102](//www.ncbi.nlm.nih.gov/pubmed/12082102).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12082102/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  147. **Arroliga AC**. Intensive care update: seven studies that should change your practice. Cleve Clin J Med. 2002 Jun; 69(6):505-9. PMID: [12061466](//www.ncbi.nlm.nih.gov/pubmed/12061466).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12061466/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  148. **Arroliga AC** , Ghamra ZW, Perez Trepichio A, Perez Trepichio P, Komara JJ, Smith A, Wiedemann HP. Incidence of ARDS in an adult population of northeast Ohio. Chest. 2002 Jun; 121(6):1972-6. PMID: [12065365](//www.ncbi.nlm.nih.gov/pubmed/12065365).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12065365/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  149. Mazzone P, Jain P, **Arroliga AC** , Matthay RA. Bronchoscopy and needle biopsy techniques for diagnosis and staging of lung cancer. Clin Chest Med. 2002 Mar; 23(1):137-58, ix. PMID: [11901908](//www.ncbi.nlm.nih.gov/pubmed/11901908).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11901908/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  150. Gerber RB, Mazzone P, **Arroliga AC**. Paraneoplastic syndromes associated with bronchogenic carcinoma. Clin Chest Med. 2002 Mar; 23(1):257-64. PMID: [11901915](//www.ncbi.nlm.nih.gov/pubmed/11901915).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  151. Anzueto A, Frutos F, Brochard L, Stewart TE, Benito S, Epstein SK, Nightingale P, **Arroliga AC** , Tobin MJ, Mechanical Ventilation International Study Group, Esteban A, Al?a I, Apeztegu?a C. Characteristics and outcomes in adult patients receiving mechanical ventilation: a 28-day international study. JAMA. 2002 Jan 16; 287(3):345-55. PMID: [11790214](//www.ncbi.nlm.nih.gov/pubmed/11790214).
+
+Citations:
+[473](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11790214/citedby/)
+Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  152. Rafanan AL, Golish JA, Dinner DS, Hague LK, **Arroliga AC**. Nocturnal hypoxemia is common in primary pulmonary hypertension. Chest. 2001 Sep; 120(3):894-9. PMID: [11555526](//www.ncbi.nlm.nih.gov/pubmed/11555526).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11555526/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  153. **Arroliga AC**. Noninvasive positive pressure ventilation in acute respiratory failure: does it improve outcomes? Cleve Clin J Med. 2001 Aug; 68(8):677-80. PMID: [11510524](//www.ncbi.nlm.nih.gov/pubmed/11510524).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  154. Aggarwal A, Ong JP, Younossi ZM, Nelson DR, Hoffman-Hogg L, **Arroliga AC**. Predictors of mortality and resource utilization in cirrhotic patients admitted to the medical ICU. Chest. 2001 May; 119(5):1489-97. PMID: [11348958](//www.ncbi.nlm.nih.gov/pubmed/11348958).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11348958/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCTClinical Trials
+
+  155. Desai SA, Minai OA, Gordon SM, O'Neil B, Wiedemann HP, **Arroliga AC**. Coccidioidomycosis in non-endemic areas: a case series. Respir Med. 2001 Apr; 95(4):305-9. PMID: [11316114](//www.ncbi.nlm.nih.gov/pubmed/11316114).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11316114/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansPHPublic Health
+
+  156. Hogg LH, Bobek MB, Mion LC, Legere BM, Banjac S, VanKerkhove K, **Arroliga AC**. Interrater reliability of 2 sedation scales in a medical intensive care unit: a preliminary report. Am J Crit Care. 2001 Mar; 10(2):79-83. PMID: [11244675](//www.ncbi.nlm.nih.gov/pubmed/11244675).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11244675/citedby/) Fields:
+
+Cri Critical CareNur Nursing
+
+Translation:Humans
+
+  157. Aboussouan LS, Khan SU, Banerjee M, **Arroliga AC** , Mitsumoto H. Objective measures of the efficacy of noninvasive positive-pressure ventilation in amyotrophic lateral sclerosis. Muscle Nerve. 2001 Mar; 24(3):403-9. PMID: [11353427](//www.ncbi.nlm.nih.gov/pubmed/11353427).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11353427/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:Humans
+
+  158. Tai DY, El-Bilbeisi H, Tewari S, Mascha EJ, Wiedemann HP, **Arroliga AC**. A study of consecutive autopsies in a medical ICU : a comparison of clinical cause of death and autopsy diagnosis. Chest. 2001 Feb; 119(2):530-6. PMID: [11171734](//www.ncbi.nlm.nih.gov/pubmed/11171734).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11171734/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  159. Jain P, **Arroliga AC**. Spiral CT for lung cancer screening: is it ready for prime time? Cleve Clin J Med. 2001 Jan; 68(1):74-81. PMID: [11204368](//www.ncbi.nlm.nih.gov/pubmed/11204368).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  160. Ozkan M, Dweik RA, Laskowski D, **Arroliga AC** , Erzurum SC. High levels of nitric oxide in individuals with pulmonary hypertension receiving epoprostenol therapy. Lung. 2001; 179(4):233-43. PMID: [11891614](//www.ncbi.nlm.nih.gov/pubmed/11891614).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11891614/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  161. Slomka J, Hoffman-Hogg L, Mion LC, Bair N, Bobek MB, **Arroliga AC**. Influence of clinicians' values and perceptions on use of clinical practice guidelines for sedation and neuromuscular blockade in patients receiving mechanical ventilation. Am J Crit Care. 2000 Nov; 9(6):412-8. PMID: [11072557](//www.ncbi.nlm.nih.gov/pubmed/11072557).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11072557/citedby/) Fields:
+
+Cri Critical CareNur Nursing
+
+Translation:Humans
+
+  162. Arroliga ME, Wagner W, Bobek MB, Hoffman-Hogg L, Gordon SM, **Arroliga AC**. A pilot study of penicillin skin testing in patients with a history of penicillin allergy admitted to a medical ICU. Chest. 2000 Oct; 118(4):1106-8. PMID: [11035685](//www.ncbi.nlm.nih.gov/pubmed/11035685).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11035685/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCTClinical Trials
+
+  163. **Arroliga AC** , Dweik RA, Rafanan AL. Primary pulmonary hypertension and thyroid disease. Chest. 2000 Oct; 118(4):1224-5. PMID: [11035704](//www.ncbi.nlm.nih.gov/pubmed/11035704).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11035704/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  164. Goldstein AB, Goldstein LS, Perl MK, Haug MT, **Arroliga AC** , Stillwell PC. Cystic fibrosis patients with and without central nervous system complications following lung transplantation. Pediatr Pulmonol. 2000 Sep; 30(3):203-6. PMID: [10973038](//www.ncbi.nlm.nih.gov/pubmed/10973038).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10973038/citedby/) Fields:
+
+Ped PediatricsPul Pulmonary Medicine
+
+Translation:Humans
+
+  165. Agich GJ, **Arroliga AC**. Appropriate use of DNR orders: a practical approach. Cleve Clin J Med. 2000 Jun; 67(6):392, 395, 399-400. PMID: [10860220](//www.ncbi.nlm.nih.gov/pubmed/10860220).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10860220/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  166. Wiedemann HP, **Arroliga AC**. Acute respiratory distress syndrome: low-stretch ventilation improves survival. Cleve Clin J Med. 2000 Jun; 67(6):435-40. PMID: [10860226](//www.ncbi.nlm.nih.gov/pubmed/10860226).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10860226/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  167. Rafanan AL, Kakulavar P, Perl J, Andrefsky JC, Nelson DR, **Arroliga AC**. Head computed tomography in medical intensive care unit patients: clinical indications. Crit Care Med. 2000 May; 28(5):1306-9. PMID: [10834670](//www.ncbi.nlm.nih.gov/pubmed/10834670).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10834670/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  168. Sarodia BD, Goldstein LS, Laskowski DM, Mehta AC, **Arroliga AC**. Does pleural fluid pH change significantly at room temperature during the first hour following thoracentesis? Chest. 2000 Apr; 117(4):1043-8. PMID: [10767237](//www.ncbi.nlm.nih.gov/pubmed/10767237).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10767237/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  169. Bair N, Bobek MB, Hoffman-Hogg L, Mion LC, Slomka J, **Arroliga AC**. Introduction of sedative, analgesic, and neuromuscular blocking agent guidelines in a medical intensive care unit: physician and nurse adherence. Crit Care Med. 2000 Mar; 28(3):707-13. PMID: [10752819](//www.ncbi.nlm.nih.gov/pubmed/10752819).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10752819/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  170. **Arroliga AC** , Dweik RA, Kaneko FJ, Erzurum SC. Primary pulmonary hypertension: update on pathogenesis and novel therapies. Cleve Clin J Med. 2000 Mar; 67(3):175-8, 181-5, 189-90. PMID: [10743306](//www.ncbi.nlm.nih.gov/pubmed/10743306).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10743306/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  171. Harrow EM, Abi-Saleh W, Blum J, Harkin T, Gasparini S, Addrizzo-Harris DJ, **Arroliga AC** , Wight G, Mehta AC. The utility of transbronchial needle aspiration in the staging of bronchogenic carcinoma. Am J Respir Crit Care Med. 2000 Feb; 161(2 Pt 1):601-7. PMID: [10673206](//www.ncbi.nlm.nih.gov/pubmed/10673206).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10673206/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansCTClinical Trials
+
+  172. Minai OA, Raja S, Mehta AC, Sullivan EJ, Khan SU, Dasgupta A, **Arroliga AC**. Role of Tc-99m MIBI in the evaluation of single pulmonary nodules: a preliminary report. Thorax. 2000 Jan; 55(1):60-2. PMID: [10607803](//www.ncbi.nlm.nih.gov/pubmed/10607803); PMCID: [PMC1745583](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1745583).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10607803/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  173. Curnock AL, Dweik RA, Higgins BH, Saadi HF, **Arroliga AC**. High prevalence of hypothyroidism in patients with primary pulmonary hypertension. Am J Med Sci. 1999 Nov; 318(5):289-92. PMID: [10555089](//www.ncbi.nlm.nih.gov/pubmed/10555089).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10555089/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  174. Raychaudhuri B, Dweik R, Connors MJ, Buhrow L, Malur A, Drazba J, **Arroliga AC** , Erzurum SC, Kavuru MS, Thomassen MJ. Nitric oxide blocks nuclear factor-kappaB activation in alveolar macrophages. Am J Respir Cell Mol Biol. 1999 Sep; 21(3):311-6. PMID: [10460748](//www.ncbi.nlm.nih.gov/pubmed/10460748).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10460748/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansCells
+
+  175. Khan SU, Salloum J, O'Donovan PB, Mascha EJ, Mehta AC, Matthay MA, **Arroliga AC**. Acute pulmonary edema after lung transplantation: the pulmonary reimplantation response. Chest. 1999 Jul; 116(1):187-94. PMID: [10424524](//www.ncbi.nlm.nih.gov/pubmed/10424524).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10424524/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  176. Legere BM, Dweik RA, **Arroliga AC**. Venous thromboembolism in the intensive care unit. Clin Chest Med. 1999 Jun; 20(2):367-84, ix. PMID: [10386262](//www.ncbi.nlm.nih.gov/pubmed/10386262).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10386262/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  177. Dasgupta A, Jain P, Minai OA, Sandur S, Meli Y, **Arroliga AC** , Mehta AC. Utility of transbronchial needle aspiration in the diagnosis of endobronchial lesions. Chest. 1999 May; 115(5):1237-41. PMID: [10334133](//www.ncbi.nlm.nih.gov/pubmed/10334133).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10334133/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCTClinical Trials
+
+  178. Husni RN, Goldstein LS, **Arroliga AC** , Hall GS, Fatica C, Stoller JK, Gordon SM. Risk factors for an outbreak of multi-drug-resistant Acinetobacter nosocomial pneumonia among intubated patients. Chest. 1999 May; 115(5):1378-82. PMID: [10334156](//www.ncbi.nlm.nih.gov/pubmed/10334156).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10334156/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansPHPublic Health
+
+  179. O'Hagan AR, Stillwell PC, **Arroliga A** , Koo A. Photopheresis in the treatment of refractory bronchiolitis obliterans complicating lung transplantation. Chest. 1999 May; 115(5):1459-62. PMID: [10334173](//www.ncbi.nlm.nih.gov/pubmed/10334173).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10334173/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  180. Gordon SM, LaRosa SP, Kalmadi S, **Arroliga AC** , Avery RK, Truesdell-LaRosa L, Longworth DL. Should prophylaxis for Pneumocystis carinii pneumonia in solid organ transplant recipients ever be discontinued? Clin Infect Dis. 1999 Feb; 28(2):240-6. PMID: [10064238](//www.ncbi.nlm.nih.gov/pubmed/10064238).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10064238/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  181. Sandur S, Dasgupta A, Shapiro JL, **Arroliga AC** , Mehta AC. Thoracic involvement with pheochromocytoma: a review. Chest. 1999 Feb; 115(2):511-21. PMID: [10027454](//www.ncbi.nlm.nih.gov/pubmed/10027454).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10027454/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  182. O'Hagan AR, Stillwell PC, **Arroliga A**. Airway responsiveness to inhaled albuterol in patients with pulmonary hypertension. Clin Pediatr (Phila). 1999 Jan; 38(1):27-33. PMID: [9924639](//www.ncbi.nlm.nih.gov/pubmed/9924639).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9924639/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  183. Minai OA, Dweik RA, **Arroliga AC**. Manifestations of scleroderma pulmonary disease. Clin Chest Med. 1998 Dec; 19(4):713-31, viii-ix. PMID: [9917962](//www.ncbi.nlm.nih.gov/pubmed/9917962).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9917962/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  184. Murin S, Marelich GP, **Arroliga AC** , Matthay RA. Hereditary thrombophilia and venous thromboembolism. Am J Respir Crit Care Med. 1998 Nov; 158(5 Pt 1):1369-73. PMID: [9817680](//www.ncbi.nlm.nih.gov/pubmed/9817680).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9817680/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:Humans
+
+  185. Kaneko FT, **Arroliga AC** , Dweik RA, Comhair SA, Laskowski D, Oppedisano R, Thomassen MJ, Erzurum SC. Biochemical reaction products of nitric oxide as quantitative markers of primary pulmonary hypertension. Am J Respir Crit Care Med. 1998 Sep; 158(3):917-23. PMID: [9731026](//www.ncbi.nlm.nih.gov/pubmed/9731026).
+
+Citations:
+[80](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9731026/citedby/) Fields:
+
+Cri Critical CarePul Pulmonary Medicine
+
+Translation:HumansCells
+
+  186. Jain P, Kathawalla SA, **Arroliga AC**. Managing solitary pulmonary nodules. Cleve Clin J Med. 1998 Jun; 65(6):315-26. PMID: [9637959](//www.ncbi.nlm.nih.gov/pubmed/9637959).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  187. Mazzone P, **Arroliga AC**. Acute dyspnea and hypoxia in a 37-year-old woman with sarcoidosis. Chest. 1998 Mar; 113(3):830-3. PMID: [9515865](//www.ncbi.nlm.nih.gov/pubmed/9515865).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  188. Husni RN, Gordon SM, Longworth DL, **Arroliga A** , Stillwell PC, Avery RK, Maurer JR, Mehta A, Kirby T. Cytomegalovirus infection is a risk factor for invasive aspergillosis in lung transplant recipients. Clin Infect Dis. 1998 Mar; 26(3):753-5. PMID: [9524855](//www.ncbi.nlm.nih.gov/pubmed/9524855).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9524855/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  189. Goldstein LS, Haug MT, Perl J, Perl MK, Maurer JR, **Arroliga AC** , Mehta AC, Kirby T, Higgins B, Stillwell PC. Central nervous system complications after lung transplantation. J Heart Lung Transplant. 1998 Feb; 17(2):185-91. PMID: [9513857](//www.ncbi.nlm.nih.gov/pubmed/9513857).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9513857/citedby/) Fields:
+
+Car CardiologyPul Pulmonary MedicineTra Transplantation
+
+Translation:Humans
+
+  190. Bobek MB, **Arroliga AC**. Stress ulcer prophylaxis: the case for a selective approach. Cleve Clin J Med. 1997 Nov-Dec; 64(10):533-42. PMID: [9385740](//www.ncbi.nlm.nih.gov/pubmed/9385740).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9385740/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  191. Goldstein LS, McCarthy K, Mehta AC, **Arroliga AC**. Is direct collection of pleural fluid into a heparinized syringe important for determination of pleural pH? A brief report. Chest. 1997 Sep; 112(3):707-8. PMID: [9315803](//www.ncbi.nlm.nih.gov/pubmed/9315803).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9315803/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  192. Dweik RA, **Arroliga AC** , Cash JM. Alveolar hemorrhage in patients with rheumatic disease. Rheum Dis Clin North Am. 1997 May; 23(2):395-410. PMID: [9156399](//www.ncbi.nlm.nih.gov/pubmed/9156399).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9156399/citedby/) Fields:
+
+Rhe Rheumatology
+
+Translation:Humans
+
+  193. Kathawalla SA, Stillwell PC, Gordon S, Haug M, Perl M, **Arroliga AC** , Mehta AC, Avery R, Kirby T. Cytomegalovirus infection in seromismatched lung transplant recipients with and without prophylaxis with CMV immunoglobulin. Transplant Proc. 1996 Dec; 28(6 Suppl 2):16. PMID: [9037272](//www.ncbi.nlm.nih.gov/pubmed/9037272).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9037272/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:HumansCells
+
+  194. Dweik RA, Mehta AC, Meeker DP, **Arroliga AC**. Analysis of the safety of bronchoscopy after recent acute myocardial infarction. Chest. 1996 Sep; 110(3):825-8. PMID: [8797432](//www.ncbi.nlm.nih.gov/pubmed/8797432).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8797432/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  195. Khan SU, Gordon SM, Stillwell PC, Kirby TJ, **Arroliga AC**. Empyema and bloodstream infection caused by Burkholderia gladioli in a patient with cystic fibrosis after lung transplantation. Pediatr Infect Dis J. 1996 Jul; 15(7):637-9. PMID: [8823866](//www.ncbi.nlm.nih.gov/pubmed/8823866).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8823866/citedby/) Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:Humans
+
+  196. Ramirez-Rivera A, Elizalde JJ, Delgado R, Cicero R, Ibarra-Perez C, **Arroliga AC** , Padua A, Portales A, Villarreal A, Perez-Romo A, Jerjes-S?nchez C. Intrapleural fibrinolysis with streptokinase as an adjunctive treatment in hemothorax and empyema: a multicenter trial. Chest. 1996 Jun; 109(6):1514-9. PMID: [8769503](//www.ncbi.nlm.nih.gov/pubmed/8769503).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8769503/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansCTClinical Trials
+
+  197. Dweik RA, **Arroliga AC**. A 36-year-old woman with progressive shortness of breath and chylous pleural effusion. Cleve Clin J Med. 1996 Mar-Apr; 63(2):129-31. PMID: [8819698](//www.ncbi.nlm.nih.gov/pubmed/8819698).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  198. Chan CC, Abi-Saleh WJ, **Arroliga AC** , Stillwell PC, Kirby TJ, Gordon SM, Petras RE, Mehta AC. Diagnostic yield and therapeutic impact of flexible bronchoscopy in lung transplant recipients. J Heart Lung Transplant. 1996 Feb; 15(2):196-205. PMID: [8672524](//www.ncbi.nlm.nih.gov/pubmed/8672524).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8672524/citedby/) Fields:
+
+Car CardiologyPul Pulmonary MedicineTra Transplantation
+
+Translation:Humans
+
+  199. Matthay RA, **Arroliga AC**. Resection of pulmonary metastases. Am Rev Respir Dis. 1993 Dec; 148(6 Pt 1):1691-6. PMID: [8256921](//www.ncbi.nlm.nih.gov/pubmed/8256921).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8256921/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  200. **Arroliga AC** , Matthay RA. The role of bronchoscopy in lung cancer. Clin Chest Med. 1993 Mar; 14(1):87-98. PMID: [8462250](//www.ncbi.nlm.nih.gov/pubmed/8462250).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8462250/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  201. Matthay RA, **Arroliga AC** , Wiedemann HP, Schulman DS, Mahler DA. Right ventricular function at rest and during exercise in chronic obstructive pulmonary disease. Chest. 1992 May; 101(5 Suppl):255S-262S. PMID: [1576846](//www.ncbi.nlm.nih.gov/pubmed/1576846).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1576846/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansAnimals
+
+  202. **Arroliga AC** , Podell DN, Matthay RA. Pulmonary manifestations of scleroderma. J Thorac Imaging. 1992 Mar; 7(2):30-45. PMID: [1578524](//www.ncbi.nlm.nih.gov/pubmed/1578524).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1578524/citedby/) Fields:
+
+Dia Diagnostic ImagingPul Pulmonary Medicine
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 198 publications over 28 distinct years, with a maximum of
+13 publications in 2003 and
+2004](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|13&cht=bvs&chd=t:0,0,46,23,54,77,92,69,77,100,100,92,54,46,46,8,54,54,15,54,54,38,0,38,31,54,69,69,77,15,15&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1996| 6  
+1997| 3  
+1998| 7  
+1999| 10  
+2000| 12  
+2001| 9  
+2002| 10  
+2003| 13  
+2004| 13  
+2005| 12  
+2006| 7  
+2007| 6  
+2008| 6  
+2009| 1  
+2010| 7  
+2011| 7  
+2012| 2  
+2013| 7  
+2014| 7  
+2015| 5  
+2017| 5  
+2018| 4  
+2019| 7  
+2020| 9  
+2021| 9  
+2022| 10  
+2023| 2  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ARROLIGA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (709)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Respiration, Artificial](https://profiles.viictr.org/profile/249082)
+  * [Intensive Care Units](https://profiles.viictr.org/profile/247382)
+  * [Hypertension, Pulmonary](https://profiles.viictr.org/profile/252847)
+  * [Critical Care](https://profiles.viictr.org/profile/265115)
+  * [Delivery of Health Care, Integrated](https://profiles.viictr.org/profile/241364)
+
+[Explore](https://profiles.viictr.org/profile/35747113/198)
+
+_
+
+Co-Authors (12)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [DANESH, VALERIE](https://profiles.viictr.org/profile/39702883)
+  * [GHAMANDE, SHEKHAR](https://profiles.viictr.org/profile/37888855)
+  * [BOETHEL, CARL](https://profiles.viictr.org/profile/41712671)
+  * [MIDTURI, JOHN](https://profiles.viictr.org/profile/40068938)
+  * [MUTNAL, MANOHAR](https://profiles.viictr.org/profile/45106439)
+
+[Explore](https://profiles.viictr.org/profile/35747113/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [HUI, DAVID](https://profiles.viictr.org/profile/12583538)
+  * [SZARPAK, LUKASZ](https://profiles.viictr.org/profile/37104232)
+  * [BATES, DAVID](https://profiles.viictr.org/profile/265690)
+  * [KANTARJIAN, HAGOP M](https://profiles.viictr.org/profile/12582901)
+
+[Explore](https://profiles.viictr.org/profile/35747113/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ADHI, FATIMA](https://profiles.viictr.org/profile/34487869)
+  * [FARRELL, JESSICA](https://profiles.viictr.org/profile/16255210)
+  * [GARCHA, PUNEET](https://profiles.viictr.org/profile/30086494)
+  * [MODI, DIPABEN](https://profiles.viictr.org/profile/15317824)
+  * [MOSS, BENJAMIN](https://profiles.viictr.org/profile/34089571)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

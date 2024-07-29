@@ -1,0 +1,244 @@
+## JAMES KILLIAN
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neurology  
+Address| 7200 CAMBRIDGE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=PKA57WnOIYXVRIzgrn7GPw%3d%3d&rnd=16643704-0283-4370-8128-fb5ccb7ea16d)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269499)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=269499&cachekey=44e052a4-eb0e-45c0-bbe2-ec10d08b10c6)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Jones K, Wei C, Iakova P, Bugiardini E, Schneider-Gold C, Meola G, Woodgett J, **Killian J** , Timchenko NA, Timchenko LT. GSK3? mediates muscle pathology in myotonic dystrophy. J Clin Invest. 2012 Dec; 122(12):4461-72. PMID: [23160194](//www.ncbi.nlm.nih.gov/pubmed/23160194); PMCID: [PMC3533547](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3533547).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23160194/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  2. **Killian JM** , Smyth S, Guerra R, Adhikari I, [Harati Y](https://profiles.viictr.org/profile/266433). Comparison of sudomotor and sensory nerve testing in painful sensory neuropathies. J Clin Neuromuscul Dis. 2011 Mar; 12(3):138-42. PMID: [21321492](//www.ncbi.nlm.nih.gov/pubmed/21321492).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21321492/citedby/) Fields:
+
+Neu NeurologyPhy Physiology
+
+Translation:HumansCells
+
+  3. Ward AJ, Rimer M, **Killian JM** , Dowling JJ, [Cooper TA](https://profiles.viictr.org/profile/269742). CUGBP1 overexpression in mouse skeletal muscle reproduces features of myotonic dystrophy type 1. Hum Mol Genet. 2010 Sep 15; 19(18):3614-22. PMID: [20603324](//www.ncbi.nlm.nih.gov/pubmed/20603324); PMCID: [PMC2928132](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2928132).
+
+Citations:
+[84](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20603324/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  4. Hong J, Li H, Chen M, Zang YC, Skinner SM, **Killian JM** , Zhang JZ. Regulatory and pro-inflammatory phenotypes of myelin basic protein-autoreactive T cells in multiple sclerosis. Int Immunol. 2009 Dec; 21(12):1329-40. PMID: [19822525](//www.ncbi.nlm.nih.gov/pubmed/19822525); PMCID: [PMC2779831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2779831).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19822525/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  5. Chen M, Chen G, Nie H, Zhang X, Niu X, Zang YC, Skinner SM, Zhang JZ, **Killian JM** , Hong J. Regulatory effects of IFN-beta on production of osteopontin and IL-17 by CD4+ T Cells in MS. Eur J Immunol. 2009 Sep; 39(9):2525-36. PMID: [19670379](//www.ncbi.nlm.nih.gov/pubmed/19670379).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19670379/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  6. Zang YC, Li S, [Rivera VM](https://profiles.viictr.org/profile/268173), Hong J, Robinson RR, Breitbach WT, **Killian J** , Zhang JZ. Increased CD8+ cytotoxic T cell responses to myelin basic protein in multiple sclerosis. J Immunol. 2004 Apr 15; 172(8):5120-7. PMID: [15067096](//www.ncbi.nlm.nih.gov/pubmed/15067096).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15067096/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  7. Zang YC, Hong J, [Rivera VM](https://profiles.viictr.org/profile/268173), **Killian J** , Zhang JZ. Human anti-idiotypic T cells induced by TCR peptides corresponding to a common CDR3 sequence motif in myelin basic protein-reactive T cells. Int Immunol. 2003 Sep; 15(9):1073-80. PMID: [12917259](//www.ncbi.nlm.nih.gov/pubmed/12917259).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12917259/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  8. [Tejada-Simon MV](https://profiles.viictr.org/profile/268834), Zang YC, Hong J, [Rivera VM](https://profiles.viictr.org/profile/268173), **Killian JM** , Zhang JZ. Detection of viral DNA and immune responses to the human herpesvirus 6 101-kilodalton virion protein in patients with multiple sclerosis and in controls. J Virol. 2002 Jun; 76(12):6147-54. PMID: [12021348](//www.ncbi.nlm.nih.gov/pubmed/12021348); PMCID: [PMC136216](//www.ncbi.nlm.nih.gov/pmc/articles/PMC136216).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12021348/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCells
+
+  9. Zhang JZ, [Rivera VM](https://profiles.viictr.org/profile/268173), [Tejada-Simon MV](https://profiles.viictr.org/profile/268834), Yang D, Hong J, Li S, Haykal H, **Killian J** , Zang YC. T cell vaccination in multiple sclerosis: results of a preliminary study. J Neurol. 2002 Feb; 249(2):212-8. PMID: [11985389](//www.ncbi.nlm.nih.gov/pubmed/11985389).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11985389/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansCellsPHPublic HealthCTClinical Trials
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 9 publications over 7 distinct years, with a maximum of 2
+publications in 2002 and
+2009](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,100,50,50,0,0,0,0,100,50,50,50,0,0,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2002| 2  
+2003| 1  
+2004| 1  
+2009| 2  
+2010| 1  
+2011| 1  
+2012| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+KILLIAN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (105)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Sural Nerve](https://profiles.viictr.org/profile/252590)
+  * [Electrophysiology](https://profiles.viictr.org/profile/246873)
+  * [Sensory Receptor Cells](https://profiles.viictr.org/profile/262717)
+  * [Peripheral Nervous System Diseases](https://profiles.viictr.org/profile/264634)
+  * [Myelin Basic Protein](https://profiles.viictr.org/profile/250356)
+
+[Explore](https://profiles.viictr.org/profile/269499/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HARATI, YADOLLAH](https://profiles.viictr.org/profile/266433)
+  * [COOPER, THOMAS](https://profiles.viictr.org/profile/269742)
+  * [TEJADA-SIMON, MARIA](https://profiles.viictr.org/profile/268834)
+  * [RIVERA, VICTOR](https://profiles.viictr.org/profile/268173)
+
+[Explore](https://profiles.viictr.org/profile/269499/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [DOUGHERTY, PATRICK M](https://profiles.viictr.org/profile/12583743)
+  * [COOPER, THOMAS](https://profiles.viictr.org/profile/269742)
+  * [PAN, HUI-LIN](https://profiles.viictr.org/profile/12583081)
+  * [BRUERA, EDUARDO](https://profiles.viictr.org/profile/12582968)
+  * [RIVERA, VICTOR](https://profiles.viictr.org/profile/268173)
+
+[Explore](https://profiles.viictr.org/profile/269499/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CRUZ-LAUREANO, DANIEL](https://profiles.viictr.org/profile/43590486)
+  * [CUASCUT, FERNANDO](https://profiles.viictr.org/profile/24845174)
+  * [DOODY, RACHELLE](https://profiles.viictr.org/profile/269523)
+  * [FABIAN, RODERIC](https://profiles.viictr.org/profile/267768)
+  * [ORENGO, JAMES](https://profiles.viictr.org/profile/15317718)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiX0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [EDMONDSON, EVERTON](https://profiles.viictr.org/profile/1737880)
+  * [FROST, JR, JAMES](https://profiles.viictr.org/profile/267385)
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+  * [MAHESHWARI, ATUL](https://profiles.viictr.org/profile/268591)
+  * [PAVLIK, VALORY](https://profiles.viictr.org/profile/269512)
+
+_
+

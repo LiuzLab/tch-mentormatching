@@ -1,0 +1,372 @@
+## MARC FELDMAN
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Family and Community Medicine  
+Address| 7200 CAMBRIDGE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=G6oi4ivhJYfxS47jwHnBJ%2fqJIwQ%3d&rnd=65f9be98-37b4-4170-9f23-9e836d285c3d)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=2619403)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Gruslova AB, Katta N, Nolen D, Jenney S, Vela D, Buja M, Cilingiroglu M, Seddighi Y, Han HC, Milner TE, **Feldman MD**. Intravascular laser lithotripsy for calcium fracture in human coronary arteries. EuroIntervention. 2023 Dec 18; 19(11):e913-e922. PMID: [38060282](//www.ncbi.nlm.nih.gov/pubmed/38060282); PMCID: [PMC10722992](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10722992).
+
+Citations:  Fields:
+
+Car CardiologyThe TherapeuticsVas Vascular Diseases
+
+Translation:Humans
+
+  2. Gruslova AB, Inanc IH, Cilingiroglu M, Katta N, Milner TE, **Feldman MD**. Review of intravascular lithotripsy for treating coronary, peripheral artery, and valve calcifications. Catheter Cardiovasc Interv. 2024 02; 103(2):295-307. PMID: [38091341](//www.ncbi.nlm.nih.gov/pubmed/38091341).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  3. Inanc IH, Mutlu D, Efe ZN, Kulaksizoglu S, Marmagkiolis K, [Iliescu C](https://profiles.viictr.org/profile/12583905), Ates I, **Feldman MD** , Cilingiroglu M. Open Radial Artery Study. Am J Cardiol. 2024 01 15; 211:130-136. PMID: [38035500](//www.ncbi.nlm.nih.gov/pubmed/38035500).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  4. Gruslova AB, Singh S, Hoyt T, Vela D, Vengrenyuk Y, Buja LM, Litovsky S, Michalek J, Maehara A, Kini A, Akasaka T, Garcia-Garcia HM, Jang IK, Dijkstra J, Raber L, Milner TE, **Feldman MD**. Accuracy of OCT Core Labs in Identifying?Vulnerable Plaque. JACC Cardiovasc Imaging. 2024 Apr; 17(4):448-450. PMID: [37943235](//www.ncbi.nlm.nih.gov/pubmed/37943235).
+
+Citations:  Fields:
+
+Car CardiologyDia Diagnostic ImagingVas Vascular Diseases
+
+  5. Cilingiroglu M, Kilic ID, Hoyt T, Baruah V, Milner T, McElroy A, Lendel V, Paixao A, Cawich I, Ramirez-Kelly L, Marmagkiolis K, [Iliescu C](https://profiles.viictr.org/profile/12583905), **Feldman MD**. DIAMondback Atherectomy With OCT Visualization for Calcified PAD Lesions (DIAMOCT-PAD Study). J Invasive Cardiol. 2022 02; 34(2):E117-E123. PMID: [35058375](//www.ncbi.nlm.nih.gov/pubmed/35058375).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  6. Aziz MK, Herrmann J, Marmagkiolis K, Balanescu DV, Donisan T, Pushparaji B, Lin HY, Tomakin G, Hoyt T, Pham M, Dijkstra J, Cilingiroglu M, [Lopez-Mattei J](https://profiles.viictr.org/profile/12583221), Zaha V, Anderson HV, **Feldman MD** , Molony DA, [Iliescu CA](https://profiles.viictr.org/profile/12583905). Coronary Stent Healing in Cancer Patients-An Optical Coherence Tomography Perspective. Front Cardiovasc Med. 2021; 8:665303. PMID: [34164440](//www.ncbi.nlm.nih.gov/pubmed/34164440); PMCID: [PMC8215158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8215158).
+
+Citations:
+
+  7. Okutucu S, Cilingiroglu M, **Feldman MD**. Physiologic Assessment of Coronary Stenosis: Current Status and Future Directions. Curr Cardiol Rep. 2021 06 03; 23(7):88. PMID: [34081223](//www.ncbi.nlm.nih.gov/pubmed/34081223).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34081223/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  8. Baruah V, Zahedivash A, Hoyt T, McElroy A, Vela D, Buja LM, Cabe A, Oglesby M, Estrada A, Antonik P, Milner TE, **Feldman MD**. Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT. JACC Cardiovasc Imaging. 2020 08; 13(8):1848-1850. PMID: [32305483](//www.ncbi.nlm.nih.gov/pubmed/32305483).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32305483/citedby/) Fields:
+
+Car CardiologyDia Diagnostic ImagingVas Vascular Diseases
+
+Translation:Humans
+
+  9. Hoyt T, **Feldman MD** , Okutucu S, Lendel V, Marmagkiolis K, McIntosh V, Mego D, Paixao A, [Iliescu C](https://profiles.viictr.org/profile/12583905), Park J, Shaar M, Avci R, McElroy A, Dijkstra J, Milner TE, Ates I, Kose G, Cilingiroglu M. Assessment of Vascular Patency and Inflammation with Intravascular Optical Coherence Tomography in Patients with Superficial Femoral Artery Disease Treated with Zilver PTX Stents. Cardiovasc Revasc Med. 2020 01; 21(1):101-107. PMID: [31395436](//www.ncbi.nlm.nih.gov/pubmed/31395436).
+
+Citations:  Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  10. Katta N, Estrada AD, McElroy AB, Gruslova A, Oglesby M, Cabe AG, **Feldman MD** , Fleming RD, Brenner AJ, Milner TE. Laser brain cancer surgery in a xenograft model guided by optical coherence tomography. Theranostics. 2019; 9(12):3555-3564. PMID: [31281497](//www.ncbi.nlm.nih.gov/pubmed/31281497); PMCID: [PMC6587169](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6587169).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31281497/citedby/) Fields:
+
+Dia Diagnostic ImagingMol Molecular BiologyNan NanotechnologyThe Therapeutics
+
+Translation:HumansAnimals
+
+  11. Yang X, Leesar MA, Ahmed H, Lendel V, Rodriguez G, Mutlu D, Cawich I, Prasad A, Oglesby M, Marmagkiolis K, Phillips NE, Jouke D, Michalek J, Liu Q, Milner T, McElroy A, Hoyt T, **Feldman MD** , Cilingiroglu M. Impact of ticagrelor and aspirin versus clopidogrel and aspirin in symptomatic patients with peripheral arterial disease: Thrombus burden assessed by optical coherence tomography. Cardiovasc Revasc Med. 2018 10; 19(7 Pt A):778-784. PMID: [29550045](//www.ncbi.nlm.nih.gov/pubmed/29550045).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29550045/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  12. Minami Y, Hoyt T, Phipps JE, Milner TE, Xing L, Lee H, Yu B, **Feldman MD** , Jang IK. Lipid-lowering therapy stabilizes the complexity of non-culprit plaques in human coronary artery: a quantitative assessment using OCT bright spot algorithm. Int J Cardiovasc Imaging. 2017 Apr; 33(4):453-461. PMID: [27987040](//www.ncbi.nlm.nih.gov/pubmed/27987040).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27987040/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  13. Phipps JE, Hoyt T, Vela D, Wang T, Michalek JE, Buja LM, Jang IK, Milner TE, **Feldman MD**. Diagnosis of Thin-Capped Fibroatheromas in Intravascular Optical Coherence Tomography Images: Effects of Light Scattering. Circ Cardiovasc Interv. 2016 07; 9(7). PMID: [27406987](//www.ncbi.nlm.nih.gov/pubmed/27406987); PMCID: [PMC4946571](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4946571).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27406987/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  14. Minami Y, Phipps JE, Hoyt T, Milner TE, Ong DS, Soeda T, Vergallo R, **Feldman MD** , Jang IK. Clinical utility of quantitative bright spots analysis in patients with acute coronary syndrome: an optical coherence tomography study. Int J Cardiovasc Imaging. 2015 Dec; 31(8):1479-87. PMID: [26202158](//www.ncbi.nlm.nih.gov/pubmed/26202158).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26202158/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  15. Mancuso JJ, Halaney DL, Elahi S, Ho D, Wang T, Ouyang Y, Dijkstra J, Milner TE, **Feldman MD**. Intravascular optical coherence tomography light scattering artifacts: merry-go-rounding, blooming, and ghost struts. J Biomed Opt. 2014 Dec; 19(12):126017. PMID: [25545341](//www.ncbi.nlm.nih.gov/pubmed/25545341); PMCID: [PMC4659478](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4659478).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:Animals
+
+  16. Ho D, **Feldman MD** , Dijkstra J, Milner TE, Elahi S. Evaluation of IVOCT imaging of coronary artery metallic stents with neointimal coverage. Int J Cardiovasc Imaging. 2015 Mar; 31(3):463-70. PMID: [25395364](//www.ncbi.nlm.nih.gov/pubmed/25395364); PMCID: [PMC4368839](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4368839).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25395364/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  17. Elahi S, Milner TE, Rapoza RJ, Dijkstra J, **Feldman MD**. Flare spots in intravascular optical coherence tomography images of bioabsorbable stents. JACC Cardiovasc Imaging. 2014 Nov; 7(11):1174-5. PMID: [25459600](//www.ncbi.nlm.nih.gov/pubmed/25459600); PMCID: [PMC4352569](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4352569).
+
+Citations:  Fields:
+
+Car CardiologyDia Diagnostic ImagingVas Vascular Diseases
+
+Translation:Humans
+
+  18. Phipps JE, Vela D, Hoyt T, Halaney DL, Mancuso JJ, Buja LM, Asmis R, Milner TE, **Feldman MD**. Macrophages and intravascular OCT bright spots: a quantitative study. JACC Cardiovasc Imaging. 2015 Jan; 8(1):63-72. PMID: [25499133](//www.ncbi.nlm.nih.gov/pubmed/25499133); PMCID: [PMC4297553](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4297553).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25499133/citedby/) Fields:
+
+Car CardiologyDia Diagnostic ImagingVas Vascular Diseases
+
+Translation:HumansCells
+
+  19. Marmagkiolis K, Lendel V, Cawich I, Leesar M, **Feldman MD** , Cilingiroglu M. Optical coherence tomography to guide below-the-knee endovascular interventions. Int J Cardiol. 2014 Oct 20; 176(3):1336-8. PMID: [25168099](//www.ncbi.nlm.nih.gov/pubmed/25168099).
+
+Citations:  Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  20. Marmagkiolis K, Lendel V, Leesar MA, **Feldman MD** , Cilingiroglu M. Use of optical coherence tomography during superficial femoral artery interventions. J Invasive Cardiol. 2014 May; 26(5):220-3. PMID: [24791721](//www.ncbi.nlm.nih.gov/pubmed/24791721).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24791721/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  21. Elahi S, **Feldman MD** , Dijkstra J, Milner TE. Intravascular optical coherence tomography measurement of size and apposition of metallic stents. Biomed Opt Express. 2013; 4(10):1876-82. PMID: [24156050](//www.ncbi.nlm.nih.gov/pubmed/24156050); PMCID: [PMC3799652](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3799652).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24156050/citedby/)
+
+  22. Tearney GJ, Regar E, Akasaka T, Adriaenssens T, Barlis P, Bezerra HG, Bouma B, Bruining N, Cho JM, Chowdhary S, Costa MA, de Silva R, Dijkstra J, Di Mario C, Dudek D, Dudeck D, Falk E, Falk E, **Feldman MD** , Fitzgerald P, Garcia-Garcia HM, Garcia H, Gonzalo N, Granada JF, Guagliumi G, Holm NR, Honda Y, Ikeno F, Kawasaki M, Kochman J, Koltowski L, Kubo T, Kume T, Kyono H, Lam CC, Lamouche G, Lee DP, Leon MB, Maehara A, Manfrini O, Mintz GS, Mizuno K, Nadkarni S, Okura H, Otake H, Pietrasik A, Prati F, Radu MD, Rieber J, Riga M, Rollins A, Rosenberg M, Sirbu V, Serruys PW, Shimada K, Shinke T, Shite J, Siegel E, Sonoda S, Sonada S, Suter M, Takarada S, Tanaka A, Terashima M, Thim T, Troels T, Uemura S, Ughi GJ, van Beusekom HM, van der Steen AF, van Es GA, van Es GA, van Soest G, Virmani R, Waxman S, Weissman NJ, Weisz G, International Working Group for Intravascular Optical Coherence Tomography (IWG-IVOCT), Morel MA, R?ber L. Consensus standards for acquisition, measurement, and reporting of intravascular optical coherence tomography studies: a report from the International Working Group for Intravascular Optical Coherence Tomography Standardization and Validation. J Am Coll Cardiol. 2012 Mar 20; 59(12):1058-72. PMID: [22421299](//www.ncbi.nlm.nih.gov/pubmed/22421299).
+
+Citations:
+[422](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22421299/citedby/)
+Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  23. Villard JW, Paranjape AS, Victor DA, **Feldman MD**. Applications of optical coherence tomography in cardiovascular medicine, Part 2. J Nucl Cardiol. 2009 Jul-Aug; 16(4):620-39. PMID: [19479314](//www.ncbi.nlm.nih.gov/pubmed/19479314); PMCID: [PMC4352576](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4352576).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19479314/citedby/) Fields:
+
+Car Cardiology
+
+Translation:HumansAnimals
+
+  24. Oh J, **Feldman MD** , Kim J, Sanghi P, Do D, Mancuso JJ, Kemp N, Cilingiroglu M, Milner TE. Detection of macrophages in atherosclerotic tissue using magnetic nanoparticles and differential phase optical coherence tomography. J Biomed Opt. 2008 Sep-Oct; 13(5):054006. PMID: [19021386](//www.ncbi.nlm.nih.gov/pubmed/19021386).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19021386/citedby/) Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:AnimalsCells
+
+  25. Cilingiroglu M, Oh JH, Sugunan B, Kemp NJ, Kim J, Lee S, Zaatari HN, Escobedo D, Thomsen S, Milner TE, **Feldman MD**. Detection of vulnerable plaque in a murine model of atherosclerosis with optical coherence tomography. Catheter Cardiovasc Interv. 2006 Jun; 67(6):915-23. PMID: [16602128](//www.ncbi.nlm.nih.gov/pubmed/16602128).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16602128/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Animals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 25 publications over 14 distinct years, with a maximum of
+6 publications in
+2014](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,17,0,17,17,0,0,17,17,100,17,33,0,17,33,17,33,17,67,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 1  
+2008| 1  
+2009| 1  
+2012| 1  
+2013| 1  
+2014| 6  
+2015| 1  
+2016| 2  
+2018| 1  
+2019| 2  
+2020| 1  
+2021| 2  
+2022| 1  
+2023| 4  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+FELDMAN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (125)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Tomography, Optical Coherence](https://profiles.viictr.org/profile/255684)
+  * [Plaque, Atherosclerotic](https://profiles.viictr.org/profile/27545901)
+  * [Vascular Calcification](https://profiles.viictr.org/profile/27546670)
+  * [Coronary Vessels](https://profiles.viictr.org/profile/253250)
+  * [Coronary Artery Disease](https://profiles.viictr.org/profile/252831)
+
+[Explore](https://profiles.viictr.org/profile/2619403/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ILIESCU, CEZAR](https://profiles.viictr.org/profile/12583905)
+  * [LOPEZ-MATTEI, JUAN](https://profiles.viictr.org/profile/12583221)
+
+[Explore](https://profiles.viictr.org/profile/2619403/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [LARIN, KIRILL](https://profiles.viictr.org/profile/266154)
+  * [BALLANTYNE, CHRISTIE](https://profiles.viictr.org/profile/266404)
+  * [BAKAEEN, FAISAL](https://profiles.viictr.org/profile/266938)
+  * [KLEIMAN, NEAL](https://profiles.viictr.org/profile/267822)
+
+[Explore](https://profiles.viictr.org/profile/2619403/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [KHAN, SAIRA](https://profiles.viictr.org/profile/265911)
+  * [NGUYEN, STEPHANIE](https://profiles.viictr.org/profile/31636183)
+  * [PARKER, DON](https://profiles.viictr.org/profile/43156739)
+  * [TELUFUSI, ABIMBOLA](https://profiles.viictr.org/profile/11701634)
+  * [THERRIEN, CHELSEA](https://profiles.viictr.org/profile/35420565)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8pKPLZTII9EhwqdsLc16uFjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BOSQUEZ, ELIZABETH](https://profiles.viictr.org/profile/3009511)
+  * [COLON-RIVERA, NILDA](https://profiles.viictr.org/profile/269384)
+  * [PHAN, CHARLES](https://profiles.viictr.org/profile/269963)
+  * [RAKEL, ROBERT](https://profiles.viictr.org/profile/269682)
+  * [STATES, SHELLY](https://profiles.viictr.org/profile/2619337)
+
+_
+

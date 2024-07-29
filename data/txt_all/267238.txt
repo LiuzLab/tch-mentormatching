@@ -1,0 +1,525 @@
+## THOMAS CATE
+
+| | Title| Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza-Bcm280-Rm 205a  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Iqgx9WDnIoj4CIrp9Q%3d%3d&rnd=bfe21068-32cf-4061-9100-1cdb393c8950)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267238)  
+  
+
+Other Positions| Title| Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Division| Molecular Virology & Microbiology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Atmar RL](https://profiles.viictr.org/profile/268394), [Keitel WA](https://profiles.viictr.org/profile/267970), Quarles JM, **Cate TR** , [Patel SM](https://profiles.viictr.org/profile/269161), Nino D, Wells J, Arden N, Guo K, Hill H, [Couch RB](https://profiles.viictr.org/profile/267241). Evaluation of age-related differences in the immunogenicity of a G9 H9N2 influenza vaccine. Vaccine. 2011 Oct 19; 29(45):8066-72. PMID: [21864622](//www.ncbi.nlm.nih.gov/pubmed/21864622); PMCID: [PMC3196602](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3196602).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21864622/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  2. Frenck RW, Belshe R, Brady RC, Winokur PL, Campbell JD, Treanor J, Hay CM, Dekker CL, Walter EB, **Cate TR** , Edwards KM, Hill H, Wolff M, Leduc T, Tornieporth N. Comparison of the immunogenicity and safety of a split-virion, inactivated, trivalent influenza vaccine (Fluzone?) administered by intradermal and intramuscular route in healthy adults. Vaccine. 2011 Aug 05; 29(34):5666-74. PMID: [21699951](//www.ncbi.nlm.nih.gov/pubmed/21699951); PMCID: [PMC3150501](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3150501).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21699951/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCellsPHPublic HealthCTClinical Trials
+
+  3. **Cate TR** , Rayford Y, Winokur P, Brady R, Belshe R, Chen W, [Atmar RL](https://profiles.viictr.org/profile/268394), [Couch RB](https://profiles.viictr.org/profile/267241), Ni?o D. A high dosage influenza vaccine induced significantly more neuraminidase antibody than standard vaccine among elderly subjects. Vaccine. 2010 Feb 25; 28(9):2076-9. PMID: [20044052](//www.ncbi.nlm.nih.gov/pubmed/20044052); PMCID: [PMC2853016](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2853016).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20044052/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  4. [Patel SM](https://profiles.viictr.org/profile/269161), [Atmar RL](https://profiles.viictr.org/profile/268394), [El Sahly HM](https://profiles.viictr.org/profile/266773), **Cate TR** , [Keitel WA](https://profiles.viictr.org/profile/267970). A phase I evaluation of inactivated influenza A/H5N1 vaccine administered by the intradermal or the intramuscular route. Vaccine. 2010 Apr 09; 28(17):3025-9. PMID: [19931380](//www.ncbi.nlm.nih.gov/pubmed/19931380); PMCID: [PMC2913582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2913582).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19931380/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCellsCTClinical Trials
+
+  5. [Couch RB](https://profiles.viictr.org/profile/267241), [Atmar RL](https://profiles.viictr.org/profile/268394), **Cate TR** , Quarles JM, [Keitel WA](https://profiles.viictr.org/profile/267970), Arden NH, Wells J, Wyde PR, Ni?o D. Contrasting effects of type I interferon as a mucosal adjuvant for influenza vaccine in mice and humans. Vaccine. 2009 Aug 27; 27(39):5344-8. PMID: [19607949](//www.ncbi.nlm.nih.gov/pubmed/19607949); PMCID: [PMC2778204](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2778204).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19607949/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  6. [El Sahly HM](https://profiles.viictr.org/profile/266773), [Atmar RL](https://profiles.viictr.org/profile/268394), Patel SM, Wells JM, **Cate T** , Ho M, Guo K, Pasetti MF, Lewis DE, Sztein MB, [Keitel WA](https://profiles.viictr.org/profile/267970). Safety, reactogenicity and immunogenicity of Francisella tularensis live vaccine strain in humans. Vaccine. 2009 Aug 06; 27(36):4905-11. PMID: [19567246](//www.ncbi.nlm.nih.gov/pubmed/19567246); PMCID: [PMC2726995](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2726995).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19567246/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  7. [Keitel WA](https://profiles.viictr.org/profile/267970), [Atmar RL](https://profiles.viictr.org/profile/268394), Nino D, **Cate TR** , [Couch RB](https://profiles.viictr.org/profile/267241). Increasing doses of an inactivated influenza A/H1N1 vaccine induce increasing levels of cross-reacting antibody to subsequent, antigenically different, variants. J Infect Dis. 2008 Oct 01; 198(7):1016-8. PMID: [18729777](//www.ncbi.nlm.nih.gov/pubmed/18729777).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18729777/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  8. Talbot HK, [Keitel W](https://profiles.viictr.org/profile/267970), **Cate TR** , Treanor J, Campbell J, Brady RC, Graham I, Dekker CL, Ho D, Winokur P, Walter E, Bennet J, Formica N, Hartel G, Skeljo M, Edwards KM. Immunogenicity, safety and consistency of new trivalent inactivated influenza vaccine. Vaccine. 2008 Jul 29; 26(32):4057-61. PMID: [18602726](//www.ncbi.nlm.nih.gov/pubmed/18602726); PMCID: [PMC2605420](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2605420).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18602726/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCellsCTClinical Trials
+
+  9. [Couch RB](https://profiles.viictr.org/profile/267241), Winokur P, Brady R, Belshe R, Chen WH, **Cate TR** , Sigurdardottir B, Hoeper A, Graham IL, Edelman R, He F, Nino D, Capellan J, Ruben FL. Safety and immunogenicity of a high dosage trivalent influenza vaccine among elderly subjects. Vaccine. 2007 Nov 01; 25(44):7656-63. PMID: [17913310](//www.ncbi.nlm.nih.gov/pubmed/17913310); PMCID: [PMC2243220](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2243220).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17913310/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCellsCTClinical Trials
+
+  10. [Atmar RL](https://profiles.viictr.org/profile/268394), [Keitel WA](https://profiles.viictr.org/profile/267970), **Cate TR** , Munoz FM, Ruben F, [Couch RB](https://profiles.viictr.org/profile/267241). A dose-response evaluation of inactivated influenza vaccine given intranasally and intramuscularly to healthy young adults. Vaccine. 2007 Jul 20; 25(29):5367-73. PMID: [17559990](//www.ncbi.nlm.nih.gov/pubmed/17559990); PMCID: [PMC2063441](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2063441).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17559990/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:Humans
+
+  11. [Atmar RL](https://profiles.viictr.org/profile/268394), [Keitel WA](https://profiles.viictr.org/profile/267970), [Patel SM](https://profiles.viictr.org/profile/269161), Katz JM, She D, [El Sahly H](https://profiles.viictr.org/profile/266773), Pompey J, **Cate TR** , [Couch RB](https://profiles.viictr.org/profile/267241). Safety and immunogenicity of nonadjuvanted and MF59-adjuvanted influenza A/H9N2 vaccine preparations. Clin Infect Dis. 2006 Nov 01; 43(9):1135-42. PMID: [17029131](//www.ncbi.nlm.nih.gov/pubmed/17029131).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17029131/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsCTClinical Trials
+
+  12. [Keitel WA](https://profiles.viictr.org/profile/267970), [Atmar RL](https://profiles.viictr.org/profile/268394), **Cate TR** , Petersen NJ, [Greenberg SB](https://profiles.viictr.org/profile/267393), Ruben F, [Couch RB](https://profiles.viictr.org/profile/267241). Safety of high doses of influenza vaccine and effect on antibody responses in elderly persons. Arch Intern Med. 2006 May 22; 166(10):1121-7. PMID: [16717175](//www.ncbi.nlm.nih.gov/pubmed/16717175).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16717175/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:HumansCells
+
+  13. Treanor JJ, Schiff GM, [Couch RB](https://profiles.viictr.org/profile/267241), **Cate TR** , Brady RC, Hay CM, Wolff M, She D, Cox MM. Dose-related safety and immunogenicity of a trivalent baculovirus-expressed influenza-virus hemagglutinin vaccine in elderly adults. J Infect Dis. 2006 May 01; 193(9):1223-8. PMID: [16586358](//www.ncbi.nlm.nih.gov/pubmed/16586358).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16586358/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  14. McCool TL, **Cate TR** , Tuomanen EI, Adrian P, Mitchell TJ, Weiser JN. Serum immunoglobulin G response to candidate vaccine antigens during experimental human pneumococcal colonization. Infect Immun. 2003 Oct; 71(10):5724-32. PMID: [14500493](//www.ncbi.nlm.nih.gov/pubmed/14500493); PMCID: [PMC201056](//www.ncbi.nlm.nih.gov/pmc/articles/PMC201056).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14500493/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansCells
+
+  15. [Keitel WA](https://profiles.viictr.org/profile/267970), **Cate TR** , Nino D, Huggins LL, Six HR, Quarles JM, [Couch RB](https://profiles.viictr.org/profile/267241). Immunization against influenza: comparison of various topical and parenteral regimens containing inactivated and/or live attenuated vaccines in healthy adults. J Infect Dis. 2001 Jan 15; 183(2):329-332. PMID: [11110645](//www.ncbi.nlm.nih.gov/pubmed/11110645).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11110645/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsPHPublic HealthCTClinical Trials
+
+  16. Frangogiannis NG, **Cate TR**. Endocarditis and Ureaplasma urealyticum osteomyelitis in a hypogammaglobulinemic patient. A case report and review of the literature. J Infect. 1998 Sep; 37(2):181-4. PMID: [9821094](//www.ncbi.nlm.nih.gov/pubmed/9821094).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9821094/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCells
+
+  17. **Cate TR**. Impact of influenza and other community-acquired viruses. Semin Respir Infect. 1998 Mar; 13(1):17-23. PMID: [9543472](//www.ncbi.nlm.nih.gov/pubmed/9543472).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9543472/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  18. White AC, [Atmar RL](https://profiles.viictr.org/profile/268394), Wilson J, **Cate TR** , Stager CE, Greenberg SB. Effects of requiring prior authorization for selected antimicrobials: expenditures, susceptibilities, and clinical outcomes. Clin Infect Dis. 1997 Aug; 25(2):230-9. PMID: [9332517](//www.ncbi.nlm.nih.gov/pubmed/9332517).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9332517/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsPHPublic Health
+
+  19. [Couch RB](https://profiles.viictr.org/profile/267241), [Keitel WA](https://profiles.viictr.org/profile/267970), **Cate TR**. Improvement of inactivated influenza virus vaccines. J Infect Dis. 1997 Aug; 176 Suppl 1:S38-44. PMID: [9240693](//www.ncbi.nlm.nih.gov/pubmed/9240693).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9240693/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  20. [Keitel WA](https://profiles.viictr.org/profile/267970), **Cate TR** , [Couch RB](https://profiles.viictr.org/profile/267241), Huggins LL, Hess KR. Efficacy of repeated annual immunization with inactivated influenza virus vaccines over a five year period. Vaccine. 1997 Jul; 15(10):1114-22. PMID: [9269055](//www.ncbi.nlm.nih.gov/pubmed/9269055).
+
+Citations:
+[75](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9269055/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCellsPHPublic HealthCTClinical Trials
+
+  21. Mbawuike IN, [Piedra PA](https://profiles.viictr.org/profile/268114), **Cate TR** , [Couch RB](https://profiles.viictr.org/profile/267241). Cytotoxic T lymphocyte responses of infants after natural infection or immunization with live cold-recombinant or inactivated influenza A virus vaccine. J Med Virol. 1996 Oct; 50(2):105-11. PMID: [8915874](//www.ncbi.nlm.nih.gov/pubmed/8915874).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8915874/citedby/) Fields:
+
+Vir Virology
+
+Translation:HumansCellsPHPublic HealthCTClinical Trials
+
+  22. Frangogiannis NG, Boridy I, Mazhar M, Mathews R, Gangopadhyay S, **Cate T**. Cyclophosphamide in the treatment of toxic epidermal necrolysis. South Med J. 1996 Oct; 89(10):1001-3. PMID: [8865797](//www.ncbi.nlm.nih.gov/pubmed/8865797).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8865797/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  23. [Keitel WA](https://profiles.viictr.org/profile/267970), **Cate TR** , [Atmar RL](https://profiles.viictr.org/profile/268394), Turner CS, Nino D, Dukes CM, Six HR, [Couch RB](https://profiles.viictr.org/profile/267241). Increasing doses of purified influenza virus hemagglutinin and subvirion vaccines enhance antibody responses in the elderly. Clin Diagn Lab Immunol. 1996 Sep; 3(5):507-10. PMID: [8877126](//www.ncbi.nlm.nih.gov/pubmed/8877126); PMCID: [PMC170397](//www.ncbi.nlm.nih.gov/pmc/articles/PMC170397).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8877126/citedby/) Fields:
+
+All Allergy and ImmunologyCli Clinical Laboratory Techniques
+
+Translation:HumansCTClinical Trials
+
+  24. Yechoor VK, [Shandera WX](https://profiles.viictr.org/profile/266906), Rodriguez P, **Cate TR**. Tuberculous meningitis among adults with and without HIV infection. Experience in an urban public hospital. Arch Intern Med. 1996 Aug 12-26; 156(15):1710-6. PMID: [8694670](//www.ncbi.nlm.nih.gov/pubmed/8694670).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8694670/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:HumansCells
+
+  25. [Atmar RL](https://profiles.viictr.org/profile/268394), [Keitel WA](https://profiles.viictr.org/profile/267970), **Cate TR** , Quarles JM, [Couch RB](https://profiles.viictr.org/profile/267241). Comparison of trivalent cold-adapted recombinant (CR) influenza virus vaccine with monovalent CR vaccines in healthy unselected adults. J Infect Dis. 1995 Jul; 172(1):253-7. PMID: [7797925](//www.ncbi.nlm.nih.gov/pubmed/7797925).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7797925/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsCTClinical Trials
+
+  26. Mbawuike IN, Dillion SB, Demuth SG, Jones CS, **Cate TR** , [Couch RB](https://profiles.viictr.org/profile/267241). Influenza A subtype cross-protection after immunization of outbred mice with a purified chimeric NS1/HA2 influenza virus protein. Vaccine. 1994 Nov; 12(14):1340-8. PMID: [7856302](//www.ncbi.nlm.nih.gov/pubmed/7856302).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7856302/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCells
+
+  27. [Keitel WA](https://profiles.viictr.org/profile/267970), [Couch RB](https://profiles.viictr.org/profile/267241), **Cate TR** , Hess KR, Baxter B, Quarles JM, [Atmar RL](https://profiles.viictr.org/profile/268394), Six HR. High doses of purified influenza A virus hemagglutinin significantly augment serum and nasal secretion antibody responses in healthy young adults. J Clin Microbiol. 1994 Oct; 32(10):2468-73. PMID: [7814484](//www.ncbi.nlm.nih.gov/pubmed/7814484); PMCID: [PMC264085](//www.ncbi.nlm.nih.gov/pmc/articles/PMC264085).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7814484/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansCTClinical Trials
+
+  28. Genta RM, Bleyzer I, **Cate TR** , Tandon AK, Yoffe B. In situ hybridization and immunohistochemical analysis of cytomegalovirus-associated ileal perforation. Gastroenterology. 1993 Jun; 104(6):1822-7. PMID: [8388840](//www.ncbi.nlm.nih.gov/pubmed/8388840).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8388840/citedby/) Fields:
+
+Gas Gastroenterology
+
+Translation:HumansCells
+
+  29. [Keitel WA](https://profiles.viictr.org/profile/267970), [Couch RB](https://profiles.viictr.org/profile/267241), Quarles JM, **Cate TR** , Baxter B, Maassab HF. Trivalent attenuated cold-adapted influenza virus vaccine: reduced viral shedding and serum antibody responses in susceptible adults. J Infect Dis. 1993 Feb; 167(2):305-11. PMID: [8421165](//www.ncbi.nlm.nih.gov/pubmed/8421165).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8421165/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsPHPublic HealthCTClinical Trials
+
+  30. Dowell ME, Ross PG, Musher DM, **Cate TR** , Baughn RE. Response of latent syphilis or neurosyphilis to ceftriaxone therapy in persons infected with human immunodeficiency virus. Am J Med. 1992 Nov; 93(5):481-8. PMID: [1442850](//www.ncbi.nlm.nih.gov/pubmed/1442850).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1442850/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  31. [Rodriguez-Barradas MC](https://profiles.viictr.org/profile/269379), Musher DM, Lahart C, Lacke C, Groover J, Watson D, Baughn R, **Cate T** , Crofoot G. Antibody to capsular polysaccharides of Streptococcus pneumoniae after vaccination of human immunodeficiency virus-infected subjects with 23-valent pneumococcal vaccine. J Infect Dis. 1992 Mar; 165(3):553-6. PMID: [1347058](//www.ncbi.nlm.nih.gov/pubmed/1347058).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1347058/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsPHPublic Health
+
+  32. Mbawuike IN, Six HR, **Cate TR** , [Couch RB](https://profiles.viictr.org/profile/267241). Vaccination with inactivated influenza A virus during pregnancy protects neonatal mice against lethal challenge by influenza A viruses representing three subtypes. J Virol. 1990 Mar; 64(3):1370-4. PMID: [2304146](//www.ncbi.nlm.nih.gov/pubmed/2304146); PMCID: [PMC249259](//www.ncbi.nlm.nih.gov/pmc/articles/PMC249259).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2304146/citedby/) Fields:
+
+Vir Virology
+
+Translation:AnimalsCellsPHPublic Health
+
+  33. [Keitel WA](https://profiles.viictr.org/profile/267970), [Couch RB](https://profiles.viictr.org/profile/267241), **Cate TR** , Six HR, Baxter BD. Cold recombinant influenza B/Texas/1/84 vaccine virus (CRB 87): attenuation, immunogenicity, and efficacy against homotypic challenge. J Infect Dis. 1990 Jan; 161(1):22-6. PMID: [2153185](//www.ncbi.nlm.nih.gov/pubmed/2153185).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2153185/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansCellsCTClinical Trials
+
+  34. **Cate TR**. Prevention of severe lower respiratory tract infections. Semin Respir Infect. 1989 Dec; 4(4):243-4. PMID: [2626599](//www.ncbi.nlm.nih.gov/pubmed/2626599).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:HumansPHPublic Health
+
+  35. [Keitel WA](https://profiles.viictr.org/profile/267970), **Cate TR** , [Couch RB](https://profiles.viictr.org/profile/267241). Efficacy of sequential annual vaccination with inactivated influenza virus vaccine. Am J Epidemiol. 1988 Feb; 127(2):353-64. PMID: [3337087](//www.ncbi.nlm.nih.gov/pubmed/3337087).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3337087/citedby/) Fields:
+
+Epi Epidemiology
+
+Translation:HumansPHPublic HealthCTClinical Trials
+
+  36. Murphy BR, Rennels MB, Douglas RG, Betts RF, [Couch RB](https://profiles.viictr.org/profile/267241), **Cate TR** , Chanock RM, Kendal AP, Maassab HF, Suwanagool S, Sotman SB, Cisneros LA, Anthony WC, Nalin DR, Levine MM. Evaluation of influenza A/Hong Kong/123/77 (H1N1) ts-1A2 and cold-adapted recombinant viruses in seronegative adult volunteers. Infect Immun. 1980 Aug; 29(2):348-55. PMID: [7216417](//www.ncbi.nlm.nih.gov/pubmed/7216417); PMCID: [PMC551124](//www.ncbi.nlm.nih.gov/pmc/articles/PMC551124).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7216417/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansCellsPHPublic Health
+
+  37. Murphy BR, Markoff LJ, Chanock RM, Spring SB, Maassab HF, Kendal AP, Cox NJ, Levine MM, Douglas RG, Betts RF, [Couch RB](https://profiles.viictr.org/profile/267241), **Cate TR**. Genetic approaches to attenuation of influenza A viruses for man. Philos Trans R Soc Lond B Biol Sci. 1980 Feb 25; 288(1029):401-15. PMID: [6103558](//www.ncbi.nlm.nih.gov/pubmed/6103558).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6103558/citedby/) Fields:
+
+Bio Biology
+
+Translation:HumansAnimalsCells
+
+  38. Murphy BR, Chanock RM, Levine MM, van Blerk GA, Berquist EJ, Douglas RG, Betts RF, [Couch RB](https://profiles.viictr.org/profile/267241), **Cate TR**. Temperature-sensitive mutants of influenza A virus: evaluation of the A/Victoria/75-ts-1A2 temperature-sensitive recombinant virus in seronegative adult volunteers. Infect Immun. 1979 Feb; 23(2):249-52. PMID: [422239](//www.ncbi.nlm.nih.gov/pubmed/422239); PMCID: [PMC414156](//www.ncbi.nlm.nih.gov/pmc/articles/PMC414156).
+
+Citations: [9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/422239/citedby/)
+Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:HumansCells
+
+  39. Murphy BR, Markoff LJ, Hosier NT, Rusten HM, Chanock RM, Kendal AP, Douglas RG, Betts RF, **Cate TR** , [Couch RB](https://profiles.viictr.org/profile/267241), Levine MM, Waterman DH, Holley HP. Temperature-sensitive mutants of influenza A virus: evaluation of A/Victoria/3/75-ts-1[E] recombinant viruses in volunteers. Infect Immun. 1978 Jun; 20(3):671-7. PMID: [669819](//www.ncbi.nlm.nih.gov/pubmed/669819); PMCID: [PMC421911](//www.ncbi.nlm.nih.gov/pmc/articles/PMC421911).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/669819/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:Cells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 27 publications over 12 distinct years, with a maximum of
+4 publications in 1996 and
+2009](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:50,25,100,75,50,0,25,0,0,25,0,0,75,50,50,100,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 2  
+1995| 1  
+1996| 4  
+1997| 3  
+1998| 2  
+2000| 1  
+2003| 1  
+2006| 3  
+2007| 2  
+2008| 2  
+2009| 4  
+2011| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+CATE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (187)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Influenza Vaccines](https://profiles.viictr.org/profile/250014)
+  * [Influenza, Human](https://profiles.viictr.org/profile/252596)
+  * [Antibodies, Viral](https://profiles.viictr.org/profile/253398)
+  * [Influenza A virus](https://profiles.viictr.org/profile/259336)
+  * [Neuraminidase](https://profiles.viictr.org/profile/248782)
+
+[Explore](https://profiles.viictr.org/profile/267238/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [COUCH, ROBERT](https://profiles.viictr.org/profile/267241)
+  * [KEITEL, WENDY](https://profiles.viictr.org/profile/267970)
+  * [ATMAR, ROBERT](https://profiles.viictr.org/profile/268394)
+  * [PATEL, SHITAL](https://profiles.viictr.org/profile/269161)
+  * [EL SAHLY, HANA](https://profiles.viictr.org/profile/266773)
+
+[Explore](https://profiles.viictr.org/profile/267238/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [GAGLANI, MANJUSHA](https://profiles.viictr.org/profile/45302198)
+  * [KEITEL, WENDY](https://profiles.viictr.org/profile/267970)
+  * [CROWE, JAMES](https://profiles.viictr.org/profile/266189)
+  * [MUNOZ-RIVAS, FLOR](https://profiles.viictr.org/profile/267015)
+  * [ATMAR, ROBERT](https://profiles.viictr.org/profile/268394)
+
+[Explore](https://profiles.viictr.org/profile/267238/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [ARYA, MONISHA](https://profiles.viictr.org/profile/265907)
+  * [CLARK, EVA](https://profiles.viictr.org/profile/22016462)
+  * [HAMDI, AHMED](https://profiles.viictr.org/profile/31564382)
+  * [LAMBING, TYLER](https://profiles.viictr.org/profile/31564381)
+  * [MINDRU, CEZARINA](https://profiles.viictr.org/profile/4721586)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [FLASH, CHARLENE](https://profiles.viictr.org/profile/268780)
+  * [GIORDANO, THOMAS](https://profiles.viictr.org/profile/269417)
+  * [JAFFE, PENNY](https://profiles.viictr.org/profile/268305)
+  * [OKHUYSEN, PABLO](https://profiles.viictr.org/profile/269219)
+  * [RAMSHESH, PRIYA](https://profiles.viictr.org/profile/268629)
+
+_
+

@@ -1,0 +1,830 @@
+## ROOMASA CHANNA
+
+| | Title| Adjunct Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=BKQ%2f7GTUIcXWTo7j7nriKLeBaRSOgg%3d%3d&rnd=477d8e19-77d5-4682-945e-25d9280e75bb)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=28999144)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Brown JE, Fowler BJ, **Channa R** , Brown JE. RETRACTABLE UROLOGY THREE-PRONGED GRASPING FORCEPS FOR REMOVAL OF LARGE, NONMAGNETIC INTRAOCULAR FOREIGN BODIES. Retin Cases Brief Rep. 2024 Jul 01; 18(4):433-435. PMID: [36657155](//www.ncbi.nlm.nih.gov/pubmed/36657155).
+
+Citations:
+
+  2. Xie Z, Zhang T, Kim S, Lu J, Zhang W, Lin CH, Wu MR, Davis A, **Channa R** , Giancardo L, Chen H, Wang S, Chen R, Zhi D. iGWAS: Image-based genome-wide association of self-supervised deep phenotyping of retina fundus images. PLoS Genet. 2024 May; 20(5):e1011273. PMID: [38728357](//www.ncbi.nlm.nih.gov/pubmed/38728357); PMCID: [PMC11111076](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11111076).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38728357/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  3. Liu TYA, Huang J, **Channa R** , Wolf R, Dong Y, Liang M, Wang J, Abramoff M. Autonomous Artificial Intelligence Increases Access and Health Equity in Underserved Populations with Diabetes. Res Sq. 2024 Mar 13. PMID: [38559222](//www.ncbi.nlm.nih.gov/pubmed/38559222); PMCID: [PMC10980149](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10980149).
+
+Citations:
+
+  4. Liu TYA, Shpigel J, Khan F, Smith K, Prichett L, **Channa R** , Kanbour S, Jones M, Abusamaan MS, Sidhaye A, Mathioudakis N, Wolf RM. Use of Diabetes Technologies and Retinopathy in Adults With Type 1 Diabetes. JAMA Netw Open. 2024 Mar 04; 7(3):e240728. PMID: [38446483](//www.ncbi.nlm.nih.gov/pubmed/38446483); PMCID: [PMC10918500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10918500).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  5. Domalpally A, Slater R, Linderman RE, Balaji R, Bogost J, Voland R, Pak J, Blodi BA, **Channa R** , Fong D, Chew EY. Strong versus Weak Data Labeling for Artificial Intelligence Algorithms in the Measurement of Geographic Atrophy. Ophthalmol Sci. 2024 Sep-Oct; 4(5):100477. PMID: [38827491](//www.ncbi.nlm.nih.gov/pubmed/38827491); PMCID: [PMC11141255](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11141255).
+
+Citations:
+
+  6. Wolf RM, **Channa R** , Liu TYA, Zehra A, Bromberger L, Patel D, Ananthakrishnan A, Brown EA, Prichett L, Lehmann HP, Abramoff MD. Autonomous artificial intelligence increases screening and follow-up for diabetic retinopathy in youth: the ACCESS randomized control trial. Nat Commun. 2024 Jan 11; 15(1):421. PMID: [38212308](//www.ncbi.nlm.nih.gov/pubmed/38212308); PMCID: [PMC10784572](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10784572).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+Translation:Humans
+
+  7. Pelayo C, Mora Pinz?n M, Lock LJ, Fowlkes C, Stevens CL, Hoang J, Garcia JL, Jacobson NA, **Channa R** , Liu Y. Factors Influencing Eye Screening Adherence Among Latinx Patients With Diabetes: A Qualitative Study. Transl Vis Sci Technol. 2023 12 01; 12(12):8. PMID: [38060234](//www.ncbi.nlm.nih.gov/pubmed/38060234); PMCID: [PMC10709803](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10709803).
+
+Citations:  Fields:
+
+Bio Biomedical EngineeringOph Ophthalmology
+
+Translation:Humans
+
+  8. Maganti N, Huang L, Banghart M, **Channa R** , Chang JS, van Landingham SW. Ocular Emergencies During the Coronavirus Disease 'Safer at Home Order' in Wisconsin. WMJ. 2023 Dec; 122(5):331-336. PMID: [38180919](//www.ncbi.nlm.nih.gov/pubmed/38180919); PMCID: [PMC10947423](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10947423).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  9. Duncan N, Barrett N, Schildroth K, Chang JS, **Channa R** , Rickels K, Domalpally A, Blodi B. Comparison of Standard 7-Field, Clarus, and Optos Ultrawidefield Imaging Systems for Diabetic Retinopathy (COCO Study). Ophthalmol Sci. 2024 May-Jun; 4(3):100427. PMID: [38284100](//www.ncbi.nlm.nih.gov/pubmed/38284100); PMCID: [PMC10818251](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10818251).
+
+Citations:
+
+  10. **Channa R** , Wolf RM, Simo R, Brigell M, Fort P, Curcio C, Lynch S, Verbraak F, Abramoff MD, Diabetic Retinal Neurodegeneration and Macular Edema working group of the Mary Tyler Moore Vision In. A New Approach to Staging Diabetic Eye Disease: Staging of Diabetic Retinal Neurodegeneration and Diabetic Macular Edema. Ophthalmol Sci. 2024 May-Jun; 4(3):100420. PMID: [38284099](//www.ncbi.nlm.nih.gov/pubmed/38284099); PMCID: [PMC10818256](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10818256).
+
+Citations:
+
+  11. Pelayo C, Hoang J, Mora Pinz?n M, Lock LJ, Fowlkes C, Stevens CL, Jacobson NA, **Channa R** , Liu Y. Perspectives of Latinx Patients with Diabetes on Teleophthalmology, Artificial Intelligence-Based Image Interpretation, and Virtual Care: A Qualitative Study. Telemed Rep. 2023; 4(1):317-326. PMID: [37908628](//www.ncbi.nlm.nih.gov/pubmed/37908628); PMCID: [PMC10615055](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10615055).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37908628/citedby/)
+
+  12. Shou BL, Venkatesh K, Chen C, Ghidey R, Lee JH, Wang J, **Channa R** , Wolf RM, Abramoff MD, Liu TYA. Risk Factors for Nondiagnostic Imaging in a Real-World Deployment of Artificial Intelligence Diabetic Retinal Examinations in an Integrated Healthcare System: Maximizing Workflow Efficiency Through Predictive Dilation. J Diabetes Sci Technol. 2024 Mar; 18(2):302-308. PMID: [37798955](//www.ncbi.nlm.nih.gov/pubmed/37798955); PMCID: [PMC10973867](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10973867).
+
+Citations:  Fields:
+
+End Endocrinology
+
+Translation:Humans
+
+  13. Coronado I, Pachade S, Trucco E, Abdelkhaleq R, Yan J, Salazar-Marioni S, Jagolino-Cole A, Bahrainian M, **Channa R** , Sheth SA, Giancardo L. Author Correction: Synthetic OCT-A blood vessel maps using fundus images and generative adversarial networks. Sci Rep. 2023 Sep 27; 13(1):16234. PMID: [37758775](//www.ncbi.nlm.nih.gov/pubmed/37758775); PMCID: [PMC10533481](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10533481).
+
+Citations:  Fields:
+
+Sci Science
+
+  14. Wolf RM, **Channa R** , Lehmann HP, Abramoff MD, Liu TYA. Clinical Implementation of Autonomous Artificial Intelligence Systems for Diabetic Eye Exams: Considerations for Success. Clin Diabetes. 2024; 42(1):142-149. PMID: [38230333](//www.ncbi.nlm.nih.gov/pubmed/38230333); PMCID: [PMC10788651](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10788651).
+
+Citations:
+
+  15. Coronado I, Pachade S, Trucco E, Abdelkhaleq R, Yan J, Salazar-Marioni S, Jagolino-Cole A, Bahrainian M, **Channa R** , Sheth SA, Giancardo L. Synthetic OCT-A blood vessel maps using fundus images and generative adversarial networks. Sci Rep. 2023 09 15; 13(1):15325. PMID: [37714881](//www.ncbi.nlm.nih.gov/pubmed/37714881); PMCID: [PMC10504307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10504307).
+
+Citations:  Fields:
+
+Sci Science
+
+  16. Zafar S, Walder A, Virani S, Biggerstaff K, [Orengo-Nania S](https://profiles.viictr.org/profile/269605), Chang J, **Channa R**. Systemic Adverse Events Among Patients With Diabetes Treated With Intravitreal Anti-Vascular Endothelial Growth Factor Injections. JAMA Ophthalmol. 2023 07 01; 141(7):658-666. PMID: [37261816](//www.ncbi.nlm.nih.gov/pubmed/37261816); PMCID: [PMC10236327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10236327).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37261816/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  17. **Channa R** , Wolf RM, Abr?moff MD, Lehmann HP. Effectiveness of artificial intelligence screening in preventing vision loss from diabetes: a policy model. NPJ Digit Med. 2023 Mar 27; 6(1):53. PMID: [36973403](//www.ncbi.nlm.nih.gov/pubmed/36973403); PMCID: [PMC10042864](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10042864).
+
+Citations:
+
+  18. Chua SYL, Welsh P, Sun Z, Balaskas K, Warwick A, Steel D, Sivaprasad S, **Channa R** , Ko T, Sattar N, Khawaja AP, Foster PJ, Patel PJ, UK Biobank Eye and Vision Consortium. Associations Between HbA1c Across the Normal Range, Diagnosed, and Undiagnosed Diabetes and Retinal Layer Thickness in UK Biobank Cohort. Transl Vis Sci Technol. 2023 02 01; 12(2):25. PMID: [36795065](//www.ncbi.nlm.nih.gov/pubmed/36795065); PMCID: [PMC9940769](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9940769).
+
+Citations:
+
+  19. Luo S, Lock LJ, Xing B, Wingelaar M, **Channa R** , Liu Y. Factors Associated with Follow-Up Adherence After Teleophthalmology for Diabetic Eye Screening Before and During the COVID-19 Pandemic. Telemed J E Health. 2023 08; 29(8):1171-1178. PMID: [36576981](//www.ncbi.nlm.nih.gov/pubmed/36576981); PMCID: [PMC10440654](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10440654).
+
+Citations:
+
+  20. Pachade S, Coronado I, Abdelkhaleq R, Yan J, Salazar-Marioni S, Jagolino A, Green C, Bahrainian M, **Channa R** , Sheth SA, Giancardo L. Detection of Stroke with Retinal Microvascular Density and Self-Supervised Learning Using OCT-A and Fundus Imaging. J Clin Med. 2022 Dec 14; 11(24). PMID: [36556024](//www.ncbi.nlm.nih.gov/pubmed/36556024); PMCID: [PMC9788382](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9788382).
+
+Citations:
+
+  21. [Pitale PM](https://profiles.viictr.org/profile/33494962), Shen G, Sigireddi RR, Polo-Prieto M, Park YH, [Gibson SE](https://profiles.viictr.org/profile/24845260), Westenskow PD, **Channa R** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Selective vulnerability of the intermediate retinal capillary plexus precedes retinal ganglion cell loss in ocular hypertension. Front Cell Neurosci. 2022; 16:1073786. PMID: [36545655](//www.ncbi.nlm.nih.gov/pubmed/36545655); PMCID: [PMC9760765](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9760765).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36545655/citedby/)
+
+  22. Lock LJ, **Channa R** , Brennan MB, Cao Y, Liu Y. Effect of health system on the association of rurality and level of disadvantage with receipt of diabetic eye screening. BMJ Open Diabetes Res Care. 2022 12; 10(6). PMID: [36517109](//www.ncbi.nlm.nih.gov/pubmed/36517109); PMCID: [PMC9756146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9756146).
+
+Citations:
+
+  23. Patel D, Ananthakrishnan A, Lin T, **Channa R** , Liu TYA, Wolf RM. Social Determinants of Health and Impact on Screening, Prevalence, and Management of Diabetic Retinopathy in Adults: A Narrative Review. J Clin Med. 2022 Nov 30; 11(23). PMID: [36498694](//www.ncbi.nlm.nih.gov/pubmed/36498694); PMCID: [PMC9739502](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9739502).
+
+Citations:
+
+  24. Zhou P, Eltemsah L, Bahrainian M, Prichett L, Liu TYA, Wolf RM, **Channa R**. Assessment of Trained Image Grader Performance in Screening for Retinopathy Among Youth With Diabetes. J Diabetes Sci Technol. 2022 11; 16(6):1580-1581. PMID: [36047654](//www.ncbi.nlm.nih.gov/pubmed/36047654); PMCID: [PMC9631538](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9631538).
+
+Citations:
+
+  25. Banghart M, Lee K, Bahrainian M, Staggers K, Amos C, Liu Y, Domalpally A, [Frankfort BJ](https://profiles.viictr.org/profile/268696), Sohn EH, Abramoff M, **Channa R**. Total retinal thickness: a neglected factor in the evaluation of inner retinal thickness. BMJ Open Ophthalmol. 2022 09; 7(1). PMID: [36329022](//www.ncbi.nlm.nih.gov/pubmed/36329022); PMCID: [PMC9528673](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9528673).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  26. Domalpally A, Slater R, Barrett N, Voland R, Balaji R, Heathcote J, **Channa R** , Blodi B. Implementation of a Large-Scale Image Curation Workflow Using Deep Learning Framework. Ophthalmol Sci. 2022 Dec; 2(4):100198. PMID: [36531570](//www.ncbi.nlm.nih.gov/pubmed/36531570); PMCID: [PMC9754974](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9754974).
+
+Citations:
+
+  27. Wolf RM, Abramoff MD, **Channa R** , Tava C, Clarida W, Lehmann HP. Potential reduction in healthcare carbon footprint by autonomous artificial intelligence. NPJ Digit Med. 2022 May 12; 5(1):62. PMID: [35551275](//www.ncbi.nlm.nih.gov/pubmed/35551275); PMCID: [PMC9098499](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9098499).
+
+Citations:
+
+  28. Zhou P, Gao J, Huang X, Staggers KA, Biggerstaff K, [Orengo-Nania S](https://profiles.viictr.org/profile/269605), **Channa R**. Impact of the COVID-19 pandemic on visual outcomes of diabetic macular edema patients at a tertiary care veterans affairs center. J Diabetes Metab Disord. 2022 Jun; 21(1):759-768. PMID: [35582648](//www.ncbi.nlm.nih.gov/pubmed/35582648); PMCID: [PMC9098215](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9098215).
+
+Citations:
+
+  29. Zafar S, Mahjoub H, Mehta N, Domalpally A, **Channa R**. Artificial Intelligence Algorithms in Diabetic Retinopathy Screening. Curr Diab Rep. 2022 06; 22(6):267-274. PMID: [35438458](//www.ncbi.nlm.nih.gov/pubmed/35438458).
+
+Citations:  Fields:
+
+End Endocrinology
+
+Translation:HumansPHPublic Health
+
+  30. Lock LJ, Banghart M, **Channa R** , Smith MA, Brennan MB, Torres Diaz A, Liu Y. Analysis of Health System Size and Variability in Diabetic Eye Disease Screening in Wisconsin. JAMA Netw Open. 2022 01 04; 5(1):e2143937. PMID: [35040971](//www.ncbi.nlm.nih.gov/pubmed/35040971); PMCID: [PMC8767430](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8767430).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:HumansPHPublic Health
+
+  31. Zafar S, Staggers KA, Gao J, Liu Y, Patel PJ, Foster PJ, [Frankfort BJ](https://profiles.viictr.org/profile/268696), Abramoff M, [Minard CG](https://profiles.viictr.org/profile/267444), Warwick A, Khawaja AP, **Channa R**. Evaluation of retinal nerve fibre layer thickness as a possible measure of diabetic retinal neurodegeneration in the EPIC-Norfolk Eye Study. Br J Ophthalmol. 2023 05; 107(5):705-711. PMID: [34952836](//www.ncbi.nlm.nih.gov/pubmed/34952836); PMCID: [PMC9460960](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9460960).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  32. Lin T, Gubitosi-Klug RA, **Channa R** , Wolf RM. Pediatric Diabetic Retinopathy: Updates in Prevalence, Risk Factors, Screening, and Management. Curr Diab Rep. 2021 12 13; 21(12):56. PMID: [34902076](//www.ncbi.nlm.nih.gov/pubmed/34902076).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34902076/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansPHPublic Health
+
+  33. Coronado I, Abdelkhaleq R, Yan J, Marioni SS, Jagolino-Cole A, **Channa R** , Pachade S, Sheth SA, Giancardo L. Towards Stroke Biomarkers on Fundus Retinal Imaging: A Comparison Between Vasculature Embeddings and General Purpose Convolutional Neural Networks. Annu Int Conf IEEE Eng Med Biol Soc. 2021 11; 2021:3873-3876. PMID: [34892078](//www.ncbi.nlm.nih.gov/pubmed/34892078); PMCID: [PMC8981508](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8981508).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  34. **Channa R** , Lee K, Staggers KA, Mehta N, Zafar S, Gao J, [Frankfort BJ](https://profiles.viictr.org/profile/268696), Chua SYL, Khawaja AP, Foster PJ, Patel PJ, [Minard CG](https://profiles.viictr.org/profile/267444), [Amos C](https://profiles.viictr.org/profile/23372697), Abramoff MD. Detecting retinal neurodegeneration in people with diabetes: Findings from the UK Biobank. PLoS One. 2021; 16(9):e0257836. PMID: [34587216](//www.ncbi.nlm.nih.gov/pubmed/34587216); PMCID: [PMC8480885](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8480885).
+
+Citations:  Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  35. Ferm ML, [DeSalvo DJ](https://profiles.viictr.org/profile/15317941), Prichett LM, Sickler JK, Wolf RM, **Channa R**. Clinical and Demographic Factors Associated With Diabetic Retinopathy Among Young Patients With Diabetes. JAMA Netw Open. 2021 09 01; 4(9):e2126126. PMID: [34570208](//www.ncbi.nlm.nih.gov/pubmed/34570208); PMCID: [PMC8477260](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8477260).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  36. Domalpally A, **Channa R**. Real-world validation of artificial intelligence algorithms for ophthalmic imaging. Lancet Digit Health. 2021 08; 3(8):e463-e464. PMID: [34325850](//www.ncbi.nlm.nih.gov/pubmed/34325850).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34325850/citedby/) Fields:
+
+Med Medical InformaticsPub Public Health
+
+Translation:Humans
+
+  37. Thomas CG, **Channa R** , Prichett L, Liu TYA, Abramoff MD, Wolf RM. Racial/Ethnic Disparities and Barriers to Diabetic Retinopathy Screening in Youths. JAMA Ophthalmol. 2021 Jul 01; 139(7):791-795. PMID: [34042939](//www.ncbi.nlm.nih.gov/pubmed/34042939); PMCID: [PMC8160913](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8160913).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34042939/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansPHPublic Health
+
+  38. Wolf RM, Liu TYA, Thomas C, Prichett L, Zimmer-Galler I, Smith K, Abramoff MD, **Channa R**. The SEE Study: Safety, Efficacy, and Equity of Implementing Autonomous Artificial Intelligence for Diagnosing Diabetic Retinopathy in Youth. Diabetes Care. 2021 03; 44(3):781-787. PMID: [33479160](//www.ncbi.nlm.nih.gov/pubmed/33479160).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33479160/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansPHPublic Health
+
+  39. Tao X, Sigireddi RR, Westenskow PD, **Channa R** , [Frankfort BJ](https://profiles.viictr.org/profile/268696). Single transient intraocular pressure elevations cause prolonged retinal ganglion cell dysfunction and retinal capillary abnormalities in mice. Exp Eye Res. 2020 12; 201:108296. PMID: [33039455](//www.ncbi.nlm.nih.gov/pubmed/33039455); PMCID: [PMC7736214](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7736214).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33039455/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  40. Wolf RM, **Channa R** , Abramoff MD, Lehmann HP. Cost-effectiveness of Autonomous Point-of-Care Diabetic Retinopathy Screening for Pediatric Patients With Diabetes. JAMA Ophthalmol. 2020 10 01; 138(10):1063-1069. PMID: [32880616](//www.ncbi.nlm.nih.gov/pubmed/32880616); PMCID: [PMC7489415](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7489415).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32880616/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansPHPublic Health
+
+  41. Mishra K, Iftikhar M, **Channa R**. A Case of Traumatic Choroidopathy With Subretinal Fluid. J Vitreoretin Dis. 2021 Mar-Apr; 5(2):165-169. PMID: [37009084](//www.ncbi.nlm.nih.gov/pubmed/37009084); PMCID: [PMC9979056](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9979056).
+
+Citations:
+
+  42. Abraham AG, Ervin A, Swenor B, Ramulu P, **Channa R** , Kong X, Stosor V, Friedman MR, Detels R, Plankey M. Prevalence and Consequences of Perceived Vision Difficulty in Aging Adults with HIV Infection. Am J Ophthalmol. 2020 10; 218:268-278. PMID: [32621897](//www.ncbi.nlm.nih.gov/pubmed/32621897); PMCID: [PMC9230650](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9230650).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  43. Porter M, **Channa R** , Wagner J, Prichett L, Liu TYA, Wolf RM. Prevalence of diabetic retinopathy in children and adolescents at an urban tertiary eye care center. Pediatr Diabetes. 2020 08; 21(5):856-862. PMID: [32410329](//www.ncbi.nlm.nih.gov/pubmed/32410329); PMCID: [PMC8248280](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8248280).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32410329/citedby/) Fields:
+
+End Endocrinology
+
+Translation:Humans
+
+  44. **Channa R** , Wolf R, Abramoff MD. Autonomous Artificial Intelligence in Diabetic Retinopathy: From Algorithm to Clinical Application. J Diabetes Sci Technol. 2021 05; 15(3):695-698. PMID: [32126819](//www.ncbi.nlm.nih.gov/pubmed/32126819); PMCID: [PMC8120059](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8120059).
+
+Citations:  Fields:
+
+End Endocrinology
+
+Translation:HumansPHPublic Health
+
+  45. Zafar S, Smith K, Boland MV, [Weng CY](https://profiles.viictr.org/profile/8183299), Solomon S, **Channa R**. Real-world Outcomes among Eyes with Center-Involving Diabetic Macular Edema and Good Visual Acuity. Curr Eye Res. 2020 07; 45(7):879-887. PMID: [31829753](//www.ncbi.nlm.nih.gov/pubmed/31829753); PMCID: [PMC10407997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10407997).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31829753/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  46. Zafar SN, Siddiqui AH, **Channa R** , Ahmed S, Javed AA, Bafford A. Estimating the Global Demand and Delivery of Cancer Surgery. World J Surg. 2019 09; 43(9):2203-2210. PMID: [31115586](//www.ncbi.nlm.nih.gov/pubmed/31115586).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31115586/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  47. Sophie R, Wang PW, **Channa R** , Quezada-Ruiz C, Clark A, Campochiaro PA. Different Factors Associated with 2-Year Outcomes in Patients with Branch versus Central Retinal Vein Occlusion Treated with Ranibizumab. Ophthalmology. 2019 12; 126(12):1695-1702. PMID: [31543350](//www.ncbi.nlm.nih.gov/pubmed/31543350).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31543350/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  48. Murphy OC, Kwakyi O, Iftikhar M, Zafar S, Lambe J, Pellegrini N, Sotirchos ES, Gonzalez-Caldito N, Ogbuokiri E, Filippatou A, Risher H, Cowley N, Feldman S, Fioravante N, Frohman EM, Frohman TC, Balcer LJ, Prince JL, **Channa R** , Calabresi PA, Saidha S. Alterations in the retinal vasculature occur in multiple sclerosis and exhibit novel correlations with disability and visual function measures. Mult Scler. 2020 06; 26(7):815-828. PMID: [31094280](//www.ncbi.nlm.nih.gov/pubmed/31094280); PMCID: [PMC6858526](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6858526).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31094280/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  49. Zafar S, Sachdeva M, [Frankfort BJ](https://profiles.viictr.org/profile/268696), **Channa R**. Retinal Neurodegeneration as an Early Manifestation of Diabetic Eye Disease and Potential Neuroprotective Therapies. Curr Diab Rep. 2019 02 26; 19(4):17. PMID: [30806815](//www.ncbi.nlm.nih.gov/pubmed/30806815); PMCID: [PMC7192364](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7192364).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30806815/citedby/) Fields:
+
+End Endocrinology
+
+Translation:HumansAnimals
+
+  50. Zafar S, Canner JK, Mir T, Srikumaran D, **Channa R** , Goldberg MF, Thorne J, Woreta FA. Epidemiology of Hyphema-Related Emergency Department Visits in The United States Between 2006 and 2015. Ophthalmic Epidemiol. 2019 06; 26(3):208-215. PMID: [30794001](//www.ncbi.nlm.nih.gov/pubmed/30794001).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30794001/citedby/) Fields:
+
+Epi EpidemiologyOph Ophthalmology
+
+Translation:Humans
+
+  51. Zhu AY, **Channa R**. New Onset of Blurred Vision and Floaters. JAMA Ophthalmol. 2019 Feb 01; 137(2):224-225. PMID: [30520974](//www.ncbi.nlm.nih.gov/pubmed/30520974).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  52. Iftikhar M, Zafar S, Gonzalez N, Murphy O, Ohemaa Kwakyi MS, Sydney Feldman BS, A Calabresi P, Saidha S, **Channa R**. Image Artifacts in Optical Coherence Tomography Angiography Among Patients With Multiple Sclerosis. Curr Eye Res. 2019 05; 44(5):558-563. PMID: [30624088](//www.ncbi.nlm.nih.gov/pubmed/30624088).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30624088/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  53. Stroh I, Nguyen A, **Channa R**. Purtscher-Like Retinopathy in Hemolytic Uremic Syndrome. JAMA Ophthalmol. 2019 Jan 01; 137(1):e183911. PMID: [30629118](//www.ncbi.nlm.nih.gov/pubmed/30629118).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  54. Zafar S, McCormick J, Giancardo L, Saidha S, Abraham A, **Channa R**. Retinal Imaging for Neurological Diseases: "A Window into the Brain". Int Ophthalmol Clin. 2019; 59(1):137-154. PMID: [30585923](//www.ncbi.nlm.nih.gov/pubmed/30585923).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30585923/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  55. Cho C, Liu MM, **Channa R** , Zhang AY, Quigley HA, Jefferys JL, Scott AW. Detection of Age-Related Macular Degeneration by Portable Optical Coherence Tomography Operated by Nonexpert Personnel: Potential Use for Screenings. J Vitreoretin Dis. 2019 Jan; 3(1):16-20. PMID: [34036240](//www.ncbi.nlm.nih.gov/pubmed/34036240); PMCID: [PMC8142863](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8142863).
+
+Citations:
+
+  56. Kherani S, Scott AW, Wenick AS, Zimmer-Galler I, Brady CJ, Sodhi A, Meyerle C, Solomon SD, Shaukat R, **Channa R** , Adeyemo O, Handa JT, Wang J, Campochiaro PA. Shortest Distance From Fovea to Subfoveal Hemorrhage Border Is Important in Patients With Neovascular Age-related Macular Degeneration. Am J Ophthalmol. 2018 05; 189:86-95. PMID: [29499174](//www.ncbi.nlm.nih.gov/pubmed/29499174); PMCID: [PMC10020831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10020831).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29499174/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  57. Iordachita I, Handa JT, **Channa R**. Robotic Vitreoretinal Surgery. Retina. 2017 Jul; 37(7):1220-1228. PMID: [27893625](//www.ncbi.nlm.nih.gov/pubmed/27893625); PMCID: [PMC5441978](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5441978).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27893625/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansAnimals
+
+  58. Haring RS, Sheffield ID, **Channa R** , Canner JK, Schneider EB. Epidemiologic Trends of Chemical Ocular Burns in the United States. JAMA Ophthalmol. 2016 Oct 01; 134(10):1119-1124. PMID: [27490908](//www.ncbi.nlm.nih.gov/pubmed/27490908).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27490908/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  59. Campochiaro PA, Hafiz G, Mir TA, Scott AW, Zimmer-Galler I, Shah SM, Wenick AS, Brady CJ, Han I, He L, **Channa R** , Poon D, Meyerle C, Aronow MB, Sodhi A, Handa JT, Kherani S, Han Y, Sophie R, Wang G, Qian J. Reply. Am J Ophthalmol. 2016 10; 170:245-246. PMID: [27561424](//www.ncbi.nlm.nih.gov/pubmed/27561424).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  60. Campochiaro PA, Hafiz G, Mir TA, Scott AW, Zimmer-Galler I, Shah SM, Wenick AS, Brady CJ, Han I, He L, **Channa R** , Poon D, Meyerle C, Aronow MB, Sodhi A, Handa JT, Kherani S, Han Y, Sophie R, Wang G, Qian J. Pro-permeability Factors in Diabetic Macular Edema; the Diabetic Macular Edema Treated With Ozurdex Trial. Am J Ophthalmol. 2016 Aug; 168:13-23. PMID: [27130369](//www.ncbi.nlm.nih.gov/pubmed/27130369); PMCID: [PMC5482180](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5482180).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27130369/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  61. **Channa R** , Zafar SN, Canner JK, Haring RS, Schneider EB, Friedman DS. Epidemiology of Eye-Related Emergency Department Visits. JAMA Ophthalmol. 2016 Mar; 134(3):312-9. PMID: [26821577](//www.ncbi.nlm.nih.gov/pubmed/26821577).
+
+Citations:
+[59](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26821577/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  62. **Channa R** , Sophie R, Bagheri S, Shah SM, Wang J, Adeyemo O, Sodhi A, Wenick A, Ying HS, Campochiaro PA. Regression of choroidal neovascularization results in macular atrophy in anti-vascular endothelial growth factor-treated eyes. Am J Ophthalmol. 2015 Jan; 159(1):9-19.e1-2. PMID: [25217857](//www.ncbi.nlm.nih.gov/pubmed/25217857); PMCID: [PMC10020832](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10020832).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25217857/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  63. **Channa R** , Kiely A, Woreta FA. Eye mass. JAMA. 2014 May 14; 311(18):1914-5. PMID: [24825647](//www.ncbi.nlm.nih.gov/pubmed/24825647).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  64. **Channa R** , Welsbie DS, Patel VR. More than just optic disc swelling. JAMA Ophthalmol. 2013 Nov; 131(11):1477-8. PMID: [24232085](//www.ncbi.nlm.nih.gov/pubmed/24232085).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  65. Zafar SN, Fatmi Z, Iqbal A, **Channa R** , Haider AH. Disparities in access to surgical care within a lower income country: an alarming inequity. World J Surg. 2013 Jul; 37(7):1470-7. PMID: [22851150](//www.ncbi.nlm.nih.gov/pubmed/22851150).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22851150/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  66. Rashid A, Sepah YJ, **Channa R** , Hatef E, Shulman M, Do DV, Nguyen QD, Sadiq MA, Rashid A, Channa R, Hatef E, Do DV, Nguyen QD, Sepah YJ. Reliability and reproducibility of spectral and time domain optical coherence tomography images before and after correction for patients with age-related macular degeneration. F1000Res. 2013; 2:131. PMID: [26097682](//www.ncbi.nlm.nih.gov/pubmed/26097682); PMCID: [PMC4457115](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4457115).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26097682/citedby/) Fields:
+
+Sci Science
+
+  67. Yoldas TK, **Channa R** , G?ler M, T?rk??oglu P, Yilmaz T. Comparison of Visual Field Parameters in Early and Advanced Stages of Multiple Sclerosis Patients Without a History of Optic Neuritis. Neuroophthalmology. 2013; 37(2):58-62. PMID: [28163756](//www.ncbi.nlm.nih.gov/pubmed/28163756); PMCID: [PMC5289368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5289368).
+
+Citations:
+
+  68. Leder HA, Campbell JP, Sepah YJ, Gan T, Dunn JP, Hatef E, Cho B, Ibrahim M, Bittencourt M, **Channa R** , Do DV, Nguyen QD. Ultra-wide-field retinal imaging in the management of non-infectious retinal vasculitis. J Ophthalmic Inflamm Infect. 2013 Feb 11; 3(1):30. PMID: [23514542](//www.ncbi.nlm.nih.gov/pubmed/23514542); PMCID: [PMC3610112](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3610112).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23514542/citedby/)
+
+  69. Do DV, Nguyen QD, Khwaja AA, **Channa R** , Sepah YJ, Sophie R, Hafiz G, Campochiaro PA, READ-2 Study Group. Ranibizumab for edema of the macula in diabetes study: 3-year outcomes and the need for prolonged frequent treatment. JAMA Ophthalmol. 2013 Feb; 131(2):139-45. PMID: [23544200](//www.ncbi.nlm.nih.gov/pubmed/23544200).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23544200/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCTClinical Trials
+
+  70. Campochiaro PA, **Channa R** , Berger BB, Heier JS, Brown DM, Fiedler U, Hepp J, Stumpp MT. Treatment of diabetic macular edema with a designed ankyrin repeat protein that binds vascular endothelial growth factor: a phase I/II study. Am J Ophthalmol. 2013 Apr; 155(4):697-704, 704.e1-2. PMID: [23218689](//www.ncbi.nlm.nih.gov/pubmed/23218689).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23218689/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCellsCTClinical Trials
+
+  71. Campbell JP, Leder HA, Sepah YJ, Gan T, Dunn JP, Hatef E, Cho B, Ibrahim M, Bittencourt M, **Channa R** , Do DV, Nguyen QD. Wide-field retinal imaging in the management of noninfectious posterior uveitis. Am J Ophthalmol. 2012 Nov; 154(5):908-911.e2. PMID: [22935598](//www.ncbi.nlm.nih.gov/pubmed/22935598).
+
+Citations:
+[33](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22935598/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  72. Hatef E, Khwaja A, Rentiya Z, Ibrahim M, Shulman M, Turkcuoglu P, Sepah Y, Wang J, **Channa R** , Bittencourt M, Akhtar A, Heo J, Do DV, Nguyen QD. Comparison of time domain and spectral domain optical coherence tomography in measurement of macular thickness in macular edema secondary to diabetic retinopathy and retinal vein occlusion. J Ophthalmol. 2012; 2012:354783. PMID: [22888403](//www.ncbi.nlm.nih.gov/pubmed/22888403); PMCID: [PMC3410350](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3410350).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22888403/citedby/)
+
+  73. Yohannan J, **Channa R** , Dibernardo CW, Zimmer-Galler IE, Ibrahim M, Sepah YJ, Bittencourt M, Do DV, Nguyen QD. Sclerochoroidal calcifications imaged using enhanced depth imaging optical coherence tomography. Ocul Immunol Inflamm. 2012 Jun; 20(3):190-2. PMID: [22486261](//www.ncbi.nlm.nih.gov/pubmed/22486261).
+
+Citations:  Fields:
+
+All Allergy and ImmunologyOph Ophthalmology
+
+Translation:Humans
+
+  74. **Channa R** , Ibrahim M, Sepah Y, Turkcuoglu P, Lee JH, Khwaja A, Hatef E, Bittencourt M, Heo J, Do DV, Nguyen QD. Characterization of macular lesions in punctate inner choroidopathy with spectral domain optical coherence tomography. J Ophthalmic Inflamm Infect. 2012 Sep; 2(3):113-20. PMID: [22210152](//www.ncbi.nlm.nih.gov/pubmed/22210152); PMCID: [PMC3438299](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3438299).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22210152/citedby/)
+
+  75. Sepah YJ, Hatef E, Colantuoni E, Wang J, Shulman M, [Adhi FI](https://profiles.viictr.org/profile/34487869), Akhtar A, Ibrahim M, Khwaja A, **Channa R** , Sophie R, Bittencourt M, Heo J, Do DV, Nguyen QD. Macular sensitivity and fixation patterns in normal eyes and eyes with uveitis with and without macular edema. J Ophthalmic Inflamm Infect. 2012 Jun; 2(2):65-73. PMID: [22167465](//www.ncbi.nlm.nih.gov/pubmed/22167465); PMCID: [PMC3345050](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3345050).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22167465/citedby/)
+
+  76. Turkcuoglu P, Chang PY, Rentiya ZS, **Channa R** , Ibrahim M, Hatef E, Sophie R, Sadaka A, Wang J, Sepah YJ, Do DV, Foster CS, Nguyen QD. Mycophenolate mofetil and fundus autofluorescence in the management of recurrent punctate inner choroidopathy. Ocul Immunol Inflamm. 2011 Aug; 19(4):286-92. PMID: [21770809](//www.ncbi.nlm.nih.gov/pubmed/21770809).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21770809/citedby/) Fields:
+
+All Allergy and ImmunologyOph Ophthalmology
+
+Translation:Humans
+
+  77. Hatef E, Colantuoni E, Wang J, Ibrahim M, Shulman M, [Adhi F](https://profiles.viictr.org/profile/34487869), Sepah YJ, **Channa R** , Khwaja A, Nguyen QD, Do DV. The relationship between macular sensitivity and retinal thickness in eyes with diabetic macular edema. Am J Ophthalmol. 2011 Sep; 152(3):400-405.e2. PMID: [21696702](//www.ncbi.nlm.nih.gov/pubmed/21696702).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21696702/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  78. **Channa R** , Smith M, Campochiaro PA. Treatment of macular edema due to retinal vein occlusions. Clin Ophthalmol. 2011; 5:705-13. PMID: [21629578](//www.ncbi.nlm.nih.gov/pubmed/21629578); PMCID: [PMC3104801](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3104801).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21629578/citedby/)
+
+  79. Hatef E, Turkcuoglu P, Ibrahim M, Sepah Y, Shulman M, Heo J, Lee JH, **Channa R** , Khwaja A, Rentiya Z, Shah SM, Do DV, Nguyen QD. Importance of proper diagnosis for management: multifocal choroiditis mimicking ocular histoplasmosis syndrome. J Ophthalmic Inflamm Infect. 2011 Jun; 1(2):55-63. PMID: [21484182](//www.ncbi.nlm.nih.gov/pubmed/21484182); PMCID: [PMC3102844](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3102844).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21484182/citedby/)
+
+  80. Wang J, Ibrahim M, Turkcuoglu P, Hatef E, Khwaja A, **Channa R** , Do DV, Nguyen QD. Intercellular adhesion molecule inhibitors as potential therapy for refractory uveitic macular edema. Ocul Immunol Inflamm. 2010 Oct; 18(5):395-8. PMID: [20666682](//www.ncbi.nlm.nih.gov/pubmed/20666682).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20666682/citedby/) Fields:
+
+All Allergy and ImmunologyOph Ophthalmology
+
+Translation:Humans
+
+  81. Jumani MI, **Channa R** , Zafar SN, Enam SA. Pontine haemorrhage due to chondrosarcoma of the skull base. J Coll Physicians Surg Pak. 2010 Oct; 20(10):692-4. PMID: [20943116](//www.ncbi.nlm.nih.gov/pubmed/20943116).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20943116/citedby/) Fields:
+
+Gen General SurgeryMed Medicine (General)
+
+Translation:Humans
+
+  82. Nguyen QD, Shah SM, Khwaja AA, **Channa R** , Hatef E, Do DV, Boyer D, Heier JS, Abraham P, Thach AB, Lit ES, Foster BS, Kruger E, Dugel P, Chang T, Das A, Ciulla TA, Pollack JS, Lim JI, Eliott D, Eliot D, Campochiaro PA, READ-2 Study Group. Two-year outcomes of the ranibizumab for edema of the mAcula in diabetes (READ-2) study. Ophthalmology. 2010 Nov; 117(11):2146-51. PMID: [20855114](//www.ncbi.nlm.nih.gov/pubmed/20855114).
+
+Citations:
+[193](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20855114/citedby/)
+Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCTClinical Trials
+
+  83. Hatef E, Wang J, Ibrahim M, Turkcuoglu P, Khwaja A, **Channa R** , Suan EP, Dibernado C, Sepah YJ, Do DV, Nguyen QD. Nodular sclerochoroidopathy simulating choroidal malignancy. Ophthalmic Surg Lasers Imaging. 2010 Aug 30; 41 Online:e1-5. PMID: [21155521](//www.ncbi.nlm.nih.gov/pubmed/21155521).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21155521/citedby/) Fields:
+
+Gen General SurgeryOph Ophthalmology
+
+Translation:Humans
+
+  84. Campochiaro PA, Hafiz G, **Channa R** , Shah SM, Nguyen QD, Ying H, Do DV, Zimmer-Galler I, Solomon SD, Sung JU, Syed B. Antagonism of vascular endothelial growth factor for macular edema caused by retinal vein occlusions: two-year outcomes. Ophthalmology. 2010 Dec; 117(12):2387-2394.e1-5. PMID: [20630595](//www.ncbi.nlm.nih.gov/pubmed/20630595).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20630595/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  85. Ahmed AE, **Channa R** , Durrani J, Ali A, Ahmad K. Early experience with intravitreal bevacizumab combined with laser treatment for retinopathy of prematurity. Middle East Afr J Ophthalmol. 2010 Jul; 17(3):264-7. PMID: [20844684](//www.ncbi.nlm.nih.gov/pubmed/20844684); PMCID: [PMC2934720](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2934720).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20844684/citedby/) Fields:
+
+Oph Ophthalmology
+
+  86. Campochiaro PA, Shah SM, Hafiz G, Heier JS, Lit ES, Zimmer-Galler I, **Channa R** , Nguyen QD, Syed B, Do DV, Lu L, Monk J, Cooke JP, Kengatharan MK, Hsu HH. Topical mecamylamine for diabetic macular edema. Am J Ophthalmol. 2010 May; 149(5):839-51.e1. PMID: [20189159](//www.ncbi.nlm.nih.gov/pubmed/20189159); PMCID: [PMC3143041](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3143041).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20189159/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCTClinical Trials
+
+  87. **Channa R** , Khurana RN, Speicher MA, Shah SM, Do D, Nguyen QD, Levinson R, Goldstein DA. Diagnostic and therapeutic challenges: panuveitis and optic neuritis. Retina. 2009 Jul-Aug; 29(7):1045-51. PMID: [19584664](//www.ncbi.nlm.nih.gov/pubmed/19584664).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  88. **Channa R** , Mir F, Shah MN, Ali A, Ahmad K. Central corneal thickness of Pakistani adults. J Pak Med Assoc. 2009 Apr; 59(4):225-8. PMID: [19402284](//www.ncbi.nlm.nih.gov/pubmed/19402284).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19402284/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  89. Ganatra HA, Bhurgri H, **Channa R** , Bawany FA, Zafar SN, Chaudhry RI, Batool SH, Basit A, Asghar M, Saleem S, Naqvi H. Educating and informing patients receiving psychopharmacological medications: are family physicians in Pakistan up to the task? PLoS One. 2009; 4(2):e4620. PMID: [19247488](//www.ncbi.nlm.nih.gov/pubmed/19247488); PMCID: [PMC2645685](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2645685).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19247488/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  90. **Channa R** , Jaffrani HA, Khan AJ, Hasan T, Razzak JA. Transport time to trauma facilities in Karachi: an exploratory study. Int J Emerg Med. 2008 Sep; 1(3):201-4. PMID: [19384517](//www.ncbi.nlm.nih.gov/pubmed/19384517); PMCID: [PMC2657275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2657275).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19384517/citedby/)
+
+  91. Wasay M, **Channa R** , Jumani M, Zafar A. Changing patterns and outcome of Dengue infection; report from a tertiary care hospital in Pakistan. J Pak Med Assoc. 2008 Sep; 58(9):488-9. PMID: [18846796](//www.ncbi.nlm.nih.gov/pubmed/18846796).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18846796/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:HumansCells
+
+  92. Wasay M, **Channa R** , Jumani M, Shabbir G, Azeemuddin M, Zafar A. Encephalitis and myelitis associated with dengue viral infection clinical and neuroimaging features. Clin Neurol Neurosurg. 2008 Jun; 110(6):635-40. PMID: [18467022](//www.ncbi.nlm.nih.gov/pubmed/18467022).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18467022/citedby/) Fields:
+
+Neu NeurologyNeu Neurosurgery
+
+Translation:HumansCells
+
+  93. **Channa R** , Siddiqi M. What do patients want from their psychiatrist? A cross- sectional questionnaire based exploratory study from Karachi. BMC Psychiatry. 2008 Feb 29; 8:14. PMID: [18312641](//www.ncbi.nlm.nih.gov/pubmed/18312641); PMCID: [PMC2275251](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2275251).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18312641/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 93 publications over 16 distinct years, with a maximum of
+12 publications in 2022 and
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|12&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,25,58,42,42,50,17,0,33,8,17,83,50,67,100,100,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2008| 4  
+2009| 3  
+2010| 7  
+2011| 5  
+2012| 5  
+2013| 6  
+2014| 2  
+2016| 4  
+2017| 1  
+2018| 2  
+2019| 10  
+2020| 6  
+2021| 8  
+2022| 12  
+2023| 12  
+2024| 6  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+CHANNA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (285)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Diabetic Retinopathy](https://profiles.viictr.org/profile/247246)
+  * [Diabetes Mellitus](https://profiles.viictr.org/profile/256820)
+  * [Tomography, Optical Coherence](https://profiles.viictr.org/profile/255684)
+  * [Retinal Diseases](https://profiles.viictr.org/profile/249075)
+  * [Retina](https://profiles.viictr.org/profile/248618)
+
+[Explore](https://profiles.viictr.org/profile/28999144/198)
+
+_
+
+Co-Authors (9)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [FRANKFORT, BENJAMIN](https://profiles.viictr.org/profile/268696)
+  * [ORENGO-NANIA, SILVIA](https://profiles.viictr.org/profile/269605)
+  * [MINARD, CHARLES](https://profiles.viictr.org/profile/267444)
+  * [Pitale, Priyamvada](https://profiles.viictr.org/profile/33494962)
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+
+[Explore](https://profiles.viictr.org/profile/28999144/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [WYKOFF, CHARLES](https://profiles.viictr.org/profile/3939889)
+  * [WENG, CHRISTINA](https://profiles.viictr.org/profile/8183299)
+  * [LEE, ANDREW](https://profiles.viictr.org/profile/266512)
+  * [HILLIARD, MARISA](https://profiles.viictr.org/profile/269029)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+
+[Explore](https://profiles.viictr.org/profile/28999144/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+  * [DAHLSTROM, KRISTINA](https://profiles.viictr.org/profile/35420581)
+  * [HAN, YOUNGHUN](https://profiles.viictr.org/profile/28999010)
+  * [LIU, YANHONG](https://profiles.viictr.org/profile/268526)
+  * [SOKALE, ITUNU](https://profiles.viictr.org/profile/35549191)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

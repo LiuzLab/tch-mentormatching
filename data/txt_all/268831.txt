@@ -1,0 +1,247 @@
+## CHARLIE LAN
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 2002 HOLCOMBE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Nacx70XFI4a7Q4v4&rnd=be988acc-c52e-4211-b7df-678d34257124)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268831)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=268831&cachekey=1efade37-b38c-44b9-b515-211a186a6056)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Meduri GU, Shih MC, Bridges L, Martin TJ, El-Solh A, Seam N, Davis-Karim A, Umberger R, Anzueto A, Sriram P, **Lan C** , Restrepo MI, Guardiola JJ, Buck T, Johnson DP, Suffredini A, Bell WA, Lin J, Zhao L, Uyeda L, Nielsen L, Huang GD, ESCAPe Study Group. Low-dose methylprednisolone treatment in critically ill patients with severe community-acquired pneumonia. Intensive Care Med. 2022 08; 48(8):1009-1023. PMID: [35723686](//www.ncbi.nlm.nih.gov/pubmed/35723686); PMCID: [PMC9208259](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9208259).
+
+Citations:  Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  2. Bryant MS, [Bandi VD](https://profiles.viictr.org/profile/266259), Nguyen CK, **Lan C** , Henson HK, [Sharafkhaneh A](https://profiles.viictr.org/profile/267036). Telehealth Pulmonary Rehabilitation for Patients With Severe Chronic Obstructive Pulmonary Disease. Fed Pract. 2019 Sep; 36(9):430-435. PMID: [31571812](//www.ncbi.nlm.nih.gov/pubmed/31571812); PMCID: [PMC6752812](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6752812).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31571812/citedby/)
+
+  3. [Sharafkhaneh A](https://profiles.viictr.org/profile/267036), Spiegelman AM, Main K, Tavakoli-Tabasi S, **Lan C** , [Musher D](https://profiles.viictr.org/profile/267420). Mortality in Patients Admitted for Concurrent COPD Exacerbation and Pneumonia. COPD. 2017 02; 14(1):23-29. PMID: [27661473](//www.ncbi.nlm.nih.gov/pubmed/27661473).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27661473/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  4. Mudambi L, Spiegelman A, Geron D, Hirshkowitz M, Mokhlesi B, Shaib Y, Velamuri S, **Lan CO** , [Sharafkhaneh A](https://profiles.viictr.org/profile/267036). Obstructive Sleep Apnea Is Not Associated with Higher Health Care Use after Colonoscopy under Conscious Sedation. Ann Am Thorac Soc. 2016 Mar; 13(3):419-24. PMID: [26871998](//www.ncbi.nlm.nih.gov/pubmed/26871998).
+
+Citations:  Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  5. Helmick RA, Knofsky ML, Braxton CC, Subramanian A, Byers P, **Lan CK** , [Awad SS](https://profiles.viictr.org/profile/266767). Mandated self-reporting of ventilator-associated pneumonia bundle and catheter-related bloodstream infection bundle compliance and infection rates. JAMA Surg. 2014 Oct; 149(10):1003-7. PMID: [25162479](//www.ncbi.nlm.nih.gov/pubmed/25162479).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25162479/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:HumansPHPublic Health
+
+  6. Ortiz-Diaz E, **Lan CK**. Intra-abdominal hypertension in medical critically ill patients: a narrative review. Shock. 2014 Mar; 41(3):175-80. PMID: [24280691](//www.ncbi.nlm.nih.gov/pubmed/24280691).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24280691/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:HumansAnimals
+
+  7. [Cornwell LD](https://profiles.viictr.org/profile/266215), [Bakaeen FG](https://profiles.viictr.org/profile/266938), **Lan CK** , Omer S, [Preventza O](https://profiles.viictr.org/profile/266328), Pickrell B, Nguyen A, [Casal RF](https://profiles.viictr.org/profile/18883222). Endobronchial ultrasonography-guided transbronchial needle aspiration biopsy for preoperative nodal staging of lung cancer in a veteran population. JAMA Surg. 2013 Nov; 148(11):1024-9. PMID: [24048268](//www.ncbi.nlm.nih.gov/pubmed/24048268).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24048268/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  8. [Casal RF](https://profiles.viictr.org/profile/18883222), Iribarren J, [Eapen G](https://profiles.viictr.org/profile/12583389), [Ost D](https://profiles.viictr.org/profile/12583918), Morice R, **Lan C** , [Cornwell L](https://profiles.viictr.org/profile/266215), Almeida FA, [Grosu H](https://profiles.viictr.org/profile/12582823), [Jimenez CA](https://profiles.viictr.org/profile/12582606). Safety and effectiveness of microdebrider bronchoscopy for the management of central airway obstruction. Respirology. 2013 Aug; 18(6):1011-5. PMID: [23520982](//www.ncbi.nlm.nih.gov/pubmed/23520982).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23520982/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  9. Vial MR, **Lan C** , [Cornwell L](https://profiles.viictr.org/profile/266215), Omer S, Casal RF. Endobronchial oxygen insufflation: a novel technique for localization of occult bronchopleural fistulas. Ann Am Thorac Soc. 2013 Apr; 10(2):157-9. PMID: [23607849](//www.ncbi.nlm.nih.gov/pubmed/23607849).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23607849/citedby/) Fields:
+
+Pul Pulmonary Medicine
+
+Translation:Humans
+
+  10. [Sharafkhaneh A](https://profiles.viictr.org/profile/267036), Velamuri S, Badmaev V, **Lan C** , [Hanania N](https://profiles.viictr.org/profile/266276). The potential role of natural agents in treatment of airway inflammation. Ther Adv Respir Dis. 2007 Dec; 1(2):105-20. PMID: [19124352](//www.ncbi.nlm.nih.gov/pubmed/19124352).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19124352/citedby/) Fields:
+
+Pul Pulmonary MedicineThe Therapeutics
+
+Translation:HumansAnimals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 10 publications over 6 distinct years, with a maximum of 3
+publications in
+2013](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,100,67,0,67,0,0,33,0,0,33,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2013| 3  
+2014| 2  
+2016| 2  
+2019| 1  
+2022| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+LAN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (87)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Intra-Abdominal Hypertension](https://profiles.viictr.org/profile/27546327)
+  * [Decompression, Surgical](https://profiles.viictr.org/profile/245484)
+  * [Critical Care](https://profiles.viictr.org/profile/265115)
+  * [Pneumonia](https://profiles.viictr.org/profile/241635)
+  * [Community-Acquired Infections](https://profiles.viictr.org/profile/245774)
+
+[Explore](https://profiles.viictr.org/profile/268831/198)
+
+_
+
+Co-Authors (13)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SHARAFKHANEH, AMIR](https://profiles.viictr.org/profile/267036)
+  * [CASAL, ROBERTO F](https://profiles.viictr.org/profile/18883222)
+  * [CORNWELL, LORRAINE](https://profiles.viictr.org/profile/266215)
+  * [MUSHER, DANIEL](https://profiles.viictr.org/profile/267420)
+  * [AWAD, SAMIR](https://profiles.viictr.org/profile/266767)
+
+[Explore](https://profiles.viictr.org/profile/268831/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [MUSHER, DANIEL](https://profiles.viictr.org/profile/267420)
+  * [OST, DAVID](https://profiles.viictr.org/profile/12583918)
+  * [MARTINEZ, FERNANDO](https://profiles.viictr.org/profile/12583796)
+  * [RAAD, ISSAM I](https://profiles.viictr.org/profile/12582533)
+  * [HANANIA, NICOLA](https://profiles.viictr.org/profile/266276)
+
+[Explore](https://profiles.viictr.org/profile/268831/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BANDI, VENKATA](https://profiles.viictr.org/profile/266259)
+  * [COLLINS, KEEGAN](https://profiles.viictr.org/profile/28999213)
+  * [HERLIHY, JAMES](https://profiles.viictr.org/profile/266593)
+  * [HOWARD, CHRISTOPHER](https://profiles.viictr.org/profile/3009983)
+  * [MODI, DIPABEN](https://profiles.viictr.org/profile/15317824)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [GUY, ELIZABETH](https://profiles.viictr.org/profile/265823)
+  * [PRITCHETT, ALLISON](https://profiles.viictr.org/profile/269405)
+  * [RUMBAUT, ROLANDO](https://profiles.viictr.org/profile/267369)
+  * [SHARAFKHANEH, AMIR](https://profiles.viictr.org/profile/267036)
+  * [SOLIS, ROBERT](https://profiles.viictr.org/profile/266546)
+
+_
+

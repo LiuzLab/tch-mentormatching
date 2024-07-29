@@ -1,0 +1,724 @@
+## CRAIG RUSIN
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| 6621 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Nbkl8mzJQIn2S8Ho5G4%3d&rnd=c6224950-0b89-427a-a983-239df6d9435e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268524)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=268524&cachekey=24c71a56-4e95-4927-a6ea-7256c81b214f)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Biography  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+education and training
+
+Princeton University, Princeton, NJ| BSE| 06/2001| Chemical Engineering  
+---|---|---|---  
+University of Virginia, Charlottesville, VA| PhD| 06/2009| Chemical
+Engineering  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+2133106 (Nanshu Lu)Sep 1, 2021 - Sep 1, 2025NSF  
+ASCENT: Multimodal chest e-tattoo with customized IC and deep learning
+algorithm for tracking and predicting progressive pneumonia  
+Role: Co-I  
+---  
+  
+* * *  
+  
+R33HD105593 (ANNAPRAGADA, ANANTH V)Jan 1, 2021 - Nov 30, 2024NIH  
+AICORE-kids: Artificial Intelligence COVID-19 Risk AssEssment for kids  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R61HD105593 (ALLEN, CARL E;ANNAPRAGADA, ANANTH V ;DEVARAJ, SRIDEVI ;RUSIN,
+CRAIG G)Jan 1, 2021 - Apr 30, 2023NIH  
+AICORE-kids: Artificial Intelligence COVID-19 Risk AssEssment for kids  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01HL142994 (RUSIN, CRAIG G)Jul 1, 2018 - May 31, 2024NIH  
+Multi-Site Validation Study of the HLHS Arrest Predictor  
+Role: Principal Investigator  
+  
+* * *  
+  
+R56HL131574 (RUSIN, CRAIG G)Sep 2, 2016 - Aug 31, 2017NIH  
+Real-Time Prediction of Acute Arrest in Infants with Single Ventricle
+Physiology  
+Role: Principal Investigator  
+  
+* * *  
+  
+16BGIA27490024 (Craig G. Rusin)Jan 1, 2016 - Dec 31, 2017American Heart
+Association (AHA)  
+Real-Time Prediction of Acute Arrest in Infants with Single Ventricle
+Physiology  
+Role: PI  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Nguyen MB](https://profiles.viictr.org/profile/37976256), Venet M, Fan CS, Dragulescu A, **Rusin CG** , Mertens LL, Mital S, Villemain O. Modeling the Relationship Between Diastolic Phenotype and Outcomes in Pediatric Hypertrophic Cardiomyopathy. J Am Soc Echocardiogr. 2024 May; 37(5):508-517.e3. PMID: [38097053](//www.ncbi.nlm.nih.gov/pubmed/38097053).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+  2. Connell PS, Price JF, **Rusin CG** , [Howard TS](https://profiles.viictr.org/profile/17411509), [Spinner JA](https://profiles.viictr.org/profile/7612568), [Valdes SO](https://profiles.viictr.org/profile/268796), Pham TDN, [Miyake CY](https://profiles.viictr.org/profile/2560323), [Kim JJ](https://profiles.viictr.org/profile/270078). Decreased Heart Rate Variability in Children with Acute Decompensated Heart Failure is Associated with Poor Outcomes. Pediatr Cardiol. 2023 Sep 12. PMID: [37698699](//www.ncbi.nlm.nih.gov/pubmed/37698699).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37698699/citedby/) Fields:
+
+Car CardiologyPed Pediatrics
+
+  3. Subramanian D, Vittala A, Chen X, Julien C, [Acosta S](https://profiles.viictr.org/profile/3494037), **Rusin C** , [Allen C](https://profiles.viictr.org/profile/270283), Rider N, [Starosolski Z](https://profiles.viictr.org/profile/270164), [Annapragada A](https://profiles.viictr.org/profile/269845), [Devaraj S](https://profiles.viictr.org/profile/266182). Stratification of Pediatric COVID-19 Cases Using Inflammatory Biomarker Profiling and Machine Learning. J Clin Med. 2023 Aug 22; 12(17). PMID: [37685502](//www.ncbi.nlm.nih.gov/pubmed/37685502); PMCID: [PMC10487951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10487951).
+
+Citations:
+
+  4. [Chao H](https://profiles.viictr.org/profile/41109764), [Acosta S](https://profiles.viictr.org/profile/3494037), **Rusin C** , [Rhee C](https://profiles.viictr.org/profile/266127). Comparison of Near-Infrared Spectroscopy-Based Cerebral Autoregulatory Indices in Extremely Low Birth Weight Infants. Children (Basel). 2023 Aug 09; 10(8). PMID: [37628360](//www.ncbi.nlm.nih.gov/pubmed/37628360); PMCID: [PMC10453436](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10453436).
+
+Citations:
+
+  5. **Rusin CG** , [Acosta SI](https://profiles.viictr.org/profile/3494037), Brady KM, Vu E, Scahill C, Fonseca B, Barrett C, Simsic J, Yates AR, Klepczynski B, Gaynor WJ, [Penny DJ](https://profiles.viictr.org/profile/266148). Automated prediction of cardiorespiratory deterioration in patients with single-ventricle parallel circulation: A?multicenter validation study. JTCVS Open. 2023 Sep; 15:406-411. PMID: [37808061](//www.ncbi.nlm.nih.gov/pubmed/37808061); PMCID: [PMC10556807](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10556807).
+
+Citations:
+
+  6. Subramanian D, Vittala A, Chen X, Julien C, [Acosta S](https://profiles.viictr.org/profile/3494037), **Rusin C** , Allen C, Rider N, [Starosolski Z](https://profiles.viictr.org/profile/270164), [Annapragada A](https://profiles.viictr.org/profile/269845), [Devaraj S](https://profiles.viictr.org/profile/266182). Stratification of Pediatric COVID-19 cases by inflammatory biomarker profiling and machine learning. medRxiv. 2023 Apr 04. PMID: [37066407](//www.ncbi.nlm.nih.gov/pubmed/37066407); PMCID: [PMC10104220](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10104220).
+
+Citations:
+
+  7. Han SW, [Puelz C](https://profiles.viictr.org/profile/31564365), **Rusin CG** , [Penny DJ](https://profiles.viictr.org/profile/266148), Coleman R, Peskin CS. Computer simulation of surgical interventions for the treatment of refractory pulmonary hypertension. Math Med Biol. 2023 03 13; 40(1):1-23. PMID: [35984836](//www.ncbi.nlm.nih.gov/pubmed/35984836).
+
+Citations:
+
+  8. [Savorgnan F](https://profiles.viictr.org/profile/17822562), Loomba RS, [Flores S](https://profiles.viictr.org/profile/17822551), **Rusin CG** , Zheng F, Hassan AM, [Acosta S](https://profiles.viictr.org/profile/3494037). Descriptors of Failed Extubation in Norwood Patients Using Physiologic Data Streaming. Pediatr Cardiol. 2023 Feb; 44(2):396-403. PMID: [36562780](//www.ncbi.nlm.nih.gov/pubmed/36562780).
+
+Citations:  Fields:
+
+Car CardiologyPed Pediatrics
+
+Translation:Humans
+
+  9. Hassan AM, [Acosta S](https://profiles.viictr.org/profile/3494037), Zheng F, **Rusin C** , [Savorgnan F](https://profiles.viictr.org/profile/17822562). Noninvasive Respiratory Support Does Not Prevent Extubation Failure in High-Risk Norwood Patients. Crit Care Explor. 2022 Oct; 4(10):e0782. PMID: [36311558](//www.ncbi.nlm.nih.gov/pubmed/36311558); PMCID: [PMC9605742](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9605742).
+
+Citations:
+
+  10. Lior D, [Puelz C](https://profiles.viictr.org/profile/31564365), Edwards C, [Molossi S](https://profiles.viictr.org/profile/266489), Griffith BE, [Birla RK](https://profiles.viictr.org/profile/32836403), **Rusin CG**. Semi-Automated Construction of Patient-Specific Aortic Valves from Computed Tomography Images. Ann Biomed Eng. 2023 Jan; 51(1):189-199. PMID: [36209266](//www.ncbi.nlm.nih.gov/pubmed/36209266); PMCID: [PMC10682914](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10682914).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+  11. [Nguyen MB](https://profiles.viictr.org/profile/37976256), Villemain O, Friedberg MK, Lovstakken L, **Rusin CG** , Mertens L. Artificial intelligence in the pediatric echocardiography laboratory: Automation, physiology, and outcomes. Front Radiol. 2022; 2:881777. PMID: [37492680](//www.ncbi.nlm.nih.gov/pubmed/37492680); PMCID: [PMC10365116](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10365116).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37492680/citedby/)
+
+  12. Ahmad Z, Jin LH, [Penny DJ](https://profiles.viictr.org/profile/266148), **Rusin CG** , Peskin CS, [Puelz C](https://profiles.viictr.org/profile/31564365). Optimal Fenestration of the Fontan Circulation. Front Physiol. 2022; 13:867995. PMID: [35846014](//www.ncbi.nlm.nih.gov/pubmed/35846014); PMCID: [PMC9280082](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9280082).
+
+Citations:
+
+  13. [Savorgnan F](https://profiles.viictr.org/profile/17822562), Moreira A, [Moreira A](https://profiles.viictr.org/profile/37847448), [Annapragada A](https://profiles.viictr.org/profile/269845), [Sexson Tejtel SK](https://profiles.viictr.org/profile/267598), [Flores S](https://profiles.viictr.org/profile/17822551), **Rusin CG** , [Shekerdemian L](https://profiles.viictr.org/profile/266468), [Acosta S](https://profiles.viictr.org/profile/3494037). Physiologic profile associated with severe multisystem inflammatory syndrome in children: a retrospective study. Pediatr Res. 2023 01; 93(1):102-109. PMID: [35568731](//www.ncbi.nlm.nih.gov/pubmed/35568731); PMCID: [PMC9106980](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9106980).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+  14. [Savorgnan F](https://profiles.viictr.org/profile/17822562), [Acosta S](https://profiles.viictr.org/profile/3494037), Alali A, [Moreira A](https://profiles.viictr.org/profile/37847448), [Annapragada A](https://profiles.viictr.org/profile/269845), **Rusin CG** , [Flores S](https://profiles.viictr.org/profile/17822551), Loomba RS, Moreira A. Social and Demographic Disparities in the Severity of Multisystem Inflammatory Syndrome in Children. Pediatr Infect Dis J. 2022 06 01; 41(6):e256-e258. PMID: [35537132](//www.ncbi.nlm.nih.gov/pubmed/35537132); PMCID: [PMC9083307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9083307).
+
+Citations:  Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:Humans
+
+  15. [Jain PN](https://profiles.viictr.org/profile/8065515), [Acosta S](https://profiles.viictr.org/profile/3494037), [Annapragada A](https://profiles.viictr.org/profile/269845), [Checchia PA](https://profiles.viictr.org/profile/267197), [Moreira A](https://profiles.viictr.org/profile/37847448), [Muscal E](https://profiles.viictr.org/profile/270252), [Sartain SE](https://profiles.viictr.org/profile/3009824), Tejtel SKS, [Vogel TP](https://profiles.viictr.org/profile/18883198), [Shekerdemian L](https://profiles.viictr.org/profile/266468), **Rusin CG**. Comparison of Laboratory and Hemodynamic Time Series Data Across Original, Alpha, and Delta Variants in Patients With Multisystem Inflammatory Syndrome in Children. Pediatr Crit Care Med. 2022 08 01; 23(8):e372-e381. PMID: [35507775](//www.ncbi.nlm.nih.gov/pubmed/35507775); PMCID: [PMC9345524](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9345524).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+  16. Waugh JLS, Patel R, Ju Y, Patel AB, **Rusin CG** , [Jain PN](https://profiles.viictr.org/profile/8065515). A novel automated junctional ectopic tachycardia detection tool for children with congenital heart disease. Heart Rhythm O2. 2022 Jun; 3(3):302-310. PMID: [35734300](//www.ncbi.nlm.nih.gov/pubmed/35734300); PMCID: [PMC9207733](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9207733).
+
+Citations:
+
+  17. **Rusin CG** , [Acosta SI](https://profiles.viictr.org/profile/3494037), Vu EL, [Ahmed M](https://profiles.viictr.org/profile/17822537), Brady KM, [Penny DJ](https://profiles.viictr.org/profile/266148). Automated Prediction of Cardiorespiratory Deterioration in Patients With Single Ventricle. J Am Coll Cardiol. 2021 06 29; 77(25):3184-3192. PMID: [34167643](//www.ncbi.nlm.nih.gov/pubmed/34167643); PMCID: [PMC8091451](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8091451).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34167643/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  18. [Foughty ZC](https://profiles.viictr.org/profile/37104185), Tavaslioglu O, [Rhee CJ](https://profiles.viictr.org/profile/266127), Elizondo LI, **Rusin CG** , [Penny DJ](https://profiles.viictr.org/profile/266148), [Acosta S](https://profiles.viictr.org/profile/3494037), Rios DR. Novel Method of Calculating Pulse Pressure Variation to Predict Fluid Responsiveness to Transfusion in Very Low Birth Weight Infants. J Pediatr. 2021 Jul; 234:265-268.e1. PMID: [33865859](//www.ncbi.nlm.nih.gov/pubmed/33865859); PMCID: [PMC8238876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8238876).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  19. Hendryx EP, **Rusin CG** , Rivi?re BM. An Extended DEIM Algorithm for Subset Selection and Class Identification. Mach Learn. 2021 Apr; 110(4):621-650. PMID: [34149160](//www.ncbi.nlm.nih.gov/pubmed/34149160); PMCID: [PMC8211103](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8211103).
+
+Citations:
+
+  20. Elizondo LI, Vu EL, Kibler KK, Rios DR, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos D](https://profiles.viictr.org/profile/268201), [Acosta S](https://profiles.viictr.org/profile/3494037), **Rusin C** , Brady K, [Rhee CJ](https://profiles.viictr.org/profile/266127). Critical Closing Pressure by Diffuse Correlation Spectroscopy in a Neonatal Piglet Model. Acta Neurochir Suppl. 2021; 131:295-299. PMID: [33839861](//www.ncbi.nlm.nih.gov/pubmed/33839861).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Animals
+
+  21. Rios DR, [Rhee CJ](https://profiles.viictr.org/profile/266127), Elizondo L, Brady KM, **Rusin CG** , [Acosta S](https://profiles.viictr.org/profile/3494037). Creatinine filtration kinetics in critically Ill neonates. Pediatr Res. 2021 03; 89(4):952-957. PMID: [32454515](//www.ncbi.nlm.nih.gov/pubmed/32454515); PMCID: [PMC7688479](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7688479).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  22. [Acosta S](https://profiles.viictr.org/profile/3494037), [Ahmed M](https://profiles.viictr.org/profile/17822537), Yin SM, Brady KM, [Penny DJ](https://profiles.viictr.org/profile/266148), **Rusin CG**. A robust Fourier-based method to measure pulse pressure variability. Biomed Signal Process Control. 2020 Jul; 60. PMID: [32719724](//www.ncbi.nlm.nih.gov/pubmed/32719724); PMCID: [PMC7384614](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7384614).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32719724/citedby/)
+
+  23. Guagliardo NA, Klein PM, Gancayco CA, Lu A, Leng S, Makarem RR, Cho C, **Rusin CG** , Breault DT, Barrett PQ, Beenhakker MP. Angiotensin II induces coordinated calcium bursts in aldosterone-producing adrenal rosettes. Nat Commun. 2020 04 03; 11(1):1679. PMID: [32245948](//www.ncbi.nlm.nih.gov/pubmed/32245948); PMCID: [PMC7125102](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7125102).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32245948/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:Animals
+
+  24. [Achuff BJ](https://profiles.viictr.org/profile/15317795), [Moffett BS](https://profiles.viictr.org/profile/270140), [Acosta S](https://profiles.viictr.org/profile/3494037), Lasa JJ, [Checchia PA](https://profiles.viictr.org/profile/267197), **Rusin CG**. The authors reply. Pediatr Crit Care Med. 2019 10; 20(10):1004-1005. PMID: [31580284](//www.ncbi.nlm.nih.gov/pubmed/31580284).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  25. [Achuff BJ](https://profiles.viictr.org/profile/15317795), [Moffett BS](https://profiles.viictr.org/profile/270140), [Acosta S](https://profiles.viictr.org/profile/3494037), Lasa JJ, [Checchia PA](https://profiles.viictr.org/profile/267197), **Rusin CG**. Hypotensive Response to IV Acetaminophen in Pediatric Cardiac Patients. Pediatr Crit Care Med. 2019 06; 20(6):527-533. PMID: [30676493](//www.ncbi.nlm.nih.gov/pubmed/30676493).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30676493/citedby/) Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  26. Elizondo LI, Rios DR, Vu E, Kibler K, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos DB](https://profiles.viictr.org/profile/268201), [Acosta S](https://profiles.viictr.org/profile/3494037), **Rusin CG** , Kaiser JR, Brady KM, [Rhee CJ](https://profiles.viictr.org/profile/266127). Observed and calculated cerebral critical closing pressure are highly correlated in preterm infants. Pediatr Res. 2019 08; 86(2):242-246. PMID: [31003233](//www.ncbi.nlm.nih.gov/pubmed/31003233); PMCID: [PMC6658334](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6658334).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31003233/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  27. **Rusin CG** , Lasa JJ, [Checchia PA](https://profiles.viictr.org/profile/267197). Commentary: The patient is the focus, but the data are the key: Toward data-driven critical care environments. J Thorac Cardiovasc Surg. 2019 07; 158(1):244-245. PMID: [30967245](//www.ncbi.nlm.nih.gov/pubmed/30967245).
+
+Citations:  Fields:
+
+Car CardiologyGen General SurgeryPul Pulmonary MedicineVas Vascular Diseases
+
+Translation:Humans
+
+  28. [Hussein MA](https://profiles.viictr.org/profile/267967), Deng N, **Rusin C** , Paysse EE, Bhatt A, [Coats DK](https://profiles.viictr.org/profile/268331). Heart rate variability changes and its association with the development of severe retinopathy of prematurity. J AAPOS. 2018 10; 22(5):371-375. PMID: [30102963](//www.ncbi.nlm.nih.gov/pubmed/30102963).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30102963/citedby/) Fields:
+
+Oph OphthalmologyPed Pediatrics
+
+Translation:Humans
+
+  29. [Miyake CY](https://profiles.viictr.org/profile/2560323), Niu MC, de la Uz CM, Asaki SY, Landstrom AP, Schneider AE, **Rusin CG** , Patel R, [Lam WW](https://profiles.viictr.org/profile/269229), [Kim JJ](https://profiles.viictr.org/profile/270078), Vald?s SO. Early experience with intravenous sotalol in children with and without congenital heart disease. Heart Rhythm. 2018 12; 15(12):1862-1869. PMID: [30003959](//www.ncbi.nlm.nih.gov/pubmed/30003959); PMCID: [PMC6330171](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6330171).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30003959/citedby/) Fields:
+
+Car Cardiology
+
+Translation:Humans
+
+  30. Lazaridis C, **Rusin CG** , [Robertson CS](https://profiles.viictr.org/profile/269529). Secondary brain injury: Predicting and preventing insults. Neuropharmacology. 2019 02; 145(Pt B):145-152. PMID: [29885419](//www.ncbi.nlm.nih.gov/pubmed/29885419).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29885419/citedby/) Fields:
+
+Neu NeurologyPha Pharmacology
+
+Translation:Humans
+
+  31. Welty SE, **Rusin CG** , Stanberry LI, [Mandy GT](https://profiles.viictr.org/profile/268258), Gest AL, Ford JM, Backes CH, Richardson CP, Howard CR, Hansen TN, Smith CV. Short term evaluation of respiratory effort by premature infants supported with bubble nasal continuous airway pressure using Seattle-PAP and a standard bubble device. PLoS One. 2018; 13(3):e0193807. PMID: [29590143](//www.ncbi.nlm.nih.gov/pubmed/29590143); PMCID: [PMC5874011](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5874011).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29590143/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  32. Hendryx EP, Sorensen DC, **Rusin CG** , Rivi?re BM. Finding representative electrocardiogram beat morphologies with CUR. J Biomed Inform. 2018 01; 77:97-110. PMID: [29224855](//www.ncbi.nlm.nih.gov/pubmed/29224855); PMCID: [PMC5851629](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5851629).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29224855/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  33. [Achuff BJ](https://profiles.viictr.org/profile/15317795), Achuff JC, Park HH, [Moffett B](https://profiles.viictr.org/profile/270140), [Acosta S](https://profiles.viictr.org/profile/3494037), **Rusin CG** , [Checchia PA](https://profiles.viictr.org/profile/267197). Epinephrine syringe exchange events in a paediatric cardiovascular ICU: analysing the storm. Cardiol Young. 2018 Mar; 28(3):409-415. PMID: [29198222](//www.ncbi.nlm.nih.gov/pubmed/29198222).
+
+Citations:  Fields:
+
+Car CardiologyPed PediatricsVas Vascular Diseases
+
+Translation:Humans
+
+  34. Cruz SM, Lau PE, **Rusin CG** , Style CC, Cass DL, [Fernandes CJ](https://profiles.viictr.org/profile/269775), Lee TC, [Rhee CJ](https://profiles.viictr.org/profile/266127), [Keswani S](https://profiles.viictr.org/profile/11419586), Ruano R, Welty SE, [Olutoye OO](https://profiles.viictr.org/profile/266840). A novel multimodal computational system using near-infrared spectroscopy predicts the need for ECMO initiation in neonates with congenital diaphragmatic hernia. J Pediatr Surg. 2017 Oct 12. PMID: [29137806](//www.ncbi.nlm.nih.gov/pubmed/29137806).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29137806/citedby/) Fields:
+
+Gen General SurgeryPed Pediatrics
+
+  35. [Puelz C](https://profiles.viictr.org/profile/31564365), [Penny DJ](https://profiles.viictr.org/profile/266148), Brady KM, **Rusin CG** , Acosta S, Rivi?re B. A computational study of the Fontan circulation with fenestration or hepatic vein exclusion. Comput Biol Med. 2017 10 01; 89:405-418. PMID: [28881280](//www.ncbi.nlm.nih.gov/pubmed/28881280); PMCID: [PMC5650514](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5650514).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28881280/citedby/) Fields:
+
+Bio BiologyMed Medical InformaticsMed Medicine (General)
+
+Translation:Humans
+
+  36. [Penny DJ](https://profiles.viictr.org/profile/266148), Brady KM, **Rusin CG** , [Acosta S](https://profiles.viictr.org/profile/3494037). An effective model of cerebrovascular pressure reactivity and blood flow autoregulation. Microvasc Res. 2018 01; 115:34-43. PMID: [28847705](//www.ncbi.nlm.nih.gov/pubmed/28847705).
+
+Citations:  Fields:
+
+Vas Vascular Diseases
+
+Translation:Humans
+
+  37. [Puelz C](https://profiles.viictr.org/profile/31564365), [Penny DJ](https://profiles.viictr.org/profile/266148), Brady KM, **Rusin CG** , [Acosta S](https://profiles.viictr.org/profile/3494037), Rivi?re B. Cardiovascular mechanics in the early stages of pulmonary hypertension: a computational study. Biomech Model Mechanobiol. 2017 Dec; 16(6):2093-2112. PMID: [28733923](//www.ncbi.nlm.nih.gov/pubmed/28733923).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28733923/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  38. Smith B, Vu E, Kibler K, **Rusin C** , [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos D](https://profiles.viictr.org/profile/268201), [Heinle J](https://profiles.viictr.org/profile/270156), Czosnyka M, Licht D, Lynch J, Brady K. Does hypothermia impair cerebrovascular autoregulation in neonates during cardiopulmonary bypass? Paediatr Anaesth. 2017 Sep; 27(9):905-910. PMID: [28653463](//www.ncbi.nlm.nih.gov/pubmed/28653463).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28653463/citedby/) Fields:
+
+Ane AnesthesiologyPed Pediatrics
+
+Translation:Humans
+
+  39. Comparison of reduced models for blood flow using Runge–Kutta discontinuous Galerkin methods. Applied Numerical Mathematics. 2017; 115:114-141.
+
+  40. [Puelz C](https://profiles.viictr.org/profile/31564365), Canic S, **Rusin CG** , Rivi?re B. Comparison of reduced models for blood flow using Runge-Kutta discontinuous Galerkin methods. Appl Numer Math. 2017 May; 115:114-141. PMID: [29081563](//www.ncbi.nlm.nih.gov/pubmed/29081563); PMCID: [PMC5654593](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5654593).
+
+Citations:
+
+  41. Vu EL, **Rusin CG** , [Penny DJ](https://profiles.viictr.org/profile/266148), Kibler KK, [Easley RB](https://profiles.viictr.org/profile/266616), Smith B, [Andropoulos D](https://profiles.viictr.org/profile/268201), Brady K. A Novel Electrocardiogram Algorithm Utilizing ST-Segment Instability for Detection of Cardiopulmonary Arrest in Single Ventricle Physiology: A Retrospective Study. Pediatr Crit Care Med. 2017 01; 18(1):44-53. PMID: [27755397](//www.ncbi.nlm.nih.gov/pubmed/27755397); PMCID: [PMC5466171](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5466171).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27755397/citedby/) Fields:
+
+Cri Critical CarePed Pediatrics
+
+Translation:Humans
+
+  42. Myers RB, Lazaridis C, Jermaine CM, [Robertson CS](https://profiles.viictr.org/profile/269529), **Rusin CG**. Predicting Intracranial Pressure and Brain Tissue Oxygen Crises in Patients With Severe Traumatic Brain Injury. Crit Care Med. 2016 09; 44(9):1754-61. PMID: [27315192](//www.ncbi.nlm.nih.gov/pubmed/27315192); PMCID: [PMC7083460](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7083460).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27315192/citedby/) Fields:
+
+Cri Critical Care
+
+Translation:Humans
+
+  43. Busch DR, **Rusin CG** , [Miller-Hance W](https://profiles.viictr.org/profile/269992), Kibler K, Baker WB, [Heinle JS](https://profiles.viictr.org/profile/270156), Fraser CD, Yodh AG, Licht DJ, Brady KM. Continuous cerebral hemodynamic measurement during deep hypothermic circulatory arrest. Biomed Opt Express. 2016 Sep 01; 7(9):3461-3470. PMID: [27699112](//www.ncbi.nlm.nih.gov/pubmed/27699112); PMCID: [PMC5030024](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5030024).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27699112/citedby/)
+
+  44. [Rhee CJ](https://profiles.viictr.org/profile/266127), Kaiser JR, Rios DR, Kibler KK, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos DB](https://profiles.viictr.org/profile/268201), Czosnyka M, Smielewski P, Varsos GV, **Rusin CG** , Gauss CH, Williams DK, Brady KM. Elevated Diastolic Closing Margin Is Associated with Intraventricular Hemorrhage in Premature Infants. J Pediatr. 2016 Jul; 174:52-6. PMID: [27112042](//www.ncbi.nlm.nih.gov/pubmed/27112042); PMCID: [PMC4925245](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4925245).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27112042/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  45. **Rusin CG** , [Acosta SI](https://profiles.viictr.org/profile/3494037), [Shekerdemian LS](https://profiles.viictr.org/profile/266468), Vu EL, [Bavare AC](https://profiles.viictr.org/profile/270074), Myers RB, Patterson LW, Brady KM, [Penny DJ](https://profiles.viictr.org/profile/266148). Prediction of imminent, severe deterioration of children with parallel circulations using real-time processing of physiologic data. J Thorac Cardiovasc Surg. 2016 Jul; 152(1):171-7. PMID: [27174513](//www.ncbi.nlm.nih.gov/pubmed/27174513); PMCID: [PMC4921264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4921264).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27174513/citedby/) Fields:
+
+Car CardiologyGen General SurgeryPul Pulmonary MedicineVas Vascular Diseases
+
+Translation:Humans
+
+  46. [Rhee CJ](https://profiles.viictr.org/profile/266127), Fraser CD, Kibler K, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos DB](https://profiles.viictr.org/profile/268201), Czosnyka M, Varsos GV, Smielewski P, **Rusin CG** , Brady KM, Kaiser JR. The Ontogeny of Cerebrovascular Critical Closing Pressure. Acta Neurochir Suppl. 2016; 122:249-53. PMID: [27165916](//www.ncbi.nlm.nih.gov/pubmed/27165916).
+
+Citations:  Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  47. [Rhee CJ](https://profiles.viictr.org/profile/266127), Kibler KK, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos DB](https://profiles.viictr.org/profile/268201), Czosnyka M, Smielewski P, Varsos GV, Brady KM, **Rusin CG** , Fraser CD, Gauss CH, Williams DK, Kaiser JR. The Diastolic Closing Margin Is Associated with Intraventricular Hemorrhage in Premature Infants. Acta Neurochir Suppl. 2016; 122:147-50. PMID: [27165896](//www.ncbi.nlm.nih.gov/pubmed/27165896).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27165896/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  48. [Rhee CJ](https://profiles.viictr.org/profile/266127), Fraser CD, Kibler K, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos DB](https://profiles.viictr.org/profile/268201), Czosnyka M, Varsos GV, Smielewski P, **Rusin CG** , Brady KM, Kaiser JR. The Ontogeny of Cerebrovascular Pressure Autoregulation in Premature Infants. Acta Neurochir Suppl. 2016; 122:151-5. PMID: [27165897](//www.ncbi.nlm.nih.gov/pubmed/27165897).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27165897/citedby/) Fields:
+
+Neu Neurosurgery
+
+Translation:Humans
+
+  49. Cruz SM, Akinkuotu AC, **Rusin CG** , Cass DL, Lee TC, Welty SE, [Olutoye OO](https://profiles.viictr.org/profile/266840). A novel multimodal computational system using near-infrared spectroscopy to monitor cerebral oxygenation during assisted ventilation in CDH patients. J Pediatr Surg. 2016 Jan; 51(1):38-43. PMID: [26585879](//www.ncbi.nlm.nih.gov/pubmed/26585879).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26585879/citedby/) Fields:
+
+Gen General SurgeryPed Pediatrics
+
+Translation:Humans
+
+  50. [Acosta S](https://profiles.viictr.org/profile/3494037), [Puelz C](https://profiles.viictr.org/profile/31564365), [Penny DJ](https://profiles.viictr.org/profile/266148), **Rusin CG** , Rivi?re B. Numerical Method of Characteristics for One-Dimensional Blood Flow. J Comput Phys. 2015 Aug 01; 294:96-109. PMID: [25931614](//www.ncbi.nlm.nih.gov/pubmed/25931614); PMCID: [PMC4410450](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4410450).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25931614/citedby/)
+
+  51. [Acosta S](https://profiles.viictr.org/profile/3494037), [Penny DJ](https://profiles.viictr.org/profile/266148), **Rusin CG**. An effective model of blood flow in capillary beds. Microvasc Res. 2015 Jul; 100:40-7. PMID: [25936622](//www.ncbi.nlm.nih.gov/pubmed/25936622).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25936622/citedby/) Fields:
+
+Vas Vascular Diseases
+
+Translation:HumansAnimals
+
+  52. [Rhee CJ](https://profiles.viictr.org/profile/266127), Fraser CD, Kibler K, [Easley RB](https://profiles.viictr.org/profile/266616), [Andropoulos DB](https://profiles.viictr.org/profile/268201), Czosnyka M, Varsos GV, Smielewski P, **Rusin CG** , Brady KM, Kaiser JR. Ontogeny of cerebrovascular critical closing pressure. Pediatr Res. 2015 Jul; 78(1):71-5. PMID: [25826118](//www.ncbi.nlm.nih.gov/pubmed/25826118).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25826118/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  53. Politano AD, Riccio LM, Lake DE, **Rusin CG** , Guin LE, Josef CS, Clark MT, Sawyer RG, Moorman JR, Calland JF, Predictive Monitoring in Patients with Trauma (PreMPT) Group. Predicting the need for urgent intubation in a surgical/trauma intensive care unit. Surgery. 2013 Nov; 154(5):1110-6. PMID: [24075272](//www.ncbi.nlm.nih.gov/pubmed/24075272); PMCID: [PMC3805718](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3805718).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24075272/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+  54. Fraser CD, Brady KM, [Rhee CJ](https://profiles.viictr.org/profile/266127), [Easley RB](https://profiles.viictr.org/profile/266616), Kibler K, Smielewski P, Czosnyka M, Kaczka DW, [Andropoulos DB](https://profiles.viictr.org/profile/268201), **Rusin C**. The frequency response of cerebral autoregulation. J Appl Physiol (1985). 2013 Jul 01; 115(1):52-6. PMID: [23681909](//www.ncbi.nlm.nih.gov/pubmed/23681909).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23681909/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Animals
+
+  55. Vergales BD, Paget-Brown AO, Lee H, Guin LE, Smoot TJ, **Rusin CG** , Clark MT, Delos JB, Fairchild KD, Lake DE, Moorman R, Kattwinkel J. Accurate automated apnea analysis in preterm infants. Am J Perinatol. 2014 Feb; 31(2):157-62. PMID: [23592319](//www.ncbi.nlm.nih.gov/pubmed/23592319); PMCID: [PMC5321050](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5321050).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23592319/citedby/) Fields:
+
+Per Perinatology
+
+Translation:Humans
+
+  56. Brady KM, [Easley RB](https://profiles.viictr.org/profile/266616), Kibler K, Kaczka DW, [Andropoulos D](https://profiles.viictr.org/profile/268201), Fraser CD, Smielewski P, Czosnyka M, Adams GJ, [Rhee CJ](https://profiles.viictr.org/profile/266127), **Rusin CG**. Positive end-expiratory pressure oscillation facilitates brain vascular reactivity monitoring. J Appl Physiol (1985). 2012 Nov; 113(9):1362-8. PMID: [22984248](//www.ncbi.nlm.nih.gov/pubmed/22984248).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22984248/citedby/) Fields:
+
+Phy Physiology
+
+Translation:HumansAnimals
+
+  57. Hu C, **Rusin CG** , Tan Z, Guagliardo NA, Barrett PQ. Zona glomerulosa cells of the mouse adrenal cortex are intrinsic electrical oscillators. J Clin Invest. 2012 Jun; 122(6):2046-53. PMID: [22546854](//www.ncbi.nlm.nih.gov/pubmed/22546854); PMCID: [PMC3966877](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3966877).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22546854/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Animals
+
+  58. Zagol K, Lake DE, Vergales B, Moorman ME, Paget-Brown A, Lee H, **Rusin CG** , Delos JB, Clark MT, Moorman JR, Kattwinkel J. Anemia, apnea of prematurity, and blood transfusions. J Pediatr. 2012 Sep; 161(3):417-421.e1. PMID: [22494873](//www.ncbi.nlm.nih.gov/pubmed/22494873); PMCID: [PMC5321065](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5321065).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22494873/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  59. Clark MT, **Rusin CG** , Hudson JL, Lee H, Delos JB, Guin LE, Vergales BD, Paget-Brown A, Kattwinkel J, Lake DE, Moorman JR. Breath-by-breath analysis of cardiorespiratory interaction for quantifying developmental maturity in premature infants. J Appl Physiol (1985). 2012 Mar; 112(5):859-67. PMID: [22174403](//www.ncbi.nlm.nih.gov/pubmed/22174403); PMCID: [PMC3311658](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3311658).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22174403/citedby/) Fields:
+
+Phy Physiology
+
+Translation:Humans
+
+  60. Lee H, **Rusin CG** , Lake DE, Clark MT, Guin L, Smoot TJ, Paget-Brown AO, Vergales BD, Kattwinkel J, Moorman JR, Delos JB. A new algorithm for detecting central apnea in neonates. Physiol Meas. 2012 Jan; 33(1):1-17. PMID: [22156193](//www.ncbi.nlm.nih.gov/pubmed/22156193); PMCID: [PMC5366243](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5366243).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22156193/citedby/) Fields:
+
+Bio Biomedical EngineeringBio BiophysicsPhy Physiology
+
+Translation:Humans
+
+  61. **Rusin CG** , Johnson SE, Kapur J, Hudson JL. Engineering the synchronization of neuron action potentials using global time-delayed feedback stimulation. Phys Rev E Stat Nonlin Soft Matter Phys. 2011 Dec; 84(6 Pt 2):066202. PMID: [22304173](//www.ncbi.nlm.nih.gov/pubmed/22304173); PMCID: [PMC6289257](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6289257).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22304173/citedby/) Fields:
+
+Bio BiophysicsPhy PhysicsPhy PhysiologySta Statistics as Topic
+
+Translation:AnimalsCells
+
+  62. Blaha KA, Pikovsky A, Rosenblum M, Clark MT, **Rusin CG** , Hudson JL. Reconstruction of two-dimensional phase dynamics from experiments on coupled oscillators. Phys Rev E Stat Nonlin Soft Matter Phys. 2011 Oct; 84(4 Pt 2):046201. PMID: [22181239](//www.ncbi.nlm.nih.gov/pubmed/22181239).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22181239/citedby/) Fields:
+
+Bio BiophysicsPhy PhysicsPhy PhysiologySta Statistics as Topic
+
+  63. **Rusin CG** , Tokuda I, Hudson JL, Kiss IZ. Engineering of synchronization and clustering of a population of chaotic chemical oscillators. Angew Chem Int Ed Engl. 2011 Oct 17; 50(43):10212-5. PMID: [21472935](//www.ncbi.nlm.nih.gov/pubmed/21472935).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21472935/citedby/) Fields:
+
+Che Chemistry
+
+  64. **Rusin CG** , Kori H, Hudson JL, Kiss IZ. Synchronization engineering: tuning the phase relationship between dissimilar oscillators using nonlinear feedback. Philos Trans A Math Phys Eng Sci. 2010 May 13; 368(1918):2189-204. PMID: [20368241](//www.ncbi.nlm.nih.gov/pubmed/20368241).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20368241/citedby/) Fields:
+
+Bio Biomedical EngineeringBio BiophysicsSta Statistics as Topic
+
+  65. **Rusin CG** , Kori H, Hudson JL, Kiss IZ. A Framework for Engineering the Collective Behavior of Complex Rhythmic Systems. Ind Eng Chem Res. 2009 Mar 16; 48(21):9416. PMID: [20174453](//www.ncbi.nlm.nih.gov/pubmed/20174453); PMCID: [PMC2822350](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2822350).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20174453/citedby/)
+
+  66. Kori H, **Rusin CG** , Hudson JL, Kiss IZ. Synchronization engineering: theoretical framework and application to dynamical clustering. Chaos. 2008 Jun; 18(2):026111. PMID: [18601513](//www.ncbi.nlm.nih.gov/pubmed/18601513).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18601513/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  67. **Rusin CG** , Kori H, Hudson JL, Kiss IZ. Engineering complex dynamical structures: sequential patterns and desynchronization. Science. 2007 Jun 29; 316(5833):1886-9. PMID: [17525302](//www.ncbi.nlm.nih.gov/pubmed/17525302).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17525302/citedby/) Fields:
+
+Sci Science
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 67 publications over 16 distinct years, with a maximum of
+10 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|10&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,10,10,50,30,30,0,40,70,100,40,40,30,40,90,70,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2008| 1  
+2009| 1  
+2010| 1  
+2011| 5  
+2012| 3  
+2013| 3  
+2015| 4  
+2016| 7  
+2017| 10  
+2018| 4  
+2019| 4  
+2020| 3  
+2021| 4  
+2022| 9  
+2023| 7  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+RUSIN's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (231)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Hypotension](https://profiles.viictr.org/profile/241192)
+  * [Models, Cardiovascular](https://profiles.viictr.org/profile/254224)
+  * [Monitoring, Physiologic](https://profiles.viictr.org/profile/247063)
+  * [Acetaminophen](https://profiles.viictr.org/profile/260139)
+  * [Cerebrovascular Circulation](https://profiles.viictr.org/profile/249584)
+
+[Explore](https://profiles.viictr.org/profile/268524/198)
+
+_
+
+Co-Authors (44)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ACOSTA, SEBASTIAN](https://profiles.viictr.org/profile/3494037)
+  * [PENNY, DANIEL](https://profiles.viictr.org/profile/266148)
+  * [RHEE, CHRISTOPHER](https://profiles.viictr.org/profile/266127)
+  * [ACHUFF, BARBARA-JO](https://profiles.viictr.org/profile/15317795)
+  * [CHECCHIA, PAUL](https://profiles.viictr.org/profile/267197)
+
+[Explore](https://profiles.viictr.org/profile/268524/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [SZARPAK, LUKASZ](https://profiles.viictr.org/profile/37104232)
+  * [ROBERTSON, CLAUDIA](https://profiles.viictr.org/profile/269529)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [RHEE, CHRISTOPHER](https://profiles.viictr.org/profile/266127)
+  * [PENNY, DANIEL](https://profiles.viictr.org/profile/266148)
+
+[Explore](https://profiles.viictr.org/profile/268524/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DOLGNER, STEPHEN](https://profiles.viictr.org/profile/31564374)
+  * [GOODEN, ANGELA](https://profiles.viictr.org/profile/267356)
+  * [PENNY, DANIEL](https://profiles.viictr.org/profile/266148)
+  * [SANCHEZ MEJIA, AURA](https://profiles.viictr.org/profile/6618448)
+  * [SPINNER, JOSEPH](https://profiles.viictr.org/profile/7612568)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [KHAN, ASRA](https://profiles.viictr.org/profile/268790)
+  * [LIOU, AIMEE](https://profiles.viictr.org/profile/265525)
+  * [O'BRIEN, RICHARD](https://profiles.viictr.org/profile/268818)
+  * [OPINA GONZALEZ, ANGELINE](https://profiles.viictr.org/profile/3010039)
+  * [REID, PRISCILA](https://profiles.viictr.org/profile/270031)
+
+_
+

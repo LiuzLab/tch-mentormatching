@@ -1,0 +1,204 @@
+## HYUNTAEK OH
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Psychiatry & Behavioral Sciences  
+Address| 2801 GESSNER  
+Houston, TX 77080  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HrIl73HGJYC7aYfN4njPZLGIMg%3d%3d&rnd=7d2833a0-6799-4262-9624-14258464b6fa)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=19502556)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Oh H** , Lee J, [Patriquin MA](https://profiles.viictr.org/profile/8065544), [Oldham J](https://profiles.viictr.org/profile/265615), [Salas R](https://profiles.viictr.org/profile/267055). Reward Processing in Psychiatric Inpatients With Depression. Biol Psychiatry Cogn Neurosci Neuroimaging. 2023 Jul; 8(7):731-740. PMID: [34174484](//www.ncbi.nlm.nih.gov/pubmed/34174484).
+
+Citations:  Fields:
+
+Dia Diagnostic ImagingNeu NeurologyPsy Psychiatry
+
+  2. **Oh H** , Gosnell S, Nguyen T, Tran T, [Kosten TR](https://profiles.viictr.org/profile/265715), [Salas R](https://profiles.viictr.org/profile/267055). Cingulate Cortex Structural Alterations in Substance Use Disorder Psychiatric Inpatients. Am J Addict. 2021 01; 30(1):72-79. PMID: [33232571](//www.ncbi.nlm.nih.gov/pubmed/33232571).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33232571/citedby/) Fields:
+
+Sub Substance-Related Disorders
+
+Translation:Humans
+
+  3. **Oh H** , Lee J, Kim S, [Rufino KA](https://profiles.viictr.org/profile/3009650), Fonagy P, [Oldham JM](https://profiles.viictr.org/profile/265615), Schanzer B, [Patriquin MA](https://profiles.viictr.org/profile/8065544). Time in treatment: Examining mental illness trajectories across inpatient psychiatric treatment. J Psychiatr Res. 2020 11; 130:22-30. PMID: [32768710](//www.ncbi.nlm.nih.gov/pubmed/32768710).
+
+Citations:  Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  4. Kang GE, [Patriquin MA](https://profiles.viictr.org/profile/8065544), Nguyen H, **Oh H** , [Rufino KA](https://profiles.viictr.org/profile/3009650), [Storch EA](https://profiles.viictr.org/profile/23478906), Schanzer B, [Mathew SJ](https://profiles.viictr.org/profile/269727), [Salas R](https://profiles.viictr.org/profile/267055), [Najafi B](https://profiles.viictr.org/profile/15578244). Objective measurement of sleep, heart rate, heart rate variability, and physical activity in suicidality: A systematic review. J Affect Disord. 2020 08 01; 273:318-327. PMID: [32421619](//www.ncbi.nlm.nih.gov/pubmed/32421619); PMCID: [PMC7306422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7306422).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32421619/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  5. **Oh H** , Lee J, Gosnell SN, [Patriquin M](https://profiles.viictr.org/profile/8065544), [Kosten T](https://profiles.viictr.org/profile/265715), [Salas R](https://profiles.viictr.org/profile/267055). Orbitofrontal, dorsal striatum, and habenula functional connectivity in psychiatric patients with substance use problems. Addict Behav. 2020 09; 108:106457. PMID: [32371303](//www.ncbi.nlm.nih.gov/pubmed/32371303).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32371303/citedby/) Fields:
+
+Beh Behavioral SciencesSub Substance-Related Disorders
+
+Translation:Humans
+
+  6. Gosnell SN, **Oh H** , Schmidt J, [Oldham J](https://profiles.viictr.org/profile/265615), Fowler JC, [Patriquin M](https://profiles.viictr.org/profile/8065544), [Ress D](https://profiles.viictr.org/profile/2560306), [Salas R](https://profiles.viictr.org/profile/267055). Right temporal pole volume reduction in PTSD. Prog Neuropsychopharmacol Biol Psychiatry. 2020 06 08; 100:109890. PMID: [32084508](//www.ncbi.nlm.nih.gov/pubmed/32084508).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32084508/citedby/) Fields:
+
+Psy PsychiatryPsy Psychopharmacology
+
+Translation:Humans
+
+  7. **Oh H** , Kim JH, [Yau JM](https://profiles.viictr.org/profile/2619366). EPI distortion correction for concurrent human brain stimulation and imaging at 3T. J Neurosci Methods. 2019 11 01; 327:108400. PMID: [31434000](//www.ncbi.nlm.nih.gov/pubmed/31434000); PMCID: [PMC7306275](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7306275).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31434000/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 7 publications over 3 distinct years, with a maximum of 5
+publications in
+2020](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|5&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,100,20,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2019| 1  
+2020| 5  
+2021| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+OH's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (41)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Substance-Related Disorders](https://profiles.viictr.org/profile/243097)
+  * [Suicide](https://profiles.viictr.org/profile/264830)
+  * [Habenula](https://profiles.viictr.org/profile/252246)
+  * [Neuroimaging](https://profiles.viictr.org/profile/27546449)
+  * [Gyrus Cinguli](https://profiles.viictr.org/profile/252158)
+
+[Explore](https://profiles.viictr.org/profile/19502556/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SALAS, RAMIRO](https://profiles.viictr.org/profile/267055)
+  * [PATRIQUIN, MICHELLE](https://profiles.viictr.org/profile/8065544)
+  * [YAU, JEFFREY](https://profiles.viictr.org/profile/2619366)
+  * [OLDHAM, JOHN](https://profiles.viictr.org/profile/265615)
+  * [KOSTEN, THOMAS](https://profiles.viictr.org/profile/265715)
+
+[Explore](https://profiles.viictr.org/profile/19502556/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [KOSTEN, THOMAS](https://profiles.viictr.org/profile/265715)
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [SHARP, CARLA](https://profiles.viictr.org/profile/270256)
+  * [SALAS, RAMIRO](https://profiles.viictr.org/profile/267055)
+  * [SPALLETTA, GIANFRANCO](https://profiles.viictr.org/profile/11312399)
+
+[Explore](https://profiles.viictr.org/profile/19502556/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AIENA, BETHANY](https://profiles.viictr.org/profile/30445234)
+  * [CRISP-HAN, HOLLY](https://profiles.viictr.org/profile/266398)
+  * [DECKER, HANNAH](https://profiles.viictr.org/profile/267956)
+  * [MOUTON-ODUM, SUZANNE](https://profiles.viictr.org/profile/267619)
+  * [VERRICO, CHRISTOPHER](https://profiles.viictr.org/profile/269961)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqBwqdsLc16uFjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

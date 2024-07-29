@@ -1,0 +1,318 @@
+## WAN-YEE TEO
+
+| | Title| Adjunct Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pediatrics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Aao%2brFzCJcXBQ4DN4njPZLGIMg%3d%3d&rnd=d0fdf2fd-e664-4d64-aeb1-f3bd7f480cc5)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=18830391)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Huang ZL, Liu ZG, Lin Q, Tao YL, Li X, [Baxter P](https://profiles.viictr.org/profile/265524), Su JM, [Adesina AM](https://profiles.viictr.org/profile/268657), Man C, [Chintagumpala M](https://profiles.viictr.org/profile/268049), **Teo WY** , Du YC, Xia YF, Li XN. Fractionated radiation therapy alters energy metabolism and induces cellular quiescence exit in patient-derived orthotopic xenograft models of high-grade glioma. Transl Oncol. 2024 Jul; 45:101988. PMID: [38733642](//www.ncbi.nlm.nih.gov/pubmed/38733642); PMCID: [PMC11101904](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11101904).
+
+Citations:
+
+  2. Qi L, [Baxter P](https://profiles.viictr.org/profile/265524), Kogiso M, Zhang H, Braun FK, Lindsay H, Zhao S, Xiao S, Abdallah AS, Suarez M, Huang Z, **Teo WY** , Yu L, Zhao X, Liu Z, Huang Y, Su JM, [Man TK](https://profiles.viictr.org/profile/266960), Lau CC, Perlaky L, Du Y, Li XN. Direct Implantation of Patient Brain Tumor Cells into Matching Locations in Mouse Brains for Patient-Derived Orthotopic Xenograft Model Development. Cancers (Basel). 2024 Apr 28; 16(9). PMID: [38730671](//www.ncbi.nlm.nih.gov/pubmed/38730671); PMCID: [PMC11083000](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11083000).
+
+Citations:
+
+  3. Zhang H, Du Y, Qi L, Xiao S, Braun FK, Kogiso M, Huang Y, Huang F, Abdallah A, Suarez M, Karthick S, [Ahmed NM](https://profiles.viictr.org/profile/268944), Salsman VS, [Baxter PA](https://profiles.viictr.org/profile/265524), [Su JM](https://profiles.viictr.org/profile/268196), Brat DJ, Hellenbeck PL, **Teo WY** , Patel AJ, Li XN. Targeting GBM with an Oncolytic Picornavirus SVV-001 alone and in combination with fractionated Radiation in a Novel Panel of Orthotopic PDX models. J Transl Med. 2023 07 06; 21(1):444. PMID: [37415222](//www.ncbi.nlm.nih.gov/pubmed/37415222); PMCID: [PMC10324131](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10324131).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:HumansAnimalsCells
+
+  4. Zhao S, Li J, Zhang H, Qi L, Du Y, Kogiso M, Braun FK, Xiao S, Huang Y, Li J, **Teo WY** , Lindsay H, [Baxter P](https://profiles.viictr.org/profile/265524), Su JMF, [Adesina A](https://profiles.viictr.org/profile/268657), Laczik M, Genevini P, Veillard AC, Schvartzman S, Berguet G, Ding SR, Du L, Stephan C, Yang J, [Davies PJA](https://profiles.viictr.org/profile/270079), Lu X, [Chintagumpala M](https://profiles.viictr.org/profile/268049), [Parsons DW](https://profiles.viictr.org/profile/265886), Perlaky L, Xia YF, [Man TK](https://profiles.viictr.org/profile/266960), Huang Y, Sun D, Li XN. Publisher Correction: Epigenetic alterations of repeated relapses in patient-matched childhood ependymomas. Nat Commun. 2022 Dec 22; 13(1):7871. PMID: [36550163](//www.ncbi.nlm.nih.gov/pubmed/36550163); PMCID: [PMC9780217](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9780217).
+
+Citations:  Fields:
+
+Bio BiologySci Science
+
+  5. Kim SJ, Park SJ, Park J, Cho HJ, Shim JK, Seon J, Choi RJ, Yoon SJ, Moon JH, Kim EH, Seo EK, Kim SH, Kim HS, **Teo WY** , Chang JH, Yook JI, Kang SG. Dual inhibition of CPT1A and G6PD suppresses glioblastoma tumorspheres. J Neurooncol. 2022 Dec; 160(3):677-689. PMID: [36396930](//www.ncbi.nlm.nih.gov/pubmed/36396930).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36396930/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+  6. Zhao S, Li J, Zhang H, Qi L, Du Y, Kogiso M, Braun FK, Xiao S, Huang Y, Li J, **Teo WY** , Lindsay H, [Baxter P](https://profiles.viictr.org/profile/265524), [Su JMF](https://profiles.viictr.org/profile/268196), [Adesina A](https://profiles.viictr.org/profile/268657), Laczik M, Genevini P, Veillard AC, Schvartzman S, Berguet G, Ding SR, Du L, Stephan C, Yang J, [Davies PJA](https://profiles.viictr.org/profile/270079), Lu X, [Chintagumpala M](https://profiles.viictr.org/profile/268049), [Parsons DW](https://profiles.viictr.org/profile/265886), Perlaky L, Xia YF, [Man TK](https://profiles.viictr.org/profile/266960), Huang Y, Li XN, Sun D. Epigenetic Alterations of Repeated Relapses in Patient-matched Childhood Ependymomas. Nat Commun. 2022 11 05; 13(1):6689. PMID: [36335125](//www.ncbi.nlm.nih.gov/pubmed/36335125); PMCID: [PMC9637194](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9637194).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36335125/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  7. Shim JK, Choi S, Yoon SJ, Choi RJ, Park J, Lee EH, Cho HJ, Lee S, **Teo WY** , Moon JH, Kim HS, Kim EH, Cheong JH, Chang JH, Yook JI, Kang SG. Etomoxir, a carnitine palmitoyltransferase 1 inhibitor, combined with temozolomide reduces stemness and invasiveness in patient-derived glioblastoma tumorspheres. Cancer Cell Int. 2022 Oct 11; 22(1):309. PMID: [36221088](//www.ncbi.nlm.nih.gov/pubmed/36221088); PMCID: [PMC9552483](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9552483).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36221088/citedby/)
+
+  8. Shim JK, Lim SH, Jeong JH, Choi RJ, Oh Y, Park J, Choi S, Hong J, Kim SJ, Moon JH, Kim EH, **Teo WY** , Park BJ, Chang JH, Ryu JH, Kang SG. A lignan from Alnus japonica inhibits glioblastoma tumorspheres by suppression of FOXM1. Sci Rep. 2022 08 17; 12(1):13990. PMID: [35978012](//www.ncbi.nlm.nih.gov/pubmed/35978012); PMCID: [PMC9385634](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9385634).
+
+Citations:
+
+  9. Kogiso M, Qi L, Du Y, Braun FK, Zhang H, Huang LF, Guo L, Huang Y, **Teo WY** , Lindsay H, Zhao S, Injac SG, Liu Z, Mehta V, Tran D, Li F, [Baxter PA](https://profiles.viictr.org/profile/265524), [Su JM](https://profiles.viictr.org/profile/268196), Perlaky L, [Parsons DW](https://profiles.viictr.org/profile/265886), [Chintagumpala M](https://profiles.viictr.org/profile/268049), [Adesina A](https://profiles.viictr.org/profile/268657), [Song Y](https://profiles.viictr.org/profile/266042), Li XN. Synergistic anti-tumor efficacy of mutant isocitrate dehydrogenase 1 inhibitor SYC-435 with standard therapy in patient-derived xenograft mouse models of glioma. Transl Oncol. 2022 Apr; 18:101368. PMID: [35182954](//www.ncbi.nlm.nih.gov/pubmed/35182954); PMCID: [PMC8857594](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8857594).
+
+Citations:
+
+  10. Roh TH, Lee JH, Kim SJ, Shim JK, Park J, Yoon SJ, **Teo WY** , Kim SH, Chang JH, Kang SG. A novel biguanide (IM1761065) inhibits bioenergetics of glioblastoma tumorspheres. J Neurooncol. 2022 Jan; 156(1):139-151. PMID: [34811601](//www.ncbi.nlm.nih.gov/pubmed/34811601).
+
+Citations:  Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  11. Huang Y, Qi L, Kogiso M, Du Y, Braun FK, Zhang H, Huang LF, Xiao S, **Teo WY** , Lindsay H, Zhao S, [Baxter P](https://profiles.viictr.org/profile/265524), [Su JMF](https://profiles.viictr.org/profile/268196), [Adesina A](https://profiles.viictr.org/profile/268657), Yang J, Brabetz S, Kool M, Pfister SM, [Chintagumpala M](https://profiles.viictr.org/profile/268049), Perlaky L, Wang Z, Zhou Y, [Man TK](https://profiles.viictr.org/profile/266960), Li XN. Spatial Dissection of Invasive Front from Tumor Mass Enables Discovery of Novel microRNA Drivers of Glioblastoma Invasion. Adv Sci (Weinh). 2021 12; 8(23):e2101923. PMID: [34719887](//www.ncbi.nlm.nih.gov/pubmed/34719887); PMCID: [PMC8655179](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8655179).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34719887/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimalsCells
+
+  12. [Elghetany MT](https://profiles.viictr.org/profile/266095), Ho JM, Shi-Qi LH, Karthik S, [Su JMF](https://profiles.viictr.org/profile/268196), Lin Q, Du Y, Shen J, Chow WY, Lau CC, [Adesina A](https://profiles.viictr.org/profile/268657), Major A, Erdreich-Epstein A, Hui KM, Li XN, **Teo WY**. Maximizing the potential of aggressive mouse tumor models in preclinical drug testing. Sci Rep. 2021 06 02; 11(1):11580. PMID: [34079014](//www.ncbi.nlm.nih.gov/pubmed/34079014); PMCID: [PMC8172610](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8172610).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:Animals
+
+  13. Qi L, Kogiso M, Du Y, Zhang H, Braun FK, Huang Y, **Teo WY** , Lindsay H, Zhao S, [Baxter P](https://profiles.viictr.org/profile/265524), Zhao X, Yu L, Liu Z, Zhang X, [Su J](https://profiles.viictr.org/profile/268196), [Adesina A](https://profiles.viictr.org/profile/268657), Yang J, [Chintagumpala M](https://profiles.viictr.org/profile/268049), Perlaky L, Tsz-Kwong Man C, Lau CC, Li XN. Corrigendum to "Impact of SCID mouse gender on tumorigenicity, xenograft growth and drug-response in a large panel of orthotopic PDX models of pediatric brain tumors" [Cancer Lett. 493 (2020) 197-206]. Cancer Lett. 2021 Mar 01; 500:294. PMID: [33358190](//www.ncbi.nlm.nih.gov/pubmed/33358190); PMCID: [PMC10324102](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10324102).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+  14. Yoon SJ, Son HY, Shim JK, Moon JH, Kim EH, Chang JH, **Teo WY** , Kim SH, Park SW, Huh YM, Kang SG. Co-expression of cancer driver genes: IDH-wildtype glioblastoma-derived tumorspheres. J Transl Med. 2020 12 14; 18(1):482. PMID: [33317554](//www.ncbi.nlm.nih.gov/pubmed/33317554); PMCID: [PMC7734785](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7734785).
+
+Citations:
+
+  15. Qi L, Kogiso M, Du Y, Zhang H, Braun FK, Huang Y, **Teo WY** , Lindsay H, Zhao S, [Baxter P](https://profiles.viictr.org/profile/265524), Zhao X, Yu L, Liu Z, Zhang X, Su JM, [Adesina A](https://profiles.viictr.org/profile/268657), Yang J, [Chintagumpala M](https://profiles.viictr.org/profile/268049), Perlaky L, Tsz-Kwong Man C, Lau CC, Li XN. Impact of SCID mouse gender on tumorigenicity, xenograft growth and drug-response in a large panel of orthotopic PDX models of pediatric brain tumors. Cancer Lett. 2020 11 28; 493:197-206. PMID: [32891713](//www.ncbi.nlm.nih.gov/pubmed/32891713); PMCID: [PMC10306089](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10306089).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32891713/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  16. **Teo WY** , Sriram B, Alim AA, Ruan X, Rajadurai VS. A single-center observational study on congenital diaphragmatic hernia: Outcome, predictors of mortality and experience from a tertiary perinatal center in Singapore. Pediatr Neonatol. 2020 08; 61(4):385-392. PMID: [32276768](//www.ncbi.nlm.nih.gov/pubmed/32276768).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32276768/citedby/) Fields:
+
+Ped Pediatrics
+
+Translation:Humans
+
+  17. **Teo WY** , Sekar K, Seshachalam P, Shen J, Chow WY, Lau CC, Yang H, Park J, Kang SG, Li X, Nam DH, Hui KM. Relevance of a TCGA-derived Glioblastoma Subtype Gene-Classifier among Patient Populations. Sci Rep. 2019 05 15; 9(1):7442. PMID: [31092847](//www.ncbi.nlm.nih.gov/pubmed/31092847); PMCID: [PMC6520485](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6520485).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31092847/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  18. Lindsay H, Huang Y, Du Y, Braun FK, **Teo WY** , Kogiso M, Qi L, Zhang H, Zhao S, [Mao H](https://profiles.viictr.org/profile/23478747), [Lin F](https://profiles.viictr.org/profile/1826466), [Baxter P](https://profiles.viictr.org/profile/265524), [Su JM](https://profiles.viictr.org/profile/268196), Terashima K, Perlaky L, [Chintagumpala M](https://profiles.viictr.org/profile/268049), [Adesina A](https://profiles.viictr.org/profile/268657), Lau CC, Williams Parsons D, Li XN. Preservation of KIT genotype in a novel pair of patient-derived orthotopic xenograft mouse models of metastatic pediatric CNS germinoma. J Neurooncol. 2016 05; 128(1):47-56. PMID: [26956263](//www.ncbi.nlm.nih.gov/pubmed/26956263); PMCID: [PMC10228350](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10228350).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26956263/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  19. **Teo WY** , [Elghetany MT](https://profiles.viictr.org/profile/266095), Shen J, [Man TK](https://profiles.viictr.org/profile/266960), Li X, [Chintagumpala M](https://profiles.viictr.org/profile/268049), [Su JM](https://profiles.viictr.org/profile/268196), [Dauser R](https://profiles.viictr.org/profile/268165), [Whitehead W](https://profiles.viictr.org/profile/265750), [Adesina AM](https://profiles.viictr.org/profile/268657), Lau CC. Therapeutic implications of CD1d expression and tumor-infiltrating macrophages in pediatric medulloblastomas. J Neurooncol. 2014 Nov; 120(2):293-301. PMID: [25115738](//www.ncbi.nlm.nih.gov/pubmed/25115738).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25115738/citedby/) Fields:
+
+Neo NeoplasmsNeu Neurology
+
+Translation:HumansAnimalsCells
+
+  20. **Teo WY** , Ross J, Bollo RJ, Seow WT, Tan AM, Kang SG, Kim DS, Li XN, Lau CC, [Mohila CA](https://profiles.viictr.org/profile/269940), [Adesina AM](https://profiles.viictr.org/profile/268657), Su JM. Atypical location and clinical behavior of a subset of intracranial germ cell tumors in children younger than 3 years of age. J Neurosurg Pediatr. 2014 Oct; 14(4):348-55. PMID: [25062305](//www.ncbi.nlm.nih.gov/pubmed/25062305).
+
+Citations:  Fields:
+
+Neu NeurosurgeryPed Pediatrics
+
+Translation:Humans
+
+  21. **Teo WY** , Myseros JS. The gut or the brain?--Gastrointestinal misdiagnoses of infantile brain tumors. Childs Nerv Syst. 2014 Aug; 30(8):1449-53. PMID: [24535228](//www.ncbi.nlm.nih.gov/pubmed/24535228).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24535228/citedby/) Fields:
+
+Neu NeurologyPed Pediatrics
+
+Translation:Humans
+
+  22. **Teo WY** , Shen J, Su JM, Yu A, Wang J, Chow WY, Li X, Jones J, [Dauser R](https://profiles.viictr.org/profile/268165), [Whitehead W](https://profiles.viictr.org/profile/265750), [Adesina AM](https://profiles.viictr.org/profile/268657), [Chintagumpala M](https://profiles.viictr.org/profile/268049), [Man TK](https://profiles.viictr.org/profile/266960), Lau CC. Implications of tumor location on subtypes of medulloblastoma. Pediatr Blood Cancer. 2013 Sep; 60(9):1408-10. PMID: [23512859](//www.ncbi.nlm.nih.gov/pubmed/23512859).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23512859/citedby/) Fields:
+
+Hem HematologyNeo NeoplasmsPed Pediatrics
+
+Translation:HumansCTClinical Trials
+
+  23. Chan MY, **Teo WY** , Seow WT, Tan AM. Epidemiology, management and treatment outcome of medulloblastoma in singapore. Ann Acad Med Singap. 2007 May; 36(5):314-8. PMID: [17549276](//www.ncbi.nlm.nih.gov/pubmed/17549276).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17549276/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 23 publications over 10 distinct years, with a maximum of
+6 publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,17,50,0,17,0,0,17,67,50,100,17,33&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2007| 1  
+2013| 1  
+2014| 3  
+2016| 1  
+2019| 1  
+2020| 4  
+2021| 3  
+2022| 6  
+2023| 1  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+TEO's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (110)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Glioblastoma](https://profiles.viictr.org/profile/261710)
+  * [Brain Neoplasms](https://profiles.viictr.org/profile/243589)
+  * [Medulloblastoma](https://profiles.viictr.org/profile/263775)
+  * [Cerebellar Neoplasms](https://profiles.viictr.org/profile/263570)
+  * [Neoplasms, Experimental](https://profiles.viictr.org/profile/252866)
+
+[Explore](https://profiles.viictr.org/profile/18830391/198)
+
+_
+
+Co-Authors (16)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [ADESINA, ADEKUNLE](https://profiles.viictr.org/profile/268657)
+  * [ELGHETANY, MOHAMED](https://profiles.viictr.org/profile/266095)
+  * [CHINTAGUMPALA, MURALI](https://profiles.viictr.org/profile/268049)
+  * [SU, JACK](https://profiles.viictr.org/profile/268196)
+  * [MAN, TSZ-KWONG](https://profiles.viictr.org/profile/266960)
+
+[Explore](https://profiles.viictr.org/profile/18830391/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [DE GROOT, JOHN FREDERICK](https://profiles.viictr.org/profile/12583398)
+  * [HEIMBERGER, AMY B](https://profiles.viictr.org/profile/12583027)
+  * [PAULINO, ARNOLD DELA CRUZ](https://profiles.viictr.org/profile/12583636)
+  * [LANG, FREDERICK](https://profiles.viictr.org/profile/265574)
+  * [CHINTAGUMPALA, MURALI](https://profiles.viictr.org/profile/268049)
+
+[Explore](https://profiles.viictr.org/profile/18830391/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BLANEY, SUSAN](https://profiles.viictr.org/profile/268174)
+  * [BRENNER, MALCOLM](https://profiles.viictr.org/profile/268200)
+  * [GILLISPIE, AMANDA](https://profiles.viictr.org/profile/30445279)
+  * [SAUER, HANNAH](https://profiles.viictr.org/profile/30445277)
+  * [SPREHE, MICHAEL](https://profiles.viictr.org/profile/7520379)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8KVVPJ9ULGiQTN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

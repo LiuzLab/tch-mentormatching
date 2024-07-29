@@ -1,0 +1,717 @@
+## WILLIAM DECKER
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address|  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Mq4z6mDVQIn2S8Ho5G4%3d&rnd=5150d402-dd9b-4ecb-8c8a-9c400ca1dde4)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267087)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267087&cachekey=b3b5ee68-0b20-48bb-
+bec8-64464518933c)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01AI153326 (DECKER, WILLIAM KARL)May 1, 2021 - Apr 30, 2025NIH  
+Innate DC Govern TH Polarization through the Novel Regulator AIMp1  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R01AI127387 (DECKER, WILLIAM KARL)Mar 13, 2017 - Jun 30, 2028NIH  
+Regulation of Innate Dendritic Cell CTLA-4  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Amanya SB](https://profiles.viictr.org/profile/34768207), Oyewole-Said D, [Ernste KJ](https://profiles.viictr.org/profile/34774527), [Bisht N](https://profiles.viictr.org/profile/34768173), Murthy A, [Vazquez-Perez J](https://profiles.viictr.org/profile/31194421), [Konduri V](https://profiles.viictr.org/profile/3009883), **Decker WK**. The mARS complex: a critical mediator of immune regulation and homeostasis. Front Immunol. 2024; 15:1423510. PMID: [38975338](//www.ncbi.nlm.nih.gov/pubmed/38975338); PMCID: [PMC11224427](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11224427).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimals
+
+  2. Halpert MM, Burns BA, Rosario SR, Withers HG, Trivedi AJ, [Hofferek CJ](https://profiles.viictr.org/profile/37476690), Gephart BD, Wang H, [Vazquez-Perez J](https://profiles.viictr.org/profile/31194421), [Amanya SB](https://profiles.viictr.org/profile/34768207), [Hyslop ST](https://profiles.viictr.org/profile/37750017), Yang J, [Kemnade JO](https://profiles.viictr.org/profile/17411292), [Sandulache VC](https://profiles.viictr.org/profile/16943294), [Konduri V](https://profiles.viictr.org/profile/3009883), **Decker WK**. Multifactoral immune modulation potentiates durable remission in multiple models of aggressive malignancy. FASEB J. 2024 May 31; 38(10):e23644. PMID: [38738472](//www.ncbi.nlm.nih.gov/pubmed/38738472); PMCID: [PMC11155525](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11155525).
+
+Citations:  Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:HumansAnimalsCells
+
+  3. Sobhani N, Tardiel-Cyril DR, [Chai D](https://profiles.viictr.org/profile/35895164), Generali D, Li JR, [Vazquez-Perez J](https://profiles.viictr.org/profile/31194421), Lim JM, Morris R, [Bullock ZN](https://profiles.viictr.org/profile/34774549), Davtyan A, Cheng C, **Decker WK** , [Li Y](https://profiles.viictr.org/profile/28999515). Artificial intelligence-powered discovery of small molecules inhibiting CTLA-4 in cancer. BJC Rep. 2024; 2. PMID: [38312352](//www.ncbi.nlm.nih.gov/pubmed/38312352); PMCID: [PMC10838660](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10838660).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38312352/citedby/)
+
+  4. Jones KM, [Zhan B](https://profiles.viictr.org/profile/266656), [Ernste KJ](https://profiles.viictr.org/profile/34774527), Villar MJ, [Bisht N](https://profiles.viictr.org/profile/34768173), Nguyen D, Chang LY, [Poveda C](https://profiles.viictr.org/profile/37834418), Robinson GJ, Trivedi AJ, [Hofferek CJ](https://profiles.viictr.org/profile/37476690), **Decker WK** , [Konduri V](https://profiles.viictr.org/profile/3009883). Immunomodulatory proteins from hookworms reduce cardiac inflammation and modulate regulatory responses in a mouse model of chronic Trypanosoma cruzi infection. Front Parasitol. 2023; 2. PMID: [38239430](//www.ncbi.nlm.nih.gov/pubmed/38239430); PMCID: [PMC10795693](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10795693).
+
+Citations:
+
+  5. [Ahmed KM](https://profiles.viictr.org/profile/29494116), Veeramachaneni R, Deng D, [Putluri N](https://profiles.viictr.org/profile/269361), Putluri V, Cardenas MF, [Wheeler DA](https://profiles.viictr.org/profile/266937), **Decker WK** , Frederick AI, Kazi S, Sikora AG, [Sandulache VC](https://profiles.viictr.org/profile/16943294), Frederick MJ. Glutathione peroxidase 2 is a metabolic driver of the tumor immune microenvironment and immune checkpoint inhibitor response. J Immunother Cancer. 2022 08; 10(8). PMID: [36002187](//www.ncbi.nlm.nih.gov/pubmed/36002187); PMCID: [PMC9413193](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9413193).
+
+Citations:
+
+  6. Li F, Deng L, Jackson KR, [Talukder AH](https://profiles.viictr.org/profile/12583713), Katailiha AS, Bradley SD, Zou Q, Chen C, Huo C, Chiu Y, Stair M, Feng W, Bagaev A, Kotlov N, Svekolkin V, Ataullakhanov R, Miheecheva N, Frenkel F, Wang Y, Zhang M, Hawke D, Han L, Zhou S, Zhang Y, Wang Z, **Decker WK** , Sonnemann HM, Roszik J, Forget MA, [Davies MA](https://profiles.viictr.org/profile/12583712), [Bernatchez C](https://profiles.viictr.org/profile/12583505), [Yee C](https://profiles.viictr.org/profile/12582858), Bassett R, [Hwu P](https://profiles.viictr.org/profile/12583802), Du X, [Lizee G](https://profiles.viictr.org/profile/12583812). Neoantigen vaccination induces clinical and immunologic responses in non-small cell lung cancer patients harboring EGFR mutations. J Immunother Cancer. 2021 07; 9(7). PMID: [34244308](//www.ncbi.nlm.nih.gov/pubmed/34244308); PMCID: [PMC8268925](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8268925).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34244308/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:Humans
+
+  7. [Konduri V](https://profiles.viictr.org/profile/3009883), [Joseph SK](https://profiles.viictr.org/profile/31879883), Byrd TT, Nawas Z, [Vazquez-Perez J](https://profiles.viictr.org/profile/31194421), [Hofferek CJ](https://profiles.viictr.org/profile/37476690), Halpert MM, Liu D, Liang Z, Baig Y, Salsman VS, Oyewole-Said D, Tsimelzon A, Burns BA, Chen C, Levitt JM, [Yao Q](https://profiles.viictr.org/profile/268592), [Ahmed NM](https://profiles.viictr.org/profile/268944), [Hegde M](https://profiles.viictr.org/profile/270076), **Decker WK**. A subset of cytotoxic effector memory T cells enhances CAR T cell efficacy in a model of pancreatic ductal adenocarcinoma. Sci Transl Med. 2021 05 05; 13(592). PMID: [33952672](//www.ncbi.nlm.nih.gov/pubmed/33952672); PMCID: [PMC10316998](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10316998).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33952672/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  8. [Konduri V](https://profiles.viictr.org/profile/3009883), Oyewole-Said D, [Vazquez-Perez J](https://profiles.viictr.org/profile/31194421), Weldon SA, Halpert MM, Levitt JM, **Decker WK**. CD8+CD161+ T-Cells: Cytotoxic Memory Cells With High Therapeutic Potential. Front Immunol. 2020; 11:613204. PMID: [33597948](//www.ncbi.nlm.nih.gov/pubmed/33597948); PMCID: [PMC7882609](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7882609).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33597948/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  9. Oyewole-Said D, [Konduri V](https://profiles.viictr.org/profile/3009883), [Vazquez-Perez J](https://profiles.viictr.org/profile/31194421), Weldon SA, Levitt JM, **Decker WK**. Beyond T-Cells: Functional Characterization of CTLA-4 Expression in Immune and Non-Immune Cell Types. Front Immunol. 2020; 11:608024. PMID: [33384695](//www.ncbi.nlm.nih.gov/pubmed/33384695); PMCID: [PMC7770141](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7770141).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33384695/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  10. [Verrico CD](https://profiles.viictr.org/profile/269961), Wesson S, [Konduri V](https://profiles.viictr.org/profile/3009883), [Hofferek CJ](https://profiles.viictr.org/profile/37476690), [Vazquez-Perez J](https://profiles.viictr.org/profile/31194421), Blair E, Dunner K, Salimpour P, **Decker WK** , Halpert MM. A randomized, double-blind, placebo-controlled study of daily cannabidiol for the treatment of canine osteoarthritis pain. Pain. 2020 09 01; 161(9):2191-2202. PMID: [32345916](//www.ncbi.nlm.nih.gov/pubmed/32345916); PMCID: [PMC7584779](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7584779).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32345916/citedby/) Fields:
+
+Neu NeurologyPsy Psychophysiology
+
+Translation:Animals
+
+  11. Halpert MM, [Konduri V](https://profiles.viictr.org/profile/3009883), Liang D, [Vazquez-Perez J](https://profiles.viictr.org/profile/31194421), [Hofferek CJ](https://profiles.viictr.org/profile/37476690), Weldon SA, Baig Y, Vedula I, Levitt JM, **Decker WK**. MHC class I and II peptide homology regulates the cellular immune response. FASEB J. 2020 06; 34(6):8082-8101. PMID: [32298026](//www.ncbi.nlm.nih.gov/pubmed/32298026); PMCID: [PMC7493300](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7493300).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32298026/citedby/) Fields:
+
+Bio BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  12. [Konduri V](https://profiles.viictr.org/profile/3009883), Halpert MM, Baig YC, Coronado R, Rodgers JR, Levitt JM, Cerroni B, Piscoya S, Wilson N, DiBernardi L, Omarbekov Z, Seelhoff L, Ravi V, Douglass L, **Decker WK**. Dendritic cell vaccination plus low-dose doxorubicin for the treatment of spontaneous canine hemangiosarcoma. Cancer Gene Ther. 2019 09; 26(9-10):282-291. PMID: [30670791](//www.ncbi.nlm.nih.gov/pubmed/30670791); PMCID: [PMC6760631](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6760631).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30670791/citedby/) Fields:
+
+Gen GeneticsNeo NeoplasmsThe Therapeutics
+
+Translation:AnimalsCellsPHPublic Health
+
+  13. Liang D, Tian L, You R, Halpert MM, [Konduri V](https://profiles.viictr.org/profile/3009883), Baig YC, Paust S, Kim D, Kim S, Jia F, [Huang S](https://profiles.viictr.org/profile/267743), Zhang X, [Kheradmand F](https://profiles.viictr.org/profile/270223), [Corry DB](https://profiles.viictr.org/profile/269165), [Gilbert BE](https://profiles.viictr.org/profile/269479), Levitt JM, **Decker WK**. AIMp1 Potentiates TH1 Polarization and Is Critical for Effective Antitumor and Antiviral Immunity. Front Immunol. 2017; 8:1801. PMID: [29379495](//www.ncbi.nlm.nih.gov/pubmed/29379495); PMCID: [PMC5775236](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5775236).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29379495/citedby/) Fields:
+
+All Allergy and Immunology
+
+  14. [Konduri V](https://profiles.viictr.org/profile/3009883), Halpert MM, Liang D, Levitt JM, Cruz-Chan JV, [Zhan B](https://profiles.viictr.org/profile/266656), [Bottazzi ME](https://profiles.viictr.org/profile/269365), [Hotez PJ](https://profiles.viictr.org/profile/266166), [Jones KM](https://profiles.viictr.org/profile/267207), **Decker WK**. Genetic Adjuvantation of a Cell-Based Therapeutic Vaccine for Amelioration of Chagasic Cardiomyopathy. Infect Immun. 2017 09; 85(9). PMID: [28674032](//www.ncbi.nlm.nih.gov/pubmed/28674032); PMCID: [PMC5563592](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5563592).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28674032/citedby/) Fields:
+
+All Allergy and ImmunologyCom Communicable Diseases
+
+Translation:AnimalsCells
+
+  15. **Decker WK** , da Silva RF, Sanabria MH, Angelo LS, [Burt BM](https://profiles.viictr.org/profile/8354542), [Kheradmand F](https://profiles.viictr.org/profile/270223), Paust S, Guimar?es F. Cancer Immunotherapy: Historical Perspective of a Clinical Revolution and Emerging Preclinical Animal Models. Front Immunol. 2017; 8:829. PMID: [28824608](//www.ncbi.nlm.nih.gov/pubmed/28824608); PMCID: [PMC5539135](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5539135).
+
+Citations:
+[66](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28824608/citedby/) Fields:
+
+All Allergy and Immunology
+
+  16. Tian L, Goldstein A, Wang H, Ching Lo H, Sun Kim I, Welte T, Sheng K, Dobrolecki LE, [Zhang X](https://profiles.viictr.org/profile/269369), [Putluri N](https://profiles.viictr.org/profile/269361), Phung TL, [Mani SA](https://profiles.viictr.org/profile/12583524), Stossi F, [Sreekumar A](https://profiles.viictr.org/profile/266636), [Mancini MA](https://profiles.viictr.org/profile/268178), **Decker WK** , [Zong C](https://profiles.viictr.org/profile/2619389), [Lewis MT](https://profiles.viictr.org/profile/267000), Zhang XH. Mutual regulation of tumour vessel normalization and immunostimulatory reprogramming. Nature. 2017 04 13; 544(7649):250-254. PMID: [28371798](//www.ncbi.nlm.nih.gov/pubmed/28371798); PMCID: [PMC5788037](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5788037).
+
+Citations:
+[237](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28371798/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  17. [Konduri V](https://profiles.viictr.org/profile/3009883), Li D, Halpert MM, Liang D, Liang Z, Chen Y, [Fisher WE](https://profiles.viictr.org/profile/267699), Paust S, Levitt JM, [Yao QC](https://profiles.viictr.org/profile/268592), **Decker WK**. Chemo-immunotherapy mediates durable cure of orthotopic KrasG12D/p53-/- pancreatic ductal adenocarcinoma. Oncoimmunology. 2016; 5(9):e1213933. PMID: [27757308](//www.ncbi.nlm.nih.gov/pubmed/27757308); PMCID: [PMC5048769](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5048769).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27757308/citedby/) Fields:
+
+All Allergy and ImmunologyNeo Neoplasms
+
+  18. Halpert MM, [Konduri V](https://profiles.viictr.org/profile/3009883), Liang D, Chen Y, Wing JB, Paust S, Levitt JM, **Decker WK**. Dendritic Cell-Secreted Cytotoxic T-Lymphocyte-Associated Protein-4 Regulates the T-cell Response by Downmodulating Bystander Surface B7. Stem Cells Dev. 2016 05 15; 25(10):774-87. PMID: [26979751](//www.ncbi.nlm.nih.gov/pubmed/26979751); PMCID: [PMC4870609](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4870609).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26979751/citedby/) Fields:
+
+Cel Cell BiologyHem Hematology
+
+Translation:HumansAnimalsCells
+
+  19. Block KI, Gyllenhaal C, Lowe L, Amedei A, Amin ARMR, Amin A, Aquilano K, Arbiser J, Arreola A, Arzumanyan A, Ashraf SS, Azmi AS, Benencia F, Bhakta D, Bilsland A, Bishayee A, Blain SW, Block PB, Boosani CS, Carey TE, Carnero A, Carotenuto M, Casey SC, Chakrabarti M, Chaturvedi R, Chen GZ, Chen H, Chen S, Chen YC, Choi BK, Ciriolo MR, Coley HM, Collins AR, Connell M, Crawford S, Curran CS, Damia G, Dasgupta S, DeBerardinis RJ, **Decker WK** , Dhawan P, Diehl AME, Dong JT, Dou QP, Drew JE, Elkord E, El-Rayes B, Feitelson MA, Felsher DW, Ferguson LR, Firestone GL, Frezza C, Fujii H, Fuster MM, Generali D, Georgakilas AG, Gilbertson M, Green MF, Grue B, Guha G, Halicka D, Helferich WG, Heneberg P, Hentosh P, Hirschey MD, Hofseth LJ, Holcombe RF, Honoki K, Hsu HY, Huang GS, Jiang WG, Jones LW, Karpowicz PA, Keith WN, Kerkar SP, Khan GN, Khatami M, Ko YH, Kucuk O, Kulathinal RJ, Kumar NB, Kwon BS, Le A, Lea MA, Lee HY, Lichtor T, Lin LT, Locasale JW, Lokeshwar BL, Longo VD, Lyssiotis CA, MacKenzie KL, Marino M, Matheu A, Maxwell C, McDonnell E, Meeker AK, Mehrmohamadi M, Mehta K, Michelotti GA, Mohammad RM, Mohammed SI, Morre DJ, Muralidhar V, Muqbil I, Murphy MP, Nagaraju GP, Nahta R, Niccolai E, Nowsheen S, Pantano F, Parslow VR, Pedersen PL, Poore B, Poudyal D, Prince M, Raffaghello L, Rathmell JC, Rathmell WK, Ray SK, Rezazadeh S, Ribatti D, Ricciardiello L, Robey RB, Rupasinghe HPV, Russo GL, Ryan EP, Samadi AK, Sanders AJ, Santini D, Sarkar M, Sasada T, Saxena NK, Shackelford RE, Shantha Kumara HMC, Sharma D, Shin DM, Sidransky D, Siegelin MD, Signori E, Singh N, Sivanand S, Sliva D, Smythe C, Spagnuolo C, Stafforini DM, Subbarayan PR, Sundin T, Talib WH, Thompson SK, Tran PT, Vander Heiden MG, Venkateswaran V, Vinay DS, Vlachostergios PJ, Wang Z, Wellen KE, Whelan RL, Yang ES, Yang H, Yang X, Yaswen P, Yedjou C, Yin X, Zhu J, Zollo M, Dabrosin C, Fimognari C, Gieseler F, Jensen LD, Malhotra M, Martinez-Chantar ML, Panis C, Pawelec G, Prakash S, Reichrath J, Rodier F, Sanchez-Garcia I, Stagg J, Ungefroren H. Designing a broad-spectrum integrative approach for cancer prevention and treatment. Semin Cancer Biol. 2015 Dec; 35 Suppl:S276-S304. PMID: [26590477](//www.ncbi.nlm.nih.gov/pubmed/26590477); PMCID: [PMC4819002](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4819002).
+
+Citations:
+[80](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26590477/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  20. Liang D, Halpert MM, [Konduri V](https://profiles.viictr.org/profile/3009883), **Decker WK**. Stepping Out of the Cytosol: AIMp1/p43 Potentiates the Link Between Innate and Adaptive Immunity. Int Rev Immunol. 2015; 34(5):367-81. PMID: [26325028](//www.ncbi.nlm.nih.gov/pubmed/26325028).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26325028/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCells
+
+  21. Goodson WH, Lowe L, Carpenter DO, Gilbertson M, Manaf Ali A, Lopez de Cerain Salsamendi A, Lasfar A, Carnero A, Azqueta A, Amedei A, Charles AK, Collins AR, Ward A, Salzberg AC, Colacci A, Olsen AK, Berg A, Barclay BJ, Zhou BP, Blanco-Aparicio C, Baglole CJ, Dong C, Mondello C, Hsu CW, Naus CC, Yedjou C, Curran CS, Laird DW, Koch DC, Carlin DJ, Felsher DW, Roy D, Brown DG, Ratovitski E, Ryan EP, Moon EY, Laconi E, Marongiu F, Al-Mulla F, Chiaradonna F, Darroudi F, Martin FL, Van Schooten FJ, Goldberg GS, Wagemaker G, Nangami GN, Calaf GM, Williams G, Wolf GT, Koppen G, Brunborg G, Lyerly HK, Krishnan H, Ab Hamid H, Yasaei H, Sone H, Kondoh H, Salem HK, Hsu HY, Park HH, Koturbash I, Miousse IR, Scovassi AI, Klaunig JE, Raju J, Roman J, Wise JP, Whitfield JR, Woodrick J, Christopher JA, Ochieng J, Martinez-Leal JF, Weisz J, Kravchenko J, Sun J, Prudhomme KR, Narayanan KB, Cohen-Solal KA, Moorwood K, Gonzalez L, Soucek L, Jian L, D'Abronzo LS, Lin LT, Li L, Gulliver L, McCawley LJ, Memeo L, Vermeulen L, Leyns L, Zhang L, Khatami M, Romano MF, Chapellier M, Williams MA, Wade M, Manjili MH, Lleonart ME, Xia M, Gonzalez MJ, Karamouzis MV, Kirsch-Volders M, Vaccari M, Kuemmerle NB, Singh N, Cruickshanks N, Kleinstreuer N, van Larebeke N, Ahmed N, Ogunkua O, Krishnakumar PK, Vadgama P, Marignani PA, Ghosh PM, Thompson PA, Dent P, Heneberg P, Darbre P, Sing Leung P, Nangia-Makker P, Cheng QS, Robey RB, Al-Temaimi R, Roy R, Andrade-Vieira R, Sinha RK, Mehta R, Vento R, Di Fiore R, Ponce-Cusi R, Dornetshuber-Fleiss R, Nahta R, Castellino RC, Palorini R, Abd Hamid R, Langie SA, Eltom SE, Brooks SA, Ryeom S, Wise SS, Bay SN, Harris SA, Papagerakis S, Romano S, Pavanello S, Forte S, Casey SC, Luanpitpong S, Lee TJ, Otsuki T, Chen T, Sanderson T, Hultman T, Odero-Marah V, Sabbisetti V, Maguer-Satta V, Rathmell WK, **Decker WK** , Bisson WH, Rojanasakul Y, Luqmani Y, Chen Z, Hu Z, Corsini E, Rojas E, Vondr?cek J, Valverde M, Ostrosky-Wegman P, Eriksson S, Massfelder T, Guarnieri T, Dormoy V, Engstr?m W. Assessing the carcinogenic potential of low-dose exposures to chemical mixtures in the environment: the challenge ahead. Carcinogenesis. 2015 Jun; 36 Suppl 1:S254-96. PMID: [26106142](//www.ncbi.nlm.nih.gov/pubmed/26106142); PMCID: [PMC4480130](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4480130).
+
+Citations:
+[68](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26106142/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsPHPublic Health
+
+  22. Vinay DS, Ryan EP, Talib WH, Elkord E, Lichtor T, **Decker WK** , Whelan RL, Kumara HMCS, Signori E, Honoki K, Georgakilas AG, Amin A, Helferich WG, Boosani CS, Guha G, Ciriolo MR, Chen S, Mohammed SI, Azmi AS, Keith WN, Bilsland A, Bhakta D, Halicka D, Fujii H, Aquilano K, Ashraf SS, Nowsheen S, Yang X, Choi BK, Kwon BS, Pawelec G, Stagg J. Immune evasion in cancer: Mechanistic basis and therapeutic strategies. Semin Cancer Biol. 2015 Dec; 35 Suppl:S185-S198. PMID: [25818339](//www.ncbi.nlm.nih.gov/pubmed/25818339).
+
+Citations:
+[453](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25818339/citedby/)
+Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  23. **Decker WK**. In This Issue: Cellular Stress and the Interface of Innate and Adaptive Immunity, and Other Topics. Int Rev Immunol. 2015; 34(5):365-6. PMID: [26366482](//www.ncbi.nlm.nih.gov/pubmed/26366482).
+
+Citations:  Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  24. [Ni X](https://profiles.viictr.org/profile/12582602), [Jorgensen JL](https://profiles.viictr.org/profile/12583424), Goswami M, Challagundla P, **Decker WK** , Kim YH, [Duvic MA](https://profiles.viictr.org/profile/12582514). Reduction of regulatory T cells by Mogamulizumab, a defucosylated anti-CC chemokine receptor 4 antibody, in patients with aggressive/refractory mycosis fungoides and S?zary syndrome. Clin Cancer Res. 2015 Jan 15; 21(2):274-85. PMID: [25376389](//www.ncbi.nlm.nih.gov/pubmed/25376389).
+
+Citations:
+[53](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25376389/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  25. Shah N, Martin-Antonio B, Yang H, Ku S, Lee DA, Cooper LJ, **Decker WK** , Li S, Robinson SN, Sekine T, [Parmar S](https://profiles.viictr.org/profile/12583446), Gribben J, [Wang M](https://profiles.viictr.org/profile/12583734), [Rezvani K](https://profiles.viictr.org/profile/12583611), Yvon E, [Najjar A](https://profiles.viictr.org/profile/12583074), [Burks J](https://profiles.viictr.org/profile/12583108), Kaur I, [Champlin RE](https://profiles.viictr.org/profile/12582508), Bollard CM, [Shpall EJ](https://profiles.viictr.org/profile/12582631). Antigen presenting cell-mediated expansion of human umbilical cord blood yields log-scale expansion of natural killer cells with anti-myeloma activity. PLoS One. 2013; 8(10):e76781. PMID: [24204673](//www.ncbi.nlm.nih.gov/pubmed/24204673); PMCID: [PMC3800010](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3800010).
+
+Citations:
+[70](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24204673/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  26. [Konduri V](https://profiles.viictr.org/profile/3009883), **Decker WK** , Halpert MM, [Gilbert B](https://profiles.viictr.org/profile/269479), Safdar A. Modeling dendritic cell vaccination for influenza prophylaxis: potential applications for niche populations. J Infect Dis. 2013 Jun 01; 207(11):1764-72. PMID: [23460750](//www.ncbi.nlm.nih.gov/pubmed/23460750).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23460750/citedby/) Fields:
+
+Com Communicable Diseases
+
+Translation:HumansAnimalsCells
+
+  27. **Decker WK** , Shah N, Xing D, Lapushin R, Li S, Robinson SN, Yang H, [Parmar S](https://profiles.viictr.org/profile/12583446), Halpert MM, Keating MJ, Gribben JG, [Molldrem JJ](https://profiles.viictr.org/profile/12583319), [Shpall EJ](https://profiles.viictr.org/profile/12582631), [Wierda WG](https://profiles.viictr.org/profile/12582613). Generation of functional CLL-specific cord blood CTL using CD40-ligated CLL APC. PLoS One. 2012; 7(12):e51390. PMID: [23284688](//www.ncbi.nlm.nih.gov/pubmed/23284688); PMCID: [PMC3526610](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3526610).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23284688/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  28. [Couch RB](https://profiles.viictr.org/profile/267241), **Decker WK** , Utama B, [Atmar RL](https://profiles.viictr.org/profile/268394), Feng JQ, Halpert MM, Air GM, Ni?o D. Evaluations for in vitro correlates of immunogenicity of inactivated influenza a H5, H7 and H9 vaccines in humans. PLoS One. 2012; 7(12):e50830. PMID: [23239987](//www.ncbi.nlm.nih.gov/pubmed/23239987); PMCID: [PMC3519816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3519816).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23239987/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  29. Robinson SN, Simmons PJ, Thomas MW, Brouard N, Javni JA, Trilok S, Shim JS, Yang H, Steiner D, **Decker WK** , Xing D, Shultz LD, Savoldo B, Dotti G, Bollard CM, Miller L, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Zweidler-McKay PA. Ex?vivo fucosylation improves human cord blood engraftment in NOD-SCID IL-2R?(null) mice. Exp Hematol. 2012 Jun; 40(6):445-56. PMID: [22306295](//www.ncbi.nlm.nih.gov/pubmed/22306295); PMCID: [PMC3352960](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3352960).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22306295/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansAnimalsCells
+
+  30. Shahi P, [Park D](https://profiles.viictr.org/profile/3939890), Pond AC, Seethammagari M, Chiou SH, Cho K, Carstens JL, **Decker WK** , [McCrea PD](https://profiles.viictr.org/profile/12582488), [Ittmann MM](https://profiles.viictr.org/profile/269566), [Rosen JM](https://profiles.viictr.org/profile/267640), Spencer DM. Activation of Wnt signaling by chemically induced dimerization of LRP5 disrupts cellular homeostasis. PLoS One. 2012; 7(1):e30814. PMID: [22303459](//www.ncbi.nlm.nih.gov/pubmed/22303459); PMCID: [PMC3267738](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3267738).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22303459/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  31. Perin EC, Tian M, Marini FC, Silva GV, Zheng Y, Baimbridge F, Quan X, Fernandes MR, Gahremanpour A, Young D, Paolillo V, Mukhopadhyay U, Borne AT, Uthamanthil R, Brammer D, Jackson J, **Decker WK** , [Najjar AM](https://profiles.viictr.org/profile/12583074), Thomas MW, Volgin A, Rabinovich B, Soghomonyan S, Jeong HJ, Rios JM, Steiner D, Robinson S, [Mawlawi O](https://profiles.viictr.org/profile/12582618), [Pan T](https://profiles.viictr.org/profile/12582663), [Stafford J](https://profiles.viictr.org/profile/12583314), [Kundra V](https://profiles.viictr.org/profile/12583002), [Li C](https://profiles.viictr.org/profile/12583241), [Alauddin MM](https://profiles.viictr.org/profile/12583043), Willerson JT, [Shpall E](https://profiles.viictr.org/profile/12582631), Gelovani JG. Imaging long-term fate of intramyocardially implanted mesenchymal stem cells in a porcine myocardial infarction model. PLoS One. 2011; 6(9):e22949. PMID: [21912635](//www.ncbi.nlm.nih.gov/pubmed/21912635); PMCID: [PMC3164664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3164664).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21912635/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  32. **Decker WK** , Safdar A. Cytokine adjuvants for vaccine therapy of neoplastic and infectious disease. Cytokine Growth Factor Rev. 2011 Aug; 22(4):177-87. PMID: [21862380](//www.ncbi.nlm.nih.gov/pubmed/21862380).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21862380/citedby/) Fields:
+
+All Allergy and ImmunologyBio Biochemistry
+
+Translation:HumansAnimalsPHPublic Health
+
+  33. Yang H, Robinson SN, [Nieto Y](https://profiles.viictr.org/profile/12582721), Jones RJ, Gocke CD, Lu J, Giralt SA, Jones RB, **Decker WK** , Xing D, Steiner D, [Champlin RE](https://profiles.viictr.org/profile/12582508), McMannis JD, Ng J, Thomas MW, Shah N, [Andersson BS](https://profiles.viictr.org/profile/12583670), [Parmar S](https://profiles.viictr.org/profile/12583446), [Shpall EJ](https://profiles.viictr.org/profile/12582631). Ex vivo graft purging and expansion of autologous blood progenitor cell products from patients with multiple myeloma. Cancer Res. 2011 Jul 15; 71(14):5040-9. PMID: [21646477](//www.ncbi.nlm.nih.gov/pubmed/21646477).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21646477/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansCells
+
+  34. Xing D, Ramsay AG, Gribben JG, **Decker WK** , [Burks JK](https://profiles.viictr.org/profile/12583108), Munsell M, Li S, Robinson SN, Yang H, Steiner D, Shah N, McMannis JD, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Hosing C](https://profiles.viictr.org/profile/12583741), Zweidler-McKay PA, [Shpall EJ](https://profiles.viictr.org/profile/12582631), Bollard CM. Cord blood natural killer cells exhibit impaired lytic immunological synapse formation that is reversed with IL-2 exvivo expansion. J Immunother. 2010 Sep; 33(7):684-96. PMID: [20664358](//www.ncbi.nlm.nih.gov/pubmed/20664358); PMCID: [PMC3530422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3530422).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20664358/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansAnimalsCells
+
+  35. **Decker WK** , Safdar A. Dendritic cell vaccines for the immunocompromised patient: prevention of influenza virus infection. Expert Rev Vaccines. 2010 Jul; 9(7):721-30. PMID: [20624046](//www.ncbi.nlm.nih.gov/pubmed/20624046).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20624046/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  36. Yang H, Robinson SN, Lu J, **Decker WK** , Xing D, Steiner D, Parmar S, Shah N, [Champlin RE](https://profiles.viictr.org/profile/12582508), Munsell M, [Leen A](https://profiles.viictr.org/profile/268626), Bollard C, Simmons PJ, [Shpall EJ](https://profiles.viictr.org/profile/12582631). CD3(+) and/or CD14(+) depletion from cord blood mononuclear cells before ex vivo expansion culture improves total nucleated cell and CD34(+) cell yields. Bone Marrow Transplant. 2010 Jun; 45(6):1000-7. PMID: [19838220](//www.ncbi.nlm.nih.gov/pubmed/19838220); PMCID: [PMC3179274](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3179274).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19838220/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:Cells
+
+  37. **Decker WK** , Safdar A. Bioimmunoadjuvants for the treatment of neoplastic and infectious disease: Coley's legacy revisited. Cytokine Growth Factor Rev. 2009 Aug; 20(4):271-81. PMID: [19656718](//www.ncbi.nlm.nih.gov/pubmed/19656718).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19656718/citedby/) Fields:
+
+All Allergy and ImmunologyBio Biochemistry
+
+  38. Steiner D, Gelovani J, Savoldo B, Robinson SN, **Decker WK** , Brouard N, [Najjar A](https://profiles.viictr.org/profile/12583074), Xing D, Yang H, Li S, Marini F, Zweidler-McKay PA, Bollard CM, [Shpall EJ](https://profiles.viictr.org/profile/12582631), Dotti G, Simmons PJ. Noninvasive bioluminescent imaging demonstrates long-term multilineage engraftment of ex vivo-expanded CD34-selected umbilical cord blood cells. Stem Cells. 2009 Aug; 27(8):1932-40. PMID: [19544439](//www.ncbi.nlm.nih.gov/pubmed/19544439); PMCID: [PMC3348864](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3348864).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19544439/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  39. Hanley PJ, Cruz CR, Savoldo B, [Leen AM](https://profiles.viictr.org/profile/268626), Stanojevic M, Khalil M, **Decker W** , [Molldrem JJ](https://profiles.viictr.org/profile/12583319), [Liu H](https://profiles.viictr.org/profile/265543), [Gee AP](https://profiles.viictr.org/profile/268378), [Rooney CM](https://profiles.viictr.org/profile/268355), [Heslop HE](https://profiles.viictr.org/profile/269811), Dotti G, [Brenner MK](https://profiles.viictr.org/profile/268200), [Shpall EJ](https://profiles.viictr.org/profile/12582631), Bollard CM. Functionally active virus-specific T cells that target CMV, adenovirus, and EBV can be expanded from naive T-cell populations in cord blood and will target a range of viral epitopes. Blood. 2009 Aug 27; 114(9):1958-67. PMID: [19443656](//www.ncbi.nlm.nih.gov/pubmed/19443656); PMCID: [PMC2738578](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2738578).
+
+Citations:
+[98](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19443656/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  40. Safdar A, **Decker WK** , Li S, Xing D, Robinson SN, Yang H, Steiner D, Rodriguez G, [Shpall EJ](https://profiles.viictr.org/profile/12582631), Bollard C. De novo T-lymphocyte responses against baculovirus-derived recombinant influenzavirus hemagglutinin generated by a naive umbilical cord blood model of dendritic cell vaccination. Vaccine. 2009 Mar 04; 27(10):1479-84. PMID: [19185049](//www.ncbi.nlm.nih.gov/pubmed/19185049).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19185049/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  41. **Decker WK** , Xing D, Li S, Robinson SN, Yang H, Steiner D, Komanduri KV, [Shpall EJ](https://profiles.viictr.org/profile/12582631). Th-1 polarization is regulated by dendritic-cell comparison of MHC class I and class II antigens. Blood. 2009 Apr 30; 113(18):4213-23. PMID: [19171878](//www.ncbi.nlm.nih.gov/pubmed/19171878); PMCID: [PMC2676083](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2676083).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19171878/citedby/) Fields:
+
+Hem Hematology
+
+Translation:HumansCells
+
+  42. [Ni X](https://profiles.viictr.org/profile/12582602), Richmond HM, Liao XM, **Decker WK** , Shiue LH, [Shpall EJ](https://profiles.viictr.org/profile/12582631), [Duvic M](https://profiles.viictr.org/profile/12582514). Induction of T-cell responses against cutaneous T-cell lymphomas ex vivo by autologous dendritic cells transfected with amplified tumor mRNA. J Invest Dermatol. 2008 Nov; 128(11):2631-2639. PMID: [18480841](//www.ncbi.nlm.nih.gov/pubmed/18480841).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18480841/citedby/) Fields:
+
+Der Dermatology
+
+Translation:HumansCells
+
+  43. **Decker WK** , Li S, Xing D, Robinson SN, Yang H, Steiner D, Komanduri KV, Bollard CM, [Shpall EJ](https://profiles.viictr.org/profile/12582631). Deficient T(H)-1 responses from TNF-alpha-matured and alpha-CD40-matured dendritic cells. J Immunother. 2008 Feb-Mar; 31(2):157-65. PMID: [18481385](//www.ncbi.nlm.nih.gov/pubmed/18481385).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18481385/citedby/) Fields:
+
+All Allergy and ImmunologyNeo NeoplasmsThe Therapeutics
+
+Translation:HumansCells
+
+  44. Zhang Y, Qiu J, Zhou Y, Farhangfar F, Hester J, Lin AY, **Decker WK**. Plasmid-based vaccination with candidate anthrax vaccine antigens induces durable type 1 and type 2 T-helper immune responses. Vaccine. 2008 Jan 30; 26(5):614-22. PMID: [18166249](//www.ncbi.nlm.nih.gov/pubmed/18166249).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18166249/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:AnimalsCellsPHPublic Health
+
+  45. **Decker WK** , [Shpall EJ](https://profiles.viictr.org/profile/12582631). Progress in dendritic cell immunotherapy: elucidating the enigma of Th-1 polarization. Hum Vaccin. 2008 Mar-Apr; 4(2):162-4. PMID: [18382128](//www.ncbi.nlm.nih.gov/pubmed/18382128).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18382128/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansAnimalsCellsPHPublic Health
+
+  46. Yang H, Eaves C, de Lima M, Lee MS, [Champlin RE](https://profiles.viictr.org/profile/12582508), McMannis JD, Robinson SN, Niu T, **Decker WK** , Xing D, Ng J, [Li S](https://profiles.viictr.org/profile/17440012), Yao X, Eaves AC, Jones R, [Andersson BS](https://profiles.viictr.org/profile/12583670), [Shpall EJ](https://profiles.viictr.org/profile/12582631). A novel triple purge strategy for eliminating chronic myelogenous leukemia (CML) cells from autografts. Bone Marrow Transplant. 2006 Mar; 37(6):575-82. PMID: [16435011](//www.ncbi.nlm.nih.gov/pubmed/16435011).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16435011/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:HumansCells
+
+  47. Robinson SN, Ng J, Niu T, Yang H, McMannis JD, Karandish S, Kaur I, Fu P, Del Angel M, Messinger R, Flagge F, de Lima M, **Decker W** , Xing D, [Champlin R](https://profiles.viictr.org/profile/12582508), [Shpall EJ](https://profiles.viictr.org/profile/12582631). Superior ex vivo cord blood expansion following co-culture with bone marrow-derived mesenchymal stem cells. Bone Marrow Transplant. 2006 Feb; 37(4):359-66. PMID: [16400333](//www.ncbi.nlm.nih.gov/pubmed/16400333); PMCID: [PMC1885539](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1885539).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16400333/citedby/) Fields:
+
+Tra Transplantation
+
+Translation:HumansCells
+
+  48. **Decker WK** , Xing D, [Shpall EJ](https://profiles.viictr.org/profile/12582631). Dendritic cell immunotherapy for the treatment of neoplastic disease. Biol Blood Marrow Transplant. 2006 Feb; 12(2):113-25. PMID: [16443510](//www.ncbi.nlm.nih.gov/pubmed/16443510).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16443510/citedby/) Fields:
+
+Hem HematologyTra Transplantation
+
+Translation:HumansAnimalsCells
+
+  49. **Decker WK** , Xing D, Li S, Robinson SN, Yang H, Yao X, Segall H, McMannis JD, Komanduri KV, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Shpall EJ](https://profiles.viictr.org/profile/12582631). Double loading of dendritic cell MHC class I and MHC class II with an AML antigen repertoire enhances correlates of T-cell immunity in vitro via amplification of T-cell help. Vaccine. 2006 Apr 12; 24(16):3203-16. PMID: [16480795](//www.ncbi.nlm.nih.gov/pubmed/16480795).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16480795/citedby/) Fields:
+
+All Allergy and Immunology
+
+Translation:HumansCells
+
+  50. Xing D, **Decker WK** , [Li S](https://profiles.viictr.org/profile/17440012), Robinson SN, [Yang H](https://profiles.viictr.org/profile/12583410), Segal H, O'Connor S, Yao X, Komanduri KV, McMannis JD, Jones RB, de Lima M, [Champlin RE](https://profiles.viictr.org/profile/12582508), [Shpall EJ](https://profiles.viictr.org/profile/12582631). AML-loaded DC generate Th1-type cellular immune responses in vitro. Cytotherapy. 2006; 8(2):95-104. PMID: [16698683](//www.ncbi.nlm.nih.gov/pubmed/16698683).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16698683/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  51. Parmar S, Robinson SN, Komanduri K, St John L, **Decker W** , Xing D, [Yang H](https://profiles.viictr.org/profile/12583410), McMannis J, [Champlin R](https://profiles.viictr.org/profile/12582508), de Lima M, [Molldrem J](https://profiles.viictr.org/profile/12583319), Rieber A, Bonyhadi M, Berenson R, [Shpall EJ](https://profiles.viictr.org/profile/12582631). Ex vivo expanded umbilical cord blood T cells maintain naive phenotype and TCR diversity. Cytotherapy. 2006; 8(2):149-57. PMID: [16698688](//www.ncbi.nlm.nih.gov/pubmed/16698688).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16698688/citedby/) Fields:
+
+Cel Cell BiologyThe Therapeutics
+
+Translation:HumansCells
+
+  52. **Decker WK** , Qiu J, Farhangfar F, Hester JH, Altieri DC, Lin AY. A retrogen plasmid-based vaccine generates high titer antibody responses against the autologous cancer antigen survivin and demonstrates anti-tumor efficacy. Cancer Lett. 2006 Jun 08; 237(1):45-55. PMID: [16019131](//www.ncbi.nlm.nih.gov/pubmed/16019131).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16019131/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:AnimalsCellsPHPublic Health
+
+  53. Sampson MJ, **Decker WK** , Beaudet AL, Ruitenbeek W, Armstrong D, Hicks MJ, [Craigen WJ](https://profiles.viictr.org/profile/267972). Immotile sperm and infertility in mice lacking mitochondrial voltage-dependent anion channel type 3. J Biol Chem. 2001 Oct 19; 276(42):39206-12. PMID: [11507092](//www.ncbi.nlm.nih.gov/pubmed/11507092).
+
+Citations:
+[100](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11507092/citedby/)
+Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  54. **Decker WK** , [Craigen WJ](https://profiles.viictr.org/profile/267972). The tissue-specific, alternatively spliced single ATG exon of the type 3 voltage-dependent anion channel gene does not create a truncated protein isoform in vivo. Mol Genet Metab. 2000 May; 70(1):69-74. PMID: [10833333](//www.ncbi.nlm.nih.gov/pubmed/10833333).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10833333/citedby/) Fields:
+
+Bio BiochemistryMet MetabolismMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  55. Wu S, Sampson MJ, **Decker WK** , [Craigen WJ](https://profiles.viictr.org/profile/267972). Each mammalian mitochondrial outer membrane porin protein is dispensable: effects on cellular respiration. Biochim Biophys Acta. 1999 Oct 13; 1452(1):68-78. PMID: [10525161](//www.ncbi.nlm.nih.gov/pubmed/10525161).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10525161/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  56. **Decker WK** , Bowles KR, Schatte EC, Towbin JA, [Craigen WJ](https://profiles.viictr.org/profile/267972). Revised fine mapping of the human voltage-dependent anion channel loci by radiation hybrid analysis. Mamm Genome. 1999 Oct; 10(10):1041-2. PMID: [10501981](//www.ncbi.nlm.nih.gov/pubmed/10501981).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10501981/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  57. Pan Y, **Decker WK** , Huq AH, [Craigen WJ](https://profiles.viictr.org/profile/267972). Retrotransposition of glycerol kinase-related genes from the X chromosome to autosomes: functional and evolutionary aspects. Genomics. 1999 Aug 01; 59(3):282-90. PMID: [10444329](//www.ncbi.nlm.nih.gov/pubmed/10444329).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10444329/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  58. Xu X, **Decker W** , Sampson MJ, [Craigen WJ](https://profiles.viictr.org/profile/267972), Colombini M. Mouse VDAC isoforms expressed in yeast: channel properties and their roles in mitochondrial outer membrane permeability. J Membr Biol. 1999 Jul 15; 170(2):89-102. PMID: [10430654](//www.ncbi.nlm.nih.gov/pubmed/10430654).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10430654/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  59. Sampson MJ, Ross L, **Decker WK** , [Craigen WJ](https://profiles.viictr.org/profile/267972). A novel isoform of the mitochondrial outer membrane protein VDAC3 via alternative splicing of a 3-base exon. Functional characteristics and subcellular localization. J Biol Chem. 1998 Nov 13; 273(46):30482-6. PMID: [9804816](//www.ncbi.nlm.nih.gov/pubmed/9804816).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9804816/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  60. Huq AH, Lovell RS, Sampson MJ, **Decker WK** , Dinulos MB, Disteche CM, [Craigen WJ](https://profiles.viictr.org/profile/267972). Isolation, mapping, and functional expression of the mouse X chromosome glycerol kinase gene. Genomics. 1996 Sep 15; 36(3):530-4. PMID: [8884278](//www.ncbi.nlm.nih.gov/pubmed/8884278).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8884278/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 60 publications over 25 distinct years, with a maximum of
+6 publications in 2006 and
+2009](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|6&cht=bvs&chd=t:0,0,17,0,17,67,17,17,0,0,0,17,100,33,33,100,33,50,67,33,17,83,33,50,17,17,50,50,17,17,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1996| 1  
+1998| 1  
+1999| 4  
+2000| 1  
+2001| 1  
+2005| 1  
+2006| 6  
+2007| 2  
+2008| 2  
+2009| 6  
+2010| 2  
+2011| 3  
+2012| 4  
+2013| 2  
+2014| 1  
+2015| 5  
+2016| 2  
+2017| 3  
+2018| 1  
+2019| 1  
+2020| 3  
+2021| 3  
+2022| 1  
+2023| 1  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+DECKER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (399)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Dendritic Cells](https://profiles.viictr.org/profile/246816)
+  * [Immunologic Memory](https://profiles.viictr.org/profile/264959)
+  * [Th1 Cells](https://profiles.viictr.org/profile/250555)
+  * [Amino Acyl-tRNA Synthetases](https://profiles.viictr.org/profile/245499)
+  * [CD8-Positive T-Lymphocytes](https://profiles.viictr.org/profile/250968)
+
+[Explore](https://profiles.viictr.org/profile/267087/198)
+
+_
+
+Co-Authors (79)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [KONDURI, VANAJA](https://profiles.viictr.org/profile/3009883)
+  * [SHPALL, ELIZABETH](https://profiles.viictr.org/profile/12582631)
+  * [Vazquez-Perez, Jonathan](https://profiles.viictr.org/profile/31194421)
+  * [Amanya, Sharon Bright](https://profiles.viictr.org/profile/34768207)
+  * [Hofferek, Colby](https://profiles.viictr.org/profile/37476690)
+
+[Explore](https://profiles.viictr.org/profile/267087/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ALLISON, JAMES P](https://profiles.viictr.org/profile/12582547)
+  * [SHPALL, ELIZABETH](https://profiles.viictr.org/profile/12582631)
+  * [ROONEY, CLIONA](https://profiles.viictr.org/profile/268355)
+  * [HOTEZ, PETER](https://profiles.viictr.org/profile/266166)
+  * [PEMMARAJU, NAVEEN](https://profiles.viictr.org/profile/12583898)
+
+[Explore](https://profiles.viictr.org/profile/267087/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHEN, MIN](https://profiles.viictr.org/profile/268386)
+  * [COOK, RICHARD G.](https://profiles.viictr.org/profile/266736)
+  * [KNIGHT, JOHN](https://profiles.viictr.org/profile/18856558)
+  * [LEWIS, DOROTHY](https://profiles.viictr.org/profile/267982)
+  * [ROSSEN, ROGER](https://profiles.viictr.org/profile/266540)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [CHEN, MIN](https://profiles.viictr.org/profile/268386)
+  * [GUTIERREZ, CAROLINA](https://profiles.viictr.org/profile/265496)
+  * [SILLITOE, ROY](https://profiles.viictr.org/profile/268552)
+  * [SPINLER, JENNIFER](https://profiles.viictr.org/profile/265508)
+  * [TRAUB, MARY](https://profiles.viictr.org/profile/265642)
+
+_
+

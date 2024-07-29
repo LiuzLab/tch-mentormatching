@@ -1,0 +1,946 @@
+## ANANTH ANNAPRAGADA
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiology  
+Address| 6621 FANNIN  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=N6U%2b4HXVIYzVRIzgrn7GPw%3d%3d&rnd=9fed444a-d327-4e8b-94ea-1e08326f28af)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=269845)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Obstetrics & Gynecology  
+Division| Obstetrics and Gynecology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R33HD105593 (ANNAPRAGADA, ANANTH V)Jan 1, 2021 - Nov 30, 2024NIH  
+AICORE-kids: Artificial Intelligence COVID-19 Risk AssEssment for kids  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+R61HD105593 (ALLEN, CARL E;ANNAPRAGADA, ANANTH V ;DEVARAJ, SRIDEVI ;RUSIN,
+CRAIG G)Jan 1, 2021 - Apr 30, 2023NIH  
+AICORE-kids: Artificial Intelligence COVID-19 Risk AssEssment for kids  
+Role: Principal Investigator  
+  
+* * *  
+  
+U01DE028233 (ANNAPRAGADA, ANANTH V;SIKORA, ANDREW)Sep 19, 2018 - Aug 31,
+2023NIH  
+Targeting the immunosuppressive tumor microenvironment to enhance efficacy of
+radiotherapy and immuno-radiotherapy for oral cancer  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01HD094347 (ANNAPRAGADA, ANANTH V ;FOX, KARIN ;YALLAMPALLI, CHANDRASEKHAR)Feb
+16, 2018 - Jan 31, 2024NIH  
+Molecular and Vascular MRI of Placenta Accreta  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01DE024392 (VIGNESWARAN, NADARAJAH)Jul 25, 2014 - May 31, 2019NIH  
+Aptamer mediated targeting of Fanconi Anemia oral cancer initiating cells  
+Role: Co-Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Parekh P, [Badachhape AA](https://profiles.viictr.org/profile/28999111), [Tanifum EA](https://profiles.viictr.org/profile/267720), **Annapragada AV** , [Ghaghada KB](https://profiles.viictr.org/profile/268527). Advances in nanoprobes for molecular MRI of Alzheimer's disease. Wiley Interdiscip Rev Nanomed Nanobiotechnol. 2024 Mar-Apr; 16(2):e1946. PMID: [38426638](//www.ncbi.nlm.nih.gov/pubmed/38426638); PMCID: [PMC10983770](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10983770).
+
+Citations:  Fields:
+
+Bio BiotechnologyNan Nanotechnology
+
+Translation:Humans
+
+  2. Marathe H, Liu S, **Annapragada A** , Sikora AG, Demetriou M, Fong L, Gao J, Kufe D, Morris ZS, Vilar E, Sharon E, Hutson A, Odunsi K. The Cancer Moonshot Immuno-Oncology Translational Network at 5: accelerating cancer immunotherapies. J Natl Cancer Inst. 2023 11 08; 115(11):1262-1270. PMID: [37572314](//www.ncbi.nlm.nih.gov/pubmed/37572314); PMCID: [PMC10637038](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10637038).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  3. Liu HC, Capuani S, [Badachhape AA](https://profiles.viictr.org/profile/28999111), Di Trani N, Davila Gonzalez D, Vander Pol RS, Viswanath DI, Saunders S, Hernandez N, [Ghaghada KB](https://profiles.viictr.org/profile/268527), Chen SH, Nance E, **Annapragada AV** , Chua CYX, Grattoni A. Intratumoral nanofluidic system enhanced tumor biodistribution of PD-L1 antibody in triple-negative breast cancer. Bioeng Transl Med. 2023 Nov; 8(6):e10594. PMID: [38023719](//www.ncbi.nlm.nih.gov/pubmed/38023719); PMCID: [PMC10658527](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10658527).
+
+Citations:
+
+  4. Subramanian D, Vittala A, Chen X, Julien C, [Acosta S](https://profiles.viictr.org/profile/3494037), [Rusin C](https://profiles.viictr.org/profile/268524), [Allen C](https://profiles.viictr.org/profile/270283), Rider N, [Starosolski Z](https://profiles.viictr.org/profile/270164), **Annapragada A** , [Devaraj S](https://profiles.viictr.org/profile/266182). Stratification of Pediatric COVID-19 Cases Using Inflammatory Biomarker Profiling and Machine Learning. J Clin Med. 2023 Aug 22; 12(17). PMID: [37685502](//www.ncbi.nlm.nih.gov/pubmed/37685502); PMCID: [PMC10487951](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10487951).
+
+Citations:
+
+  5. Subramanian D, Vittala A, Chen X, Julien C, [Acosta S](https://profiles.viictr.org/profile/3494037), [Rusin C](https://profiles.viictr.org/profile/268524), Allen C, Rider N, [Starosolski Z](https://profiles.viictr.org/profile/270164), **Annapragada A** , [Devaraj S](https://profiles.viictr.org/profile/266182). Stratification of Pediatric COVID-19 cases by inflammatory biomarker profiling and machine learning. medRxiv. 2023 Apr 04. PMID: [37066407](//www.ncbi.nlm.nih.gov/pubmed/37066407); PMCID: [PMC10104220](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10104220).
+
+Citations:
+
+  6. [Badachhape AA](https://profiles.viictr.org/profile/28999111), Burnett B, Bhandari P, Devkota L, Bhavane R, [Ghaghada KB](https://profiles.viictr.org/profile/268527), [Yallampalli C](https://profiles.viictr.org/profile/2560322), Fox KA, **Annapragada AV**. Feasibility Study of Ferumoxtyol for Contrast-enhanced MRI of Retroplacental Clear Space Disruption in Placenta Accreta Spectrum (PAS). medRxiv. 2023 Mar 24. PMID: [36993653](//www.ncbi.nlm.nih.gov/pubmed/36993653); PMCID: [PMC10055603](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10055603).
+
+Citations:
+
+  7. Suresh S, [Acosta S](https://profiles.viictr.org/profile/3494037), Ettinger AK, [Savorgnan F](https://profiles.viictr.org/profile/17822562), **Annapragada A** , Kannikeswaran N, Sethuraman U. Association of Area Deprivation Index With Severity of COVID-19 in Pediatric Patients: A Multisite Study of Racially and Ethnically Diverse Children. Pediatr Infect Dis J. 2023 06 01; 42(6):e197-e200. PMID: [36854096](//www.ncbi.nlm.nih.gov/pubmed/36854096).
+
+Citations:  Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:Humans
+
+  8. Sun X, Chintakunta PK, [Badachhape AA](https://profiles.viictr.org/profile/28999111), Bhavane R, Lee HJ, Yang DS, [Starosolski Z](https://profiles.viictr.org/profile/270164), [Ghaghada KB](https://profiles.viictr.org/profile/268527), Vekilov PG, **Annapragada AV** , [Tanifum EA](https://profiles.viictr.org/profile/267720). Rational Design of a Self-Assembling High Performance Organic Nanofluorophore for Intraoperative NIR-II Image-Guided Tumor Resection of Oral Cancer. Adv Sci (Weinh). 2023 04; 10(10):e2206435. PMID: [36721029](//www.ncbi.nlm.nih.gov/pubmed/36721029); PMCID: [PMC10074073](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10074073).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36721029/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimals
+
+  9. [Badachhape AA](https://profiles.viictr.org/profile/28999111), Bhandari P, Devkota L, Srivastava M, [Tanifum EA](https://profiles.viictr.org/profile/267720), [George V](https://profiles.viictr.org/profile/17650571), Fox KA, [Yallampalli C](https://profiles.viictr.org/profile/2560322), **Annapragada AV** , [Ghaghada KB](https://profiles.viictr.org/profile/268527). Nanoparticle Contrast-enhanced MRI for Visualization of Retroplacental Clear Space Disruption in a Mouse Model of Placental Accreta Spectrum (PAS). Acad Radiol. 2023 Jul; 30(7):1384-1391. PMID: [36167627](//www.ncbi.nlm.nih.gov/pubmed/36167627); PMCID: [PMC10036264](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10036264).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  10. Parekh P, Mu Q, [Badachhape A](https://profiles.viictr.org/profile/28999111), Bhavane R, Srivastava M, Devkota L, Sun X, Bhandari P, [Eriksen JL](https://profiles.viictr.org/profile/267585), [Tanifum E](https://profiles.viictr.org/profile/267720), [Ghaghada K](https://profiles.viictr.org/profile/268527), **Annapragada A**. A surrogate marker for very early-stage tau pathology is detectable by molecular magnetic resonance imaging. Theranostics. 2022; 12(12):5504-5521. PMID: [35910789](//www.ncbi.nlm.nih.gov/pubmed/35910789); PMCID: [PMC9330526](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9330526).
+
+Citations:
+
+  11. [Savorgnan F](https://profiles.viictr.org/profile/17822562), Moreira A, [Moreira A](https://profiles.viictr.org/profile/37847448), **Annapragada A** , [Sexson Tejtel SK](https://profiles.viictr.org/profile/267598), [Flores S](https://profiles.viictr.org/profile/17822551), [Rusin CG](https://profiles.viictr.org/profile/268524), [Shekerdemian L](https://profiles.viictr.org/profile/266468), [Acosta S](https://profiles.viictr.org/profile/3494037). Physiologic profile associated with severe multisystem inflammatory syndrome in children: a retrospective study. Pediatr Res. 2023 01; 93(1):102-109. PMID: [35568731](//www.ncbi.nlm.nih.gov/pubmed/35568731); PMCID: [PMC9106980](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9106980).
+
+Citations:  Fields:
+
+Ped Pediatrics
+
+  12. [Savorgnan F](https://profiles.viictr.org/profile/17822562), [Acosta S](https://profiles.viictr.org/profile/3494037), Alali A, [Moreira A](https://profiles.viictr.org/profile/37847448), **Annapragada A** , [Rusin CG](https://profiles.viictr.org/profile/268524), [Flores S](https://profiles.viictr.org/profile/17822551), Loomba RS, Moreira A. Social and Demographic Disparities in the Severity of Multisystem Inflammatory Syndrome in Children. Pediatr Infect Dis J. 2022 06 01; 41(6):e256-e258. PMID: [35537132](//www.ncbi.nlm.nih.gov/pubmed/35537132); PMCID: [PMC9083307](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9083307).
+
+Citations:  Fields:
+
+Com Communicable DiseasesPed Pediatrics
+
+Translation:Humans
+
+  13. [Jain PN](https://profiles.viictr.org/profile/8065515), [Acosta S](https://profiles.viictr.org/profile/3494037), **Annapragada A** , [Checchia PA](https://profiles.viictr.org/profile/267197), [Moreira A](https://profiles.viictr.org/profile/37847448), [Muscal E](https://profiles.viictr.org/profile/270252), [Sartain SE](https://profiles.viictr.org/profile/3009824), Tejtel SKS, [Vogel TP](https://profiles.viictr.org/profile/18883198), [Shekerdemian L](https://profiles.viictr.org/profile/266468), [Rusin CG](https://profiles.viictr.org/profile/268524). Comparison of Laboratory and Hemodynamic Time Series Data Across Original, Alpha, and Delta Variants in Patients With Multisystem Inflammatory Syndrome in Children. Pediatr Crit Care Med. 2022 08 01; 23(8):e372-e381. PMID: [35507775](//www.ncbi.nlm.nih.gov/pubmed/35507775); PMCID: [PMC9345524](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9345524).
+
+Citations:  Fields:
+
+Cri Critical CarePed Pediatrics
+
+  14. Horn JD, Johnson MJ, [Starosolski Z](https://profiles.viictr.org/profile/270164), Meoded A, Milewicz DM, **Annapragada A** , Hossain SS. Patient-Specific Modeling Could Predict Occurrence of Pediatric Stroke. Front Physiol. 2022; 13:846404. PMID: [35295566](//www.ncbi.nlm.nih.gov/pubmed/35295566); PMCID: [PMC8920501](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8920501).
+
+Citations:
+
+  15. Salman R, [Sammer MB](https://profiles.viictr.org/profile/30445201), Serrallach BL, [Sangi-Haghpeykar H](https://profiles.viictr.org/profile/266954), **Annapragada AV** , Paul Guillerman R. Lower skeletal muscle mass on CT body composition analysis is associated with adverse clinical course and outcome in children with COVID-19. Radiol Med. 2022 Apr; 127(4):440-448. PMID: [35190968](//www.ncbi.nlm.nih.gov/pubmed/35190968); PMCID: [PMC8860361](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8860361).
+
+Citations:  Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  16. [Ghaghada KB](https://profiles.viictr.org/profile/268527), Bhavane R, [Badachhape A](https://profiles.viictr.org/profile/28999111), [Tanifum E](https://profiles.viictr.org/profile/267720), **Annapragada A**. Nanoprobes for Computed Tomography and Magnetic Resonance Imaging in Atherosclerosis Research. Methods Mol Biol. 2022; 2419:809-823. PMID: [35238003](//www.ncbi.nlm.nih.gov/pubmed/35238003).
+
+Citations:  Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  17. Sun X, Admane P, [Starosolski ZA](https://profiles.viictr.org/profile/270164), [Eriksen JL](https://profiles.viictr.org/profile/267585), **Annapragada AV** , [Tanifum EA](https://profiles.viictr.org/profile/267720). 1-Indanone and 1,3-indandione Derivatives as Ligands for Misfolded a-Synuclein Aggregates. ChemMedChem. 2022 01 19; 17(2):e202100611. PMID: [34704363](//www.ncbi.nlm.nih.gov/pubmed/34704363); PMCID: [PMC8770581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8770581).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34704363/citedby/) Fields:
+
+Che ChemistryPha Pharmacology
+
+Translation:HumansCells
+
+  18. Salman R, [Sher AC](https://profiles.viictr.org/profile/14348256), Guillerman RP, [Seghers VJ](https://profiles.viictr.org/profile/266968), Rodriguez JR, [Sangi-Haghpeykar H](https://profiles.viictr.org/profile/266954), **Annapragada AV** , [Sammer MBK](https://profiles.viictr.org/profile/30445201). Acute appendicitis and SARS-CoV-2 in children: imaging findings at a tertiary children's hospital during the COVID-19 pandemic. Pediatr Radiol. 2022 03; 52(3):460-467. PMID: [34741178](//www.ncbi.nlm.nih.gov/pubmed/34741178); PMCID: [PMC8570768](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8570768).
+
+Citations:  Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:HumansCellsPHPublic Health
+
+  19. Hossain SS, [Starosolski Z](https://profiles.viictr.org/profile/270164), Sanders T, Johnson MJ, Wu MCH, Hsu MC, Milewicz DM, **Annapragada A**. Image-based patient-specific flow simulations are consistent with stroke in pediatric cerebrovascular disease. Biomech Model Mechanobiol. 2021 Dec; 20(6):2071-2084. PMID: [34283347](//www.ncbi.nlm.nih.gov/pubmed/34283347); PMCID: [PMC8666092](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8666092).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34283347/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:HumansAnimals
+
+  20. Hebert KA, Jaramillo S, Yu W, Wang M, Veeramachaneni R, [Sandulache VC](https://profiles.viictr.org/profile/16943294), Sikora AG, Bonnen MD, **Annapragada AV** , [Corry D](https://profiles.viictr.org/profile/269165), [Kheradmand F](https://profiles.viictr.org/profile/270223), Pandita RK, [Ludwig MS](https://profiles.viictr.org/profile/2619439), Pandita TK, Huang S, [Coarfa C](https://profiles.viictr.org/profile/265668), [Grimm SL](https://profiles.viictr.org/profile/35589914), Perera D, [Miles G](https://profiles.viictr.org/profile/18892308), Ghebre YT. Esomeprazole enhances the effect of ionizing radiation to improve tumor control. Oncotarget. 2021 Jul 06; 12(14):1339-1353. PMID: [34262645](//www.ncbi.nlm.nih.gov/pubmed/34262645); PMCID: [PMC8274720](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8274720).
+
+Citations:  Fields:
+
+Neo Neoplasms
+
+  21. Rentz DM, Wessels AM, **Annapragada AV** , Berger AK, Edgar CJ, Gold M, Miller DS, Randolph C, Ryan JM, Wunderlich G, Zoschg MC, Knopman DS, Staffaroni AM, Bain LJ, Carrillo MC, Weber CJ, Tr?pel D. Building clinically relevant outcomes across the Alzheimer's disease spectrum. Alzheimers Dement (N Y). 2021; 7(1):e12181. PMID: [34195350](//www.ncbi.nlm.nih.gov/pubmed/34195350); PMCID: [PMC8234696](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8234696).
+
+Citations:
+
+  22. [Starosolski Z](https://profiles.viictr.org/profile/270164), [Courtney AN](https://profiles.viictr.org/profile/9596407), Srivastava M, Guo L, Stupin I, [Metelitsa LS](https://profiles.viictr.org/profile/266187), **Annapragada A** , [Ghaghada KB](https://profiles.viictr.org/profile/268527). A Nanoradiomics Approach for Differentiation of Tumors Based on Tumor-Associated Macrophage Burden. Contrast Media Mol Imaging. 2021; 2021:6641384. PMID: [34220380](//www.ncbi.nlm.nih.gov/pubmed/34220380); PMCID: [PMC8216795](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8216795).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34220380/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansAnimalsCells
+
+  23. Huang T, Chu Y, Shams S, Kim Y, **Annapragada AV** , Subramanian D, Kakadiaris I, Gottlieb A, Jiang X. Population stratification enables modeling effects of reopening policies on mortality and hospitalization rates. J Biomed Inform. 2021 07; 119:103818. PMID: [34022420](//www.ncbi.nlm.nih.gov/pubmed/34022420); PMCID: [PMC8555375](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8555375).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34022420/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:HumansCellsPHPublic Health
+
+  24. **Annapragada AV** , [Donaruma-Kwoh MM](https://profiles.viictr.org/profile/269435), Annapragada AV, [Starosolski ZA](https://profiles.viictr.org/profile/270164). A natural language processing and deep learning approach to identify child abuse from pediatric electronic medical records. PLoS One. 2021; 16(2):e0247404. PMID: [33635890](//www.ncbi.nlm.nih.gov/pubmed/33635890); PMCID: [PMC7909689](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7909689).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33635890/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Humans
+
+  25. [Ghaghada KB](https://profiles.viictr.org/profile/268527), Ren P, Devkota L, [Starosolski Z](https://profiles.viictr.org/profile/270164), Zhang C, Vela D, Stupin IV, [Tanifum EA](https://profiles.viictr.org/profile/267720), **Annapragada AV** , Shen YH, [LeMaire SA](https://profiles.viictr.org/profile/269388). Early Detection of Aortic Degeneration in a Mouse Model of Sporadic Aortic Aneurysm and Dissection Using Nanoparticle Contrast-Enhanced Computed Tomography. Arterioscler Thromb Vasc Biol. 2021 04; 41(4):1534-1548. PMID: [33535789](//www.ncbi.nlm.nih.gov/pubmed/33535789); PMCID: [PMC7990703](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7990703).
+
+Citations:  Fields:
+
+Vas Vascular Diseases
+
+Translation:Animals
+
+  26. Orman G, Desai NK, Kralik SF, Meoded A, [Seghers VJ](https://profiles.viictr.org/profile/266968), **Annapragada AV** , [Huisman TAGM](https://profiles.viictr.org/profile/30445237). Neuroimaging Offers Low Yield in Children Positive for SARS-CoV-2. AJNR Am J Neuroradiol. 2021 05; 42(5):951-954. PMID: [33414225](//www.ncbi.nlm.nih.gov/pubmed/33414225); PMCID: [PMC8115373](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8115373).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33414225/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:HumansCells
+
+  27. [Badachhape AA](https://profiles.viictr.org/profile/28999111), Working PK, Srivastava M, Bhandari P, Stupin IV, Devkota L, [Tanifum EA](https://profiles.viictr.org/profile/267720), **Annapragada AV** , [Ghaghada KB](https://profiles.viictr.org/profile/268527). Pre-clinical dose-ranging efficacy, pharmacokinetics, tissue biodistribution, and toxicity of a targeted contrast agent for MRI of amyloid deposition in Alzheimer's disease. Sci Rep. 2020 09 30; 10(1):16185. PMID: [32999398](//www.ncbi.nlm.nih.gov/pubmed/32999398); PMCID: [PMC7527957](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7527957).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32999398/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  28. [Starosolski Z](https://profiles.viictr.org/profile/270164), Admane P, Dunn J, Kaziny B, [Huisman TAGM](https://profiles.viictr.org/profile/30445237), **Annapragada A**. Design of 3D-Printed Nasopharyngeal Swabs for Children is Enabled by Radiologic Imaging. AJNR Am J Neuroradiol. 2020 12; 41(12):2345-2347. PMID: [32855191](//www.ncbi.nlm.nih.gov/pubmed/32855191); PMCID: [PMC7963225](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7963225).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32855191/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:HumansCells
+
+  29. Devkota L, [Starosolski Z](https://profiles.viictr.org/profile/270164), [Rivas CH](https://profiles.viictr.org/profile/31189484), Stupin I, **Annapragada A** , [Ghaghada KB](https://profiles.viictr.org/profile/268527), [Parihar R](https://profiles.viictr.org/profile/3009684). Detection of response to tumor microenvironment-targeted cellular immunotherapy using nano-radiomics. Sci Adv. 2020 07; 6(28):eaba6156. PMID: [32832602](//www.ncbi.nlm.nih.gov/pubmed/32832602); PMCID: [PMC7439308](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7439308).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32832602/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  30. **Annapragada A** , Sikora A, Bollard C, Conejo-Garcia J, Cruz CR, Demehri S, Demetriou M, Demirdjian L, Fong L, Horowitz M, Hutson A, Kadash-Edmondson K, Kufe D, Lipkin S, Liu S, McCarthy C, Morgan M, Morris Z, Pan Y, Pasquini M, Schoenberger S, Van Allen E, Vilar E, [Xing Y](https://profiles.viictr.org/profile/28999391), Zha W, IOTN Consortium, Odunsi A. Cancer Moonshot Immuno-Oncology Translational Network (IOTN): accelerating the clinical translation of basic discoveries for improving immunotherapy and immunoprevention of cancer. J Immunother Cancer. 2020 06; 8(1). PMID: [32554617](//www.ncbi.nlm.nih.gov/pubmed/32554617); PMCID: [PMC7304845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7304845).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32554617/citedby/) Fields:
+
+Neo NeoplasmsThe Therapeutics
+
+Translation:Humans
+
+  31. Reddy NE, Rayan JC, **Annapragada AV** , [Mahmood NF](https://profiles.viictr.org/profile/269285), Scheslinger AE, Zhang W, [Kan JH](https://profiles.viictr.org/profile/266180). Bone age determination using only the index finger: a novel approach using a convolutional neural network compared with human radiologists. Pediatr Radiol. 2020 04; 50(4):516-523. PMID: [31863193](//www.ncbi.nlm.nih.gov/pubmed/31863193).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31863193/citedby/) Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  32. [Badachhape AA](https://profiles.viictr.org/profile/28999111), Devkota L, Stupin IV, [Sarkar P](https://profiles.viictr.org/profile/37989525), Srivastava M, [Tanifum EA](https://profiles.viictr.org/profile/267720), Fox KA, [Yallampalli C](https://profiles.viictr.org/profile/2560322), **Annapragada AV** , [Ghaghada KB](https://profiles.viictr.org/profile/268527). Nanoparticle Contrast-enhanced T1-Mapping Enables Estimation of Placental Fractional Blood Volume in a Pregnant Mouse Model. Sci Rep. 2019 12 10; 9(1):18707. PMID: [31822711](//www.ncbi.nlm.nih.gov/pubmed/31822711); PMCID: [PMC6904754](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6904754).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31822711/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  33. Rayan JC, Reddy N, [Kan JH](https://profiles.viictr.org/profile/266180), Zhang W, **Annapragada A**. Binomial Classification of Pediatric Elbow Fractures Using a Deep Learning Multiview Approach Emulating Radiologist Decision Making. Radiol Artif Intell. 2019 Jan; 1(1):e180015. PMID: [33937781](//www.ncbi.nlm.nih.gov/pubmed/33937781); PMCID: [PMC8017418](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8017418).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33937781/citedby/)
+
+  34. [Badachhape AA](https://profiles.viictr.org/profile/28999111), Kumar A, [Ghaghada KB](https://profiles.viictr.org/profile/268527), Stupin IV, Srivastava M, Devkota L, [Starosolski Z](https://profiles.viictr.org/profile/270164), [Tanifum EA](https://profiles.viictr.org/profile/267720), [George V](https://profiles.viictr.org/profile/17650571), Fox KA, [Yallampalli C](https://profiles.viictr.org/profile/2560322), **Annapragada AV**. Pre-clinical magnetic resonance imaging of retroplacental clear space throughout gestation. Placenta. 2019 02; 77:1-7. PMID: [30827350](//www.ncbi.nlm.nih.gov/pubmed/30827350); PMCID: [PMC6400291](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6400291).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30827350/citedby/) Fields:
+
+Emb EmbryologyObs ObstetricsPhy Physiology
+
+Translation:Animals
+
+  35. [Tanifum EA](https://profiles.viictr.org/profile/267720), Devkota L, Ngwa C, [Badachhape AA](https://profiles.viictr.org/profile/28999111), [Ghaghada KB](https://profiles.viictr.org/profile/268527), Romero J, [Pautler RG](https://profiles.viictr.org/profile/267744), **Annapragada AV**. A Hyperfluorinated Hydrophilic Molecule for Aqueous 19F MRI Contrast Media. Contrast Media Mol Imaging. 2018; 2018:1693513. PMID: [30538612](//www.ncbi.nlm.nih.gov/pubmed/30538612); PMCID: [PMC6260405](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6260405).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30538612/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+  36. Bhavane R, [Starosolski Z](https://profiles.viictr.org/profile/270164), Stupin I, [Ghaghada KB](https://profiles.viictr.org/profile/268527), **Annapragada A**. NIR-II fluorescence imaging using indocyanine green nanoparticles. Sci Rep. 2018 09 27; 8(1):14455. PMID: [30262808](//www.ncbi.nlm.nih.gov/pubmed/30262808); PMCID: [PMC6160486](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6160486).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30262808/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  37. Woodside DG, [Tanifum EA](https://profiles.viictr.org/profile/267720), [Ghaghada KB](https://profiles.viictr.org/profile/268527), Biediger RJ, Caivano AR, [Starosolski ZA](https://profiles.viictr.org/profile/270164), Khounlo S, Bhayana S, Abbasi S, Craft JW, Maxwell DS, Patel C, Stupin IV, Bakthavatsalam D, Market RV, Willerson JT, Dixon RAF, Vanderslice P, **Annapragada AV**. Magnetic Resonance Imaging of Atherosclerotic Plaque at Clinically Relevant Field Strengths (1T) by Targeting the Integrin a4?1. Sci Rep. 2018 02 27; 8(1):3733. PMID: [29487319](//www.ncbi.nlm.nih.gov/pubmed/29487319); PMCID: [PMC5829217](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5829217).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29487319/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  38. [Tanifum EA](https://profiles.viictr.org/profile/267720), Patel C, [Liaw ME](https://profiles.viictr.org/profile/39339158), [Pautler RG](https://profiles.viictr.org/profile/267744), **Annapragada AV**. Hydrophilic fluorinated molecules for spectral 19F MRI. Sci Rep. 2018 02 13; 8(1):2889. PMID: [29440665](//www.ncbi.nlm.nih.gov/pubmed/29440665); PMCID: [PMC5811496](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5811496).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29440665/citedby/) Fields:
+
+Sci Science
+
+  39. [Starosolski Z](https://profiles.viictr.org/profile/270164), Bhavane R, [Ghaghada KB](https://profiles.viictr.org/profile/268527), [Vasudevan SA](https://profiles.viictr.org/profile/269879), Kaay A, **Annapragada A**. Indocyanine green fluorescence in second near-infrared (NIR-II) window. PLoS One. 2017; 12(11):e0187563. PMID: [29121078](//www.ncbi.nlm.nih.gov/pubmed/29121078); PMCID: [PMC5679521](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5679521).
+
+Citations:
+[49](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29121078/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  40. [Ghaghada KB](https://profiles.viictr.org/profile/268527), [Starosolski ZA](https://profiles.viictr.org/profile/270164), Bhayana S, Stupin I, Patel CV, Bhavane RC, Gao H, Bednov A, [Yallampalli C](https://profiles.viictr.org/profile/2560322), [Belfort M](https://profiles.viictr.org/profile/266510), [George V](https://profiles.viictr.org/profile/17650571), **Annapragada AV**. Pre-clinical evaluation of a nanoparticle-based blood-pool contrast agent for MR imaging of the placenta. Placenta. 2017 Sep; 57:60-70. PMID: [28864020](//www.ncbi.nlm.nih.gov/pubmed/28864020).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28864020/citedby/) Fields:
+
+Emb EmbryologyObs ObstetricsPhy Physiology
+
+Translation:HumansAnimals
+
+  41. Shetty AN, [Pautler R](https://profiles.viictr.org/profile/267744), Ghaghada K, Rendon D, Gao H, [Starosolski Z](https://profiles.viictr.org/profile/270164), Bhavane R, Patel C, **Annapragada A** , [Yallampalli C](https://profiles.viictr.org/profile/2560322), Lee W. Corrigendum: A liposomal Gd contrast agent does not cross the mouse placental barrier. Sci Rep. 2017 02 16; 7:39724. PMID: [28205586](//www.ncbi.nlm.nih.gov/pubmed/28205586); PMCID: [PMC5311953](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5311953).
+
+Citations:  Fields:
+
+Sci Science
+
+  42. Pok S, Stupin IV, Tsao C, [Pautler RG](https://profiles.viictr.org/profile/267744), Gao Y, Nieto RM, Tao ZW, Fraser CD, **Annapragada AV** , Jacot JG. Full-Thickness Heart Repair with an Engineered Multilayered Myocardial Patch in Rat Model. Adv Healthc Mater. 2017 Mar; 6(5). PMID: [28081298](//www.ncbi.nlm.nih.gov/pubmed/28081298); PMCID: [PMC5896558](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5896558).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28081298/citedby/) Fields:
+
+Bio Biomedical EngineeringTec Technology
+
+Translation:Animals
+
+  43. Ravoori MK, Singh S, Bhavane R, Sood AK, Anvari B, Bankson J, **Annapragada A** , Kundra V. Multimodal Magnetic Resonance and Near-Infrared-Fluorescent Imaging of Intraperitoneal Ovarian Cancer Using a Dual-Mode-Dual-Gadolinium Liposomal Contrast Agent. Sci Rep. 2016 12 22; 6:38991. PMID: [28004770](//www.ncbi.nlm.nih.gov/pubmed/28004770); PMCID: [PMC5177955](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5177955).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28004770/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  44. [Ghaghada KB](https://profiles.viictr.org/profile/268527), [Starosolski ZA](https://profiles.viictr.org/profile/270164), Lakoma A, Kaffes C, Agarwal S, [Athreya KK](https://profiles.viictr.org/profile/20310282), Shohet J, Kim E, **Annapragada A**. Heterogeneous Uptake of Nanoparticles in Mouse Models of Pediatric High-Risk Neuroblastoma. PLoS One. 2016; 11(11):e0165877. PMID: [27861510](//www.ncbi.nlm.nih.gov/pubmed/27861510); PMCID: [PMC5115667](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5115667).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27861510/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansAnimalsCells
+
+  45. Mu Q, Annapragada A, Srivastava M, Li X, Wu J, Thiviyanathan V, Wang H, Williams A, Gorenstein D, **Annapragada A** , Vigneswaran N. Conjugate-SELEX: A High-throughput Screening of Thioaptamer-liposomal Nanoparticle Conjugates for Targeted Intracellular Delivery of Anticancer Drugs. Mol Ther Nucleic Acids. 2016 Nov 01; 5(10):e382. PMID: [27802264](//www.ncbi.nlm.nih.gov/pubmed/27802264).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27802264/citedby/)
+
+  46. Shetty AN, [Pautler R](https://profiles.viictr.org/profile/267744), [Ghaghada K](https://profiles.viictr.org/profile/268527), Rendon D, Gao H, [Starosolski Z](https://profiles.viictr.org/profile/270164), Bhavane R, Patel C, **Annapragada A** , [Yallampalli C](https://profiles.viictr.org/profile/2560322), Lee W. A liposomal Gd contrast agent does not cross the mouse placental barrier. Sci Rep. 2016 06 14; 6:27863. PMID: [27298076](//www.ncbi.nlm.nih.gov/pubmed/27298076); PMCID: [PMC4906290](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4906290).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27298076/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  47. Dustin D, Hall BM, **Annapragada A** , [Pautler RG](https://profiles.viictr.org/profile/267744). Neuroimaging in Alzheimer's disease: preclinical challenges toward clinical efficacy. Transl Res. 2016 09; 175:37-53. PMID: [27033146](//www.ncbi.nlm.nih.gov/pubmed/27033146).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27033146/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesMed Medicine (General)
+
+Translation:HumansAnimals
+
+  48. [Tanifum EA](https://profiles.viictr.org/profile/267720), [Ghaghada K](https://profiles.viictr.org/profile/268527), Vollert C, Head E, [Eriksen JL](https://profiles.viictr.org/profile/267585), **Annapragada A**. A Novel Liposomal Nanoparticle for the Imaging of Amyloid Plaque by Magnetic Resonance Imaging. J Alzheimers Dis. 2016; 52(2):731-45. PMID: [27031484](//www.ncbi.nlm.nih.gov/pubmed/27031484); PMCID: [PMC4931553](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4931553).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27031484/citedby/) Fields:
+
+Ger GeriatricsNeu Neurology
+
+Translation:Animals
+
+  49. [Starosolski Z](https://profiles.viictr.org/profile/270164), Villamizar CA, Rendon D, Paldino MJ, Milewicz DM, [Ghaghada KB](https://profiles.viictr.org/profile/268527), **Annapragada AV**. Ultra High-Resolution In vivo Computed Tomography Imaging of Mouse Cerebrovasculature Using a Long Circulating Blood Pool Contrast Agent. Sci Rep. 2015 May 18; 5:10178. PMID: [25985192](//www.ncbi.nlm.nih.gov/pubmed/25985192); PMCID: [PMC4650815](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4650815).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25985192/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  50. [Sabapathy DG](https://profiles.viictr.org/profile/40668818), Guillerman RP, Orth RC, Zhang W, Messinger Y, Foulkes W, Priest JR, **Annapragada AV**. Radiographic screening of infants and young children with genetic predisposition for rare malignancies: DICER1 mutations and pleuropulmonary blastoma. AJR Am J Roentgenol. 2015 Apr; 204(4):W475-82. PMID: [25794098](//www.ncbi.nlm.nih.gov/pubmed/25794098).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25794098/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  51. **Annapragada A**. Advances in nanoparticle imaging technology for vascular pathologies. Annu Rev Med. 2015; 66:177-93. PMID: [25587649](//www.ncbi.nlm.nih.gov/pubmed/25587649).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25587649/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  52. Wu J, Mu Q, **Annapragada A** , Vigneswaran N, Thiviyanathan V. Cancer stem cells are enriched in Fanconi anemia head and neck squamous cell carcinomas. Int J Oncol. 2014 Dec; 45(6):2365-72. PMID: [25340704](//www.ncbi.nlm.nih.gov/pubmed/25340704); PMCID: [PMC4215586](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215586).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25340704/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  53. [Tanifum EA](https://profiles.viictr.org/profile/267720), [Starosolski ZA](https://profiles.viictr.org/profile/270164), [Fowler SW](https://profiles.viictr.org/profile/3009662), [Jankowsky JL](https://profiles.viictr.org/profile/265826), **Annapragada AV**. Cerebral vascular leak in a mouse model of amyloid neuropathology. J Cereb Blood Flow Metab. 2014 Oct; 34(10):1646-54. PMID: [25052555](//www.ncbi.nlm.nih.gov/pubmed/25052555); PMCID: [PMC4269723](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4269723).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25052555/citedby/) Fields:
+
+Bra BrainMet MetabolismVas Vascular Diseases
+
+Translation:HumansAnimals
+
+  54. [Starosolski ZA](https://profiles.viictr.org/profile/270164), [Kan JH](https://profiles.viictr.org/profile/266180), Rosenfeld SD, Krishnamurthy R, **Annapragada A**. Application of 3-D printing (rapid prototyping) for creating physical models of pediatric orthopedic disorders. Pediatr Radiol. 2014 Feb; 44(2):216-21. PMID: [24202430](//www.ncbi.nlm.nih.gov/pubmed/24202430).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24202430/citedby/) Fields:
+
+Ped PediatricsRad RadiologyRad Radiotherapy
+
+Translation:Humans
+
+  55. Espinosa G, **Annapragada A**. Cost-effectiveness of a novel blood-pool contrast agent in the setting of chest pain evaluation in an emergency department. AJR Am J Roentgenol. 2013 Oct; 201(4):710-9. PMID: [24059359](//www.ncbi.nlm.nih.gov/pubmed/24059359).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24059359/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Humans
+
+  56. Bhavane R, Badea C, [Ghaghada KB](https://profiles.viictr.org/profile/268527), Clark D, Vela D, Moturu A, Annapragada A, Johnson GA, Willerson JT, **Annapragada A**. Dual-energy computed tomography imaging of atherosclerotic plaques in a mouse model using a liposomal-iodine nanoparticle contrast agent. Circ Cardiovasc Imaging. 2013 Mar 01; 6(2):285-94. PMID: [23349231](//www.ncbi.nlm.nih.gov/pubmed/23349231); PMCID: [PMC3760185](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3760185).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23349231/citedby/) Fields:
+
+Car CardiologyDia Diagnostic ImagingVas Vascular Diseases
+
+Translation:AnimalsCells
+
+  57. Bell RC, Rogith D, Johnson CW, Badea CT, [Athreya KK](https://profiles.viictr.org/profile/20310282), Espinosa G, Clark D, Ghafoori AP, Li Y, Kirsch DG, **Annapragada A** , [Ghaghada K](https://profiles.viictr.org/profile/268527). Data analysis: evaluation of nanoscale contrast agent enhanced CT scan to differentiate between benign and malignant lung cancer in mouse model. AMIA Annu Symp Proc. 2012; 2012:27-35. PMID: [23304269](//www.ncbi.nlm.nih.gov/pubmed/23304269); PMCID: [PMC3540499](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3540499).
+
+Citations:  Fields:
+
+Med Medical Informatics
+
+Translation:Animals
+
+  58. [Tanifum EA](https://profiles.viictr.org/profile/267720), Dasgupta I, Srivastava M, Bhavane RC, Sun L, Berridge J, Pourgarzham H, Kamath R, Espinosa G, Cook SC, [Eriksen JL](https://profiles.viictr.org/profile/267585), **Annapragada A**. Intravenous delivery of targeted liposomes to amyloid-? pathology in APP/PSEN1 transgenic mice. PLoS One. 2012; 7(10):e48515. PMID: [23119043](//www.ncbi.nlm.nih.gov/pubmed/23119043); PMCID: [PMC3485335](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3485335).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23119043/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  59. Badea CT, [Athreya KK](https://profiles.viictr.org/profile/20310282), Espinosa G, Clark D, Ghafoori AP, Li Y, Kirsch DG, Johnson GA, **Annapragada A** , [Ghaghada KB](https://profiles.viictr.org/profile/268527). Computed tomography imaging of primary lung cancer in mice using a liposomal-iodinated contrast agent. PLoS One. 2012; 7(4):e34496. PMID: [22485175](//www.ncbi.nlm.nih.gov/pubmed/22485175); PMCID: [PMC3317632](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3317632).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22485175/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  60. Dasgupta I, [Tanifum EA](https://profiles.viictr.org/profile/267720), Srivastava M, Phatak SS, Cavasotto CN, Analoui M, **Annapragada A**. Non inflammatory boronate based glucose-responsive insulin delivery systems. PLoS One. 2012; 7(1):e29585. PMID: [22272238](//www.ncbi.nlm.nih.gov/pubmed/22272238); PMCID: [PMC3260138](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3260138).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22272238/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  61. Hoffman E, Divekar A, Karathanasis E, [Ghaghada KB](https://profiles.viictr.org/profile/268527), **Annapragada AV**. High-resolution CT vascular imaging using blood pool contrast agents. Methodist Debakey Cardiovasc J. 2012 Jan; 8(1):18-22. PMID: [22891106](//www.ncbi.nlm.nih.gov/pubmed/22891106); PMCID: [PMC3405778](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3405778).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22891106/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:HumansAnimals
+
+  62. Opina AC, [Ghaghada KB](https://profiles.viictr.org/profile/268527), Zhao P, Kiefer G, **Annapragada A** , Sherry AD. TmDOTA-tetraglycinate encapsulated liposomes as pH-sensitive LipoCEST agents. PLoS One. 2011; 6(11):e27370. PMID: [22140438](//www.ncbi.nlm.nih.gov/pubmed/22140438); PMCID: [PMC3225356](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3225356).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22140438/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+  63. Mann AP, Bhavane RC, Somasunderam A, Liz Montalvo-Ortiz B, [Ghaghada KB](https://profiles.viictr.org/profile/268527), Volk D, Suh KS, Ferrari M, **Annapragada A** , Gorenstein DG, Tanaka T, Nieves-Alicea R. Thioaptamer conjugated liposomes for tumor vasculature targeting. Oncotarget. 2011 Apr; 2(4):298-304. PMID: [21666286](//www.ncbi.nlm.nih.gov/pubmed/21666286); PMCID: [PMC3248173](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3248173).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21666286/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  64. Vigneswaran N, Wu J, Song A, **Annapragada A** , Zacharias W. Hypoxia-induced autophagic response is associated with aggressive phenotype and elevated incidence of metastasis in orthotopic immunocompetent murine models of head and neck squamous cell carcinomas (HNSCC). Exp Mol Pathol. 2011 Apr; 90(2):215-25. PMID: [21236253](//www.ncbi.nlm.nih.gov/pubmed/21236253); PMCID: [PMC3057178](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3057178).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21236253/citedby/) Fields:
+
+Mol Molecular BiologyPat Pathology
+
+Translation:AnimalsCells
+
+  65. [Ghaghada KB](https://profiles.viictr.org/profile/268527), Badea CT, Karumbaiah L, Fettig N, Bellamkonda RV, Johnson GA, **Annapragada A**. Evaluation of tumor microenvironment in an animal model using a nanoparticle contrast agent in computed tomography imaging. Acad Radiol. 2011 Jan; 18(1):20-30. PMID: [21145026](//www.ncbi.nlm.nih.gov/pubmed/21145026); PMCID: [PMC3016875](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3016875).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21145026/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  66. [Ghaghada KB](https://profiles.viictr.org/profile/268527), Ravoori M, [Sabapathy D](https://profiles.viictr.org/profile/40668818), [Bankson J](https://profiles.viictr.org/profile/12583373), [Kundra V](https://profiles.viictr.org/profile/12583002), **Annapragada A**. New dual mode gadolinium nanoparticle contrast agent for magnetic resonance imaging. PLoS One. 2009 Oct 29; 4(10):e7628. PMID: [19893616](//www.ncbi.nlm.nih.gov/pubmed/19893616); PMCID: [PMC2764087](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2764087).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19893616/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  67. Karathanasis E, Chan L, Karumbaiah L, McNeeley K, D'Orsi CJ, **Annapragada AV** , Sechopoulos I, Bellamkonda RV. Tumor vascular permeability to a nanoprobe correlates to tumor-specific expression levels of angiogenic markers. PLoS One. 2009 Jun 09; 4(6):e5843. PMID: [19513111](//www.ncbi.nlm.nih.gov/pubmed/19513111); PMCID: [PMC2688084](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2688084).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19513111/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  68. McNeeley KM, Karathanasis E, **Annapragada AV** , Bellamkonda RV. Masking and triggered unmasking of targeting ligands on nanocarriers to improve drug delivery to brain tumors. Biomaterials. 2009 Aug; 30(23-24):3986-95. PMID: [19427688](//www.ncbi.nlm.nih.gov/pubmed/19427688).
+
+Citations:
+[37](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19427688/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:AnimalsCells
+
+  69. **Annapragada A** , Bellamkonda RV. Image-based determination of 'physiomarkers' for personalized cancer therapy. Future Oncol. 2009 May; 5(4):409-11. PMID: [19450168](//www.ncbi.nlm.nih.gov/pubmed/19450168).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19450168/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:Humans
+
+  70. Karathanasis E, Suryanarayanan S, Balusu SR, McNeeley K, Sechopoulos I, Karellas A, **Annapragada AV** , Bellamkonda RV. Imaging nanoprobe for prediction of outcome of nanoparticle chemotherapy by using mammography. Radiology. 2009 Feb; 250(2):398-406. PMID: [19188313](//www.ncbi.nlm.nih.gov/pubmed/19188313).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19188313/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  71. Ghaghada K, Hawley C, Kawaji K, **Annapragada A** , Mukundan S. T1 relaxivity of core-encapsulated gadolinium liposomal contrast agents--effect of liposome size and internal gadolinium concentration. Acad Radiol. 2008 Oct; 15(10):1259-63. PMID: [18790397](//www.ncbi.nlm.nih.gov/pubmed/18790397); PMCID: [PMC2746039](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2746039).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18790397/citedby/) Fields:
+
+Rad Radiology
+
+  72. Karathanasis E, Chan L, Balusu SR, D'Orsi CJ, **Annapragada AV** , Sechopoulos I, Bellamkonda RV. Multifunctional nanocarriers for mammographic quantification of tumor dosing and prognosis of breast cancer therapy. Biomaterials. 2008 Dec; 29(36):4815-22. PMID: [18814908](//www.ncbi.nlm.nih.gov/pubmed/18814908).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18814908/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:AnimalsCells
+
+  73. Karathanasis E, Park J, Agarwal A, Patel V, Zhao F, **Annapragada AV** , Hu X, Bellamkonda RV. MRI mediated, non-invasive tracking of intratumoral distribution of nanocarriers in rat glioma. Nanotechnology. 2008 Aug 06; 19(31):315101. PMID: [21828778](//www.ncbi.nlm.nih.gov/pubmed/21828778).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21828778/citedby/) Fields:
+
+Nan Nanotechnology
+
+  74. Sakamoto J, **Annapragada A** , Decuzzi P, Ferrari M. Antibiological barrier nanovector technology for cancer applications. Expert Opin Drug Deliv. 2007 Jul; 4(4):359-69. PMID: [17683250](//www.ncbi.nlm.nih.gov/pubmed/17683250).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17683250/citedby/) Fields:
+
+Dru Drug TherapyPha Pharmacology
+
+Translation:HumansAnimals
+
+  75. Burke SJ, **Annapragada A** , Hoffman EA, Chen E, [Ghaghada KB](https://profiles.viictr.org/profile/268527), Sieren J, van Beek EJ. Imaging of pulmonary embolism and t-PA therapy effects using MDCT and liposomal iohexol blood pool agent: preliminary results in a rabbit model. Acad Radiol. 2007 Mar; 14(3):355-62. PMID: [17307669](//www.ncbi.nlm.nih.gov/pubmed/17307669); PMCID: [PMC2213908](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2213908).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17307669/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  76. Bhavane R, Karathanasis E, **Annapragada AV**. Triggered release of ciprofloxacin from nanostructured agglomerated vesicles. Int J Nanomedicine. 2007; 2(3):407-18. PMID: [18019839](//www.ncbi.nlm.nih.gov/pubmed/18019839); PMCID: [PMC2676649](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2676649).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18019839/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:Animals
+
+  77. Ghaghada KB, Bockhorst KH, Mukundan S, **Annapragada AV** , Narayana PA. High-resolution vascular imaging of the rat spine using liposomal blood pool MR agent. AJNR Am J Neuroradiol. 2007 Jan; 28(1):48-53. PMID: [17213423](//www.ncbi.nlm.nih.gov/pubmed/17213423); PMCID: [PMC1773015](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1773015).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17213423/citedby/) Fields:
+
+Neu NeurologyRad Radiology
+
+Translation:Animals
+
+  78. Karathanasis E, Bhavane R, **Annapragada AV**. Glucose-sensing pulmonary delivery of human insulin to the systemic circulation of rats. Int J Nanomedicine. 2007; 2(3):501-13. PMID: [18019848](//www.ncbi.nlm.nih.gov/pubmed/18019848); PMCID: [PMC2676664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2676664).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18019848/citedby/) Fields:
+
+Nan Nanotechnology
+
+Translation:HumansAnimals
+
+  79. Saul JM, **Annapragada AV** , Bellamkonda RV. A dual-ligand approach for enhancing targeting selectivity of therapeutic nanocarriers. J Control Release. 2006 Sep 12; 114(3):277-87. PMID: [16904220](//www.ncbi.nlm.nih.gov/pubmed/16904220).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16904220/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansCells
+
+  80. Ayyagari AL, Zhang X, [Ghaghada KB](https://profiles.viictr.org/profile/268527), **Annapragada A** , Hu X, Bellamkonda RV. Long-circulating liposomal contrast agents for magnetic resonance imaging. Magn Reson Med. 2006 May; 55(5):1023-9. PMID: [16586449](//www.ncbi.nlm.nih.gov/pubmed/16586449).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16586449/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Animals
+
+  81. Karathanasis E, Bhavane R, **Annapragada AV**. Triggered release of inhaled insulin from the agglomerated vesicles: pharmacodynamic studies in rats. J Control Release. 2006 Jun 28; 113(2):117-27. PMID: [16765471](//www.ncbi.nlm.nih.gov/pubmed/16765471).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16765471/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimals
+
+  82. Mukundan S, [Ghaghada KB](https://profiles.viictr.org/profile/268527), Badea CT, Kao CY, Hedlund LW, Provenzale JM, Johnson GA, Chen E, Bellamkonda RV, **Annapragada A**. A liposomal nanoscale contrast agent for preclinical CT in mice. AJR Am J Roentgenol. 2006 Feb; 186(2):300-7. PMID: [16423931](//www.ncbi.nlm.nih.gov/pubmed/16423931).
+
+Citations:
+[86](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16423931/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  83. [Ghaghada KB](https://profiles.viictr.org/profile/268527), Saul J, Natarajan JV, Bellamkonda RV, **Annapragada AV**. Folate targeting of drug carriers: a mathematical model. J Control Release. 2005 May 05; 104(1):113-28. PMID: [15866339](//www.ncbi.nlm.nih.gov/pubmed/15866339).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15866339/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:HumansAnimalsCells
+
+  84. Karathanasis E, Ayyagari AL, Bhavane R, Bellamkonda RV, **Annapragada AV**. Preparation of in vivo cleavable agglomerated liposomes suitable for modulated pulmonary drug delivery. J Control Release. 2005 Mar 02; 103(1):159-75. PMID: [15710508](//www.ncbi.nlm.nih.gov/pubmed/15710508).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15710508/citedby/) Fields:
+
+Pha Pharmacology
+
+  85. Bhavane R, Karathanasis E, **Annapragada AV**. Agglomerated vesicle technology: a new class of particles for controlled and modulated pulmonary drug delivery. J Control Release. 2003 Nov 18; 93(1):15-28. PMID: [14602418](//www.ncbi.nlm.nih.gov/pubmed/14602418).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14602418/citedby/) Fields:
+
+Pha Pharmacology
+
+  86. Saul JM, **Annapragada A** , Natarajan JV, Bellamkonda RV. Controlled targeting of liposomal doxorubicin via the folate receptor in vitro. J Control Release. 2003 Sep 19; 92(1-2):49-67. PMID: [14499185](//www.ncbi.nlm.nih.gov/pubmed/14499185).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14499185/citedby/) Fields:
+
+Pha Pharmacology
+
+Translation:AnimalsCells
+
+  87. Kao CY, Hoffman EA, Beck KC, Bellamkonda RV, **Annapragada AV**. Long-residence-time nano-scale liposomal iohexol for X-ray-based blood pool imaging. Acad Radiol. 2003 May; 10(5):475-83. PMID: [12755534](//www.ncbi.nlm.nih.gov/pubmed/12755534).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12755534/citedby/) Fields:
+
+Rad Radiology
+
+Translation:Animals
+
+  88. Nowak N, Kakade PP, **Annapragada AV**. Computational fluid dynamics simulation of airflow and aerosol deposition in human lungs. Ann Biomed Eng. 2003 Apr; 31(4):374-90. PMID: [12723679](//www.ncbi.nlm.nih.gov/pubmed/12723679).
+
+Citations:
+[40](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12723679/citedby/) Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  89. Brackett JM, Cousineau KL, Wang H, **Annapragada AV** , Cabal OD, Gall GS, Peterson B, Robey WG. Determination of anti-HBsAg IgM monoclonal antibodies in cell culture media by perfusion immunoassay. J Immunol Methods. 1997 Jan 15; 200(1-2):39-46. PMID: [9005942](//www.ncbi.nlm.nih.gov/pubmed/9005942).
+
+Citations:  Fields:
+
+All Allergy and ImmunologyCli Clinical Laboratory Techniques
+
+Translation:Animals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 89 publications over 22 distinct years, with a maximum of
+10 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|10&cht=bvs&chd=t:0,0,0,10,0,0,0,0,0,40,10,10,40,50,30,50,0,40,50,30,20,30,60,40,40,40,40,100,80,70,10&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1997| 1  
+2003| 4  
+2004| 1  
+2005| 1  
+2006| 4  
+2007| 5  
+2008| 3  
+2009| 5  
+2011| 4  
+2012| 5  
+2013| 3  
+2014| 2  
+2015| 3  
+2016| 6  
+2017| 4  
+2018| 4  
+2019| 4  
+2020| 4  
+2021| 10  
+2022| 8  
+2023| 7  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ANNAPRAGADA's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (383)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Contrast Media](https://profiles.viictr.org/profile/258175)
+  * [Nanoparticles](https://profiles.viictr.org/profile/257492)
+  * [Liposomes](https://profiles.viictr.org/profile/248534)
+  * [Plaque, Atherosclerotic](https://profiles.viictr.org/profile/27545901)
+  * [Gadolinium](https://profiles.viictr.org/profile/245900)
+
+[Explore](https://profiles.viictr.org/profile/269845/198)
+
+_
+
+Co-Authors (53)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GHAGHADA, KETANKUMAR](https://profiles.viictr.org/profile/268527)
+  * [STAROSOLSKI, ZBIGNIEW](https://profiles.viictr.org/profile/270164)
+  * [TANIFUM, ERIC](https://profiles.viictr.org/profile/267720)
+  * [BADACHHAPE, ANDREW](https://profiles.viictr.org/profile/28999111)
+  * [YALLAMPALLI, CHANDRASEKHAR](https://profiles.viictr.org/profile/2560322)
+
+[Explore](https://profiles.viictr.org/profile/269845/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [GHAGHADA, KETANKUMAR](https://profiles.viictr.org/profile/268527)
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [SOOD, ANIL K](https://profiles.viictr.org/profile/12583786)
+  * [BALLANTYNE, CHRISTIE](https://profiles.viictr.org/profile/266404)
+
+[Explore](https://profiles.viictr.org/profile/269845/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GEORGE, VERGHESE](https://profiles.viictr.org/profile/17650571)
+  * [GROSS, JONATHAN](https://profiles.viictr.org/profile/37888850)
+  * [HOEF, JOHN](https://profiles.viictr.org/profile/14400833)
+  * [RAHBAR, KASRA](https://profiles.viictr.org/profile/39966309)
+  * [THERUVATH, ASHOK](https://profiles.viictr.org/profile/38246208)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqNFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [JADHAV, SIDDHARTH](https://profiles.viictr.org/profile/267624)
+  * [STAROSOLSKI, ZBIGNIEW](https://profiles.viictr.org/profile/270164)
+  * [STRAX, RICHARD](https://profiles.viictr.org/profile/268675)
+  * [TAMARA, LUIS](https://profiles.viictr.org/profile/268717)
+  * [WENDT III, RICHARD](https://profiles.viictr.org/profile/269655)
+
+_
+

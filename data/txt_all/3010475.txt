@@ -1,0 +1,425 @@
+## ALEKSANDAR BAJIC
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| 1250 MOURSUND STREET  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F6c16nbGLo%2f0VMHP4XHLKZSOJBzEkiEX&rnd=93d6d589-cfa3-4255-a740-8194ee33e258)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3010475)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Li S, [Zhao S](https://profiles.viictr.org/profile/38529207), Sinson JC, **Bajic A** , Rosenfeld JA, [Neeley MB](https://profiles.viictr.org/profile/37567638), Pena M, [Worley KC](https://profiles.viictr.org/profile/266909), [Burrage LC](https://profiles.viictr.org/profile/3010239), Weisz-Hubshman M, [Ketkar S](https://profiles.viictr.org/profile/28999445), [Craigen WJ](https://profiles.viictr.org/profile/267972), [Clark GD](https://profiles.viictr.org/profile/268169), [Lalani S](https://profiles.viictr.org/profile/269910), [Bacino CA](https://profiles.viictr.org/profile/266588), [Machol K](https://profiles.viictr.org/profile/3010062), [Chao HT](https://profiles.viictr.org/profile/23478929), [Potocki L](https://profiles.viictr.org/profile/268316), [Emrick L](https://profiles.viictr.org/profile/3010431), Sheppard J, Nguyen MTT, Khoramnia A, Hernandez PP, [Nagamani SC](https://profiles.viictr.org/profile/265521), [Liu Z](https://profiles.viictr.org/profile/266153), Undiagnosed Diseases Network, [Eng CM](https://profiles.viictr.org/profile/267270), Lee B, Liu P. The clinical utility and diagnostic implementation of human subject cell transdifferentiation followed by RNA sequencing. Am J Hum Genet. 2024 May 02; 111(5):841-862. PMID: [38593811](//www.ncbi.nlm.nih.gov/pubmed/38593811); PMCID: [PMC11080285](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11080285).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  2. [Mendonca D](https://profiles.viictr.org/profile/37560956), [Cappuccio G](https://profiles.viictr.org/profile/34797934), Sheppard J, Delacruz M, Bengtsson J, Carvalho CMB, **Bajic A** , Park H, Kim JJ, Jafar-Nejad P, Coquery C, [Pehlivan D](https://profiles.viictr.org/profile/27841639), [Suter B](https://profiles.viictr.org/profile/268438), [Maletic-Savatic M](https://profiles.viictr.org/profile/266043). Generation of five induced pluripotent stem cell lines from patients with MECP2 Duplication Syndrome. Stem Cell Res. 2024 02; 74:103292. PMID: [38154383](//www.ncbi.nlm.nih.gov/pubmed/38154383); PMCID: [PMC10898976](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10898976).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  3. Zhou J, Cattoglio C, Shao Y, Tirumala HP, Vetralla C, Bajikar SS, Li Y, Chen H, Wang Q, Wu Z, Tang B, Zahabiyon M, **Bajic A** , Meng X, Ferrie JJ, LaGrone A, Zhang P, Kim JJ, [Tang J](https://profiles.viictr.org/profile/267756), [Liu Z](https://profiles.viictr.org/profile/266153), Darzacq X, Heintz N, Tjian R, [Zoghbi HY](https://profiles.viictr.org/profile/267945). A novel pathogenic mutation of MeCP2 impairs chromatin association independent of protein levels. Genes Dev. 2023 10 01; 37(19-20):883-900. PMID: [37890975](//www.ncbi.nlm.nih.gov/pubmed/37890975); PMCID: [PMC10691473](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10691473).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37890975/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  4. Calcagni' A, Staiano L, Zampelli N, Minopoli N, Herz NJ, Di Tullio G, Huynh T, Monfregola J, Esposito A, Cirillo C, **Bajic A** , Zahabiyon M, Curnock R, Polishchuk E, [Parkitny L](https://profiles.viictr.org/profile/28999289), Medina DL, Pastore N, Cullen PJ, Parenti G, De Matteis MA, Grumati P, [Ballabio A](https://profiles.viictr.org/profile/266220). Loss of the batten disease protein CLN3 leads to mis-trafficking of M6PR and defective autophagic-lysosomal reformation. Nat Commun. 2023 07 03; 14(1):3911. PMID: [37400440](//www.ncbi.nlm.nih.gov/pubmed/37400440); PMCID: [PMC10317969](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10317969).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37400440/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  5. Choi KJ, Quan MD, [Qi C](https://profiles.viictr.org/profile/38374051), Lee JH, [Tsoi PS](https://profiles.viictr.org/profile/14348259), Zahabiyon M, **Bajic A** , Hu L, Prasad BVV, Liao SJ, Li W, [Ferreon ACM](https://profiles.viictr.org/profile/8065525), [Ferreon JC](https://profiles.viictr.org/profile/8065537). NANOG prion-like assembly mediates DNA bridging to facilitate chromatin reorganization and activation of pluripotency. Nat Cell Biol. 2022 05; 24(5):737-747. PMID: [35484250](//www.ncbi.nlm.nih.gov/pubmed/35484250); PMCID: [PMC9106587](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9106587).
+
+Citations:  Fields:
+
+Cel Cell Biology
+
+Translation:HumansCells
+
+  6. Kandel P, Semerci F, [Mishra R](https://profiles.viictr.org/profile/31422903), Choi W, **Bajic A** , Baluya D, Ma L, Chen K, Cao AC, Phongmekhin T, Matinyan N, [Chamakuri S](https://profiles.viictr.org/profile/12402364), Raji IO, Chang L, Fuentes-Prior P, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), Benn CL, [Venken K](https://profiles.viictr.org/profile/3010184), Moore DD, [Young DW](https://profiles.viictr.org/profile/5099690), [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), Jim?nez-Panizo A, Est?banez-Perpi?? E. Oleic acid is an endogenous ligand of TLX/NR2E1 that triggers hippocampal neurogenesis. Proc Natl Acad Sci U S A. 2022 03 29; 119(13):e2023784119. PMID: [35333654](//www.ncbi.nlm.nih.gov/pubmed/35333654); PMCID: [PMC9060471](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9060471).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35333654/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+  7. Gonzales KA, Revelli JP, Adamski CJ, Alavi Naini F, **Bajic A** , Craigen E, Richman R, Heman-Ackah SM, Wood MJA, Rousseaux MWC, [Zoghbi HY](https://profiles.viictr.org/profile/267945), V?zquez-V?lez GE. Doublecortin-like Kinase 1 Regulates a-Synuclein Levels and Toxicity. J Neurosci. 2020 01 08; 40(2):459-477. PMID: [31748376](//www.ncbi.nlm.nih.gov/pubmed/31748376); PMCID: [PMC6948939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6948939).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31748376/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  8. Crutcher E, Pal R, Naini F, Zhang P, Laugsch M, Kim J, **Bajic A** , Schaaf CP. mTOR and autophagy pathways are dysregulated in murine and human models of Schaaf-Yang syndrome. Sci Rep. 2019 11 04; 9(1):15935. PMID: [31685878](//www.ncbi.nlm.nih.gov/pubmed/31685878); PMCID: [PMC6828689](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6828689).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31685878/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  9. Rousseaux MWC, [Al-Ramahi I](https://profiles.viictr.org/profile/3009798), [Jeong HH](https://profiles.viictr.org/profile/15317861), **Bajic A** , Revelli JP, Ye H, Phan ET, [Deger JM](https://profiles.viictr.org/profile/31168762), Perez AM, [Kim JY](https://profiles.viictr.org/profile/3494074), Lavery LA, Xu Q, Li MZ, Kang H, Kim JJ, [Shulman JM](https://profiles.viictr.org/profile/267488), [Westbrook TF](https://profiles.viictr.org/profile/267742), Elledge SJ, [Liu Z](https://profiles.viictr.org/profile/266153), [Botas J](https://profiles.viictr.org/profile/269750), [Zoghbi HY](https://profiles.viictr.org/profile/267945), V?zquez-V?lez GE. A Druggable Genome Screen Identifies Modifiers of a-Synuclein Levels via a Tiered Cross-Species Validation Approach. J Neurosci. 2018 10 24; 38(43):9286-9301. PMID: [30249792](//www.ncbi.nlm.nih.gov/pubmed/30249792); PMCID: [PMC6199406](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6199406).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30249792/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  10. Rousseaux MWC, Tschumperlin T, [Lu HC](https://profiles.viictr.org/profile/37476696), Lackey EP, Bondar VV, Wan YW, Tan Q, Adamski CJ, Friedrich J, Twaroski K, Chen W, Tolar J, Henzler C, Sharma A, **Bajic A** , Lin T, Duvick L, [Liu Z](https://profiles.viictr.org/profile/266153), [Sillitoe RV](https://profiles.viictr.org/profile/268552), [Zoghbi HY](https://profiles.viictr.org/profile/267945), Orr HT. ATXN1-CIC Complex Is the Primary Driver of Cerebellar Pathology in Spinocerebellar Ataxia Type 1 through a Gain-of-Function Mechanism. Neuron. 2018 03 21; 97(6):1235-1243.e5. PMID: [29526553](//www.ncbi.nlm.nih.gov/pubmed/29526553); PMCID: [PMC6422678](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6422678).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29526553/citedby/) Fields:
+
+Neu Neurology
+
+Translation:HumansAnimalsCells
+
+  11. Tang C, Chen K, **Bajic A** , Choi WT, Baluya DL, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043). Analytical Platforms and Techniques to Study Stem Cell Metabolism. Methods Mol Biol. 2018; 1842:265-281. PMID: [30196417](//www.ncbi.nlm.nih.gov/pubmed/30196417).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30196417/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansCells
+
+  12. Gillentine MA, Yin J, **Bajic A** , Zhang P, Cummock S, [Kim JJ](https://profiles.viictr.org/profile/3494074), Schaaf CP. Functional Consequences of CHRNA7 Copy-Number Alterations in Induced Pluripotent Stem Cells and Neural Progenitor Cells. Am J Hum Genet. 2017 Dec 07; 101(6):874-887. PMID: [29129316](//www.ncbi.nlm.nih.gov/pubmed/29129316); PMCID: [PMC5812918](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5812918).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29129316/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  13. Jiang X, Chen J, **Bajic A** , Zhang C, Song X, Carroll SL, Cai ZL, Tang M, Xue M, Cheng N, Schaaf CP, Li F, [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Ferreon ACM](https://profiles.viictr.org/profile/8065525), Xia F, Wang MC, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), Wang J. Corrigendum: Quantitative real-time imaging of glutathione. Nat Commun. 2017 10 03; 8:16163. PMID: [28972204](//www.ncbi.nlm.nih.gov/pubmed/28972204); PMCID: [PMC5628253](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5628253).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28972204/citedby/) Fields:
+
+Bio BiologySci Science
+
+  14. Jiang X, Chen J, **Bajic A** , Zhang C, Song X, Carroll SL, [Cai ZL](https://profiles.viictr.org/profile/8684236), Tang M, [Xue M](https://profiles.viictr.org/profile/7520380), [Cheng N](https://profiles.viictr.org/profile/266565), Schaaf CP, [Li F](https://profiles.viictr.org/profile/4897356), [MacKenzie KR](https://profiles.viictr.org/profile/15318040), [Ferreon ACM](https://profiles.viictr.org/profile/8065525), [Xia F](https://profiles.viictr.org/profile/3009907), Wang MC, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), [Wang J](https://profiles.viictr.org/profile/266173). Quantitative real-time imaging of glutathione. Nat Commun. 2017 07 13; 8:16087. PMID: [28703127](//www.ncbi.nlm.nih.gov/pubmed/28703127); PMCID: [PMC5511354](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5511354).
+
+Citations:
+[47](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28703127/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  15. Semerci F, Choi WT, **Bajic A** , Thakkar A, Encinas JM, Depreux F, Segil N, [Groves AK](https://profiles.viictr.org/profile/265955), [Maletic-Savatic M](https://profiles.viictr.org/profile/266043). Lunatic fringe-mediated Notch signaling regulates adult hippocampal neural stem cell maintenance. Elife. 2017 07 12; 6. PMID: [28699891](//www.ncbi.nlm.nih.gov/pubmed/28699891); PMCID: [PMC5531831](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5531831).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28699891/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  16. Cvoro A, **Bajic A** , Zhang A, Simon M, Golic I, Sieglaff DH, [Maletic-Savatic M](https://profiles.viictr.org/profile/266043), Korac A, Webb P. Ligand Independent and Subtype-Selective Actions of Thyroid Hormone Receptors in Human Adipose Derived Stem Cells. PLoS One. 2016; 11(10):e0164407. PMID: [27732649](//www.ncbi.nlm.nih.gov/pubmed/27732649); PMCID: [PMC5061422](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5061422).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27732649/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:HumansCells
+
+  17. Yang D, Scavuzzo MA, Chmielowiec J, Sharp R, **Bajic A** , Borowiak M. Enrichment of G2/M cell cycle phase in human pluripotent stem cells enhances HDR-mediated gene repair with customizable endonucleases. Sci Rep. 2016 Feb 18; 6:21264. PMID: [26887909](//www.ncbi.nlm.nih.gov/pubmed/26887909); PMCID: [PMC4757933](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4757933).
+
+Citations:
+[80](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26887909/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  18. Cavic M, Grozdanovic MM, **Bajic A** , Jankovic R, Andjus PR, Gavrovic-Jankulovic M. The effect of kiwifruit (Actinidia deliciosa) cysteine protease actinidin on the occludin tight junction network in T84 intestinal epithelial cells. Food Chem Toxicol. 2014 Oct; 72:61-8. PMID: [25042511](//www.ncbi.nlm.nih.gov/pubmed/25042511).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25042511/citedby/) Fields:
+
+Nut Nutritional SciencesTox Toxicology
+
+Translation:HumansAnimalsCells
+
+  19. **Bajic A** , Spasic M, Andjus PR, Savic D, Parabucki A, Nikolic-Kokic A, Spasojevic I. Fluctuating vs. continuous exposure to H2O2: the effects on mitochondrial membrane potential, intracellular calcium, and NF-?B in astroglia. PLoS One. 2013; 8(10):e76383. PMID: [24124554](//www.ncbi.nlm.nih.gov/pubmed/24124554); PMCID: [PMC3790680](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3790680).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24124554/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  20. Brisevac D, **Bajic A** , Bjelobaba I, Milosevic M, Stojiljkovic M, Beyer C, Clarner T, Kipp M, Nedeljkovic N. Expression of ecto-nucleoside triphosphate diphosphohydrolase1-3 (NTPDase1-3) by cortical astrocytes after exposure to pro-inflammatory factors in vitro. J Mol Neurosci. 2013 Nov; 51(3):871-9. PMID: [23990338](//www.ncbi.nlm.nih.gov/pubmed/23990338).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23990338/citedby/) Fields:
+
+Mol Molecular BiologyNeu Neurology
+
+Translation:AnimalsCells
+
+  21. Brisevac D, Bjelobaba I, **Bajic A** , Clarner T, Stojiljkovic M, Beyer C, Andjus P, Kipp M, Nedeljkovic N. Regulation of ecto-5'-nucleotidase (CD73) in cultured cortical astrocytes by different inflammatory factors. Neurochem Int. 2012 Oct; 61(5):681-8. PMID: [22750273](//www.ncbi.nlm.nih.gov/pubmed/22750273).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22750273/citedby/) Fields:
+
+Che ChemistryNeu Neurology
+
+Translation:AnimalsCells
+
+  22. Cavic M, Grozdanovic M, **Bajic A** , Srdic-Rajic T, Andjus PR, Gavrovic-Jankulovic M. Actinidin, a protease from kiwifruit, induces changes in morphology and adhesion of T84 intestinal epithelial cells. Phytochemistry. 2012 May; 77:46-52. PMID: [22257750](//www.ncbi.nlm.nih.gov/pubmed/22257750).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22257750/citedby/) Fields:
+
+Bot BotanyChe Chemistry
+
+Translation:HumansAnimalsCells
+
+  23. **Bajic A** , Zakrzewska J, Godjevac D, Andjus P, Jones DR, Spasic M, Spasojevic I. Relevance of the ability of fructose 1,6-bis(phosphate) to sequester ferrous but not ferric ions. Carbohydr Res. 2011 Feb 15; 346(3):416-20. PMID: [21232735](//www.ncbi.nlm.nih.gov/pubmed/21232735).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21232735/citedby/) Fields:
+
+Bio BiochemistryMet Metabolism
+
+Translation:HumansCells
+
+  24. Spasojevic I, **Bajic A** , Jovanovic K, Spasic M, Andjus P. Protective role of fructose in the metabolism of astroglial C6 cells exposed to hydrogen peroxide. Carbohydr Res. 2009 Sep 08; 344(13):1676-81. PMID: [19591975](//www.ncbi.nlm.nih.gov/pubmed/19591975).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19591975/citedby/) Fields:
+
+Bio BiochemistryMet Metabolism
+
+Translation:AnimalsCells
+
+  25. Bataveljic D, Djogo N, Zupunski L, **Bajic A** , Nicaise C, Pochet R, Bacic G, Andjus PR. Live monitoring of brain damage in the rat model of amyotrophic lateral sclerosis. Gen Physiol Biophys. 2009; 28 Spec No:212-8. PMID: [19893103](//www.ncbi.nlm.nih.gov/pubmed/19893103).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19893103/citedby/) Fields:
+
+Bio BiophysicsPhy Physiology
+
+Translation:HumansAnimals
+
+  26. Jorgacevski J, Stenovec M, Kreft M, **Bajic A** , Rituper B, Vardjan N, Stojilkovic S, Zorec R. Hypotonicity and peptide discharge from a single vesicle. Am J Physiol Cell Physiol. 2008 Sep; 295(3):C624-31. PMID: [18632733](//www.ncbi.nlm.nih.gov/pubmed/18632733); PMCID: [PMC2544434](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2544434).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18632733/citedby/) Fields:
+
+Cel Cell BiologyPhy Physiology
+
+Translation:AnimalsCells
+
+  27. Andjus PR, **Bajic A** , Zhu L, Strata P. Metabotropic glutamate receptor-mediated currents at the climbing fiber to Purkinje cell synapse. J Chem Inf Model. 2005 Nov-Dec; 45(6):1536-8. PMID: [16309250](//www.ncbi.nlm.nih.gov/pubmed/16309250).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16309250/citedby/) Fields:
+
+Che ChemistryMed Medical Informatics
+
+Translation:AnimalsCells
+
+  28. Andjus PR, **Bajic A** , Zhu L, Schachner M, Strata P. Short-term facilitation and depression in the cerebellum: some observations on wild-type and mutant rodents deficient in the extracellular matrix molecule tenascin C. Ann N Y Acad Sci. 2005 Jun; 1048:185-97. PMID: [16154932](//www.ncbi.nlm.nih.gov/pubmed/16154932).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16154932/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  29. Gacic Z, Damjanovic I, Konjevic D, **Bajic A** , Milosevic M, Andjus PR, Mickovic B, Andjus RK. Influence of photic environment on the form of the fish electroretinographic off-response. Ann N Y Acad Sci. 2005 Jun; 1048:437-40. PMID: [16154971](//www.ncbi.nlm.nih.gov/pubmed/16154971).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16154971/citedby/) Fields:
+
+Sci Science
+
+Translation:Animals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 29 publications over 14 distinct years, with a maximum of
+4 publications in
+2017](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,75,0,0,25,50,25,0,50,50,25,0,50,100,75,50,0,0,50,75,25&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2005| 3  
+2008| 1  
+2009| 2  
+2010| 1  
+2012| 2  
+2013| 2  
+2014| 1  
+2016| 2  
+2017| 4  
+2018| 3  
+2019| 2  
+2022| 2  
+2023| 3  
+2024| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+BAJIC's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (212)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Astrocytes](https://profiles.viictr.org/profile/241058)
+  * [Hydrogen Peroxide](https://profiles.viictr.org/profile/253262)
+  * [Membrane Potential, Mitochondrial](https://profiles.viictr.org/profile/248009)
+  * [Fructosediphosphates](https://profiles.viictr.org/profile/256895)
+  * [Ferrous Compounds](https://profiles.viictr.org/profile/253678)
+
+[Explore](https://profiles.viictr.org/profile/3010475/198)
+
+_
+
+Co-Authors (50)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [MALETIC-SAVATIC, MIRJANA](https://profiles.viictr.org/profile/266043)
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [Mendonca, Danielle](https://profiles.viictr.org/profile/37560956)
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [FERREON, JOSEPHINE](https://profiles.viictr.org/profile/8065537)
+
+[Explore](https://profiles.viictr.org/profile/3010475/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ZOGHBI, HUDA](https://profiles.viictr.org/profile/267945)
+  * [DENEEN, BENJAMIN](https://profiles.viictr.org/profile/266334)
+  * [JANKOVIC, JOSEPH](https://profiles.viictr.org/profile/267402)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+
+[Explore](https://profiles.viictr.org/profile/3010475/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DARILEK, SANDRA](https://profiles.viictr.org/profile/268941)
+  * [ELSEA, SARAH](https://profiles.viictr.org/profile/270128)
+  * [GU, YANGHONG](https://profiles.viictr.org/profile/3009510)
+  * [NEHRING, RALF](https://profiles.viictr.org/profile/3010136)
+  * [ROGERS, JEFFREY](https://profiles.viictr.org/profile/265901)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [BI, WEIMIN](https://profiles.viictr.org/profile/266446)
+  * [DARILEK, SANDRA](https://profiles.viictr.org/profile/268941)
+  * [DUDCHENKO, OLGA](https://profiles.viictr.org/profile/3010058)
+  * [MARCIANO, DAVID](https://profiles.viictr.org/profile/3009795)
+  * [WANG, YUE](https://profiles.viictr.org/profile/3494112)
+
+_
+

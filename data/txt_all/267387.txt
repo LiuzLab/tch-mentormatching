@@ -1,0 +1,675 @@
+## HIRAM GILBERT
+
+| | Title| Professor Emeritus  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Biochemistry and Molecular Pharmacology  
+Address| 5611 Purdue Ave  
+Dallas, TX 75209  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HqIi4GiJB4L5RIr%2f9FvAKbnCIhWf&rnd=8a6f57a2-9163-4c35-bd08-622dd605004b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=267387)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=267387&cachekey=12baf927-bd70-46b7-9431-ac2c2322284f)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+K12GM084897 (SMITH, CAROLYN LOUISE)Aug 1, 2008 - Jul 31, 2018NIH  
+Research Education and Career Horizons Program  
+Role: Co-Principal Investigator  
+---  
+  
+* * *  
+  
+R01GM040379 (GILBERT, HIRAM F)Jul 1, 1988 - Nov 30, 2009NIH  
+Catalysis of Thiol-Disulfide Exchange  
+Role: Principal Investigator  
+  
+* * *  
+  
+K04HL001020 (GILBERT, HIRAM F)Jul 1, 1982 - Jun 30, 1987NIH  
+REDOX CONTROL OF HMG-COA REDUCTASE ACTIVITY  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01HL028521 (GILBERT, HIRAM F)Apr 1, 1982 - Dec 31, 1995NIH  
+REDOX REGULATION OF HMG COA REDUCTASE  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01GM025347 (GILBERT, HIRAM F)Dec 1, 1978 - Nov 30, 1987NIH  
+ENZYME CATALYSIS OF PROTON TRANSFER FROM CARBON  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Stojanoski V, Chow DC, Hu L, Sankaran B, **Gilbert HF** , Prasad BV, [Palzkill T](https://profiles.viictr.org/profile/269759). A triple mutant in the O-loop of TEM-1 ?-lactamase changes the substrate profile via a large conformational change and an altered general base for catalysis. J Biol Chem. 2015 Apr 17; 290(16):10382-94. PMID: [25713062](//www.ncbi.nlm.nih.gov/pubmed/25713062); PMCID: [PMC4400348](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4400348).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25713062/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  2. Cardenas AM, Brown NG, Horton LB, Sankaran B, Prasad BV, **Gilbert HF** , [Palzkill T](https://profiles.viictr.org/profile/269759), Adamski CJ. Molecular basis for the catalytic specificity of the CTX-M extended-spectrum ?-lactamases. Biochemistry. 2015 Jan 20; 54(2):447-57. PMID: [25489790](//www.ncbi.nlm.nih.gov/pubmed/25489790); PMCID: [PMC4303298](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4303298).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25489790/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  3. Yuan J, Cardenas AM, **Gilbert HF** , [Palzkill T](https://profiles.viictr.org/profile/269759). Determination of the amino acid sequence requirements for catalysis by the highly proficient orotidine monophosphate decarboxylase. Protein Sci. 2011 Nov; 20(11):1891-906. PMID: [21898650](//www.ncbi.nlm.nih.gov/pubmed/21898650); PMCID: [PMC3267953](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3267953).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21898650/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  4. Arredondo SA, Chen TF, Riggs AF, **Gilbert HF** , Georgiou G. Role of dimerization in the catalytic properties of the Escherichia coli disulfide isomerase DsbC. J Biol Chem. 2009 Sep 04; 284(36):23972-9. PMID: [19581640](//www.ncbi.nlm.nih.gov/pubmed/19581640); PMCID: [PMC2781991](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2781991).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19581640/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  5. Kim JH, Zhao Y, Pan X, He X, **Gilbert HF**. The unfolded protein response is necessary but not sufficient to compensate for defects in disulfide isomerization. J Biol Chem. 2009 Apr 17; 284(16):10400-8. PMID: [19233841](//www.ncbi.nlm.nih.gov/pubmed/19233841); PMCID: [PMC2667727](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2667727).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19233841/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  6. Arredondo S, Segatori L, **Gilbert HF** , Georgiou G. De novo design and evolution of artificial disulfide isomerase enzymes analogous to the bacterial DsbC. J Biol Chem. 2008 Nov 14; 283(46):31469-76. PMID: [18782764](//www.ncbi.nlm.nih.gov/pubmed/18782764); PMCID: [PMC2581571](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2581571).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18782764/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  7. Segatori L, Murphy L, Arredondo S, Kadokura H, **Gilbert H** , Beckwith J, Georgiou G. Conserved role of the linker alpha-helix of the bacterial disulfide isomerase DsbC in the avoidance of misoxidation by DsbB. J Biol Chem. 2006 Feb 24; 281(8):4911-9. PMID: [16280324](//www.ncbi.nlm.nih.gov/pubmed/16280324).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16280324/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  8. Samudio I, [Konopleva M](https://profiles.viictr.org/profile/12583701), Hail N, Shi YX, McQueen T, Hsu T, Evans R, Honda T, Gribble GW, Sporn M, **Gilbert HF** , Safe S, [Andreeff M](https://profiles.viictr.org/profile/12582880). 2-Cyano-3,12-dioxooleana-1,9-dien-28-imidazolide (CDDO-Im) directly targets mitochondrial glutathione to induce apoptosis in pancreatic cancer. J Biol Chem. 2005 Oct 28; 280(43):36273-82. PMID: [16118208](//www.ncbi.nlm.nih.gov/pubmed/16118208).
+
+Citations:
+[51](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16118208/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansCells
+
+  9. Xiao R, Holmgren A, **Gilbert HF** , Lundstr?m-Ljung J. Catalysis of thiol/disulfide exchange. Glutaredoxin 1 and protein-disulfide isomerase use different mechanisms to enhance oxidase and reductase activities. J Biol Chem. 2005 Jun 03; 280(22):21099-106. PMID: [15814611](//www.ncbi.nlm.nih.gov/pubmed/15814611).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15814611/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  10. Wilkinson B, Xiao R, **Gilbert HF**. A structural disulfide of yeast protein-disulfide isomerase destabilizes the active site disulfide of the N-terminal thioredoxin domain. J Biol Chem. 2005 Mar 25; 280(12):11483-7. PMID: [15649885](//www.ncbi.nlm.nih.gov/pubmed/15649885).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15649885/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  11. Xiao R, Wilkinson B, Solovyov A, Winther JR, Holmgren A, **Gilbert HF** , Lundstr?m-Ljung J. The contributions of protein disulfide isomerase and its homologues to oxidative protein folding in the yeast endoplasmic reticulum. J Biol Chem. 2004 Nov 26; 279(48):49780-6. PMID: [15377672](//www.ncbi.nlm.nih.gov/pubmed/15377672).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15377672/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  12. Segatori L, Paukstelis PJ, **Gilbert HF** , Georgiou G. Engineered DsbC chimeras catalyze both protein oxidation and disulfide-bond isomerization in Escherichia coli: Reconciling two competing pathways. Proc Natl Acad Sci U S A. 2004 Jul 06; 101(27):10018-23. PMID: [15220477](//www.ncbi.nlm.nih.gov/pubmed/15220477); PMCID: [PMC454158](//www.ncbi.nlm.nih.gov/pmc/articles/PMC454158).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15220477/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  13. Solovyov A, Xiao R, **Gilbert HF**. Sulfhydryl oxidation, not disulfide isomerization, is the principal function of protein disulfide isomerase in yeast Saccharomyces cerevisiae. J Biol Chem. 2004 Aug 13; 279(33):34095-100. PMID: [15175335](//www.ncbi.nlm.nih.gov/pubmed/15175335).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15175335/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  14. Wilkinson B, **Gilbert HF**. Protein disulfide isomerase. Biochim Biophys Acta. 2004 Jun 01; 1699(1-2):35-44. PMID: [15158710](//www.ncbi.nlm.nih.gov/pubmed/15158710).
+
+Citations:
+[285](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15158710/citedby/)
+Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:HumansAnimalsCells
+
+  15. Solovyov A, **Gilbert HF**. Zinc-dependent dimerization of the folding catalyst, protein disulfide isomerase. Protein Sci. 2004 Jul; 13(7):1902-7. PMID: [15169950](//www.ncbi.nlm.nih.gov/pubmed/15169950); PMCID: [PMC2279941](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2279941).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15169950/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  16. Schwaller M, Wilkinson B, **Gilbert HF**. Reduction-reoxidation cycles contribute to catalysis of disulfide isomerization by protein-disulfide isomerase. J Biol Chem. 2003 Feb 28; 278(9):7154-9. PMID: [12486139](//www.ncbi.nlm.nih.gov/pubmed/12486139).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12486139/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  17. Liu CW, Millen L, Roman TB, Xiong H, **Gilbert HF** , Noiva R, DeMartino GN, Thomas PJ. Conformational remodeling of proteasomal substrates by PA700, the 19 S regulatory complex of the 26 S proteasome. J Biol Chem. 2002 Jul 26; 277(30):26815-20. PMID: [12011044](//www.ncbi.nlm.nih.gov/pubmed/12011044).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12011044/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  18. Zheng J, **Gilbert HF**. Discrimination between native and non-native disulfides by protein-disulfide isomerase. J Biol Chem. 2001 May 11; 276(19):15747-52. PMID: [11278905](//www.ncbi.nlm.nih.gov/pubmed/11278905).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11278905/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  19. Primm TP, **Gilbert HF**. Hormone binding by protein disulfide isomerase, a high capacity hormone reservoir of the endoplasmic reticulum. J Biol Chem. 2001 Jan 05; 276(1):281-6. PMID: [11035025](//www.ncbi.nlm.nih.gov/pubmed/11035025).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11035025/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  20. Sideraki V, Huang W, Palzkill T, **Gilbert HF**. A secondary drug resistance mutation of TEM-1 beta-lactamase that suppresses misfolding and aggregation. Proc Natl Acad Sci U S A. 2001 Jan 02; 98(1):283-8. PMID: [11114163](//www.ncbi.nlm.nih.gov/pubmed/11114163); PMCID: [PMC14582](//www.ncbi.nlm.nih.gov/pmc/articles/PMC14582).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11114163/citedby/) Fields:
+
+Sci Science
+
+Translation:Cells
+
+  21. Sideraki V, **Gilbert HF**. Mechanism of the antichaperone activity of protein disulfide isomerase: facilitated assembly of large, insoluble aggregates of denatured lysozyme and PDI. Biochemistry. 2000 Feb 08; 39(5):1180-8. PMID: [10653666](//www.ncbi.nlm.nih.gov/pubmed/10653666).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10653666/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  22. **Gilbert HF**. Protein disulfide isomerase. Methods Enzymol. 1998; 290:26-50. PMID: [9534149](//www.ncbi.nlm.nih.gov/pubmed/9534149).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9534149/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  23. Puig A, Primm TP, Surendran R, Lee JC, Ballard KD, Orkiszewski RS, Makarov V, **Gilbert HF**. A 21-kDa C-terminal fragment of protein-disulfide isomerase has isomerase, chaperone, and anti-chaperone activities. J Biol Chem. 1997 Dec 26; 272(52):32988-94. PMID: [9407079](//www.ncbi.nlm.nih.gov/pubmed/9407079).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9407079/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  24. **Gilbert HF**. Protein disulfide isomerase and assisted protein folding. J Biol Chem. 1997 Nov 21; 272(47):29399-402. PMID: [9367991](//www.ncbi.nlm.nih.gov/pubmed/9367991).
+
+Citations:
+[81](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9367991/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  25. Walker KW, **Gilbert HF**. Scanning and escape during protein-disulfide isomerase-assisted protein folding. J Biol Chem. 1997 Apr 04; 272(14):8845-8. PMID: [9082998](//www.ncbi.nlm.nih.gov/pubmed/9082998).
+
+Citations:
+[43](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9082998/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  26. Primm TP, Walker KW, **Gilbert HF**. Facilitated protein aggregation. Effects of calcium on the chaperone and anti-chaperone activity of protein disulfide-isomerase. J Biol Chem. 1996 Dec 27; 271(52):33664-9. PMID: [8969236](//www.ncbi.nlm.nih.gov/pubmed/8969236).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8969236/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  27. Chang Z, Primm TP, Jakana J, Lee IH, [Serysheva I](https://profiles.viictr.org/profile/266963), Chiu W, **Gilbert HF** , [Quiocho FA](https://profiles.viictr.org/profile/266875). Mycobacterium tuberculosis 16-kDa antigen (Hsp16.3) functions as an oligomeric structure in vitro to suppress thermal aggregation. J Biol Chem. 1996 Mar 22; 271(12):7218-23. PMID: [8636160](//www.ncbi.nlm.nih.gov/pubmed/8636160).
+
+Citations:
+[64](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8636160/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  28. Walker KW, Lyles MM, **Gilbert HF**. Catalysis of oxidative protein folding by mutants of protein disulfide isomerase with a single active-site cysteine. Biochemistry. 1996 Feb 13; 35(6):1972-80. PMID: [8639681](//www.ncbi.nlm.nih.gov/pubmed/8639681).
+
+Citations:
+[50](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8639681/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  29. Walker KW, **Gilbert HF**. Oxidation of kinetically trapped thiols by protein disulfide isomerase. Biochemistry. 1995 Oct 17; 34(41):13642-50. PMID: [7577954](//www.ncbi.nlm.nih.gov/pubmed/7577954).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7577954/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  30. **Gilbert HF**. Thiol/disulfide exchange equilibria and disulfide bond stability. Methods Enzymol. 1995; 251:8-28. PMID: [7651233](//www.ncbi.nlm.nih.gov/pubmed/7651233).
+
+Citations:
+[130](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7651233/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  31. Lyles MM, **Gilbert HF**. Mutations in the thioredoxin sites of protein disulfide isomerase reveal functional nonequivalence of the N- and C-terminal domains. J Biol Chem. 1994 Dec 09; 269(49):30946-52. PMID: [7983029](//www.ncbi.nlm.nih.gov/pubmed/7983029).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7983029/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  32. Walker KW, **Gilbert HF**. Effect of redox environment on the in vitro and in vivo folding of RTEM-1 beta-lactamase and Escherichia coli alkaline phosphatase. J Biol Chem. 1994 Nov 11; 269(45):28487-93. PMID: [7961790](//www.ncbi.nlm.nih.gov/pubmed/7961790).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7961790/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  33. Puig A, **Gilbert HF**. Anti-chaperone behavior of BiP during the protein disulfide isomerase-catalyzed refolding of reduced denatured lysozyme. J Biol Chem. 1994 Oct 14; 269(41):25889-96. PMID: [7929293](//www.ncbi.nlm.nih.gov/pubmed/7929293).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7929293/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  34. **Gilbert HF**. Protein chaperones and protein folding. Curr Opin Biotechnol. 1994 Oct; 5(5):534-9. PMID: [7765469](//www.ncbi.nlm.nih.gov/pubmed/7765469).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7765469/citedby/) Fields:
+
+Bio Biotechnology
+
+Translation:AnimalsCells
+
+  35. Puig A, Lyles MM, Noiva R, **Gilbert HF**. The role of the thiol/disulfide centers and peptide binding site in the chaperone and anti-chaperone activities of protein disulfide isomerase. J Biol Chem. 1994 Jul 22; 269(29):19128-35. PMID: [7913469](//www.ncbi.nlm.nih.gov/pubmed/7913469).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7913469/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  36. Morjana NA, **Gilbert HF**. Catalysis of protein folding by agarose-immobilized protein disulfide isomerase. Protein Expr Purif. 1994 Apr; 5(2):144-8. PMID: [8054846](//www.ncbi.nlm.nih.gov/pubmed/8054846).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8054846/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  37. Puig A, **Gilbert HF**. Protein disulfide isomerase exhibits chaperone and anti-chaperone activity in the oxidative refolding of lysozyme. J Biol Chem. 1994 Mar 11; 269(10):7764-71. PMID: [7907332](//www.ncbi.nlm.nih.gov/pubmed/7907332).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7907332/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  38. Morjana NA, McKeone BJ, **Gilbert HF**. Guanidine hydrochloride stabilization of a partially unfolded intermediate during the reversible denaturation of protein disulfide isomerase. Proc Natl Acad Sci U S A. 1993 Mar 15; 90(6):2107-11. PMID: [8460117](//www.ncbi.nlm.nih.gov/pubmed/8460117); PMCID: [PMC46034](//www.ncbi.nlm.nih.gov/pmc/articles/PMC46034).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8460117/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  39. Cappel RE, **Gilbert HF**. Oxidative inactivation of 3-hydroxy-3-methylglutaryl-coenzyme A reductase and subunit cross-linking involve different dithiol/disulfide centers. J Biol Chem. 1993 Jan 05; 268(1):342-8. PMID: [8416941](//www.ncbi.nlm.nih.gov/pubmed/8416941).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/8416941/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  40. Lu X, **Gilbert HF** , Harper JW. Conserved residues flanking the thiol/disulfide centers of protein disulfide isomerase are not essential for catalysis of thiol/disulfide exchange. Biochemistry. 1992 May 05; 31(17):4205-10. PMID: [1567868](//www.ncbi.nlm.nih.gov/pubmed/1567868).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1567868/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  41. Chung PM, Cappel RE, **Gilbert HF**. Inhibition of glutathione disulfide reductase by glutathione. Arch Biochem Biophys. 1991 Jul; 288(1):48-53. PMID: [1898023](//www.ncbi.nlm.nih.gov/pubmed/1898023).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1898023/citedby/) Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:Animals
+
+  42. Morjana NA, **Gilbert HF**. Effect of protein and peptide inhibitors on the activity of protein disulfide isomerase. Biochemistry. 1991 May 21; 30(20):4985-90. PMID: [2036365](//www.ncbi.nlm.nih.gov/pubmed/2036365).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2036365/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  43. **Gilbert HF** , Kruzel ML, Lyles MM, Harper JW. Expression and purification of recombinant rat protein disulfide isomerase from Escherichia coli. Protein Expr Purif. 1991 Apr-Jun; 2(2-3):194-8. PMID: [1821789](//www.ncbi.nlm.nih.gov/pubmed/1821789).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1821789/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  44. Lyles MM, **Gilbert HF**. Catalysis of the oxidative folding of ribonuclease A by protein disulfide isomerase: pre-steady-state kinetics and the utilization of the oxidizing equivalents of the isomerase. Biochemistry. 1991 Jan 22; 30(3):619-25. PMID: [1988051](//www.ncbi.nlm.nih.gov/pubmed/1988051).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1988051/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  45. Lyles MM, **Gilbert HF**. Catalysis of the oxidative folding of ribonuclease A by protein disulfide isomerase: dependence of the rate on the composition of the redox buffer. Biochemistry. 1991 Jan 22; 30(3):613-9. PMID: [1988050](//www.ncbi.nlm.nih.gov/pubmed/1988050).
+
+Citations:
+[110](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1988050/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  46. Cappel RE, **Gilbert HF**. The effects of NADPH and 3-hydroxy-3-methylglutaryl-CoA on the thiol/disulfide redox behavior of rat liver microsomal 3-hydroxy-3-methylglutaryl-CoA reductase. J Biol Chem. 1990 Sep 15; 265(26):15464-70. PMID: [2394734](//www.ncbi.nlm.nih.gov/pubmed/2394734).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  47. **Gilbert HF**. Molecular and cellular aspects of thiol-disulfide exchange. Adv Enzymol Relat Areas Mol Biol. 1990; 63:69-172. PMID: [2407068](//www.ncbi.nlm.nih.gov/pubmed/2407068).
+
+Citations:
+[218](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2407068/citedby/) Fields:
+
+Bio BiochemistryMol Molecular Biology
+
+Translation:Cells
+
+  48. **Gilbert HF**. Catalysis of thiol/disulfide exchange: single-turnover reduction of protein disulfide-isomerase by glutathione and catalysis of peptide disulfide reduction. Biochemistry. 1989 Sep 05; 28(18):7298-305. PMID: [2819070](//www.ncbi.nlm.nih.gov/pubmed/2819070).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2819070/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  49. Izbicka E, **Gilbert HF**. Examination of the role of thiolimidate formation in the cleavage of acetoacetyl-CoA catalyzed by thiolase I from porcine heart. Arch Biochem Biophys. 1989 Aug 01; 272(2):476-80. PMID: [2568819](//www.ncbi.nlm.nih.gov/pubmed/2568819).
+
+Citations:  Fields:
+
+Bio BiochemistryBio Biophysics
+
+Translation:AnimalsCells
+
+  50. Cappel RE, **Gilbert HF**. The effects of mevinolin on the thiol/disulfide exchange between 3-hydroxy-3-methyglutaryl-coenzyme A reductase and glutathione. J Biol Chem. 1989 Jun 05; 264(16):9180-7. PMID: [2722823](//www.ncbi.nlm.nih.gov/pubmed/2722823).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2722823/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  51. Cappel RE, **Gilbert HF**. Thiol/disulfide exchange between 3-hydroxy-3-methylglutaryl-CoA reductase and glutathione. A thermodynamically facile dithiol oxidation. J Biol Chem. 1988 Sep 05; 263(25):12204-12. PMID: [3410841](//www.ncbi.nlm.nih.gov/pubmed/3410841).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3410841/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  52. Clancey CJ, **Gilbert HF**. Thiol/disulfide exchange in the thioredoxin-catalyzed reductive activation of spinach chloroplast fructose-1,6-bisphosphatase. Kinetics and thermodynamics. J Biol Chem. 1987 Oct 05; 262(28):13545-9. PMID: [2820974](//www.ncbi.nlm.nih.gov/pubmed/2820974).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2820974/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 37 publications over 15 distinct years, with a maximum of
+7 publications in
+1994](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|7&cht=bvs&chd=t:100,29,43,43,14,0,14,43,29,0,71,57,0,0,14,29,0,14,0,0,14,14,0,0,0,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 7  
+1995| 2  
+1996| 3  
+1997| 3  
+1998| 1  
+2000| 1  
+2001| 3  
+2002| 2  
+2004| 5  
+2005| 4  
+2008| 1  
+2009| 2  
+2011| 1  
+2014| 1  
+2015| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+GILBERT's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (232)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Protein Disulfide-Isomerases](https://profiles.viictr.org/profile/247914)
+  * [Protein Folding](https://profiles.viictr.org/profile/243986)
+  * [Isomerases](https://profiles.viictr.org/profile/264616)
+  * [Disulfides](https://profiles.viictr.org/profile/252115)
+  * [Oxidation-Reduction](https://profiles.viictr.org/profile/249791)
+
+[Explore](https://profiles.viictr.org/profile/267387/198)
+
+_
+
+Co-Authors (5)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [ANDREEFF, MICHAEL](https://profiles.viictr.org/profile/12582880)
+  * [QUIOCHO, FLORANTE](https://profiles.viictr.org/profile/266875)
+  * [KONOPLEVA, MARINA](https://profiles.viictr.org/profile/12583701)
+  * [SERYSHEVA, IRINA](https://profiles.viictr.org/profile/266963)
+
+[Explore](https://profiles.viictr.org/profile/267387/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [TAINER, JOHN](https://profiles.viictr.org/profile/17440132)
+  * [ROSENBERG, SUSAN](https://profiles.viictr.org/profile/268344)
+  * [LICHTARGE, OLIVIER](https://profiles.viictr.org/profile/269815)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+
+[Explore](https://profiles.viictr.org/profile/267387/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [JOHNSTON, CHAD](https://profiles.viictr.org/profile/37104217)
+  * [PALZKILL, TIMOTHY](https://profiles.viictr.org/profile/269759)
+  * [QUIOCHO, FLORANTE](https://profiles.viictr.org/profile/266875)
+  * [VAN NOSTRAND, ERIC](https://profiles.viictr.org/profile/30426460)
+  * [WOTRING, VIRGINIA](https://profiles.viictr.org/profile/13152882)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ8X6kvwAuaoNZLIG84hzbdNB1J8saJBnpNLI4nbH3OPCXSPX4+WvVOPNsd/Vh3EQ0OG2YEh7DrObehr24JiO2xIQNFR8cTjuf1gWwQlgb8RuWm2F2GaEMfaCarVXOP1y6uUai6lFcUxXaSMi7j4WrJThhEHx3QozpwX1tvs6vP4VonDeNgjTf9zsxn/a+aiGXsECtLzjOZOcoQmTnMC6S1C/PA+m8mzbkdRKr03NmSFJVimJpy2qJeWa9SQC06LGXui37e1KFy8tb5GjAEJc+dGTmD6EEI3oOZmuOACPokSFA==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [KARLIN, KRISTEN](https://profiles.viictr.org/profile/1826677)
+  * [MALOVANNAYA, ANNA](https://profiles.viictr.org/profile/3010185)
+  * [QUIOCHO, FLORANTE](https://profiles.viictr.org/profile/266875)
+  * [WANG, JIN](https://profiles.viictr.org/profile/266173)
+  * [ZAGAAR, MUNDER](https://profiles.viictr.org/profile/3010576)
+
+_
+

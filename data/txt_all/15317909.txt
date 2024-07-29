@@ -1,0 +1,317 @@
+## ASHUTOSH PANDEY
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=F7g49HHIM4O7do7j5H7bCraPKl%2bPkzA%3d&rnd=d38a50bc-e034-4b59-ac28-2225e7c4f965)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=15317909)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Pandey A** , Galeone A, Han SY, Story BA, Consonni G, Mueller WF, Steinmetz LM, Vaccari T, [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Gut barrier defects, intestinal immune hyperactivation and enhanced lipid catabolism drive lethality in NGLY1-deficient Drosophila. Nat Commun. 2023 09 13; 14(1):5667. PMID: [37704604](//www.ncbi.nlm.nih.gov/pubmed/37704604); PMCID: [PMC10499810](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10499810).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37704604/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  2. **Pandey A** , Galeone A, Han SY, Story BA, Consonni G, Mueller WF, Steinmetz LM, Vaccari T, [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Gut barrier defects, increased intestinal innate immune response, and enhanced lipid catabolism drive lethality in N -glycanase 1 deficient Drosophila. bioRxiv. 2023 Apr 07. PMID: [37066398](//www.ncbi.nlm.nih.gov/pubmed/37066398); PMCID: [PMC10104161](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10104161).
+
+Citations:
+
+  3. **Pandey A** , Mishra AK. Immunomodulation, Toxicity, and Therapeutic Potential of Nanoparticles. BioTech (Basel). 2022 Sep 09; 11(3). PMID: [36134916](//www.ncbi.nlm.nih.gov/pubmed/36134916); PMCID: [PMC9497228](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9497228).
+
+Citations:
+
+  4. **Pandey A** , Adams JM, [Han SY](https://profiles.viictr.org/profile/1826522), [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). NGLY1 Deficiency, a Congenital Disorder of Deglycosylation: From Disease Gene Function to Pathophysiology. Cells. 2022 03 29; 11(7). PMID: [35406718](//www.ncbi.nlm.nih.gov/pubmed/35406718); PMCID: [PMC8997433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8997433).
+
+Citations:  Fields:
+
+Bio BiophysicsCel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  5. **Pandey A** , [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Tracing the NGLY1 footprints: insights from Drosophila. J Biochem. 2022 Feb 21; 171(2):153-160. PMID: [34270726](//www.ncbi.nlm.nih.gov/pubmed/34270726); PMCID: [PMC9005052](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9005052).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34270726/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimals
+
+  6. Lee J, **Pandey AK** , Venkatesh S, Thilagavathi J, Honda T, Singh K, Suzuki CK. Inhibition of mitochondrial LonP1 protease by allosteric blockade of ATP binding and hydrolysis via CDDO and its derivatives. J Biol Chem. 2022 03; 298(3):101719. PMID: [35151690](//www.ncbi.nlm.nih.gov/pubmed/35151690); PMCID: [PMC8921294](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8921294).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  7. Naik J, Rajput R, Pucker B, Stracke R, **Pandey A**. The R2R3-MYB transcription factor MtMYB134 orchestrates flavonol biosynthesis in Medicago truncatula. Plant Mol Biol. 2021 May; 106(1-2):157-172. PMID: [33704646](//www.ncbi.nlm.nih.gov/pubmed/33704646).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33704646/citedby/) Fields:
+
+Bot BotanyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  8. **Pandey A** , Niknejad N, [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Multifaceted regulation of Notch signaling by glycosylation. Glycobiology. 2021 01 09; 31(1):8-28. PMID: [32472127](//www.ncbi.nlm.nih.gov/pubmed/32472127); PMCID: [PMC7799146](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7799146).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32472127/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  9. [Han SY](https://profiles.viictr.org/profile/1826522), **Pandey A** , Moore T, Galeone A, Duraine L, Cowan TM, [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). A conserved role for AMP-activated protein kinase in NGLY1 deficiency. PLoS Genet. 2020 12; 16(12):e1009258. PMID: [33315951](//www.ncbi.nlm.nih.gov/pubmed/33315951); PMCID: [PMC7769621](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7769621).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33315951/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  10. Galeone A, Adams JM, Matsuda S, Presa MF, **Pandey A** , [Han SY](https://profiles.viictr.org/profile/1826522), Tachida Y, Hirayama H, Vaccari T, Suzuki T, Lutz CM, Affolter M, Zuberi A, [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Regulation of BMP4/Dpp retrotranslocation and signaling by deglycosylation. Elife. 2020 07 28; 9. PMID: [32720893](//www.ncbi.nlm.nih.gov/pubmed/32720893); PMCID: [PMC7394544](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7394544).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32720893/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  11. **Pandey A** , Harvey BM, Lopez MF, Ito A, Haltiwanger RS, [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Glycosylation of Specific Notch EGF Repeats by O-Fut1 and Fringe Regulates Notch Signaling in Drosophila. Cell Rep. 2019 11 12; 29(7):2054-2066.e6. PMID: [31722217](//www.ncbi.nlm.nih.gov/pubmed/31722217); PMCID: [PMC6866671](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6866671).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31722217/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  12. **Pandey A** , [Li-Kroeger D](https://profiles.viictr.org/profile/3010457), Sethi MK, [Lee TV](https://profiles.viictr.org/profile/3010104), Buettner FF, Bakker H, [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Sensitized genetic backgrounds reveal differential roles for EGF repeat xylosyltransferases in Drosophila Notch signaling. Glycobiology. 2018 11 01; 28(11):849-859. PMID: [30169771](//www.ncbi.nlm.nih.gov/pubmed/30169771); PMCID: [PMC6454539](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6454539).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30169771/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:HumansAnimalsCells
+
+  13. **Pandey A** , [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Cell Aggregation Assays to Evaluate the Binding of the Drosophila Notch with Trans-Ligands and its Inhibition by Cis-Ligands. J Vis Exp. 2018 01 02; (131). PMID: [29364239](//www.ncbi.nlm.nih.gov/pubmed/29364239); PMCID: [PMC5875548](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5875548).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29364239/citedby/) Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Animals
+
+  14. Willems SM, Wright DJ, Day FR, Trajanoska K, Joshi PK, Morris JA, Matteini AM, Garton FC, Grarup N, Oskolkov N, Thalamuthu A, Mangino M, Liu J, Demirkan A, Lek M, Xu L, Wang G, Oldmeadow C, Gaulton KJ, Lotta LA, Miyamoto-Mikami E, Rivas MA, White T, Loh PR, Aadahl M, Amin N, Attia JR, Austin K, Benyamin B, Brage S, Cheng YC, Cieszczyk P, Derave W, Eriksson KF, Eynon N, Linneberg A, Lucia A, Massidda M, Mitchell BD, Miyachi M, Murakami H, Padmanabhan S, **Pandey A** , Papadimitriou I, Rajpal DK, Sale C, Schnurr TM, Sessa F, Shrine N, Tobin MD, Varley I, Wain LV, Wray NR, Lindgren CM, MacArthur DG, Waterworth DM, McCarthy MI, Pedersen O, Khaw KT, Kiel DP, GEFOS Any-Type of Fracture Consortium, Pitsiladis Y, Fuku N, Franks PW, North KN, van Duijn CM, Mather KA, Hansen T, Hansson O, Spector T, Murabito JM, Richards JB, Rivadeneira F, Langenberg C, Perry JRB, Wareham NJ, Scott RA. Large-scale GWAS identifies multiple loci for hand grip strength providing biological insights into muscular fitness. Nat Commun. 2017 07 12; 8:16015. PMID: [29313844](//www.ncbi.nlm.nih.gov/pubmed/29313844); PMCID: [PMC5510175](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5510175).
+
+Citations:
+
+  15. **Pandey AK** , Dixit U, Kholodovych V, Comollo TW, Pandey VN. The ?1'-?2' Motif of the RNase H Domain of Human Immunodeficiency Virus Type 1 Reverse Transcriptase Is Responsible for Conferring Open Conformation to the p66 Subunit by Displacing the Connection Domain from the Polymerase Cleft. Biochemistry. 2017 07 11; 56(27):3434-3442. PMID: [28627879](//www.ncbi.nlm.nih.gov/pubmed/28627879).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:Cells
+
+  16. [Lee TV](https://profiles.viictr.org/profile/3010104), **Pandey A** , [Jafar-Nejad H](https://profiles.viictr.org/profile/269877). Xylosylation of the Notch receptor preserves the balance between its activation by trans-Delta and inhibition by cis-ligands in Drosophila. PLoS Genet. 2017 04; 13(4):e1006723. PMID: [28394891](//www.ncbi.nlm.nih.gov/pubmed/28394891); PMCID: [PMC5402982](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5402982).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28394891/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  17. Wang X, **Pandey AK** , Mulligan MK, Williams EG, Mozhui K, Li Z, Jovaisaite V, Quarles LD, Xiao Z, Huang J, Capra JA, Chen Z, Taylor WL, Bastarache L, Niu X, Pollard KS, Ciobanu DC, Reznik AO, Tishkov AV, Zhulin IB, Peng J, Nelson SF, Denny JC, Auwerx J, Lu L, Williams RW. Joint mouse-human phenome-wide association to test gene function and disease risk. Nat Commun. 2016 Feb 02; 7:10464. PMID: [26833085](//www.ncbi.nlm.nih.gov/pubmed/26833085); PMCID: [PMC4740880](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4740880).
+
+Citations:
+
+  18. Lu L, **Pandey AK** , Houseal MT, Mulligan MK. The Genetic Architecture of Murine Glutathione Transferases. PLoS One. 2016; 11(2):e0148230. PMID: [26829228](//www.ncbi.nlm.nih.gov/pubmed/26829228); PMCID: [PMC4734686](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4734686).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26829228/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  19. **Pandey A** , Khatoon R, Saini S, Vimal D, Patel DK, Narayan G, Chowdhuri DK. Efficacy of methuselah gene mutation toward tolerance of dichlorvos exposure in Drosophila melanogaster. Free Radic Biol Med. 2015 Jun; 83:54-65. PMID: [25746179](//www.ncbi.nlm.nih.gov/pubmed/25746179).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25746179/citedby/) Fields:
+
+Bio BiochemistryMed Medicine (General)
+
+Translation:Animals
+
+  20. **Pandey A** , Williams EG, Mouchiroud L, Frochaux M, Andreux PA, Deplancke B, Auwerx J. An evolutionarily conserved role for the aryl hydrocarbon receptor in the regulation of movement. PLoS Genet. 2014 Sep; 10(9):e1004673. PMID: [25255223](//www.ncbi.nlm.nih.gov/pubmed/25255223); PMCID: [PMC4177751](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4177751).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25255223/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimalsCells
+
+  21. **Pandey A** , Vimal D, Chandra S, Saini S, Narayan G, Kar Chowdhuri D. Long-term dietary exposure to low concentration of dichloroacetic acid promoted longevity and attenuated cellular and functional declines in aged Drosophila melanogaster. Age (Dordr). 2014 Jun; 36(3):9628. PMID: [24535708](//www.ncbi.nlm.nih.gov/pubmed/24535708); PMCID: [PMC4082589](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4082589).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24535708/citedby/) Fields:
+
+Ger Geriatrics
+
+Translation:Animals
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 21 publications over 10 distinct years, with a maximum of
+4 publications in
+2022](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,25,50,75,50,25,50,50,100,50,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2014| 2  
+2015| 1  
+2016| 2  
+2017| 3  
+2018| 2  
+2019| 1  
+2020| 2  
+2021| 2  
+2022| 4  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+PANDEY's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (155)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Drosophila](https://profiles.viictr.org/profile/264471)
+  * [Receptors, Notch](https://profiles.viictr.org/profile/259668)
+  * [Congenital Disorders of Glycosylation](https://profiles.viictr.org/profile/262959)
+  * [Drosophila Proteins](https://profiles.viictr.org/profile/254034)
+  * [Peptide-N4-(N-acetyl-beta-glucosaminyl) Asparagine Amidase](https://profiles.viictr.org/profile/254579)
+
+[Explore](https://profiles.viictr.org/profile/15317909/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [JAFAR-NEJAD, HAMED](https://profiles.viictr.org/profile/269877)
+  * [Han, Seung Yeop](https://profiles.viictr.org/profile/1826522)
+  * [LEE, TOM](https://profiles.viictr.org/profile/3010104)
+  * [LI-KROEGER, DAVID](https://profiles.viictr.org/profile/3010457)
+
+[Explore](https://profiles.viictr.org/profile/15317909/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [JAFAR-NEJAD, HAMED](https://profiles.viictr.org/profile/269877)
+  * [DAVIS, RONALD](https://profiles.viictr.org/profile/268115)
+  * [YAMAMOTO, SHINYA](https://profiles.viictr.org/profile/3009536)
+  * [MARDON, GRAEME](https://profiles.viictr.org/profile/268168)
+
+[Explore](https://profiles.viictr.org/profile/15317909/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BALLABIO, ANDREA](https://profiles.viictr.org/profile/266220)
+  * [LICHTARGE, OLIVIER](https://profiles.viictr.org/profile/269815)
+  * [LIU, NING](https://profiles.viictr.org/profile/15317911)
+  * [MARCIANO, DAVID](https://profiles.viictr.org/profile/3009795)
+  * [ZEMET LAZAR, RONI](https://profiles.viictr.org/profile/29922400)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

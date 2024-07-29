@@ -1,0 +1,409 @@
+## BUCK SAMUEL
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=FL4z6iv0IYbgQ4PN4njPZLGIMg%3d%3d&rnd=3f55ed27-f6c3-4427-ba87-af42f8d3ca4e)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=10675389)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=10675389&cachekey=6eadd8d8-2ad7-4701-b37c-2c4498407389)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Affiliation  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+groups
+
+  * [Dr. Shaulsky's Group](https://profiles.viictr.org/profile/28672289) (Member) 
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+keywords
+
+  * [host-microbe interactions; microbiome; microbiota; genetics; genomics; metabolism; small RNA biology; xenobiotics; ecology; C. elegans](https://profiles.viictr.org/search/default.aspx?searchtype=everything&searchfor=host-microbe interactions; microbiome; microbiota; genetics; genomics; metabolism; small RNA biology; xenobiotics; ecology; C. elegans&exactphrase=false)
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+DP2DK116645 (SAMUEL, BUCK SPARROW)Sep 20, 2017 - Jun 30, 2022NIH  
+Microbial programming of host physiology  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+F32DK083885 (SAMUEL, BUCK SPARROW)Apr 1, 2009 - Mar 31, 2012NIH  
+Molecular Basis of Microbial Influence on Host Energy Balance  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Haghani NB, Lampe RH, **Samuel BS** , Chalasani SH, Matty MA. Identification and characterization of a skin microbiome on Caenorhabditis elegans suggests environmental microbes confer cuticle protection. Microbiol Spectr. 2024 Jul 09; e0016924. PMID: [38980017](//www.ncbi.nlm.nih.gov/pubmed/38980017).
+
+Citations:  Fields:
+
+Mic Microbiology
+
+  2. Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, **Samuel BS** , Dierking K, Franke A, Laudes M, Waschina S, Schulenburg H, Kaleta C. Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics. Microbiol Spectr. 2024 Feb 06; 12(2):e0114423. PMID: [38230938](//www.ncbi.nlm.nih.gov/pubmed/38230938); PMCID: [PMC10846184](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10846184).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38230938/citedby/) Fields:
+
+Mic Microbiology
+
+Translation:HumansAnimalsCells
+
+  3. Mu?oz-Juan A, Assi? A, Esteve-Codina A, Gut M, Benseny-Cases N, **Samuel BS** , Dalf? E, Laromaine A. Caenorhabditis elegans endorse bacterial nanocellulose fibers as functional dietary Fiber reducing lipid markers. Carbohydr Polym. 2024 May 01; 331:121815. PMID: [38388067](//www.ncbi.nlm.nih.gov/pubmed/38388067).
+
+Citations:  Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  4. Zhang F, Blackburn D, [Hosea CN](https://profiles.viictr.org/profile/28999348), Assi? A, **Samuel BS**. Application of Flow Vermimetry for Quantification and Analysis of the Caenorhabditis elegans Gut Microbiome. J Vis Exp. 2023 03 31; (193). PMID: [37067276](//www.ncbi.nlm.nih.gov/pubmed/37067276).
+
+Citations:  Fields:
+
+Bio BiologyMed Medicine (General)
+
+Translation:Animals
+
+  5. Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, **Samuel BS** , Dierking K, Franke A, Laudes M, Waschina S, Schulenburg H, Kaleta C. Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics. bioRxiv. 2023 Feb 18. PMID: [36824941](//www.ncbi.nlm.nih.gov/pubmed/36824941); PMCID: [PMC9949166](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9949166).
+
+Citations:
+
+  6. Hill AA, Kim M, Zegarra-Ruiz DF, Chang LC, Norwood K, Assi? A, Wu WH, Renfroe MC, Song HW, Major AM, **Samuel BS** , [Hyser JM](https://profiles.viictr.org/profile/269246), Longman RS, [Diehl GE](https://profiles.viictr.org/profile/8183315). Acute high-fat diet impairs macrophage-supported intestinal damage resolution. JCI Insight. 2023 02 08; 8(3). PMID: [36538527](//www.ncbi.nlm.nih.gov/pubmed/36538527); PMCID: [PMC9977439](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9977439).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:AnimalsCells
+
+  7. Herman MA, Irazoqui JE, **Samuel BS** , Vega N. Editorial: C. elegans host-microbiome interactions: From medical to ecological and evolutionary model. Front Cell Infect Microbiol. 2022; 12:1035545. PMID: [36225234](//www.ncbi.nlm.nih.gov/pubmed/36225234); PMCID: [PMC9549332](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9549332).
+
+Citations:  Fields:
+
+Cel Cell BiologyCom Communicable DiseasesMic Microbiology
+
+Translation:HumansAnimals
+
+  8. Wu WH, Kim M, Chang LC, Assie A, Saldana-Morales FB, Zegarra-Ruiz DF, Norwood K, **Samuel BS** , [Diehl GE](https://profiles.viictr.org/profile/8183315). Interleukin-1? secretion induced by mucosa-associated gut commensal bacteria promotes intestinal barrier repair. Gut Microbes. 2022 Jan-Dec; 14(1):2014772. PMID: [34989321](//www.ncbi.nlm.nih.gov/pubmed/34989321); PMCID: [PMC8741296](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8741296).
+
+Citations:  Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:HumansAnimalsCells
+
+  9. Schiffer JA, Stumbur SV, Seyedolmohadesin M, Xu Y, Serkin WT, McGowan NG, Banjo O, Torkashvand M, Lin A, [Hosea CN](https://profiles.viictr.org/profile/28999348), **Samuel BS** , O'Donnell MP, Venkatachalam V, Apfeld J, Assi? A. Modulation of sensory perception by hydrogen peroxide enables Caenorhabditis elegans to find a niche that provides both food and protection from hydrogen peroxide. PLoS Pathog. 2021 12; 17(12):e1010112. PMID: [34941962](//www.ncbi.nlm.nih.gov/pubmed/34941962); PMCID: [PMC8699984](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8699984).
+
+Citations:  Fields:
+
+Mic Microbiology
+
+Translation:AnimalsCells
+
+  10. Chavez IN, Brown TM, Bryant AS, **Samuel BS** , Hallem EA, Assi? A. Skin-penetrating nematodes exhibit life-stage-specific interactions with host-associated and environmental bacteria. BMC Biol. 2021 10 07; 19(1):221. PMID: [34620172](//www.ncbi.nlm.nih.gov/pubmed/34620172); PMCID: [PMC8499433](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8499433).
+
+Citations:  Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  11. Khodakova AS, Vilchis DV, Blackburn D, Amanor F, **Samuel BS**. Population scale nucleic acid delivery to Caenorhabditis elegans via electroporation. G3 (Bethesda). 2021 07 14; 11(7). PMID: [33872353](//www.ncbi.nlm.nih.gov/pubmed/33872353); PMCID: [PMC8495937](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8495937).
+
+Citations:  Fields:
+
+Gen GeneticsMol Molecular Biology
+
+  12. Zhang F, Weckhorst JL, [Hosea C](https://profiles.viictr.org/profile/28999348), Ayoub CA, Khodakova AS, Cabrera ML, Vidal Vilchis D, **Samuel BS** , Assi? A, F?lix MA. Natural genetic variation drives microbiome selection in the Caenorhabditis elegans gut. Curr Biol. 2021 06 21; 31(12):2603-2618.e9. PMID: [34048707](//www.ncbi.nlm.nih.gov/pubmed/34048707); PMCID: [PMC8222194](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8222194).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34048707/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  13. Dirksen P, Zimmermann J, Zhang F, Tietje AM, Shapira M, Kaleta C, Schulenburg H, **Samuel BS** , Assi? A, Marsh SA, F?lix MA. CeMbio - The Caenorhabditis elegans Microbiome Resource. G3 (Bethesda). 2020 09 02; 10(9):3025-3039. PMID: [32669368](//www.ncbi.nlm.nih.gov/pubmed/32669368); PMCID: [PMC7466993](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7466993).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32669368/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:Animals
+
+  14. Zhang F, Weckhorst JL, Khodakova AS, Loeza-Cabrera M, Vidal D, **Samuel BS** , Assi? A. High-Throughput Assessment of Changes in the Caenorhabditis elegans Gut Microbiome. Methods Mol Biol. 2020; 2144:131-144. PMID: [32410031](//www.ncbi.nlm.nih.gov/pubmed/32410031).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32410031/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  15. **Samuel BS** , Assi? A. The Devil Is in the Microbial Genetic Details. Mol Cell. 2019 06 20; 74(6):1108-1109. PMID: [31226275](//www.ncbi.nlm.nih.gov/pubmed/31226275).
+
+Citations:  Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Humans
+
+  16. Bodine TJ, Evangelista MA, Chang HT, Ayoub CA, **Samuel BS** , Sucgang R, [Zechiedrich L](https://profiles.viictr.org/profile/267006). Escherichia coli DNA ligase B may mitigate damage from oxidative stress. PLoS One. 2017; 12(7):e0180800. PMID: [28700629](//www.ncbi.nlm.nih.gov/pubmed/28700629); PMCID: [PMC5507437](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5507437).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28700629/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Cells
+
+  17. Zhang F, Berg M, Dierking K, Shapira M, **Samuel BS** , Schulenburg H, F?lix MA. Caenorhabditis elegans as a Model for Microbiome Research. Front Microbiol. 2017; 8:485. PMID: [28386252](//www.ncbi.nlm.nih.gov/pubmed/28386252); PMCID: [PMC5362939](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5362939).
+
+Citations:
+[65](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28386252/citedby/)
+
+  18. Gregory KE, **Samuel BS** , Houghteling P, Shan G, Ausubel FM, Sadreyev RI, Walker WA. Influence of maternal breast milk ingestion on acquisition of the intestinal microbiome in preterm infants. Microbiome. 2016 12 30; 4(1):68. PMID: [28034306](//www.ncbi.nlm.nih.gov/pubmed/28034306); PMCID: [PMC5200970](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5200970).
+
+Citations:
+[69](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28034306/citedby/) Fields:
+
+Gen GeneticsMic Microbiology
+
+Translation:HumansCells
+
+  19. **Samuel BS** , Rowedder H, Braendle C, Ruvkun G, F?lix MA. Caenorhabditis elegans responses to bacteria from its natural habitats. Proc Natl Acad Sci U S A. 2016 07 05; 113(27):E3941-9. PMID: [27317746](//www.ncbi.nlm.nih.gov/pubmed/27317746); PMCID: [PMC4941482](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4941482).
+
+Citations:
+[119](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27317746/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Animals
+
+  20. Haney CH, **Samuel BS** , Bush J, Ausubel FM. Associations with rhizosphere bacteria can confer an adaptive advantage to plants. Nat Plants. 2015; 1(6). PMID: [27019743](//www.ncbi.nlm.nih.gov/pubmed/27019743); PMCID: [PMC4806546](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4806546).
+
+Citations:
+[93](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27019743/citedby/) Fields:
+
+Bot BotanyGen Genetics
+
+  21. Liu Y, **Samuel BS** , Breen PC, Ruvkun G. Caenorhabditis elegans pathways that surveil and defend mitochondria. Nature. 2014 Apr 17; 508(7496):406-10. PMID: [24695221](//www.ncbi.nlm.nih.gov/pubmed/24695221); PMCID: [PMC4102179](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4102179).
+
+Citations:
+[146](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24695221/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  22. **Samuel BS** , Shaito A, Motoike T, Rey FE, Backhed F, Manchester JK, Hammer RE, Williams SC, Crowley J, Yanagisawa M, Gordon JI. Effects of the gut microbiota on host adiposity are modulated by the short-chain fatty-acid binding G protein-coupled receptor, Gpr41. Proc Natl Acad Sci U S A. 2008 Oct 28; 105(43):16767-72. PMID: [18931303](//www.ncbi.nlm.nih.gov/pubmed/18931303); PMCID: [PMC2569967](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2569967).
+
+Citations:
+[538](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18931303/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  23. **Samuel BS** , Hansen EE, Manchester JK, Coutinho PM, Henrissat B, Fulton R, Latreille P, Kim K, Wilson RK, Gordon JI. Genomic and metabolic adaptations of Methanobrevibacter smithii to the human gut. Proc Natl Acad Sci U S A. 2007 Jun 19; 104(25):10643-8. PMID: [17563350](//www.ncbi.nlm.nih.gov/pubmed/17563350); PMCID: [PMC1890564](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1890564).
+
+Citations:
+[191](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17563350/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  24. **Samuel BS** , Gordon JI. A humanized gnotobiotic mouse model of host-archaeal-bacterial mutualism. Proc Natl Acad Sci U S A. 2006 Jun 27; 103(26):10011-6. PMID: [16782812](//www.ncbi.nlm.nih.gov/pubmed/16782812); PMCID: [PMC1479766](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1479766).
+
+Citations:
+[267](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16782812/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  25. Gill SR, Pop M, Deboy RT, Eckburg PB, Turnbaugh PJ, **Samuel BS** , Gordon JI, Relman DA, Fraser-Liggett CM, Nelson KE. Metagenomic analysis of the human distal gut microbiome. Science. 2006 Jun 02; 312(5778):1355-9. PMID: [16741115](//www.ncbi.nlm.nih.gov/pubmed/16741115); PMCID: [PMC3027896](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3027896).
+
+Citations:
+[1564](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16741115/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  26. Rawls JF, **Samuel BS** , Gordon JI. Gnotobiotic zebrafish reveal evolutionarily conserved responses to the gut microbiota. Proc Natl Acad Sci U S A. 2004 Mar 30; 101(13):4596-601. PMID: [15070763](//www.ncbi.nlm.nih.gov/pubmed/15070763); PMCID: [PMC384792](//www.ncbi.nlm.nih.gov/pmc/articles/PMC384792).
+
+Citations:
+[316](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15070763/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 26 publications over 14 distinct years, with a maximum of
+4 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,25,0,50,25,25,0,0,0,0,0,25,25,50,50,0,25,50,100,50,75,75&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 1  
+2006| 2  
+2007| 1  
+2008| 1  
+2014| 1  
+2015| 1  
+2016| 2  
+2017| 2  
+2019| 1  
+2020| 2  
+2021| 4  
+2022| 2  
+2023| 3  
+2024| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SAMUEL's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (119)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Caenorhabditis elegans](https://profiles.viictr.org/profile/251854)
+  * [Gastrointestinal Microbiome](https://profiles.viictr.org/profile/27544473)
+  * [Microbiota](https://profiles.viictr.org/profile/27547179)
+  * [Nucleic Acids](https://profiles.viictr.org/profile/245160)
+  * [Methanobrevibacter](https://profiles.viictr.org/profile/262628)
+
+[Explore](https://profiles.viictr.org/profile/10675389/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [DIEHL, GRETCHEN](https://profiles.viictr.org/profile/8183315)
+  * [Hosea, Ciara](https://profiles.viictr.org/profile/28999348)
+  * [ZECHIEDRICH, LYNN](https://profiles.viictr.org/profile/267006)
+  * [HYSER, JOSEPH](https://profiles.viictr.org/profile/269246)
+
+[Explore](https://profiles.viictr.org/profile/10675389/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [ARUR, SWATHI](https://profiles.viictr.org/profile/12583161)
+  * [PETROSINO, JOSEPH](https://profiles.viictr.org/profile/267058)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [WARGO, JENNIFER](https://profiles.viictr.org/profile/12582861)
+  * [SAVIDGE, TOR](https://profiles.viictr.org/profile/270090)
+
+[Explore](https://profiles.viictr.org/profile/10675389/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BLUTT, SARAH](https://profiles.viictr.org/profile/266310)
+  * [BRITTON, ROBERT](https://profiles.viictr.org/profile/8950240)
+  * [EL SAHLY, HANA](https://profiles.viictr.org/profile/266773)
+  * [RICE, ANDREW](https://profiles.viictr.org/profile/269748)
+  * [TISZA, MICHAEL](https://profiles.viictr.org/profile/42513162)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

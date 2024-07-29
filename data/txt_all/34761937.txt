@@ -1,0 +1,206 @@
+## ELIZABETH ATKINSON
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=E6c5%2b2TFJZ%2f9CK7563LMObuCBxOJmmsHFAk%3d&rnd=0ae3125c-eabc-4d7c-8e39-80d95074a008)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=34761937)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Atkinson EG** , Artomov M, Loboda AA, Rehm HL, MacArthur DG, Karczewski KJ, Neale BM, Daly MJ. Discordant calls across genotype discovery approaches elucidate variants with systematic errors. Genome Res. 2023 06; 33(6):999-1005. PMID: [37253541](//www.ncbi.nlm.nih.gov/pubmed/37253541); PMCID: [PMC10519400](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10519400).
+
+Citations:  Fields:
+
+Gen Genetics
+
+  2. Tan T, **Atkinson EG**. Strategies for the Genomic Analysis of Admixed Populations. Annu Rev Biomed Data Sci. 2023 08 10; 6:105-127. PMID: [37127050](//www.ncbi.nlm.nih.gov/pubmed/37127050); PMCID: [PMC10871708](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10871708).
+
+Citations:  Fields:
+
+Com Computational Biology
+
+Translation:Humans
+
+  3. **Atkinson EG**. Estimation of cross-ancestry genetic correlations within ancestry tracts of admixed samples. Nat Genet. 2023 04; 55(4):527-529. PMID: [36941440](//www.ncbi.nlm.nih.gov/pubmed/36941440).
+
+Citations:  Fields:
+
+Gen Genetics
+
+  4. **Atkinson EG** , Dalvie S, Pichkar Y, Kalungi A, Majara L, Stevenson A, Abebe T, Akena D, Alemayehu M, Ashaba FK, Atwoli L, Baker M, Chibnik LB, Creanza N, Daly MJ, Fekadu A, Gelaye B, Gichuru S, Injera WE, James R, Kariuki SM, Kigen G, Koen N, Koenen KC, Koenig Z, Kwobah E, Kyebuzibwa J, Musinguzi H, Mwema RM, Neale BM, Newman CP, Newton CRJC, Ongeri L, Ramachandran S, Ramesar R, Shiferaw W, Stein DJ, Stroud RE, Teferra S, Yohannes MT, Zingela Z, Martin AR, NeuroGAP-Psychosis Study Team. Genetic structure correlates with ethnolinguistic diversity in eastern and southern Africa. Am J Hum Genet. 2022 09 01; 109(9):1667-1679. PMID: [36055213](//www.ncbi.nlm.nih.gov/pubmed/36055213); PMCID: [PMC9502052](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9502052).
+
+Citations:
+
+  5. Kantarci OH, Zeydan B, **Atkinson EJ** , Conway BL, Castrillo-Viguera C, Rodriguez M. Relapse recovery: The forgotten variable in multiple sclerosis clinical trials. Neurol Neuroimmunol Neuroinflamm. 2020 03; 7(2). PMID: [31848231](//www.ncbi.nlm.nih.gov/pubmed/31848231); PMCID: [PMC6943367](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6943367).
+
+Citations:
+
+  6. Samelson EJ, Broe KE, Xu H, Yang L, Boyd S, Biver E, Szulc P, Adachi J, Amin S, **Atkinson E** , Berger C, Burt L, Chapurlat R, Chevalley T, Ferrari S, Goltzman D, Hanley DA, Hannan MT, Khosla S, Liu CT, Lorentzon M, Mellstrom D, Merle B, Nethander M, Rizzoli R, Sornay-Rendu E, Van Rietbergen B, Sundh D, Wong AKO, Ohlsson C, Demissie S, Kiel DP, Bouxsein ML. Cortical and trabecular bone microarchitecture as an independent predictor of incident fracture risk in older women and men in the Bone Microarchitecture International Consortium (BoMIC): a prospective study. Lancet Diabetes Endocrinol. 2019 01; 7(1):34-43. PMID: [30503163](//www.ncbi.nlm.nih.gov/pubmed/30503163); PMCID: [PMC6354581](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6354581).
+
+Citations:
+
+  7. Ji SG, Juran BD, Mucha S, Folseraas T, Jostins L, Melum E, Kumasaka N, **Atkinson EJ** , Schlicht EM, Liu JZ, Shah T, Gutierrez-Achury J, Boberg KM, Bergquist A, Vermeire S, Eksteen B, Durie PR, Farkkila M, M?ller T, Schramm C, Sterneck M, Weism?ller TJ, Gotthardt DN, Ellinghaus D, Braun F, Teufel A, Laudes M, Lieb W, Jacobs G, Beuers U, Weersma RK, Wijmenga C, Marschall HU, Milkiewicz P, Pares A, Kontula K, Chazouill?res O, Invernizzi P, Goode E, Spiess K, Moore C, Sambrook J, Ouwehand WH, Roberts DJ, Danesh J, Floreani A, Gulamhusein AF, Eaton JE, Schreiber S, Coltescu C, Bowlus CL, Luketic VA, Odin JA, Chopra KB, Kowdley KV, Chalasani N, Manns MP, Srivastava B, Mells G, Sandford RN, Alexander G, Gaffney DJ, Chapman RW, Hirschfield GM, de Andrade M, UK-PSC Consortium, International IBD Genetics Consortium, International PSC Study Group, Rushbrook SM, Franke A, Karlsen TH, Lazaridis KN, Anderson CA. Genome-wide association study of primary sclerosing cholangitis identifies new risk loci and quantifies the genetic relationship with inflammatory bowel disease. Nat Genet. 2017 Feb; 49(2):269-273. PMID: [27992413](//www.ncbi.nlm.nih.gov/pubmed/27992413); PMCID: [PMC5540332](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5540332).
+
+Citations:
+
+  8. Roforth MM, Farr JN, Fujita K, McCready LK, **Atkinson EJ** , Therneau TM, Cunningham JM, Drake MT, Monroe DG, Khosla S. Global transcriptional profiling using RNA sequencing and DNA methylation patterns in highly enriched mesenchymal cells from young versus elderly women. Bone. 2015 Jul; 76:49-57. PMID: [25827254](//www.ncbi.nlm.nih.gov/pubmed/25827254); PMCID: [PMC4447531](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4447531).
+
+Citations:
+
+  9. Klein CJ, Botuyan MV, Wu Y, Ward CJ, Nicholson GA, Hammans S, Hojo K, Yamanishi H, Karpf AR, Wallace DC, Simon M, Lander C, Boardman LA, Cunningham JM, Smith GE, Litchy WJ, Boes B, **Atkinson EJ** , Middha S, B Dyck PJ, Parisi JE, Mer G, Smith DI, Dyck PJ. Mutations in DNMT1 cause hereditary sensory neuropathy with dementia and hearing loss. Nat Genet. 2011 Jun; 43(6):595-600. PMID: [21532572](//www.ncbi.nlm.nih.gov/pubmed/21532572); PMCID: [PMC3102765](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3102765).
+
+Citations:
+
+  10. Pattaro C, Fuchsberger C, Olden M, Glazer NL, Parsa A, Gao X, Yang Q, Smith AV, O'Connell JR, Li M, Schmidt H, Tanaka T, Isaacs A, [Ketkar S](https://profiles.viictr.org/profile/28999445), Hwang SJ, Johnson AD, Dehghan A, Teumer A, **Atkinson EJ** , Zeller T, Lohman K, Cornelis MC, Probst-Hensch NM, Kronenberg F, Hayward C, Aspelund T, Eiriksdottir G, Launer LJ, Harris TB, Rampersaud E, Mitchell BD, Arking DE, [Boerwinkle E](https://profiles.viictr.org/profile/267689), Struchalin M, Cavalieri M, Singleton A, Giallauria F, Metter J, de Boer IH, Haritunians T, Lumley T, Siscovick D, Psaty BM, Zillikens MC, Oostra BA, Feitosa M, Province M, de Andrade M, Turner ST, Schillert A, Ziegler A, Wild PS, Schnabel RB, Wilde S, Munzel TF, Leak TS, Illig T, Klopp N, Meisinger C, Wichmann HE, Koenig W, Zgaga L, Zemunik T, Kolcic I, Minelli C, Hu FB, Johansson A, Igl W, Zaboli G, Wild SH, Wright AF, Campbell H, Ellinghaus D, Schreiber S, Aulchenko YS, Felix JF, Rivadeneira F, Uitterlinden AG, Hofman A, Imboden M, Nitsch D, Kollerits B, Kedenko L, Stumvoll M, Kovacs P, Boban M, Campbell S, Endlich K, Kroemer HK, Nauck M, Polasek O, Vitart V, Badola S, Parker AN, Ridker PM, Kardia SL, Blankenberg S, Liu Y, Curhan GC, Franke A, Rochat T, Paulweber B, Prokopenko I, Wang W, Gudnason V, Shuldiner AR, Coresh J, Schmidt R, Ferrucci L, Shlipak MG, van Duijn CM, Borecki I, Rudan I, Gyllensten U, Wilson JF, Witteman JC, Pramstaller PP, Rettig R, Hastie N, Chasman DI, Kao WH, Heid IM, Fox CS, K?ttgen A, B?ger CA, Par? G, T?njes A, Brandst?tter A, M?gi R, V?lzke H, V?lker U, Kr?mer BK. New loci associated with kidney function and chronic kidney disease. Nat Genet. 2010 May; 42(5):376-84. PMID: [20383146](//www.ncbi.nlm.nih.gov/pubmed/20383146); PMCID: [PMC2997674](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2997674).
+
+Citations:
+[425](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20383146/citedby/)
+Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  11. Bouxsein ML, Melton LJ, Riggs BL, Muller J, **Atkinson EJ** , Oberg AL, Robb RA, Camp JJ, Rouleau PA, McCollough CH, Khosla S. Age- and sex-specific differences in the factor of risk for vertebral fracture: a population-based study using QCT. J Bone Miner Res. 2006 Sep; 21(9):1475-82. PMID: [16939406](//www.ncbi.nlm.nih.gov/pubmed/16939406).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 11 publications over 9 distinct years, with a maximum of 3
+publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,33,33,0,0,0,33,33,0,33,33,0,0,33,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2006| 1  
+2010| 1  
+2011| 1  
+2015| 1  
+2016| 1  
+2018| 1  
+2019| 1  
+2022| 1  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ATKINSON's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (88)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Genetics, Population](https://profiles.viictr.org/profile/251661)
+  * [Exome](https://profiles.viictr.org/profile/27546374)
+  * [Polymorphism, Single Nucleotide](https://profiles.viictr.org/profile/252514)
+  * [Genetic Variation](https://profiles.viictr.org/profile/258544)
+  * [Genomics](https://profiles.viictr.org/profile/247984)
+
+[Explore](https://profiles.viictr.org/profile/34761937/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [KETKAR, SHAMIKA](https://profiles.viictr.org/profile/28999445)
+
+[Explore](https://profiles.viictr.org/profile/34761937/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [SHETE, SANJAY](https://profiles.viictr.org/profile/12583745)
+
+[Explore](https://profiles.viictr.org/profile/34761937/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GIJAVANEKAR, CHARUL](https://profiles.viictr.org/profile/40654792)
+  * [LI, HONGJIE](https://profiles.viictr.org/profile/31958890)
+  * [SCHULZE, KATHARINA](https://profiles.viictr.org/profile/6998702)
+  * [WANG, MENG](https://profiles.viictr.org/profile/266251)
+  * [ZHANG, BING](https://profiles.viictr.org/profile/16943341)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

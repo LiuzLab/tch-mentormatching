@@ -1,0 +1,240 @@
+## JUSTIN FINE
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Neurosurgery  
+Address| 7200 CAMBRIDGE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HL4j9WzJbq38SIrN4njPZLGIMg%3d%3d&rnd=d48a222c-62e8-4273-a56e-dcb8bb341450)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=39729675)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Boerwinkle VL, Sussman BL, de Lima Xavier L, Wyckoff SN, Reuther W, Kruer MC, Arhin M, **Fine JM**. Motor network dynamic resting state fMRI connectivity of neurotypical children in regions affected by cerebral palsy. Front Hum Neurosci. 2024; 18:1339324. PMID: [38835646](//www.ncbi.nlm.nih.gov/pubmed/38835646); PMCID: [PMC11148452](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11148452).
+
+Citations:
+
+  2. **Fine JM** , [Yoo SM](https://profiles.viictr.org/profile/49466796), [Hayden BY](https://profiles.viictr.org/profile/39729669). Control over a mixture of policies determines change of mind topology during continuous choice. bioRxiv. 2024 Apr 22. PMID: [38712284](//www.ncbi.nlm.nih.gov/pubmed/38712284); PMCID: [PMC11071291](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11071291).
+
+Citations:
+
+  3. Mysore AS, Fini ME, Santello M, **Fine JM** , Tyler WJ. Transcranial focused ultrasound to human rIFG improves response inhibition through modulation of the P300 onset latency. Elife. 2023 Dec 20; 12. PMID: [38117053](//www.ncbi.nlm.nih.gov/pubmed/38117053); PMCID: [PMC10796145](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10796145).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38117053/citedby/) Fields:
+
+Bio Biology
+
+Translation:Humans
+
+  4. Johnston WJ, **Fine JM** , [Yoo SBM](https://profiles.viictr.org/profile/49466796), Ebitz RB, Hayden BY. Semi-orthogonal subspaces for value mediate a tradeoff between binding and generalization. ArXiv. 2023 Sep 14. PMID: [37744462](//www.ncbi.nlm.nih.gov/pubmed/37744462); PMCID: [PMC10516109](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10516109).
+
+Citations:
+
+  5. **Fine JM** , Maisson DJ, [Yoo SBM](https://profiles.viictr.org/profile/49466796), Cash-Padgett TV, Wang MZ, Zimmermann J, Hayden BY. Abstract Value Encoding in Neural Populations But Not Single Neurons. J Neurosci. 2023 06 21; 43(25):4650-4663. PMID: [37208178](//www.ncbi.nlm.nih.gov/pubmed/37208178); PMCID: [PMC10286943](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10286943).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37208178/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  6. Johnston WJ, **Fine JM** , [Yoo SBM](https://profiles.viictr.org/profile/49466796), Ebitz RB, Hayden BY. Subspace orthogonalization as a mechanism for binding values to space. ArXiv. 2023 Feb 02. PMID: [36776821](//www.ncbi.nlm.nih.gov/pubmed/36776821); PMCID: [PMC9915762](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9915762).
+
+Citations:
+
+  7. Uehara K, **Fine JM** , Santello M. Modulation of cortical beta oscillations influences motor vigor: A rhythmic TMS-EEG study. Hum Brain Mapp. 2023 02 15; 44(3):1158-1172. PMID: [36419365](//www.ncbi.nlm.nih.gov/pubmed/36419365); PMCID: [PMC9875933](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9875933).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36419365/citedby/) Fields:
+
+Bra Brain
+
+Translation:Humans
+
+  8. Boerwinkle VL, Sussman BL, Wyckoff SN, Manj?n I, **Fine JM** , David Adelson P. Discerning Seizure-Onset v. Propagation Zone: Pre-and-Post-Operative Resting-State fMRI Directionality and Boerwinkle Neuroplasticity Index. Neuroimage Clin. 2022; 35:103063. PMID: [35653912](//www.ncbi.nlm.nih.gov/pubmed/35653912); PMCID: [PMC9163994](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9163994).
+
+Citations:
+
+  9. **Fine JM** , Hayden BY. The whole prefrontal cortex is premotor cortex. Philos Trans R Soc Lond B Biol Sci. 2022 02 14; 377(1844):20200524. PMID: [34957853](//www.ncbi.nlm.nih.gov/pubmed/34957853); PMCID: [PMC8710885](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8710885).
+
+Citations:
+
+  10. Purcell JR, Jahn A, **Fine JM** , Brown JW. Neural correlates of visual attention during risky decision evidence integration. Neuroimage. 2021 07 01; 234:117979. PMID: [33771695](//www.ncbi.nlm.nih.gov/pubmed/33771695); PMCID: [PMC8159858](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8159858).
+
+Citations:
+
+  11. Parikh PJ, **Fine JM** , Santello M. Dexterous Object Manipulation Requires Context-Dependent Sensorimotor Cortical Interactions in Humans. Cereb Cortex. 2020 05 14; 30(5):3087-3101. PMID: [31845726](//www.ncbi.nlm.nih.gov/pubmed/31845726); PMCID: [PMC7197080](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7197080).
+
+Citations:
+
+  12. **Fine JM** , Moore D, Santello M. Neural oscillations reflect latent learning states underlying dual-context sensorimotor adaptation. Neuroimage. 2017 12; 163:93-105. PMID: [28919408](//www.ncbi.nlm.nih.gov/pubmed/28919408).
+
+Citations:
+
+  13. Waddell ML, **Fine JM** , Likens AD, Amazeen EL, Amazeen PG. Perceived heaviness in the context of Newton's Second Law: Combined effects of muscle activity and lifting kinematics. J Exp Psychol Hum Percept Perform. 2016 Mar; 42(3):363-74. PMID: [26436526](//www.ncbi.nlm.nih.gov/pubmed/26436526).
+
+Citations:
+
+  14. Likens AD, **Fine JM** , Amazeen EL, Amazeen PG. Experimental control of scaling behavior: what is not fractal? Exp Brain Res. 2015 Oct; 233(10):2813-21. PMID: [26070902](//www.ncbi.nlm.nih.gov/pubmed/26070902).
+
+Citations:
+
+  15. **Fine JM** , Likens AD, Amazeen EL, Amazeen PG. Emergent complexity matching in interpersonal coordination: Local dynamics and global variability. J Exp Psychol Hum Percept Perform. 2015 Jun; 41(3):723-37. PMID: [25798782](//www.ncbi.nlm.nih.gov/pubmed/25798782).
+
+Citations:
+
+  16. **Fine JM** , Ward KL, Amazeen EL. Manual coordination with intermittent targets: velocity information for prospective control. Acta Psychol (Amst). 2014 Jun; 149:24-31. PMID: [24657827](//www.ncbi.nlm.nih.gov/pubmed/24657827).
+
+Citations:
+
+  17. **Fine JM** , Amazeen EL. Stabilizing perceptual-motor asymmetries during social coordination. Hum Mov Sci. 2014 Apr; 34:91-108. PMID: [24518853](//www.ncbi.nlm.nih.gov/pubmed/24518853).
+
+Citations:
+
+  18. **Fine JM** , Gibbons CT, Amazeen EL. Congruency effects in interpersonal coordination. J Exp Psychol Hum Percept Perform. 2013 Dec; 39(6):1541-56. PMID: [23458094](//www.ncbi.nlm.nih.gov/pubmed/23458094).
+
+Citations:
+
+  19. **Fine JM** , Amazeen EL. Interpersonal Fitts' law: when two perform as one. Exp Brain Res. 2011 Jun; 211(3-4):459-69. PMID: [21547558](//www.ncbi.nlm.nih.gov/pubmed/21547558).
+
+Citations:
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 19 publications over 10 distinct years, with a maximum of
+4 publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|4&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,25,50,75,0,25,0,0,25,50,50,100,50&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2011| 1  
+2013| 1  
+2014| 2  
+2015| 3  
+2017| 1  
+2020| 1  
+2021| 2  
+2022| 2  
+2023| 4  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+FINE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (67)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Psychomotor Performance](https://profiles.viictr.org/profile/242103)
+  * [Sensorimotor Cortex](https://profiles.viictr.org/profile/27547586)
+  * [Motor Cortex](https://profiles.viictr.org/profile/256281)
+  * [Motor Skills](https://profiles.viictr.org/profile/257535)
+  * [Interpersonal Relations](https://profiles.viictr.org/profile/258995)
+
+[Explore](https://profiles.viictr.org/profile/39729675/198)
+
+_
+
+Co-Authors (2)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HAYDEN, BENJAMIN](https://profiles.viictr.org/profile/39729669)
+  * [YOO, SENG BUM](https://profiles.viictr.org/profile/49466796)
+
+[Explore](https://profiles.viictr.org/profile/39729675/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [CHANG, EDWARD I-FEI](https://profiles.viictr.org/profile/12583166)
+  * [GABBIANI, FABRIZIO](https://profiles.viictr.org/profile/266193)
+  * [INCE, NURI FIRAT](https://profiles.viictr.org/profile/38813499)
+  * [SHETH, SAMEER](https://profiles.viictr.org/profile/23479136)
+  * [SHARP, CARLA](https://profiles.viictr.org/profile/270256)
+
+[Explore](https://profiles.viictr.org/profile/39729675/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GADGIL, NISHA](https://profiles.viictr.org/profile/36041116)
+  * [KING, CYRUS](https://profiles.viictr.org/profile/35457294)
+  * [MCCLUGAGE, SAMUEL](https://profiles.viictr.org/profile/29494124)
+  * [WOO, JUNSUNG](https://profiles.viictr.org/profile/23496146)
+  * [YU, KWANHA](https://profiles.viictr.org/profile/3010019)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqBnbuqhfSUKgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

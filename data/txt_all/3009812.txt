@@ -1,0 +1,212 @@
+## DEREK MEEKS
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| 7200 CAMBRIDGE  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Eq4i5G6JDY7wTZzN4njPZLGIMg%3d%3d&rnd=df1fec01-6845-402d-a8eb-a26d70982ba1)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=3009812)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Murphy DR](https://profiles.viictr.org/profile/267187), [Meyer AN](https://profiles.viictr.org/profile/8556649), [Sittig DF](https://profiles.viictr.org/profile/266234), **Meeks DW** , Thomas EJ, [Singh H](https://profiles.viictr.org/profile/269397). Application of electronic trigger tools to identify targets for improving diagnostic safety. BMJ Qual Saf. 2019 02; 28(2):151-159. PMID: [30291180](//www.ncbi.nlm.nih.gov/pubmed/30291180); PMCID: [PMC6365920](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6365920).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30291180/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  2. **Meeks DW** , [Meyer AN](https://profiles.viictr.org/profile/8556649), Rose B, Walker YN, [Singh H](https://profiles.viictr.org/profile/269397). Exploring new avenues to assess the sharp end of patient safety: an analysis of nationally aggregated peer review data. BMJ Qual Saf. 2014 Dec; 23(12):1023-30. PMID: [25260781](//www.ncbi.nlm.nih.gov/pubmed/25260781).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25260781/citedby/) Fields:
+
+Hea Health ServicesHea Health Services Research
+
+Translation:Humans
+
+  3. **Meeks DW** , Smith MW, Taylor L, [Sittig DF](https://profiles.viictr.org/profile/266234), Scott JM, [Singh H](https://profiles.viictr.org/profile/269397). An analysis of electronic health record-related patient safety concerns. J Am Med Inform Assoc. 2014 Nov-Dec; 21(6):1053-9. PMID: [24951796](//www.ncbi.nlm.nih.gov/pubmed/24951796); PMCID: [PMC4215044](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4215044).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24951796/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  4. [Meyer AN](https://profiles.viictr.org/profile/8556649), Payne VL, **Meeks DW** , Rao R, [Singh H](https://profiles.viictr.org/profile/269397). Physicians' diagnostic accuracy, confidence, and resource requests: a vignette study. JAMA Intern Med. 2013 Nov 25; 173(21):1952-8. PMID: [23979070](//www.ncbi.nlm.nih.gov/pubmed/23979070).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23979070/citedby/) Fields:
+
+Int Internal Medicine
+
+Translation:Humans
+
+  5. **Meeks DW** , Takian A, [Sittig DF](https://profiles.viictr.org/profile/266234), [Singh H](https://profiles.viictr.org/profile/269397), Barber N. Exploring the sociotechnical intersection of patient safety and electronic health record implementation. J Am Med Inform Assoc. 2014 Feb; 21(e1):e28-34. PMID: [24052536](//www.ncbi.nlm.nih.gov/pubmed/24052536); PMCID: [PMC3957388](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3957388).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24052536/citedby/) Fields:
+
+Med Medical Informatics
+
+Translation:Humans
+
+  6. **Meeks DW** , Lally KP, Carrick MM, Lew DF, Thomas EJ, Doyle PD, Kao LS. Compliance with guidelines to prevent surgical site infections: As simple as 1-2-3? Am J Surg. 2011 Jan; 201(1):76-83. PMID: [20573335](//www.ncbi.nlm.nih.gov/pubmed/20573335).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20573335/citedby/) Fields:
+
+Gen General Surgery
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 6 publications over 4 distinct years, with a maximum of 2
+publications in 2013 and
+2014](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|2&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,100,100,0,0,0,50,0,0,0,0,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2010| 1  
+2013| 2  
+2014| 2  
+2018| 1  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MEEKS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (44)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Patient Safety](https://profiles.viictr.org/profile/27546678)
+  * [Electronic Health Records](https://profiles.viictr.org/profile/243092)
+  * [Peer Review, Health Care](https://profiles.viictr.org/profile/259086)
+  * [Risk Management](https://profiles.viictr.org/profile/248511)
+  * [Attitude to Computers](https://profiles.viictr.org/profile/263613)
+
+[Explore](https://profiles.viictr.org/profile/3009812/198)
+
+_
+
+Co-Authors (4)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [SINGH, HARDEEP](https://profiles.viictr.org/profile/269397)
+  * [MEYER, ASHLEY N.D.](https://profiles.viictr.org/profile/8556649)
+  * [SITTIG, DEAN](https://profiles.viictr.org/profile/266234)
+  * [MURPHY, DANIEL](https://profiles.viictr.org/profile/267187)
+
+[Explore](https://profiles.viictr.org/profile/3009812/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [SINGH, HARDEEP](https://profiles.viictr.org/profile/269397)
+  * [BATES, DAVID](https://profiles.viictr.org/profile/265690)
+  * [SITTIG, DEAN](https://profiles.viictr.org/profile/266234)
+  * [ROHRICH, RODNEY](https://profiles.viictr.org/profile/30445263)
+  * [MURPHY, DANIEL](https://profiles.viictr.org/profile/267187)
+
+[Explore](https://profiles.viictr.org/profile/3009812/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [GALLER, GREG](https://profiles.viictr.org/profile/267545)
+  * [JOUDAH, FADY](https://profiles.viictr.org/profile/4525656)
+  * [MANSOUR, PAUL](https://profiles.viictr.org/profile/37981797)
+  * [RIVERA, CATHLEEN](https://profiles.viictr.org/profile/40011313)
+  * [ZHANG, HAL](https://profiles.viictr.org/profile/31362085)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [IBE, CHIMKAMA](https://profiles.viictr.org/profile/268885)
+  * [JACKSON, VIRGINIA](https://profiles.viictr.org/profile/3708888)
+  * [KAUL, SURINDER](https://profiles.viictr.org/profile/269300)
+  * [SHEIKH, SHAZIA](https://profiles.viictr.org/profile/268554)
+  * [SIDDIQUI, IMRAN](https://profiles.viictr.org/profile/266463)
+
+_
+

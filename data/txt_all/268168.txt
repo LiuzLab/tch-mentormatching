@@ -1,0 +1,1125 @@
+## GRAEME MARDON
+
+| | Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Pathology & Immunology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=MaYx82HILqv3RYKj5X%2fX&rnd=b7302002-1952-4d83-aaa3-26dee900c0ca)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=268168)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=268168&cachekey=c3de2f8b-08a4-4ef6-a7b5-42718049d6bf)  
+  
+
+Other Positions| Title| Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Division| Molecular & Human Genetics  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Department of Neuroscience  
+Division| Neuroscience  
+  
+  
+Title| Professor  
+Institution| Baylor College of Medicine  
+Department| Department of Ophthalmology  
+Division| Ophthalmology  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Affiliation  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+groups
+
+  * [Dr. Shaulsky's Group](https://profiles.viictr.org/profile/28672289) (Member) 
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Research  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+research activities and funding
+
+R01EY028970 (MARDON, GRAEME)Sep 1, 2018 - May 31, 2022NIH  
+Molecular Mechanisms of Connecting Cilium Function in the Vertebrate Eye  
+Role: Principal Investigator  
+---  
+  
+* * *  
+  
+U2RTW010672 (KATEETE, DAVID PATRICK)Sep 5, 2017 - Aug 31, 2023NIH  
+NURTURING GENOMICS AND BIOINFORMATICS RESEARCH CAPACITY IN AFRICA (BRecA)  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R13EY026282 (MARDON, GRAEME)Dec 1, 2015 - Nov 30, 2018NIH  
+2016 and 2018 Visual Systems Development Gordon Research Conference & Gordon
+Research Seminar  
+Role: Principal Investigator  
+  
+* * *  
+  
+U54AI110398 (MATSHABA, MOGOMOTSI SANDY)Jan 1, 2014 - Aug 31, 2022NIH  
+Collaborative African Genomics Network (CAfGEN)  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01EY020540 (MARDON, GRAEME)Feb 1, 2011 - Sep 29, 2018NIH  
+Molecular Mechanisms of Human Retinal Disease  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01EY018571 (CHEN, RUI)Dec 1, 2007 - Jul 31, 2026NIH  
+GENETICS OF EARLY ONSET RETINAL DISEASES  
+Role: Co-Principal Investigator  
+  
+* * *  
+  
+R01EY012151 (MARDON, GRAEME)Mar 1, 1998 - Aug 31, 2006NIH  
+Genetic Control of Retina Specification  
+Role: Principal Investigator  
+  
+* * *  
+  
+R01EY011232 (MARDON, GRAEME)Feb 1, 1996 - Apr 30, 2021NIH  
+Retina Cell-Fate Determination and Pattern Formation  
+Role: Principal Investigator  
+  
+* * *  
+  
+F32GM014245 (MARDON, GRAEME)Jun 14, 1991NIH  
+GENETIC ANALYSIS OF RETINA DEVELOPMENT IN DROSPHILA  
+Role: Principal Investigator  
+  
+* * *  
+  
+T32EY007102 (MARDON, GRAEME)Sep 30, 1988 - Feb 28, 2021NIH  
+MOLECULAR GENETICS EMPHASIZING VISION RESEARCH  
+Role: Principal Investigator  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Raja KKB, Yeung K, Li Y, Chen R, **Mardon G**. A single cell RNA sequence atlas of the early Drosophila larval eye. BMC Genomics. 2024 Jun 19; 25(1):616. PMID: [38890587](//www.ncbi.nlm.nih.gov/pubmed/38890587); PMCID: [PMC11186242](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11186242).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  2. Li J, Choi J, [Cheng X](https://profiles.viictr.org/profile/28999199), [Ma J](https://profiles.viictr.org/profile/33265735), [Pema S](https://profiles.viictr.org/profile/37750019), Sanes JR, **Mardon G** , [Frankfort BJ](https://profiles.viictr.org/profile/268696), Tran NM, Li Y, Chen R. Comprehensive single-cell atlas of the mouse retina. iScience. 2024 Jun 21; 27(6):109916. PMID: [38812536](//www.ncbi.nlm.nih.gov/pubmed/38812536); PMCID: [PMC11134544](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11134544).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38812536/citedby/)
+
+  3. Ma J, Chu TK, Polo Prieto M, Park Y, Li Y, Chen R, **Mardon G** , [Frankfort BJ](https://profiles.viictr.org/profile/268696), Tran NM. Sample multiplexing for retinal single-cell RNA-sequencing. bioRxiv. 2024 Apr 26. PMID: [38712294](//www.ncbi.nlm.nih.gov/pubmed/38712294); PMCID: [PMC11071429](//www.ncbi.nlm.nih.gov/pmc/articles/PMC11071429).
+
+Citations:
+
+  4. Li J, Choi J, [Cheng X](https://profiles.viictr.org/profile/28999199), [Ma J](https://profiles.viictr.org/profile/33265735), [Pema S](https://profiles.viictr.org/profile/37750019), Sanes JR, **Mardon G** , [Frankfort BJ](https://profiles.viictr.org/profile/268696), Tran NM, Li Y, Chen R. Comprehensive single-cell atlas of the mouse retina. bioRxiv. 2024 Jan 28. PMID: [38328114](//www.ncbi.nlm.nih.gov/pubmed/38328114); PMCID: [PMC10849744](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10849744).
+
+Citations:
+
+  5. [Bollepogu Raja KK](https://profiles.viictr.org/profile/23496120), Yeung K, Shim YK, **Mardon G**. Integrative genomic analyses reveal putative cell type-specific targets of the Drosophila ets transcription factor Pointed. BMC Genomics. 2024 Jan 23; 25(1):103. PMID: [38262913](//www.ncbi.nlm.nih.gov/pubmed/38262913); PMCID: [PMC10807358](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10807358).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  6. Kyobe S, Kisitu G, Mwesigwa S, Farirai J, Katagirya E, Retshabile G, Williams L, Mirembe A, Ketumile L, Wayengera M, Mukisa J, Sebetso G, Diphoko T, Amujal M, Kigozi E, Katabazi F, Oceng R, Mlotshwa B, Morapedi K, [Nsangi B](https://profiles.viictr.org/profile/265713), Wampande E, Kasvosve I, Joloba M, Anabwani G, Mpoloka S, Collaborative African Genomics Network (CAfGEN) of the H3Africa Consortium, Tsimako M, Brown C, **Mardon G** , Kekitiinwa A, [Hanchard NA](https://profiles.viictr.org/profile/268451), Kyosiimire-Lugemwa J, [Matshaba M](https://profiles.viictr.org/profile/3010315), [Kiragga D](https://profiles.viictr.org/profile/39328123). Long-term non-progression and risk factors for disease progression among children living with HIV in Botswana and Uganda: A retrospective cohort study. Int J Infect Dis. 2024 Feb; 139:132-140. PMID: [38036259](//www.ncbi.nlm.nih.gov/pubmed/38036259); PMCID: [PMC10843817](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10843817).
+
+Citations:  Fields:
+
+Com Communicable Diseases
+
+Translation:Humans
+
+  7. [Bollepogu Raja KK](https://profiles.viictr.org/profile/23496120), Yeung K, Shim YK, Li Y, Chen R, **Mardon G**. A single cell genomics atlas of the Drosophila larval eye reveals distinct photoreceptor developmental timelines. Nat Commun. 2023 11 08; 14(1):7205. PMID: [37938573](//www.ncbi.nlm.nih.gov/pubmed/37938573); PMCID: [PMC10632452](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10632452).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37938573/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  8. Yeung K, [Bollepogu Raja KK](https://profiles.viictr.org/profile/23496120), Shim YK, Li Y, Chen R, **Mardon G**. Single cell RNA sequencing of the adult Drosophila eye reveals distinct clusters and novel marker genes for all major cell types. Commun Biol. 2022 12 14; 5(1):1370. PMID: [36517671](//www.ncbi.nlm.nih.gov/pubmed/36517671); PMCID: [PMC9751288](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9751288).
+
+Citations:
+
+  9. Lu J, Xiong K, Qian X, Choi J, Shim YK, Burnett J, **Mardon G** , Chen R. Spata7 is required for maintenance of the retinal connecting cilium. Sci Rep. 2022 04 02; 12(1):5575. PMID: [35368022](//www.ncbi.nlm.nih.gov/pubmed/35368022); PMCID: [PMC8976851](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8976851).
+
+Citations:  Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  10. Kyobe S, Mwesigwa S, Kisitu GP, Farirai J, Katagirya E, Mirembe AN, Ketumile L, Wayengera M, Katabazi FA, Kigozi E, Wampande EM, Retshabile G, Mlotshwa BC, Williams L, Morapedi K, Kasvosve I, Kyosiimire-Lugemwa J, [Nsangi B](https://profiles.viictr.org/profile/265713), Tsimako-Johnstone M, Brown CW, Joloba M, Anabwani G, Bhekumusa L, Mpoloka SW, **Mardon G** , [Matshaba M](https://profiles.viictr.org/profile/3010315), Kekitiinwa A, [Hanchard NA](https://profiles.viictr.org/profile/268451). Exome Sequencing Reveals a Putative Role for HLA-C*03:02 in Control of HIV-1 in African Pediatric Populations. Front Genet. 2021; 12:720213. PMID: [34512729](//www.ncbi.nlm.nih.gov/pubmed/34512729); PMCID: [PMC8428176](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8428176).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34512729/citedby/)
+
+  11. Choudhury A, Aron S, Sengupta D, Botha G, Bensellak T, Wells G, Kumuthini J, Shriner D, Fakim YJ, Ghoorah AW, Dareng E, Odia T, Falola O, Adebiyi E, Hazelhurst S, Mazandu G, Nyangiri OA, Mbiyavanga M, Benkahla A, Kassim SK, Mulder N, Adebamowo SN, Chimusa ER, [Muzny D](https://profiles.viictr.org/profile/268028), Metcalf G, [Gibbs RA](https://profiles.viictr.org/profile/269695), TrypanoGEN Research Group, Rotimi C, H3Africa Consortium, Adeyemo AA, [Hanchard NA](https://profiles.viictr.org/profile/268451), Botigu? LR, Ramsay M, Lombard Z. Author Correction: High-depth African genomes inform human migration and health. Nature. 2021 Apr; 592(7856):E26. PMID: [33846614](//www.ncbi.nlm.nih.gov/pubmed/33846614); PMCID: [PMC8081653](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8081653).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33846614/citedby/) Fields:
+
+Sci Science
+
+  12. Mwesigwa S, Williams L, Retshabile G, Katagirya E, Mboowa G, Mlotshwa B, Kyobe S, Kateete DP, Wampande EM, Wayengera M, Mpoloka SW, Mirembe AN, Kasvosve I, Morapedi K, Kisitu GP, Kekitiinwa AR, Anabwani G, Joloba ML, Matovu E, Mulindwa J, Noyes H, Botha G, Collaborative African Genomics Network (CAfGEN), TrypanoGEN Research Group, Brown CW, **Mardon G** , [Matshaba M](https://profiles.viictr.org/profile/3010315), [Hanchard NA](https://profiles.viictr.org/profile/268451). Unmapped exome reads implicate a role for Anelloviridae in childhood HIV-1 long-term non-progression. NPJ Genom Med. 2021 Mar 19; 6(1):24. PMID: [33741997](//www.ncbi.nlm.nih.gov/pubmed/33741997); PMCID: [PMC7979878](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7979878).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33741997/citedby/)
+
+  13. Choudhury A, Aron S, Sengupta D, Botha G, Bensellak T, Wells G, Kumuthini J, Shriner D, Fakim YJ, Ghoorah AW, Dareng E, Odia T, Falola O, Adebiyi E, Hazelhurst S, Mazandu G, Nyangiri OA, Mbiyavanga M, Benkahla A, Kassim SK, Mulder N, Adebamowo SN, Chimusa ER, [Muzny D](https://profiles.viictr.org/profile/268028), Metcalf G, [Gibbs RA](https://profiles.viictr.org/profile/269695), TrypanoGEN Research Group, Rotimi C, H3Africa Consortium, Adeyemo AA, [Hanchard NA](https://profiles.viictr.org/profile/268451), Botigu? LR, Ramsay M, Lombard Z. High-depth African genomes inform human migration and health. Nature. 2020 10; 586(7831):741-748. PMID: [33116287](//www.ncbi.nlm.nih.gov/pubmed/33116287); PMCID: [PMC7759466](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7759466).
+
+Citations:
+[52](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33116287/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  14. Yeung K, Wang F, Li Y, Wang K, **Mardon G** , Chen R. Integrative genomic analysis reveals novel regulatory mechanisms of eyeless during Drosophila eye development. Nucleic Acids Res. 2018 12 14; 46(22):11743-11758. PMID: [30295802](//www.ncbi.nlm.nih.gov/pubmed/30295802); PMCID: [PMC6294497](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6294497).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30295802/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  15. Roman D, Zhong H, Yaklichkin S, Chen R, **Mardon G**. Conditional loss of Kcnj13 in the retinal pigment epithelium causes photoreceptor degeneration. Exp Eye Res. 2018 11; 176:219-226. PMID: [30009826](//www.ncbi.nlm.nih.gov/pubmed/30009826); PMCID: [PMC6707361](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6707361).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30009826/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  16. Yin W, Kim HT, Wang S, Gunawan F, Wang L, Kishimoto K, Zhong H, Roman D, Preussner J, Guenther S, Graef V, Buettner C, Grohmann B, Looso M, Morimoto M, **Mardon G** , Offermanns S, Stainier DYR. The potassium channel KCNJ13 is essential for smooth muscle cytoskeletal organization during mouse tracheal tubulogenesis. Nat Commun. 2018 07 19; 9(1):2815. PMID: [30022023](//www.ncbi.nlm.nih.gov/pubmed/30022023); PMCID: [PMC6052067](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6052067).
+
+Citations:
+[22](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30022023/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:AnimalsCells
+
+  17. Mboowa G, Mwesigwa S, Katagirya E, Retshabile G, Mlotshwa BC, Williams L, Kekitiinwa A, Kateete D, Wampande E, Wayengera M, Kintu BN, Kisitu GP, Kyobe S, Brown CW, [Hanchard NA](https://profiles.viictr.org/profile/268451), **Mardon G** , Joloba M, Anabwani G, Pettitt E, Tsimako-Johnstone M, Kasvosve I, Maplanka K, Mpoloka SW, Hlatshwayo M, [Matshaba M](https://profiles.viictr.org/profile/3010315). The Collaborative African Genomics Network (CAfGEN): Applying Genomic technologies to probe host factors important to the progression of HIV and HIV-tuberculosis infection in sub-Saharan Africa. AAS Open Res. 2018; 1:3. PMID: [30714022](//www.ncbi.nlm.nih.gov/pubmed/30714022); PMCID: [PMC6358002](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6358002).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30714022/citedby/)
+
+  18. Dharmat R, Eblimit A, Robichaux MA, Zhang Z, Nguyen TT, Jung SY, He F, Jain A, Li Y, Qin J, [Overbeek P](https://profiles.viictr.org/profile/268020), Roepman R, **Mardon G** , [Wensel TG](https://profiles.viictr.org/profile/268119), Chen R. SPATA7 maintains a novel photoreceptor-specific zone in the distal connecting cilium. J Cell Biol. 2018 08 06; 217(8):2851-2865. PMID: [29899041](//www.ncbi.nlm.nih.gov/pubmed/29899041); PMCID: [PMC6080925](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6080925).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29899041/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  19. Retshabile G, Mlotshwa BC, Williams L, Mwesigwa S, Mboowa G, Huang Z, Rustagi N, Swaminathan S, Katagirya E, Kyobe S, Wayengera M, Kisitu GP, Kateete DP, Wampande EM, Maplanka K, Kasvosve I, Pettitt ED, [Matshaba M](https://profiles.viictr.org/profile/3010315), [Nsangi B](https://profiles.viictr.org/profile/265713), Marape M, Tsimako-Johnstone M, Brown CW, Yu F, Kekitiinwa A, Joloba M, Mpoloka SW, **Mardon G** , Anabwani G, [Hanchard NA](https://profiles.viictr.org/profile/268451), Collaborative African Genomics Network (CAfGEN) of the H3Africa Consortium. Whole-Exome Sequencing Reveals Uncaptured Variation and Distinct Ancestry in the Southern African Population of Botswana. Am J Hum Genet. 2018 05 03; 102(5):731-743. PMID: [29706352](//www.ncbi.nlm.nih.gov/pubmed/29706352); PMCID: [PMC5986695](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5986695).
+
+Citations:
+[21](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29706352/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  20. Eblimit A, Zaneveld SA, Liu W, Thomas K, Wang K, Li Y, **Mardon G** , Chen R. NMNAT1 E257K variant, associated with Leber Congenital Amaurosis (LCA9), causes a mild retinal degeneration phenotype. Exp Eye Res. 2018 08; 173:32-43. PMID: [29674119](//www.ncbi.nlm.nih.gov/pubmed/29674119); PMCID: [PMC6054811](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6054811).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29674119/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsPHPublic Health
+
+  21. Eblimit A, Agrawal SA, Thomas K, Anastassov IA, Abulikemu T, Moayedi Y, **Mardon G** , Chen R. Corrigendum to "Conditional loss of Spata7 in photoreceptors causes progressive retinal degeneration in mice" [Exp. Eye Res. 166 (2018) 120-130]. Exp Eye Res. 2018 06; 171:119. PMID: [29579643](//www.ncbi.nlm.nih.gov/pubmed/29579643).
+
+Citations:  Fields:
+
+Oph Ophthalmology
+
+  22. McClard CK, [Kochukov MY](https://profiles.viictr.org/profile/3009880), Herman I, Liu Z, Eblimit A, Moayedi Y, Ortiz-Guzman J, Colchado D, Pekarek B, Panneerselvam S, **Mardon G** , [Arenkiel BR](https://profiles.viictr.org/profile/266249). POU6f1 Mediates Neuropeptide-Dependent Plasticity in the Adult Brain. J Neurosci. 2018 02 07; 38(6):1443-1461. PMID: [29305536](//www.ncbi.nlm.nih.gov/pubmed/29305536); PMCID: [PMC5815346](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5815346).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29305536/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  23. Eblimit A, Agrawal SA, Thomas K, Anastassov IA, Abulikemu T, Moayedi Y, **Mardon G** , Chen R. Conditional loss of Spata7 in photoreceptors causes progressive retinal degeneration in mice. Exp Eye Res. 2018 01; 166:120-130. PMID: [29100828](//www.ncbi.nlm.nih.gov/pubmed/29100828); PMCID: [PMC5756513](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5756513).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29100828/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:AnimalsCells
+
+  24. Mlotshwa BC, Mwesigwa S, Mboowa G, Williams L, Retshabile G, Kekitiinwa A, Wayengera M, Kyobe S, Brown CW, [Hanchard NA](https://profiles.viictr.org/profile/268451), **Mardon G** , Joloba M, Anabwani G, Mpoloka SW. The collaborative African genomics network training program: a trainee perspective on training the next generation of African scientists. Genet Med. 2017 07; 19(7):826-833. PMID: [28383545](//www.ncbi.nlm.nih.gov/pubmed/28383545); PMCID: [PMC5509501](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5509501).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28383545/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  25. Jin M, Eblimit A, Pulikkathara M, Corr S, Chen R, **Mardon G**. Conditional knockout of retinal determination genes in differentiating cells in Drosophila. FEBS J. 2016 08; 283(15):2754-66. PMID: [27257739](//www.ncbi.nlm.nih.gov/pubmed/27257739); PMCID: [PMC4975629](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4975629).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27257739/citedby/) Fields:
+
+Bio Biochemistry
+
+Translation:AnimalsCells
+
+  26. Jin M, Aibar S, Ge Z, Chen R, Aerts S, **Mardon G**. Identification of novel direct targets of Drosophila Sine oculis and Eyes absent by integration of genome-wide data sets. Dev Biol. 2016 07 01; 415(1):157-167. PMID: [27178668](//www.ncbi.nlm.nih.gov/pubmed/27178668); PMCID: [PMC4902760](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4902760).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27178668/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  27. Iyer J, Wang Q, Le T, Pizzo L, Ambegaokar SS, Imai Y, Srivastava A, **Mardon G** , Artero R, [Jackson GR](https://profiles.viictr.org/profile/2619323), Isaacs AM, Partridge L, Lu B, Kumar JP, Girirajan S, Gr?nke S, Trois? BL. Quantitative Assessment of Eye Phenotypes for Functional Genetic Studies Using Drosophila melanogaster. G3 (Bethesda). 2016 05 03; 6(5):1427-37. PMID: [26994292](//www.ncbi.nlm.nih.gov/pubmed/26994292); PMCID: [PMC4856093](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4856093).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26994292/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:Animals
+
+  28. Jin M, **Mardon G**. Distinct Biochemical Activities of Eyes absent During Drosophila Eye Development. Sci Rep. 2016 Mar 16; 6:23228. PMID: [26980695](//www.ncbi.nlm.nih.gov/pubmed/26980695); PMCID: [PMC4793267](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4793267).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26980695/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  29. Yang Z, Zhong H, Chen J, Zhang X, Zhang H, Luo X, Xu S, Chen H, Lu D, Han Y, Li J, Fu L, Qi X, Peng Y, Xiang K, Lin Q, Guo Y, Li M, Cao X, Zhang Y, Liao S, Peng Y, Zhang L, Guo X, Dong S, Liang F, Wang J, Willden A, Seang Aun H, Serey B, Sovannary T, Bunnath L, Samnom H, **Mardon G** , Li Q, Meng A, Shi H, Su B. A Genetic Mechanism for Convergent Skin Lightening during Recent Human Evolution. Mol Biol Evol. 2016 05; 33(5):1177-87. PMID: [26744415](//www.ncbi.nlm.nih.gov/pubmed/26744415); PMCID: [PMC4839214](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4839214).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26744415/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Humans
+
+  30. Zhong H, Chen Y, Li Y, Chen R, **Mardon G**. Erratum: CRISPR-engineered mosaicism rapidly reveals that loss of Kcnj13 function in mice mimics human disease phenotypes. Sci Rep. 2015 Jul 15; 5:9731. PMID: [26177189](//www.ncbi.nlm.nih.gov/pubmed/26177189); PMCID: [PMC4502830](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4502830).
+
+Citations:  Fields:
+
+Sci Science
+
+  31. Zhong H, Eblimit A, Moayedi Y, Boye SL, Chiodo VA, Chen Y, Li Y, Nichols RM, Hauswirth WW, Chen R, **Mardon G**. AAV8(Y733F)-mediated gene therapy in a Spata7 knockout mouse model of Leber congenital amaurosis and retinitis pigmentosa. Gene Ther. 2015 Aug; 22(8):619-27. PMID: [25965394](//www.ncbi.nlm.nih.gov/pubmed/25965394); PMCID: [PMC5026120](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5026120).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25965394/citedby/) Fields:
+
+Gen GeneticsThe Therapeutics
+
+Translation:AnimalsCells
+
+  32. Chen K, Wu K, Jiao X, Wang L, Ju X, Wang M, Di Sante G, Xu S, Wang Q, Li K, Sun X, Xu C, Li Z, Casimiro MC, Ertel A, Addya S, McCue PA, Lisanti MP, Wang C, Davis RJ, **Mardon G** , Pestell RG. The endogenous cell-fate factor dachshund restrains prostate epithelial cell migration via repression of cytokine secretion via a cxcl signaling module. Cancer Res. 2015 May 15; 75(10):1992-2004. PMID: [25769723](//www.ncbi.nlm.nih.gov/pubmed/25769723); PMCID: [PMC4433595](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4433595).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25769723/citedby/) Fields:
+
+Neo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  33. Zhong H, Chen Y, Li Y, [Chen R](https://profiles.viictr.org/profile/266790), **Mardon G**. CRISPR-engineered mosaicism rapidly reveals that loss of Kcnj13 function in mice mimics human disease phenotypes. Sci Rep. 2015 Feb 10; 5:8366. PMID: [25666713](//www.ncbi.nlm.nih.gov/pubmed/25666713); PMCID: [PMC4322368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4322368).
+
+Citations:
+[56](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25666713/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansAnimals
+
+  34. Jusiak B, Wang F, Karandikar UC, Kwak SJ, Wang H, [Chen R](https://profiles.viictr.org/profile/266790), **Mardon G**. Genome-wide DNA binding pattern of the homeodomain transcription factor Sine oculis (So) in the developing eye of Drosophila melanogaster. Genom Data. 2014 Dec 01; 2:153-155. PMID: [25126519](//www.ncbi.nlm.nih.gov/pubmed/25126519); PMCID: [PMC4128500](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4128500).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25126519/citedby/)
+
+  35. Eblimit A, Nguyen TM, Chen Y, Esteve-Rudd J, Zhong H, Letteboer S, Van Reeuwijk J, Simons DL, Ding Q, Wu KM, Li Y, Van Beersum S, Moayedi Y, Xu H, Pickard P, Wang K, Gan L, [Wu SM](https://profiles.viictr.org/profile/267834), Williams DS, **Mardon G** , Roepman R, [Chen R](https://profiles.viictr.org/profile/266790). Spata7 is a retinal ciliopathy gene critical for correct RPGRIP1 localization and protein trafficking in the retina. Hum Mol Genet. 2015 Mar 15; 24(6):1584-601. PMID: [25398945](//www.ncbi.nlm.nih.gov/pubmed/25398945); PMCID: [PMC4351378](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4351378).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398945/citedby/) Fields:
+
+Gen GeneticsMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  36. Karandikar UC, Jin M, Jusiak B, Kwak S, [Chen R](https://profiles.viictr.org/profile/266790), **Mardon G**. Drosophila eyes absent is required for normal cone and pigment cell development. PLoS One. 2014; 9(7):e102143. PMID: [25057928](//www.ncbi.nlm.nih.gov/pubmed/25057928); PMCID: [PMC4109927](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4109927).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25057928/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  37. H3Africa Consortium, Rotimi C, Abayomi A, Abimiku A, Adabayeri VM, Adebamowo C, Adebiyi E, Ademola AD, Adeyemo A, Adu D, Affolabi D, Agongo G, Ajayi S, Akarolo-Anthony S, Akinyemi R, Akpalu A, Alberts M, Alonso Betancourt O, Alzohairy AM, Ameni G, Amodu O, Anabwani G, Andersen K, Arogundade F, Arulogun O, Asogun D, Bakare R, Balde N, Baniecki ML, Beiswanger C, Benkahla A, Bethke L, Boehnke M, Boima V, Brandful J, Brooks AI, Brosius FC, Brown C, Bucheton B, Burke DT, Burnett BG, Carrington-Lawrence S, Carstens N, Chisi J, Christoffels A, Cooper R, Cordell H, Crowther N, Croxton T, de Vries J, Derr L, Donkor P, Doumbia S, Duncanson A, Ekem I, El Sayed A, Engel ME, Enyaru JC, Everett D, Fadlelmola FM, Fakunle E, Fischbeck KH, Fischer A, Folarin O, Gamieldien J, Garry RF, Gaseitsiwe S, Gbadegesin R, Ghansah A, Giovanni M, Goesbeck P, Gomez-Olive FX, Grant DS, Grewal R, Guyer M, [Hanchard NA](https://profiles.viictr.org/profile/268451), Happi CT, Hazelhurst S, Hennig BJ, Hertz- C, Hide W, Hilderbrandt F, Hugo-Hamman C, Ibrahim ME, James R, Jaufeerally-Fakim Y, Jenkins C, Jentsch U, Jiang PP, Joloba M, Jongeneel V, Joubert F, Kader M, Kahn K, Kaleebu P, Kapiga SH, Kassim SK, Kasvosve I, Kayondo J, Keavney B, Kekitiinwa A, Khan SH, Kimmel P, King MC, Kleta R, Koffi M, Kopp J, Kretzler M, Kumuthini J, Kyobe S, Kyobutungi C, Lackland DT, Lacourciere KA, Lawlor R, Lehner T, Lesosky M, Levitt N, Littler K, Lombard Z, Loring JF, Lyantagaye S, Macleod A, Madden EB, Mahomva CR, Makani J, Mamven M, Marape M, **Mardon G** , Marshall P, Martin DP, Masiga D, Mason R, Mate-Kole M, Matovu E, Mayige M, Mayosi BM, Mbanya JC, McCurdy SA, McCarthy MI, McIlleron H, Mc'Ligeyo SO, Merle C, Mocumbi AO, Mondo C, Moran JV, Motala A, Moxey-Mims M, Mpoloka WS, Msefula CL, Mthiyane T, Mulder N, Mulugeta Gh, Mumba D, Musuku J, Nagdee M, Nash O, Ndiaye D, Nguyen AQ, Nicol M, Nkomazana O, Norris S, [Nsangi B](https://profiles.viictr.org/profile/265713), Nyarko A, Nyirenda M, Obe E, Obiakor R, Oduro A, Ofori-Acquah SF, Ogah O, Ogendo S, Ohene-Frempong K, Ojo A, Olanrewaju T, Oli J, Osafo C, Ouwe Missi Oukem-Boyer O, Ovbiagele B, Owen A, Owolabi MO, Owolabi L, Owusu-Dabo E, Pare G, Parekh R, Patterton HG, Penno MB, Peterson J, Pieper R, Plange-Rhule J, Pollak M, Puzak J, Ramesar RS, Ramsay M, Rasooly R, Reddy S, Sabeti PC, Sagoe K, Salako T, Sandhu MS, Sankoh O, Sarfo FS, Sarr M, Shaboodien G, Sidibe I, Simo G, Simuunza M, Smeeth L, Sobngwi E, Soodyall H, Sorgho H, Sow Bah O, Srinivasan S, Stein DJ, Susser ES, Swanepoel C, Tangwa G, Tareila A, Tastan Bishop O, Tayo B, Tiffin N, Tinto H, Tobin E, Tollman SM, Treadwell MJ, Troyer J, Tsimako-Johnstone M, Tukei V, Ulasi I, Ulenga N, van Rooyen B, Wachinou AP, Waddy SP, Wade A, Wayengera M, Whitworth J, Wideroff L, Winkler CA, Winnicki S, Wonkam A, Yewondwos M, sen T, Yozwiak N, Zar H, Landour? G, Samass?kou O, Traor? M. Research capacity. Enabling the genomic revolution in Africa. Science. 2014 Jun 20; 344(6190):1346-8. PMID: [24948725](//www.ncbi.nlm.nih.gov/pubmed/24948725); PMCID: [PMC4138491](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4138491).
+
+Citations:
+[179](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24948725/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Humans
+
+  38. Jusiak B, Karandikar UC, Kwak SJ, Wang F, Wang H, [Chen R](https://profiles.viictr.org/profile/266790), **Mardon G**. Regulation of Drosophila eye development by the transcription factor Sine oculis. PLoS One. 2014; 9(2):e89695. PMID: [24586968](//www.ncbi.nlm.nih.gov/pubmed/24586968); PMCID: [PMC3934907](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3934907).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24586968/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  39. Moayedi Y, Basch ML, Pacheco NL, Gao SS, Wang R, Harrison W, Xiao N, Oghalai JS, [Overbeek PA](https://profiles.viictr.org/profile/268020), **Mardon G** , Groves AK. The candidate splicing factor Sfswap regulates growth and patterning of inner ear sensory organs. PLoS Genet. 2014 Jan; 10(1):e1004055. PMID: [24391519](//www.ncbi.nlm.nih.gov/pubmed/24391519); PMCID: [PMC3879212](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3879212).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24391519/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  40. Atkins M, Jiang Y, Sansores-Garcia L, Jusiak B, Halder G, **Mardon G**. Dynamic rewiring of the Drosophila retinal determination network switches its function from selector to differentiation. PLoS Genet. 2013 Aug; 9(8):e1003731. PMID: [24009524](//www.ncbi.nlm.nih.gov/pubmed/24009524); PMCID: [PMC3757064](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3757064).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24009524/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  41. Li Y, Jiang Y, Chen Y, Karandikar U, Hoffman K, Chattopadhyay A, **Mardon G** , [Chen R](https://profiles.viictr.org/profile/266790). optix functions as a link between the retinal determination network and the dpp pathway to control morphogenetic furrow progression in Drosophila. Dev Biol. 2013 Sep 01; 381(1):50-61. PMID: [23792115](//www.ncbi.nlm.nih.gov/pubmed/23792115); PMCID: [PMC3742619](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3742619).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23792115/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  42. Haase Gilbert E, Kwak SJ, [Chen R](https://profiles.viictr.org/profile/266790), **Mardon G**. Drosophila signal peptidase complex member Spase12 is required for development and cell differentiation. PLoS One. 2013; 8(4):e60908. PMID: [23573290](//www.ncbi.nlm.nih.gov/pubmed/23573290); PMCID: [PMC3616019](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3616019).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23573290/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:Animals
+
+  43. Jin M, Jusiak B, Bai Z, **Mardon G**. Eyes absent tyrosine phosphatase activity is not required for Drosophila development or survival. PLoS One. 2013; 8(3):e58818. PMID: [23554934](//www.ncbi.nlm.nih.gov/pubmed/23554934); PMCID: [PMC3595212](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3595212).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23554934/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  44. Jusiak B, Abulimiti A, [Haelterman N](https://profiles.viictr.org/profile/1826458), [Chen R](https://profiles.viictr.org/profile/266790), **Mardon G**. MAPK target sites of eyes absent are not required for eye development or survival in Drosophila. PLoS One. 2012; 7(12):e50776. PMID: [23251383](//www.ncbi.nlm.nih.gov/pubmed/23251383); PMCID: [PMC3520925](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3520925).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23251383/citedby/) Fields:
+
+Med Medicine (General)Sci Science
+
+Translation:AnimalsCells
+
+  45. Koenekoop RK, Wang H, Majewski J, Wang X, Lopez I, Ren H, Chen Y, Li Y, Fishman GA, Genead M, Schwartzentruber J, Solanki N, Traboulsi EI, Cheng J, Logan CV, McKibbin M, Hayward BE, Parry DA, Johnson CA, Nageeb M, Finding of Rare Disease Genes (FORGE) Canada Consortium, Poulter JA, Mohamed MD, Jafri H, Rashid Y, Taylor GR, Keser V, **Mardon G** , Xu H, Inglehearn CF, Fu Q, Toomes C, Chen R. Mutations in NMNAT1 cause Leber congenital amaurosis and identify a new disease pathway for retinal degeneration. Nat Genet. 2012 Sep; 44(9):1035-9. PMID: [22842230](//www.ncbi.nlm.nih.gov/pubmed/22842230); PMCID: [PMC3657614](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3657614).
+
+Citations:
+[99](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22842230/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  46. Wang H, Chen X, Dudinsky L, Patenia C, Chen Y, Li Y, [Wei Y](https://profiles.viictr.org/profile/12583101), Abboud EB, Al-Rajhi AA, Lewis RA, [Lupski JR](https://profiles.viictr.org/profile/268099), **Mardon G** , [Gibbs RA](https://profiles.viictr.org/profile/269695), Perkins BD, [Chen R](https://profiles.viictr.org/profile/266790). Exome capture sequencing identifies a novel mutation in BBS4. Mol Vis. 2011; 17:3529-40. PMID: [22219648](//www.ncbi.nlm.nih.gov/pubmed/22219648); PMCID: [PMC3250376](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3250376).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22219648/citedby/) Fields:
+
+Mol Molecular BiologyOph Ophthalmology
+
+Translation:HumansAnimalsCells
+
+  47. Wang X, Wang H, Cao M, Li Z, Chen X, Patenia C, Gore A, Abboud EB, Al-Rajhi AA, Lewis RA, [Lupski JR](https://profiles.viictr.org/profile/268099), **Mardon G** , Zhang K, [Muzny D](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), [Chen R](https://profiles.viictr.org/profile/266790). Whole-exome sequencing identifies ALMS1, IQCB1, CNGA3, and MYO7A mutations in patients with Leber congenital amaurosis. Hum Mutat. 2011 Dec; 32(12):1450-9. PMID: [21901789](//www.ncbi.nlm.nih.gov/pubmed/21901789); PMCID: [PMC3943164](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3943164).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21901789/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  48. Karandikar UC, Pepple KL, Chen Z, Bergmann A, **Mardon G** , Anderson AE. The enhancer of trithorax and polycomb gene Caf1/p55 is essential for cell survival and patterning in Drosophila development. Development. 2011 May; 138(10):1957-66. PMID: [21490066](//www.ncbi.nlm.nih.gov/pubmed/21490066); PMCID: [PMC3082301](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3082301).
+
+Citations:
+[19](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21490066/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  49. Jiang Y, Scott KL, Kwak SJ, Chen R, **Mardon G**. Sds22/PP1 links epithelial integrity and tumor suppression via regulation of myosin II and JNK signaling. Oncogene. 2011 Jul 21; 30(29):3248-60. PMID: [21399659](//www.ncbi.nlm.nih.gov/pubmed/21399659); PMCID: [PMC3141090](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3141090).
+
+Citations:
+[15](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21399659/citedby/) Fields:
+
+Mol Molecular BiologyNeo Neoplasms
+
+Translation:HumansAnimalsCells
+
+  50. Wiszniewski W, Lewis RA, Stockton DW, Peng J, **Mardon G** , [Chen R](https://profiles.viictr.org/profile/266790), [Lupski JR](https://profiles.viictr.org/profile/268099). Potential involvement of more than one locus in trait manifestation for individuals with Leber congenital amaurosis. Hum Genet. 2011 Mar; 129(3):319-27. PMID: [21153841](//www.ncbi.nlm.nih.gov/pubmed/21153841); PMCID: [PMC3625363](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3625363).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21153841/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  51. Popov VM, Wu K, Zhou J, Powell MJ, **Mardon G** , Wang C, Pestell RG. The Dachshund gene in development and hormone-responsive tumorigenesis. Trends Endocrinol Metab. 2010 Jan; 21(1):41-9. PMID: [19896866](//www.ncbi.nlm.nih.gov/pubmed/19896866); PMCID: [PMC2818438](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2818438).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19896866/citedby/) Fields:
+
+End EndocrinologyMet Metabolism
+
+Translation:HumansAnimals
+
+  52. Atkins M, **Mardon G**. Signaling in the third dimension: the peripodial epithelium in eye disc development. Dev Dyn. 2009 Sep; 238(9):2139-48. PMID: [19623613](//www.ncbi.nlm.nih.gov/pubmed/19623613); PMCID: [PMC2733925](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2733925).
+
+Citations:
+[18](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19623613/citedby/) Fields:
+
+Ana Anatomy
+
+Translation:HumansAnimalsCells
+
+  53. Wang H, den Hollander AI, Moayedi Y, Abulimiti A, Li Y, Collin RW, Hoyng CB, Lopez I, Abboud EB, Al-Rajhi AA, Bray M, Lewis RA, [Lupski JR](https://profiles.viictr.org/profile/268099), **Mardon G** , Koenekoop RK, [Chen R](https://profiles.viictr.org/profile/266790). Mutations in SPATA7 cause Leber congenital amaurosis and juvenile retinitis pigmentosa. Am J Hum Genet. 2009 Mar; 84(3):380-7. PMID: [19268277](//www.ncbi.nlm.nih.gov/pubmed/19268277); PMCID: [PMC2668010](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2668010).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19268277/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansAnimals
+
+  54. Pepple KL, Atkins M, [Venken K](https://profiles.viictr.org/profile/3010184), Wellnitz K, Harding M, [Frankfort B](https://profiles.viictr.org/profile/268696), **Mardon G**. Two-step selection of a single R8 photoreceptor: a bistable loop between senseless and rough locks in R8 fate. Development. 2008 Dec; 135(24):4071-9. PMID: [19004852](//www.ncbi.nlm.nih.gov/pubmed/19004852); PMCID: [PMC3135101](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3135101).
+
+Citations:
+[32](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19004852/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  55. Li Y, Wang H, Peng J, [Gibbs RA](https://profiles.viictr.org/profile/269695), Lewis RA, [Lupski JR](https://profiles.viictr.org/profile/268099), **Mardon G** , Chen R. Mutation survey of known LCA genes and loci in the Saudi Arabian population. Invest Ophthalmol Vis Sci. 2009 Mar; 50(3):1336-43. PMID: [18936139](//www.ncbi.nlm.nih.gov/pubmed/18936139); PMCID: [PMC2695987](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2695987).
+
+Citations:
+[35](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18936139/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:HumansCells
+
+  56. Davis RJ, Harding M, Moayedi Y, **Mardon G**. Mouse Dach1 and Dach2 are redundantly required for M?llerian duct development. Genesis. 2008 Apr; 46(4):205-13. PMID: [18395837](//www.ncbi.nlm.nih.gov/pubmed/18395837).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18395837/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  57. Pepple KL, [Frankfort BJ](https://profiles.viictr.org/profile/268696), **Mardon G** , Anderson AE. A genetic screen in Drosophila for genes interacting with senseless during neuronal development identifies the importin moleskin. Genetics. 2007 Jan; 175(1):125-41. PMID: [17110483](//www.ncbi.nlm.nih.gov/pubmed/17110483); PMCID: [PMC1774993](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1774993).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17110483/citedby/) Fields:
+
+Gen Genetics
+
+Translation:AnimalsCells
+
+  58. [Ostrin EJ](https://profiles.viictr.org/profile/12583225), Li Y, Hoffman K, Liu J, Wang K, Zhang L, **Mardon G** , [Chen R](https://profiles.viictr.org/profile/266790). Genome-wide identification of direct targets of the Drosophila retinal determination protein Eyeless. Genome Res. 2006 Apr; 16(4):466-76. PMID: [16533912](//www.ncbi.nlm.nih.gov/pubmed/16533912); PMCID: [PMC1457028](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1457028).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16533912/citedby/) Fields:
+
+Gen Genetics
+
+Translation:Animals
+
+  59. Davis RJ, Pesah YI, Harding M, Paylor R, **Mardon G**. Mouse Dach2 mutants do not exhibit gross defects in eye development or brain function. Genesis. 2006 Feb; 44(2):84-92. PMID: [16470613](//www.ncbi.nlm.nih.gov/pubmed/16470613).
+
+Citations:
+[11](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16470613/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  60. Purcell P, Oliver G, **Mardon G** , Donner AL, Maas RL. Pax6-dependence of Six3, Eya1 and Dach1 expression during lens and nasal placode induction. Gene Expr Patterns. 2005 Dec; 6(1):110-8. PMID: [16024294](//www.ncbi.nlm.nih.gov/pubmed/16024294).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/16024294/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:Animals
+
+  61. [Chen R](https://profiles.viictr.org/profile/266790), **Mardon G**. Keeping an eye on the fly genome. Dev Biol. 2005 Jun 15; 282(2):285-93. PMID: [15893305](//www.ncbi.nlm.nih.gov/pubmed/15893305).
+
+Citations:  Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  62. Pappu KS, [Ostrin EJ](https://profiles.viictr.org/profile/12583225), Middlebrooks BW, Sili BT, [Chen R](https://profiles.viictr.org/profile/266790), Atkins MR, Gibbs R, **Mardon G**. Dual regulation and redundant function of two eye-specific enhancers of the Drosophila retinal determination gene dachshund. Development. 2005 Jun; 132(12):2895-905. PMID: [15930118](//www.ncbi.nlm.nih.gov/pubmed/15930118).
+
+Citations:
+[48](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15930118/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  63. Pesah Y, Burgess H, Middlebrooks B, Ronningen K, Prosser J, Tirunagaru V, Zysk J, **Mardon G**. Whole-mount analysis reveals normal numbers of dopaminergic neurons following misexpression of alpha-Synuclein in Drosophila. Genesis. 2005 Apr; 41(4):154-9. PMID: [15789427](//www.ncbi.nlm.nih.gov/pubmed/15789427).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15789427/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  64. Domingos PM, Brown S, Barrio R, Ratnakumar K, [Frankfort BJ](https://profiles.viictr.org/profile/268696), **Mardon G** , Steller H, Mollereau B. Regulation of R7 and R8 differentiation by the spalt genes. Dev Biol. 2004 Sep 01; 273(1):121-33. PMID: [15302602](//www.ncbi.nlm.nih.gov/pubmed/15302602).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15302602/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  65. Tavsanli BC, [Ostrin EJ](https://profiles.viictr.org/profile/12583225), Burgess HK, Middlebrooks BW, Pham TA, **Mardon G**. Structure-function analysis of the Drosophila retinal determination protein Dachshund. Dev Biol. 2004 Aug 01; 272(1):231-47. PMID: [15242803](//www.ncbi.nlm.nih.gov/pubmed/15242803).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15242803/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  66. Pesah Y, Pham T, Burgess H, Middlebrooks B, Verstreken P, Zhou Y, Harding M, [Bellen H](https://profiles.viictr.org/profile/268278), **Mardon G**. Drosophila parkin mutants have decreased mass and cell size and increased sensitivity to oxygen radical stress. Development. 2004 May; 131(9):2183-94. PMID: [15073152](//www.ncbi.nlm.nih.gov/pubmed/15073152).
+
+Citations:
+[189](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15073152/citedby/)
+Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  67. [Frankfort BJ](https://profiles.viictr.org/profile/268696), Pepple KL, Mamlouk M, Rose MF, **Mardon G**. Senseless is required for pupal retinal development in Drosophila. Genesis. 2004 Apr; 38(4):182-94. PMID: [15083519](//www.ncbi.nlm.nih.gov/pubmed/15083519).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15083519/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:AnimalsCells
+
+  68. [Frankfort BJ](https://profiles.viictr.org/profile/268696), **Mardon G**. Senseless represses nuclear transduction of Egfr pathway activation. Development. 2004 Feb; 131(3):563-70. PMID: [14711872](//www.ncbi.nlm.nih.gov/pubmed/14711872).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14711872/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  69. Pappu KS, **Mardon G**. Genetic control of retinal specification and determination in Drosophila. Int J Dev Biol. 2004; 48(8-9):913-24. PMID: [15558482](//www.ncbi.nlm.nih.gov/pubmed/15558482).
+
+Citations:
+[39](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15558482/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  70. Rayapureddi JP, Kattamuri C, Steinmetz BD, [Frankfort BJ](https://profiles.viictr.org/profile/268696), [Ostrin EJ](https://profiles.viictr.org/profile/12583225), **Mardon G** , Hegde RS. Eyes absent represents a class of protein tyrosine phosphatases. Nature. 2003 Nov 20; 426(6964):295-8. PMID: [14628052](//www.ncbi.nlm.nih.gov/pubmed/14628052).
+
+Citations:
+[102](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/14628052/citedby/)
+Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  71. Davis RJ, Tavsanli BC, Dittrich C, Walldorf U, **Mardon G**. Drosophila retinal homeobox (drx) is not required for establishment of the visual system, but is required for brain and clypeus development. Dev Biol. 2003 Jul 15; 259(2):272-87. PMID: [12871701](//www.ncbi.nlm.nih.gov/pubmed/12871701).
+
+Citations:
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12871701/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  72. Pappu KS, [Chen R](https://profiles.viictr.org/profile/266790), Middlebrooks BW, Woo C, Heberlein U, **Mardon G**. Mechanism of hedgehog signaling during Drosophila eye development. Development. 2003 Jul; 130(13):3053-62. PMID: [12756186](//www.ncbi.nlm.nih.gov/pubmed/12756186).
+
+Citations:
+[36](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/12756186/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  73. Inoue Y, Mito T, Miyawaki K, Matsushima K, Shinmyo Y, Heanue TA, **Mardon G** , Ohuchi H, Noji S. Correlation of expression patterns of homothorax, dachshund, and Distal-less with the proximodistal segmentation of the cricket leg bud. Mech Dev. 2002 May; 113(2):141-8. PMID: [11960702](//www.ncbi.nlm.nih.gov/pubmed/11960702).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11960702/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:Animals
+
+  74. [Frankfort BJ](https://profiles.viictr.org/profile/268696), **Mardon G**. R8 development in the Drosophila eye: a paradigm for neural selection and differentiation. Development. 2002 Mar; 129(6):1295-306. PMID: [11880339](//www.ncbi.nlm.nih.gov/pubmed/11880339).
+
+Citations:
+[63](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11880339/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  75. Loosli F, **Mardon G** , Wittbrodt J. Cloning and expression of medaka Dachshund. Mech Dev. 2002 Mar; 112(1-2):203-6. PMID: [11850196](//www.ncbi.nlm.nih.gov/pubmed/11850196).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11850196/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  76. Heanue TA, Davis RJ, Rowitch DH, Kispert A, McMahon AP, **Mardon G** , Tabin CJ. Dach1, a vertebrate homologue of Drosophila dachshund, is expressed in the developing eye and ear of both chick and mouse and is regulated independently of Pax and Eya genes. Mech Dev. 2002 Feb; 111(1-2):75-87. PMID: [11804780](//www.ncbi.nlm.nih.gov/pubmed/11804780).
+
+Citations:
+[12](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11804780/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  77. Pappu K, **Mardon G**. Retinal specification and determination in Drosophila. Results Probl Cell Differ. 2002; 37:5-20. PMID: [25707066](//www.ncbi.nlm.nih.gov/pubmed/25707066).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25707066/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  78. [Frankfort BJ](https://profiles.viictr.org/profile/268696), Nolo R, Zhang Z, Bellen H, **Mardon G**. senseless repression of rough is required for R8 photoreceptor differentiation in the developing Drosophila eye. Neuron. 2001 Nov 08; 32(3):403-14. PMID: [11709152](//www.ncbi.nlm.nih.gov/pubmed/11709152); PMCID: [PMC3122332](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3122332).
+
+Citations:
+[61](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11709152/citedby/) Fields:
+
+Neu Neurology
+
+Translation:AnimalsCells
+
+  79. Tavsanli BC, Pappu KS, Mehta SQ, **Mardon G**. Dbest1, a Drosophila homolog of human Bestrophin, is not required for viability or photoreceptor integrity. Genesis. 2001 Nov; 31(3):130-6. PMID: [11747204](//www.ncbi.nlm.nih.gov/pubmed/11747204).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11747204/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  80. Davis RJ, Shen W, Sandler YI, Heanue TA, **Mardon G**. Characterization of mouse Dach2, a homologue of Drosophila dachshund. Mech Dev. 2001 Apr; 102(1-2):169-79. PMID: [11287190](//www.ncbi.nlm.nih.gov/pubmed/11287190).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11287190/citedby/) Fields:
+
+Cel Cell BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  81. Davis RJ, Shen W, Sandler YI, Amoui M, Purcell P, Maas R, Ou CN, Vogel H, Beaudet AL, **Mardon G**. Dach1 mutant mice bear no gross abnormalities in eye, limb, and brain development and exhibit postnatal lethality. Mol Cell Biol. 2001 Mar; 21(5):1484-90. PMID: [11238885](//www.ncbi.nlm.nih.gov/pubmed/11238885); PMCID: [PMC86694](//www.ncbi.nlm.nih.gov/pmc/articles/PMC86694).
+
+Citations:
+[29](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/11238885/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:Animals
+
+  82. Martini SR, Roman G, Meuser S, **Mardon G** , Davis RL. The retinal determination gene, dachshund, is required for mushroom body cell differentiation. Development. 2000 Jun; 127(12):2663-72. PMID: [10821764](//www.ncbi.nlm.nih.gov/pubmed/10821764).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10821764/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  83. Heanue TA, Reshef R, Davis RJ, **Mardon G** , Oliver G, Tomarev S, Lassar AB, Tabin CJ. Synergistic regulation of vertebrate muscle development by Dach2, Eya2, and Six1, homologs of genes required for Drosophila eye formation. Genes Dev. 1999 Dec 15; 13(24):3231-43. PMID: [10617572](//www.ncbi.nlm.nih.gov/pubmed/10617572); PMCID: [PMC317207](//www.ncbi.nlm.nih.gov/pmc/articles/PMC317207).
+
+Citations:
+[93](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10617572/citedby/) Fields:
+
+Mol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  84. Davis RJ, Shen W, Heanue TA, **Mardon G**. Mouse Dach, a homologue of Drosophila dachshund, is expressed in the developing retina, brain and limbs. Dev Genes Evol. 1999 Sep; 209(9):526-36. PMID: [10502109](//www.ncbi.nlm.nih.gov/pubmed/10502109).
+
+Citations:
+[27](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/10502109/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:HumansAnimalsCells
+
+  85. Chen R, Halder G, Zhang Z, **Mardon G**. Signaling by the TGF-beta homolog decapentaplegic functions reiteratively within the network of genes controlling retinal cell fate determination in Drosophila. Development. 1999 Feb; 126(5):935-43. PMID: [9927595](//www.ncbi.nlm.nih.gov/pubmed/9927595).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9927595/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  86. Chen R, Amoui M, Zhang Z, **Mardon G**. Dachshund and eyes absent proteins form a complex and function synergistically to induce ectopic eye development in Drosophila. Cell. 1997 Dec 26; 91(7):893-903. PMID: [9428513](//www.ncbi.nlm.nih.gov/pubmed/9428513).
+
+Citations:
+[120](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9428513/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  87. Shen W, **Mardon G**. Ectopic eye development in Drosophila induced by directed dachshund expression. Development. 1997 Jan; 124(1):45-52. PMID: [9006066](//www.ncbi.nlm.nih.gov/pubmed/9006066).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/9006066/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:Animals
+
+  88. **Mardon G** , Solomon NM, Rubin GM. dachshund encodes a nuclear protein required for normal eye and leg development in Drosophila. Development. 1994 Dec; 120(12):3473-86. PMID: [7821215](//www.ncbi.nlm.nih.gov/pubmed/7821215).
+
+Citations:
+[180](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7821215/citedby/) Fields:
+
+Bio BiologyEmb Embryology
+
+Translation:AnimalsCells
+
+  89. Gaul U, **Mardon G** , Rubin GM. A putative Ras GTPase activating protein acts as a negative regulator of signaling by the Sevenless receptor tyrosine kinase. Cell. 1992 Mar 20; 68(6):1007-19. PMID: [1547500](//www.ncbi.nlm.nih.gov/pubmed/1547500).
+
+Citations:
+[79](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1547500/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  90. Simon MA, Carthew RW, Fortini ME, Gaul U, **Mardon G** , Rubin GM. Signal transduction pathway initiated by activation of the sevenless tyrosine kinase receptor. Cold Spring Harb Symp Quant Biol. 1992; 57:375-80. PMID: [1339672](//www.ncbi.nlm.nih.gov/pubmed/1339672).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/1339672/citedby/) Fields:
+
+Bio Biology
+
+Translation:AnimalsCells
+
+  91. **Mardon G** , Luoh SW, Simpson EM, Gill G, Brown LG, Page DC. Mouse Zfx protein is similar to Zfy-2: each contains an acidic activating domain and 13 zinc fingers. Mol Cell Biol. 1990 Feb; 10(2):681-8. PMID: [2105457](//www.ncbi.nlm.nih.gov/pubmed/2105457); PMCID: [PMC360866](//www.ncbi.nlm.nih.gov/pmc/articles/PMC360866).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2105457/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  92. Beer-Romero P, Brown LG, **Mardon G** , Luoh SW, Page DC, Schneider-G?dicke A. Putative transcription activator with alternative isoforms encoded by human ZFX gene. Nature. 1989 Dec 07; 342(6250):708-11. PMID: [2512506](//www.ncbi.nlm.nih.gov/pubmed/2512506).
+
+Citations:
+[34](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2512506/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  93. Schaeffer E, Smith D, **Mardon G** , Quinn W, Zuker C. Isolation and characterization of two new drosophila protein kinase C genes, including one specifically expressed in photoreceptor cells. Cell. 1989 May 05; 57(3):403-12. PMID: [2720775](//www.ncbi.nlm.nih.gov/pubmed/2720775).
+
+Citations:
+[45](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2720775/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  94. **Mardon G** , Page DC. The sex-determining region of the mouse Y chromosome encodes a protein with a highly acidic domain and 13 zinc fingers. Cell. 1989 Mar 10; 56(5):765-70. PMID: [2493989](//www.ncbi.nlm.nih.gov/pubmed/2493989).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2493989/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+  95. **Mardon G** , Mosher R, Disteche CM, Nishioka Y, McLaren A, Page DC. Duplication, deletion, and polymorphism in the sex-determining region of the mouse Y chromosome. Science. 1989 Jan 06; 243(4887):78-80. PMID: [2563173](//www.ncbi.nlm.nih.gov/pubmed/2563173).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2563173/citedby/) Fields:
+
+Sci Science
+
+Translation:AnimalsCells
+
+  96. Kaplan JM, **Mardon G** , Bishop JM, Varmus HE. The first seven amino acids encoded by the v-src oncogene act as a myristylation signal: lysine 7 is a critical determinant. Mol Cell Biol. 1988 Jun; 8(6):2435-41. PMID: [2841581](//www.ncbi.nlm.nih.gov/pubmed/2841581); PMCID: [PMC363442](//www.ncbi.nlm.nih.gov/pmc/articles/PMC363442).
+
+Citations:
+[67](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2841581/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:AnimalsCells
+
+  97. Page DC, Mosher R, Simpson EM, Fisher EM, **Mardon G** , Pollack J, McGillivray B, de la Chapelle A, Brown LG. The sex-determining region of the human Y chromosome encodes a finger protein. Cell. 1987 Dec 24; 51(6):1091-104. PMID: [3690661](//www.ncbi.nlm.nih.gov/pubmed/3690661).
+
+Citations:
+[202](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/3690661/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:HumansAnimalsCells
+
+  98. Parker RC, **Mardon G** , Lebo RV, Varmus HE, Bishop JM. Isolation of duplicated human c-src genes located on chromosomes 1 and 20. Mol Cell Biol. 1985 Apr; 5(4):831-8. PMID: [2581127](//www.ncbi.nlm.nih.gov/pubmed/2581127); PMCID: [PMC366788](//www.ncbi.nlm.nih.gov/pmc/articles/PMC366788).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/2581127/citedby/) Fields:
+
+Cel Cell BiologyMol Molecular Biology
+
+Translation:HumansAnimalsCells
+
+  99. **Mardon G** , Varmus HE. Frameshift and intragenic suppressor mutations in a Rous sarcoma provirus suggest src encodes two proteins. Cell. 1983 Mar; 32(3):871-9. PMID: [6299579](//www.ncbi.nlm.nih.gov/pubmed/6299579).
+
+Citations:
+[28](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/6299579/citedby/) Fields:
+
+Cel Cell Biology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 88 publications over 26 distinct years, with a maximum of
+9 publications in
+2018](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|9&cht=bvs&chd=t:11,0,0,22,0,33,11,44,56,33,67,44,33,0,33,33,11,44,22,44,67,44,56,22,100,0,11,33,22,22,56&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+1994| 1  
+1997| 2  
+1999| 3  
+2000| 1  
+2001| 4  
+2002| 5  
+2003| 3  
+2004| 6  
+2005| 4  
+2006| 3  
+2008| 3  
+2009| 3  
+2010| 1  
+2011| 4  
+2012| 2  
+2013| 4  
+2014| 6  
+2015| 4  
+2016| 5  
+2017| 2  
+2018| 9  
+2020| 1  
+2021| 3  
+2022| 2  
+2023| 2  
+2024| 5  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+MARDON's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (434)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Drosophila Proteins](https://profiles.viictr.org/profile/254034)
+  * [Drosophila](https://profiles.viictr.org/profile/264471)
+  * [Eye Proteins](https://profiles.viictr.org/profile/249145)
+  * [Eye](https://profiles.viictr.org/profile/262525)
+  * [Drosophila melanogaster](https://profiles.viictr.org/profile/246028)
+
+[Explore](https://profiles.viictr.org/profile/268168/198)
+
+_
+
+Co-Authors (24)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [Bollepogu Raja, Komal Kumar](https://profiles.viictr.org/profile/23496120)
+  * [CHEN, RUI](https://profiles.viictr.org/profile/266790)
+  * [FRANKFORT, BENJAMIN](https://profiles.viictr.org/profile/268696)
+  * [HANCHARD, NEIL](https://profiles.viictr.org/profile/268451)
+  * [MATSHABA, MOGOMOTSI](https://profiles.viictr.org/profile/3010315)
+
+[Explore](https://profiles.viictr.org/profile/268168/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BELLEN, HUGO](https://profiles.viictr.org/profile/268278)
+  * [DAVIS, RONALD](https://profiles.viictr.org/profile/268115)
+  * [YAMAMOTO, SHINYA](https://profiles.viictr.org/profile/3009536)
+  * [GALKO, MICHAEL J](https://profiles.viictr.org/profile/12583079)
+  * [JAFAR-NEJAD, HAMED](https://profiles.viictr.org/profile/269877)
+
+[Explore](https://profiles.viictr.org/profile/268168/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHIKWAVA, KUDAKWASHE](https://profiles.viictr.org/profile/38090300)
+  * [ESTRELLA PEREZ, YDAMIS](https://profiles.viictr.org/profile/43204626)
+  * [HUANG, RONGRONG](https://profiles.viictr.org/profile/29494182)
+  * [LINES, BARBARA](https://profiles.viictr.org/profile/39075288)
+  * [PEI, YING](https://profiles.viictr.org/profile/45080773)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqATN/PyW6vHZjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [MONZON, FEDERICO](https://profiles.viictr.org/profile/267110)
+  * [OZEN, MUSTAFA](https://profiles.viictr.org/profile/265593)
+  * [REED, JON](https://profiles.viictr.org/profile/267094)
+  * [SAVIDGE, TOR](https://profiles.viictr.org/profile/270090)
+  * [WANG, JING](https://profiles.viictr.org/profile/3010469)
+
+_
+

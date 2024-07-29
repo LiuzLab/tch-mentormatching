@@ -1,0 +1,245 @@
+## MATTHEW ROSS
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular Virology & Microbiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=O6gi7nbUQIn2S8Ho5G4%3d&rnd=45bab3a8-cf96-484c-8f2c-5ff86978b1c7)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=1826609)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. [Tisza M](https://profiles.viictr.org/profile/42513162), [Javornik Cregeen S](https://profiles.viictr.org/profile/31330339), [Avadhanula V](https://profiles.viictr.org/profile/28999033), Zhang P, Ayvaz T, Feliz K, Hoffman KL, Clark JR, Terwilliger A, **Ross MC** , Cormier J, Moreno H, Wang L, Payne K, Henke D, [Troisi C](https://profiles.viictr.org/profile/266717), Wu F, Rios J, Deegan J, Hansen B, Balliew J, Gitter A, Zhang K, Li R, Bauer CX, Mena KD, [Piedra PA](https://profiles.viictr.org/profile/268114), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Maresso AW](https://profiles.viictr.org/profile/269263). Wastewater sequencing reveals community and variant dynamics of the collective human virome. Nat Commun. 2023 10 28; 14(1):6878. PMID: [37898601](//www.ncbi.nlm.nih.gov/pubmed/37898601); PMCID: [PMC10613200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10613200).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37898601/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCellsPHPublic Health
+
+  2. Clark JR, Terwilliger A, [Avadhanula V](https://profiles.viictr.org/profile/28999033), [Tisza M](https://profiles.viictr.org/profile/42513162), Cormier J, Javornik-Cregeen S, **Ross MC** , Hoffman KL, [Troisi C](https://profiles.viictr.org/profile/266717), Hanson B, [Petrosino J](https://profiles.viictr.org/profile/267058), Balliew J, [Piedra PA](https://profiles.viictr.org/profile/268114), Rios J, Deegan J, Bauer C, Wu F, Mena KD, [Boerwinkle E](https://profiles.viictr.org/profile/267689), [Maresso AW](https://profiles.viictr.org/profile/269263). Wastewater pandemic preparedness: Toward an end-to-end pathogen monitoring program. Front Public Health. 2023; 11:1137881. PMID: [37026145](//www.ncbi.nlm.nih.gov/pubmed/37026145); PMCID: [PMC10070845](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10070845).
+
+Citations:  Fields:
+
+Pub Public Health
+
+Translation:HumansCellsPHPublic Health
+
+  3. Piedra FA, Henke D, Rajan A, [Muzny DM](https://profiles.viictr.org/profile/268028), Doddapaneni H, Menon VK, Hoffman KL, **Ross MC** , [Javornik Cregeen SJ](https://profiles.viictr.org/profile/31330339), Metcalf G, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Avadhanula V](https://profiles.viictr.org/profile/28999033), [Piedra PA](https://profiles.viictr.org/profile/268114). Modeling nonsegmented negative-strand RNA virus (NNSV) transcription with ejective polymerase collisions and biased diffusion. Front Mol Biosci. 2022; 9:1095193. PMID: [36699700](//www.ncbi.nlm.nih.gov/pubmed/36699700); PMCID: [PMC9868645](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9868645).
+
+Citations:
+
+  4. Menon VK, [Okhuysen PC](https://profiles.viictr.org/profile/12583928), Chappell CL, Mahmoud M, [Mahmoud M](https://profiles.viictr.org/profile/24845337), [Meng Q](https://profiles.viictr.org/profile/12583622), Doddapaneni H, Vee V, [Han Y](https://profiles.viictr.org/profile/269818), Salvi S, Bhamidipati S, Kottapalli K, Weissenberger G, Shen H, **Ross MC** , Hoffman KL, Cregeen SJ, [Muzny DM](https://profiles.viictr.org/profile/268028), Metcalf GA, [Gibbs RA](https://profiles.viictr.org/profile/269695), [Petrosino JF](https://profiles.viictr.org/profile/267058), [Sedlazeck FJ](https://profiles.viictr.org/profile/24845007). Fully resolved assembly of Cryptosporidium parvum. Gigascience. 2022 02 15; 11. PMID: [35166336](//www.ncbi.nlm.nih.gov/pubmed/35166336); PMCID: [PMC8848321](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8848321).
+
+Citations:  Fields:
+
+Com Computational BiologyGen Genetics
+
+Translation:HumansAnimals
+
+  5. Stewart CJ, Ajami NJ, O'Brien JL, Hutchinson DS, Smith DP, Wong MC, **Ross MC** , [Lloyd RE](https://profiles.viictr.org/profile/269833), Doddapaneni H, Metcalf GA, [Muzny D](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), Vatanen T, Huttenhower C, Xavier RJ, Rewers M, Hagopian W, Toppari J, She JX, Akolkar B, Hyoty H, Vehik K, Krischer JP, [Petrosino JF](https://profiles.viictr.org/profile/267058), Ziegler AG, Lernmark A. Temporal development of the gut microbiome in early childhood from the TEDDY study. Nature. 2018 10; 562(7728):583-588. PMID: [30356187](//www.ncbi.nlm.nih.gov/pubmed/30356187); PMCID: [PMC6415775](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6415775).
+
+Citations:
+[435](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30356187/citedby/)
+Fields:
+
+Sci Science
+
+Translation:HumansAnimalsCells
+
+  6. Ajami NJ, Wong MC, **Ross MC** , [Lloyd RE](https://profiles.viictr.org/profile/269833), [Petrosino JF](https://profiles.viictr.org/profile/267058). Maximal viral information recovery from sequence data using VirMAP. Nat Commun. 2018 08 10; 9(1):3205. PMID: [30097567](//www.ncbi.nlm.nih.gov/pubmed/30097567); PMCID: [PMC6086868](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6086868).
+
+Citations:
+[17](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30097567/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  7. Nash AK, Auchtung TA, Wong MC, Smith DP, Gesell JR, **Ross MC** , Stewart CJ, Metcalf GA, [Muzny DM](https://profiles.viictr.org/profile/268028), [Gibbs RA](https://profiles.viictr.org/profile/269695), Ajami NJ, [Petrosino JF](https://profiles.viictr.org/profile/267058). The gut mycobiome of the Human Microbiome Project healthy cohort. Microbiome. 2017 Nov 25; 5(1):153. PMID: [29178920](//www.ncbi.nlm.nih.gov/pubmed/29178920); PMCID: [PMC5702186](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5702186).
+
+Citations:
+[219](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29178920/citedby/)
+Fields:
+
+Gen GeneticsMic Microbiology
+
+Translation:HumansAnimals
+
+  8. **Ross MC** , [Muzny DM](https://profiles.viictr.org/profile/268028), McCormick JB, [Gibbs RA](https://profiles.viictr.org/profile/269695), Fisher-Hoch SP, [Petrosino JF](https://profiles.viictr.org/profile/267058). 16S gut community of the Cameron County Hispanic Cohort. Microbiome. 2015; 3:7. PMID: [25763184](//www.ncbi.nlm.nih.gov/pubmed/25763184); PMCID: [PMC4355967](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4355967).
+
+Citations:
+[26](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25763184/citedby/) Fields:
+
+Gen GeneticsMic Microbiology
+
+  9. Nagy-Szakal D, Mir SA, **Ross MC** , Tatevian N, [Petrosino JF](https://profiles.viictr.org/profile/267058), [Kellermayer R](https://profiles.viictr.org/profile/265522). Monotonous diets protect against acute colitis in mice: epidemiologic and therapeutic implications. J Pediatr Gastroenterol Nutr. 2013 May; 56(5):544-50. PMID: [23085891](//www.ncbi.nlm.nih.gov/pubmed/23085891); PMCID: [PMC4030530](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4030530).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23085891/citedby/) Fields:
+
+Gas GastroenterologyNut Nutritional SciencesPed Pediatrics
+
+Translation:Animals
+
+  10. Nagy-Szakal D, **Ross MC** , Dowd SE, Mir SA, Schaible TD, [Petrosino JF](https://profiles.viictr.org/profile/267058), [Kellermayer R](https://profiles.viictr.org/profile/265522). Maternal micronutrients can modify colonic mucosal microbiota maturation in murine offspring. Gut Microbes. 2012 Sep-Oct; 3(5):426-33. PMID: [22713270](//www.ncbi.nlm.nih.gov/pubmed/22713270); PMCID: [PMC3679229](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3679229).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22713270/citedby/) Fields:
+
+Gas GastroenterologyMic Microbiology
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 10 publications over 7 distinct years, with a maximum of 3
+publications in
+2023](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,33,0,33,0,33,67,0,0,0,33,100,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2012| 1  
+2013| 1  
+2015| 1  
+2017| 1  
+2018| 2  
+2022| 1  
+2023| 3  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+ROSS's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (69)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Poliovirus](https://profiles.viictr.org/profile/252183)
+  * [Cryptosporidium](https://profiles.viictr.org/profile/260235)
+  * [Cryptosporidium parvum](https://profiles.viictr.org/profile/244358)
+  * [Cryptosporidiosis](https://profiles.viictr.org/profile/259205)
+  * [Gastrointestinal Microbiome](https://profiles.viictr.org/profile/27544473)
+
+[Explore](https://profiles.viictr.org/profile/1826609/198)
+
+_
+
+Co-Authors (17)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [PETROSINO, JOSEPH](https://profiles.viictr.org/profile/267058)
+  * [MARESSO, ANTHONY](https://profiles.viictr.org/profile/269263)
+  * [PIEDRA, PEDRO](https://profiles.viictr.org/profile/268114)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [MUZNY, DONNA](https://profiles.viictr.org/profile/268028)
+
+[Explore](https://profiles.viictr.org/profile/1826609/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [PETROSINO, JOSEPH](https://profiles.viictr.org/profile/267058)
+  * [VERSALOVIC, JAMES](https://profiles.viictr.org/profile/269718)
+  * [KELLERMAYER, RICHARD](https://profiles.viictr.org/profile/265522)
+  * [KONTOYIANNIS, DIMITRIOS P](https://profiles.viictr.org/profile/12582577)
+  * [OKHUYSEN, PABLO C](https://profiles.viictr.org/profile/12583928)
+
+[Explore](https://profiles.viictr.org/profile/1826609/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [BRITTON, ROBERT](https://profiles.viictr.org/profile/8950240)
+  * [DIEHL, GRETCHEN](https://profiles.viictr.org/profile/8183315)
+  * [KEITEL, WENDY](https://profiles.viictr.org/profile/267970)
+  * [LLOYD, RICHARD](https://profiles.viictr.org/profile/269833)
+  * [MARESSO, ANTHONY](https://profiles.viictr.org/profile/269263)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqFlCYIIQ1thKjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
+Physical Neighbors
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People whose addresses are nearby this person.
+
+  * [FOWLER, STEPHANIE](https://profiles.viictr.org/profile/3009662)
+  * [KEITEL, WENDY](https://profiles.viictr.org/profile/267970)
+  * [LING, PAUL](https://profiles.viictr.org/profile/268320)
+  * [MARRIOTT, SUSAN](https://profiles.viictr.org/profile/268294)
+  * [TROISI, CATHERINE](https://profiles.viictr.org/profile/266717)
+
+_
+

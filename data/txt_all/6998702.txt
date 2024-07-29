@@ -1,0 +1,216 @@
+## KATHARINA SCHULZE
+
+| | Title| Assistant Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Molecular & Human Genetics  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Haok6WTVKYX0CLzu6G7OMLGsJRKH2SAGBQ%3d%3d&rnd=03aab54d-cf15-4ee9-beea-d86d663c9e0b)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=6998702)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Hong H, **Schulze KV** , Copeland IE, Atyam M, Kamp K, [Hanchard NA](https://profiles.viictr.org/profile/268451), [Belmont J](https://profiles.viictr.org/profile/267229), Ringel-Kulka T, Heitkemper M, [Shulman RJ](https://profiles.viictr.org/profile/266712). Genetic Variants in Carbohydrate Digestive Enzyme and Transport Genes Associated with Risk of Irritable Bowel Syndrome. medRxiv. 2023 Sep 22. PMID: [37790351](//www.ncbi.nlm.nih.gov/pubmed/37790351); PMCID: [PMC10543038](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10543038).
+
+Citations:
+
+  2. Jajoo A, Hirschi O, **Schulze K** , Guan Y, [Hanchard NA](https://profiles.viictr.org/profile/268451). A first-generation genome-wide map of correlated DNA methylation demonstrates highly coordinated and tissue-independent clustering across regulatory regions. Res Sq. 2023 May 15. PMID: [37333260](//www.ncbi.nlm.nih.gov/pubmed/37333260); PMCID: [PMC10275061](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10275061).
+
+Citations:
+
+  3. [Yuan B](https://profiles.viictr.org/profile/1826469), **Schulze KV** , Assia Batzir N, Sinson J, [Dai H](https://profiles.viictr.org/profile/17593590), Zhu W, Fong CT, Holder J, Nguyen J, Schaaf CP, Yang Y, [Bi W](https://profiles.viictr.org/profile/266446), [Eng C](https://profiles.viictr.org/profile/267270), [Shaw C](https://profiles.viictr.org/profile/269433), [Lupski JR](https://profiles.viictr.org/profile/268099), Liu P, Bocanegra F. Sequencing individual genomes with recurrent genomic disorder deletions: an approach to characterize genes for autosomal recessive rare disease traits. Genome Med. 2022 09 30; 14(1):113. PMID: [36180924](//www.ncbi.nlm.nih.gov/pubmed/36180924); PMCID: [PMC9526336](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9526336).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36180924/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  4. Domogala DD, Gambin T, Zemet R, [Wu CW](https://profiles.viictr.org/profile/28999463), **Schulze KV** , Yang Y, Wilson TA, Machol I, Liu P, [Stankiewicz P](https://profiles.viictr.org/profile/269299). Detection of low-level parental somatic mosaicism for clinically relevant SNVs and indels identified in a large exome sequencing dataset. Hum Genomics. 2021 12 20; 15(1):72. PMID: [34930489](//www.ncbi.nlm.nih.gov/pubmed/34930489); PMCID: [PMC8686574](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8686574).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:Humans
+
+  5. Edwards SD, **Schulze KV** , Rosenfeld JA, [Westerfield LE](https://profiles.viictr.org/profile/17149171), [Gerard A](https://profiles.viictr.org/profile/34973639), [Yuan B](https://profiles.viictr.org/profile/1826469), [Grigorenko EL](https://profiles.viictr.org/profile/15317978), [Posey JE](https://profiles.viictr.org/profile/6714377), [Bi W](https://profiles.viictr.org/profile/266446), Liu P. Clinical characterization of individuals with the distal 1q21.1 microdeletion. Am J Med Genet A. 2021 05; 185(5):1388-1398. PMID: [33576134](//www.ncbi.nlm.nih.gov/pubmed/33576134).
+
+Citations:  Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  6. **Schulze KV** , [Hanchard NA](https://profiles.viictr.org/profile/268451), [Wangler MF](https://profiles.viictr.org/profile/268429). Biases in arginine codon usage correlate with genetic disease risk. Genet Med. 2020 08; 22(8):1407-1412. PMID: [32371920](//www.ncbi.nlm.nih.gov/pubmed/32371920).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32371920/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  7. **Schulze KV** , Swaminathan S, Howell S, Jajoo A, Lie NC, Brown O, Sadat R, Hall N, Zhao L, Marshall K, [May T](https://profiles.viictr.org/profile/3010306), Reid ME, Taylor-Bryan C, Wang X, [Belmont JW](https://profiles.viictr.org/profile/267229), Guan Y, [Manary MJ](https://profiles.viictr.org/profile/269136), Trehan I, McKenzie CA, [Hanchard NA](https://profiles.viictr.org/profile/268451). Edematous severe acute malnutrition is characterized by hypomethylation of DNA. Nat Commun. 2019 12 19; 10(1):5791. PMID: [31857576](//www.ncbi.nlm.nih.gov/pubmed/31857576); PMCID: [PMC6923441](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6923441).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31857576/citedby/) Fields:
+
+Bio BiologySci Science
+
+Translation:HumansCells
+
+  8. **Schulze KV** , [Bhatt A](https://profiles.viictr.org/profile/3010602), Azamian MS, [Sundgren NC](https://profiles.viictr.org/profile/269376), Zapata GE, Hernandez P, Fox K, Kaiser JR, [Belmont JW](https://profiles.viictr.org/profile/267229), [Hanchard NA](https://profiles.viictr.org/profile/268451). Aberrant DNA methylation as a diagnostic biomarker of diabetic embryopathy. Genet Med. 2019 11; 21(11):2453-2461. PMID: [30992551](//www.ncbi.nlm.nih.gov/pubmed/30992551).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30992551/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+  9. **Schulze KV** , [Szafranski P](https://profiles.viictr.org/profile/270154), Lesmana H, Hopkin RJ, Hamvas A, Wambach JA, Shinawi M, Zapata G, Carvalho CMB, Liu Q, Karolak JA, [Lupski JR](https://profiles.viictr.org/profile/268099), [Hanchard NA](https://profiles.viictr.org/profile/268451), [Stankiewicz P](https://profiles.viictr.org/profile/269299). Novel parent-of-origin-specific differentially methylated loci on chromosome 16. Clin Epigenetics. 2019 04 08; 11(1):60. PMID: [30961659](//www.ncbi.nlm.nih.gov/pubmed/30961659); PMCID: [PMC6454695](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6454695).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30961659/citedby/) Fields:
+
+Gen Genetics
+
+Translation:HumansCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 9 publications over 5 distinct years, with a maximum of 3
+publications in
+2019](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|3&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,33,67,33,67,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2019| 3  
+2020| 1  
+2021| 2  
+2022| 1  
+2023| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+SCHULZE's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (64)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [DNA Methylation](https://profiles.viictr.org/profile/243082)
+  * [Severe Acute Malnutrition](https://profiles.viictr.org/profile/27544222)
+  * [Uniparental Disomy](https://profiles.viictr.org/profile/259452)
+  * [Arginine](https://profiles.viictr.org/profile/247666)
+  * [Fetal Diseases](https://profiles.viictr.org/profile/264976)
+
+[Explore](https://profiles.viictr.org/profile/6998702/198)
+
+_
+
+Co-Authors (22)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [HANCHARD, NEIL](https://profiles.viictr.org/profile/268451)
+  * [STANKIEWICZ, PAWEL](https://profiles.viictr.org/profile/269299)
+  * [WANGLER, MICHAEL](https://profiles.viictr.org/profile/268429)
+  * [BELMONT, JOHN](https://profiles.viictr.org/profile/267229)
+  * [YUAN, BO](https://profiles.viictr.org/profile/1826469)
+
+[Explore](https://profiles.viictr.org/profile/6998702/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [BOERWINKLE, ERIC](https://profiles.viictr.org/profile/267689)
+  * [AMOS, CHRIS](https://profiles.viictr.org/profile/23372697)
+  * [LUPSKI, JAMES](https://profiles.viictr.org/profile/268099)
+  * [GIBBS, RICHARD](https://profiles.viictr.org/profile/269695)
+  * [GARCIA-MANERO, GUILLERMO](https://profiles.viictr.org/profile/12583738)
+
+[Explore](https://profiles.viictr.org/profile/6998702/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [CHEN, RUI](https://profiles.viictr.org/profile/266790)
+  * [KANCA, OGUZ](https://profiles.viictr.org/profile/14348445)
+  * [KETKAR, SHAMIKA](https://profiles.viictr.org/profile/28999445)
+  * [SABO, ANIKO](https://profiles.viictr.org/profile/269113)
+  * [YUAN, BO](https://profiles.viictr.org/profile/1826469)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqH0gsa6r/BJgjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

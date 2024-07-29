@@ -1,0 +1,545 @@
+## CARL WALTHER
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Medicine  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=Faoi7SvwIYfhTor%2fwHnBJ%2fqJIwQ%3d&rnd=05c01a47-7491-4ee7-b4db-95ae4fce7845)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=20310274)  
+  
+
+Other Positions| Title| Graduate Student  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Clinical Investigation (PhD)  
+  
+  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. **Walther CP**. Cardiac Devices and Kidney Disease. Semin Nephrol. 2024 May 16; 151513. PMID: [38760291](//www.ncbi.nlm.nih.gov/pubmed/38760291).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+  2. **Walther CP** , [Civitello AB](https://profiles.viictr.org/profile/268046), [Lamba HK](https://profiles.viictr.org/profile/28999086), [Mondal NK](https://profiles.viictr.org/profile/28999217), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Kidney Function Trajectories and Right Heart Failure Following LVAD Implantation. J Am Heart Assoc. 2024 Mar 05; 13(5):e031305. PMID: [38420763](//www.ncbi.nlm.nih.gov/pubmed/38420763); PMCID: [PMC10944080](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10944080).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38420763/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  3. [Mondal NK](https://profiles.viictr.org/profile/28999217), **Walther CP**. Insights into Myocardial Fibrosis in Advanced Chronic Kidney Disease Using Human Tissue. Kidney360. 2023 11 01; 4(11):1531-1533. PMID: [38032767](//www.ncbi.nlm.nih.gov/pubmed/38032767); PMCID: [PMC10697478](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10697478).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  4. Garcia LP, **Walther CP**. Kidney health and function with left ventricular assist devices. Curr Opin Nephrol Hypertens. 2023 09 01; 32(5):439-444. PMID: [37195244](//www.ncbi.nlm.nih.gov/pubmed/37195244); PMCID: [PMC10524584](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10524584).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37195244/citedby/) Fields:
+
+Nep NephrologyVas Vascular Diseases
+
+Translation:Humans
+
+  5. **Walther CP** , [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Echocardiographic parameters and cardiovascular disease in Japanese- and US-based CKD cohorts. Kidney Int. 2023 05; 103(5):837-839. PMID: [37085257](//www.ncbi.nlm.nih.gov/pubmed/37085257).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  6. [Yan J](https://profiles.viictr.org/profile/3010342), [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), **Walther CP**. Iron Sucrose and Blood Pressure Patterns During Hemodialysis. Am J Kidney Dis. 2023 06; 81(6):629-631. PMID: [37012095](//www.ncbi.nlm.nih.gov/pubmed/37012095).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  7. **Walther CP** , Benoit JS, Bansal N, [Nambi V](https://profiles.viictr.org/profile/270211), [Navaneethan SD](https://profiles.viictr.org/profile/14490839), CRIC Study Investigators. Heart Failure-Type Symptom Score Trajectories in CKD: Findings From the Chronic Renal Insufficiency Cohort (CRIC) Study. Am J Kidney Dis. 2023 04; 81(4):446-456. PMID: [36403887](//www.ncbi.nlm.nih.gov/pubmed/36403887); PMCID: [PMC10038859](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10038859).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  8. **Walther CP** , Benoit JS, [Lamba HK](https://profiles.viictr.org/profile/28999086), [Civitello AB](https://profiles.viictr.org/profile/268046), [Erickson KF](https://profiles.viictr.org/profile/15318038), [Mondal NK](https://profiles.viictr.org/profile/28999217), Liao KK, [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Distinctive kidney function trajectories following left ventricular assist device implantation. J Heart Lung Transplant. 2022 12; 41(12):1798-1807. PMID: [36182652](//www.ncbi.nlm.nih.gov/pubmed/36182652); PMCID: [PMC10091513](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10091513).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36182652/citedby/) Fields:
+
+Car CardiologyPul Pulmonary MedicineTra Transplantation
+
+Translation:Humans
+
+  9. **Walther CP** , Benoit JS, [Gregg LP](https://profiles.viictr.org/profile/31686743), Bansal N, [Nambi V](https://profiles.viictr.org/profile/270211), Feldman HI, Shlipak MG, [Navaneethan SD](https://profiles.viictr.org/profile/14490839), CRIC Study Investigators. Heart failure-type symptom scores in chronic kidney disease: The importance of body mass index. Int J Obes (Lond). 2022 10; 46(10):1910-1917. PMID: [35978101](//www.ncbi.nlm.nih.gov/pubmed/35978101); PMCID: [PMC9710200](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9710200).
+
+Citations:
+
+  10. [Tucker BM](https://profiles.viictr.org/profile/29494194), Walther CP, **Walther CP**. Outcomes Associated with Hypernatremia at Admission in Hospitalized Persons. Kidney360. 2022 07 28; 3(7):1122-1123. PMID: [35919539](//www.ncbi.nlm.nih.gov/pubmed/35919539); PMCID: [PMC9337905](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9337905).
+
+Citations:
+
+  11. [Gregg LP](https://profiles.viictr.org/profile/31686743), Van Buren PN, Ramsey DJ, Maydon A, Banerjee S, **Walther CP** , [Virani SS](https://profiles.viictr.org/profile/268389), [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Navaneethan SD](https://profiles.viictr.org/profile/14490839), Hedayati SS. Natriuretic peptides, extracellular volume, and subclinical cardiovascular changes in chronic kidney disease stages 1-3: a pilot study. J Investig Med. 2022 Jul 19. PMID: [35853670](//www.ncbi.nlm.nih.gov/pubmed/35853670); PMCID: [PMC10461401](//www.ncbi.nlm.nih.gov/pmc/articles/PMC10461401).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+  12. [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), **Walther CP**. Retraction notice to "Roxadustat for CKD Anemia - Starting the Jigsaw Puzzle, What Will the Finished Picture Show?" Kidney Int Rep. 2021;6:559-561. Kidney Int Rep. 2022 Mar; 7(3):665. PMID: [35257088](//www.ncbi.nlm.nih.gov/pubmed/35257088); PMCID: [PMC8897493](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8897493).
+
+Citations:
+
+  13. **Walther CP** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Updated US Prevalence Estimates for Chronic Kidney Disease Stage and Complications Using the New Race-Free Equation to Estimate Glomerular Filtration Rate. JAMA Netw Open. 2022 02 01; 5(2):e220460. PMID: [35166786](//www.ncbi.nlm.nih.gov/pubmed/35166786); PMCID: [PMC8848201](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8848201).
+
+Citations:  Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  14. **Walther CP** , [Civitello AB](https://profiles.viictr.org/profile/268046), Liao KK, [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Nephrology Considerations in the Management of Durable and Temporary Mechanical Circulatory Support. Kidney360. 2022 03 31; 3(3):569-579. PMID: [35582171](//www.ncbi.nlm.nih.gov/pubmed/35582171); PMCID: [PMC9034823](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9034823).
+
+Citations:  Translation:Humans
+
+  15. **Walther CP** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Richardson PA](https://profiles.viictr.org/profile/267243), [Virani SS](https://profiles.viictr.org/profile/268389), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Renin-angiotensin system blocker discontinuation and adverse outcomes in chronic kidney disease. Nephrol Dial Transplant. 2021 09 27; 36(10):1893-1899. PMID: [33367872](//www.ncbi.nlm.nih.gov/pubmed/33367872); PMCID: [PMC8633426](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8633426).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33367872/citedby/) Fields:
+
+Nep NephrologyTra Transplantation
+
+Translation:Humans
+
+  16. Lenihan CR, Liu S, [Airy M](https://profiles.viictr.org/profile/15317930), **Walther C** , Montez-Rath ME, [Winkelmayer WC](https://profiles.viictr.org/profile/5714591). The Association of Pre-Kidney Transplant Dialysis Modality with de novo Posttransplant Heart Failure. Cardiorenal Med. 2021; 11(5-6):209-217. PMID: [34515084](//www.ncbi.nlm.nih.gov/pubmed/34515084); PMCID: [PMC8678165](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8678165).
+
+Citations:  Fields:
+
+Car CardiologyMet MetabolismNep Nephrology
+
+Translation:Humans
+
+  17. [Tran VV](https://profiles.viictr.org/profile/49330031), **Walther CP**. Inpatient Native Kidney Biopsies and Glomerular Disease: Utilization and Diagnostic Trends in the United States, 2006-2015. Kidney Med. 2021 Nov-Dec; 3(6):1106-1108. PMID: [34939024](//www.ncbi.nlm.nih.gov/pubmed/34939024); PMCID: [PMC8664737](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8664737).
+
+Citations:
+
+  18. [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), **Walther CP**. Cardiovascular Safety of Roxadustat in CKD Anemia: A Fig Leaf Named Noninferiority. Clin J Am Soc Nephrol. 2021 08; 16(8):1155-1157. PMID: [34362784](//www.ncbi.nlm.nih.gov/pubmed/34362784); PMCID: [PMC8455055](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8455055).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+Translation:HumansAnimals
+
+  19. [Navaneethan SD](https://profiles.viictr.org/profile/14490839), **Walther CP** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591). Black Race Coefficient in GFR Estimation and Prevalence of CKD-Related Complications. Clin J Am Soc Nephrol. 2021 10; 16(10):1562-1564. PMID: [34127483](//www.ncbi.nlm.nih.gov/pubmed/34127483); PMCID: [PMC8498997](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8498997).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  20. **Walther CP** , Benoit JS. Tubular Kidney Biomarker Insights Through Factor Analysis. Am J Kidney Dis. 2021 09; 78(3):335-337. PMID: [34023146](//www.ncbi.nlm.nih.gov/pubmed/34023146); PMCID: [PMC8530439](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8530439).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34023146/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  21. **Walther CP**. An impending obituary for the primacy of P values in glomerulonephritis trial results? Kidney Int. 2021 05; 99(5):1241-1242. PMID: [33892862](//www.ncbi.nlm.nih.gov/pubmed/33892862).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+  22. [Navaneethan SD](https://profiles.viictr.org/profile/14490839), **Walther CP** , [Gregg LP](https://profiles.viictr.org/profile/31686743), Bansal S, [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Nambi V](https://profiles.viictr.org/profile/270211), [Niu J](https://profiles.viictr.org/profile/17062687). Mortality, Kidney Failure, and Hospitalization Among Medicare Beneficiaries With CKD and Pulmonary Hypertension. Am J Kidney Dis. 2021 11; 78(5):700-708.e1. PMID: [33905766](//www.ncbi.nlm.nih.gov/pubmed/33905766); PMCID: [PMC8542055](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8542055).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33905766/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  23. [Navaneethan SD](https://profiles.viictr.org/profile/14490839), **Walther CP** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591). Black Race Coefficient in GFR Estimation and Diabetes Medications in CKD: National Estimates. J Am Soc Nephrol. 2021 06 01; 32(6):1319-1321. PMID: [33833077](//www.ncbi.nlm.nih.gov/pubmed/33833077); PMCID: [PMC8259644](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8259644).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33833077/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  24. Parikh U, [Lamba H](https://profiles.viictr.org/profile/28999086), [Ajmal M](https://profiles.viictr.org/profile/24845133), Vincent J, **Walther C** , [Shafii A](https://profiles.viictr.org/profile/28999167), [Nair A](https://profiles.viictr.org/profile/9596403), [Civitello A](https://profiles.viictr.org/profile/268046), Liao K, [Chatterjee S](https://profiles.viictr.org/profile/18830403). Predictors of renal replacement therapy in patients with continuous flow left ventricular assist devices. J Artif Organs. 2021 Jun; 24(2):207-216. PMID: [33598826](//www.ncbi.nlm.nih.gov/pubmed/33598826).
+
+Citations:  Fields:
+
+Bio Biomedical Engineering
+
+Translation:Humans
+
+  25. [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), **Walther CP**. Roxadustat for CKD Anemia - Starting the Jigsaw Puzzle, What Will the Finished Picture Show? Kidney Int Rep. 2021 Mar; 6(3):559-561. PMID: [33735328](//www.ncbi.nlm.nih.gov/pubmed/33735328); PMCID: [PMC7938180](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7938180).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33735328/citedby/)
+
+  26. **Walther CP** , Ix JH, Biggs ML, Kizer JR, [Navaneethan SD](https://profiles.viictr.org/profile/14490839), Mukamal KJ, Djouss? L. Nonesterified Fatty Acids and Kidney Function Decline in Older Adults: Findings From the Cardiovascular Health Study. Am J Kidney Dis. 2021 08; 78(2):259-267. PMID: [33548344](//www.ncbi.nlm.nih.gov/pubmed/33548344); PMCID: [PMC8316278](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8316278).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  27. [Awan AA](https://profiles.viictr.org/profile/22016599), **Walther CP** , [Richardson PA](https://profiles.viictr.org/profile/267243), [Shah M](https://profiles.viictr.org/profile/14348364), [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Prevalence, correlates and outcomes of absolute and functional iron deficiency anemia in nondialysis-dependent chronic kidney disease. Nephrol Dial Transplant. 2021 01 01; 36(1):129-136. PMID: [31641775](//www.ncbi.nlm.nih.gov/pubmed/31641775).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31641775/citedby/) Fields:
+
+Nep NephrologyTra Transplantation
+
+Translation:Humans
+
+  28. **Walther CP** , Triozzi JL, [Deswal A](https://profiles.viictr.org/profile/266282). Iron deficiency and iron therapy in heart failure and chronic kidney disease. Curr Opin Nephrol Hypertens. 2020 09; 29(5):508-514. PMID: [32701598](//www.ncbi.nlm.nih.gov/pubmed/32701598).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32701598/citedby/) Fields:
+
+Nep NephrologyVas Vascular Diseases
+
+Translation:Humans
+
+  29. Triozzi JL, [Niu J](https://profiles.viictr.org/profile/17062687), **Walther CP** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). [Hospitalization and Critical Illness in Chronic Kidney Disease]. Cardiorenal Med. 2020; 10(5):302-312. PMID: [32316008](//www.ncbi.nlm.nih.gov/pubmed/32316008).
+
+Citations:  Fields:
+
+Car CardiologyMet MetabolismNep Nephrology
+
+Translation:Humans
+
+  30. [Ajmal MS](https://profiles.viictr.org/profile/24845133), Parikh UM, [Lamba H](https://profiles.viictr.org/profile/28999086), **Walther C**. Chronic Kidney Disease and Acute Kidney Injury Outcomes Post Left Ventricular Assist Device Implant. Cureus. 2020 Apr 18; 12(4):e7725. PMID: [32432003](//www.ncbi.nlm.nih.gov/pubmed/32432003); PMCID: [PMC7234002](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7234002).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32432003/citedby/)
+
+  31. **Walther CP** , [Nambi V](https://profiles.viictr.org/profile/270211), [Hanania NA](https://profiles.viictr.org/profile/266276), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Diagnosis and Management of Pulmonary Hypertension in Patients With CKD. Am J Kidney Dis. 2020 06; 75(6):935-945. PMID: [32199709](//www.ncbi.nlm.nih.gov/pubmed/32199709); PMCID: [PMC7247937](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7247937).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32199709/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  32. **Walther CP** , [Richardson PA](https://profiles.viictr.org/profile/267243), [Virani SS](https://profiles.viictr.org/profile/268389), [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Association between intensity of statin therapy and mortality in persons with chronic kidney disease. Nephrol Dial Transplant. 2020 02 01; 35(2):312-319. PMID: [30053252](//www.ncbi.nlm.nih.gov/pubmed/30053252).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30053252/citedby/) Fields:
+
+Nep NephrologyTra Transplantation
+
+Translation:Humans
+
+  33. **Walther CP** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Deswal A](https://profiles.viictr.org/profile/266282), [Niu J](https://profiles.viictr.org/profile/17062687), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Readmissions after Acute Kidney Injury during Left Ventricular Assist Device Implantation Hospitalization. Am J Nephrol. 2020; 51(3):172-181. PMID: [31962311](//www.ncbi.nlm.nih.gov/pubmed/31962311).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31962311/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  34. **Walther CP** , [Erickson KF](https://profiles.viictr.org/profile/15318038). The cost-effectiveness of lipid lowering for primary cardiovascular prevention in chronic kidney disease: moving beyond statins. Kidney Int. 2019 07; 96(1):22-25. PMID: [31229030](//www.ncbi.nlm.nih.gov/pubmed/31229030).
+
+Citations:  Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  35. **Walther CP** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Niu J](https://profiles.viictr.org/profile/17062687), Cheema FH, [Nair AP](https://profiles.viictr.org/profile/9596403), Morgan JA, [Fedson SE](https://profiles.viictr.org/profile/15317851), [Deswal A](https://profiles.viictr.org/profile/266282), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Acute Kidney Injury With Ventricular Assist Device Placement: National Estimates of Trends and Outcomes. Am J Kidney Dis. 2019 11; 74(5):650-658. PMID: [31160142](//www.ncbi.nlm.nih.gov/pubmed/31160142).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31160142/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  36. **Walther CP** , [Shah M](https://profiles.viictr.org/profile/14348364), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Estimated GFR Decline and Tubular Injury Biomarkers With Intensive Blood Pressure Control. Am J Kidney Dis. 2019 01; 73(1):4-7. PMID: [30424915](//www.ncbi.nlm.nih.gov/pubmed/30424915).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30424915/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  37. **Walther CP** , Cushman M, Judd SE, Lang J, McClellan W, Muntner P, Sarnak MJ, Shlipak MG, Warnock DG, Katz R, Ix JH, Guti?rrez OM. Serum albumin concentration and risk of end-stage renal disease: the REGARDS study. Nephrol Dial Transplant. 2018 10 01; 33(10):1770-1777. PMID: [29281114](//www.ncbi.nlm.nih.gov/pubmed/29281114); PMCID: [PMC7191876](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7191876).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29281114/citedby/) Fields:
+
+Nep NephrologyTra Transplantation
+
+Translation:Humans
+
+  38. Cheema FH, Morgan JA, **Walther CP** , [Niu J](https://profiles.viictr.org/profile/17062687), [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Nair AP](https://profiles.viictr.org/profile/9596403), [Fedson SE](https://profiles.viictr.org/profile/15317851), [Deswal A](https://profiles.viictr.org/profile/266282), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Implantable Ventricular Assist Device Use and Outcomes in People With End-Stage Renal Disease. J Am Heart Assoc. 2018 07 06; 7(14). PMID: [29980520](//www.ncbi.nlm.nih.gov/pubmed/29980520); PMCID: [PMC6064848](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6064848).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29980520/citedby/) Fields:
+
+Car CardiologyVas Vascular Diseases
+
+Translation:Humans
+
+  39. **Walther CP** , [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), [Deswal A](https://profiles.viictr.org/profile/266282), [Niu J](https://profiles.viictr.org/profile/17062687), [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Trends in Left Ventricular Assist Device Implantation and Associated Mortality Among Patients With and Without ESRD. Am J Kidney Dis. 2018 10; 72(4):620-622. PMID: [29784611](//www.ncbi.nlm.nih.gov/pubmed/29784611).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29784611/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  40. [Navaneethan SD](https://profiles.viictr.org/profile/14490839), Schold JD, **Walther CP** , Arrigain S, Jolly SE, [Virani SS](https://profiles.viictr.org/profile/268389), [Winkelmayer WC](https://profiles.viictr.org/profile/5714591), Nally JV. High-density lipoprotein cholesterol and causes of death in chronic kidney disease. J Clin Lipidol. 2018 Jul - Aug; 12(4):1061-1071.e7. PMID: [29699917](//www.ncbi.nlm.nih.gov/pubmed/29699917); PMCID: [PMC6064652](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6064652).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29699917/citedby/) Fields:
+
+Bio BiochemistryMet Metabolism
+
+Translation:Humans
+
+  41. **Walther CP** , Chandra A, [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Blood pressure parameters and morbid and mortal outcomes in nondialysis-dependent chronic kidney disease. Curr Opin Nephrol Hypertens. 2018 01; 27(1):16-22. PMID: [29045334](//www.ncbi.nlm.nih.gov/pubmed/29045334); PMCID: [PMC5907917](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5907917).
+
+Citations:
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29045334/citedby/) Fields:
+
+Nep NephrologyVas Vascular Diseases
+
+Translation:Humans
+
+  42. **Walther CP** , Shah AA, [Winkelmayer WC](https://profiles.viictr.org/profile/5714591). Treating Depression in Patients With Advanced CKD: Beyond the Generalizability Frontier. JAMA. 2017 11 21; 318(19):1873-1874. PMID: [29101401](//www.ncbi.nlm.nih.gov/pubmed/29101401).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29101401/citedby/) Fields:
+
+Med Medicine (General)
+
+Translation:Humans
+
+  43. **Walther CP** , Whaley-Connell A, [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Emerging therapeutic options for managing diabetic kidney disease. Curr Opin Nephrol Hypertens. 2017 09; 26(5):335-337. PMID: [28548994](//www.ncbi.nlm.nih.gov/pubmed/28548994).
+
+Citations:  Fields:
+
+Nep NephrologyVas Vascular Diseases
+
+  44. **Walther CP** , [Navaneethan SD](https://profiles.viictr.org/profile/14490839). Inflammation as a Therapeutic Target To Improve Vascular Function in Kidney Disease. J Am Soc Nephrol. 2017 03; 28(3):723-725. PMID: [28049650](//www.ncbi.nlm.nih.gov/pubmed/28049650); PMCID: [PMC5328175](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5328175).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28049650/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  45. **Walther C** , Podoll AS, Finkel KW. Treatment of acute kidney injury with cast nephropathy. Clin Nephrol. 2014 Jul; 82(1):1-6. PMID: [24725380](//www.ncbi.nlm.nih.gov/pubmed/24725380).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24725380/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  46. **Walther CP** , Podoll AS, Finkel KW. Summary of clinical practice guidelines for acute kidney injury. Hosp Pract (1995). 2014 Feb; 42(1):7-14. PMID: [24566591](//www.ncbi.nlm.nih.gov/pubmed/24566591).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24566591/citedby/) Fields:
+
+Hos Hospitals
+
+Translation:Humans
+
+  47. Podoll A, **Walther C** , Finkel K. Clinical utility of gray scale renal ultrasound in acute kidney injury. BMC Nephrol. 2013 Sep 08; 14:188. PMID: [24011084](//www.ncbi.nlm.nih.gov/pubmed/24011084); PMCID: [PMC3844534](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3844534).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24011084/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  48. Abdelmalek JA, Stark P, **Walther CP** , Ix JH, Rifkin DE. Associations between coronary calcification on chest radiographs and mortality in hemodialysis patients. Am J Kidney Dis. 2012 Dec; 60(6):990-7. PMID: [22883135](//www.ncbi.nlm.nih.gov/pubmed/22883135); PMCID: [PMC3496035](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3496035).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22883135/citedby/) Fields:
+
+Nep Nephrology
+
+Translation:Humans
+
+  49. **Walther CP** , Carter CW, Low CL, Williams P, Rifkin DE, Steiner RW, Ix JH. Interdialytic creatinine change versus predialysis creatinine as indicators of nutritional status in maintenance hemodialysis. Nephrol Dial Transplant. 2012 Feb; 27(2):771-6. PMID: [21775764](//www.ncbi.nlm.nih.gov/pubmed/21775764); PMCID: [PMC3350342](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3350342).
+
+Citations:
+[20](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21775764/citedby/) Fields:
+
+Nep NephrologyTra Transplantation
+
+Translation:Humans
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 49 publications over 12 distinct years, with a maximum of
+13 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|13&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,15,0,0,23,46,15,46,100,62,31,15&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2011| 1  
+2012| 1  
+2013| 1  
+2014| 2  
+2017| 3  
+2018| 6  
+2019| 2  
+2020| 6  
+2021| 13  
+2022| 8  
+2023| 4  
+2024| 2  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+WALTHER's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (146)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Renal Insufficiency, Chronic](https://profiles.viictr.org/profile/261810)
+  * [Heart Failure](https://profiles.viictr.org/profile/256770)
+  * [Heart-Assist Devices](https://profiles.viictr.org/profile/241949)
+  * [Glomerular Filtration Rate](https://profiles.viictr.org/profile/264494)
+  * [Acute Kidney Injury](https://profiles.viictr.org/profile/27545896)
+
+[Explore](https://profiles.viictr.org/profile/20310274/198)
+
+_
+
+Co-Authors (25)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [NAVANEETHAN, SANKAR](https://profiles.viictr.org/profile/14490839)
+  * [WINKELMAYER, WOLFGANG](https://profiles.viictr.org/profile/5714591)
+  * [MONDAL, NANDAN KUMAR](https://profiles.viictr.org/profile/28999217)
+  * [DESWAL, ANITA](https://profiles.viictr.org/profile/266282)
+  * [ERICKSON, KEVIN](https://profiles.viictr.org/profile/15318038)
+
+[Explore](https://profiles.viictr.org/profile/20310274/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [NAVANEETHAN, SANKAR](https://profiles.viictr.org/profile/14490839)
+  * [WINKELMAYER, WOLFGANG](https://profiles.viictr.org/profile/5714591)
+  * [VIRANI, SALIM](https://profiles.viictr.org/profile/268389)
+  * [BALLANTYNE, CHRISTIE](https://profiles.viictr.org/profile/266404)
+  * [ADACHI, IKI](https://profiles.viictr.org/profile/269319)
+
+[Explore](https://profiles.viictr.org/profile/20310274/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [AJMAL, MUHAMMAD](https://profiles.viictr.org/profile/24845133)
+  * [EKNOYAN, GARABED](https://profiles.viictr.org/profile/266417)
+  * [NAVANEETHAN, SANKAR](https://profiles.viictr.org/profile/14490839)
+  * [RAMANATHAN, VENKAT](https://profiles.viictr.org/profile/267749)
+  * [TUCKER, BRYAN](https://profiles.viictr.org/profile/29494194)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+2TvwExPPqANFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+

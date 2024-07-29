@@ -1,0 +1,602 @@
+## JUNQIAN XU
+
+| | Title| Associate Professor  
+---|---  
+Institution| Baylor College of Medicine  
+Department| Department of Radiology  
+Address| One Baylor Plaza  
+Houston, TX 77030  
+  
+Email|
+![](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/EmailHandler.ashx?msg=HL4%2b8GzGLsXNU6%2fv43aML7CZ&rnd=a785f764-e1a1-4f51-9a83-e9fb95c9fc88)  
+ORCID ![ORCID
+Icon](https://profiles.viictr.org/Framework/Images/orcid_16x16\(1\).gif)|
+[0000-0001-8438-2066](http://sandbox.orcid.org/0000-0001-8438-2066)
+[![Additional
+info](https://profiles.viictr.org/Framework/Images/info.png)](https://profiles.viictr.org/about/default.aspx?tab=orcid)  
+vCard| [Download
+vCard](https://profiles.viictr.org/profile/modules/CustomViewPersonGeneralInfo/vcard.aspx?subject=29494132)  
+  
+![](https://profiles.viictr.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=29494132&cachekey=ad3ca095-b9e8-41c7-bc26-fafece98d6de)  
+  
+
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Overview  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+webpage  
+  
+![](https://www.google.com/s2/favicons?domain=https://www.ncbi.nlm.nih.gov/myncbi/junqian.xu.1/bibliography/public/)|
+[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/junqian.xu.1/bibliography/public/)  
+![](https://www.google.com/s2/favicons?domain=http://scholar.google.com/citations?user=2rxBp3kAAAAJ)|
+[Google Scholar](http://scholar.google.com/citations?user=2rxBp3kAAAAJ)  
+![](https://www.google.com/s2/favicons?domain=https://www.scopus.com/authid/detail.uri?authorId=57189942197)|
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57189942197)  
+![](https://www.google.com/s2/favicons?domain=https://www.webofscience.com/wos/author/record/D-2247-2009)|
+[Web of Science](https://www.webofscience.com/wos/author/record/D-2247-2009)  
+  
+  
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+Bibliographic  
+
+![Collapse](https://profiles.viictr.org/Profile/Modules/PropertyList/images/minusSign.gif)
+selected publications
+
+Publications listed below are automatically derived from MEDLINE/PubMed and
+other sources, which might result in incorrect or missing publications.
+Faculty can
+[login](https://profiles.viictr.org/loginOptions.aspx?pin=send&method=login&edit=true)
+to make corrections and additions.
+
+Newest | Oldest | Most Cited | Most Discussed | Timeline | Field Summary | Plain Text
+
+PMC Citations indicate the number of times the publication was cited by
+articles in PubMed Central, and the Altmetric score represents citations in
+news articles and social media. (Note that publications are often cited in
+additional ways that are not shown here.) Fields are based on how the National
+Library of Medicine (NLM) classifies the publication's journal and might not
+represent the specific topic of the publication. Translation tags are based on
+the publication type and the MeSH terms NLM assigns to the publication. Some
+publications (especially newer ones and publications not in PubMed) might not
+yet be assigned Field or Translation tags.) Click a Field or Translation tag
+to filter the publications.
+
+  1. Seifert AC, **Xu J**. Impact of autocalibration method on accelerated EPI of the cervical spinal cord at 7 T. Magn Reson Med. 2022 Dec; 88(6):2583-2591. PMID: [36000559](//www.ncbi.nlm.nih.gov/pubmed/36000559); PMCID: [PMC9529816](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9529816).
+
+Citations:
+
+  2. Glasser MF, Coalson TS, Harms MP, **Xu J** , Baum GL, Autio JA, Auerbach EJ, Greve DN, Yacoub E, Van Essen DC, Bock NA, Hayashi T. Empirical transmit field bias correction of T1w/T2w myelin maps. Neuroimage. 2022 09; 258:119360. PMID: [35697132](//www.ncbi.nlm.nih.gov/pubmed/35697132); PMCID: [PMC9483036](//www.ncbi.nlm.nih.gov/pmc/articles/PMC9483036).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/35697132/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansCells
+
+  3. Cohen-Adad J, Alonso-Ortiz E, Alley S, Lagana MM, Baglio F, Vannesjo SJ, Karbasforoushan H, Seif M, Seifert AC, **Xu J** , Kim JW, Samson RS, Grussu F, Battiston M, Gandini Wheeler-Kingshott CAM, Yiannakas MC, Gilbert G, Schneider T, Johnson B, Prados F, Labounek R, Vojt?ek L, Dost?l M, Valo?ek J. Comparison of multicenter MRI protocols for visualizing the spinal cord gray matter. Magn Reson Med. 2022 08; 88(2):849-859. PMID: [35476875](//www.ncbi.nlm.nih.gov/pubmed/35476875).
+
+Citations:  Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  4. Williams PTJA, Truong DQ, Seifert AC, **Xu J** , Bikson M, Martin JH. Selective augmentation of corticospinal motor drive with trans-spinal direct current stimulation in the cat. Brain Stimul. 2022 May-Jun; 15(3):624-634. PMID: [35367670](//www.ncbi.nlm.nih.gov/pubmed/35367670).
+
+Citations:  Fields:
+
+Bra Brain
+
+Translation:HumansAnimals
+
+  5. [Provenza NR](https://profiles.viictr.org/profile/36136344), [Sheth SA](https://profiles.viictr.org/profile/23479136), Dastin-van Rijn EM, Mathura RK, Ding Y, Vogt GS, Avendano-Ortega M, Ramakrishnan N, [Peled N](https://profiles.viictr.org/profile/44974602), Gelin LFF, Xing D, Jeni LA, Ertugrul IO, Barrios-Anderson A, Matteson E, [Wiese AD](https://profiles.viictr.org/profile/35187639), **Xu J** , [Viswanathan A](https://profiles.viictr.org/profile/267899), Harrison MT, [Bijanki KR](https://profiles.viictr.org/profile/28999159), [Storch EA](https://profiles.viictr.org/profile/23478906), Cohn JF, [Goodman WK](https://profiles.viictr.org/profile/17873564), Borton DA. Long-term ecological assessment of intracranial electrophysiology synchronized to behavioral markers in obsessive-compulsive disorder. Nat Med. 2021 12; 27(12):2154-2164. PMID: [34887577](//www.ncbi.nlm.nih.gov/pubmed/34887577); PMCID: [PMC8800455](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8800455).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34887577/citedby/) Fields:
+
+Med Medicine (General)Mol Molecular Biology
+
+Translation:Humans
+
+  6. Cohen-Adad J, Alonso-Ortiz E, Abramovic M, Arneitz C, Atcheson N, Barlow L, Barry RL, Barth M, Battiston M, Budde M, Callot V, Combes AJE, De Leener B, Descoteaux M, Doyon J, Dvorak A, Eippert F, Epperson KR, Epperson KS, Freund P, Foias A, Fratini M, Fukunaga I, Gandini Wheeler-Kingshott CAM, Germani G, Gilbert G, Giove F, Gros C, Grussu F, Hagiwara A, Henry PG, Hori M, Joers J, Kamiya K, Karbasforoushan H, Khatibi A, Kim JW, Kolind S, Kong Y, Kudlicka P, Kurniawan ND, Kusmia S, Laule C, Law CS, Lenglet C, Leutritz T, Liu Y, Mackey S, Nestrasil I, O'Grady KP, Papinutto N, Papp D, Pareto D, Parrish TB, Pichiecchio A, Prados F, Ruitenberg MJ, Samson RS, Savini G, Seif M, Seifert AC, Smith AK, Smith SA, Smith ZA, Suzuki Y, Tackley G, Tinnermann A, Yiannakas MC, Weber Ii KA, Weiskopf N, Wise RG, Wyss PO, **Xu J** , B?chel C, de Sousa PL, Dost?l M, Finsterbusch J, Hor?k T, Kerkovsk? M, Kinany N, Kitzler HH, Kuntke P, Labounek R, Lagan? MM, Llufriu S, Martinez-Heras E, Mattera L, Rovira ?, Solana E, Valo?ek J, Van De Ville D. Author Correction: Open-access quantitative MRI data of the spinal cord and reproducibility across participants, sites and manufacturers. Sci Data. 2021 Sep 23; 8(1):251. PMID: [34556662](//www.ncbi.nlm.nih.gov/pubmed/34556662); PMCID: [PMC8460649](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8460649).
+
+Citations:  Fields:
+
+Sci Science
+
+  7. Chandrasekaran S, Fifer M, Bickel S, Osborn L, Herrero J, Christie B, **Xu J** , Murphy RKJ, Singh S, Glasser MF, Collinger JL, Gaunt R, Mehta AD, Schwartz A, Bouton CE. Historical perspectives, challenges, and future directions of implantable brain-computer interfaces for sensorimotor applications. Bioelectron Med. 2021 Sep 22; 7(1):14. PMID: [34548098](//www.ncbi.nlm.nih.gov/pubmed/34548098); PMCID: [PMC8456563](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8456563).
+
+Citations:
+
+  8. Cohen-Adad J, Alonso-Ortiz E, Abramovic M, Arneitz C, Atcheson N, Barlow L, Barry RL, Barth M, Battiston M, Budde M, Callot V, Combes AJE, De Leener B, Descoteaux M, Doyon J, Dvorak A, Eippert F, Epperson KR, Epperson KS, Freund P, Foias A, Fratini M, Fukunaga I, Gandini Wheeler-Kingshott CAM, Germani G, Gilbert G, Giove F, Gros C, Grussu F, Hagiwara A, Henry PG, Hori M, Joers J, Kamiya K, Karbasforoushan H, Khatibi A, Kim JW, Kolind S, Kong Y, Kudlicka P, Kurniawan ND, Kusmia S, Laule C, Law CS, Lenglet C, Leutritz T, Liu Y, Mackey S, Nestrasil I, O'Grady KP, Papinutto N, Papp D, Pareto D, Parrish TB, Pichiecchio A, Prados F, Ruitenberg MJ, Samson RS, Savini G, Seif M, Seifert AC, Smith AK, Smith SA, Smith ZA, Suzuki Y, Tackley G, Tinnermann A, Yiannakas MC, Weber Ii KA, Weiskopf N, Wise RG, Wyss PO, **Xu J** , B?chel C, de Sousa PL, Dost?l M, Finsterbusch J, Hor?k T, Kerkovsk? M, Kinany N, Kitzler HH, Kuntke P, Labounek R, Lagan? MM, Llufriu S, Martinez-Heras E, Mattera L, Rovira ?, Solana E, Valo?ek J, Van De Ville D. Author Correction: Open-access quantitative MRI data of the spinal cord and reproducibility across participants, sites and manufacturers. Sci Data. 2021 Sep 10; 8(1):242. PMID: [34508107](//www.ncbi.nlm.nih.gov/pubmed/34508107); PMCID: [PMC8433197](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8433197).
+
+Citations:  Fields:
+
+Sci Science
+
+  9. Bouton C, Bhagat N, Chandrasekaran S, Herrero J, Markowitz N, Espinal E, Kim JW, Ramdeo R, **Xu J** , Glasser MF, Bickel S, Mehta A. Decoding Neural Activity in Sulcal and White Matter Areas of the Brain to Accurately Predict Individual Finger Movement and Tactile Stimuli of the Human Hand. Front Neurosci. 2021; 15:699631. PMID: [34483823](//www.ncbi.nlm.nih.gov/pubmed/34483823); PMCID: [PMC8415782](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8415782).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34483823/citedby/)
+
+  10. Cohen-Adad J, Alonso-Ortiz E, Abramovic M, Arneitz C, Atcheson N, Barlow L, Barry RL, Barth M, Battiston M, Budde M, Callot V, Combes AJE, De Leener B, Descoteaux M, Doyon J, Dvorak A, Eippert F, Epperson KR, Epperson KS, Freund P, Foias A, Fratini M, Fukunaga I, Wheeler-Kingshott CAMG, Germani G, Gilbert G, Giove F, Gros C, Grussu F, Hagiwara A, Henry PG, Hori M, Joers J, Kamiya K, Karbasforoushan H, Khatibi A, Kim JW, Kolind S, Kong Y, Kudlicka P, Kurniawan ND, Kusmia S, Laule C, Law CS, Lenglet C, Leutritz T, Liu Y, Mackey S, Nestrasil I, O'Grady KP, Papinutto N, Papp D, Pareto D, Parrish TB, Pichiecchio A, Prados F, Ruitenberg MJ, Samson RS, Savini G, Seif M, Seifert AC, Smith AK, Smith SA, Smith ZA, Suzuki Y, Tackley G, Tinnermann A, Yiannakas MC, Weber KA, Weiskopf N, Wise RG, Wyss PO, **Xu J** , B?chel C, de Sousa PL, Dost?l M, Finsterbusch J, Hor?k T, Kerkovsk? M, Kinany N, Kitzler H, Kuntke P, Labounek R, Lagan? MM, Llufriu S, Martinez-Heras E, Mattera L, Rovira ?, Solana E, Valo?ek J, Van De Ville D. Generic acquisition protocol for quantitative MRI of the spinal cord. Nat Protoc. 2021 10; 16(10):4611-4632. PMID: [34400839](//www.ncbi.nlm.nih.gov/pubmed/34400839); PMCID: [PMC8811488](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8811488).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34400839/citedby/) Fields:
+
+Cli Clinical Laboratory TechniquesSci Science
+
+Translation:Humans
+
+  11. Cohen-Adad J, Alonso-Ortiz E, Abramovic M, Arneitz C, Atcheson N, Barlow L, Barry RL, Barth M, Battiston M, Budde M, Callot V, Combes AJE, De Leener B, Descoteaux M, Doyon J, Dvorak A, Eippert F, Epperson KR, Epperson KS, Freund P, Foias A, Fratini M, Fukunaga I, Gandini Wheeler-Kingshott CAM, Germani G, Gilbert G, Giove F, Gros C, Grussu F, Hagiwara A, Henry PG, Hori M, Joers J, Kamiya K, Karbasforoushan H, Khatibi A, Kim JW, Kolind S, Kong Y, Kudlicka P, Kurniawan ND, Kusmia S, Laule C, Law CS, Lenglet C, Leutritz T, Liu Y, Mackey S, Nestrasil I, O'Grady KP, Papinutto N, Papp D, Pareto D, Parrish TB, Pichiecchio A, Prados F, Ruitenberg MJ, Samson RS, Savini G, Seif M, Seifert AC, Smith AK, Smith SA, Smith ZA, Suzuki Y, Tackley G, Tinnermann A, Yiannakas MC, Weber Ii KA, Weiskopf N, Wise RG, Wyss PO, **Xu J** , B?chel C, de Sousa PL, Dost?l M, Finsterbusch J, Hor?k T, Kerkovsk? M, Kinany N, Kitzler HH, Kuntke P, Labounek R, Lagan? MM, Llufriu S, Martinez-Heras E, Mattera L, Rovira ?, Solana E, Valo?ek J, Van De Ville D. Open-access quantitative MRI data of the spinal cord and reproducibility across participants, sites and manufacturers. Sci Data. 2021 08 16; 8(1):219. PMID: [34400655](//www.ncbi.nlm.nih.gov/pubmed/34400655); PMCID: [PMC8368310](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8368310).
+
+Citations:
+[4](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34400655/citedby/) Fields:
+
+Sci Science
+
+Translation:Humans
+
+  12. Mendez EF, Wei H, Hu R, Stertz L, Fries GR, Wu X, Najera KE, Monterey MD, Lincoln CM, Kim JW, Moriel K, Meyer TD, Selvaraj S, Teixeira AL, Zhao Z, **Xu J** , Wu J, Walss-Bass C. Angiogenic gene networks are dysregulated in opioid use disorder: evidence from multi-omics and imaging of postmortem human brain. Mol Psychiatry. 2021 12; 26(12):7803-7812. PMID: [34385598](//www.ncbi.nlm.nih.gov/pubmed/34385598); PMCID: [PMC8837724](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8837724).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34385598/citedby/) Fields:
+
+Mol Molecular BiologyPsy Psychiatry
+
+Translation:HumansCells
+
+  13. Chandrasekaran S, Bickel S, Herrero JL, Kim JW, Markowitz N, Espinal E, Bhagat NA, Ramdeo R, **Xu J** , Glasser MF, Bouton CE, Mehta AD. Evoking highly focal percepts in the fingertips through targeted stimulation of sulcal regions of the brain for sensory restoration. Brain Stimul. 2021 Sep-Oct; 14(5):1184-1196. PMID: [34358704](//www.ncbi.nlm.nih.gov/pubmed/34358704); PMCID: [PMC8884403](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8884403).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34358704/citedby/) Fields:
+
+Bra Brain
+
+Translation:Humans
+
+  14. Hui SCN, Mikkelsen M, Ahluwalia V, Baltusis L, Barany DA, Barlow LR, Becker R, Berman JI, Berrington A, Bhattacharyya PK, Blicher JU, Bogner W, Brown MS, Calhoun VD, Castillo R, Cecil KM, Choi YB, Chu WCW, Clarke WT, Craven AR, Cuypers K, Dacko M, Desmond P, Dumont J, Duncan NW, Dydak U, Dyke K, Edmondson DA, Ende G, Ersland L, Evans CJ, Fermin ASR, Ferretti A, Fillmer A, Gong T, Greenhouse I, Grist JT, Gu M, Harris AD, Heba S, Heckova E, Hegarty JP, Heise KF, Honda S, Jacobson A, Jansen JFA, Jenkins CW, Johnston SJ, Juchem C, Kangarlu A, Kerr AB, Landheer K, Lange T, Lee P, Levendovszky SR, Limperopoulos C, Liu F, Lloyd W, Lythgoe DJ, Machizawa MG, MacMillan EL, Maddock RJ, Manzhurtsev AV, Miller JJ, Mirzakhanian H, Moreno-Ortega M, Mullins PG, Nakajima S, Near J, Noeske R, Oeltzschner G, Otaduy MCG, Peeters R, Peltier SJ, Pilatus U, Polomac N, Porges EC, Pradhan S, Prisciandaro JJ, Puts NA, Rae CD, Roberts TPL, Robertson CE, Rosenberg JT, Rotaru DG, O'Gorman Tuura RL, Saleh MG, Sandberg K, Sangill R, Schembri K, Schrantee A, Semenova NA, Singel D, Sitnikov R, Smith J, Song Y, Stoffers D, Swinnen SP, Tanase C, Tapper S, Tegenthoff M, Thioux M, Truong P, van Dijk P, Vella N, Vidyasagar R, Vovk A, Wang G, Westlye LT, Wilbur TK, Willoughby WR, Wilson M, Woods AJ, Wu YC, **Xu J** , Lopez MY, Yeung DKW, Zhao Q, Zhou X, Zupan G, Edden RAE, Z?llner HJ, Alcauter S, de la Fuente-Sandoval C, Domagalik A, Hat K, Martinez-Gudino ML, Nordh?y W, Osorio-Duran R, Pasaye EH, Reyes-Madrigal F, Stark C, Tain R, Thiel T, Wittsack HJ. Frequency drift in MR spectroscopy at 3T. Neuroimage. 2021 11 01; 241:118430. PMID: [34314848](//www.ncbi.nlm.nih.gov/pubmed/34314848); PMCID: [PMC8456751](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8456751).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34314848/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  15. Jha MK, Kim JW, Kenny PJ, Chin Fatt C, Minhajuddin A, [Salas R](https://profiles.viictr.org/profile/267055), Ely BA, Klein M, [Abdallah CG](https://profiles.viictr.org/profile/30909013), **Xu J** , Trivedi MH. Smoking status links habenular volume to glycated hemoglobin: Findings from the Human Connectome Project-Young Adult. Psychoneuroendocrinology. 2021 09; 131:105321. PMID: [34157587](//www.ncbi.nlm.nih.gov/pubmed/34157587).
+
+Citations:  Fields:
+
+End EndocrinologyNeu NeurologyPsy Psychiatry
+
+Translation:Humans
+
+  16. Droby A, Fleysher L, Petracca M, Podranski K, **Xu J** , Fabian M, Marjanska M, Inglese M. Lower cortical gamma-aminobutyric acid level contributes to increased connectivity in sensory-motor regions in progressive MS. Mult Scler Relat Disord. 2020 Aug; 43:102183. PMID: [32480344](//www.ncbi.nlm.nih.gov/pubmed/32480344).
+
+Citations:
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32480344/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  17. Ely BA, Stern ER, Kim JW, Gabbay V, **Xu J**. Detailed mapping of human habenula resting-state functional connectivity. Neuroimage. 2019 10 15; 200:621-634. PMID: [31252057](//www.ncbi.nlm.nih.gov/pubmed/31252057); PMCID: [PMC7089853](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7089853).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31252057/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  18. Seifert AC, Umphlett M, Hefti M, Fowkes M, **Xu J**. Formalin tissue fixation biases myelin-sensitive MRI. Magn Reson Med. 2019 10; 82(4):1504-1517. PMID: [31125149](//www.ncbi.nlm.nih.gov/pubmed/31125149); PMCID: [PMC6626568](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6626568).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31125149/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansCells
+
+  19. Kim JW, Andersson JL, Seifert AC, Sun P, Song SK, Dula C, Naismith RT, **Xu J**. Incorporating non-linear alignment and multi-compartmental modeling for improved human optic nerve diffusion imaging. Neuroimage. 2019 08 01; 196:102-113. PMID: [30930313](//www.ncbi.nlm.nih.gov/pubmed/30930313); PMCID: [PMC8622645](//www.ncbi.nlm.nih.gov/pmc/articles/PMC8622645).
+
+Citations:
+[3](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30930313/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  20. Schafer M, Kim JW, Joseph J, **Xu J** , Frangou S, Doucet GE. Imaging Habenula Volume in Schizophrenia and Bipolar Disorder. Front Psychiatry. 2018; 9:456. PMID: [30319463](//www.ncbi.nlm.nih.gov/pubmed/30319463); PMCID: [PMC6165901](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6165901).
+
+Citations:
+[13](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30319463/citedby/)
+
+  21. Bradley KA, Alonso CM, Mehra LM, **Xu J** , Gabbay V. Elevated striatal ?-aminobutyric acid in youth with major depressive disorder. Prog Neuropsychopharmacol Biol Psychiatry. 2018 08 30; 86:203-210. PMID: [29890194](//www.ncbi.nlm.nih.gov/pubmed/29890194); PMCID: [PMC6563904](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6563904).
+
+Citations:
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29890194/citedby/) Fields:
+
+Psy PsychiatryPsy Psychopharmacology
+
+Translation:Humans
+
+  22. Kim JW, Naidich TP, Joseph J, Nair D, Glasser MF, O'halloran R, Doucet GE, Lee WH, Krinsky H, Paulino A, Glahn DC, Anticevic A, Frangou S, **Xu J**. Reproducibility of myelin content-based human habenula segmentation at 3 Tesla. Hum Brain Mapp. 2018 07; 39(7):3058-3071. PMID: [29582505](//www.ncbi.nlm.nih.gov/pubmed/29582505); PMCID: [PMC6033622](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6033622).
+
+Citations:
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29582505/citedby/) Fields:
+
+Bra Brain
+
+Translation:Humans
+
+  23. Farooq H, **Xu J** , Nam JW, Keefe DF, Yacoub E, Georgiou T, Lenglet C. Microstructure Imaging of Crossing (MIX) White Matter Fibers from diffusion MRI. Sci Rep. 2016 12 16; 6:38927. PMID: [27982056](//www.ncbi.nlm.nih.gov/pubmed/27982056); PMCID: [PMC5159854](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5159854).
+
+Citations:
+[16](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27982056/citedby/) Fields:
+
+Sci Science
+
+Translation:HumansCells
+
+  24. Zhang B, Seifert AC, Kim JW, Borrello J, **Xu J**. 7 Tesla 22-channel wrap-around coil array for cervical spinal cord and brainstem imaging. Magn Reson Med. 2017 10; 78(4):1623-1634. PMID: [27859558](//www.ncbi.nlm.nih.gov/pubmed/27859558).
+
+Citations:
+[8](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27859558/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  25. Miller KL, Alfaro-Almagro F, Bangerter NK, Thomas DL, Yacoub E, **Xu J** , Bartsch AJ, Jbabdi S, Sotiropoulos SN, Andersson JL, Griffanti L, Okell TW, Weale P, Dragonu I, Garratt S, Hudson S, Collins R, Jenkinson M, Matthews PM, Smith SM, Douaud G. Multimodal population brain imaging in the UK Biobank prospective epidemiological study. Nat Neurosci. 2016 11; 19(11):1523-1536. PMID: [27643430](//www.ncbi.nlm.nih.gov/pubmed/27643430); PMCID: [PMC5086094](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5086094).
+
+Citations:
+[408](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27643430/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  26. Glasser MF, Smith SM, Marcus DS, Andersson JL, Auerbach EJ, Behrens TE, Coalson TS, Harms MP, Jenkinson M, Moeller S, Robinson EC, Sotiropoulos SN, **Xu J** , Yacoub E, Ugurbil K, Van Essen DC. The Human Connectome Project's neuroimaging approach. Nat Neurosci. 2016 08 26; 19(9):1175-87. PMID: [27571196](//www.ncbi.nlm.nih.gov/pubmed/27571196); PMCID: [PMC6172654](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6172654).
+
+Citations:
+[276](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27571196/citedby/)
+Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  27. Sun P, **Xu J** , Wang Y, Sullivan S, Gamble P, Wagner J, Wright NN, Dorward IG, Riew D, Santiago P, Kelly MP, Trinkaus K, Ray WZ, Song SK, Murphy RK. Magnetic Resonance Imaging Biomarker of Axon Loss Reflects Cervical Spondylotic Myelopathy Severity. Spine (Phila Pa 1976). 2016 May; 41(9):751-6. PMID: [26650876](//www.ncbi.nlm.nih.gov/pubmed/26650876); PMCID: [PMC4853237](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4853237).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26650876/citedby/) Fields:
+
+Ort Orthopedics
+
+Translation:HumansCells
+
+  28. Ely BA, **Xu J** , [Goodman WK](https://profiles.viictr.org/profile/17873564), Lapidus KA, Gabbay V, Stern ER. Resting-state functional connectivity of the human habenula in healthy individuals: Associations with subclinical depression. Hum Brain Mapp. 2016 07; 37(7):2369-84. PMID: [26991474](//www.ncbi.nlm.nih.gov/pubmed/26991474); PMCID: [PMC4905808](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4905808).
+
+Citations:
+[31](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26991474/citedby/) Fields:
+
+Bra Brain
+
+Translation:Humans
+
+  29. Kim JW, Naidich TP, Ely BA, Yacoub E, De Martino F, Fowkes ME, [Goodman WK](https://profiles.viictr.org/profile/17873564), **Xu J**. Human habenula segmentation using myelin content. Neuroimage. 2016 Apr 15; 130:145-156. PMID: [26826517](//www.ncbi.nlm.nih.gov/pubmed/26826517).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26826517/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansCells
+
+  30. Feldman RE, Islam HM, **Xu J** , Balchandani P. A SEmi-Adiabatic matched-phase spin echo (SEAMS) PINS pulse-pair for B1 -insensitive simultaneous multislice imaging. Magn Reson Med. 2016 Feb; 75(2):709-17. PMID: [25753055](//www.ncbi.nlm.nih.gov/pubmed/25753055); PMCID: [PMC4979355](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4979355).
+
+Citations:
+[5](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25753055/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  31. **Xu J** , Trinkaus K, Pekmezci M, Arthur SN, Song SK, Barnett EM, Chang ST. Optic nerve diffusion tensor imaging parameters and their correlation with optic disc topography and disease severity in adult glaucoma patients and controls. J Glaucoma. 2014 Oct-Nov; 23(8):513-20. PMID: [23632406](//www.ncbi.nlm.nih.gov/pubmed/23632406); PMCID: [PMC3800509](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3800509).
+
+Citations:
+[14](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23632406/citedby/) Fields:
+
+Oph Ophthalmology
+
+Translation:Humans
+
+  32. De Martino F, Moerel M, **Xu J** , van de Moortele PF, Ugurbil K, Goebel R, Yacoub E, Formisano E. High-Resolution Mapping of Myeloarchitecture In Vivo: Localization of Auditory Areas in the Human Brain. Cereb Cortex. 2015 Oct; 25(10):3394-405. PMID: [24994817](//www.ncbi.nlm.nih.gov/pubmed/24994817); PMCID: [PMC4585494](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4585494).
+
+Citations:
+[46](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24994817/citedby/) Fields:
+
+Bra Brain
+
+Translation:HumansCells
+
+  33. Filippini N, Zsoldos E, Haapakoski R, Sexton CE, Mahmood A, Allan CL, Topiwala A, Valkanova V, Brunner EJ, Shipley MJ, Auerbach E, Moeller S, **Xu J** , Yacoub E, Andersson J, Bijsterbosch J, Clare S, Griffanti L, Hess AT, Jenkinson M, Miller KL, Salimi-Khorshidi G, Sotiropoulos SN, Voets NL, Smith SM, Geddes JR, Singh-Manoux A, Mackay CE, Ebmeier KP, Ugurbil K, Kivim?ki M. Study protocol: The Whitehall II imaging sub-study. BMC Psychiatry. 2014 May 30; 14:159. PMID: [24885374](//www.ncbi.nlm.nih.gov/pubmed/24885374); PMCID: [PMC4048583](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4048583).
+
+Citations:
+[42](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24885374/citedby/) Fields:
+
+Psy Psychiatry
+
+Translation:Humans
+
+  34. Griffanti L, Salimi-Khorshidi G, Beckmann CF, Auerbach EJ, Sexton CE, Zsoldos E, Ebmeier KP, Filippini N, Mackay CE, Moeller S, **Xu J** , Yacoub E, Baselli G, Ugurbil K, Miller KL, Smith SM, Douaud G. ICA-based artefact removal and accelerated fMRI acquisition for improved resting state network imaging. Neuroimage. 2014 Jul 15; 95:232-47. PMID: [24657355](//www.ncbi.nlm.nih.gov/pubmed/24657355); PMCID: [PMC4154346](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4154346).
+
+Citations:
+[438](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24657355/citedby/)
+Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  35. Duarte-Carvajalino JM, Lenglet C, **Xu J** , Yacoub E, Ugurbil K, Moeller S, Carin L, Sapiro G. Estimation of the CSA-ODF using Bayesian compressed sensing of multi-shell HARDI. Magn Reson Med. 2014 Nov; 72(5):1471-85. PMID: [24338816](//www.ncbi.nlm.nih.gov/pubmed/24338816); PMCID: [PMC4058298](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4058298).
+
+Citations:
+[9](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24338816/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  36. **Xu J** , Moeller S, Auerbach EJ, Strupp J, Smith SM, Feinberg DA, Yacoub E, Ugurbil K. Evaluation of slice accelerations using multiband echo planar imaging at 3 T. Neuroimage. 2013 Dec; 83:991-1001. PMID: [23899722](//www.ncbi.nlm.nih.gov/pubmed/23899722); PMCID: [PMC3815955](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3815955).
+
+Citations:
+[192](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23899722/citedby/)
+Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  37. Ugurbil K, **Xu J** , Auerbach EJ, Moeller S, Vu AT, Duarte-Carvajalino JM, Lenglet C, Wu X, Schmitter S, Van de Moortele PF, Strupp J, Sapiro G, De Martino F, Wang D, Harel N, Garwood M, Chen L, Feinberg DA, Smith SM, Miller KL, Sotiropoulos SN, Jbabdi S, Andersson JL, Behrens TE, Glasser MF, Van Essen DC, Yacoub E, WU-Minn HCP Consortium. Pushing spatial and temporal resolution for functional and diffusion MRI in the Human Connectome Project. Neuroimage. 2013 Oct 15; 80:80-104. PMID: [23702417](//www.ncbi.nlm.nih.gov/pubmed/23702417); PMCID: [PMC3740184](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3740184).
+
+Citations:
+[337](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23702417/citedby/)
+Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansAnimals
+
+  38. Smith SM, Beckmann CF, Andersson J, Auerbach EJ, Bijsterbosch J, Duff E, Feinberg DA, Griffanti L, Harms MP, Kelly M, Laumann T, Miller KL, Moeller S, Petersen S, Power J, Salimi-Khorshidi G, Snyder AZ, Vu AT, Woolrich MW, **Xu J** , Yacoub E, Ugurbil K, Van Essen DC, Glasser MF, WU-Minn HCP Consortium, Douaud G. Resting-state fMRI in the Human Connectome Project. Neuroimage. 2013 Oct 15; 80:144-68. PMID: [23702415](//www.ncbi.nlm.nih.gov/pubmed/23702415); PMCID: [PMC3720828](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3720828).
+
+Citations:
+[520](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23702415/citedby/)
+Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  39. Sotiropoulos SN, Jbabdi S, **Xu J** , Andersson JL, Moeller S, Auerbach EJ, Glasser MF, Hernandez M, Sapiro G, Jenkinson M, Feinberg DA, Yacoub E, Lenglet C, Van Essen DC, Ugurbil K, Behrens TE, WU-Minn HCP Consortium. Advances in diffusion MRI acquisition and processing in the Human Connectome Project. Neuroimage. 2013 Oct 15; 80:125-43. PMID: [23702418](//www.ncbi.nlm.nih.gov/pubmed/23702418); PMCID: [PMC3720790](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3720790).
+
+Citations:
+[344](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23702418/citedby/)
+Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  40. Glasser MF, Sotiropoulos SN, Wilson JA, Coalson TS, Fischl B, Andersson JL, **Xu J** , Jbabdi S, Webster M, Polimeni JR, Van Essen DC, Jenkinson M, WU-Minn HCP Consortium. The minimal preprocessing pipelines for the Human Connectome Project. Neuroimage. 2013 Oct 15; 80:105-24. PMID: [23668970](//www.ncbi.nlm.nih.gov/pubmed/23668970); PMCID: [PMC3720813](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3720813).
+
+Citations:
+[1338](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23668970/citedby/)
+Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  41. Naismith RT, **Xu J** , Klawiter EC, Lancia S, Tutlam NT, Wagner JM, Qian P, Trinkaus K, Song SK, Cross AH. Spinal cord tract diffusion tensor imaging reveals disability substrate in demyelinating disease. Neurology. 2013 Jun 11; 80(24):2201-9. PMID: [23667060](//www.ncbi.nlm.nih.gov/pubmed/23667060); PMCID: [PMC3721096](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3721096).
+
+Citations:
+[38](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23667060/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  42. Auerbach EJ, **Xu J** , Yacoub E, Moeller S, Ugurbil K. Multiband accelerated spin-echo echo planar imaging with reduced peak RF power using time-shifted RF pulses. Magn Reson Med. 2013 May; 69(5):1261-7. PMID: [23468087](//www.ncbi.nlm.nih.gov/pubmed/23468087); PMCID: [PMC3769699](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3769699).
+
+Citations:
+[57](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23468087/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  43. **Xu J** , Shimony JS, Klawiter EC, Snyder AZ, Trinkaus K, Naismith RT, Benzinger TL, Cross AH, Song SK. Improved in vivo diffusion tensor imaging of human cervical spinal cord. Neuroimage. 2013 Feb 15; 67:64-76. PMID: [23178538](//www.ncbi.nlm.nih.gov/pubmed/23178538); PMCID: [PMC3604900](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3604900).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23178538/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:HumansCells
+
+  44. Klawiter EC, **Xu J** , Naismith RT, Benzinger TL, Shimony JS, Lancia S, Snyder AZ, Trinkaus K, Song SK, Cross AH. Increased radial diffusivity in spinal cord lesions in neuromyelitis optica compared with multiple sclerosis. Mult Scler. 2012 Sep; 18(9):1259-68. PMID: [22354742](//www.ncbi.nlm.nih.gov/pubmed/22354742); PMCID: [PMC3360125](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3360125).
+
+Citations:
+[24](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22354742/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  45. Smith SM, Miller KL, Moeller S, **Xu J** , Auerbach EJ, Woolrich MW, Beckmann CF, Jenkinson M, Andersson J, Glasser MF, Van Essen DC, Feinberg DA, Yacoub ES, Ugurbil K. Temporally-independent functional modes of spontaneous brain activity. Proc Natl Acad Sci U S A. 2012 Feb 21; 109(8):3131-6. PMID: [22323591](//www.ncbi.nlm.nih.gov/pubmed/22323591); PMCID: [PMC3286957](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3286957).
+
+Citations:
+[351](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22323591/citedby/)
+Fields:
+
+Sci Science
+
+Translation:Humans
+
+  46. Naismith RT, **Xu J** , Tutlam NT, Lancia S, Trinkaus K, Song SK, Cross AH. Diffusion tensor imaging in acute optic neuropathies: predictor of clinical outcomes. Arch Neurol. 2012 Jan; 69(1):65-71. PMID: [21911658](//www.ncbi.nlm.nih.gov/pubmed/21911658); PMCID: [PMC3489058](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3489058).
+
+Citations:
+[25](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21911658/citedby/) Fields:
+
+Neu Neurology
+
+Translation:Humans
+
+  47. **Xu J** , Humphrey PA, Kibel AS, Snyder AZ, Narra VR, Ackerman JJ, Song SK. Magnetic resonance diffusion characteristics of histologically defined prostate cancer in humans. Magn Reson Med. 2009 Apr; 61(4):842-50. PMID: [19215051](//www.ncbi.nlm.nih.gov/pubmed/19215051); PMCID: [PMC3080096](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3080096).
+
+Citations:
+[30](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19215051/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:Humans
+
+  48. **Xu J** , Sun SW, Naismith RT, Snyder AZ, Cross AH, Song SK. Assessing optic nerve pathology with diffusion MRI: from mouse to human. NMR Biomed. 2008 Nov; 21(9):928-40. PMID: [18756587](//www.ncbi.nlm.nih.gov/pubmed/18756587); PMCID: [PMC2603138](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2603138).
+
+Citations:
+[41](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18756587/citedby/) Fields:
+
+Dia Diagnostic ImagingNuc Nuclear Medicine
+
+Translation:HumansAnimals
+
+  49. Sehy JV, Zhao L, **Xu J** , Rayala HJ, Ackerman JJ, Neil JJ. Effects of physiologic challenge on the ADC of intracellular water in the Xenopus oocyte. Magn Reson Med. 2004 Aug; 52(2):239-47. PMID: [15282805](//www.ncbi.nlm.nih.gov/pubmed/15282805).
+
+Citations:
+[10](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15282805/citedby/) Fields:
+
+Dia Diagnostic Imaging
+
+Translation:AnimalsCells
+
+This graph shows the total number of publications by year. To see the data as
+text, click here.
+
+![Bar chart showing 49 publications over 14 distinct years, with a maximum of
+11 publications in
+2021](//chart.googleapis.com/chart?chs=595x100&chf=bg,s,ffffff|c,s,ffffff&chxt=x,y&chxl=0:|'94||'96||'98||'00||'02||'04||'06||'08||'10||'12||'14||'16||'18||'20||'22||'24|1:|0|11&cht=bvs&chd=t:0,0,0,0,0,0,0,0,0,0,9,0,0,0,9,9,0,9,27,73,36,9,64,0,27,27,9,100,36,0,0&chdl=Publications&chco=80B1D3&chbh=10)
+
+This graph shows the total number of publications by year. To return to the
+graph, click here.
+
+Year| Publications  
+---|---  
+2004| 1  
+2008| 1  
+2009| 1  
+2011| 1  
+2012| 3  
+2013| 8  
+2014| 4  
+2015| 1  
+2016| 7  
+2018| 3  
+2019| 3  
+2020| 1  
+2021| 11  
+2022| 4  
+  
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+This graph shows the number and percent of publications by field. Fields are
+based on how the National Library of Medicine (NLM) classifies the
+publications' journals and might not represent the specific topics of the
+publications. Note that an individual publication can be assigned to more than
+one field. As a result, the publication counts in this graph might add up to
+more than the number of publications the person has written. To see the data
+as text, click here.
+
+Start with: newest oldest Include: line numbers double spacing all authors
+publication IDs
+
+XU's Networks
+
+Click the
+
+Explore
+
+buttons for more information and interactive visualizations!
+
+Concepts (150)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+Derived automatically from this person's publications.
+
+  * [Habenula](https://profiles.viictr.org/profile/252246)
+  * [Cervical Cord](https://profiles.viictr.org/profile/27547588)
+  * [Spinal Cord](https://profiles.viictr.org/profile/240587)
+  * [Diffusion Tensor Imaging](https://profiles.viictr.org/profile/261523)
+  * [Myelin Sheath](https://profiles.viictr.org/profile/244267)
+
+[Explore](https://profiles.viictr.org/profile/29494132/198)
+
+_
+
+Co-Authors (10)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People in Profiles who have published with this person.
+
+  * [GOODMAN, WAYNE](https://profiles.viictr.org/profile/17873564)
+  * [PROVENZA, NICOLE](https://profiles.viictr.org/profile/36136344)
+  * [VISWANATHAN, ASHWIN](https://profiles.viictr.org/profile/267899)
+  * [STORCH, ERIC](https://profiles.viictr.org/profile/23478906)
+  * [SHETH, SAMEER](https://profiles.viictr.org/profile/23479136)
+
+[Explore](https://profiles.viictr.org/profile/29494132/345)
+
+_
+
+Similar People (60)
+![](https://profiles.viictr.org/profile/modules/passivelist/Images/info.png)
+
+People who share similar concepts with this person.
+
+  * [HUISMAN, THIERRY](https://profiles.viictr.org/profile/30445237)
+  * [SPALLETTA, GIANFRANCO](https://profiles.viictr.org/profile/11312399)
+  * [WILDE, ELISABETH](https://profiles.viictr.org/profile/267730)
+  * [SALAS, RAMIRO](https://profiles.viictr.org/profile/267055)
+  * [LEE, ANDREW](https://profiles.viictr.org/profile/266512)
+
+[Explore](https://profiles.viictr.org/profile/29494132/476)
+
+_
+
+Same Department [ ![Expand
+Description](https://profiles.viictr.org/Framework/Images/info.png)
+](JavaScript:toggleVisibility\('sdDescript'\);)
+
+People who are also in this person's primary department.
+
+  * [DELUMPA, ALFRED](https://profiles.viictr.org/profile/6714430)
+  * [KUKREJA, MARCIA](https://profiles.viictr.org/profile/5236833)
+  * [ROMAN-COLON, ALICIA](https://profiles.viictr.org/profile/269888)
+  * [WENDT, JULIE](https://profiles.viictr.org/profile/267231)
+  * [WYNNE, DAVID](https://profiles.viictr.org/profile/267336)
+
+[Explore](https://profiles.viictr.org/search/default.aspx?searchtype=people&searchfor=&SearchRequest=A81BSfTwU3GNm4liSODkW6vB3EBYO6gz+a5TY1bFhuz1tc7ngL4Orww3064KoquG+9VriFtrDjogfSknlN6Jz7ictMT0qk3g10zM0TMIEPsEyvmx6bLpcnNFGJ4exv4/fFAesBf4NHrkI4nVpsBeSKg1prKuDu5Ad3xZR2IG1VXzQt2Kl5Hs5a708T2/vlG+0DSye5g9KBjG4Q1kuBhnZAsDzRQkDR38klnZT2UlnG774nyA2dru0SIu9XaJe2Vd5sGS5MfW+ZRpNT79jDpQICGGFNfg5WTlXIPkbYJjpf3YGfCjPCJ3A81UJRyGY9MF14VFc7hjK08KUw/CXldSQkQX94mkjqn1GRbJZcV6q8YMdcbUB3UeVgUHmLQA7INKLsictgHvVcL1tc7ngL4Or2BgPoCYhvcEdI9fj5a9U4/8OigV51+oglRnSu//SLHvjH1HWb7OWmYrCEOhNlmBq7Z/PsLHWsJSZIAfV8346VMVWsQSiN3oIGGN9jLXSZC010kNGYH6yvTtuL5pI2IiiZgevCUih0f3vmYbjqDWiC08TnyRrJKGE/Ija0iyg/oaKwhDoTZZgau2fz7Cx1rCUmSAH1fN+OlTFVrEEojd6CBhjfYy10mQtNdJDRmB+sr0qj61OBf+xqDD+6Clu8wvckIBgwTrFvbm7X3tdBvSWESSFAIovZGCSzP0EoNHt5PiUF26eANDXMkWXAx5IRPustF+EEOAWlaZMfmQk2RtrZ+5gidyEWGgqNFJ7Ah6OupyjcQbuuaMR4JpF2jOOFZEaWue6vkhtoRwwfdN4TTmOan9ztqBxhOvMb+us3lPmnf2tt1S1Z0IDTE7qPP/7M2jzFN6foNWCqqLRb/LXAdoFsRpMPt345sB8SI9K3ixiSN+kccJVanciBCNm4liSODkW2tuMX0EQMJeJ1NvmZC7MMfIH0G3DzFa7Ww3kCPpSspax47lNl+obrMAl6LnDsmqO6LI4XK0QanMi19EAkvoFc7JmZNEJTRG2uqY8pTR84tJVXfmR7Dk5CJCe/cQ6H6rtg==)
+
+_
+
