@@ -8,19 +8,30 @@ from langchain_community.document_loaders.csv_loader import CSVLoader
 
 
 load_dotenv()
-PATH_TO_SUMMARY = "./simulated_data/mentor_student_cvs_with_summaries_final.csv"
+PATH_TO_SUMMARY = "./data/mentor_data_with_summaries.csv"
+# Currently we are reading in this mentor data file and merging below b/c dont want to pay $250 
+# to run batch_summarize_pdfs.py again. Just using output from first run and merging
+PATH_TO_MENTOR_DATA = "./data/mentor_data.csv"
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 MODEL_NAME = "gpt-3.5-turbo-0125"  # will change it :)
 
 
 def main():
     llm = ChatOpenAI(model=MODEL_NAME)
-    loader = CSVLoader(file_path=PATH_TO_SUMMARY, source_column="Mentor_Summary")
-    df = pd.read_csv(PATH_TO_SUMMARY)
+    summary_df = pd.read_csv(PATH_TO_SUMMARY, sep="\t")
+    mentor_data_df = pd.read_csv(PATH_TO_MENTOR_DATA)
+
+    # Merge dataframes on Mentor_Data column
+    merged_df = summary_df.merge(mentor_data_df, on="Mentor_Data", how="left")
+
+    # Ensure we have only the required columns after merging
+    merged_df = merged_df[["Mentor_Data", "Mentor_Profile", "Mentor_Summary"]]
+
     docs = [
         p + "\n=====\n" + s
-        for p, s in zip(df["Mentor_Profile"].values, df["Mentor_Summary"].values)
+        for p, s in zip(merged_df["Mentor_Profile"].values, merged_df["Mentor_Summary"].values)
     ]
+
     vector_store = FAISS.from_texts(texts=docs, embedding=OpenAIEmbeddings())
     retriever = vector_store.as_retriever()
     vector_store.save_local("db/index_summary")
