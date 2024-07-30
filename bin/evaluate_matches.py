@@ -2,8 +2,9 @@ import os
 import pandas as pd
 import re
 from dotenv import load_dotenv
-from openai import OpenAI
-from .generate_text import generate_text
+from openai import OpenAI, AsyncOpenAI
+from .generate_text import generate_text_async
+
 
 # Load environment variables
 load_dotenv()
@@ -14,7 +15,7 @@ if not api_key:
     raise ValueError("API key not found. Please set it in the .env file.")
 
 # Initialize OpenAI client
-client = OpenAI(api_key=api_key)
+client = AsyncOpenAI(api_key=api_key)
 
 # Instructions for evaluating the mentor-mentee pair
 instructions = (
@@ -36,7 +37,7 @@ instructions = (
 )
 
 
-def evaluate_pair_with_llm(
+async def evaluate_pair_with_llm(
     client, mentor_summary, mentee_summary, instructions=instructions
 ):
     """
@@ -58,11 +59,11 @@ def evaluate_pair_with_llm(
     )
 
     # Generate the evaluation text using the LLM
-    evaluation_text = generate_text(client, "", combined_instructions)
+    evaluation_text = await generate_text_async(client, "", combined_instructions)
 
     return evaluation_text
 
-def extract_eval_scores_with_llm(client, evaluation_text):
+async def extract_eval_scores_with_llm(client, evaluation_text):
     """
     Extract evaluation scores and summary from the evaluation text using GPT-4.
 
@@ -87,7 +88,7 @@ def extract_eval_scores_with_llm(client, evaluation_text):
     )
 
     # Generate the scores and summary text using the LLM
-    structured_evaluation = generate_text(client, "", prompt)
+    structured_evaluation = await generate_text_async(client, "", prompt)
 
     # Extract scores using regex
     research_score = re.search(r"Research Interest: (\d+)", structured_evaluation)

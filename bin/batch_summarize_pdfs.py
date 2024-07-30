@@ -1,11 +1,12 @@
 import os
 import pandas as pd
 from dotenv import load_dotenv
-from openai import OpenAI
+from openai import AsyncOpenAI
 import json
 import time
 import tiktoken
 import uuid
+import asyncio
 
 mentor_instructions = (
     "Based on the following text, generate a summary paragraph that includes the following information about the individual: "
@@ -28,12 +29,13 @@ mentee_instructions = (
     "The summary should be concise and informative, making it easy to understand the individual's primary focus and suitability for mentorship."
 )
 
-def initialize_openai_client():
+async def initialize_async_openai_client():
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         raise ValueError("API key not found. Please set it in the .env file.")
-    return OpenAI(api_key=api_key)
+    return AsyncOpenAI(api_key=api_key)
+
 
 def load_data(file_path):
     if not os.path.exists(file_path):
@@ -81,14 +83,15 @@ def save_batch_input(batch_input, file_path):
         for item in batch_input:
             f.write(json.dumps(item) + "\n")
 
-def submit_batch_job(client, input_file_path):
-    batch_input_file = client.files.create(
-        file=open(input_file_path, "rb"),
-        purpose="batch"
-    )
+async def submit_batch_job(client, input_file_path):
+    async with aiofiles.open(input_file_path, "rb") as file:
+        batch_input_file = await client.files.create(
+            file=await file.read(),
+            purpose="batch"
+        )
     batch_input_file_id = batch_input_file.id
 
-    return client.batches.create(
+    return await client.batches.create(
         input_file_id=batch_input_file_id,
         endpoint="/v1/chat/completions",
         completion_window="24h",
@@ -97,39 +100,38 @@ def submit_batch_job(client, input_file_path):
         }
     )
 
-def check_batch_status(client, batch_id):
+async def check_batch_status(client, batch_id):
     while True:
-        status = client.batches.retrieve(batch_id)
+        status = await client.batches.retrieve(batch_id)
         print(f"Current batch status: {status.status}")
         if status.status in ["completed", "failed"]:
             break
-        time.sleep(30)
+        await asyncio.sleep(30)
     return status
 
-def download_batch_results(client, status, output_file_path):
+async def download_batch_results(client, status, output_file_path):
     if hasattr(status, 'output_file_id') and status.output_file_id:
-        file_response = client.files.content(status.output_file_id)
-        with open(output_file_path, 'w') as json_file:
-            json_file.write(file_response.text)
+        file_response = await client.files.content(status.output_file_id)
+        async with aiofiles.open(output_file_path, 'w') as json_file:
+            await json_file.write(file_response.text)
     else:
         if hasattr(status, 'error_file_id') and status.error_file_id:
-            error_response = client.files.content(status.error_file_id)
-            with open(output_file_path.replace('.jsonl', '_error.jsonl'), 'w') as json_file:
-                json_file.write(error_response.text)
+            error_response = await client.files.content(status.error_file_id)
+            async with aiofiles.open(output_file_path.replace('.jsonl', '_error.jsonl'), 'w') as json_file:
+                await json_file.write(error_response.text)
             raise ValueError("Batch job failed. Error details saved to the error file.")
         else:
             raise ValueError("Batch job did not produce an output file ID. Check the batch job status and input data.")
 
-def process_batch_results(file_path):
+async def process_batch_results(file_path):
     summaries = []
-    with open(file_path, 'r') as f:
-        for line in f:
+    async with aiofiles.open(file_path, 'r') as f:
+        async for line in f:
             result = json.loads(line)
             if "response" in result and "body" in result["response"] and "choices" in result["response"]["body"]:
                 summary = result["response"]["body"]["choices"][0]["message"]["content"].strip()
                 summaries.append(summary)
             else:
-                # Handle cases where the response does not have the expected structure
                 error_info = {
                     "id": result.get("id"),
                     "custom_id": result.get("custom_id"),
@@ -139,40 +141,39 @@ def process_batch_results(file_path):
                 summaries.append("Error: Unable to generate summary for this entry.")
     return summaries
 
-def summarize_cvs(input_file_path, output_file_path):
-    client = initialize_openai_client()
+async def summarize_cvs(input_file_path, output_file_path):
+    client = await initialize_async_openai_client()
     data = load_data(input_file_path)
 
-    mentor_batch_input = prepare_batch_input(data, mentor_instructions, 0)  # Change column_index to 0
+    mentor_batch_input = prepare_batch_input(data, mentor_instructions, 0)
 
     mentor_input_file_path = "../data/mentor_batch_input_test.jsonl"
     save_batch_input(mentor_batch_input, mentor_input_file_path)
 
-    mentor_batch = submit_batch_job(client, mentor_input_file_path)
+    mentor_batch = await submit_batch_job(client, mentor_input_file_path)
 
     print(f"Batch ID: {mentor_batch.id}")
 
-    mentor_status = check_batch_status(client, mentor_batch.id)
+    mentor_status = await check_batch_status(client, mentor_batch.id)
 
     if not hasattr(mentor_status, 'output_file_id') or not mentor_status.output_file_id:
         print(f"Batch details: {mentor_status}")
         raise ValueError("Batch job did not produce an output file ID. Check the batch job status and input data.")
 
     mentor_output_file_path = "../data/mentor_batch_output_test.jsonl"
-    download_batch_results(client, mentor_status, mentor_output_file_path)
+    await download_batch_results(client, mentor_status, mentor_output_file_path)
 
-    mentor_summaries = process_batch_results(mentor_output_file_path)
+    mentor_summaries = await process_batch_results(mentor_output_file_path)
 
     data["Mentor_Summary"] = mentor_summaries
 
     data.to_csv(output_file_path, sep='\t', index=False)
     print(f"Summarized CVs saved to {output_file_path}")
 
-def main():
+async def main():
     input_file_path = "../data/mentor_data.csv"
     output_file_path = "../data/mentor_data_with_summaries.csv"
-    summarize_cvs(input_file_path, output_file_path)
+    await summarize_cvs(input_file_path, output_file_path)
 
 if __name__ == "__main__":
-    main()
-
+    asyncio.run(main())
