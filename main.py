@@ -74,7 +74,23 @@ def process_cv(file, num_candidates):
         print(f"An error occurred: {str(e)}")
         return "Error occurred", "Error occurred"
 
-iface = gr.Interface(
+
+#blocks = gr.Blocks()
+#with blocks as iface:
+ #   file = gr.File(label="Upload Mentee CV (PDF)"),
+    num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=50, step=1),
+
+    
+    with gr.Row():
+        btn = gr.Button("Search for Mentors")
+        summary, mentor_table = btn.click(process_cv, [file, num_candidates])
+
+        gr.Textbox(label="Student CV Summary"),
+        gr.HTML(label="Matching Mentors Table"),
+        download_button = gr.Button("Download CV")
+        
+               
+demo = gr.Interface(
     fn=process_cv,
     inputs=[
         gr.File(label="Upload Mentee CV (PDF)"),
@@ -90,4 +106,4 @@ iface = gr.Interface(
 )
 
 if __name__ == "__main__":
-    iface.launch(share=True)
+    demo.launch(share=True)
