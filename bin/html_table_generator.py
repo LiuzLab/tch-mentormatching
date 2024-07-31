@@ -1,6 +1,7 @@
 import os
 import re
 import pandas as pd
+from .utils import clean_summary, extract_and_format_name 
 
 # pull the names from the table because it's more reliable to match this way
 def load_mentor_data(csv_file='data/mentor_data.csv'):
@@ -10,19 +11,7 @@ def extract_mentor_id(mentor_summary):
     match = re.match(r'^(\d+)\.txt', mentor_summary)
     return match.group(1) if match else None
 
-def extract_and_format_name(mentor_data):
-    match = re.match(r'^##\s*(.+?)(?:\n\n|\Z)', mentor_data, re.DOTALL)
-    if match:
-        name = match.group(1).strip()
-        return ' '.join(word.capitalize() for word in name.split())
-    return "Unknown Name"
-
-def clean_summary(summary):
-    # Remove the file identifier and '=====' at the beginning
-    cleaned = re.sub(r'^\d+\.txt\s*=+\s*', '', summary)
-    return cleaned.strip()
-
-def create_mentor_table_html(evaluated_matches):
+def create_mentor_table_html_and_csv_data(evaluated_matches):
     current_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(current_dir)
 
@@ -37,6 +26,8 @@ def create_mentor_table_html(evaluated_matches):
     mentor_data_df = load_mentor_data()
 
     mentor_rows = ""
+    csv_data = []
+
     for match in evaluated_matches:
         mentor_summary = match["Mentor Summary"]
         mentor_id = extract_mentor_id(mentor_summary)
@@ -49,6 +40,7 @@ def create_mentor_table_html(evaluated_matches):
             name = extract_and_format_name(full_mentor_data)
         else:
             name = "Unknown Name"
+            full_mentor_data = "No profile data available"
 
         cleaned_summary = clean_summary(mentor_summary)
         scores = match["Criterion Scores"]
@@ -65,6 +57,29 @@ def create_mentor_table_html(evaluated_matches):
             </td>
         </tr>
         """
+
+        mentor_id = match["Mentor Summary"].split("===")[0].strip().replace(".txt", "")
+        mentor_name = extract_and_format_name(match["Mentor Summary"])
+        mentor_summary = clean_summary(match["Mentor Summary"])
+        evaluation_summary = match["Criterion Scores"]["Evaluation Summary"]
+        overall_score = match["Criterion Scores"]["Overall Match Quality"]
+        research_score = match["Criterion Scores"]["Research Interest"]
+        availability_score = match["Criterion Scores"]["Availability"]
+        skillset_score = match["Criterion Scores"]["Skillset"]
+        #similarity_score = match["Similarity Score"]
+
+        csv_data.append({
+            "Mentor Name": name,
+            "Mentor ID": mentor_id,
+            "Mentor Summary": mentor_summary,
+            "Evaluation Summary": evaluation_summary,
+            "Overall Match Quality": overall_score,
+            "Research Interest Score": research_score,
+            "Availability Score": availability_score,
+            "Skillset Score": skillset_score,
+            #"Similarity Score": similarity_score #leave this out for now
+        })
+
 
     full_html = f"""
     <div class="table-container">
@@ -86,4 +101,4 @@ def create_mentor_table_html(evaluated_matches):
     html = html_template.format(table_content=full_html)
     html = html.replace("</head>", f"<style>{css_content}</style></head>")
 
-    return html
+    return html, csv_data

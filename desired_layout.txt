@@ -7,5 +7,5 @@
 |                     Matching Mentors Table                          |
 |                                                                     |
 +---------------------------------------------------------------------+
-| [Download Results as CSV]  [Download CSV File]                      |
+|                    [Download Results as CSV]                        |
 +---------------------------------------------------------------------+

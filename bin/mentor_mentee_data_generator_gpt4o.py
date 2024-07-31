@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from langchain.document_loaders import PyPDFLoader
 from langchain.chains.question_answering import load_qa_chain
 from langchain_openai import ChatOpenAI
+import asyncio
 
 load_dotenv()
 
@@ -19,9 +20,9 @@ client = ChatOpenAI(
 )
 
 
-def generate_samples(prompt, mentor_profile_documents):
+async def generate_samples(prompt, mentor_profile_documents):
     chain = load_qa_chain(client, verbose=True)
-    response = chain.run(input_documents=mentor_profile_documents, question=prompt)
+    response = await chain.arun(input_documents=mentor_profile_documents, question=prompt)
     return response
 
 
@@ -35,7 +36,7 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 
-def generate_mock_cv(pdf_path):
+async def generate_mock_cv(pdf_path):
     pdf_text = extract_text_from_pdf(pdf_path)
     loader = PyPDFLoader(pdf_path)
     mentor_profile_documents = loader.load_and_split()
@@ -56,7 +57,7 @@ def generate_mock_cv(pdf_path):
     Given the following mentor profile:
     """
 
-    mock_cv = generate_samples(prompt_mentor_mentee, mentor_profile_documents[0:1])
+    mock_cv = await generate_samples(prompt_mentor_mentee, mentor_profile_documents[0:1])
     return mock_cv, pdf_text
 
 
