@@ -18,7 +18,7 @@ from bin.build_index import main as build_index
 from bin.mentor_mentee_data_generator_gpt4o import generate_mock_cv
 from bin.search_candidate_mentors import search_candidate_mentors
 from bin.evaluate_matches import evaluate_pair_with_llm, extract_eval_scores_with_llm, instructions
-from bin.correct_csv_columns import correct_csv_columns
+#from bin.correct_csv_columns import correct_csv_columns # deprecated I guess
 from bin.html_table_generator import create_mentor_table_html_and_csv_data
 from bin.utils import clean_summary, extract_and_format_name 
 
