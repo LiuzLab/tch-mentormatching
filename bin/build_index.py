@@ -5,21 +5,29 @@ from dotenv import load_dotenv
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders.csv_loader import CSVLoader
-
+from utils import find_professor_type, rank_professors
 
 load_dotenv()
 PATH_TO_SUMMARY = "./data/mentor_data_with_summaries.csv"
 # Currently we are reading in this mentor data file and merging below b/c dont want to pay $250 
 # to run batch_summarize_pdfs.py again. Just using output from first run and merging
 PATH_TO_MENTOR_DATA = "./data/mentor_data.csv"
+## 8/16/2024
+# To adjust for the possibility of multiple user-types, we are adding a rank of professor level
+# so that assistant professors will not be finding assistant professors
+PATH_TO_MENTOR_DATA_RANKED = "./data/mentor_data_summaries_ranks.csv"
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 MODEL_NAME = "gpt-3.5-turbo-0125"  # will change it :)
 
 
-def main():
+def main():    
     llm = ChatOpenAI(model=MODEL_NAME)
     summary_df = pd.read_csv(PATH_TO_SUMMARY, sep="\t")
     mentor_data_df = pd.read_csv(PATH_TO_MENTOR_DATA)
+    
+    if PATH_TO_MENTOR_DATA_RANKED == False:
+        summary_df['Professor_Type'] = summary_df['Mentor_Data'].apply(find_professor_type)
+        summary_df = rank_professors(summary_df)
 
     # Merge dataframes on Mentor_Data column
     merged_df = summary_df.merge(mentor_data_df, on="Mentor_Data", how="left")
