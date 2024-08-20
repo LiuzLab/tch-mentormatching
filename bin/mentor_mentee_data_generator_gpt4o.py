@@ -9,6 +9,8 @@ from langchain.document_loaders import PyPDFLoader
 from langchain.chains.question_answering import load_qa_chain
 from langchain_openai import ChatOpenAI
 import asyncio
+from docx import Document
+from langchain.docstore.document import Document as LangchainDocument
 
 load_dotenv()
 
@@ -19,11 +21,17 @@ client = ChatOpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
 )
 
-
 async def generate_samples(prompt, mentor_profile_documents):
     chain = load_qa_chain(client, verbose=True)
     response = await chain.arun(input_documents=mentor_profile_documents, question=prompt)
     return response
+
+def extract_text_from_docx(docx_path):
+    doc = Document(docx_path)
+    full_text = []
+    for para in doc.paragraphs:
+        full_text.append(para.text)
+    return ' '.join(full_text)
 
 
 def extract_text_from_pdf(pdf_path):
@@ -35,11 +43,26 @@ def extract_text_from_pdf(pdf_path):
     text = " ".join(text.split())
     return text
 
+def load_pdf(file_path):
+    loader = PyPDFLoader(file_path)
+    return loader.load_and_split()
 
-async def generate_mock_cv(pdf_path):
-    pdf_text = extract_text_from_pdf(pdf_path)
-    loader = PyPDFLoader(pdf_path)
-    mentor_profile_documents = loader.load_and_split()
+def load_docx(file_path):
+    text = extract_text_from_docx(file_path)
+    return [LangchainDocument(page_content=text, metadata={"source": file_path})]
+
+
+async def generate_mock_cv(file_path):
+    file_extension = os.path.splitext(file_path)[1].lower()
+    
+    if file_extension == '.docx':
+        file_text = extract_text_from_docx(file_path)
+        mentor_profile_documents = load_docx(file_path)
+    elif file_extension == '.pdf':
+        file_text = extract_text_from_pdf(file_path)
+        mentor_profile_documents = load_pdf(file_path)
+    else:
+        raise ValueError(f"Unsupported file type: {file_extension}. Please use .docx or .pdf")
 
     n_papers = random.randint(1, 3)
     n_experiences = random.randint(1, 3)
@@ -57,8 +80,11 @@ async def generate_mock_cv(pdf_path):
     Given the following mentor profile:
     """
 
-    mock_cv = await generate_samples(prompt_mentor_mentee, mentor_profile_documents[0:1])
-    return mock_cv, pdf_text
+    chain = load_qa_chain(client, verbose=True)
+    mock_cv = await chain.arun(input_documents=mentor_profile_documents[0:1], question=prompt_mentor_mentee)
+    
+    return mock_cv, file_text
+
 
 
 if __name__ == "__main__":
