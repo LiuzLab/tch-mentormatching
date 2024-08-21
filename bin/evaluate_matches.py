@@ -33,7 +33,7 @@ instructions = (
     "1. Research Interest: Do both have the same research interest?\n"
     "2. Availability: Does the mentor have the capability for mentorship based on their position (higher for assistant professor, lower otherwise)?\n"
     "3. Skillset: Does the mentee have a proper skillset relevant to the mentor's research?\n\n"
-    "Provide a score (1-10) for each criterion and an overall match quality score.\n\n"
+    "Provide a score (1-10) for each criterion and an overall match quality score (1-10).\n\n"
 )
 
 
