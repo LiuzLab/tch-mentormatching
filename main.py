@@ -73,17 +73,19 @@ async def evaluate_match(client, candidate_tuple, mentee_summary):
         "mentor_id": mentor_id,
     }
 
-async def process_cv_async(file, num_candidates, index_choice):
+
+async def process_cv_async(file, num_candidates):
     try:
         # Check file extension
         file_extension = os.path.splitext(file.name)[1].lower()
         if file_extension not in ['.pdf', '.docx']:
             raise ValueError(f"Unsupported file type: {file_extension}. Please use .pdf or .docx")
 
-        mock_cv, pdf_text = await generate_mock_cv(file.name)
+        mentee, pdf_text = await generate_mock_cv(file.name)
         print("Generated mock CV and extracted text")
 
         # Choose the appropriate vector store based on index_choice
+        index_choice = "Assistant Professors and Above" if not mentee.is_assistant_professor else "Above Assistant Professors"
         vector_store = vector_store_assistant_and_above if index_choice == "Assistant Professors and Above" else vector_store_above_assistant
 
         search_results = await search_candidate_mentors(
@@ -131,9 +133,9 @@ main_css = read_css_file('main.css')
 mentor_table_css = read_css_file('mentor_table_styles.css')
 css = main_css + mentor_table_css
 
-def process_cv_wrapper(file, num_candidates, index_choice):
+def process_cv_wrapper(file, num_candidates):
     async def async_wrapper():
-        return await process_cv_async(file, num_candidates, index_choice)
+        return await process_cv_async(file, num_candidates)
     return asyncio.run(async_wrapper())
 
 with gr.Blocks() as demo:
@@ -145,11 +147,6 @@ with gr.Blocks() as demo:
         
         with gr.Column(scale=1):
             num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
-            index_choice = gr.Dropdown(
-                choices=["Assistant Professors and Above", "Above Assistant Professors"],
-                label="Select Index",
-                value="Assistant Professors and Above"
-            )
             submit_btn = gr.Button("Submit")
 
     summary = gr.Textbox(label="Student CV Summary")
@@ -163,7 +160,7 @@ with gr.Blocks() as demo:
 
     submit_btn.click(
         fn=process_cv_wrapper,
-        inputs=[file, num_candidates, index_choice],
+        inputs=[file, num_candidates],
         outputs=[summary, mentor_table, evaluated_matches, csv_data],
         show_progress=True
     )

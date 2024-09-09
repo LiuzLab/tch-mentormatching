@@ -11,12 +11,26 @@ from langchain_openai import ChatOpenAI
 import asyncio
 from docx import Document
 from langchain.docstore.document import Document as LangchainDocument
+from langchain_core.pydantic_v1 import BaseModel, Field
+from typing import cast, List, Literal
+
+
+class Mentee(BaseModel):
+    thoughts: List[str] = Field(description="Reasoning Steps to Extract the information")
+    is_assistant_professor: bool = Field(description="True if the mentee is assistant professor or above.")
+    education: Literal["BS and Master and PhD's Degree", "BS and Master's Degree", "Only BS Degree"] = Field()
+
+    # NOTE(JL): the below is poorly extracted.
+    # n_papers: int = Field(description="The number of publications listed in the CV")
+    # n_experiences: int = Field(description="The number of experiences listed in the CV")
+    # n_skills: int = Field(description="The number of skills listed in the CV")
+    # n_volunteering: int = Field(description="The number of volunteering activities listed in the CV")
 
 load_dotenv()
 
 client = ChatOpenAI(
-    model="gpt-4",
-    temperature=1.25,
+    model="gpt-4o-mini",
+    temperature=0.5,
     max_tokens=3000,
     api_key=os.getenv("OPENAI_API_KEY"),
 )
@@ -43,9 +57,11 @@ def extract_text_from_pdf(pdf_path):
     text = " ".join(text.split())
     return text
 
+
 def load_pdf(file_path):
     loader = PyPDFLoader(file_path)
     return loader.load_and_split()
+
 
 def load_docx(file_path):
     text = extract_text_from_docx(file_path)
@@ -64,27 +80,10 @@ async def generate_mock_cv(file_path):
     else:
         raise ValueError(f"Unsupported file type: {file_extension}. Please use .docx or .pdf")
 
-    n_papers = random.randint(1, 3)
-    n_experiences = random.randint(1, 3)
-    n_skills = random.randint(2, 5)
-    n_volunteering = random.randint(0, 2)
-    education = random.choice(["BS and Master's Degree", "Only BS Degree"])
-
-    prompt_mentor_mentee = f"""
-    Generate a mock CV for a student who might be interested in working with this mentor. The CV should highlight relevant skills, education, and experience that align with the mentor's expertise.
-    Only answer with CV, DO NOT include any notes or additional text after CV. Generate mock personal information and school names. DO NOT state the name of the mentor in any part of the CV.
-
-    Consider a CV with only {n_papers} number of papers, {n_experiences} number of experiences, {n_skills} number of skills, and {n_volunteering} number of volunteering activities.
-    Consider the education level as: {education}.
-
-    Given the following mentor profile:
-    """
-
-    chain = load_qa_chain(client, verbose=True)
-    mock_cv = await chain.arun(input_documents=mentor_profile_documents[0:1], question=prompt_mentor_mentee)
-    
-    return mock_cv, file_text
-
+    structured_llm = client.with_structured_output(Mentee, strict=True)
+    mentee: Mentee = cast(Mentee, structured_llm.invoke(f"""Extract the mentee's information from the CV. CV: {file_text}"""))
+    print(mentee)
+    return mentee, file_text
 
 
 if __name__ == "__main__":
