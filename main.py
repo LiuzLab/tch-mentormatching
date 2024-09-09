@@ -162,16 +162,36 @@ async def chat_query(message, history, index_choice):
 with gr.Blocks() as demo:
     gr.HTML("<h1>TCH Mentor-Mentee Matching System</h1>")
     
-    evaluated_matches = gr.State([])
-    csv_data = gr.State([])
+    with gr.Tab("Mentor Search"):
+        with gr.Row():
+            with gr.Column(scale=1):
+                file = gr.File(label="Upload Mentee CV (PDF)")
 
-    submit_btn.click(
-        fn=process_cv_wrapper,
-        inputs=[file, num_candidates],
-        outputs=[summary, mentor_table, evaluated_matches, csv_data],
-        show_progress=True
-    )
-    
+            with gr.Column(scale=1):
+                num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
+                submit_btn = gr.Button("Submit")
+
+        summary = gr.Textbox(label="Student CV Summary")
+        mentor_table = gr.HTML(label="Matching Mentors Table", value="<div style='height: 500px;'>Results will appear here after submission.</div>")
+        download_btn = gr.Button("Download Results as CSV")
+
+        evaluated_matches = gr.State([])
+        csv_data = gr.State([])
+
+        submit_btn.click(
+            fn=process_cv_wrapper,
+            inputs=[file, num_candidates],
+            outputs=[summary, mentor_table, evaluated_matches, csv_data],
+            show_progress=True
+        )
+
+        download_btn.click(
+            fn=download_csv,
+            inputs=[csv_data],
+            outputs=gr.File(label="Download CSV", height=30),
+            show_progress=False,
+        )
+
     with gr.Tab("Chat"):
         chatbot = gr.Chatbot()
         msg = gr.Textbox()
