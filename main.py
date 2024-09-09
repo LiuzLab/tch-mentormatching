@@ -72,17 +72,19 @@ async def evaluate_match(client, candidate_tuple, mentee_summary):
         "mentor_id": mentor_id,
     }
 
-async def process_cv_async(file, num_candidates, index_choice):
+
+async def process_cv_async(file, num_candidates):
     try:
         # Check file extension
         file_extension = os.path.splitext(file.name)[1].lower()
         if file_extension not in ['.pdf', '.docx']:
             raise ValueError(f"Unsupported file type: {file_extension}. Please use .pdf or .docx")
 
-        mock_cv, pdf_text = await generate_mock_cv(file.name)
+        mentee, pdf_text = await generate_mock_cv(file.name)
         print("Generated mock CV and extracted text")
 
         # Choose the appropriate vector store based on index_choice
+        index_choice = "Assistant Professors and Above" if not mentee.is_assistant_professor else "Above Assistant Professors"
         vector_store = vector_store_assistant_and_above if index_choice == "Assistant Professors and Above" else vector_store_above_assistant
 
         search_results = await search_candidate_mentors(
@@ -130,41 +132,24 @@ main_css = read_css_file('main.css')
 mentor_table_css = read_css_file('mentor_table_styles.css')
 css = main_css + mentor_table_css
 
-def process_cv_wrapper(file, num_candidates, index_choice):
+def process_cv_wrapper(file, num_candidates):
     async def async_wrapper():
-        return await process_cv_async(file, num_candidates, index_choice)
+        return await process_cv_async(file, num_candidates)
     return asyncio.run(async_wrapper())
 
 # New function to handle chat queries with streaming
 async def chat_query(message, history, index_choice):
     # Choose the appropriate retriever based on index_choice
     retriever = retriever_assistant_and_above if index_choice == "Assistant Professors and Above" else retriever_above_assistant
-    
-    # Use the retriever to get relevant documents
-    docs = retriever.get_relevant_documents(message)
-    
-    # Prepare context from retrieved documents
-    context = "\n\n".join([doc.page_content for doc in docs])
-    
-    # Prepare the messages for the OpenAI model
-    messages = [
-        {"role": "system", "content": "You are a helpful assistant answering questions about matching mentors and mentees."},
-        {"role": "system", "content": "You are a helpful assistant answering questions about matching potential collaborators."},
-        {"role": "user", "content": f"Based on the following context, answer the user's question:\n\nContext:\n{context}\n\nUser's question: {message}"}
-    ]
-    
-    # Add conversation history
-    for human, assistant in history:
-        messages.append({"role": "user", "content": human})
-        messages.append({"role": "assistant", "content": assistant})
-    
-    # Generate response using OpenAI with streaming
-    response = await client.chat.completions.create(
-        model="gpt-4o",
-        messages=messages,
-        temperature=1.0,
-        stream=True
-    )
+
+    with gr.Row():
+        with gr.Column(scale=1):
+            file = gr.File(label="Upload Mentee CV (PDF)")
+        
+        with gr.Column(scale=1):
+            num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
+            submit_btn = gr.Button("Submit")
+
 
     partial_message = ""
     async for chunk in response:
@@ -177,40 +162,15 @@ async def chat_query(message, history, index_choice):
 with gr.Blocks() as demo:
     gr.HTML("<h1>TCH Mentor-Mentee Matching System</h1>")
     
-    with gr.Tab("Mentor Search"):
-        with gr.Row():
-            with gr.Column(scale=1):
-                file = gr.File(label="Upload Mentee CV (PDF)")
-            
-            with gr.Column(scale=1):
-                num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
-                index_choice = gr.Dropdown(
-                    choices=["Assistant Professors and Above", "Above Assistant Professors"],
-                    label="Select Index",
-                    value="Assistant Professors and Above"
-                )
-                submit_btn = gr.Button("Submit")
+    evaluated_matches = gr.State([])
+    csv_data = gr.State([])
 
-        summary = gr.Textbox(label="Student CV Summary")
-        mentor_table = gr.HTML(label="Matching Mentors Table", value="<div style='height: 500px;'>Results will appear here after submission.</div>")
-        download_btn = gr.Button("Download Results as CSV")
-        
-        evaluated_matches = gr.State([])
-        csv_data = gr.State([])
-
-        submit_btn.click(
-            fn=process_cv_wrapper,
-            inputs=[file, num_candidates, index_choice],
-            outputs=[summary, mentor_table, evaluated_matches, csv_data],
-            show_progress=True
-        )
-        
-        download_btn.click(
-            fn=download_csv,
-            inputs=[csv_data],
-            outputs=gr.File(label="Download CSV", height=30),
-            show_progress=False,
-        )
+    submit_btn.click(
+        fn=process_cv_wrapper,
+        inputs=[file, num_candidates],
+        outputs=[summary, mentor_table, evaluated_matches, csv_data],
+        show_progress=True
+    )
     
     with gr.Tab("Chat"):
         chatbot = gr.Chatbot()
