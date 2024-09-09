@@ -30,7 +30,6 @@ OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 client = AsyncOpenAI(api_key=OPENAI_KEY)
 embeddings = OpenAIEmbeddings()
 
-
 # Global variables to store vector stores and retrievers
 vector_store_assistant_and_above = None
 vector_store_above_assistant = None
@@ -138,9 +137,11 @@ def process_cv_wrapper(file, num_candidates):
         return await process_cv_async(file, num_candidates)
     return asyncio.run(async_wrapper())
 
-with gr.Blocks() as demo:
-    gr.HTML("<h1>TCH Mentor-Mentee Matching System</h1>")
-    
+# New function to handle chat queries with streaming
+async def chat_query(message, history, index_choice):
+    # Choose the appropriate retriever based on index_choice
+    retriever = retriever_assistant_and_above if index_choice == "Assistant Professors and Above" else retriever_above_assistant
+
     with gr.Row():
         with gr.Column(scale=1):
             file = gr.File(label="Upload Mentee CV (PDF)")
@@ -149,11 +150,17 @@ with gr.Blocks() as demo:
             num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
             submit_btn = gr.Button("Submit")
 
-    summary = gr.Textbox(label="Student CV Summary")
 
-    mentor_table = gr.HTML(label="Matching Mentors Table", value="<div style='height: 500px;'>Results will appear here after submission.</div>")
+    partial_message = ""
+    async for chunk in response:
+        if chunk.choices[0].delta.content is not None:
+            partial_message += chunk.choices[0].delta.content
+            yield "", history + [[message, partial_message]]  # Return "" for the input box
 
-    download_btn = gr.Button("Download Results as CSV")
+
+# Gradio interface
+with gr.Blocks() as demo:
+    gr.HTML("<h1>TCH Mentor-Mentee Matching System</h1>")
     
     evaluated_matches = gr.State([])
     csv_data = gr.State([])
@@ -165,12 +172,20 @@ with gr.Blocks() as demo:
         show_progress=True
     )
     
-    download_btn.click(
-        fn=download_csv,
-        inputs=[csv_data],
-        outputs=gr.File(label="Download CSV", height=30),
-        show_progress=False,
-    )
+    with gr.Tab("Chat"):
+        chatbot = gr.Chatbot()
+        msg = gr.Textbox()
+        clear = gr.Button("Clear")
+
+        chat_index_choice = gr.Dropdown(
+            choices=["Assistant Professors and Above", "Above Assistant Professors"],
+            label="Select Index for Chat",
+            value="Assistant Professors and Above"
+        )
+
+        # Modify the submit action to update both the chatbot and the input box
+        msg.submit(chat_query, [msg, chatbot, chat_index_choice], [msg, chatbot])
+        clear.click(lambda: ([], None), None, [chatbot, msg], queue=False)
 
 if __name__ == "__main__":
     demo.queue()
