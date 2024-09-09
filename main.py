@@ -141,15 +141,32 @@ def process_cv_wrapper(file, num_candidates):
 async def chat_query(message, history, index_choice):
     # Choose the appropriate retriever based on index_choice
     retriever = retriever_assistant_and_above if index_choice == "Assistant Professors and Above" else retriever_above_assistant
-
-    with gr.Row():
-        with gr.Column(scale=1):
-            file = gr.File(label="Upload Mentee CV (PDF)")
-        
-        with gr.Column(scale=1):
-            num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
-            submit_btn = gr.Button("Submit")
-
+    
+    # Use the retriever to get relevant documents
+    docs = retriever.get_relevant_documents(message)
+    
+    # Prepare context from retrieved documents
+    context = "\n\n".join([doc.page_content for doc in docs])
+    
+    # Prepare the messages for the OpenAI model
+    messages = [
+        {"role": "system", "content": "You are a helpful assistant answering questions about matching mentors and mentees."},
+        {"role": "system", "content": "You are a helpful assistant answering questions about matching potential collaborators."},
+        {"role": "user", "content": f"Based on the following context, answer the user's question:\n\nContext:\n{context}\n\nUser's question: {message}"}
+    ]
+    
+    # Add conversation history
+    for human, assistant in history:
+        messages.append({"role": "user", "content": human})
+        messages.append({"role": "assistant", "content": assistant})
+    
+    # Generate response using OpenAI with streaming
+    response = await client.chat.completions.create(
+        model="gpt-4",
+        messages=messages,
+        temperature=1.0,
+        stream=True
+    )
 
     partial_message = ""
     async for chunk in response:
