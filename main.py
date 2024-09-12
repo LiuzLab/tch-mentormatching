@@ -30,6 +30,9 @@ OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 client = AsyncOpenAI(api_key=OPENAI_KEY)
 embeddings = OpenAIEmbeddings()
 
+# define search kwargs
+search_kwargs = {'k': 20, 'fetch_k': 100}  # Increasing the number of documents retrieved; #k is number of docs to return; fetch_k is number to search; default 4 and 20 respectively
+
 # Global variables to store vector stores and retrievers
 vector_store_assistant_and_above = None
 vector_store_above_assistant = None
@@ -51,9 +54,9 @@ def load_or_build_indices():
 
     # Create retrievers if they don't exist
     if retriever_assistant_and_above is None:
-        retriever_assistant_and_above = vector_store_assistant_and_above.as_retriever()
+        retriever_assistant_and_above = vector_store_assistant_and_above.as_retriever(search_kwargs = search_kwargs)
     if retriever_above_assistant is None:
-        retriever_above_assistant = vector_store_above_assistant.as_retriever()
+        retriever_above_assistant = vector_store_above_assistant.as_retriever(search_kwargs = search_kwargs)
 
 # Load or build indices at startup
 load_or_build_indices()
@@ -143,36 +146,37 @@ async def chat_query(message, history, index_choice):
     retriever = retriever_assistant_and_above if index_choice == "Assistant Professors and Above" else retriever_above_assistant
     
     # Use the retriever to get relevant documents
-    docs = retriever.get_relevant_documents(message)
+    docs = await retriever.ainvoke(message)
     
     # Prepare context from retrieved documents
     context = "\n\n".join([doc.page_content for doc in docs])
     
     # Prepare the messages for the OpenAI model
     messages = [
-        {"role": "system", "content": "You are a helpful assistant answering questions about matching mentors and mentees."},
-        {"role": "system", "content": "You are a helpful assistant answering questions about matching potential collaborators."},
-        {"role": "user", "content": f"Based on the following context, answer the user's question:\n\nContext:\n{context}\n\nUser's question: {message}"}
+        {"role": "system", "content": "You are a helpful assistant answering questions about matching mentors with mentees and matching potential collaborators. Focus on the research content and avoid mentioning personal information about researchers. Answer based only on the provided context."},
+        {"role": "user", "content": f"Based solely on the following context, answer the user's question. If the information is not in the context, say you don't have enough information:\n\nContext:\n{context}\n\nUser's question: {message}"}
     ]
     
-    # Add conversation history
-    for human, assistant in history:
-        messages.append({"role": "user", "content": human})
-        messages.append({"role": "assistant", "content": assistant})
+    # Add relevant history
+    for past_message, past_response in history[-8:]:  # Include last 8 exchanges for context; might need to tune this based off API limits ahd best performances
+        messages.append({"role": "user", "content": past_message})
+        messages.append({"role": "assistant", "content": past_response})
     
-    # Generate response using OpenAI with streaming
+    # Add the current query and context
+    messages.append({"role": "user", "content": f"Context:\n{context}\n\nCurrent question: {message}\n\nAnswer the current question based on the provided context. If the information isn't in the context, say you don't have enough information."})
+    
     response = await client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o",
         messages=messages,
-        temperature=1.0,
+        temperature=0.5,
         stream=True
     )
 
-    partial_message = ""
+    full_response = ""
     async for chunk in response:
         if chunk.choices[0].delta.content is not None:
-            partial_message += chunk.choices[0].delta.content
-            yield "", history + [[message, partial_message]]  # Return "" for the input box
+            full_response += chunk.choices[0].delta.content
+            yield history + [[message, full_response]], ""
 
 
 # Gradio interface
@@ -211,8 +215,8 @@ with gr.Blocks() as demo:
 
     with gr.Tab("Chat"):
         chatbot = gr.Chatbot()
-        msg = gr.Textbox()
-        clear = gr.Button("Clear")
+        msg = gr.Textbox(label="Type your message here...")
+        clear = gr.Button("Clear Chat")
 
         chat_index_choice = gr.Dropdown(
             choices=["Assistant Professors and Above", "Above Assistant Professors"],
@@ -220,10 +224,10 @@ with gr.Blocks() as demo:
             value="Assistant Professors and Above"
         )
 
-        # Modify the submit action to update both the chatbot and the input box
-        msg.submit(chat_query, [msg, chatbot, chat_index_choice], [msg, chatbot])
-        clear.click(lambda: ([], None), None, [chatbot, msg], queue=False)
+        msg.submit(chat_query, inputs=[msg, chatbot, chat_index_choice], outputs=[chatbot, msg])
+        clear.click(lambda: ([], ""), outputs=[chatbot, msg])
+
 
 if __name__ == "__main__":
     demo.queue()
-    demo.launch(server_name="0.0.0.0", server_port=7860, share=True)
+    demo.launch(share=True)
