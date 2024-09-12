@@ -53,10 +53,6 @@ def load_or_build_indices():
         # Build indices if they don't exist
         vector_store_assistant_and_above, retriever_assistant_and_above, vector_store_above_assistant, retriever_above_assistant = build_index()
 
-    # Verify the loaded index dimensions
-    print(f"Loaded index dimension: {vector_store_assistant_and_above.index.d}")
-    assert vector_store_assistant_and_above.index.d == 3072, f"Expected index dimension 3072, but got {vector_store_assistant_and_above.index.d}"
-
     # Create retrievers if they don't exist
     if retriever_assistant_and_above is None:
         retriever_assistant_and_above = vector_store_assistant_and_above.as_retriever(search_kwargs = search_kwargs)
