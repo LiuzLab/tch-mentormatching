@@ -10,7 +10,7 @@ from .batch_summarize_pdfs import mentee_instructions, initialize_async_openai_c
 # Load environment variables
 load_dotenv()
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
-MODEL_NAME = "gpt-3.5-turbo-0125"
+MODEL_NAME = "gpt-4o"
 
 # Initialize AsyncOpenAI client
 #client = initialize_async_openai_client()

@@ -1,6 +1,7 @@
 import os
 import re
 import pandas as pd
+import numpy as np
 from io import StringIO
 from openai import OpenAI, AsyncOpenAI
 import gradio as gr
@@ -28,13 +29,21 @@ OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 
 # Initialize OpenAI client
 client = AsyncOpenAI(api_key=OPENAI_KEY)
-embeddings = OpenAIEmbeddings()
+
+# mimic embeddings dimensions same as build_index
+embeddings = OpenAIEmbeddings(
+    model="text-embedding-3-large",
+    dimensions=3072  # Request full dimensionality
+)
 
 # Global variables to store vector stores and retrievers
 vector_store_assistant_and_above = None
 vector_store_above_assistant = None
 retriever_assistant_and_above = None
 retriever_above_assistant = None
+
+# define search kwargs
+search_kwargs={'k': 15, 'fetch_k': 50} #k is number of docs to return; fetch_k is number to search
 
 def load_or_build_indices():
     global vector_store_assistant_and_above, vector_store_above_assistant
@@ -49,11 +58,15 @@ def load_or_build_indices():
         # Build indices if they don't exist
         vector_store_assistant_and_above, retriever_assistant_and_above, vector_store_above_assistant, retriever_above_assistant = build_index()
 
+    # Verify the loaded index dimensions
+    print(f"Loaded index dimension: {vector_store_assistant_and_above.index.d}")
+    assert vector_store_assistant_and_above.index.d == 3072, f"Expected index dimension 3072, but got {vector_store_assistant_and_above.index.d}"
+
     # Create retrievers if they don't exist
     if retriever_assistant_and_above is None:
-        retriever_assistant_and_above = vector_store_assistant_and_above.as_retriever()
+        retriever_assistant_and_above = vector_store_assistant_and_above.as_retriever(search_kwargs = search_kwargs)
     if retriever_above_assistant is None:
-        retriever_above_assistant = vector_store_above_assistant.as_retriever()
+        retriever_above_assistant = vector_store_above_assistant.as_retriever(search_kwargs = search_kwargs)
 
 # Load or build indices at startup
 load_or_build_indices()
@@ -142,9 +155,20 @@ async def chat_query(message, history, index_choice):
     # Choose the appropriate retriever based on index_choice
     retriever = retriever_assistant_and_above if index_choice == "Assistant Professors and Above" else retriever_above_assistant
     
-    # Use the retriever to get relevant documents
-    docs = retriever.get_relevant_documents(message)
+    query_vector = embeddings.embed_query(message)
+    print(f"Query vector shape: {len(query_vector)}")
+    print(f"Vector store index dimension: {retriever.vectorstore.index.d}")
     
+    try:
+        docs = await retriever.ainvoke(message)
+        print(f"Retrieved {len(docs)} documents")
+        if docs:
+            print(f"First document content: {docs[0].page_content[:100]}...")  # Print first 100 chars
+    except Exception as e:
+        print(f"Error during retrieval: {str(e)}")
+        print(f"Retriever details: {retriever.__dict__}")
+        raise
+
     # Prepare context from retrieved documents
     context = "\n\n".join([doc.page_content for doc in docs])
     
@@ -162,9 +186,9 @@ async def chat_query(message, history, index_choice):
     
     # Generate response using OpenAI with streaming
     response = await client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o",
         messages=messages,
-        temperature=1.0,
+        temperature=0.7,
         stream=True
     )
 
@@ -226,4 +250,4 @@ with gr.Blocks() as demo:
 
 if __name__ == "__main__":
     demo.queue()
-    demo.launch(server_name="0.0.0.0", server_port=7860, share=True)
+    demo.launch(server_name="0.0.0.0", server_port=7680, share=True)
