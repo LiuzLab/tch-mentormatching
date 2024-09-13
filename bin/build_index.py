@@ -14,7 +14,6 @@ PATH_TO_SUMMARY = "./data/mentor_data_with_summaries.csv"
 PATH_TO_MENTOR_DATA = "./data/mentor_data.csv"
 PATH_TO_SUMMARY_DATA = "./data/summary_data.csv"
 PATH_TO_MENTOR_DATA_RANKED = "./data/mentor_data_summaries_ranks.csv"
-PATH_TO_INDEX_DB = "./db"
 
 # define the search kwargs for langchain FAISS retriever
 search_kwargs = {'k': 20, 'fetch_k': 100}  # Increasing the number of documents retrieved; #k is number of docs to return; fetch_k is number to search; default 4 and 20 respectively
@@ -63,12 +62,6 @@ def main():
         for p, s, r in zip(merged_df["Mentor_Profile"].values, merged_df["Mentor_Summary"].values, merged_df["Rank"].values)
         if r > 1
     ]
-
-    # create Index directories
-    if os.path.exists(PATH_TO_INDEX_DB):
-        os.makedirs(PATH_TO_INDEX_DB, exist_ok = True)
-    else:
-        print('Directory already exists...') 
 
     # Create vector stores
     embeddings = OpenAIEmbeddings(model = EMBEDDING_MODEL)
