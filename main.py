@@ -12,6 +12,7 @@ import json
 import traceback
 import tempfile
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
+import base64
 
 # Load .env file
 load_dotenv()
@@ -44,15 +45,29 @@ def load_or_build_indices():
     global vector_store_assistant_and_above, vector_store_above_assistant
     global retriever_assistant_and_above, retriever_above_assistant
 
-    # Check if indices already exist
-    if os.path.exists("db/index_summary_assistant_and_above") and os.path.exists("db/index_summary_above_assistant"):
-        from langchain_community.vectorstores import FAISS
-        vector_store_assistant_and_above = FAISS.load_local("db/index_summary_assistant_and_above", embeddings, allow_dangerous_deserialization = True)
-        vector_store_above_assistant = FAISS.load_local("db/index_summary_above_assistant", embeddings, allow_dangerous_deserialization = True)
-    else:
-        # Build indices if they don't exist
-        vector_store_assistant_and_above, retriever_assistant_and_above, vector_store_above_assistant, retriever_above_assistant = build_index()
+    try:
+        print("Attempting to load FAISS index...")
+        # Check if indices already exist
+        if os.path.exists("db/index_summary_assistant_and_above") and os.path.exists("db/index_summary_above_assistant"):
+            from langchain_community.vectorstores import FAISS
+            vector_store_assistant_and_above = FAISS.load_local("db/index_summary_assistant_and_above", embeddings, allow_dangerous_deserialization=True)
+            vector_store_above_assistant = FAISS.load_local("db/index_summary_above_assistant", embeddings, allow_dangerous_deserialization=True)
+            print("Successfully loaded FAISS indices.")
 
+        else:
+            raise FileNotFoundError("Index files not found, rebuilding is required.")
+
+    except (RuntimeError, FileNotFoundError) as e:
+        print(f"Error loading FAISS index: {e}")
+        print("Rebuilding indices...")
+        build_index()  # Assuming build_index function builds and saves the indices
+        print("Indices rebuilt successfully.")
+        
+        # After rebuilding, attempt to load the indices again
+        vector_store_assistant_and_above = FAISS.load_local("db/index_summary_assistant_and_above", embeddings, allow_dangerous_deserialization=True)
+        vector_store_above_assistant = FAISS.load_local("db/index_summary_above_assistant", embeddings, allow_dangerous_deserialization=True)
+        print("Successfully reloaded FAISS indices after rebuilding.")
+    
     # Create retrievers if they don't exist
     if retriever_assistant_and_above is None:
         retriever_assistant_and_above = vector_store_assistant_and_above.as_retriever(search_kwargs = search_kwargs)
@@ -75,6 +90,20 @@ async def evaluate_match(client, candidate_tuple, mentee_summary):
         "Criterion Scores": criterion_scores,
         "mentor_id": mentor_id,
     }
+    
+def generate_csv_string(csv_data):
+    if not csv_data:
+        return ""
+    df = pd.DataFrame(csv_data)
+    csv_buffer = StringIO()
+    df.to_csv(csv_buffer, index=False)
+    return csv_buffer.getvalue()
+
+def get_csv_download(csv_string):
+    csv_bytes = csv_string.encode('utf-8')
+    b64 = base64.b64encode(csv_bytes).decode()
+    href = f'<a href="data:file/csv;base64,{b64}" download="results.csv">Download CSV</a>'
+    return href
 
 
 async def process_cv_async(file, num_candidates):
@@ -107,7 +136,11 @@ async def process_cv_async(file, num_candidates):
 
         mentor_table_html, csv_data = create_mentor_table_html_and_csv_data(evaluated_matches)
 
-        return mentee_summary, mentor_table_html, evaluated_matches, csv_data
+        # Generate CSV string
+        csv_string = generate_csv_string(csv_data)
+
+        return mentee_summary, mentor_table_html, evaluated_matches, csv_string
+
     except Exception as e:
         print(f"An error occurred: {str(e)}")
         print("Traceback:")
@@ -135,11 +168,6 @@ def read_css_file(filename):
 main_css = read_css_file('main.css')
 mentor_table_css = read_css_file('mentor_table_styles.css')
 css = main_css + mentor_table_css
-
-def process_cv_wrapper(file, num_candidates):
-    async def async_wrapper():
-        return await process_cv_async(file, num_candidates)
-    return asyncio.run(async_wrapper())
 
 # New function to handle chat queries with streaming
 async def chat_query(message, history, index_choice):
@@ -179,41 +207,39 @@ async def chat_query(message, history, index_choice):
             full_response += chunk.choices[0].delta.content
             yield history + [[message, full_response]], ""
 
+#def process_cv_wrapper(file, num_candidates):
+#    loop = asyncio.get_event_loop()
+#    return loop.run_until_complete(process_cv_async(file, num_candidates))
+
+#def chat_query_wrapper(message, history, index_choice):
+#    loop = asyncio.get_event_loop()
+#    return loop.run_until_complete(chat_query(message, history, index_choice))
 
 # Gradio interface
 with gr.Blocks() as demo:
     gr.HTML("<h1>TCH Mentor-Mentee Matching System</h1>")
     
     with gr.Tab("Mentor Search"):
-        with gr.Row():
-            with gr.Column(scale=1):
-                file = gr.File(label="Upload Mentee CV (PDF)")
-
-            with gr.Column(scale=1):
-                num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
-                submit_btn = gr.Button("Submit")
-
+        file = gr.File(label="Upload Mentee CV (PDF)")
+        num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
+        submit_btn = gr.Button("Submit")
         summary = gr.Textbox(label="Student CV Summary")
-        mentor_table = gr.HTML(label="Matching Mentors Table", value="<div style='height: 500px;'>Results will appear here after submission.</div>")
-        download_btn = gr.Button("Download Results as CSV")
-
+        mentor_table = gr.HTML(label="Matching Mentors Table")
         evaluated_matches = gr.State([])
-        csv_data = gr.State([])
+        csv_data = gr.State()
+        download_link = gr.HTML(label="Download CSV")
 
         submit_btn.click(
-            fn=process_cv_wrapper,
+            fn=process_cv_async,
             inputs=[file, num_candidates],
             outputs=[summary, mentor_table, evaluated_matches, csv_data],
-            show_progress=True
-        )
-
-        download_btn.click(
-            fn=download_csv,
+            api_name='search_cv'
+        ).then(
+            fn=get_csv_download,
             inputs=[csv_data],
-            outputs=gr.File(label="Download CSV", height=30),
-            show_progress=False,
+            outputs=[download_link]
         )
-
+        
     with gr.Tab("Chat"):
         chatbot = gr.Chatbot()
         msg = gr.Textbox(label="Type your message here...")
@@ -225,10 +251,14 @@ with gr.Blocks() as demo:
             value="Assistant Professors and Above"
         )
 
-        msg.submit(chat_query, inputs=[msg, chatbot, chat_index_choice], outputs=[chatbot, msg])
+        msg.submit(
+            fn=chat_query,  # Use the async function directly
+            inputs=[msg, chatbot, chat_index_choice],
+            outputs=[chatbot, msg],
+            api_name='use_chatbot'
+        )
         clear.click(lambda: ([], ""), outputs=[chatbot, msg])
-
 
 if __name__ == "__main__":
     demo.queue()
-    demo.launch(share=True)
+    demo.launch(share=True, show_error=True)
