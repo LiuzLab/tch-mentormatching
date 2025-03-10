@@ -22,7 +22,7 @@ from bin.mentor_mentee_data_generator_gpt4o import generate_mock_cv
 from bin.search_candidate_mentors import search_candidate_mentors
 from bin.evaluate_matches import evaluate_pair_with_llm, extract_eval_scores_with_llm, instructions
 from bin.html_table_generator import create_mentor_table_html_and_csv_data
-from bin.utils import clean_summary, extract_and_format_name 
+from bin.utils_ import clean_summary, extract_and_format_name
 
 # Load environment variables
 load_dotenv()
@@ -38,44 +38,42 @@ search_kwargs = {'k': 20, 'fetch_k': 100}  # Increasing the number of documents 
 # Global variables to store vector stores and retrievers
 vector_store_assistant_and_above = None
 vector_store_above_assistant = None
+vector_store_docs_with_metadata = None
 retriever_assistant_and_above = None
 retriever_above_assistant = None
+retriever_docs_with_metadata = None
 
 def load_or_build_indices():
-    global vector_store_assistant_and_above, vector_store_above_assistant
-    global retriever_assistant_and_above, retriever_above_assistant
+    global vector_store_assistant_and_above, vector_store_above_assistant, vector_store_docs_with_metadata
+    global retriever_assistant_and_above, retriever_above_assistant, retriever_docs_with_metadata
 
-    try:
-        print("Attempting to load FAISS index...")
-        # Check if indices already exist
-        if os.path.exists("db/index_summary_assistant_and_above") and os.path.exists("db/index_summary_above_assistant"):
-            from langchain_community.vectorstores import FAISS
-            vector_store_assistant_and_above = FAISS.load_local("db/index_summary_assistant_and_above", embeddings, allow_dangerous_deserialization=True)
-            vector_store_above_assistant = FAISS.load_local("db/index_summary_above_assistant", embeddings, allow_dangerous_deserialization=True)
-            print("Successfully loaded FAISS indices.")
+    # Check if indices already exist
+    if os.path.exists("db/index_summary_assistant_and_above") and os.path.exists("db/index_summary_above_assistant") and os.path.exists("db/index_summary_with_metadata"):
+        from langchain_community.vectorstores import FAISS
+        vector_store_assistant_and_above = FAISS.load_local("db/index_summary_assistant_and_above", embeddings, allow_dangerous_deserialization = True)
+        vector_store_above_assistant = FAISS.load_local("db/index_summary_above_assistant", embeddings, allow_dangerous_deserialization = True)
+        vector_store_docs_with_metadata = FAISS.load_local("db/index_summary_with_metadata", embeddings, allow_dangerous_deserialization = True)
+    else:
+        # Build indices if they don't exist
+        vector_store_assistant_and_above, retriever_assistant_and_above, vector_store_above_assistant, retriever_above_assistant, vector_store_docs_with_metadata, retriever_docs_with_metadata = build_index()
 
-        else:
-            raise FileNotFoundError("Index files not found, rebuilding is required.")
-
-    except (RuntimeError, FileNotFoundError) as e:
-        print(f"Error loading FAISS index: {e}")
-        print("Rebuilding indices...")
-        build_index()  # Assuming build_index function builds and saves the indices
-        print("Indices rebuilt successfully.")
-        
-        # After rebuilding, attempt to load the indices again
-        vector_store_assistant_and_above = FAISS.load_local("db/index_summary_assistant_and_above", embeddings, allow_dangerous_deserialization=True)
-        vector_store_above_assistant = FAISS.load_local("db/index_summary_above_assistant", embeddings, allow_dangerous_deserialization=True)
-        print("Successfully reloaded FAISS indices after rebuilding.")
-    
     # Create retrievers if they don't exist
     if retriever_assistant_and_above is None:
         retriever_assistant_and_above = vector_store_assistant_and_above.as_retriever(search_kwargs = search_kwargs)
     if retriever_above_assistant is None:
-        retriever_above_assistant = vector_store_above_assistant.as_retriever(search_kwargs = search_kwargs)
+        retriever_above_assistant = vector_store_above_assistant.as_retriever()
+    if retriever_docs_with_metadata is None:
+        retriever_docs_with_metadata = vector_store_docs_with_metadata.as_retriever()
+
+def load_professor_types():
+    global professor_types
+    with open("./data/professor_types.txt", "r") as f:
+        professor_types = f.read().splitlines()
 
 # Load or build indices at startup
 load_or_build_indices()
+# Also load professor types from list created in build_index.py
+load_professor_types()
 
 async def evaluate_match(client, candidate_tuple, mentee_summary):
     candidate, similarity_score = candidate_tuple
@@ -90,23 +88,9 @@ async def evaluate_match(client, candidate_tuple, mentee_summary):
         "Criterion Scores": criterion_scores,
         "mentor_id": mentor_id,
     }
-    
-def generate_csv_string(csv_data):
-    if not csv_data:
-        return ""
-    df = pd.DataFrame(csv_data)
-    csv_buffer = StringIO()
-    df.to_csv(csv_buffer, index=False)
-    return csv_buffer.getvalue()
-
-def get_csv_download(csv_string):
-    csv_bytes = csv_string.encode('utf-8')
-    b64 = base64.b64encode(csv_bytes).decode()
-    href = f'<a href="data:file/csv;base64,{b64}" download="results.csv">Download CSV</a>'
-    return href
 
 
-async def process_cv_async(file, num_candidates):
+async def process_cv_async(file, num_candidates, selected_professor_types=None):
     try:
         # Check file extension
         file_extension = os.path.splitext(file.name)[1].lower()
@@ -116,13 +100,24 @@ async def process_cv_async(file, num_candidates):
         mentee, pdf_text = await generate_mock_cv(file.name)
         print("Generated mock CV and extracted text")
 
-        # Choose the appropriate vector store based on index_choice
-        index_choice = "Assistant Professors and Above" if not mentee.is_assistant_professor else "Above Assistant Professors"
-        vector_store = vector_store_assistant_and_above if index_choice == "Assistant Professors and Above" else vector_store_above_assistant
+        # Choose the appropriate vector store based on mentee's status
+        vector_store = vector_store_assistant_and_above if not mentee.is_assistant_professor else vector_store_above_assistant
 
+        # Set up metadata filter if professor types are selected
+        metadata_filter = None
+        if selected_professor_types and len(selected_professor_types) > 0:
+            # Create a lambda function that checks if a document's professor_type is in the selected list
+            metadata_filter = lambda metadata: metadata.get("professor_type") in selected_professor_types
+            print(f"Filtering for professor types: {selected_professor_types}")
+
+        # Pass the filter to the search function
         search_results = await search_candidate_mentors(
-            k=num_candidates, mentee_cv_text=pdf_text, vector_store=vector_store
+            k=num_candidates, 
+            mentee_cv_text=pdf_text, 
+            vector_store=vector_store,
+            metadata_filter=metadata_filter
         )
+        
         mentee_summary = search_results["mentee_cv_summary"]
         candidates = search_results["candidates"]
 
@@ -169,13 +164,18 @@ main_css = read_css_file('main.css')
 mentor_table_css = read_css_file('mentor_table_styles.css')
 css = main_css + mentor_table_css
 
+def process_cv_wrapper(file, num_candidates, selected_professor_types=None):
+    async def async_wrapper():
+        return await process_cv_async(file, num_candidates, selected_professor_types)
+    return asyncio.run(async_wrapper())
+
 # New function to handle chat queries with streaming
-async def chat_query(message, history, index_choice):
-    # Choose the appropriate retriever based on index_choice
-    retriever = retriever_assistant_and_above if index_choice == "Assistant Professors and Above" else retriever_above_assistant
+async def chat_query(message, history, selected_professor_types=None):
+    # Use the retriever with metadata - no filtering
+    retriever = retriever_docs_with_metadata
     
-    # Use the retriever to get relevant documents
-    docs = await retriever.ainvoke(message)
+    # Get relevant documents without professor type filtering
+    docs = retriever.get_relevant_documents(message)
     
     # Prepare context from retrieved documents
     context = "\n\n".join([doc.page_content for doc in docs])
@@ -201,6 +201,62 @@ async def chat_query(message, history, index_choice):
         stream=True
     )
 
+    partial_message = ""
+    async for chunk in response:
+        if chunk.choices[0].delta.content is not None:
+            partial_message += chunk.choices[0].delta.content
+            yield "", history + [[message, partial_message]]  # Return "" for the input box
+    # Prepare context from filtered documents
+    context = "\n\n".join([doc.page_content for doc in filtered_docs])
+    
+    # Prepare the messages for the OpenAI model
+    messages = [
+        {"role": "system", "content": "You are a helpful assistant answering questions about matching mentors and mentees."},
+        {"role": "system", "content": "You are a helpful assistant answering questions about matching potential collaborators."},
+        {"role": "user", "content": f"Based on the following context, answer the user's question:\n\nContext:\n{context}\n\nUser's question: {message}"}
+    ]
+    
+    # Add conversation history
+    for human, assistant in history:
+        messages.append({"role": "user", "content": human})
+        messages.append({"role": "assistant", "content": assistant})
+    
+    # Generate response using OpenAI with streaming
+    response = await client.chat.completions.create(
+        model="gpt-4",
+        messages=messages,
+        temperature=1.0,
+        stream=True
+    )
+
+    partial_message = ""
+    async for chunk in response:
+        if chunk.choices[0].delta.content is not None:
+            partial_message += chunk.choices[0].delta.content
+            yield "", history + [[message, partial_message]]  # Return "" for the input box
+    # Prepare context from filtered documents
+    context = "\n\n".join([doc.page_content for doc in filtered_docs])
+    
+    # Prepare the messages for the OpenAI model
+    messages = [
+        {"role": "system", "content": "You are a helpful assistant answering questions about matching mentors and mentees."},
+        {"role": "system", "content": "You are a helpful assistant answering questions about matching potential collaborators."},
+        {"role": "user", "content": f"Based on the following context, answer the user's question:\n\nContext:\n{context}\n\nUser's question: {message}"}
+    ]
+    
+    # Add conversation history
+    for human, assistant in history:
+        messages.append({"role": "user", "content": human})
+        messages.append({"role": "assistant", "content": assistant})
+    
+    # Generate response using OpenAI with streaming
+    response = await client.chat.completions.create(
+        model="gpt-4",
+        messages=messages,
+        temperature=1.0,
+        stream=True
+    )
+
     full_response = ""
     async for chunk in response:
         if chunk.choices[0].delta.content is not None:
@@ -216,22 +272,36 @@ async def chat_query(message, history, index_choice):
 #    return loop.run_until_complete(chat_query(message, history, index_choice))
 
 # Gradio interface
-with gr.Blocks() as demo:
+with gr.Blocks(css=css) as demo:
     gr.HTML("<h1>TCH Mentor-Mentee Matching System</h1>")
     
     with gr.Tab("Mentor Search"):
-        file = gr.File(label="Upload Mentee CV (PDF)")
-        num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
-        submit_btn = gr.Button("Submit")
+        with gr.Row():
+            with gr.Column(scale=1):
+                file = gr.File(label="Upload Mentee CV (PDF)")
+
+            with gr.Column(scale=1):
+                num_candidates = gr.Number(label="Number of Candidates", value=5, minimum=1, maximum=100, step=1)
+                
+                # Add professor type selection for Mentor Search
+                mentor_professor_types = gr.CheckboxGroup(
+                    choices=professor_types,
+                    label="Filter by Professor Types",
+                    value=[]  # Default to no selection, which will include all
+                )
+                
+                submit_btn = gr.Button("Submit")
+
         summary = gr.Textbox(label="Student CV Summary")
         mentor_table = gr.HTML(label="Matching Mentors Table")
         evaluated_matches = gr.State([])
         csv_data = gr.State()
         download_link = gr.HTML(label="Download CSV")
 
+        # Define click events INSIDE the Blocks context
         submit_btn.click(
-            fn=process_cv_async,
-            inputs=[file, num_candidates],
+            fn=process_cv_wrapper,
+            inputs=[file, num_candidates, mentor_professor_types],
             outputs=[summary, mentor_table, evaluated_matches, csv_data],
             api_name='search_cv'
         ).then(
@@ -245,20 +315,11 @@ with gr.Blocks() as demo:
         msg = gr.Textbox(label="Type your message here...")
         clear = gr.Button("Clear Chat")
 
-        chat_index_choice = gr.Dropdown(
-            choices=["Assistant Professors and Above", "Above Assistant Professors"],
-            label="Select Index for Chat",
-            value="Assistant Professors and Above"
-        )
+        # Define chat events INSIDE the Blocks context
+        msg.submit(chat_query, [msg, chatbot], [msg, chatbot])
+        clear.click(lambda: ([], None), None, [chatbot, msg], queue=False)
 
-        msg.submit(
-            fn=chat_query,  # Use the async function directly
-            inputs=[msg, chatbot, chat_index_choice],
-            outputs=[chatbot, msg],
-            api_name='use_chatbot'
-        )
-        clear.click(lambda: ([], ""), outputs=[chatbot, msg])
-
+# Only after defining everything within the Blocks context, launch the app
 if __name__ == "__main__":
     demo.queue()
     demo.launch(share=True, show_error=True)
