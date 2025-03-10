@@ -9,15 +9,11 @@ from bin.utils_ import find_professor_type, rank_professors
 
 load_dotenv()
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
-MODEL_NAME = "gpt-4o-mini"
-EMBEDDING_MODEL = "text-embedding-ada-002" # best results so far; better than emb_large_003
+MODEL_NAME = "gpt-3.5-turbo-0125"
 PATH_TO_SUMMARY = "./data/mentor_data_with_summaries.csv"
 PATH_TO_MENTOR_DATA = "./data/mentor_data.csv"
 PATH_TO_SUMMARY_DATA = "./data/summary_data.csv"
 PATH_TO_MENTOR_DATA_RANKED = "./data/mentor_data_summaries_ranks.csv"
-
-# define the search kwargs for langchain FAISS retriever
-search_kwargs = {'k': 20, 'fetch_k': 100}  # Increasing the number of documents retrieved; #k is number of docs to return; fetch_k is number to search; default 4 and 20 respectively
 
 def main():
     llm = ChatOpenAI(model=MODEL_NAME)
@@ -26,6 +22,12 @@ def main():
     if os.path.exists(PATH_TO_MENTOR_DATA_RANKED):
         print("Loading existing ranked data...")
         merged_df = pd.read_csv(PATH_TO_MENTOR_DATA_RANKED, sep="\t")
+        # Save the unique Professor Types to a file
+        unique_professor_types = merged_df["Professor_Type"].unique()
+        with open("./data/professor_types.txt", "w") as f:
+            for pt in unique_professor_types:
+                f.write(pt + "\n")
+        print("Saved unique Professor Types to ./data/professor_types.txt")
     else:
         print("Ranked data not found. Creating from existing or new data...")
         # Read the data
@@ -47,12 +49,12 @@ def main():
         merged_df.to_csv(PATH_TO_MENTOR_DATA_RANKED, sep="\t", index=False)
         print(f"Saved ranked mentor data to {PATH_TO_MENTOR_DATA_RANKED}")
 
-    # Save the unique Professor Types to a file - moved outside if-else
-    unique_professor_types = merged_df["Professor_Type"].unique()
-    with open("./data/professor_types.txt", "w") as f:
-        for pt in unique_professor_types:
-            f.write(pt + "\n")
-    print("Saved unique Professor Types to ./data/professor_types.txt")
+        # Save the unique Professor Types to a file
+        unique_professor_types = merged_df["Professor_Type"].unique()
+        with open("./data/professor_types.txt", "w") as f:
+            for pt in unique_professor_types:
+                f.write(pt + "\n")
+        print("Saved unique Professor Types to ./data/professor_types.txt")
 
 
     # Ensure we have only the required columns
