@@ -5,7 +5,7 @@ import os
 import random
 from PyPDF2 import PdfReader
 from dotenv import load_dotenv
-from langchain.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader
 from langchain.chains.question_answering import load_qa_chain
 from langchain_openai import ChatOpenAI
 import asyncio

@@ -1,7 +1,7 @@
 import os
 import re
 import pandas as pd
-from .utils import clean_summary, extract_and_format_name 
+from .utils_ import clean_summary, extract_and_format_name 
 
 # pull the names from the table because it's more reliable to match this way
 def load_mentor_data(csv_file='data/mentor_data.csv'):
