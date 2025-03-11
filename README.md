@@ -19,7 +19,7 @@ tech-mentormatching?
 ```
 
 
-## Notes on some of Brady's files (This can be updated or formatted to your liking or may be unnecessary too)
+## Notes on some files
 
 * `batch_summarize_pdfs.py` - **Preferred method with lots of data** Batch process large volumes of mentor and mentee data using OpenAI's Batch API.
 * `summarize_pdfs.py` - Handle smaller or individual summarizing tasks sequentially.
