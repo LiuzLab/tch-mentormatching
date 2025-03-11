@@ -7,7 +7,18 @@ from .utils_ import clean_summary, extract_and_format_name
 def load_mentor_data(csv_file='data/mentor_data.csv'):
     return pd.read_csv(csv_file)
 
-def extract_mentor_id(mentor_summary):
+# def extract_mentor_id(mentor_summary):
+#     match = re.match(r'^(\d+)\.txt', mentor_summary)
+#     return match.group(1) if match else None
+
+def extract_mentor_id(mentor_summary, metadata=None):
+    # If metadata is provided and has Mentor_Profile, use that
+    if metadata and 'Mentor_Profile' in metadata:
+        # Extract just the number part from something like '1826469.txt'
+        profile_name = metadata['Mentor_Profile']
+        return profile_name.replace('.txt', '')
+    
+    # Fallback to the old method
     match = re.match(r'^(\d+)\.txt', mentor_summary)
     return match.group(1) if match else None
 
@@ -29,8 +40,10 @@ def create_mentor_table_html_and_csv_data(evaluated_matches):
     csv_data = []
 
     for match in evaluated_matches:
+        print("match", match)
         mentor_summary = match["Mentor Summary"]
-        mentor_id = extract_mentor_id(mentor_summary)
+        #mentor_id = extract_mentor_id(mentor_summary)
+        mentor_id = extract_mentor_id(mentor_summary, match.get('metadata', {}))
         
         # Find the matching row in mentor_data_df
         matching_row = mentor_data_df[mentor_data_df['Mentor_Profile'] == f"{mentor_id}.txt"]
