@@ -11,20 +11,25 @@ from langchain_openai import ChatOpenAI
 import asyncio
 from docx import Document
 from langchain.docstore.document import Document as LangchainDocument
-from pydantic import BaseModel, Field #from langchain_core.pydantic_v1 import BaseModel, Field
+#from langchain_core.pydantic_v1 import BaseModel, Field
+from pydantic import BaseModel, Field
 from typing import cast, List, Literal
-
 
 class Mentee(BaseModel):
     thoughts: List[str] = Field(description="Reasoning Steps to Extract the information")
     is_assistant_professor: bool = Field(description="True if the mentee is assistant professor or above.")
     education: Literal["BS and Master and PhD's Degree", "BS and Master's Degree", "Only BS Degree"] = Field()
-
-    # NOTE(JL): the below is poorly extracted.
-    # n_papers: int = Field(description="The number of publications listed in the CV")
-    # n_experiences: int = Field(description="The number of experiences listed in the CV")
-    # n_skills: int = Field(description="The number of skills listed in the CV")
-    # n_volunteering: int = Field(description="The number of volunteering activities listed in the CV")
+    
+#class Mentee(BaseModel):
+#    thoughts: List[str] = Field(description="Reasoning Steps to Extract the information")
+#    is_assistant_professor: bool = Field(description="True if the mentee is assistant professor or above.")
+#    education: Literal["BS and Master and PhD's Degree", "BS and Master's Degree", "Only BS Degree"] = Field()
+#
+#    # NOTE(JL): the below is poorly extracted.
+#    # n_papers: int = Field(description="The number of publications listed in the CV")
+#    # n_experiences: int = Field(description="The number of experiences listed in the CV")
+#    # n_skills: int = Field(description="The number of skills listed in the CV")
+#    # n_volunteering: int = Field(description="The number of volunteering activities listed in the CV")
 
 load_dotenv()
 
@@ -80,7 +85,7 @@ async def generate_mock_cv(file_path):
     else:
         raise ValueError(f"Unsupported file type: {file_extension}. Please use .docx or .pdf")
 
-    structured_llm = client.with_structured_output(Mentee, strict=True)
+    structured_llm = client.with_structured_output(Mentee)
     mentee: Mentee = cast(Mentee, structured_llm.invoke(f"""Extract the mentee's information from the CV. CV: {file_text}"""))
     print(mentee)
     return mentee, file_text
