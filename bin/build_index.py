@@ -26,12 +26,6 @@ def main():
     if os.path.exists(PATH_TO_MENTOR_DATA_RANKED):
         print("Loading existing ranked data...")
         merged_df = pd.read_csv(PATH_TO_MENTOR_DATA_RANKED, sep="\t")
-        # Save the unique Professor Types to a file
-        unique_professor_types = merged_df["Professor_Type"].unique()
-        with open("./data/professor_types.txt", "w") as f:
-            for pt in unique_professor_types:
-                f.write(pt + "\n")
-        print("Saved unique Professor Types to ./data/professor_types.txt")
     else:
         print("Ranked data not found. Creating from existing or new data...")
         # Read the data
@@ -53,12 +47,12 @@ def main():
         merged_df.to_csv(PATH_TO_MENTOR_DATA_RANKED, sep="\t", index=False)
         print(f"Saved ranked mentor data to {PATH_TO_MENTOR_DATA_RANKED}")
 
-        # Save the unique Professor Types to a file
-        unique_professor_types = merged_df["Professor_Type"].unique()
-        with open("./data/professor_types.txt", "w") as f:
-            for pt in unique_professor_types:
-                f.write(pt + "\n")
-        print("Saved unique Professor Types to ./data/professor_types.txt")
+    # Save the unique Professor Types to a file - moved outside if-else
+    unique_professor_types = merged_df["Professor_Type"].unique()
+    with open("./data/professor_types.txt", "w") as f:
+        for pt in unique_professor_types:
+            f.write(pt + "\n")
+    print("Saved unique Professor Types to ./data/professor_types.txt")
 
 
     # Ensure we have only the required columns
