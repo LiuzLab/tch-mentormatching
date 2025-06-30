@@ -6,8 +6,8 @@ import uuid
 import aiofiles
 import pandas as pd
 import tiktoken
-from ..config.client import get_async_openai_client
-from ..config.prompts import mentor_instructions, mentee_instructions
+from src.config.client import get_async_openai_client
+from src.config.prompts import mentor_instructions, mentee_instructions
 
 def truncate_text(text, max_tokens=3000):
     enc = tiktoken.encoding_for_model("gpt-4")

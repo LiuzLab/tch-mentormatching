@@ -3,7 +3,6 @@ db/
 notebooks/
 simulated_data/
 templates/
-src/
 .DS_Store
 .env
 __pycache__/

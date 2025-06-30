@@ -1,13 +1,13 @@
 import os
 import asyncio
 import pandas as pd
-from processing.io_utils import load_documents, convert_txt_dir_to_csv
-from processing.batch import summarize_cvs
-from retrieval.build_index import main as build_index
-from retrieval.search_candidate_mentors import search_candidate_mentors
-from eval.evaluate_matches import evaluate_pair_with_llm, extract_eval_scores_with_llm
-from eval.html_table_generator import create_mentor_table_html_and_csv_data
-from config.paths import (
+from src.processing.io_utils import load_documents, convert_txt_dir_to_csv
+from src.processing.batch import summarize_cvs
+from src.retrieval.build_index import main as build_index
+from src.retrieval.search_candidate_mentors import search_candidate_mentors
+from src.eval.evaluate_matches import evaluate_pair_with_llm, extract_eval_scores_with_llm
+from src.eval.html_table_generator import create_mentor_table_html_and_csv_data
+from src.config.paths import (
     PATH_TO_MENTOR_DATA,
     PATH_TO_SUMMARY,
     INDEX_SUMMARY_WITH_METADATA,

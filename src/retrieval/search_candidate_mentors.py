@@ -1,8 +1,8 @@
 import os
 import asyncio
-from ..config.client import get_async_openai_client
-from ..generate_text import generate_text_async
-from ..config.prompts import mentee_instructions
+from src.config.client import get_async_openai_client
+from src.generate_text import generate_text_async
+from src.config.prompts import mentee_instructions
 
 client = get_async_openai_client()
 

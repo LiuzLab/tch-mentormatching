@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
-from ..utils import find_professor_type, rank_professors
-from ..config.paths import (
+from src.utils import find_professor_type, rank_professors
+from src.config.paths import (
     PATH_TO_MENTOR_DATA_RANKED,
     PATH_TO_SUMMARY,
     PATH_TO_MENTOR_DATA,
@@ -14,7 +14,7 @@ from ..config.paths import (
     INDEX_SUMMARY_ASSISTANT_AND_ABOVE,
     INDEX_SUMMARY_ABOVE_ASSISTANT,
 )
-from ..config.model import LLM_MODEL
+from src.config.model import LLM_MODEL
 
 load_dotenv()
 
