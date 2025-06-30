@@ -1,8 +1,8 @@
-# src/preprocessing/text_utils.py
 import openai
 from tenacity import retry, wait_random_exponential, stop_after_attempt
-from config.prompts import mentor_summary_prompt, mentee_summary_prompt
-from config.models import DEFAULT_CHAT_MODEL
+from ..config.prompts import mentor_instructions, mentee_instructions
+from ..config.model import LLM_MODEL
+import tiktoken
 
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
 def completion_with_backoff(**kwargs):
@@ -11,18 +11,23 @@ def completion_with_backoff(**kwargs):
 
 
 def truncate_text(text: str, max_tokens: int = 3000) -> str:
-    """Simple truncation: approx. 4 chars per token"""
-    return text[: max_tokens * 4]
+    """Truncate text to a maximum number of tokens."""
+    enc = tiktoken.encoding_for_model("gpt-4")
+    tokens = enc.encode(text)
+    if len(tokens) > max_tokens:
+        truncated_tokens = tokens[:max_tokens]
+        return enc.decode(truncated_tokens)
+    return text
 
 
 def summarize_text(text: str, role: str = "mentor") -> str:
     """
     Synchronous summarization of a single text block.
     """
-    prompt = mentor_summary_prompt if role == "mentor" else mentee_summary_prompt
+    instructions = mentor_instructions if role == "mentor" else mentee_instructions
     response = completion_with_backoff(
-        model=DEFAULT_CHAT_MODEL,
-        messages=[{"role": "user", "content": f"{prompt}\n\n{text}"}],
+        model=LLM_MODEL,
+        messages=[{"role": "user", "content": f"{instructions}\n\n{text}"}],
     )
     return response["choices"][0]["message"]["content"]
 
@@ -31,9 +36,9 @@ async def async_summarize(text: str, role: str = "mentor") -> str:
     """
     Asynchronous summarization of a single text block.
     """
-    prompt = mentor_summary_prompt if role == "mentor" else mentee_summary_prompt
+    instructions = mentor_instructions if role == "mentor" else mentee_instructions
     response = await openai.ChatCompletion.acreate(
-        model=DEFAULT_CHAT_MODEL,
-        messages=[{"role": "user", "content": f"{prompt}\n\n{text}"}],
+        model=LLM_MODEL,
+        messages=[{"role": "user", "content": f"{instructions}\n\n{text}"}],
     )
     return response["choices"][0]["message"]["content"]

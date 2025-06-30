@@ -1,10 +1,10 @@
 import os
 import re
 import pandas as pd
-from .utils_ import clean_summary, extract_and_format_name 
+from ..utils import clean_summary, extract_and_format_name 
+from ..config.paths import PATH_TO_MENTOR_DATA
 
-# pull the names from the table because it's more reliable to match this way
-def load_mentor_data(csv_file='data/mentor_data.csv'):
+def load_mentor_data(csv_file=PATH_TO_MENTOR_DATA):
     return pd.read_csv(csv_file)
 
 # def extract_mentor_id(mentor_summary):

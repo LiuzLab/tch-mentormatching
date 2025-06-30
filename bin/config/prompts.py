@@ -1,5 +1,4 @@
-# Default Parameters for summarization-based model
-mentor_summary_prompt = (
+mentor_instructions = (
     "Based on the following text, generate a summary paragraph that includes the following information about the individual: "
     "1. Name "
     "2. Institution "
@@ -10,7 +9,7 @@ mentor_summary_prompt = (
     "You do not need to list entire publication names just key terms and ideas to inform the summary."
 )
 
-mentee_summary_prompt = (
+mentee_instructions = (
     "Based on the following text, generate a summary paragraph that includes the following information about the individual: "
     "1. Name "
     "2. Educational background "

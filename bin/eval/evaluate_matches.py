@@ -1,21 +1,10 @@
 import os
 import pandas as pd
 import re
-from dotenv import load_dotenv
-from openai import OpenAI, AsyncOpenAI
-from .generate_text import generate_text_async
+from ..config.client import get_async_openai_client
+from ..generate_text import generate_text_async
 
-
-# Load environment variables
-load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
-
-# Check if API key is loaded
-if not api_key:
-    raise ValueError("API key not found. Please set it in the .env file.")
-
-# Initialize OpenAI client
-client = AsyncOpenAI(api_key=api_key)
+client = get_async_openai_client()
 
 # Instructions for evaluating the mentor-mentee pair
 instructions = (

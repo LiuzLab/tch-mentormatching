@@ -1,24 +1,10 @@
 import os
 import asyncio
-from dotenv import load_dotenv
-from openai import AsyncOpenAI
-from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
-from .generate_text import generate_text_async
-from .batch_summarize_pdfs import mentee_instructions, initialize_async_openai_client
-from langchain_community.vectorstores import FAISS
+from ..config.client import get_async_openai_client
+from ..generate_text import generate_text_async
+from ..config.prompts import mentee_instructions
 
-
-# Load environment variables
-load_dotenv()
-OPENAI_KEY = os.getenv("OPENAI_API_KEY")
-MODEL_NAME = "gpt-3.5-turbo-0125"
-
-# Initialize AsyncOpenAI client
-#client = initialize_async_openai_client()
-
-from openai import AsyncOpenAI
-client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = get_async_openai_client()
 
 
 async def search_candidate_mentors(k=36, mentee_cv_text="", vector_store=None, metadata_filter=None):

@@ -4,7 +4,7 @@ import csv
 import json
 from PyPDF2 import PdfReader
 from docx import Document
-from preprocessing.text_utils import truncate_text
+from .text_utils import truncate_text
 
 
 def extract_text_from_pdf(pdf_path: str) -> str:

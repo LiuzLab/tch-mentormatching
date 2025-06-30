@@ -3,20 +3,23 @@ import os
 from dotenv import load_dotenv
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
-from langchain_community.document_loaders.csv_loader import CSVLoader
 from langchain_core.documents import Document
-from bin.utils_ import find_professor_type, rank_professors
+from ..utils import find_professor_type, rank_professors
+from ..config.paths import (
+    PATH_TO_MENTOR_DATA_RANKED,
+    PATH_TO_SUMMARY,
+    PATH_TO_MENTOR_DATA,
+    PROFESSOR_TYPES_PATH,
+    INDEX_SUMMARY_WITH_METADATA,
+    INDEX_SUMMARY_ASSISTANT_AND_ABOVE,
+    INDEX_SUMMARY_ABOVE_ASSISTANT,
+)
+from ..config.model import LLM_MODEL
 
 load_dotenv()
-OPENAI_KEY = os.getenv("OPENAI_API_KEY")
-MODEL_NAME = "gpt-3.5-turbo-0125"
-PATH_TO_SUMMARY = "./data/mentor_data_with_summaries.csv"
-PATH_TO_MENTOR_DATA = "./data/mentor_data.csv"
-PATH_TO_SUMMARY_DATA = "./data/summary_data.csv"
-PATH_TO_MENTOR_DATA_RANKED = "./data/mentor_data_summaries_ranks.csv"
 
 def main():
-    llm = ChatOpenAI(model=MODEL_NAME)
+    llm = ChatOpenAI(model=LLM_MODEL)
 
     # Check if ranked data exists
     if os.path.exists(PATH_TO_MENTOR_DATA_RANKED):
@@ -24,10 +27,10 @@ def main():
         merged_df = pd.read_csv(PATH_TO_MENTOR_DATA_RANKED, sep="\t")
         # Save the unique Professor Types to a file
         unique_professor_types = merged_df["Professor_Type"].unique()
-        with open("./data/professor_types.txt", "w") as f:
+        with open(PROFESSOR_TYPES_PATH, "w") as f:
             for pt in unique_professor_types:
                 f.write(pt + "\n")
-        print("Saved unique Professor Types to ./data/professor_types.txt")
+        print(f"Saved unique Professor Types to {PROFESSOR_TYPES_PATH}")
     else:
         print("Ranked data not found. Creating from existing or new data...")
         # Read the data
@@ -51,10 +54,10 @@ def main():
 
         # Save the unique Professor Types to a file
         unique_professor_types = merged_df["Professor_Type"].unique()
-        with open("./data/professor_types.txt", "w") as f:
+        with open(PROFESSOR_TYPES_PATH, "w") as f:
             for pt in unique_professor_types:
                 f.write(pt + "\n")
-        print("Saved unique Professor Types to ./data/professor_types.txt")
+        print(f"Saved unique Professor Types to {PROFESSOR_TYPES_PATH}")
 
 
     # Ensure we have only the required columns
@@ -101,9 +104,9 @@ def main():
     retriever_above_assistant = vector_store_above_assistant.as_retriever()
 
     # Save vector stores
-    vector_store_docs_with_metadata.save_local("db/index_summary_with_metadata")
-    vector_store_assistant_and_above.save_local("db/index_summary_assistant_and_above")
-    vector_store_above_assistant.save_local("db/index_summary_above_assistant")
+    vector_store_docs_with_metadata.save_local(INDEX_SUMMARY_WITH_METADATA)
+    vector_store_assistant_and_above.save_local(INDEX_SUMMARY_ASSISTANT_AND_ABOVE)
+    vector_store_above_assistant.save_local(INDEX_SUMMARY_ABOVE_ASSISTANT)
 
     print("Vector stores created and saved successfully.")
 
