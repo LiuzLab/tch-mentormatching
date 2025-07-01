@@ -10,7 +10,7 @@ from src.config import paths
 def test_root_dir():
     # This test assumes that the ROOT_DIR is correctly set to the project root
     # which is two levels up from the src/config directory.
-    expected_root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..'))
+    expected_root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
     assert paths.ROOT_DIR == expected_root_dir
 
 def test_path_to_summary():

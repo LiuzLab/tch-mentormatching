@@ -80,6 +80,7 @@ def setup_integration_test_environment(tmp_path):
         }
 
 @pytest.mark.asyncio
+@patch('src.retrieval.search_candidate_mentors.get_async_openai_client', new_callable=MagicMock)
 @patch('src.config.client.get_async_openai_client', new_callable=MagicMock)
 @patch('src.retrieval.build_index.load_dotenv')
 @patch('src.retrieval.build_index.ChatOpenAI')
@@ -90,6 +91,7 @@ async def test_full_pipeline_integration(
     mock_read_csv_build_index, mock_summarize_cvs,
     mock_chat_openai, mock_load_dotenv,
     get_async_openai_client,
+    mock_search_get_async_openai_client,
     setup_integration_test_environment,
     faiss_index
 ):
@@ -112,6 +114,7 @@ async def test_full_pipeline_integration(
     mock_openai_instance = MagicMock()
     mock_openai_instance.chat.completions.create = AsyncMock(return_value=MagicMock(choices=[MagicMock(message=MagicMock(content="Mocked Summary"))]))
     get_async_openai_client.return_value = mock_openai_instance
+    mock_search_get_async_openai_client.return_value = mock_openai_instance
 
     # Configure mock_read_csv_build_index for build_index.py's pd.read_csv calls
     mock_read_csv_build_index.return_value = pd.DataFrame({
@@ -123,37 +126,31 @@ async def test_full_pipeline_integration(
     })
 
     # 1. Process Resumes to CSV (main.py -> process_resumes_to_csv)
-    await process_resumes_to_csv(str(env["resumes_dir"]), str(env["mock_summarized_mentor_data_csv"]))
+    await process_resumes_to_csv(str(env["resumes_dir"]), str(env["mock_mentor_data_csv"]))
+
+    assert os.path.exists(str(env["mock_mentor_data_csv"]))
+    
+    # 2. Summarize CSVs
+    await mock_summarize_cvs(str(env["mock_mentor_data_csv"]), str(env["mock_summarized_mentor_data_csv"]))
 
     assert os.path.exists(str(env["mock_summarized_mentor_data_csv"]))
     summarized_df = pd.read_csv(str(env["mock_summarized_mentor_data_csv"]))
     assert not summarized_df.empty
     assert "Mentor_Summary" in summarized_df.columns
 
-    # 2. Build Index (src.retrieval.build_index.main)
-    # Create dummy files that build_index expects
-    pd.DataFrame({
+    # 3. Build Index (src.retrieval.build_index.main)
+    df = pd.DataFrame({
         "Mentor_Data": ["mentor1 data", "mentor2 data"],
         "Mentor_Profile": ["mentor1.txt", "mentor2.txt"],
         "Mentor_Summary": ["Mocked Summary for Mentor 1", "Mocked Summary for Mentor 2"],
-    }).to_csv(env["mock_summarized_mentor_data_csv"], index=False)
-
-    with open(env["mock_professor_types_txt"], "w") as f:
-        f.write("Professor\nAssociate Professor")
-
-    build_index_main()
+        "Professor_Type": ["Professor", "Associate Professor"],
+        "Rank": [3, 2]
+    })
+    build_index_main(df)
     
-    # Create dummy files for the assertions
-    open(env["mock_index_summary_with_metadata"], 'a').close()
-    open(env["mock_index_summary_assistant_and_above"], 'a').close()
-    open(env["mock_index_summary_above_assistant"], 'a').close()
-    open(env["mock_mentor_data_ranked_csv"], 'a').close()
-
-
-    assert os.path.exists(env["mock_index_summary_with_metadata"])
-    assert os.path.exists(env["mock_index_summary_assistant_and_above"])
-    assert os.path.exists(env["mock_index_summary_above_assistant"])
-    assert os.path.exists(env["mock_mentor_data_ranked_csv"])
+    assert os.path.isdir(env["mock_index_summary_with_metadata"])
+    assert os.path.isdir(env["mock_index_summary_assistant_and_above"])
+    assert os.path.isdir(env["mock_index_summary_above_assistant"])
 
     # 3. Search Candidate Mentors (src.retrieval.search_candidate_mentors.search_candidate_mentors)
     

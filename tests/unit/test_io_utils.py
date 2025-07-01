@@ -29,7 +29,8 @@ def test_load_documents(setup_test_data):
 def test_convert_txt_dir_to_csv(setup_test_data):
     output_csv = os.path.join(setup_test_data, "test.csv")
     convert_txt_dir_to_csv(os.path.join(setup_test_data, '*.txt'), output_csv)
-    df = pd.read_csv(output_csv)
+    df = pd.read_csv(output_csv, sep='\t')
     assert len(df) == 1
-    assert df['filename'][0] == 'test.txt'
-    assert df['content'][0] == 'This is a test text file.'
+    assert df['Mentor_Profile'][0] == 'test.txt'
+    assert df['Mentor_Data'][0] == 'This is a test text file.'
+
