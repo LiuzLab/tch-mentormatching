@@ -4,7 +4,7 @@ import pandas as pd
 import pytest
 
 # Add the project root to the Python path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
 from src.processing.io_utils import extract_text_from_txt, load_documents, convert_txt_dir_to_csv
 
@@ -33,4 +33,3 @@ def test_convert_txt_dir_to_csv(setup_test_data):
     assert len(df) == 1
     assert df['filename'][0] == 'test.txt'
     assert df['content'][0] == 'This is a test text file.'
-

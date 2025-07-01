@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 # Add the project root to the Python path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
 from src.utils import extract_and_format_name, clean_summary, find_professor_type, rank_professors
 

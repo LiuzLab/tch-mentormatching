@@ -51,8 +51,8 @@ def convert_txt_dir_to_csv(input_pattern: str, output_csv: str) -> None:
     """
     txt_files = glob.glob(input_pattern)
     with open(output_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(["filename", "content"])
+        writer = csv.writer(f, delimiter='\t')
+        writer.writerow(["Mentor_Profile", "Mentor_Data"])
         for path in txt_files:
             try:
                 content = extract_text_from_txt(path)
