@@ -50,13 +50,11 @@ async def process_single_mentee(mentee_cv_path, vector_store):
         mentee_summary = search_results["mentee_cv_summary"]
         
         evaluation_text = await evaluate_pair_with_llm(
-            client=None,  # Client is initialized within the function
             mentor_summary=mentor_summary,
             mentee_summary=mentee_summary
         )
         
         scores = await extract_eval_scores_with_llm(
-            client=None,  # Client is initialized within the function
             evaluation_text=evaluation_text
         )
         

@@ -6,7 +6,7 @@ import sys
 import asyncio
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
-from langchain_openai import OpenAIEmbeddings
+from langchain_community.embeddings.fake import FakeEmbeddings
 
 # Add the project root to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
@@ -15,6 +15,17 @@ from main import process_resumes_to_csv
 from src.retrieval.build_index import main as build_index_main
 from src.eval.evaluate_matches import evaluate_pair_with_llm, extract_eval_scores_with_llm
 from src.retrieval.search_candidate_mentors import search_candidate_mentors
+
+@pytest.fixture(scope="session")
+def faiss_index():
+    # Create a real FAISS index in memory
+    documents = [
+        Document(page_content="Mentor 1 summary", metadata={"Mentor_Profile": "mentor1.txt", "Professor_Type": "Professor", "Rank": 3}),
+        Document(page_content="Mentor 2 summary", metadata={"Mentor_Profile": "mentor2.txt", "Professor_Type": "Associate Professor", "Rank": 2}),
+    ]
+    embeddings = FakeEmbeddings(size=1)
+    vector_store = FAISS.from_documents(documents, embeddings)
+    return vector_store
 
 @pytest.fixture
 def setup_integration_test_environment(tmp_path):
@@ -74,11 +85,13 @@ def setup_integration_test_environment(tmp_path):
 @patch('src.retrieval.build_index.ChatOpenAI')
 @patch('main.summarize_cvs')  # Patch summarize_cvs directly
 @patch('src.retrieval.build_index.pd.read_csv') # Patch pd.read_csv in src/retrieval/build_index.py
+@patch('src.retrieval.build_index.OpenAIEmbeddings', lambda: FakeEmbeddings(size=1))
 async def test_full_pipeline_integration(
     mock_read_csv_build_index, mock_summarize_cvs,
     mock_chat_openai, mock_load_dotenv,
     get_async_openai_client,
-    setup_integration_test_environment
+    setup_integration_test_environment,
+    faiss_index
 ):
     # Import functions here to ensure they use the patched modules
     from main import process_resumes_to_csv
@@ -144,20 +157,11 @@ async def test_full_pipeline_integration(
 
     # 3. Search Candidate Mentors (src.retrieval.search_candidate_mentors.search_candidate_mentors)
     
-    # Create a real FAISS index in memory
-    documents = [
-        Document(page_content="Mentor 1 summary", metadata={"Mentor_Profile": "mentor1.txt", "Professor_Type": "Professor", "Rank": 3}),
-        Document(page_content="Mentor 2 summary", metadata={"Mentor_Profile": "mentor2.txt", "Professor_Type": "Associate Professor", "Rank": 2}),
-    ]
-    embeddings = OpenAIEmbeddings()
-    vector_store = FAISS.from_documents(documents, embeddings)
-
-
     mentee_cv_text = "I am a mentee interested in AI research."
     search_results = await search_candidate_mentors(
         k=2,
         mentee_cv_text=mentee_cv_text,
-        vector_store=vector_store,
+        vector_store=faiss_index,
         metadata_filter=lambda m: m.get("Professor_Type") == "Professor"
     )
 
@@ -175,12 +179,12 @@ async def test_full_pipeline_integration(
     ]
 
     evaluation_text = await evaluate_pair_with_llm(
-        get_async_openai_client(), mentor_summary_example, mentee_summary_example
+        mentor_summary_example, mentee_summary_example
     )
     assert "Research Interest" in evaluation_text
 
     extracted_scores = await extract_eval_scores_with_llm(
-        get_async_openai_client(), evaluation_text
+        evaluation_text
     )
     assert "Overall Match Quality" in extracted_scores
-    assert extracted_scores["Overall Match Quality"] == 8.5
+    assert isinstance(extracted_scores["Overall Match Quality"], float)

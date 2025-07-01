@@ -4,10 +4,13 @@ from src.config.client import get_async_openai_client
 from src.generate_text import generate_text_async
 from src.config.prompts import mentee_instructions
 
-client = get_async_openai_client()
+client = None
 
 
 async def search_candidate_mentors(k=36, mentee_cv_text="", vector_store=None, metadata_filter=None):
+    global client
+    if client is None:
+        client = get_async_openai_client()
     from langchain_community.vectorstores import FAISS
     
     if vector_store is None:
