@@ -1,5 +1,12 @@
-from bin.utils import extract_and_format_name, clean_summary, find_professor_type, rank_professors
+import sys
+import os
 import pandas as pd
+
+# Add the project root to the Python path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from src.utils import extract_and_format_name, clean_summary, find_professor_type, rank_professors
+
 
 def test_extract_and_format_name():
     mentor_data = "## john doe\n\nTitle|Professor"

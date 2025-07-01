@@ -1,7 +1,7 @@
 import os
 import asyncio
 import pandas as pd
-from src.processing.io_utils import load_documents, convert_txt_dir_to_csv
+from src.processing.io_utils import load_documents
 from src.processing.batch import summarize_cvs
 from src.retrieval.build_index import main as build_index
 from src.retrieval.search_candidate_mentors import search_candidate_mentors
@@ -11,6 +11,7 @@ from src.config.paths import (
     PATH_TO_MENTOR_DATA,
     PATH_TO_SUMMARY,
     INDEX_SUMMARY_WITH_METADATA,
+    ROOT_DIR,
 )
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
@@ -30,20 +31,7 @@ async def process_resumes_to_csv(input_dir, output_csv):
     print(f"Successfully created CSV file at: {output_csv}")
 
 
-async def main(mentee_cv_path, mentor_resume_dir):
-    # Step 1: Process mentor resumes into a CSV file
-    await process_resumes_to_csv(mentor_resume_dir, PATH_TO_MENTOR_DATA)
-
-    # Step 2: Summarize the mentor data
-    await summarize_cvs(PATH_TO_MENTOR_DATA, PATH_TO_SUMMARY)
-
-    # Step 3: Build the FAISS index
-    build_index()
-
-    # Step 4: Load the FAISS index
-    embeddings = OpenAIEmbeddings()
-    vector_store = FAISS.load_local(INDEX_SUMMARY_WITH_METADATA, embeddings, allow_dangerous_deserialization=True)
-
+async def process_single_mentee(mentee_cv_path, vector_store):
     # Step 5: Read the mentee CV
     with open(mentee_cv_path, 'r') as f:
         mentee_cv_text = f.read()
@@ -83,18 +71,45 @@ async def main(mentee_cv_path, mentor_resume_dir):
     html_table, csv_data = create_mentor_table_html_and_csv_data(evaluated_matches)
 
     # Step 9: Save the HTML table and CSV data
-    with open("mentor_matches.html", "w") as f:
+    mentee_name = os.path.splitext(os.path.basename(mentee_cv_path))[0]
+    output_dir = os.path.join(ROOT_DIR, "output")
+    os.makedirs(output_dir, exist_ok=True)
+    
+    html_output_path = os.path.join(output_dir, f"{mentee_name}_matches.html")
+    csv_output_path = os.path.join(output_dir, f"{mentee_name}_matches.csv")
+
+    with open(html_output_path, "w") as f:
         f.write(html_table)
     
-    pd.DataFrame(csv_data).to_csv("mentor_matches.csv", index=False)
+    pd.DataFrame(csv_data).to_csv(csv_output_path, index=False)
 
-    print("Pipeline complete. Results saved to mentor_matches.html and mentor_matches.csv")
+    print(f"Results for {mentee_name} saved to {html_output_path} and {csv_output_path}")
+
+
+async def main(mentee_dir, mentor_resume_dir):
+    # Step 1: Process mentor resumes into a CSV file
+    await process_resumes_to_csv(mentor_resume_dir, PATH_TO_MENTOR_DATA)
+
+    # Step 2: Summarize the mentor data
+    await summarize_cvs(PATH_TO_MENTOR_DATA, PATH_TO_SUMMARY)
+
+    # Step 3: Build the FAISS index
+    build_index()
+
+    # Step 4: Load the FAISS index
+    embeddings = OpenAIEmbeddings()
+    vector_store = FAISS.load_local(INDEX_SUMMARY_WITH_METADATA, embeddings, allow_dangerous_deserialization=True)
+
+    for mentee_filename in os.listdir(mentee_dir):
+        if mentee_filename.endswith((".pdf", ".docx", ".txt")):
+            mentee_cv_path = os.path.join(mentee_dir, mentee_filename)
+            await process_single_mentee(mentee_cv_path, vector_store)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Mentor Matching Pipeline")
-    parser.add_argument("--mentee", required=True, help="Path to the mentee's CV file.")
+    parser.add_argument("--mentees", required=True, help="Path to the directory containing mentee CVs.")
     parser.add_argument("--mentors", required=True, help="Path to the directory containing mentor resumes.")
     args = parser.parse_args()
 
-    asyncio.run(main(args.mentee, args.mentors))
+    asyncio.run(main(args.mentees, args.mentors))
