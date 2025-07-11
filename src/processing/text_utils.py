@@ -12,7 +12,7 @@ def completion_with_backoff(**kwargs):
 
 def truncate_text(text: str, max_tokens: int = 3000) -> str:
     """Truncate text to a maximum number of tokens."""
-    enc = tiktoken.encoding_for_model("gpt-4")
+    enc = tiktoken.encoding_for_model(LLM_MODEL)
     tokens = enc.encode(text)
     if len(tokens) > max_tokens:
         truncated_tokens = tokens[:max_tokens]

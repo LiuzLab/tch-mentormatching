@@ -8,9 +8,10 @@ import pandas as pd
 import tiktoken
 from src.config.client import get_async_openai_client
 from src.config.prompts import mentor_instructions, mentee_instructions
-
+from src.config.model import LLM_MODEL
+ 
 def truncate_text(text, max_tokens=3000):
-    enc = tiktoken.encoding_for_model("gpt-4")
+    enc = tiktoken.encoding_for_model(LLM_MODEL)
     tokens = enc.encode(text)
     if len(tokens) > max_tokens:
         truncated_tokens = tokens[:max_tokens]
@@ -27,7 +28,7 @@ def prepare_batch_input(data, instructions, column_name):
         custom_id = f"request-{uuid.uuid4()}"
         message = truncate_text(row[column_name])
         body = {
-            "model": "gpt-4",
+            "model": LLM_MODEL,
             "messages": [
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": f"{instructions}\n{message}"}

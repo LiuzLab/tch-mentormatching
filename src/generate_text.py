@@ -5,6 +5,8 @@ import functools
 
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
+from src.config.model import LLM_MODEL
+
 def async_retry(*tenacity_args, **tenacity_kwargs):
     def wrapper(func):
         @functools.wraps(func)
@@ -27,6 +29,6 @@ async def generate_text_async(client, text, instructions):
     messages = [system_prompt, user_message]
     
     response = await completion_with_backoff_async(
-        client, model="gpt-4", messages=messages, temperature=1.0
+        client, model=LLM_MODEL, messages=messages, temperature=1.0
     )
     return response.choices[0].message.content

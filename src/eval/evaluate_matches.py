@@ -123,6 +123,6 @@ if __name__ == "__main__":
     overall_score, research_score, availability_score, skillset_score, evaluation_summary = extract_eval_scores_with_llm(
         evaluation
     )
-    scores = extract_eval_scores_with_llm(client, evaluation)
+    scores = extract_eval_scores_with_llm(evaluation)
     scores_df = pd.DataFrame([scores])
     print(scores_df.head())
