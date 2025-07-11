@@ -1,8 +1,12 @@
 import os
 import re
 import pandas as pd
+<<<<<<< HEAD:src/eval/html_table_generator.py
 from ..utils import clean_summary, extract_and_format_name 
 from ..config.paths import PATH_TO_MENTOR_DATA
+=======
+from .utils_ import clean_summary, extract_and_format_name 
+>>>>>>> 8d7a5f21dc55325a9d04fb1d9adc09365de55c7e:bin/html_table_generator.py
 
 def load_mentor_data(csv_file=PATH_TO_MENTOR_DATA):
     return pd.read_csv(csv_file)
