@@ -22,7 +22,9 @@ def extract_text_from_txt(txt_path: str) -> str:
         return f.read().strip()
 
 
-def load_documents(directory: str, extensions: list[str] = None) -> list[tuple[str, str]]:
+def load_documents(
+    directory: str, extensions: list[str] = None
+) -> list[tuple[str, str]]:
     """
     Load all documents in the directory matching given extensions.
     Returns list of (filename, text).
@@ -51,7 +53,7 @@ def convert_txt_dir_to_csv(input_pattern: str, output_csv: str) -> None:
     """
     txt_files = glob.glob(input_pattern)
     with open(output_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f, delimiter='\t')
+        writer = csv.writer(f, delimiter="\t")
         writer.writerow(["Mentor_Profile", "Mentor_Data"])
         for path in txt_files:
             try:
@@ -61,7 +63,9 @@ def convert_txt_dir_to_csv(input_pattern: str, output_csv: str) -> None:
                 print(f"Error processing {path}: {e}")
 
 
-def prepare_batches(texts: list[str], batch_size: int = 5, max_tokens: int = 3000) -> list[list[str]]:
+def prepare_batches(
+    texts: list[str], batch_size: int = 5, max_tokens: int = 3000
+) -> list[list[str]]:
     """
     Chunk and truncate texts into batches for API calls.
     Returns list of text batches.
@@ -79,4 +83,3 @@ def save_json(data, output_path: str) -> None:
     """
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-

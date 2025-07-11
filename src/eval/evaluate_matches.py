@@ -55,6 +55,7 @@ async def evaluate_pair_with_llm(
 
     return evaluation_text
 
+
 async def extract_eval_scores_with_llm(evaluation_text):
     """
     Extract evaluation scores and summary from the evaluation text using GPT-4.
@@ -78,9 +79,8 @@ async def extract_eval_scores_with_llm(evaluation_text):
         "Availability: <score>\n"
         "Skillset: <score>\n"
         "Overall Match: <score>\n\n"
-        "Evaluation Summary:\n" 
-        "## Text:\n"
-        + evaluation_text
+        "Evaluation Summary:\n"
+        "## Text:\n" + evaluation_text
     )
 
     # Generate the scores and summary text using the LLM
@@ -94,21 +94,28 @@ async def extract_eval_scores_with_llm(evaluation_text):
 
     # Convert to integers or floats, or None if not found
     research_score = int(research_score.group(1)) if research_score else None
-    availability_score = int(availability_score.group(1)) if availability_score else None
+    availability_score = (
+        int(availability_score.group(1)) if availability_score else None
+    )
     skillset_score = int(skillset_score.group(1)) if skillset_score else None
     overall_score = float(overall_score.group(1)) if overall_score else None
 
     # Extract evaluation summary
-    summary_match = re.search(r"Evaluation Summary:(.*?)$", structured_evaluation, re.DOTALL)
-    evaluation_summary = summary_match.group(1).strip() if summary_match else "No summary available"
+    summary_match = re.search(
+        r"Evaluation Summary:(.*?)$", structured_evaluation, re.DOTALL
+    )
+    evaluation_summary = (
+        summary_match.group(1).strip() if summary_match else "No summary available"
+    )
 
     return {
         "Overall Match Quality": overall_score,
         "Research Interest": research_score,
         "Availability": availability_score,
         "Skillset": skillset_score,
-        "Evaluation Summary": evaluation_summary
+        "Evaluation Summary": evaluation_summary,
     }
+
 
 if __name__ == "__main__":
     # Test usage
@@ -120,9 +127,13 @@ if __name__ == "__main__":
     )
     print(evaluation)
 
-    overall_score, research_score, availability_score, skillset_score, evaluation_summary = extract_eval_scores_with_llm(
-        evaluation
-    )
+    (
+        overall_score,
+        research_score,
+        availability_score,
+        skillset_score,
+        evaluation_summary,
+    ) = extract_eval_scores_with_llm(evaluation)
     scores = extract_eval_scores_with_llm(evaluation)
     scores_df = pd.DataFrame([scores])
     print(scores_df.head())

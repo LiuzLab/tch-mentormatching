@@ -8,6 +8,7 @@ from src.utils import find_professor_type, rank_professors
 from src.config import paths
 from src.config.model import LLM_MODEL
 
+
 def main(df=None):
     load_dotenv()
     llm = ChatOpenAI(model=LLM_MODEL)
@@ -22,18 +23,20 @@ def main(df=None):
             # Read the data
             summary_df = pd.read_csv(paths.PATH_TO_SUMMARY, sep="\t")
             mentor_data_df = pd.read_csv(paths.PATH_TO_MENTOR_DATA)
-            
+
             # Merge dataframes on Mentor_Data column
             merged_df = summary_df.merge(mentor_data_df, on="Mentor_Data", how="left")
-            
+
             # Add Professor_Type
-            merged_df['Professor_Type'] = merged_df['Mentor_Data'].apply(find_professor_type)
-            
+            merged_df["Professor_Type"] = merged_df["Mentor_Data"].apply(
+                find_professor_type
+            )
+
             # Add Rank
             merged_df = rank_professors(merged_df)
-            
+
             print(merged_df.head())
-            
+
             # Save the ranked data
             merged_df.to_csv(paths.PATH_TO_MENTOR_DATA_RANKED, sep="\t", index=False)
             print(f"Saved ranked mentor data to {paths.PATH_TO_MENTOR_DATA_RANKED}")
@@ -47,21 +50,30 @@ def main(df=None):
             f.write(pt + "\n")
     print(f"Saved unique Professor Types to {paths.PROFESSOR_TYPES_PATH}")
 
-
     # Ensure we have only the required columns
-    merged_df = merged_df[["Mentor_Data", "Mentor_Profile", "Mentor_Summary", "Professor_Type", "Rank"]]
+    merged_df = merged_df[
+        ["Mentor_Data", "Mentor_Profile", "Mentor_Summary", "Professor_Type", "Rank"]
+    ]
 
     # Create documents for assistant professors and above (Rank >= 1)
     docs_assistant_and_above = [
         p + "\n=====\n" + s
-        for p, s, r in zip(merged_df["Mentor_Profile"].values, merged_df["Mentor_Summary"].values, merged_df["Rank"].values)
+        for p, s, r in zip(
+            merged_df["Mentor_Profile"].values,
+            merged_df["Mentor_Summary"].values,
+            merged_df["Rank"].values,
+        )
         if r >= 1
     ]
 
     # Create documents for ranks higher than assistant professor (Rank > 1)
     docs_above_assistant = [
         p + "\n=====\n" + s
-        for p, s, r in zip(merged_df["Mentor_Profile"].values, merged_df["Mentor_Summary"].values, merged_df["Rank"].values)
+        for p, s, r in zip(
+            merged_df["Mentor_Profile"].values,
+            merged_df["Mentor_Summary"].values,
+            merged_df["Rank"].values,
+        )
         if r > 1
     ]
 
@@ -72,9 +84,9 @@ def main(df=None):
         doc_metadata = {
             "Mentor_Profile": row["Mentor_Profile"],
             "Professor_Type": row["Professor_Type"],
-            "Rank": row["Rank"]
+            "Rank": row["Rank"],
         }
-        
+
         # Create document with page_content as Mentor_Summary and the metadata
         doc = Document(page_content=row["Mentor_Summary"], metadata=doc_metadata)
         # Append to the list
@@ -82,9 +94,15 @@ def main(df=None):
 
     # Create vector stores
     embeddings = OpenAIEmbeddings()
-    vector_store_docs_with_metadata = FAISS.from_documents(documents=docs_with_metadata, embedding=embeddings)
-    vector_store_assistant_and_above = FAISS.from_texts(texts=docs_assistant_and_above, embedding=embeddings)
-    vector_store_above_assistant = FAISS.from_texts(texts=docs_above_assistant, embedding=embeddings)
+    vector_store_docs_with_metadata = FAISS.from_documents(
+        documents=docs_with_metadata, embedding=embeddings
+    )
+    vector_store_assistant_and_above = FAISS.from_texts(
+        texts=docs_assistant_and_above, embedding=embeddings
+    )
+    vector_store_above_assistant = FAISS.from_texts(
+        texts=docs_above_assistant, embedding=embeddings
+    )
 
     # Create retrievers
     retriever_docs_with_metadata = vector_store_docs_with_metadata.as_retriever()
@@ -98,9 +116,15 @@ def main(df=None):
 
     print("Vector stores created and saved successfully.")
 
-    return (vector_store_assistant_and_above, retriever_assistant_and_above, 
-            vector_store_above_assistant, retriever_above_assistant,
-            vector_store_docs_with_metadata, retriever_docs_with_metadata)
+    return (
+        vector_store_assistant_and_above,
+        retriever_assistant_and_above,
+        vector_store_above_assistant,
+        retriever_above_assistant,
+        vector_store_docs_with_metadata,
+        retriever_docs_with_metadata,
+    )
+
 
 if __name__ == "__main__":
     main()

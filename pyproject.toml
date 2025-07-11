@@ -18,6 +18,7 @@ dependencies = [
     "langchain-openai>=0.1.21",
     "openai>=1.86.0",
     "pandas==2.2.2",
+    pre-commit = ">=3.7.0"
     "pypdf==4.2.0",
     "pypdf2==3.0.1",
     "pytest>=8.4.1",

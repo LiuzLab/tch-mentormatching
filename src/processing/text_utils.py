@@ -4,6 +4,7 @@ from ..config.prompts import mentor_instructions, mentee_instructions
 from ..config.model import LLM_MODEL
 import tiktoken
 
+
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
 def completion_with_backoff(**kwargs):
     """Retry-wrapped call to OpenAI ChatCompletion.create"""
