@@ -8,7 +8,7 @@ import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 from src.generate_text import generate_text_async, completion_with_backoff_async
-from src.config.model import LLM_MODEL, EVAL_MODEL
+from src.config.model import LLM_MODEL
 
 
 # Mock the tenacity decorators
