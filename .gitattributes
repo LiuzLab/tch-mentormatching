@@ -1,3 +1,7 @@
 data/mentor_data_with_summaries.csv filter=lfs diff=lfs merge=lfs -text
 data/mentor_data.csv filter=lfs diff=lfs merge=lfs -text
 data/mentor_data_summaries_ranks.csv filter=lfs diff=lfs merge=lfs -text
+db/index_summary_above_assistant filter=lfs diff=lfs merge=lfs -text
+db/index_summary_assistant_and_above filter=lfs diff=lfs merge=lfs -text
+db/emb_large003 filter=lfs diff=lfs merge=lfs -text
+db/ filter=lfs diff=lfs merge=lfs -text

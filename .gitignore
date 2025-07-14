@@ -1,5 +1,14 @@
+data/
+db/
+notebooks/
+simulated_data/
+templates/
+.DS_Store
 .env
-db/*
 __pycache__/
 *.pyc
 flagged/
+*.log
+todo*
+src/deprecated/
+requirements.txt
