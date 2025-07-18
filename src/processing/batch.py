@@ -55,10 +55,9 @@ async def submit_and_wait_for_batch(client, batch_input):
         for item in batch_input:
             f.write(json.dumps(item) + "\n")
 
-    # Upload the file
-    batch_input_file = await client.files.create(
-        file=aiofiles.open(input_file_path, "rb"), purpose="batch"
-    )
+    # Upload the file by passing the path directly to the client
+    with open(input_file_path, "rb") as f:
+        batch_input_file = await client.files.create(file=f, purpose="batch")
 
     # Create the batch job
     batch = await client.batches.create(
@@ -78,6 +77,8 @@ async def submit_and_wait_for_batch(client, batch_input):
 
     os.remove(input_file_path)  # Clean up temp input file
     return status
+
+
 
 
 async def get_batch_results(client, status):
