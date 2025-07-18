@@ -26,7 +26,9 @@ from src.retrieval.build_index import build_index
 from src.retrieval.search_candidate_mentors import search_candidate_mentors
 
 
-async def process_single_mentee(mentee_cv_path, vector_store, k=10):
+async def process_single_mentee(
+    mentee_cv_path, vector_store, mentee_preferences, mentee_data, k=10
+):
     """Processes a single mentee CV, finds matches, and returns the results."""
     mentee_cv_text = load_document(mentee_cv_path)
     if not mentee_cv_text:
@@ -45,7 +47,9 @@ async def process_single_mentee(mentee_cv_path, vector_store, k=10):
         mentee_summary = search_results["mentee_cv_summary"]
 
         evaluation_text = await evaluate_pair_with_llm(
-            mentor_summary=mentor_summary, mentee_summary=mentee_summary
+            mentor_summary=mentor_summary,
+            mentee_summary=mentee_summary,
+            mentee_preferences=mentee_preferences,
         )
 
         scores = await extract_eval_scores_with_llm(evaluation_text=evaluation_text)
@@ -65,8 +69,16 @@ async def process_single_mentee(mentee_cv_path, vector_store, k=10):
         reverse=True,
     )
 
-    mentee_name = os.path.splitext(os.path.basename(mentee_cv_path))[0]
-    return {"mentee_name": mentee_name, "matches": evaluated_matches}
+    # Construct the full mentee result object
+    mentee_name = f"{mentee_data.get('first_name')} {mentee_data.get('last_name')}"
+    mentee_email = os.path.basename(os.path.dirname(mentee_cv_path))
+
+    return {
+        "mentee_name": mentee_name,
+        "mentee_email": mentee_email,
+        "mentee_preferences": mentee_preferences,
+        "matches": evaluated_matches,
+    }
 
 
 async def main(mentee_dir, mentor_resume_dir, num_mentors, overwrite=False):
@@ -127,12 +139,53 @@ async def main(mentee_dir, mentor_resume_dir, num_mentors, overwrite=False):
     # --- Step 5: Process each mentee ---
     print("\nProcessing mentees...")
     all_matches = []
-    for mentee_filename in os.listdir(mentee_dir):
-        if mentee_filename.lower().endswith((".pdf", ".docx", ".txt")):
-            mentee_cv_path = os.path.join(mentee_dir, mentee_filename)
-            print(f"Processing {mentee_filename}...")
+    for mentee_subdir in os.listdir(mentee_dir):
+        mentee_subdir_path = os.path.join(mentee_dir, mentee_subdir)
+        if os.path.isdir(mentee_subdir_path):
+            json_files = [
+                f for f in os.listdir(mentee_subdir_path) if f.lower().endswith(".json")
+            ]
+            if not json_files:
+                print(
+                    f"No JSON file found for mentee in {mentee_subdir_path}. Skipping."
+                )
+                continue
+
+            # Use the first JSON file found
+            mentee_json_path = os.path.join(mentee_subdir_path, json_files[0])
+
+            with open(mentee_json_path, "r") as f:
+                mentee_data = json.load(f)
+
+            mentee_preferences = mentee_data.get("research_Interest", [])
+            cv_filename_base = mentee_data.get("submissions_files", [None])[0]
+
+            if not cv_filename_base:
+                print(f"No CV filename found in {mentee_json_path}. Skipping.")
+                continue
+
+            # Find the actual CV file in the directory, ignoring the timestamp prefix
+            mentee_cv_path = None
+            for f in os.listdir(mentee_subdir_path):
+                if f.endswith(cv_filename_base):
+                    mentee_cv_path = os.path.join(mentee_subdir_path, f)
+                    break  # Use the first match
+
+            if not mentee_cv_path:
+                print(
+                    f"CV file '{cv_filename_base}' not found in {mentee_subdir_path}. Skipping."
+                )
+                continue
+
+            print(
+                f"Processing {mentee_data.get('first_name')} {mentee_data.get('last_name')}..."
+            )
             mentee_results = await process_single_mentee(
-                mentee_cv_path, vector_store, num_mentors
+                mentee_cv_path=mentee_cv_path,
+                vector_store=vector_store,
+                mentee_preferences=mentee_preferences,
+                mentee_data=mentee_data,
+                k=num_mentors,
             )
             if mentee_results:
                 all_matches.append(mentee_results)

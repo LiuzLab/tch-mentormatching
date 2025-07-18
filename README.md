@@ -4,9 +4,9 @@ This project is a comprehensive pipeline designed to match mentees with suitable
 
 ## Dataflow Diagrams
 
-### 1. Data Processing and Indexing
+### 1. Data Processing and Indexing (One-Time Setup)
 
-This initial, one-time pipeline processes the raw mentor CVs and builds a searchable vector index.
+This initial pipeline processes raw mentor CVs, summarizes them, and builds a searchable FAISS vector index. This only needs to be run once or when the mentor pool changes.
 
 ```mermaid
 flowchart LR
@@ -22,77 +22,113 @@ flowchart LR
     J --> K[("db/embedding-model-name/index.faiss")];
 ```
 
-### 2. Mentee Matching
+### 2. Mentee Matching (Per-Mentee Execution)
 
 This pipeline runs for each new mentee to find the best matches from the pre-built index.
 
 ```mermaid
 flowchart LR
-    subgraph "Mentee Processing"
-        L["Mentee CV (PDF/DOCX)"] --> M["io_utils: load_document()"];
+    subgraph "Mentee Input"
+        L["Mentee Info (JSON)"] --> M["main.py: Parses JSON"];
+        M --> N["Mentee CV Path & Preferences"];
     end
 
     subgraph "Candidate Retrieval & Evaluation"
-        N[("FAISS Index")] --> O["search_candidate_mentors.py"];
-        M --> O;
-        O --> P["Top-K Similarity Search"];
+        O[("FAISS Index")] --> P["search_candidate_mentors.py"];
+        N --> P;
+        P --> Q["Top-K Similarity Search"];
     end
 
     subgraph "LLM-based Re-ranking"
-        P --> Q["evaluate_matches.py: evaluate_pair_with_llm()"];
-        Q --> R["evaluate_matches.py: extract_eval_scores_with_llm()"];
-        R --> S["main.py: Sorts by 'Overall Match Quality'"];
+        Q --> R["evaluate_matches.py: evaluate_pair_with_llm()"];
+        R --> S["evaluate_matches.py: extract_eval_scores_with_llm()"];
+        S --> T["main.py: Sorts by 'Overall Match Quality'"];
     end
 
-    S --> T[/"output/best_matches.json"/];
+    T --> U[/"output/best_matches.json"/];
 ```
-
-## Modules Overview
-
-The project is organized into several modules within the `src/` directory, each with a specific responsibility.
-
-### `src/processing`
-Handles the initial ingestion and cleaning of data.
--   **`io_utils.py`**: Contains functions to extract raw text from various file formats (`.pdf`, `.docx`, `.txt`). It recursively searches directories to find all mentor profiles.
--   **`text_utils.py`**: Provides utilities to clean and validate the extracted text. It removes boilerplate, normalizes whitespace, and ensures the text is substantial enough for summarization.
--   **`batch.py`**: Manages the expensive summarization step by preparing and sending data to the OpenAI Batch API.
-
-### `src/retrieval`
-Manages the creation and use of the vector database.
--   **`build_index.py`**: The core of the data processing pipeline. It reads the summarized mentor data, enriches it with professor type and rank, and then uses the embeddings to build and save the FAISS vector index.
--   **`search_candidate_mentors.py`**: Takes a mentee's profile, generates an embedding, and performs a similarity search against the FAISS index to retrieve the most relevant mentor candidates.
-
-### `src/eval`
-Performs the final, detailed evaluation of potential matches.
--   **`evaluate_matches.py`**: Uses a powerful LLM (e.g., GPT-4o) to perform a nuanced evaluation of a mentor-mentee pair. It scores the match based on multiple criteria (research interest, skills, availability) and generates a final **"Overall Match Quality"** score, which is used for the final ranking.
-
-### `src/config`
-Centralizes all project configurations.
--   **`paths.py`**: Defines all important file and directory paths, dynamically creating the index path based on the embedding model being used.
--   **`model.py`**: Specifies the LLM and embedding models used throughout the pipeline.
--   **`prompts.py`**: Stores the system prompts that guide the LLMs during summarization and evaluation tasks.
 
 ## How to Use the Pipeline
 
+### Mentee Input Data Structure
+
+Before running the matching process, you must structure the mentee input data correctly inside the `input/` directory.
+
+1.  **Create a subdirectory for each mentee.** The name of the subdirectory should be the mentee's email address (e.g., `input/john.doe@email.com/`).
+
+2.  **Inside each mentee's subdirectory, add their CV file(s)** (e.g., `.pdf`, `.docx`).
+
+3.  **Add a JSON file containing the mentee's information.** The script will automatically detect and use the first JSON file it finds in the directory. The filename can be anything, but the content must follow this structure:
+
+    ```json
+    {
+      "first_name": "Katelyn",
+      "last_name": "Senkus",
+      "role": "Mentee",
+      "research_Interest": [
+        "Team Science (laboratory and clinical collaborations)",
+        "Translational Research (bench-to-bedside)",
+        "Lab-based/Bench Research"
+      ],
+      "submissions_files": [
+        "Senkus_CV_3-26-25.docx"
+      ]
+    }
+    ```
+    -   `first_name`: The mentee's first name.
+    -   `last_name`: The mentee's last name.
+    -   `research_Interest`: A list of strings representing the mentee's research interests, ranked in order of preference.
+    -   `submissions_files`: A list containing the filename of the CV to be used for matching. The script will find this file within the same directory, even if it has a timestamp prefix (e.g., `1743173574187_Senkus_CV_3-26-25.docx`).
+
+### Running the Pipeline
+
 The entire pipeline is executed from the root directory via the `main.py` script.
 
-### Entry Point: `main.py`
-This script is the orchestrator. It contains intelligent caching logic, checking for the existence of output files at each major step (`mentor_data.csv`, `mentor_data_with_summaries.csv`, etc.). It will only run the necessary processing steps, saving time and cost on subsequent runs.
-
-### Command-Line Arguments
--   `--mentees`: **(Required)** Path to the directory containing mentee CVs.
+#### Command-Line Arguments
+-   `--mentees`: **(Required)** Path to the root directory containing mentee subdirectories (e.g., `input/`).
 -   `--mentors`: **(Required)** Path to the root directory containing mentor CVs. The script will search this directory and all its subdirectories.
 -   `--num_mentors`: **(Required)** The number of initial candidates to retrieve from the similarity search for each mentee.
 -   `--overwrite`: **(Optional)** A flag to force the script to ignore all cached files and re-run the entire data processing pipeline from scratch.
 
-### Example
-
+#### Example
 To run the matching process for all mentees in the `input/` directory:
 ```bash
 uv run main.py --mentees input/ --mentors data/pdfs/ --num_mentors 10
 ```
 
-If you need to force a complete reprocessing of all mentor data, use the `--overwrite` flag:
-```bash
-uv run main.py --mentees input/ --mentors data/pdfs/ --num_mentors 10 --overwrite
+### Output Format
+
+The results are saved in `output/best_matches.json`. The output is a list, where each item represents a mentee and their ranked list of mentor matches.
+
+```json
+[
+  {
+    "mentee_name": "Mentee",
+    "mentee_email": "Mentee Email",
+    "mentee_preferences": [
+      "Team Science (laboratory and clinical collaborations)",
+      "Translational Research (bench-to-bedside)",
+      "Lab-based/Bench Research"
+    ],
+    "matches": [
+      {
+        "Mentor Summary": "...",
+        "Similarity Score": 0.85,
+        "Criterion Scores": {
+          "Overall Match Quality": 9.0,
+          "Research Interest": 8,
+          "Availability": 9,
+          "Skillset": 7,
+          "Mentee Preferences": 10,
+          "Evaluation Summary": "..."
+        },
+        "metadata": {
+          "Mentor_Profile": "...",
+          "Professor_Type": "Associate Professor",
+          "Rank": 2.0
+        }
+      }
+    ]
+  }
+]
 ```

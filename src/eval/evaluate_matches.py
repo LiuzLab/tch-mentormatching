@@ -21,13 +21,14 @@ instructions = (
     "Next, evaluate the pair given the following criteria and generate an overall match quality score between 1 and 10:\n"
     "1. Research Interest: Do both have the same research interest?\n"
     "2. Availability: Does the mentor have the capability for mentorship based on their position (higher for assistant professor, lower otherwise)?\n"
-    "3. Skillset: Does the mentee have a proper skillset relevant to the mentor's research?\n\n"
+    "3. Skillset: Does the mentee have a proper skillset relevant to the mentor's research?\n"
+    "4. Mentee Preferences: How well do the mentor's research interests align with the mentee's stated preferences?\n\n"
     "Provide a score (1-10) for each criterion and an overall match quality score (1-10).\n\n"
 )
 
 
 async def evaluate_pair_with_llm(
-    mentor_summary, mentee_summary, instructions=instructions
+    mentor_summary, mentee_summary, mentee_preferences, instructions=instructions
 ):
     """
     Evaluate the mentor-mentee pair using the LLM.
@@ -36,6 +37,7 @@ async def evaluate_pair_with_llm(
         client (OpenAI): OpenAI client instance.
         mentor_summary (str): Summary information for the mentor.
         mentee_summary (str): Summary information for the mentee.
+        mentee_preferences (list[str]): A list of the mentee's research interests.
         instructions (str): Evaluation instructions for the LLM.
 
     Returns:
@@ -44,9 +46,18 @@ async def evaluate_pair_with_llm(
     global client
     if client is None:
         client = get_async_openai_client()
+
+    # Add mentee preferences to the prompt
+    preferences_str = ", ".join(mentee_preferences)
+    updated_instructions = instructions.replace(
+        "3. Skillset: Does the mentee have a proper skillset relevant to the mentor's research?",
+        "3. Skillset: Does the mentee have a proper skillset relevant to the mentor's research?\n"
+        f"4. Mentee Preferences: How well do the mentor's research interests align with the mentee's stated preferences? (Preferences: {preferences_str})",
+    )
+
     # Append mentor and mentee summaries to the instructions
     combined_instructions = (
-        instructions
+        updated_instructions
         + f"\n\nMentor Summary:\n{mentor_summary}\n\nMentee Summary:\n{mentee_summary}"
     )
 
@@ -73,11 +84,12 @@ async def extract_eval_scores_with_llm(evaluation_text):
 
     # Prepare the prompt for GPT-4
     prompt = (
-        "## Task: Extract the four scores and provide a structured evaluation summary from this text. Follow this example formatting:\n\n"
+        "## Task: Extract the five scores and provide a structured evaluation summary from this text. Follow this example formatting:\n\n"
         "Output Format:\n"
         "Research Interest: <score>\n"
         "Availability: <score>\n"
         "Skillset: <score>\n"
+        "Mentee Preferences: <score>\n"
         "Overall Match: <score>\n\n"
         "Evaluation Summary:\n"
         "## Text:\n" + evaluation_text
@@ -90,6 +102,7 @@ async def extract_eval_scores_with_llm(evaluation_text):
     research_score = re.search(r"Research Interest: (\d+)", structured_evaluation)
     availability_score = re.search(r"Availability: (\d+)", structured_evaluation)
     skillset_score = re.search(r"Skillset: (\d+)", structured_evaluation)
+    preferences_score = re.search(r"Mentee Preferences: (\d+)", structured_evaluation)
     overall_score = re.search(r"Overall Match: (\d+(\.\d+)?)", structured_evaluation)
 
     # Convert to integers or floats, or None if not found
@@ -98,6 +111,7 @@ async def extract_eval_scores_with_llm(evaluation_text):
         int(availability_score.group(1)) if availability_score else None
     )
     skillset_score = int(skillset_score.group(1)) if skillset_score else None
+    preferences_score = int(preferences_score.group(1)) if preferences_score else None
     overall_score = float(overall_score.group(1)) if overall_score else None
 
     # Extract evaluation summary
@@ -113,5 +127,6 @@ async def extract_eval_scores_with_llm(evaluation_text):
         "Research Interest": research_score,
         "Availability": availability_score,
         "Skillset": skillset_score,
+        "Mentee Preferences": preferences_score,
         "Evaluation Summary": evaluation_summary,
     }
