@@ -21,11 +21,13 @@ def setup_test_data(tmp_path):
     (test_dir / "test.txt").write_text(long_text)
     return str(test_dir), long_text
 
+
 def test_extract_text_from_txt(setup_test_data):
     test_dir, long_text = setup_test_data
     test_file = os.path.join(test_dir, "test.txt")
     text = extract_text_from_txt(test_file)
     assert text == long_text
+
 
 def test_load_documents(setup_test_data):
     test_dir, long_text = setup_test_data

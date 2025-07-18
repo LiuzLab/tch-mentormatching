@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 
 _client = None
 
+
 def get_async_openai_client():
     """
     Returns a lazily-initialized, singleton instance of the AsyncOpenAI client.
@@ -16,7 +17,9 @@ def get_async_openai_client():
         if not api_key:
             # In a test environment, we might not have a key, which is fine
             # as the calls will be mocked.
-            print("Warning: OPENAI_API_KEY not found. Proceeding without it for testing.")
+            print(
+                "Warning: OPENAI_API_KEY not found. Proceeding without it for testing."
+            )
             # We can't initialize with a None key, so we'll use a dummy key
             # if we're in a test environment. This will be mocked anyway.
             api_key = "test-key-not-real"

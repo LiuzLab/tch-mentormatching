@@ -8,6 +8,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..",
 from src.config import paths
 from src.config.model import EMBEDDING_MODEL
 
+
 def test_root_dir():
     # This test assumes that the ROOT_DIR is correctly set to the project root
     # which is two levels up from the src/config directory.
@@ -43,15 +44,21 @@ def test_professor_types_path():
 
 
 def test_index_summary_with_metadata():
-    expected_path = os.path.join(paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_with_metadata")
+    expected_path = os.path.join(
+        paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_with_metadata"
+    )
     assert paths.INDEX_SUMMARY_WITH_METADATA == expected_path
 
 
 def test_index_summary_assistant_and_above():
-    expected_path = os.path.join(paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_assistant_and_above")
+    expected_path = os.path.join(
+        paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_assistant_and_above"
+    )
     assert paths.INDEX_SUMMARY_ASSISTANT_AND_ABOVE == expected_path
 
 
 def test_index_summary_above_assistant():
-    expected_path = os.path.join(paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_above_assistant")
+    expected_path = os.path.join(
+        paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_above_assistant"
+    )
     assert paths.INDEX_SUMMARY_ABOVE_ASSISTANT == expected_path

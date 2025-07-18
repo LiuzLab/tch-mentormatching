@@ -25,9 +25,9 @@ def build_index():
         summary_df = pd.read_csv(paths.PATH_TO_SUMMARY, sep="\t")
 
         # Add Professor_Type
-        summary_df["Professor_Type"] = summary_df["Mentor_Data"].apply(
-            find_professor_type
-        )
+        summary_df["Professor_Type"] = [
+            find_professor_type(text) for text in summary_df["Mentor_Data"].fillna("")
+        ]
 
         # Add Rank
         merged_df = rank_professors(summary_df)

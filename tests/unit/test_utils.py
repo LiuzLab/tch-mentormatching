@@ -25,7 +25,9 @@ def test_clean_summary():
 
 def test_find_professor_type():
     # Test cases now reflect the new regex which looks for "Title ... Institution"
-    mentor_data_professor = "Some text before Title Professor of Engineering Institution some text after"
+    mentor_data_professor = (
+        "Some text before Title Professor of Engineering Institution some text after"
+    )
     mentor_data_associate = "Title Associate Professor Institution"
     mentor_data_assistant = "Title Assistant Professor of Practice Institution"
     mentor_data_unknown = "This text has no title information."
