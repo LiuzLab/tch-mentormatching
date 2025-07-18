@@ -103,8 +103,7 @@ async def main(
         print(f"Successfully created raw mentor data CSV at: {PATH_TO_MENTOR_DATA}")
     else:
         print(f"Skipping Step 1: Using existing mentor data at {PATH_TO_MENTOR_DATA}")
-
-    df = pd.read_csv(PATH_TO_MENTOR_DATA, sep="\t")
+        df = pd.read_csv(PATH_TO_MENTOR_DATA, sep="\t")
 
     # --- Step 2: Summarize Mentor Data ---
     if "Mentor_Summary" not in df.columns:
