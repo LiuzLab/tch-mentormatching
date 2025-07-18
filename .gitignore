@@ -1,7 +1,6 @@
 input/
 output/
 data/
-db/
 notebooks/
 simulated_data/
 templates/
