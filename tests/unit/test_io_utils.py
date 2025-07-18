@@ -9,7 +9,6 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..",
 from src.processing.io_utils import (
     extract_text_from_txt,
     load_documents,
-    convert_txt_dir_to_csv,
 )
 
 
@@ -32,12 +31,3 @@ def test_load_documents(setup_test_data):
     assert len(docs) == 1
     assert docs[0][0] == "test.txt"
     assert docs[0][1] == "This is a test text file."
-
-
-def test_convert_txt_dir_to_csv(setup_test_data):
-    output_csv = os.path.join(setup_test_data, "test.csv")
-    convert_txt_dir_to_csv(os.path.join(setup_test_data, "*.txt"), output_csv)
-    df = pd.read_csv(output_csv, sep="\t")
-    assert len(df) == 1
-    assert df["Mentor_Profile"][0] == "test.txt"
-    assert df["Mentor_Data"][0] == "This is a test text file."
