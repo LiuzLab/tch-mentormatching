@@ -1,5 +1,6 @@
 import re
 import pandas as pd
+import os
 
 
 def extract_and_format_name(mentor_data):
@@ -16,30 +17,18 @@ def clean_summary(summary):
     return cleaned.strip()
 
 
-# use this to add a Professor_Type metadata column in the .csv file; allows us to search for
-# only professors of a specific typke
-import os
-from src.config.paths import PROFESSOR_TYPES_PATH
-
-
 def get_professor_titles():
-    """Reads a list of professor titles from the configuration file."""
-    if not os.path.exists(PROFESSOR_TYPES_PATH):
-        print(
-            f"Warning: Professor types file not found at {PROFESSOR_TYPES_PATH}. Using default list."
-        )
-        return [
-            "Chair",
-            "Distinguished Professor",
-            "Professor",
-            "Associate Professor",
-            "Assistant Professor",
-            "Adjunct Professor",
-            "Instructor",
-            "Clinical Professor",
-        ]
-    with open(PROFESSOR_TYPES_PATH, "r") as f:
-        return [line.strip() for line in f if line.strip()]
+    """Returns a hardcoded list of professor titles for ranking."""
+    return [
+        "Chair",
+        "Distinguished Professor",
+        "Professor",
+        "Associate Professor",
+        "Assistant Professor",
+        "Adjunct Professor",
+        "Instructor",
+        "Clinical Professor",
+    ]
 
 
 def find_professor_type(mentor_data):

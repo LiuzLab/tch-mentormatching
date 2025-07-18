@@ -16,49 +16,43 @@ from langchain_core.documents import Document
 
 @pytest.fixture
 def setup_test_environment(tmp_path):
-    """Creates a temporary directory structure and patches all file paths for sandboxing."""
+    """Creates a temporary directory structure and patches paths for sandboxing."""
     # Define and create temporary paths
     mentors_dir = tmp_path / "mentors"
     mentees_dir = tmp_path / "mentees"
-    output_dir = tmp_path / "output"
     data_dir = tmp_path / "data"
     db_dir = tmp_path / "db"
     index_dir = db_dir / "test-embedding-model"
-    for d in [mentors_dir, mentees_dir, output_dir, data_dir, db_dir, index_dir]:
+    for d in [mentors_dir, mentees_dir, data_dir, db_dir, index_dir]:
         d.mkdir(exist_ok=True)
 
     # Create dummy input files with text long enough to pass validation
-    mentor1_text = "PRIYA PATEL Title: Assistant Professor. Her research focuses on the application of machine learning to surgical outcomes and developing new AI-driven diagnostic tools. She has extensive experience in Python, TensorFlow, and clinical data analysis."
-    mentor2_text = "SOPHIA HALL Title: Professor. Her lab works on natural language processing and large language models. They are particularly interested in ethical AI and developing fair and unbiased algorithms. Looking for students with strong programming skills."
+    mentor1_text = "PRIYA PATEL, Title: Professor. Her research focuses on the application of machine learning to surgical outcomes and developing new AI-driven diagnostic tools. She has extensive experience in Python, TensorFlow, and clinical data analysis. Seeking motivated students."
+    mentor2_text = "SOPHIA HALL, Title: Assistant Professor. Her lab works on natural language processing and large language models. They are particularly interested in ethical AI and developing fair and unbiased algorithms. Looking for students with strong programming skills and a passion for NLP."
     (mentors_dir / "mentor1.txt").write_text(mentor1_text)
     (mentors_dir / "mentor2.txt").write_text(mentor2_text)
-    (mentees_dir / "mentee1.txt").write_text("A mentee interested in AI.")
 
-    # Patch all path variables
+    # Setup mentee directory
+    mentee1_dir = mentees_dir / "mentee1@test.com"
+    mentee1_dir.mkdir()
+    (mentee1_dir / "mentee1_cv.txt").write_text("A mentee interested in AI and NLP.")
+    (mentee1_dir / "mentee1.json").write_text(
+        json.dumps(
+            {
+                "first_name": "Test",
+                "last_name": "Mentee",
+                "research_Interest": ["AI", "NLP"],
+                "submissions_files": ["mentee1_cv.txt"],
+            }
+        )
+    )
+
+    # Patch path variables
     paths_to_patch = {
         "main.PATH_TO_MENTOR_DATA": str(data_dir / "mentor_data.csv"),
-        "main.PATH_TO_SUMMARY": str(data_dir / "mentor_data_with_summaries.csv"),
-        "main.PATH_TO_MENTOR_DATA_RANKED": str(
-            data_dir / "mentor_data_summaries_ranks.csv"
-        ),
-        "main.INDEX_SUMMARY_WITH_METADATA": str(
-            index_dir / "index_summary_with_metadata"
-        ),
-        "main.ROOT_DIR": str(tmp_path),
-        "src.retrieval.build_index.paths.PATH_TO_SUMMARY": str(
-            data_dir / "mentor_data_with_summaries.csv"
-        ),
-        "src.retrieval.build_index.paths.PATH_TO_MENTOR_DATA_RANKED": str(
-            data_dir / "mentor_data_summaries_ranks.csv"
-        ),
+        "main.INDEX_SUMMARY_WITH_METADATA": str(index_dir / "faiss_index"),
         "src.retrieval.build_index.paths.INDEX_SUMMARY_WITH_METADATA": str(
-            index_dir / "index_summary_with_metadata"
-        ),
-        "src.retrieval.build_index.paths.INDEX_SUMMARY_ASSISTANT_AND_ABOVE": str(
-            index_dir / "index_summary_assistant_and_above"
-        ),
-        "src.retrieval.build_index.paths.INDEX_SUMMARY_ABOVE_ASSISTANT": str(
-            index_dir / "index_summary_above_assistant"
+            index_dir / "faiss_index"
         ),
     }
     patchers = [patch(p, v) for p, v in paths_to_patch.items()]
@@ -68,7 +62,7 @@ def setup_test_environment(tmp_path):
         "mentors_dir": str(mentors_dir),
         "mentees_dir": str(mentees_dir),
         "data_dir": str(data_dir),
-        "db_dir": str(db_dir),
+        "mentor_data_path": paths_to_patch["main.PATH_TO_MENTOR_DATA"],
     }
     for p in patchers:
         p.stop()
@@ -80,23 +74,22 @@ def mock_openai_embeddings(*args, **kwargs):
 
 @pytest.mark.asyncio
 @patch("main.summarize_cvs", new_callable=AsyncMock)
-@patch("src.retrieval.build_index.find_professor_type", return_value="Professor")
-@patch("src.retrieval.build_index.OpenAIEmbeddings", mock_openai_embeddings)
 @patch("main.OpenAIEmbeddings", mock_openai_embeddings)
-async def test_data_pipeline_creates_files(
-    mock_find_professor_type, mock_summarize_cvs, setup_test_environment
+@patch("src.retrieval.build_index.OpenAIEmbeddings", mock_openai_embeddings)
+async def test_data_pipeline_creates_and_enriches_single_csv(
+    mock_summarize_cvs, setup_test_environment
 ):
-    """Tests that the data processing pipeline creates all the necessary intermediate files."""
+    """Tests that the pipeline creates and enriches a single mentor_data.csv."""
     env = setup_test_environment
 
-    async def mock_summarize_impl(input_path, output_path):
-        df = pd.read_csv(input_path)
+    # Mock the summarization to add the 'Mentor_Summary' column
+    async def mock_summarize_impl(df):
         df["Mentor_Summary"] = "Mocked Summary"
-        df.to_csv(output_path, index=False, sep="\t")
+        return df
 
     mock_summarize_cvs.side_effect = mock_summarize_impl
 
-    # Run the pipeline up to the point of matching
+    # Run the full pipeline
     await main_pipeline(
         mentee_dir=env["mentees_dir"],
         mentor_resume_dir=env["mentors_dir"],
@@ -104,14 +97,17 @@ async def test_data_pipeline_creates_files(
         overwrite=True,
     )
 
-    # Assert that the key data files were created in the temp directory
-    assert os.path.exists(os.path.join(env["data_dir"], "mentor_data.csv"))
-    assert os.path.exists(
-        os.path.join(env["data_dir"], "mentor_data_with_summaries.csv")
-    )
-    assert os.path.exists(
-        os.path.join(env["data_dir"], "mentor_data_summaries_ranks.csv")
-    )
+    # Assert that the single CSV was created and enriched
+    mentor_data_path = env["mentor_data_path"]
+    assert os.path.exists(mentor_data_path)
+
+    # Check the content of the final CSV
+    df = pd.read_csv(mentor_data_path, sep="\t")
+    assert "Mentor_Summary" in df.columns
+    assert "Professor_Type" in df.columns
+    assert "Rank" in df.columns
+    assert df.shape[0] == 2  # Two mentors were processed
+    assert pd.api.types.is_numeric_dtype(df["Rank"])  # Check for any numeric type
 
 
 @pytest.mark.asyncio
@@ -131,10 +127,9 @@ async def test_matching_logic(
 ):
     """Tests the matching and evaluation logic with a fake, in-memory FAISS index."""
     env = setup_test_environment
-    mentee_cv_path = os.path.join(env["mentees_dir"], "mentee1", "mentee1.txt")
-    os.makedirs(os.path.dirname(mentee_cv_path), exist_ok=True)
-    with open(mentee_cv_path, "w") as f:
-        f.write("A mentee interested in AI.")
+    mentee_cv_path = os.path.join(
+        env["mentees_dir"], "mentee1@test.com", "mentee1_cv.txt"
+    )
 
     # Create a fake in-memory vector store
     documents = [
@@ -162,5 +157,5 @@ async def test_matching_logic(
     assert result["mentee_name"] == "Test Mentee"
     assert len(result["matches"]) == 1
     assert result["matches"][0]["Criterion Scores"]["Overall Match Quality"] == 9.5
-    assert result["mentee_email"] == "mentee1"
+    assert result["mentee_email"] == "mentee1@test.com"
     assert result["mentee_preferences"] == mentee_preferences

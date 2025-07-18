@@ -19,3 +19,4 @@ build
 db/old/
 static/
 templates/
+data/old_20250718/

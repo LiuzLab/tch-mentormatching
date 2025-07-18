@@ -9,56 +9,36 @@ from src.config import paths
 from src.config.model import EMBEDDING_MODEL
 
 
-def test_root_dir():
-    # This test assumes that the ROOT_DIR is correctly set to the project root
-    # which is two levels up from the src/config directory.
+def test_root_dir_is_correct():
+    """Tests that ROOT_DIR is correctly pointing to the project's root."""
+    # This assumes the test is run from within the project structure.
+    # The project root is two levels up from tests/unit.
     expected_root_dir = os.path.abspath(
         os.path.join(os.path.dirname(__file__), "..", "..")
     )
     assert paths.ROOT_DIR == expected_root_dir
 
 
-def test_path_to_summary():
-    expected_path = os.path.join(paths.ROOT_DIR, "data/mentor_data_with_summaries.csv")
-    assert paths.PATH_TO_SUMMARY == expected_path
+def test_data_dir_is_correct():
+    """Tests that DATA_DIR is correctly constructed."""
+    expected_path = os.path.join(paths.ROOT_DIR, "data")
+    assert paths.DATA_DIR == expected_path
 
 
-def test_path_to_mentor_data():
-    expected_path = os.path.join(paths.ROOT_DIR, "data/mentor_data.csv")
+def test_path_to_mentor_data_is_correct():
+    """Tests that PATH_TO_MENTOR_DATA points to the correct file."""
+    expected_path = os.path.join(paths.DATA_DIR, "mentor_data.csv")
     assert paths.PATH_TO_MENTOR_DATA == expected_path
 
 
-def test_path_to_summary_data():
-    expected_path = os.path.join(paths.ROOT_DIR, "data/summary_data.csv")
-    assert paths.PATH_TO_SUMMARY_DATA == expected_path
+def test_index_dir_is_dynamic():
+    """Tests that the INDEX_DIR is correctly created based on the embedding model."""
+    expected_path = os.path.join(paths.DB_DIR, EMBEDDING_MODEL)
+    assert paths.INDEX_DIR == expected_path
+    assert os.path.exists(paths.INDEX_DIR)  # Should be created on import
 
 
-def test_path_to_mentor_data_ranked():
-    expected_path = os.path.join(paths.ROOT_DIR, "data/mentor_data_summaries_ranks.csv")
-    assert paths.PATH_TO_MENTOR_DATA_RANKED == expected_path
-
-
-def test_professor_types_path():
-    expected_path = os.path.join(paths.ROOT_DIR, "data/professor_types.txt")
-    assert paths.PROFESSOR_TYPES_PATH == expected_path
-
-
-def test_index_summary_with_metadata():
-    expected_path = os.path.join(
-        paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_with_metadata"
-    )
+def test_primary_faiss_index_path_is_correct():
+    """Tests that INDEX_SUMMARY_WITH_METADATA points to the correct file."""
+    expected_path = os.path.join(paths.INDEX_DIR, "faiss_index")
     assert paths.INDEX_SUMMARY_WITH_METADATA == expected_path
-
-
-def test_index_summary_assistant_and_above():
-    expected_path = os.path.join(
-        paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_assistant_and_above"
-    )
-    assert paths.INDEX_SUMMARY_ASSISTANT_AND_ABOVE == expected_path
-
-
-def test_index_summary_above_assistant():
-    expected_path = os.path.join(
-        paths.ROOT_DIR, "db", EMBEDDING_MODEL, "index_summary_above_assistant"
-    )
-    assert paths.INDEX_SUMMARY_ABOVE_ASSISTANT == expected_path
