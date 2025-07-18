@@ -131,7 +131,10 @@ async def test_matching_logic(
 ):
     """Tests the matching and evaluation logic with a fake, in-memory FAISS index."""
     env = setup_test_environment
-    mentee_cv_path = os.path.join(env["mentees_dir"], "mentee1.txt")
+    mentee_cv_path = os.path.join(env["mentees_dir"], "mentee1", "mentee1.txt")
+    os.makedirs(os.path.dirname(mentee_cv_path), exist_ok=True)
+    with open(mentee_cv_path, "w") as f:
+        f.write("A mentee interested in AI.")
 
     # Create a fake in-memory vector store
     documents = [
@@ -145,11 +148,19 @@ async def test_matching_logic(
     mock_evaluate_pair.return_value = "Mocked evaluation text"
     mock_extract_scores.return_value = {"Overall Match Quality": 9.5}
 
+    # Mock mentee data
+    mentee_preferences = ["AI", "Machine Learning"]
+    mentee_data = {"first_name": "Test", "last_name": "Mentee"}
+
     # Call the processing function directly
-    result = await process_single_mentee(mentee_cv_path, vector_store, k=1)
+    result = await process_single_mentee(
+        mentee_cv_path, vector_store, mentee_preferences, mentee_data, k=1
+    )
 
     # Assert the results
     assert result is not None
-    assert result["mentee_name"] == "mentee1"
+    assert result["mentee_name"] == "Test Mentee"
     assert len(result["matches"]) == 1
     assert result["matches"][0]["Criterion Scores"]["Overall Match Quality"] == 9.5
+    assert result["mentee_email"] == "mentee1"
+    assert result["mentee_preferences"] == mentee_preferences
