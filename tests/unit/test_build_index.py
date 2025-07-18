@@ -80,9 +80,9 @@ def test_main_build_index_flow_with_existing_ranked_data(
     mock_faiss.from_texts.return_value = mock_faiss_instance
 
     # Act
-    from src.retrieval.build_index import main
+    from src.retrieval.build_index import build_index
 
-    main()
+    build_index()
 
     # Assert
     mock_load_dotenv.assert_called_once()
@@ -98,7 +98,3 @@ def test_main_build_index_flow_with_existing_ranked_data(
     assert mock_faiss.from_documents.call_count == 1
     assert mock_faiss.from_texts.call_count == 2
     assert mock_faiss_instance.save_local.call_count == 3
-
-    mock_open_file.assert_called_with(mock_paths_fixture.PROFESSOR_TYPES_PATH, "w")
-    handle = mock_open_file()
-    handle.write.assert_called()

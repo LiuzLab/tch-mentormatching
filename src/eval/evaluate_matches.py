@@ -115,25 +115,3 @@ async def extract_eval_scores_with_llm(evaluation_text):
         "Skillset": skillset_score,
         "Evaluation Summary": evaluation_summary,
     }
-
-
-if __name__ == "__main__":
-    # Test usage
-    mentor_summary_example = "Mentor: Dr. John Doe, Associate Professor, Research Interests: Artificial Intelligence, Natural Language Processing, Dog Food Nutrition.."
-    mentee_summary_example = "Mentee: Jane Smith, Skills: Python, Data Analysis, Research Interests: Ancient Literature, Navajo Linguistics, Byzantine Pottery."
-
-    evaluation = evaluate_pair_with_llm(
-        client, mentor_summary_example, mentee_summary_example
-    )
-    print(evaluation)
-
-    (
-        overall_score,
-        research_score,
-        availability_score,
-        skillset_score,
-        evaluation_summary,
-    ) = extract_eval_scores_with_llm(evaluation)
-    scores = extract_eval_scores_with_llm(evaluation)
-    scores_df = pd.DataFrame([scores])
-    print(scores_df.head())

@@ -2,6 +2,7 @@ import argparse
 import asyncio
 import json
 import os
+import time
 
 import pandas as pd
 from langchain_community.vectorstores import FAISS
