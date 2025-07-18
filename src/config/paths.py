@@ -1,4 +1,5 @@
 import os
+from src.config.model import EMBEDDING_MODEL
 
 # Project root directory
 # Assumes the script is in src/config/paths.py
@@ -13,11 +14,12 @@ PATH_TO_MENTOR_DATA_RANKED = os.path.join(
 )
 PROFESSOR_TYPES_PATH = os.path.join(ROOT_DIR, "data/professor_types.txt")
 
-# FAISS index paths
-INDEX_SUMMARY_WITH_METADATA = os.path.join(ROOT_DIR, "db/index_summary_with_metadata")
+# FAISS index paths (dynamic based on embedding model)
+INDEX_DIR = os.path.join(ROOT_DIR, "db", EMBEDDING_MODEL)
+os.makedirs(INDEX_DIR, exist_ok=True)
+
+INDEX_SUMMARY_WITH_METADATA = os.path.join(INDEX_DIR, "index_summary_with_metadata")
 INDEX_SUMMARY_ASSISTANT_AND_ABOVE = os.path.join(
-    ROOT_DIR, "db/index_summary_assistant_and_above"
+    INDEX_DIR, "index_summary_assistant_and_above"
 )
-INDEX_SUMMARY_ABOVE_ASSISTANT = os.path.join(
-    ROOT_DIR, "db/index_summary_above_assistant"
-)
+INDEX_SUMMARY_ABOVE_ASSISTANT = os.path.join(INDEX_DIR, "index_summary_above_assistant")

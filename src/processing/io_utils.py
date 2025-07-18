@@ -4,7 +4,7 @@ import csv
 import json
 from PyPDF2 import PdfReader
 from docx import Document
-from .text_utils import truncate_text
+from .text_utils import truncate_text, clean_and_validate_text
 
 
 def extract_text_from_pdf(pdf_path: str) -> str:
@@ -26,41 +26,58 @@ def load_documents(
     directory: str, extensions: list[str] = None
 ) -> list[tuple[str, str]]:
     """
-    Load all documents in the directory matching given extensions.
+    Load all documents in the directory and its subdirectories matching given extensions.
     Returns list of (filename, text).
     """
     if extensions is None:
         extensions = [".pdf", ".docx", ".txt"]
     docs: list[tuple[str, str]] = []
     for ext in extensions:
-        pattern = os.path.join(directory, f"*{ext}")
-        for path in glob.glob(pattern):
-            if ext == ".pdf":
-                text = extract_text_from_pdf(path)
-            elif ext == ".docx":
-                text = extract_text_from_docx(path)
-            elif ext == ".txt":
-                text = extract_text_from_txt(path)
-            else:
+        pattern = os.path.join(directory, f"**/*{ext}")
+        for path in glob.glob(pattern, recursive=True):
+            raw_text = ""
+            try:
+                if ext == ".pdf":
+                    raw_text = extract_text_from_pdf(path)
+                elif ext == ".docx":
+                    raw_text = extract_text_from_docx(path)
+                elif ext == ".txt":
+                    raw_text = extract_text_from_txt(path)
+
+                cleaned_text = clean_and_validate_text(raw_text)
+
+                if not cleaned_text:
+                    print(
+                        f"Warning: Could not extract usable text from {os.path.basename(path)}. Skipping file."
+                    )
+                    continue
+            except Exception as e:
+                print(
+                    f"Error processing file {os.path.basename(path)}: {e}. Skipping file."
+                )
                 continue
-            docs.append((os.path.basename(path), text))
+
+            docs.append((os.path.basename(path), cleaned_text))
     return docs
 
 
-def convert_txt_dir_to_csv(input_pattern: str, output_csv: str) -> None:
+def load_document(file_path: str) -> str | None:
     """
-    Read all txt files matching glob input_pattern and write to CSV with columns [filename, content].
+    Load a single document from the given file path.
+    Returns the text content of the document.
     """
-    txt_files = glob.glob(input_pattern)
-    with open(output_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f, delimiter="\t")
-        writer.writerow(["Mentor_Profile", "Mentor_Data"])
-        for path in txt_files:
-            try:
-                content = extract_text_from_txt(path)
-                writer.writerow([os.path.basename(path), content])
-            except Exception as e:
-                print(f"Error processing {path}: {e}")
+    ext = os.path.splitext(file_path)[1]
+    raw_text = None
+    if ext == ".pdf":
+        raw_text = extract_text_from_pdf(file_path)
+    elif ext == ".docx":
+        raw_text = extract_text_from_docx(file_path)
+    elif ext == ".txt":
+        raw_text = extract_text_from_txt(file_path)
+
+    if raw_text:
+        return clean_and_validate_text(raw_text)
+    return None
 
 
 def prepare_batches(

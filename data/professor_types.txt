@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-Professor
-Associate Professor
-=======
-Associate Professor
 Distinguished Professor
-Assistant Professor
-Professor
-Adjunct Professor
 Chair
->>>>>>> 8d7a5f21dc55325a9d04fb1d9adc09365de55c7e
+Professor
+Associate Professor
+Assistant Professor
+Clinical Professor
+Adjunct Professor
+Instructor

@@ -1,3 +1,5 @@
+input/
+output/
 data/
 db/
 notebooks/
@@ -12,3 +14,7 @@ flagged/
 todo*
 src/deprecated/
 requirements.txt
+build
+*.egg-info/
+*.csv
+db/old/

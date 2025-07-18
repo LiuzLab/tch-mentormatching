@@ -1,58 +1,55 @@
-import os
+import argparse
 import asyncio
+import json
+import os
+import time
+
 import pandas as pd
-from src.processing.io_utils import load_documents
-from src.processing.batch import summarize_cvs
-from src.retrieval.build_index import main as build_index
-from src.retrieval.search_candidate_mentors import search_candidate_mentors
+from langchain_community.vectorstores import FAISS
+from langchain_openai import OpenAIEmbeddings
+
+from src.config.model import EMBEDDING_MODEL
+from src.config.paths import (
+    INDEX_SUMMARY_WITH_METADATA,
+    PATH_TO_MENTOR_DATA,
+    PATH_TO_MENTOR_DATA_RANKED,
+    PATH_TO_SUMMARY,
+    ROOT_DIR,
+)
 from src.eval.evaluate_matches import (
     evaluate_pair_with_llm,
     extract_eval_scores_with_llm,
 )
-from src.eval.html_table_generator import create_mentor_table_html_and_csv_data
-from src.config.paths import (
-    PATH_TO_MENTOR_DATA,
-    PATH_TO_SUMMARY,
-    INDEX_SUMMARY_WITH_METADATA,
-    ROOT_DIR,
-)
-from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
-import argparse
+from src.processing.batch import summarize_cvs
+from src.processing.io_utils import load_document, load_documents
+from src.retrieval.build_index import build_index
+from src.retrieval.search_candidate_mentors import search_candidate_mentors
 
 
-async def process_resumes_to_csv(input_dir, output_csv):
-    """
-    Processes resume files (PDF, DOCX, TXT) in a directory, extracts the text,
-    and saves it to a CSV file.
-    """
-    if not os.path.exists(input_dir):
-        raise FileNotFoundError(f"Input directory not found: {input_dir}")
+async def process_single_mentee(
+    mentee_cv_path, vector_store, mentee_preferences, mentee_data, k=10
+):
+    """Processes a single mentee CV, finds matches, and returns the results."""
+    mentee_cv_text = load_document(mentee_cv_path)
+    if not mentee_cv_text:
+        print(
+            f"Could not read or extract text from mentee CV: {mentee_cv_path}. Skipping."
+        )
+        return None
 
-    docs = load_documents(input_dir)
-    df = pd.DataFrame(docs, columns=["Mentor_Profile", "Mentor_Data"])
-    df.to_csv(output_csv, index=False)
-    print(f"Successfully created CSV file at: {output_csv}")
-
-
-async def process_single_mentee(mentee_cv_path, vector_store):
-    # Step 5: Read the mentee CV
-    with open(mentee_cv_path, "r") as f:
-        mentee_cv_text = f.read()
-
-    # Step 6: Search for candidate mentors
     search_results = await search_candidate_mentors(
-        k=10, mentee_cv_text=mentee_cv_text, vector_store=vector_store
+        k=k, mentee_cv_text=mentee_cv_text, vector_store=vector_store
     )
 
-    # Step 7: Evaluate the matches
     evaluated_matches = []
     for candidate, score in search_results["candidates"]:
         mentor_summary = candidate.page_content
         mentee_summary = search_results["mentee_cv_summary"]
 
         evaluation_text = await evaluate_pair_with_llm(
-            mentor_summary=mentor_summary, mentee_summary=mentee_summary
+            mentor_summary=mentor_summary,
+            mentee_summary=mentee_summary,
+            mentee_preferences=mentee_preferences,
         )
 
         scores = await extract_eval_scores_with_llm(evaluation_text=evaluation_text)
@@ -60,56 +57,150 @@ async def process_single_mentee(mentee_cv_path, vector_store):
         evaluated_matches.append(
             {
                 "Mentor Summary": mentor_summary,
-                "Similarity Score": score,
+                "Similarity Score": float(score),
                 "Criterion Scores": scores,
                 "metadata": candidate.metadata,
             }
         )
 
-    # Step 8: Generate the HTML table
-    html_table, csv_data = create_mentor_table_html_and_csv_data(evaluated_matches)
-
-    # Step 9: Save the HTML table and CSV data
-    mentee_name = os.path.splitext(os.path.basename(mentee_cv_path))[0]
-    output_dir = os.path.join(ROOT_DIR, "output")
-    os.makedirs(output_dir, exist_ok=True)
-
-    html_output_path = os.path.join(output_dir, f"{mentee_name}_matches.html")
-    csv_output_path = os.path.join(output_dir, f"{mentee_name}_matches.csv")
-
-    with open(html_output_path, "w") as f:
-        f.write(html_table)
-
-    pd.DataFrame(csv_data).to_csv(csv_output_path, index=False)
-
-    print(
-        f"Results for {mentee_name} saved to {html_output_path} and {csv_output_path}"
+    # Sort the matches based on the 'Overall Match Quality' score in descending order
+    evaluated_matches.sort(
+        key=lambda x: x["Criterion Scores"].get("Overall Match Quality", 0),
+        reverse=True,
     )
 
+    # Construct the full mentee result object
+    mentee_name = f"{mentee_data.get('first_name')} {mentee_data.get('last_name')}"
+    mentee_email = os.path.basename(os.path.dirname(mentee_cv_path))
 
-async def main(mentee_dir, mentor_resume_dir):
-    # Step 1: Process mentor resumes into a CSV file
-    await process_resumes_to_csv(mentor_resume_dir, PATH_TO_MENTOR_DATA)
+    return {
+        "mentee_name": mentee_name,
+        "mentee_email": mentee_email,
+        "mentee_preferences": mentee_preferences,
+        "matches": evaluated_matches,
+    }
 
-    # Step 2: Summarize the mentor data
-    await summarize_cvs(PATH_TO_MENTOR_DATA, PATH_TO_SUMMARY)
 
-    # Step 3: Build the FAISS index
-    build_index()
+async def main(mentee_dir, mentor_resume_dir, num_mentors, overwrite=False):
+    # --- Step 1: Process raw mentor resumes into a CSV file ---
+    if overwrite or not os.path.exists(PATH_TO_MENTOR_DATA):
+        print("Step 1: Processing mentor resumes into CSV...")
+        if not os.path.exists(mentor_resume_dir):
+            raise FileNotFoundError(
+                f"Mentor resume directory not found: {mentor_resume_dir}"
+            )
 
-    # Step 4: Load the FAISS index
-    embeddings = OpenAIEmbeddings()
+        docs = load_documents(mentor_resume_dir)
+        if not docs:
+            raise ValueError(
+                f"No documents (PDF, DOCX, TXT) found in {mentor_resume_dir}"
+            )
+
+        df = pd.DataFrame(docs, columns=["Mentor_Profile", "Mentor_Data"])
+        df.to_csv(PATH_TO_MENTOR_DATA, index=False)
+        print(f"Successfully created raw mentor data CSV at: {PATH_TO_MENTOR_DATA}")
+    else:
+        print(
+            f"Skipping Step 1: Raw mentor data CSV already exists at {PATH_TO_MENTOR_DATA}"
+        )
+
+    # --- Step 2: Summarize the mentor data ---
+    if overwrite or not os.path.exists(PATH_TO_SUMMARY):
+        print("\nStep 2: Summarizing mentor data...")
+        await summarize_cvs(PATH_TO_MENTOR_DATA, PATH_TO_SUMMARY)
+    else:
+        print(
+            f"Skipping Step 2: Summarized mentor data already exists at {PATH_TO_SUMMARY}"
+        )
+
+    # --- Step 3: Build the FAISS index and ranked data file ---
+    # This step runs if the index itself is missing, ensuring it's created
+    # even if the intermediate ranked data file exists.
+    if overwrite or not os.path.exists(INDEX_SUMMARY_WITH_METADATA):
+        print("\nStep 3: Building FAISS index and ranking mentors...")
+        build_index()
+    else:
+        print(
+            f"Skipping Step 3: FAISS index already exists at {INDEX_SUMMARY_WITH_METADATA}"
+        )
+
+    # --- Step 4: Load the FAISS index for matching ---
+    print("\nLoading FAISS index for matching...")
+    embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)
+    if not os.path.exists(INDEX_SUMMARY_WITH_METADATA):
+        raise FileNotFoundError(
+            f"FAISS index not found at {INDEX_SUMMARY_WITH_METADATA}. Please run the script with --overwrite."
+        )
+
     vector_store = FAISS.load_local(
         INDEX_SUMMARY_WITH_METADATA, embeddings, allow_dangerous_deserialization=True
     )
 
-    for mentee_filename in os.listdir(mentee_dir):
-        if mentee_filename.endswith((".pdf", ".docx", ".txt")):
-            mentee_cv_path = os.path.join(mentee_dir, mentee_filename)
-            await process_single_mentee(mentee_cv_path, vector_store)
+    # --- Step 5: Process each mentee ---
+    print("\nProcessing mentees...")
+    all_matches = []
+    for mentee_subdir in os.listdir(mentee_dir):
+        mentee_subdir_path = os.path.join(mentee_dir, mentee_subdir)
+        if os.path.isdir(mentee_subdir_path):
+            json_files = [
+                f for f in os.listdir(mentee_subdir_path) if f.lower().endswith(".json")
+            ]
+            if not json_files:
+                print(
+                    f"No JSON file found for mentee in {mentee_subdir_path}. Skipping."
+                )
+                continue
+
+            # Use the first JSON file found
+            mentee_json_path = os.path.join(mentee_subdir_path, json_files[0])
+
+            with open(mentee_json_path, "r") as f:
+                mentee_data = json.load(f)
+
+            mentee_preferences = mentee_data.get("research_Interest", [])
+            cv_filename_base = mentee_data.get("submissions_files", [None])[0]
+
+            if not cv_filename_base:
+                print(f"No CV filename found in {mentee_json_path}. Skipping.")
+                continue
+
+            # Find the actual CV file in the directory, ignoring the timestamp prefix
+            mentee_cv_path = None
+            for f in os.listdir(mentee_subdir_path):
+                if f.endswith(cv_filename_base):
+                    mentee_cv_path = os.path.join(mentee_subdir_path, f)
+                    break  # Use the first match
+
+            if not mentee_cv_path:
+                print(
+                    f"CV file '{cv_filename_base}' not found in {mentee_subdir_path}. Skipping."
+                )
+                continue
+
+            print(
+                f"Processing {mentee_data.get('first_name')} {mentee_data.get('last_name')}..."
+            )
+            mentee_results = await process_single_mentee(
+                mentee_cv_path=mentee_cv_path,
+                vector_store=vector_store,
+                mentee_preferences=mentee_preferences,
+                mentee_data=mentee_data,
+                k=num_mentors,
+            )
+            if mentee_results:
+                all_matches.append(mentee_results)
+
+    # --- Step 6: Save the final JSON output ---
+    output_dir = os.path.join(ROOT_DIR, "output")
+    os.makedirs(output_dir, exist_ok=True)
+    json_output_path = os.path.join(output_dir, "best_matches.json")
+
+    with open(json_output_path, "w") as f:
+        json.dump(all_matches, f, indent=4)
+
+    print(f"\nAll mentee matches saved to {json_output_path}")
 
 
-# Only after defining everything within the Blocks context, launch the app
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Mentor Matching Pipeline")
     parser.add_argument(
@@ -120,6 +211,17 @@ if __name__ == "__main__":
         required=True,
         help="Path to the directory containing mentor resumes.",
     )
+    parser.add_argument(
+        "--num_mentors",
+        type=int,
+        required=True,
+        help="Number of desired matches (length of table)",
+    )
+    parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="Overwrite existing cached files and re-run the full data processing pipeline.",
+    )
     args = parser.parse_args()
 
-    asyncio.run(main(args.mentees, args.mentors))
+    asyncio.run(main(args.mentees, args.mentors, args.num_mentors, args.overwrite))

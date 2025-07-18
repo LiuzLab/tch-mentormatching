@@ -18,34 +18,48 @@ def clean_summary(summary):
 
 # use this to add a Professor_Type metadata column in the .csv file; allows us to search for
 # only professors of a specific typke
+import os
+from src.config.paths import PROFESSOR_TYPES_PATH
+
+
+def get_professor_titles():
+    """Reads a list of professor titles from the configuration file."""
+    if not os.path.exists(PROFESSOR_TYPES_PATH):
+        print(
+            f"Warning: Professor types file not found at {PROFESSOR_TYPES_PATH}. Using default list."
+        )
+        return [
+            "Chair",
+            "Distinguished Professor",
+            "Professor",
+            "Associate Professor",
+            "Assistant Professor",
+            "Adjunct Professor",
+            "Instructor",
+            "Clinical Professor",
+        ]
+    with open(PROFESSOR_TYPES_PATH, "r") as f:
+        return [line.strip() for line in f if line.strip()]
+
+
 def find_professor_type(mentor_data):
     """
-    input: pandas dataframe (y['Mentor_Data'])
-    output: adjusted column (y['Professor_Type'])
-    usage: y['Professor_Type'] = y['Mentor_Data'].apply(find_professor_type)
+    Finds the professor type from the mentor data text based on a configurable list of titles.
+    It uses a more robust regex to find the title in the cleaned text.
     """
-    # Extract the title using regex
-    title_match = re.search(r"Title\|(.*?)(?:\n|$)", mentor_data)
+    # Regex to find the title, assuming it follows "Title" and precedes "Institution"
+    title_match = re.search(r"Title\s+(.*?)\s+Institution", mentor_data, re.IGNORECASE)
+
     if title_match:
-        title = title_match.group(1).strip().lower()
-        if "distinguished" in title:
-            return "Distinguished Professor"
-        elif "associate professor" in title:
-            return "Associate Professor"
-        elif "assistant professor" in title:
-            return "Assistant Professor"
-        elif "adjunct professor" in title:
-            return "Adjunct Professor"
-        elif "professor" in title:
-            return "Professor"
-        elif "instructor" in title:
-            return "Instructor"
-        elif "clinical" in title:
-            return "Clinical Professor"
-        else:
-            return (
-                title.capitalize()
-            )  # Return the title as-is if it doesn't match known categories
+        title_text = title_match.group(1).strip().lower()
+        professor_titles = get_professor_titles()
+
+        # Sort titles by length (descending) to match more specific titles first
+        # (e.g., "Associate Professor" before "Professor")
+        for title in sorted(professor_titles, key=len, reverse=True):
+            if title.lower() in title_text:
+                return title
+
     return "Unknown"
 
 
