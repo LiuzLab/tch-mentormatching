@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 import re
-from ..config.client import get_async_openai_client
-from ..generate_text import generate_text_async
+from src.config.client import get_async_openai_client
+from src.generate_text import generate_text_async
 
 client = None
 

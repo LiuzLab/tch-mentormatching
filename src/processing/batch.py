@@ -6,6 +6,7 @@ import uuid
 import aiofiles
 import pandas as pd
 import tiktoken
+from src.config.paths import ROOT_DIR
 from src.config.client import get_async_openai_client
 from src.config.prompts import mentor_instructions, mentee_instructions
 from src.config.model import LLM_MODEL
@@ -126,15 +127,21 @@ async def process_batch_results(file_path):
 
 
 async def summarize_cvs(
-    input_file_path, output_file_path, role="mentor", column_name="Mentor_Data"
+    input_file_path,
+    output_file_path,
+    role="mentor",
+    column_name="Mentor_Data",
 ):
+    """
+    Summarizes CVs from an input CSV file and saves them to an output file.
+    """
     client = get_async_openai_client()
     data = pd.read_csv(input_file_path)
 
     instructions = mentor_instructions if role == "mentor" else mentee_instructions
     batch_input = prepare_batch_input(data, instructions, column_name)
 
-    batch_input_file_path = f"../data/{role}_batch_input.jsonl"
+    batch_input_file_path = os.path.join(ROOT_DIR, "data", f"{role}_batch_input.jsonl")
     save_batch_input(batch_input, batch_input_file_path)
 
     batch = await submit_batch_job(client, batch_input_file_path)
@@ -149,14 +156,21 @@ async def summarize_cvs(
             "Batch job did not produce an output file ID. Check the batch job status and input data."
         )
 
-    batch_output_file_path = f"../data/{role}_batch_output.jsonl"
+    batch_output_file_path = os.path.join(
+        ROOT_DIR, "data", f"{role}_batch_output.jsonl"
+    )
     await download_batch_results(client, status, batch_output_file_path)
 
     summaries = await process_batch_results(batch_output_file_path)
 
-    data[f"{role.capitalize()}_Summary"] = summaries
+    # Create a new DataFrame for summaries
+    summary_df = pd.DataFrame(summaries, columns=[f"{role.capitalize()}_Summary"])
 
-    data.to_csv(output_file_path, sep="\t", index=False)
+    # Merge the original data with the summaries
+    # This assumes the summaries are in the same order as the original data
+    merged_df = pd.concat([data, summary_df], axis=1)
+
+    merged_df.to_csv(output_file_path, sep="\t", index=False)
     print(f"Summarized CVs saved to {output_file_path}")
 
 

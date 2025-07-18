@@ -6,49 +6,35 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 from src.utils import find_professor_type, rank_professors
 from src.config import paths
-from src.config.model import LLM_MODEL
+from src.config.model import LLM_MODEL, EMBEDDING_MODEL
 
 
-def main(df=None):
+def build_index():
+    """
+    Builds and saves FAISS vector stores from mentor data.
+    If the ranked data file already exists, it uses it. Otherwise, it creates it first.
+    """
     load_dotenv()
     llm = ChatOpenAI(model=LLM_MODEL)
 
-    if df is None:
-        # Check if ranked data exists
-        if os.path.exists(paths.PATH_TO_MENTOR_DATA_RANKED):
-            print("Loading existing ranked data...")
-            merged_df = pd.read_csv(paths.PATH_TO_MENTOR_DATA_RANKED, sep="\t")
-        else:
-            print("Ranked data not found. Creating from existing or new data...")
-            # Read the data
-            summary_df = pd.read_csv(paths.PATH_TO_SUMMARY, sep="\t")
-            mentor_data_df = pd.read_csv(paths.PATH_TO_MENTOR_DATA)
-
-            # Merge dataframes on Mentor_Data column
-            merged_df = summary_df.merge(mentor_data_df, on="Mentor_Data", how="left")
-
-            # Add Professor_Type
-            merged_df["Professor_Type"] = merged_df["Mentor_Data"].apply(
-                find_professor_type
-            )
-
-            # Add Rank
-            merged_df = rank_professors(merged_df)
-
-            print(merged_df.head())
-
-            # Save the ranked data
-            merged_df.to_csv(paths.PATH_TO_MENTOR_DATA_RANKED, sep="\t", index=False)
-            print(f"Saved ranked mentor data to {paths.PATH_TO_MENTOR_DATA_RANKED}")
+    if os.path.exists(paths.PATH_TO_MENTOR_DATA_RANKED):
+        print(f"Loading existing ranked data from {paths.PATH_TO_MENTOR_DATA_RANKED}")
+        merged_df = pd.read_csv(paths.PATH_TO_MENTOR_DATA_RANKED, sep="\t")
     else:
-        merged_df = df
+        print("Ranked data not found. Creating it from summaries...")
+        summary_df = pd.read_csv(paths.PATH_TO_SUMMARY, sep="\t")
 
-    # Save the unique Professor Types to a file
-    unique_professor_types = merged_df["Professor_Type"].unique()
-    with open(paths.PROFESSOR_TYPES_PATH, "w") as f:
-        for pt in unique_professor_types:
-            f.write(pt + "\n")
-    print(f"Saved unique Professor Types to {paths.PROFESSOR_TYPES_PATH}")
+        # Add Professor_Type
+        summary_df["Professor_Type"] = summary_df["Mentor_Data"].apply(
+            find_professor_type
+        )
+
+        # Add Rank
+        merged_df = rank_professors(summary_df)
+
+        # Save the ranked data
+        merged_df.to_csv(paths.PATH_TO_MENTOR_DATA_RANKED, sep="\t", index=False)
+        print(f"Saved ranked mentor data to {paths.PATH_TO_MENTOR_DATA_RANKED}")
 
     # Ensure we have only the required columns
     merged_df = merged_df[
@@ -93,7 +79,7 @@ def main(df=None):
         docs_with_metadata.append(doc)
 
     # Create vector stores
-    embeddings = OpenAIEmbeddings()
+    embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)
     vector_store_docs_with_metadata = FAISS.from_documents(
         documents=docs_with_metadata, embedding=embeddings
     )
@@ -127,4 +113,4 @@ def main(df=None):
 
 
 if __name__ == "__main__":
-    main()
+    build_index()
