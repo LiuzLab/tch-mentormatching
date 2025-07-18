@@ -79,8 +79,6 @@ async def submit_and_wait_for_batch(client, batch_input):
     return status
 
 
-
-
 async def get_batch_results(client, status):
     """Downloads and processes batch results."""
     if status.status != "completed" or not status.output_file_id:
