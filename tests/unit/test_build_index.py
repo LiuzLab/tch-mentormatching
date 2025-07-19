@@ -1,100 +1,100 @@
 import pytest
-import os
 import pandas as pd
-from unittest.mock import MagicMock, patch, mock_open
+from unittest.mock import MagicMock, patch
 import sys
+import os
 
 # Add the project root to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
+from src.retrieval.build_index import build_index
+from langchain_core.documents import Document
 
-# Mock the paths module before importing build_index
+
 @pytest.fixture
-def mock_paths_fixture(tmp_path):
-    mock_root_dir = tmp_path
-    mock_data_dir = mock_root_dir / "data"
-    mock_db_dir = mock_root_dir / "db"
-    mock_data_dir.mkdir()
-    mock_db_dir.mkdir()
-
-    paths_dict = {
-        "ROOT_DIR": str(mock_root_dir),
-        "PATH_TO_SUMMARY": str(mock_data_dir / "mentor_data_with_summaries.csv"),
-        "PATH_TO_MENTOR_DATA": str(mock_data_dir / "mentor_data.csv"),
-        "PATH_TO_MENTOR_DATA_RANKED": str(
-            mock_data_dir / "mentor_data_summaries_ranks.csv"
-        ),
-        "PROFESSOR_TYPES_PATH": str(mock_data_dir / "professor_types.txt"),
-        "INDEX_SUMMARY_WITH_METADATA": str(mock_db_dir / "index_summary_with_metadata"),
-        "INDEX_SUMMARY_ASSISTANT_AND_ABOVE": str(
-            mock_db_dir / "index_summary_assistant_and_above"
-        ),
-        "INDEX_SUMMARY_ABOVE_ASSISTANT": str(
-            mock_db_dir / "index_summary_above_assistant"
-        ),
-    }
-
-    with patch(
-        "src.retrieval.build_index.paths", MagicMock(**paths_dict)
-    ) as mock_paths:
-        yield mock_paths
+def mock_paths(tmp_path):
+    """Fixture to mock the paths used in the build_index module."""
+    with patch("src.retrieval.build_index.paths") as mock_paths_patch:
+        mock_paths_patch.INDEX_SUMMARY_WITH_METADATA = str(tmp_path / "test_index")
+        yield mock_paths_patch
 
 
-@patch("src.retrieval.build_index.load_dotenv")
-@patch("src.retrieval.build_index.ChatOpenAI")
-@patch("src.retrieval.build_index.OpenAIEmbeddings")
-@patch("src.retrieval.build_index.FAISS")
-@patch("src.retrieval.build_index.pd.read_csv")
-@patch("src.retrieval.build_index.os.path.exists")
-@patch("builtins.open", new_callable=mock_open)
-def test_main_build_index_flow_with_existing_ranked_data(
-    mock_open_file,
-    mock_os_path_exists,
-    mock_read_csv,
-    mock_faiss,
-    mock_embeddings,
-    mock_chat_openai,
-    mock_load_dotenv,
-    mock_paths_fixture,
-):
-    # Arrange
-    mock_os_path_exists.return_value = True
-
-    ranked_df = pd.DataFrame(
+@pytest.fixture
+def sample_mentor_df():
+    """Fixture to create a sample mentor DataFrame for testing."""
+    return pd.DataFrame(
         {
-            "Mentor_Data": ["mentor1", "mentor2", "mentor3"],
-            "Mentor_Profile": ["profile1", "profile2", "profile3"],
-            "Mentor_Summary": ["summary1", "summary2", "summary3"],
-            "Professor_Type": [
-                "Professor",
-                "Associate Professor",
-                "Assistant Professor",
+            "Mentor_Summary": [
+                "Summary of a great mentor.",
+                "Summary of another mentor.",
             ],
-            "Rank": [3, 2, 1],
+            "Mentor_Profile": ["profile1.pdf", "profile2.pdf"],
+            "Professor_Type": ["Professor", "Assistant Professor"],
+            "Rank": [3.0, 1.0],
         }
     )
-    mock_read_csv.return_value = ranked_df
 
-    mock_faiss_instance = MagicMock()
-    mock_faiss.from_documents.return_value = mock_faiss_instance
-    mock_faiss.from_texts.return_value = mock_faiss_instance
+
+@patch("src.retrieval.build_index.FAISS")
+@patch("src.retrieval.build_index.OpenAIEmbeddings")
+def test_build_index_creates_and_saves_vector_store(
+    mock_openai_embeddings, mock_faiss, sample_mentor_df, mock_paths
+):
+    """
+    Tests that build_index correctly processes a DataFrame, creates Documents,
+    initializes an embedding model, and creates and saves a FAISS vector store.
+    """
+    # Arrange
+    mock_embedding_instance = MagicMock()
+    mock_openai_embeddings.return_value = mock_embedding_instance
+
+    mock_vector_store_instance = MagicMock()
+    mock_faiss.from_documents.return_value = mock_vector_store_instance
 
     # Act
-    from src.retrieval.build_index import build_index
-
-    build_index()
+    build_index(sample_mentor_df)
 
     # Assert
-    mock_load_dotenv.assert_called_once()
-    mock_chat_openai.assert_called_once()
-    mock_os_path_exists.assert_called_once_with(
-        mock_paths_fixture.PATH_TO_MENTOR_DATA_RANKED
-    )
-    mock_read_csv.assert_called_once_with(
-        mock_paths_fixture.PATH_TO_MENTOR_DATA_RANKED, sep="\t"
+    # 1. Check if OpenAIEmbeddings was initialized correctly
+    mock_openai_embeddings.assert_called_once()
+
+    # 2. Check if FAISS.from_documents was called
+    mock_faiss.from_documents.assert_called_once()
+
+    # 3. Verify the structure of the documents passed to FAISS
+    call_args = mock_faiss.from_documents.call_args
+    passed_documents = call_args.kwargs["documents"]
+    assert len(passed_documents) == 2
+    assert isinstance(passed_documents[0], Document)
+    assert passed_documents[0].page_content == "Summary of a great mentor."
+    assert passed_documents[0].metadata["Rank"] == 3.0
+    assert passed_documents[1].page_content == "Summary of another mentor."
+    assert passed_documents[1].metadata["Professor_Type"] == "Assistant Professor"
+
+    # 4. Verify the correct embedding model was used
+    assert call_args.kwargs["embedding"] == mock_embedding_instance
+
+    # 5. Check if the vector store was saved to the correct path
+    mock_vector_store_instance.save_local.assert_called_once_with(
+        mock_paths.INDEX_SUMMARY_WITH_METADATA
     )
 
-    mock_embeddings.assert_called_once()
-    assert mock_faiss.from_documents.call_count == 1
-    assert mock_faiss.from_texts.call_count == 2
-    assert mock_faiss_instance.save_local.call_count == 3
+
+def test_build_index_raises_error_on_missing_columns():
+    """
+    Tests that build_index raises a ValueError if the input DataFrame
+    is missing any of the required columns.
+    """
+    # Arrange
+    incomplete_df = pd.DataFrame(
+        {
+            "Mentor_Summary": ["A summary"],
+            # Missing "Mentor_Profile", "Professor_Type", "Rank"
+        }
+    )
+
+    # Act & Assert
+    with pytest.raises(ValueError) as excinfo:
+        build_index(incomplete_df)
+
+    assert "must contain the following columns" in str(excinfo.value)

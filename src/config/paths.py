@@ -2,24 +2,21 @@ import os
 from src.config.model import EMBEDDING_MODEL
 
 # Project root directory
-# Assumes the script is in src/config/paths.py
+# Assumes this file is in src/config/
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-# File paths
-PATH_TO_SUMMARY = os.path.join(ROOT_DIR, "data/mentor_data_with_summaries.csv")
-PATH_TO_MENTOR_DATA = os.path.join(ROOT_DIR, "data/mentor_data.csv")
-PATH_TO_SUMMARY_DATA = os.path.join(ROOT_DIR, "data/summary_data.csv")
-PATH_TO_MENTOR_DATA_RANKED = os.path.join(
-    ROOT_DIR, "data/mentor_data_summaries_ranks.csv"
-)
-PROFESSOR_TYPES_PATH = os.path.join(ROOT_DIR, "data/professor_types.txt")
+# --- Primary Data Paths ---
+DATA_DIR = os.path.join(ROOT_DIR, "data")
+DB_DIR = os.path.join(ROOT_DIR, "db")
 
-# FAISS index paths (dynamic based on embedding model)
-INDEX_DIR = os.path.join(ROOT_DIR, "db", EMBEDDING_MODEL)
+# The single, canonical CSV file for all mentor data.
+# This file is progressively enriched by the pipeline.
+PATH_TO_MENTOR_DATA = os.path.join(DATA_DIR, "mentor_data.csv")
+
+# --- FAISS Index Path ---
+# The path is dynamic based on the embedding model to avoid mismatches.
+INDEX_DIR = os.path.join(DB_DIR, EMBEDDING_MODEL)
 os.makedirs(INDEX_DIR, exist_ok=True)
 
-INDEX_SUMMARY_WITH_METADATA = os.path.join(INDEX_DIR, "index_summary_with_metadata")
-INDEX_SUMMARY_ASSISTANT_AND_ABOVE = os.path.join(
-    INDEX_DIR, "index_summary_assistant_and_above"
-)
-INDEX_SUMMARY_ABOVE_ASSISTANT = os.path.join(INDEX_DIR, "index_summary_above_assistant")
+# The primary FAISS index used for matching.
+INDEX_SUMMARY_WITH_METADATA = os.path.join(INDEX_DIR, "faiss_index")

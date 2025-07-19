@@ -1,7 +1,6 @@
 input/
 output/
 data/
-db/
 notebooks/
 simulated_data/
 templates/
@@ -18,3 +17,6 @@ build
 *.egg-info/
 *.csv
 db/old/
+static/
+templates/
+data/old_20250718/
